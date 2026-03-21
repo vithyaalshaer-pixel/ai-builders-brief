@@ -1,6 +1,6 @@
 {
   "date": "2026-03-21",
-  "generatedAt": "2026-03-21T12:03:02.036Z",
+  "generatedAt": "2026-03-21T12:11:52.066Z",
   "timezone": "Asia/Shanghai",
   "title": "AI Builders Daily | 2026-03-21",
   "summary": "今天最值得看的是 Guillermo Rauch 的动态，随后补充 0 条播客深读。",
@@ -27,7 +27,7 @@
       "whyItMatters": "这条动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
       "sourceUrl": "https://x.com/rauchg/status/2035076089861857500",
       "publishedAt": "2026-03-20T19:28:44.000Z",
-      "score": 192.16,
+      "score": 192.01,
       "matchedFocusAreas": [
         "Coding Agents",
         "Product Ships"
@@ -43,7 +43,7 @@
       "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
       "sourceUrl": "https://x.com/claudeai/status/2035025492617961704",
       "publishedAt": "2026-03-20T16:07:41.000Z",
-      "score": 153.83,
+      "score": 153.68,
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
@@ -56,7 +56,7 @@
       "whyItMatters": "Andrej Karpathy 仍然是高信号来源，值得保留在每日观察列表里。",
       "sourceUrl": "https://x.com/karpathy/status/2035158351357911527",
       "publishedAt": "2026-03-21T00:55:37.000Z",
-      "score": 153.79,
+      "score": 153.64,
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
@@ -69,7 +69,7 @@
       "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
       "sourceUrl": "https://x.com/rauchg/status/2035231071869313075",
       "publishedAt": "2026-03-21T05:44:34.000Z",
-      "score": 144.97,
+      "score": 144.82,
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
@@ -82,7 +82,7 @@
       "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
       "sourceUrl": "https://x.com/claudeai/status/2035025494677365113",
       "publishedAt": "2026-03-20T16:07:41.000Z",
-      "score": 136.01,
+      "score": 135.86,
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
