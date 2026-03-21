@@ -1,0 +1,56 @@
+name: Daily Digest
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate digest with retry
+        shell: bash
+        run: |
+          set -euo pipefail
+          max_attempts=3
+          for attempt in $(seq 1 "$max_attempts"); do
+            echo "Generate attempt $attempt/$max_attempts"
+            if npm run generate; then
+              exit 0
+            fi
+            if [ "$attempt" -eq "$max_attempts" ]; then
+              echo "Digest generation failed after $max_attempts attempts"
+              exit 1
+            fi
+            sleep $((attempt * 15))
+          done
+
+      - name: Commit generated output
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/digests public/briefs; then
+            echo "No digest changes to commit"
+            exit 0
+          fi
+          git add data/digests public/briefs
+          git commit -m "chore: update AI builders digest"
+          git push

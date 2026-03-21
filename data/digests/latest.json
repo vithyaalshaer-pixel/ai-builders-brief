@@ -1,0 +1,113 @@
+{
+  "date": "2026-03-21",
+  "generatedAt": "2026-03-21T12:03:02.036Z",
+  "timezone": "Asia/Shanghai",
+  "title": "AI Builders Daily | 2026-03-21",
+  "summary": "今天最值得看的是 Guillermo Rauch 的动态，随后补充 0 条播客深读。",
+  "intro": "已从 32 条候选内容中，筛出最值得你早上 8 点看的 builder 更新。",
+  "ownerName": "Zara",
+  "briefName": "AI Builders Daily",
+  "focusAreas": [
+    {
+      "slug": "coding-agents",
+      "label": "Coding Agents"
+    },
+    {
+      "slug": "product-ships",
+      "label": "Product Ships"
+    }
+  ],
+  "tweetHighlights": [
+    {
+      "id": "2035076089861857500",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "Next.js 16.2 is an agent-native framework.",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Next.js 16.2 is an agent-native framework. 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 + bundled docs make your agent an expert in the exact ve…",
+      "whyItMatters": "这条动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "sourceUrl": "https://x.com/rauchg/status/2035076089861857500",
+      "publishedAt": "2026-03-20T19:28:44.000Z",
+      "score": 192.16,
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2035025492617961704",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "Projects are now available in Cowork.",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Projects are now available in Cowork. Keep your tasks and context in one place, focused on one area of work. Files an…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "sourceUrl": "https://x.com/claudeai/status/2035025492617961704",
+      "publishedAt": "2026-03-20T16:07:41.000Z",
+      "score": 153.83,
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2035158351357911527",
+      "type": "tweet",
+      "builder": "Andrej Karpathy",
+      "title": "Thank you Sarah, my pleasure to come on the pod! And happy to do some more Q&am…",
+      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验：Thank you Sarah, my pleasure to come on the pod! And happy to do some more Q&amp;A in the replies. https://t.co/uIeUt…",
+      "whyItMatters": "Andrej Karpathy 仍然是高信号来源，值得保留在每日观察列表里。",
+      "sourceUrl": "https://x.com/karpathy/status/2035158351357911527",
+      "publishedAt": "2026-03-21T00:55:37.000Z",
+      "score": 153.79,
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2035231071869313075",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "Understand the universe https://t.co/s5sKMU1nRJ",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Understand the universe https://t.co/s5sKMU1nRJ",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "sourceUrl": "https://x.com/rauchg/status/2035231071869313075",
+      "publishedAt": "2026-03-21T05:44:34.000Z",
+      "score": 144.97,
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2035025494677365113",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "Update or download the Claude desktop app to give it a try: https://t.co/kWnDq1…",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Update or download the Claude desktop app to give it a try: https://t.co/kWnDq1psWQ",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "sourceUrl": "https://x.com/claudeai/status/2035025494677365113",
+      "publishedAt": "2026-03-20T16:07:41.000Z",
+      "score": 136.01,
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2034893748916953450",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "this talk was 2.5 years ago",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：this talk was 2.5 years ago i might never top my 2023 record in terms of prediction value per item of what i wrote/sp…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "sourceUrl": "https://x.com/swyx/status/2034893748916953450",
+      "publishedAt": "2026-03-20T07:24:10.000Z",
+      "score": 124.18,
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    }
+  ],
+  "podcastHighlights": [],
+  "stats": {
+    "upstreamGeneratedAt": [
+      "2026-03-21T06:40:00.981Z",
+      "2026-03-21T06:40:22.879Z"
+    ],
+    "totalCandidates": 32,
+    "selectedTweets": 6,
+    "selectedPodcasts": 0
+  }
+}

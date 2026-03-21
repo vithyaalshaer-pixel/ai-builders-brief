@@ -1,0 +1,28 @@
+{
+  "briefName": "AI Builders Daily",
+  "ownerName": "Zara",
+  "language": "zh-CN",
+  "timezone": "Asia/Shanghai",
+  "focusAreas": [
+    {
+      "slug": "coding-agents",
+      "label": "Coding Agents",
+      "keywords": ["agent", "coding", "codegen", "developer tools", "IDE", "workflow"]
+    },
+    {
+      "slug": "foundation-models",
+      "label": "Foundation Models",
+      "keywords": ["model", "llm", "reasoning", "inference", "training", "eval"]
+    },
+    {
+      "slug": "product-ships",
+      "label": "Product Ships",
+      "keywords": ["launch", "shipping", "release", "feature", "product", "deploy"]
+    }
+  ],
+  "favoriteBuilders": ["Andrej Karpathy", "Swyx", "Josh Woodward", "Guillermo Rauch", "Sam Altman", "Claude"],
+  "mutedBuilders": [],
+  "mutedKeywords": ["politics", "sports", "movie review"],
+  "maxTweetHighlights": 6,
+  "maxPodcastHighlights": 3
+}
