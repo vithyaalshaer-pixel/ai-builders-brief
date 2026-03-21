@@ -8,12 +8,14 @@ import {
   upsertArchive,
   writeOutputs
 } from "../lib/digest/generate";
+import { createEnvironmentTranslator } from "../lib/digest/translate";
 
 async function main(): Promise<void> {
   const rootDir = process.cwd();
   const profile = loadProfile();
+  const translator = createEnvironmentTranslator();
   const { xFeed, podcastFeed } = await fetchFeeds();
-  const result = buildDigestFromFeeds({ profile, xFeed, podcastFeed });
+  const result = await buildDigestFromFeeds({ profile, xFeed, podcastFeed, translator });
   const archivePath = path.join(rootDir, "data/digests/archive.json");
   const archive = upsertArchive(await readArchive(archivePath), result.archiveEntry);
 

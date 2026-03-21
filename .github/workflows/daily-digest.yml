@@ -11,6 +11,10 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      OPENAI_TRANSLATION_MODEL: ${{ secrets.OPENAI_TRANSLATION_MODEL }}
+      GOOGLE_TRANSLATE_API_KEY: ${{ secrets.GOOGLE_TRANSLATE_API_KEY }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -23,6 +27,17 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Validate translation secrets
+        shell: bash
+        run: |
+          set -euo pipefail
+          for key in OPENAI_API_KEY OPENAI_TRANSLATION_MODEL GOOGLE_TRANSLATE_API_KEY; do
+            if [ -z "${!key:-}" ]; then
+              echo "::error::$key is required for translation"
+              exit 1
+            fi
+          done
 
       - name: Generate digest with retry
         shell: bash

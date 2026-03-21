@@ -1,4 +1,25 @@
 import { loadDigestData } from "../lib/digest/data";
+import type { DigestItem } from "../lib/digest/types";
+
+function getTranslatedTitle(item: Partial<DigestItem>): string {
+  return item.translatedTitle || item.title || "Untitled";
+}
+
+function getTranslatedBody(item: Partial<DigestItem>): string {
+  return item.translatedBody || item.summary || "";
+}
+
+function getOriginalTitle(item: Partial<DigestItem>): string {
+  return item.originalTitle || item.title || "Untitled";
+}
+
+function getOriginalBody(item: Partial<DigestItem>): string {
+  return item.originalBody || item.summary || "";
+}
+
+function getTranslationLabel(item: Partial<DigestItem>): string {
+  return item.translationProvider === "google" ? "Google fallback" : "OpenAI";
+}
 
 function formatTime(iso: string, timezone: string): string {
   if (!iso) {
@@ -103,15 +124,29 @@ export default async function HomePage() {
               <p className="empty-copy">今天没有筛出符合条件的动态。</p>
             ) : (
               latest.tweetHighlights.map((item) => (
-                <a key={item.id} href={item.sourceUrl} className="story-card">
+                <article key={item.id} className="story-card">
                   <div className="story-meta">
                     <span>{item.builder}</span>
                     <span>{formatTime(item.publishedAt, latest.timezone)}</span>
                   </div>
-                  <h3>{item.title}</h3>
-                  <p>{item.summary}</p>
+                  <span className="provider-badge">{getTranslationLabel(item)}</span>
+                  <h3>{getTranslatedTitle(item)}</h3>
+                  <p className="translated-copy">{getTranslatedBody(item)}</p>
+                  <p className="story-summary">{item.summary}</p>
                   <small>{item.whyItMatters}</small>
-                </a>
+                  <div className="story-actions">
+                    <a href={item.sourceUrl} className="action-link" target="_blank" rel="noreferrer">
+                      打开原帖
+                    </a>
+                  </div>
+                  <details className="source-details">
+                    <summary>查看英文原文</summary>
+                    <div className="source-original">
+                      <strong>{getOriginalTitle(item)}</strong>
+                      <p>{getOriginalBody(item)}</p>
+                    </div>
+                  </details>
+                </article>
               ))
             )}
           </div>
@@ -129,15 +164,29 @@ export default async function HomePage() {
               <p className="empty-copy">今天没有筛出符合条件的播客。</p>
             ) : (
               latest.podcastHighlights.map((item) => (
-                <a key={item.id} href={item.sourceUrl} className="story-card">
+                <article key={item.id} className="story-card">
                   <div className="story-meta">
                     <span>{item.builder}</span>
                     <span>{formatTime(item.publishedAt, latest.timezone)}</span>
                   </div>
-                  <h3>{item.title}</h3>
-                  <p>{item.summary}</p>
+                  <span className="provider-badge">{getTranslationLabel(item)}</span>
+                  <h3>{getTranslatedTitle(item)}</h3>
+                  <p className="translated-copy">{getTranslatedBody(item)}</p>
+                  <p className="story-summary">{item.summary}</p>
                   <small>{item.whyItMatters}</small>
-                </a>
+                  <div className="story-actions">
+                    <a href={item.sourceUrl} className="action-link" target="_blank" rel="noreferrer">
+                      打开原视频
+                    </a>
+                  </div>
+                  <details className="source-details">
+                    <summary>查看英文原文</summary>
+                    <div className="source-original">
+                      <strong>{getOriginalTitle(item)}</strong>
+                      <p>{getOriginalBody(item)}</p>
+                    </div>
+                  </details>
+                </article>
               ))
             )}
           </div>

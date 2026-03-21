@@ -7,6 +7,8 @@
 
 - 每天北京时间 08:00 自动生成 AI Builders 简报
 - 从 X 和 podcast 两类上游内容里筛出高信号动态
+- 站内直接展示正文或关键片段，不需要 X 账号也能阅读精选内容
+- 默认展示中文译文，并保留英文原文折叠区和原帖链接
 - 通过 `config/profile.json` 控制关注主题、偏好 builders 和屏蔽项
 - 生成结构化 `JSON` 产物和每天一篇 `Markdown` 简报
 - GitHub 有新 commit 时，Vercel 自动重新部署
@@ -15,8 +17,17 @@
 
 ```bash
 npm install
+npm test
 npm run generate
 npm run dev
+```
+
+本地生成前需要设置：
+
+```bash
+export OPENAI_API_KEY=...
+export OPENAI_TRANSLATION_MODEL=...
+export GOOGLE_TRANSLATE_API_KEY=...
 ```
 
 首页会读取：
@@ -35,6 +46,14 @@ npm run dev
 - `mutedKeywords`：命中后直接过滤
 - `maxTweetHighlights` / `maxPodcastHighlights`：每天展示上限
 
+## 翻译配置
+
+- `OPENAI_API_KEY`：OpenAI 主翻译引擎
+- `OPENAI_TRANSLATION_MODEL`：OpenAI 翻译模型名
+- `GOOGLE_TRANSLATE_API_KEY`：Google Cloud Translation API 兜底翻译
+
+GitHub Actions 中也需要把以上 3 个值配置为 repository secrets。
+
 ## 自动更新
 
 工作流位于 `.github/workflows/daily-digest.yml`：
@@ -42,6 +61,7 @@ npm run dev
 - `schedule`：每天 `00:00 UTC`，即北京时间 `08:00`
 - `workflow_dispatch`：支持手动触发
 - 对抓取和生成自动重试 3 次
+- 生成前会校验翻译 secrets 是否存在
 - 有变更时自动提交 `data/digests` 和 `public/briefs`
 
 ## Vercel 部署

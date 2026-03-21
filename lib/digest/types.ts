@@ -26,6 +26,13 @@ export interface DigestItem {
   title: string;
   summary: string;
   whyItMatters: string;
+  originalTitle: string;
+  originalBody: string;
+  translatedTitle: string;
+  translatedBody: string;
+  translationProvider: "openai" | "google";
+  translationStatus: "translated" | "fallback_google";
+  sourcePreviewType: "full_text" | "excerpt";
   sourceUrl: string;
   publishedAt: string;
   score: number;
