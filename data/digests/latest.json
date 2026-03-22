@@ -1,16 +1,20 @@
 {
   "date": "2026-03-22",
-  "generatedAt": "2026-03-22T05:13:52.678Z",
+  "generatedAt": "2026-03-22T05:51:16.728Z",
   "timezone": "Asia/Shanghai",
   "title": "AI Builders Daily | 2026-03-22",
-  "summary": "今天最值得看的是 Guillermo Rauch 的动态，正文和译文都已经放进站内，随后补充 0 条播客深读。",
-  "intro": "已从 32 条候选内容中，筛出最值得你早上 8 点看的 builder 更新。",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 32 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
     {
       "slug": "coding-agents",
       "label": "Coding Agents"
+    },
+    {
+      "slug": "foundation-models",
+      "label": "Foundation Models"
     },
     {
       "slug": "product-ships",
@@ -24,7 +28,7 @@
       "builder": "Guillermo Rauch",
       "title": "Next.js 16.2 是一个原生于代理的框架。",
       "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Next.js 16.2 is an agent-native framework. 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 + bundled docs make your agent an expert in the exact ve…",
-      "whyItMatters": "这条动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
       "originalTitle": "Next.js 16.2 is an agent-native framework.",
       "originalBody": "Next.js 16.2 is an agent-native framework.\n\n𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 + bundled docs make your agent an expert in the exact version of Next.js you’re using.\n\n@𝚟𝚎𝚛𝚌𝚎𝚕/𝚗𝚎𝚡𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 gets your agent a purpose-built tool to debug & optimize your frontend.\n\nWe proved these in production at Vercel. Agents shipped optimizations that expert frontend engineers missed or struggled to write manually. \n\nThe thing I’m most excited about is that agents will be able to harness the full power of the newer advanced React and Next.js capabilities that were conceived for humans to have the best possible end-user experience.",
       "translatedTitle": "Next.js 16.2 是一个原生于代理的框架。",
@@ -35,6 +39,11 @@
       "sourceUrl": "https://x.com/rauchg/status/2035076089861857500",
       "publishedAt": "2026-03-20T19:28:44.000Z",
       "score": 184.73,
+      "engagement": {
+        "likes": 647,
+        "retweets": 37,
+        "replies": 41
+      },
       "matchedFocusAreas": [
         "Coding Agents",
         "Product Ships"
@@ -51,73 +60,18 @@
       "originalTitle": "Projects are now available in Cowork.",
       "originalBody": "Projects are now available in Cowork.\n\nKeep your tasks and context in one place, focused on one area of work. Files and instructions stay on your computer.\n\nImport existing projects in one click, or start fresh. https://t.co/4AxvfiHhiv",
       "translatedTitle": "现在Cowork平台上有项目可供参与。",
-      "translatedBody": "Cowork 现已推出项目管理功能。\n\n将您的任务和工作内容集中在一个地方，专注于单一工作领域。文件和说明仍保存在您的电脑上。\n\n一键导入现有项目，或从头开始创建。https://t.co/4AxvfiHhiv",
+      "translatedBody": "Cowork 现已推出项目管理功能。\n\n将您的任务和工作内容集中在一个地方，专注于单一工作领域。文件和说明将保留在您的电脑上。\n\n一键导入现有项目，或从头开始创建。https://t.co/4AxvfiHhiv",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/claudeai/status/2035025492617961704",
       "publishedAt": "2026-03-20T16:07:41.000Z",
       "score": 149.75,
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2035158351357911527",
-      "type": "tweet",
-      "builder": "Andrej Karpathy",
-      "title": "谢谢莎拉，很高兴能来参加播客节目！",
-      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验：Thank you Sarah, my pleasure to come on the pod! And happy to do some more Q&A in the replies. https://t.co/uIeUtFxDkm",
-      "whyItMatters": "Andrej Karpathy 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Thank you Sarah, my pleasure to come on the pod!",
-      "originalBody": "Thank you Sarah, my pleasure to come on the pod! And happy to do some more Q&A in the replies. https://t.co/uIeUtFxDkm",
-      "translatedTitle": "谢谢莎拉，很高兴能来参加播客节目！",
-      "translatedBody": "谢谢莎拉，很高兴能来参加播客节目！也很乐意在评论区继续回答大家的问题。https://t.co/uIeUtFxDkm",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/karpathy/status/2035158351357911527",
-      "publishedAt": "2026-03-21T00:55:37.000Z",
-      "score": 140.91,
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2035025494677365113",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "更新或下载 Claude 桌面应用程序即可试用：https://t.co/kWnDq1psWQ",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Update or download the Claude desktop app to give it a try: https://t.co/kWnDq1psWQ",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Update or download the Claude desktop app to give it a try: https://t.co/kWnDq1psWQ",
-      "originalBody": "Update or download the Claude desktop app to give it a try:  https://t.co/kWnDq1psWQ",
-      "translatedTitle": "更新或下载 Claude 桌面应用程序即可试用：https://t.co/kWnDq1psWQ",
-      "translatedBody": "更新或下载 Claude 桌面应用程序即可试用：https://t.co/kWnDq1psWQ",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2035025494677365113",
-      "publishedAt": "2026-03-20T16:07:41.000Z",
-      "score": 131.93,
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2035231071869313075",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "了解宇宙 https://t.co/s5sKMU1nRJ",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Understand the universe https://t.co/s5sKMU1nRJ",
-      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Understand the universe https://t.co/s5sKMU1nRJ",
-      "originalBody": "Understand the universe https://t.co/s5sKMU1nRJ",
-      "translatedTitle": "了解宇宙 https://t.co/s5sKMU1nRJ",
-      "translatedBody": "了解宇宙 https://t.co/s5sKMU1nRJ",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2035231071869313075",
-      "publishedAt": "2026-03-21T05:44:34.000Z",
-      "score": 127.79,
+      "engagement": {
+        "likes": 11322,
+        "retweets": 881,
+        "replies": 602
+      },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
@@ -138,18 +92,158 @@
       "sourceUrl": "https://x.com/swyx/status/2034893748916953450",
       "publishedAt": "2026-03-20T07:24:10.000Z",
       "score": 124.18,
+      "engagement": {
+        "likes": 69,
+        "retweets": 1,
+        "replies": 21
+      },
       "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2035104388541473275",
+      "type": "tweet",
+      "builder": "Cat Wu",
+      "title": "3/ 每次推出新车型时，都要重新审视你的功能列表……",
+      "summary": "Cat Wu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：3/ Revisit features with new models Every model release, go back through your list of features that were too hard for…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "3/ Revisit features with new models Every model release, go back through your list…",
+      "originalBody": "3/ Revisit features with new models\n\nEvery model release, go back through your list of features that were too hard for the previous model and test the ideas again. Also, remove the extra scaffolding that is no longer needed.",
+      "translatedTitle": "3/ 每次推出新车型时，都要重新审视你的功能列表……",
+      "translatedBody": "3/ 用新模型重新审视功能\n\n每次发布新模型时，都要回顾之前模型中那些难以实现的功能，并重新测试这些想法。同时，移除不再需要的额外框架。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/_catwu/status/2035104388541473275",
+      "publishedAt": "2026-03-20T21:21:11.000Z",
+      "score": 100.64,
+      "engagement": {
+        "likes": 123,
+        "retweets": 5,
+        "replies": 2
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2035214231625474489",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "我的 GStack /plan-design-review 可以将一个 4 分（满分 10 分）的平庸设计或线框图……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：My GStack /plan-design-review can take a 4 out of 10 mediocre design or wireframe all the way up to a 10 out of 10 vi…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "My GStack /plan-design-review can take a 4 out of 10 mediocre design or wireframe a…",
+      "originalBody": "My GStack /plan-design-review can take a 4 out of 10 mediocre design or wireframe all the way up to a 10 out of 10 visual design.\n\nIt's amazing how helpful LLMs can be when you ask: what's the rating on of scale of 0 to 10, and what can we do to get to a 10? https://t.co/gt4DW8qY1Y",
+      "translatedTitle": "我的 GStack /plan-design-review 可以将一个 4 分（满分 10 分）的平庸设计或线框图……",
+      "translatedBody": "我的 GStack /plan-design-review 可以将一个 4 分（满分 10 分）的平庸设计或线框图提升到 10 分（满分 10 分）的视觉设计。\n\n当你问“这个设计在 0 到 10 分的评分标准下是多少？我们该如何改进才能达到 10 分？”时，LLM（学习型领导）的作用真是令人惊叹。https://t.co/gt4DW8qY1Y",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2035214231625474489",
+      "publishedAt": "2026-03-21T04:37:39.000Z",
+      "score": 77.41,
+      "engagement": {
+        "likes": 145,
+        "retweets": 6,
+        "replies": 23
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2035130974682718585",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "1/ 制定短期迭代计划 2/ 鼓励演示和评估，而不是仅仅依赖文档（尽快做出原型……）",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：1/ Plan in short sprints 2/ Encourage demos and evals over doc (get a prototype in front of internal folks and users…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "1/ Plan in short sprints 2/ Encourage demos and evals over doc (get a prototype in…",
+      "originalBody": "1/ Plan in short sprints\n2/ Encourage demos and evals over doc (get a prototype in front of internal folks and users asap!)\n3/ Revisit features with new models\n4/ Do the simple thing first https://t.co/ZH1EO6lJQZ",
+      "translatedTitle": "1/ 制定短期迭代计划 2/ 鼓励演示和评估，而不是仅仅依赖文档（尽快做出原型……）",
+      "translatedBody": "1/ 制定短期迭代计划\n\n2/ 鼓励演示和评估，而非仅仅依赖文档（尽快将原型展示给内部人员和用户！）\n\n3/ 使用新模型重新审视功能\n\n4/ 先做简单的事情 https://t.co/ZH1EO6lJQZ",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2035130974682718585",
+      "publishedAt": "2026-03-20T23:06:49.000Z",
+      "score": 74.77,
+      "engagement": {
+        "likes": 87,
+        "retweets": 5,
+        "replies": 12
+      },
+      "matchedFocusAreas": [
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2035091750533177648",
+      "type": "tweet",
+      "builder": "Amjad Masad",
+      "title": "值得注意的是，Replit 已在 App Store 上架 4 年，其核心功能……",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Important to note that Replit has been on the App Store for 4 years and core functionality is exactly the same: You t…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Important to note that Replit has been on the App Store for 4 years and core functi…",
+      "originalBody": "Important to note that Replit has been on the App Store for 4 years and core functionality is exactly the same: You type (or generate) code, we compile on the server, and open a webview.\n\nNever have been in violation of any guidelines, which Apple eventually acknowledged. https://t.co/44dTBcuEQ0",
+      "translatedTitle": "值得注意的是，Replit 已在 App Store 上架 4 年，其核心功能……",
+      "translatedBody": "值得注意的是，Replit 已在 App Store 上架 4 年，其核心功能与之前完全相同：您输入（或生成）代码，我们在服务器端编译，然后打开一个 WebView。\n\n我们从未违反任何准则，苹果最终也承认了这一点。https://t.co/44dTBcuEQ0",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/amasad/status/2035091750533177648",
+      "publishedAt": "2026-03-20T20:30:58.000Z",
+      "score": 60.81,
+      "engagement": {
+        "likes": 796,
+        "retweets": 40,
+        "replies": 58
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2035171720945115469",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "现在你的AI代理堆栈需要多么灵活，这简直太荒谬了。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：It is quite ridiculous how agile you have to be with your AI agent stack right now. Whatever you spent 6 months perfe…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "It is quite ridiculous how agile you have to be with your AI agent stack right now.",
+      "originalBody": "It is quite ridiculous how agile you have to be with your AI agent stack right now. Whatever you spent 6 months perfecting 12 months ago probably is already out of date and you’re better off doing a reset than trying to resuscitate it architecturally.\n\nAnd what’s interesting is that for every jump in progress that eliminates one part of the stack, generally a new capability becomes possible that you need to build new scaffolding for. \n\nFor instance, probably lots of RAG pipelines have had to adjust because of context windows have improved dramatically and you can now just using agentic search due to improve tool use. But that same improved tool use means you probably need to be supporting code execution with sandboxes so the agent can handle more complex work.\n\nSo one capability gets bitter lessened, and a new one opens up altogether. This is the cycle we’re going to be in for years. If you don’t have the speed and agility to deal with it, probably going to be in a tough spot.",
+      "translatedTitle": "现在你的AI代理堆栈需要多么灵活，这简直太荒谬了。",
+      "translatedBody": "现在，你的AI代理堆栈需要极高的敏捷性，这简直令人难以置信。你12个月前花了6个月时间完善的东西，现在可能已经过时了，与其费力地从架构上进行重建，不如直接重置。\n\n有趣的是，每当技术进步淘汰堆栈中的某个部分时，通常就会出现一项新功能，而你需要为此构建新的框架。\n\n例如，由于上下文窗口的显著改进，许多RAG管道可能不得不进行调整，现在你可以直接使用代理搜索，因为工具的使用得到了提升。但工具使用的提升也意味着你可能需要使用沙箱来支持代码执行，以便代理能够处理更复杂的任务。\n\n因此，一项功能被大幅削弱，而一项全新的功能却应运而生。我们将在未来几年里不断经历这样的循环。如果你没有足够的速度和敏捷性来应对，很可能会陷入困境。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2035171720945115469",
+      "publishedAt": "2026-03-21T01:48:44.000Z",
+      "score": 54.97,
+      "engagement": {
+        "likes": 230,
+        "retweets": 20,
+        "replies": 29
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
       "sourceType": "x"
     }
   ],
-  "podcastHighlights": [],
   "stats": {
-    "upstreamGeneratedAt": [
-      "2026-03-21T06:40:00.981Z",
-      "2026-03-21T06:40:22.879Z"
-    ],
+    "upstreamGeneratedAt": "2026-03-21T06:40:00.981Z",
     "totalCandidates": 32,
-    "selectedTweets": 6,
-    "selectedPodcasts": 0
+    "textQualifiedCandidates": 13,
+    "selectedTweets": 8
   }
 }
