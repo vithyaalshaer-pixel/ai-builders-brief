@@ -66,7 +66,7 @@ test("translator falls back to Google when OpenAI fails", async () => {
 
   const result = await translator.translate({
     builder: "Builder",
-    sourceType: "podcast",
+    sourceType: "tweet",
     originalTitle: "Original title",
     originalBody: "Original body",
     targetLanguage: "zh-CN"

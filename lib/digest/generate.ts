@@ -6,7 +6,6 @@ import type { TranslationResult, Translator } from "./translate";
 import type {
   ArchiveEntry,
   DigestItem,
-  FeedPodcastResponse,
   FeedXResponse,
   FocusArea,
   LatestDigest,
@@ -15,8 +14,6 @@ import type {
 
 const FEED_X_URL =
   "https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-x.json";
-const FEED_PODCAST_URL =
-  "https://raw.githubusercontent.com/zarazhangrui/follow-builders/main/feed-podcasts.json";
 
 const profile = profileJson as Profile;
 
@@ -68,27 +65,27 @@ function extractTweetTitle(text: string): string {
   return truncateText(normalized.split(/(?<=[.!?。！？])\s+/)[0] || normalized, 84);
 }
 
-function buildPodcastExcerpt(transcript: string): string {
-  const normalized = decodeHtmlEntities(transcript).replace(/\s+/g, " ").trim();
-  if (normalized.length <= 1000) {
-    return normalized;
-  }
+function stripUrls(text: string): string {
+  return text.replace(/https?:\/\/\S+/gi, " ").replace(/t\.co\/\S+/gi, " ");
+}
 
-  const candidate = normalized.slice(0, 1100);
-  const boundary = Math.max(
-    candidate.lastIndexOf(". "),
-    candidate.lastIndexOf("? "),
-    candidate.lastIndexOf("! "),
-    candidate.lastIndexOf("。"),
-    candidate.lastIndexOf("！"),
-    candidate.lastIndexOf("？")
-  );
+function normalizeBody(text: string): string {
+  return decodeHtmlEntities(text)
+    .replace(/\r\n/g, "\n")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
 
-  if (boundary >= 800) {
-    return candidate.slice(0, boundary + 1).trim();
-  }
+function countMeaningfulTextUnits(text: string): number {
+  const withoutUrls = stripUrls(text);
+  const latinWords = withoutUrls.match(/[A-Za-z]{3,}/g)?.length ?? 0;
+  const cjkChars = withoutUrls.match(/[\u4e00-\u9fff]/g)?.length ?? 0;
+  return latinWords + cjkChars;
+}
 
-  return `${candidate.trim()}…`;
+function isTextFirstPost(text: string): boolean {
+  const normalized = normalizeBody(text);
+  return countMeaningfulTextUnits(normalized) >= 18;
 }
 
 function collectFocusMatches(content: string, focusAreas: FocusArea[]): string[] {
@@ -155,27 +152,13 @@ function summarizeTweet(builder: string, text: string, matchedFocusAreas: string
   return `${builder} 的最新观点聚焦在可执行的一线经验${focusText}：${snippet}`;
 }
 
-function summarizePodcast(
-  showName: string,
-  title: string,
-  transcript: string,
-  matchedFocusAreas: string[]
-): string {
-  const snippet = truncateText(transcript, 120);
-  const focusText =
-    matchedFocusAreas.length > 0 ? `，与你关注的 ${matchedFocusAreas.join(" / ")} 高相关` : "";
-  return `${showName} 这一期讨论《${title}》${focusText}，核心信息是：${snippet}`;
-}
-
 function buildWhyItMatters(item: {
   builder: string;
   matchedFocusAreas: string[];
-  type: "tweet" | "podcast";
+  type: "tweet";
 }): string {
   if (item.matchedFocusAreas.length > 0) {
-    return `这条${item.type === "tweet" ? "动态" : "播客"}直接覆盖你的关注主题：${item.matchedFocusAreas.join(
-      "、"
-    )}。`;
+    return `这条文字动态直接覆盖你的关注主题：${item.matchedFocusAreas.join("、")}。`;
   }
 
   return `${item.builder} 仍然是高信号来源，值得保留在每日观察列表里。`;
@@ -234,31 +217,25 @@ async function fetchJson<T>(url: string): Promise<T> {
 
 export async function fetchFeeds(): Promise<{
   xFeed: FeedXResponse;
-  podcastFeed: FeedPodcastResponse;
 }> {
-  const [xFeed, podcastFeed] = await Promise.all([
-    fetchJson<FeedXResponse>(FEED_X_URL),
-    fetchJson<FeedPodcastResponse>(FEED_PODCAST_URL)
-  ]);
-
-  return { xFeed, podcastFeed };
+  const xFeed = await fetchJson<FeedXResponse>(FEED_X_URL);
+  return { xFeed };
 }
 
 export async function buildDigestFromFeeds(params: {
   profile: Profile;
   xFeed: FeedXResponse;
-  podcastFeed: FeedPodcastResponse;
   translator: Translator;
   now?: Date;
 }): Promise<{ latest: LatestDigest; archiveEntry: ArchiveEntry; markdown: string }> {
   const now = params.now ?? new Date();
   const date = formatDigestDate(now, params.profile.timezone);
 
-  const tweetCandidates: DigestItem[] = params.xFeed.x.flatMap((account) =>
+  const rawTweetCandidates: DigestItem[] = params.xFeed.x.flatMap((account) =>
     account.tweets
       .filter((tweet) => !isMuted(account.name, `${tweet.text} ${account.bio ?? ""}`, params.profile))
       .map((tweet) => {
-        const fullText = decodeHtmlEntities(tweet.text).trim();
+        const fullText = normalizeBody(tweet.text);
         const matchedFocusAreas = collectFocusMatches(
           `${fullText} ${account.bio ?? ""}`,
           params.profile.focusAreas
@@ -290,77 +267,27 @@ export async function buildDigestFromFeeds(params: {
           sourceUrl: tweet.url,
           publishedAt: tweet.createdAt,
           score: Number(score.toFixed(2)),
+          engagement: {
+            likes: tweet.likes ?? 0,
+            retweets: tweet.retweets ?? 0,
+            replies: tweet.replies ?? 0
+          },
           matchedFocusAreas,
           sourceType: "x" as const
         };
       })
   );
 
-  const podcastCandidates: DigestItem[] = params.podcastFeed.podcasts
-    .filter((podcast) =>
-      !isMuted(
-        podcast.name,
-        `${podcast.title} ${podcast.transcript ?? ""}`,
-        params.profile
-      ) && Boolean(podcast.transcript?.trim())
-    )
-    .map((podcast) => {
-      const excerpt = buildPodcastExcerpt(podcast.transcript ?? "");
-      const matchedFocusAreas = collectFocusMatches(
-        `${podcast.title} ${excerpt}`,
-        params.profile.focusAreas
-      );
-      const transcriptBonus = Math.min(excerpt.length / 240, 20);
-      const score =
-        favoriteBuilderScore(podcast.name, params.profile) +
-        focusAreaScore(matchedFocusAreas) +
-        freshnessScore(podcast.publishedAt, now) +
-        transcriptBonus;
-
-        return {
-          id: podcast.videoId,
-          type: "podcast" as const,
-          builder: podcast.name,
-          title: decodeHtmlEntities(podcast.title),
-          summary: summarizePodcast(
-            podcast.name,
-            podcast.title,
-            excerpt,
-            matchedFocusAreas
-          ),
-          whyItMatters: buildWhyItMatters({
-            builder: podcast.name,
-            matchedFocusAreas,
-            type: "podcast"
-          }),
-          originalTitle: decodeHtmlEntities(podcast.title),
-          originalBody: excerpt,
-          translatedTitle: "",
-          translatedBody: "",
-          translationProvider: "openai" as const,
-          translationStatus: "translated" as const,
-          sourcePreviewType: "excerpt" as const,
-          sourceUrl: podcast.url,
-          publishedAt: podcast.publishedAt,
-          score: Number(score.toFixed(2)),
-        matchedFocusAreas,
-        sourceType: "podcast" as const
-      };
-    });
+  const tweetCandidates = rawTweetCandidates.filter((item) => isTextFirstPost(item.originalBody));
 
   const tweetHighlights = await Promise.all(
     sortItems(tweetCandidates)
       .slice(0, params.profile.maxTweetHighlights)
       .map((item) => applyTranslation(item, params.translator, params.profile.language))
   );
-  const podcastHighlights = await Promise.all(
-    sortItems(podcastCandidates)
-      .slice(0, params.profile.maxPodcastHighlights)
-      .map((item) => applyTranslation(item, params.translator, params.profile.language))
-  );
 
   const selectedFocusLabels = new Set<string>();
-  [...tweetHighlights, ...podcastHighlights].forEach((item) => {
+  tweetHighlights.forEach((item) => {
     item.matchedFocusAreas.forEach((label) => selectedFocusLabels.add(label));
   });
 
@@ -369,14 +296,11 @@ export async function buildDigestFromFeeds(params: {
     .map((area) => ({ slug: area.slug, label: area.label }));
 
   const leadTweet = tweetHighlights[0];
-  const leadPodcast = podcastHighlights[0];
   const summary = leadTweet
-    ? `今天最值得看的是 ${leadTweet.builder} 的动态，正文和译文都已经放进站内，随后补充 ${podcastHighlights.length} 条播客深读。`
-    : leadPodcast
-      ? `今天主打播客深读，共整理 ${podcastHighlights.length} 条双语高相关内容。`
-      : "今天没有筛出高信号内容，保留上一版节奏并等待下一轮更新。";
+    ? `今天最值得看的是 ${leadTweet.builder} 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。`
+    : "今天没有筛出足够高信号的文字动态，保留上一版节奏并等待下一轮更新。";
 
-  const intro = `已从 ${tweetCandidates.length + podcastCandidates.length} 条候选内容中，筛出最值得你早上 8 点看的 builder 更新。`;
+  const intro = `已从 ${rawTweetCandidates.length} 条候选动态里，筛出 ${tweetCandidates.length} 条纯文字相关内容，再选出最值得你阅读的 builder 更新。`;
   const title = `${params.profile.briefName} | ${date}`;
 
   const latest: LatestDigest = {
@@ -390,12 +314,11 @@ export async function buildDigestFromFeeds(params: {
     briefName: params.profile.briefName,
     focusAreas: selectedFocusAreas,
     tweetHighlights,
-    podcastHighlights,
     stats: {
-      upstreamGeneratedAt: [params.xFeed.generatedAt, params.podcastFeed.generatedAt],
-      totalCandidates: tweetCandidates.length + podcastCandidates.length,
+      upstreamGeneratedAt: params.xFeed.generatedAt,
+      totalCandidates: rawTweetCandidates.length,
+      textQualifiedCandidates: tweetCandidates.length,
       selectedTweets: tweetHighlights.length,
-      selectedPodcasts: podcastHighlights.length
     }
   };
 
@@ -469,8 +392,9 @@ export function renderMarkdown(params: { latest: LatestDigest }): string {
     `- 生成时间：${formatDisplayDate(latest.generatedAt, latest.timezone)}`,
     `- 时区：${latest.timezone}`,
     `- 候选内容：${latest.stats.totalCandidates}`,
+    `- 纯文字候选：${latest.stats.textQualifiedCandidates}`,
     "",
-    "## 重点动态",
+    "## 重点文字动态",
     ""
   ];
 
@@ -480,42 +404,14 @@ export function renderMarkdown(params: { latest: LatestDigest }): string {
     latest.tweetHighlights.forEach((item, index) => {
       lines.push(`### ${index + 1}. ${item.builder}`);
       lines.push("");
-      lines.push(`- 中文标题：${item.translatedTitle || item.title}`);
-      lines.push(`- 摘要：${item.summary}`);
+      lines.push(`- 标题：${item.translatedTitle || item.title}`);
+      lines.push(`- 原帖地址：${item.sourceUrl}`);
+      lines.push(`- 发布时间：${formatDisplayDate(item.publishedAt, latest.timezone)}`);
+      lines.push(`- 当前热度：${item.engagement.likes} Likes / ${item.engagement.retweets} Reposts / ${item.engagement.replies} Replies`);
+      lines.push(`- 命中标签：${item.matchedFocusAreas.length > 0 ? item.matchedFocusAreas.join("、") : "通用 AI Builder 动态"}`);
       lines.push(`- 为什么重要：${item.whyItMatters}`);
       lines.push(`- 翻译来源：${item.translationProvider === "google" ? "Google fallback" : "OpenAI"}`);
-      lines.push(`- 发布时间：${formatDisplayDate(item.publishedAt, latest.timezone)}`);
-      lines.push(`- 来源：${item.sourceUrl}`);
-      lines.push("");
-      lines.push("#### 中文正文");
-      lines.push("");
-      lines.push(item.translatedBody || item.summary);
-      lines.push("");
-      lines.push("<details><summary>英文原文</summary>");
-      lines.push("");
-      lines.push(`**${item.originalTitle || item.title}**`);
-      lines.push("");
-      lines.push(item.originalBody || item.summary);
-      lines.push("");
-      lines.push("</details>");
-      lines.push("");
-    });
-  }
-
-  lines.push("## 播客深读", "");
-
-  if (latest.podcastHighlights.length === 0) {
-    lines.push("今天没有筛出符合条件的播客。", "");
-  } else {
-    latest.podcastHighlights.forEach((item, index) => {
-      lines.push(`### ${index + 1}. ${item.translatedTitle || item.title}`);
-      lines.push("");
-      lines.push(`- 节目：${item.builder}`);
-      lines.push(`- 摘要：${item.summary}`);
-      lines.push(`- 为什么重要：${item.whyItMatters}`);
-      lines.push(`- 翻译来源：${item.translationProvider === "google" ? "Google fallback" : "OpenAI"}`);
-      lines.push(`- 发布时间：${formatDisplayDate(item.publishedAt, latest.timezone)}`);
-      lines.push(`- 来源：${item.sourceUrl}`);
+      lines.push(`- 推荐语：${item.summary}`);
       lines.push("");
       lines.push("#### 中文正文");
       lines.push("");

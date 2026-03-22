@@ -14,8 +14,8 @@ async function main(): Promise<void> {
   const rootDir = process.cwd();
   const profile = loadProfile();
   const translator = createEnvironmentTranslator();
-  const { xFeed, podcastFeed } = await fetchFeeds();
-  const result = await buildDigestFromFeeds({ profile, xFeed, podcastFeed, translator });
+  const { xFeed } = await fetchFeeds();
+  const result = await buildDigestFromFeeds({ profile, xFeed, translator });
   const archivePath = path.join(rootDir, "data/digests/archive.json");
   const archive = upsertArchive(await readArchive(archivePath), result.archiveEntry);
 
@@ -27,7 +27,7 @@ async function main(): Promise<void> {
   });
 
   console.log(
-    `Generated ${result.latest.date}: ${result.latest.tweetHighlights.length} tweets, ${result.latest.podcastHighlights.length} podcasts`
+    `Generated ${result.latest.date}: ${result.latest.tweetHighlights.length} text-first builder posts`
   );
 }
 

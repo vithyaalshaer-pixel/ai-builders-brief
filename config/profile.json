@@ -23,6 +23,5 @@
   "favoriteBuilders": ["Andrej Karpathy", "Swyx", "Josh Woodward", "Guillermo Rauch", "Sam Altman", "Claude"],
   "mutedBuilders": [],
   "mutedKeywords": ["politics", "sports", "movie review"],
-  "maxTweetHighlights": 6,
-  "maxPodcastHighlights": 3
+  "maxTweetHighlights": 8
 }

@@ -21,6 +21,13 @@ function getTranslationLabel(item: Partial<DigestItem>): string {
   return item.translationProvider === "google" ? "Google fallback" : "OpenAI";
 }
 
+function formatEngagement(item: DigestItem): string {
+  const likes = item.engagement?.likes ?? 0;
+  const reposts = item.engagement?.retweets ?? 0;
+  const replies = item.engagement?.replies ?? 0;
+  return `${likes} Likes / ${reposts} Reposts / ${replies} Replies`;
+}
+
 function formatTime(iso: string, timezone: string): string {
   if (!iso) {
     return "-";
@@ -67,10 +74,12 @@ export default async function HomePage() {
             <strong>{latest.stats.totalCandidates}</strong>
           </div>
           <div className="metric">
+            <span>纯文字候选</span>
+            <strong>{latest.stats.textQualifiedCandidates ?? latest.stats.totalCandidates}</strong>
+          </div>
+          <div className="metric">
             <span>今日入选</span>
-            <strong>
-              {latest.tweetHighlights.length + latest.podcastHighlights.length}
-            </strong>
+            <strong>{latest.tweetHighlights.length}</strong>
           </div>
         </div>
       </section>
@@ -115,70 +124,37 @@ export default async function HomePage() {
         <article className="panel panel-wide">
           <div className="panel-header">
             <div>
-              <p className="eyebrow">X Highlights</p>
-              <h2>重点动态</h2>
+              <p className="eyebrow">Builder Text Signals</p>
+              <h2>重点文字动态</h2>
             </div>
           </div>
-          <div className="card-list">
+          <div className="brief-list">
             {latest.tweetHighlights.length === 0 ? (
-              <p className="empty-copy">今天没有筛出符合条件的动态。</p>
+              <p className="empty-copy">今天没有筛出符合条件的文字动态。</p>
             ) : (
               latest.tweetHighlights.map((item) => (
-                <article key={item.id} className="story-card">
-                  <div className="story-meta">
-                    <span>{item.builder}</span>
-                    <span>{formatTime(item.publishedAt, latest.timezone)}</span>
+                <article key={item.id} className="brief-card">
+                  <div className="brief-card-head">
+                    <span className="brief-index">{item.builder}</span>
+                    <span className="provider-badge">{getTranslationLabel(item)}</span>
                   </div>
-                  <span className="provider-badge">{getTranslationLabel(item)}</span>
                   <h3>{getTranslatedTitle(item)}</h3>
-                  <p className="translated-copy">{getTranslatedBody(item)}</p>
-                  <p className="story-summary">{item.summary}</p>
-                  <small>{item.whyItMatters}</small>
-                  <div className="story-actions">
-                    <a href={item.sourceUrl} className="action-link" target="_blank" rel="noreferrer">
-                      打开原帖
-                    </a>
+                  <div className="brief-detail-list">
+                    <p><span>Builder：</span>{item.builder}</p>
+                    <p>
+                      <span>原帖地址：</span>
+                      <a href={item.sourceUrl} target="_blank" rel="noreferrer">
+                        {item.sourceUrl}
+                      </a>
+                    </p>
+                    <p><span>发布时间：</span>{formatTime(item.publishedAt, latest.timezone)}</p>
+                    <p><span>当前热度：</span>{formatEngagement(item)}</p>
+                    <p><span>命中标签：</span>{item.matchedFocusAreas.length > 0 ? item.matchedFocusAreas.join("、") : "通用 AI Builder 动态"}</p>
+                    <p><span>推荐语：</span>{item.summary}</p>
+                    <p><span>推荐原因：</span>{item.whyItMatters}</p>
+                    <p><span>中文正文：</span></p>
                   </div>
-                  <details className="source-details">
-                    <summary>查看英文原文</summary>
-                    <div className="source-original">
-                      <strong>{getOriginalTitle(item)}</strong>
-                      <p>{getOriginalBody(item)}</p>
-                    </div>
-                  </details>
-                </article>
-              ))
-            )}
-          </div>
-        </article>
-
-        <article className="panel">
-          <div className="panel-header">
-            <div>
-              <p className="eyebrow">Podcast Deep Dives</p>
-              <h2>播客深读</h2>
-            </div>
-          </div>
-          <div className="card-list compact">
-            {latest.podcastHighlights.length === 0 ? (
-              <p className="empty-copy">今天没有筛出符合条件的播客。</p>
-            ) : (
-              latest.podcastHighlights.map((item) => (
-                <article key={item.id} className="story-card">
-                  <div className="story-meta">
-                    <span>{item.builder}</span>
-                    <span>{formatTime(item.publishedAt, latest.timezone)}</span>
-                  </div>
-                  <span className="provider-badge">{getTranslationLabel(item)}</span>
-                  <h3>{getTranslatedTitle(item)}</h3>
-                  <p className="translated-copy">{getTranslatedBody(item)}</p>
-                  <p className="story-summary">{item.summary}</p>
-                  <small>{item.whyItMatters}</small>
-                  <div className="story-actions">
-                    <a href={item.sourceUrl} className="action-link" target="_blank" rel="noreferrer">
-                      打开原视频
-                    </a>
-                  </div>
+                  <p className="translated-copy brief-body">{getTranslatedBody(item)}</p>
                   <details className="source-details">
                     <summary>查看英文原文</summary>
                     <div className="source-original">

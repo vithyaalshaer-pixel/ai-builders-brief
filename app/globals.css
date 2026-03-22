@@ -112,7 +112,7 @@ a {
 
 .section-grid {
   display: grid;
-  grid-template-columns: 1.45fr 1fr;
+  grid-template-columns: 1fr;
   gap: 24px;
   margin-bottom: 24px;
 }
@@ -153,7 +153,8 @@ a {
 }
 
 .archive-list,
-.card-list {
+.card-list,
+.brief-list {
   display: grid;
   gap: 14px;
 }
@@ -217,7 +218,6 @@ a {
 
 .provider-badge {
   display: inline-flex;
-  margin-bottom: 12px;
   padding: 6px 10px;
   border-radius: 999px;
   background: rgba(255, 184, 108, 0.14);
@@ -262,6 +262,63 @@ a {
 .source-original p {
   white-space: pre-wrap;
   color: var(--muted);
+}
+
+.brief-card {
+  display: block;
+  padding: 22px;
+  border-radius: 24px;
+  background: rgba(8, 20, 34, 0.82);
+  border: 1px solid rgba(138, 186, 255, 0.16);
+}
+
+.brief-card-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 14px;
+}
+
+.brief-index {
+  font-size: 0.94rem;
+  color: var(--accent);
+  letter-spacing: 0.04em;
+}
+
+.brief-card h3 {
+  margin: 0 0 18px;
+  font-size: clamp(1.35rem, 2vw, 1.8rem);
+  color: #d7e7ff;
+}
+
+.brief-detail-list {
+  display: grid;
+  gap: 10px;
+}
+
+.brief-detail-list p {
+  margin: 0;
+  line-height: 1.65;
+  color: #dce8f9;
+}
+
+.brief-detail-list span {
+  color: #8fb4ff;
+  font-weight: 600;
+}
+
+.brief-detail-list a {
+  color: #9bd5ff;
+  word-break: break-all;
+}
+
+.brief-body {
+  margin-top: 10px;
+  padding: 16px 18px;
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(138, 186, 255, 0.1);
 }
 
 .empty-state {

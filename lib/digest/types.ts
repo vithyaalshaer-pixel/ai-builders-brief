@@ -1,4 +1,4 @@
-export type ContentType = "tweet" | "podcast";
+export type ContentType = "tweet";
 
 export interface FocusArea {
   slug: string;
@@ -16,7 +16,6 @@ export interface Profile {
   mutedBuilders: string[];
   mutedKeywords: string[];
   maxTweetHighlights: number;
-  maxPodcastHighlights: number;
 }
 
 export interface DigestItem {
@@ -36,8 +35,13 @@ export interface DigestItem {
   sourceUrl: string;
   publishedAt: string;
   score: number;
+  engagement: {
+    likes: number;
+    retweets: number;
+    replies: number;
+  };
   matchedFocusAreas: string[];
-  sourceType: "x" | "podcast";
+  sourceType: "x";
 }
 
 export interface ArchiveEntry {
@@ -58,12 +62,11 @@ export interface LatestDigest {
   briefName: string;
   focusAreas: Array<Pick<FocusArea, "slug" | "label">>;
   tweetHighlights: DigestItem[];
-  podcastHighlights: DigestItem[];
   stats: {
-    upstreamGeneratedAt: string[];
+    upstreamGeneratedAt: string;
     totalCandidates: number;
+    textQualifiedCandidates: number;
     selectedTweets: number;
-    selectedPodcasts: number;
   };
 }
 
@@ -86,19 +89,5 @@ export interface FeedXResponse {
       isQuote?: boolean;
       quotedTweetId?: string | null;
     }>;
-  }>;
-}
-
-export interface FeedPodcastResponse {
-  generatedAt: string;
-  lookbackHours: number;
-  podcasts: Array<{
-    source: "podcast";
-    name: string;
-    title: string;
-    videoId: string;
-    url: string;
-    publishedAt: string;
-    transcript?: string;
   }>;
 }

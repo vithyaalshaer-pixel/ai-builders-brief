@@ -1,4 +1,4 @@
-import type { ContentType, Profile } from "./types";
+import type { ContentType } from "./types";
 
 export interface TranslationRequest {
   builder: string;

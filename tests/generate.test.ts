@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 
 import { buildDigestFromFeeds, upsertArchive } from "../lib/digest/generate";
 import type { Translator } from "../lib/digest/translate";
-import type { FeedPodcastResponse, FeedXResponse, Profile } from "../lib/digest/types";
+import type { FeedXResponse, Profile } from "../lib/digest/types";
 
 const profile: Profile = {
   briefName: "Test",
@@ -17,11 +17,10 @@ const profile: Profile = {
   favoriteBuilders: ["Favorite Builder"],
   mutedBuilders: ["Muted Builder"],
   mutedKeywords: ["ignore-me"],
-  maxTweetHighlights: 3,
-  maxPodcastHighlights: 2
+  maxTweetHighlights: 3
 };
 
-function buildFeeds(): { xFeed: FeedXResponse; podcastFeed: FeedPodcastResponse } {
+function buildFeeds(): { xFeed: FeedXResponse } {
   return {
     xFeed: {
       generatedAt: "2026-03-20T06:52:33.100Z",
@@ -35,7 +34,7 @@ function buildFeeds(): { xFeed: FeedXResponse; podcastFeed: FeedPodcastResponse 
           tweets: [
             {
               id: "1",
-              text: "A new agent workflow is shipping today",
+              text: "A new agent workflow is shipping today with repo context, evaluation gates, task routing, and deployment checks built directly into the loop.",
               createdAt: "2026-03-20T06:00:00.000Z",
               url: "https://x.com/favorite/status/1",
               likes: 10,
@@ -73,22 +72,6 @@ function buildFeeds(): { xFeed: FeedXResponse; podcastFeed: FeedPodcastResponse 
           ]
         }
       ]
-    },
-    podcastFeed: {
-      generatedAt: "2026-03-20T06:52:54.016Z",
-      lookbackHours: 72,
-      podcasts: [
-        {
-          source: "podcast",
-          name: "Builders FM",
-          title: "The next model wave",
-          videoId: "video-1",
-          url: "https://youtube.com/watch?v=video-1",
-          publishedAt: "2026-03-19T10:00:00.000Z",
-          transcript:
-            "This episode talks about model quality and agent workflows. ".repeat(25)
-        }
-      ]
     }
   };
 }
@@ -114,9 +97,17 @@ test("favorite builders outrank plain keyword matches", async () => {
 
   assert.equal(result.latest.tweetHighlights[0]?.builder, "Favorite Builder");
   assert.equal(result.latest.tweetHighlights.length, 1);
-  assert.equal(result.latest.tweetHighlights[0]?.originalBody, "A new agent workflow is shipping today");
+  assert.match(
+    result.latest.tweetHighlights[0]?.originalBody ?? "",
+    /agent workflow is shipping today/
+  );
   assert.match(result.latest.tweetHighlights[0]?.translatedBody ?? "", /^CN:/);
   assert.equal(result.latest.tweetHighlights[0]?.translationProvider, "openai");
+  assert.deepEqual(result.latest.tweetHighlights[0]?.engagement, {
+    likes: 10,
+    retweets: 2,
+    replies: 1
+  });
 });
 
 test("archive upsert replaces the same date and keeps reverse chronological order", () => {
@@ -143,26 +134,51 @@ test("empty candidates still produce a stable digest", async () => {
   const result = await buildDigestFromFeeds({
     profile: { ...profile, favoriteBuilders: [], mutedKeywords: [], mutedBuilders: [] },
     xFeed: { generatedAt: "2026-03-20T00:00:00.000Z", lookbackHours: 24, x: [] },
-    podcastFeed: { generatedAt: "2026-03-20T00:00:00.000Z", lookbackHours: 72, podcasts: [] },
     translator,
     now: new Date("2026-03-20T08:00:00.000Z")
   });
 
   assert.equal(result.latest.tweetHighlights.length, 0);
-  assert.equal(result.latest.podcastHighlights.length, 0);
-  assert.match(result.latest.summary, /没有筛出高信号内容/);
+  assert.equal(result.latest.stats.textQualifiedCandidates, 0);
+  assert.match(result.latest.summary, /没有筛出足够高信号的文字动态/);
 });
 
-test("podcast excerpt stays within the long-form preview window", async () => {
+test("short text-only posts are filtered out when they are not substantial enough", async () => {
   const result = await buildDigestFromFeeds({
     profile: { ...profile, favoriteBuilders: [] },
-    ...buildFeeds(),
+    xFeed: {
+      generatedAt: "2026-03-20T06:52:33.100Z",
+      lookbackHours: 24,
+      x: [
+        {
+          source: "x",
+          name: "Builder",
+          handle: "builder",
+          tweets: [
+            {
+              id: "short",
+              text: "shipping now https://t.co/demo",
+              createdAt: "2026-03-20T06:00:00.000Z",
+              url: "https://x.com/builder/status/short",
+              likes: 99
+            },
+            {
+              id: "long",
+              text: "We shipped a new coding agent workflow today with task routing, repository context, guardrails, test replay, and deployment checks built into the loop.",
+              createdAt: "2026-03-20T05:00:00.000Z",
+              url: "https://x.com/builder/status/long",
+              likes: 40
+            }
+          ]
+        }
+      ]
+    },
     translator,
     now: new Date("2026-03-20T08:00:00.000Z")
   });
 
-  const excerpt = result.latest.podcastHighlights[0]?.originalBody ?? "";
-  assert.ok(excerpt.length >= 800);
-  assert.ok(excerpt.length <= 1201);
-  assert.equal(result.latest.podcastHighlights[0]?.sourcePreviewType, "excerpt");
+  assert.equal(result.latest.stats.totalCandidates, 2);
+  assert.equal(result.latest.stats.textQualifiedCandidates, 1);
+  assert.equal(result.latest.tweetHighlights.length, 1);
+  assert.equal(result.latest.tweetHighlights[0]?.id, "long");
 });
