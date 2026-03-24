@@ -1,10 +1,10 @@
 {
-  "date": "2026-03-23",
-  "generatedAt": "2026-03-23T05:49:22.481Z",
+  "date": "2026-03-24",
+  "generatedAt": "2026-03-24T05:17:06.972Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-03-23",
-  "summary": "今天最值得看的是 Zara Zhang 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 19 条候选动态里，筛出 5 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-03-24",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 29 条候选动态里，筛出 16 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,59 +13,36 @@
       "label": "Coding Agents"
     },
     {
+      "slug": "foundation-models",
+      "label": "Foundation Models"
+    },
+    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2035251996564103267",
+      "id": "2035829366165471702",
       "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "我认识的几乎所有人工智能高级用户在使用人工智能后都变得更加压力大、更加忙碌，而不是……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Almost every AI power user I know is MORE stressed and busier after using AI, not less What people thought AI would d…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Almost every AI power user I know is MORE stressed and busier after using AI, not l…",
-      "originalBody": "Almost every AI power user I know is MORE stressed and busier after using AI, not less\n\nWhat people thought AI would do: 10x productivity so that we can finish work earlier & relax more\n\nWhat it’s actually doing: 10x productivity so that we end up with 20x more things to do cos of the sheer possibilities",
-      "translatedTitle": "我认识的几乎所有人工智能高级用户在使用人工智能后都变得更加压力大、更加忙碌，而不是……",
-      "translatedBody": "我认识的几乎所有人工智能重度用户在使用人工智能后，压力更大、更忙了，而不是更少。\n\n人们原本以为人工智能能带来：十倍的生产力提升，让我们能更早完成工作，享受更多休闲时光。\n\n但实际情况是：生产力提升了十倍，但由于人工智能的强大功能，我们最终要做的事情反而增加了二十倍。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2035251996564103267",
-      "publishedAt": "2026-03-21T07:07:43.000Z",
-      "score": 65.61,
-      "engagement": {
-        "likes": 1567,
-        "retweets": 150,
-        "replies": 369
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2035534048940958015",
-      "type": "tweet",
-      "builder": "Nan Yu",
-      "title": "真是太疯狂了！",
-      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：It is indeed crazy! considering how many more startups have been funded, the fact that survival rates didn’t drop off…",
+      "builder": "Guillermo Rauch",
+      "title": "代码是一种输出。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Code is an output. Nature is healing. For too long we treated code as input. We glorified it, hand-formatted it, pret…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "It is indeed crazy!",
-      "originalBody": "It is indeed crazy! considering how many more startups have been funded, the fact that survival rates didn’t drop off a cliff is remarkable https://t.co/AfnvelfNs6 https://t.co/8c73SqFYa7",
-      "translatedTitle": "真是太疯狂了！",
-      "translatedBody": "真是不可思议！考虑到获得融资的初创公司数量如此之多，存活率竟然没有断崖式下跌，这简直令人难以置信。https://t.co/AfnvelfNs6 https://t.co/8c73SqFYa7",
+      "originalTitle": "Code is an output.",
+      "originalBody": "Code is an output. Nature is healing.\n\nFor too long we treated code as input. We glorified it, hand-formatted it, prettified it, obsessed over it.\n\nWe built sophisticated GUIs to write it in: IDEs. We syntax-highlit, tree-sat, mini-mapped the code. Keyboard triggers, inline autocompletes, ghost text. “What color scheme is that?”\n\nWe stayed up debating the ideal length of APIs and function bodies. Is this API going to look nice enough for another human to read?\n\nWe’re now turning our attention to the true inputs. Requirements, specs, feedback, design inspiration. Crucially: production inputs. Our coding agents need to understand how your users are experiencing your application, what errors they’re running into, and turn *that* into code.\n\nWe will inevitably glorify code less, as well as coders. The best engineers I’ve worked with always saw code as a means to an end anyway. An output that’s bound to soon be transformed again.",
+      "translatedTitle": "代码是一种输出。",
+      "translatedBody": "代码是输出，自然才是疗愈。\n\n我们长期以来把代码当作输入。我们美化它，手工格式化它，美化它，甚至痴迷于它。\n\n我们构建了复杂的图形用户界面（GUI）来编写代码：集成开发环境（IDE）。我们为代码添加语法高亮、树状结构和迷你地图。键盘触发、内联自动补全、幽灵文本。“这是什么配色方案？”\n\n我们彻夜争论 API 和函数体的理想长度。这个 API 看起来是否足够美观，便于其他人阅读？\n\n现在，我们开始关注真正的输入：需求、规范、反馈、设计灵感。至关重要的是：生产环境的输入。我们的编码代理需要了解用户如何使用您的应用程序，他们遇到了哪些错误，并将这些信息转化为代码。\n\n我们终将不再美化代码，程序员也是如此。我合作过的最优秀的工程师始终将代码视为实现目标的手段。这样的产出注定很快会再次发生变化。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thenanyu/status/2035534048940958015",
-      "publishedAt": "2026-03-22T01:48:30.000Z",
-      "score": 62.73,
+      "sourceUrl": "https://x.com/rauchg/status/2035829366165471702",
+      "publishedAt": "2026-03-22T21:21:59.000Z",
+      "score": 190.65,
       "engagement": {
-        "likes": 9,
-        "retweets": 0,
-        "replies": 1
+        "likes": 1806,
+        "retweets": 176,
+        "replies": 188
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -74,26 +51,54 @@
       "sourceType": "x"
     },
     {
-      "id": "2035539745284177982",
+      "id": "2035945261265199141",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "这就是我一直用 gstack 开源的东西。",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：This is what I’ve been open sourcing with gstack. This is my CLI toolset. There are many like it but this one is mine…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "This is what I’ve been open sourcing with gstack.",
-      "originalBody": "This is what I’ve been open sourcing with gstack. \n\nThis is my CLI toolset. There are many like it but this one is mine. https://t.co/45gnTBlEvN",
-      "translatedTitle": "这就是我一直用 gstack 开源的东西。",
-      "translatedBody": "这就是我用 gstack 开源的东西。\n\n这是我的命令行工具集。类似的工具集有很多，但这是我自己的。https://t.co/45gnTBlEvN",
+      "builder": "Swyx",
+      "title": "细节决定成败的例子——企业需要谨慎行事才能安全……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：example of the kind of Details that matter - sweating the enterprise needs to safely deploy agents in ways that dont…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "example of the kind of Details that matter - sweating the enterprise needs to safel…",
+      "originalBody": "example of the kind of Details that matter - sweating the enterprise needs to safely deploy agents in ways that dont make compliance and IT officers break out in cold sweats at night. Twitter may be happy with --dangerously-skip-permissions but lets get real here about what's needed to deploy this stuff across 10's of 000's of engineers per org",
+      "translatedTitle": "细节决定成败的例子——企业需要谨慎行事才能安全……",
+      "translatedBody": "这就是关键细节的例子——企业需要谨慎部署代理，避免合规和 IT 人员夜不能寐。Twitter 或许乐于接受 `--dangerously-skip-permissions` 这样的权限，但让我们认真思考一下，要在每个组织中为数万名工程师部署这些工具，究竟需要做些什么。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2035539745284177982",
-      "publishedAt": "2026-03-22T02:11:08.000Z",
-      "score": 51.06,
+      "sourceUrl": "https://x.com/swyx/status/2035945261265199141",
+      "publishedAt": "2026-03-23T05:02:30.000Z",
+      "score": 159.34,
       "engagement": {
-        "likes": 112,
-        "retweets": 5,
-        "replies": 17
+        "likes": 2,
+        "retweets": 0,
+        "replies": 2
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2035921380160786674",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "@DevinAI @ryancarson 作为 Slack 大佬，我也恳请你们提供私信/分析……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：@DevinAI @ryancarson as a slack maxi i am also begging you to give your PMs/analytics guys a koding agent, any one wi…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "@DevinAI @ryancarson as a slack maxi i am also begging you to give your PMs/analyti…",
+      "originalBody": "@DevinAI @ryancarson as a slack maxi i am also begging you to give your PMs/analytics guys a koding agent, any one will do but this one is used like this  and its fucking agi https://t.co/as1YhMWK2s https://t.co/O4tSFQxnup",
+      "translatedTitle": "@DevinAI @ryancarson 作为 Slack 大佬，我也恳请你们提供私信/分析……",
+      "translatedBody": "@DevinAI @ryancarson 作为 Slack 的高级用户，我也恳请你们给产品经理/分析团队配备一个代码代理，任何代理都可以，但这个代理是这样用的，而且它非常敏捷：https://t.co/as1YhMWK2s https://t.co/O4tSFQxnup",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2035921380160786674",
+      "publishedAt": "2026-03-23T03:27:37.000Z",
+      "score": 137.25,
+      "engagement": {
+        "likes": 5,
+        "retweets": 0,
+        "replies": 3
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -101,64 +106,144 @@
       "sourceType": "x"
     },
     {
-      "id": "2035434707941515608",
+      "id": "2035941599801463176",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "四月初将在上海/杭州停留两周。",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Visiting Shanghai / Hangzhou for 2 weeks in early April. Was born there but haven’t been back in over a decade. Any g…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Visiting Shanghai / Hangzhou for 2 weeks in early April.",
-      "originalBody": "Visiting Shanghai / Hangzhou for 2 weeks in early April. Was born there but haven’t been back in over a decade. \n\nAny good tech scenes to check out? https://t.co/M2g6LqY3nS",
-      "translatedTitle": "四月初将在上海/杭州停留两周。",
-      "translatedBody": "四月初要去上海/杭州待两周。我出生在那里，但已经十多年没回去了。\n\n有什么好的科技圈推荐吗？https://t.co/M2g6LqY3nS",
+      "builder": "Guillermo Rauch",
+      "title": "周日 @v0：一款基于网页的 3D 叠叠乐游戏。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Sunday @v0: a web-based 3D Jenga game. Everything is procedurally generated: the structure, the bricks, the wooden te…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Sunday @v0: a web-based 3D Jenga game.",
+      "originalBody": "Sunday @v0: a web-based 3D Jenga game.\n\nEverything is procedurally generated: the structure, the bricks, the wooden texture, the sounds, the carved-in ▲ on the top pieces.\n\nI tweaked the physics enough that it feels as fun and frustrating as the real thing 😂\n\nCool technical detail: v0 loaded a R3F (react-three-fiber) Skill automatically when I first asked for a 3d game. Anecdotally it seems that it totally nailed how to work with 3D!",
+      "translatedTitle": "周日 @v0：一款基于网页的 3D 叠叠乐游戏。",
+      "translatedBody": "周日 @v0：一款基于网页的 3D 叠叠乐游戏。\n\n所有元素都是程序生成的：结构、积木、木纹、音效，甚至顶层积木上的刻字 ▲。\n\n我对物理引擎进行了调整，让它玩起来既有趣又让人抓狂，跟真实游戏一样刺激 😂\n\n一个很酷的技术细节：当我第一次请求开发 3D 游戏时，v0 自动加载了一个 R3F（react-three-fiber）技能。从目前来看，它完美地实现了 3D 游戏的运行效果！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2035434707941515608",
-      "publishedAt": "2026-03-21T19:13:45.000Z",
-      "score": 47.1,
+      "sourceUrl": "https://x.com/rauchg/status/2035941599801463176",
+      "publishedAt": "2026-03-23T04:47:58.000Z",
+      "score": 126.33,
       "engagement": {
-        "likes": 46,
-        "retweets": 0,
-        "replies": 15
+        "likes": 122,
+        "retweets": 4,
+        "replies": 17
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2035879529340932413",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "重新上传 @devinai 的解释视频，现在大家都爱上了 kloud koding b…",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：Reupping the @devinai explainer now that everyone is suddenly loving kloud koding because @ryancarson said so (btw de…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Reupping the @devinai explainer now that everyone is suddenly loving kloud koding b…",
+      "originalBody": "Reupping the @devinai explainer now that everyone is suddenly loving kloud koding because @ryancarson said so\n\n(btw devin usage has grown >50% MoM every month this year, it has shocked even scott) https://t.co/7hGCELdLhW https://t.co/iLkmOe9SMe",
+      "translatedTitle": "重新上传 @devinai 的解释视频，现在大家都爱上了 kloud koding b…",
+      "translatedBody": "既然大家都因为 @ryancarson 的推荐而突然爱上了 Kloud 编程，那就重新上传一下 @devinai 的解释视频吧。\n\n（顺便说一句，devinai 的使用量今年每个月都增长了 50% 以上，连 Scott 都震惊了。）https://t.co/7hGCELdLhW https://t.co/iLkmOe9SMe",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2035879529340932413",
+      "publishedAt": "2026-03-23T00:41:19.000Z",
+      "score": 125.01,
+      "engagement": {
+        "likes": 85,
+        "retweets": 8,
+        "replies": 13
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2035842017553465814",
+      "type": "tweet",
+      "builder": "Dan Shipper",
+      "title": "2026 年工程团队结构新模式：仅两人，一个海盗和一个……",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：new model for engineering team structure in 2026: 2 people only one pirate and one architect the pirate's job is to m…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "new model for engineering team structure in 2026: 2 people only one pirate and one…",
+      "originalBody": "new model for engineering team structure in 2026: \n\n2 people only\n\none pirate and one architect\n\nthe pirate's job is to move as fast as possible to develop valuable, shipped product features by vibe coding. \n\nthe architect's job is to turn the product surface discovered by the pirate into a reliable, structured machine—also by vibe coding, but at a slower, more well-reasoned pace.\n\nevery product needs a pirate but most product's only need an architect once they some form of PMF, and in that case they usually don't need one full-time. architects can work across many codebases and solve interesting technical challenges. pirates go hard on a product that they own end-to-end.",
+      "translatedTitle": "2026 年工程团队结构新模式：仅两人，一个海盗和一个……",
+      "translatedBody": "2026 年工程团队结构新模式：\n\n仅两人\n\n一名“海盗”（Priorate，指快速迭代开发者）和一名“架构师”（Architect，指架构师）\n\n“海盗”的职责是运用“活力编码”（Vibe Code）以最快的速度开发出有价值的、可发布的产品功能。\n\n“架构师”的职责是将“海盗”发现的产品特性转化为一个可靠、结构化的系统——同样运用“活力编码”，但速度更慢，也更注重逻辑。\n\n每个产品都需要一名“海盗”，但大多数产品只有在达到某种形式的产品市场契合度（PMF）后才需要架构师，而且通常不需要全职架构师。架构师可以跨多个代码库工作，解决各种有趣的技术难题。“海盗”则会全力以赴地开发他们负责端到端的产品。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/danshipper/status/2035842017553465814",
+      "publishedAt": "2026-03-22T22:12:15.000Z",
+      "score": 117.15,
+      "engagement": {
+        "likes": 2627,
+        "retweets": 161,
+        "replies": 202
       },
       "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2035458987940880466",
+      "id": "2035762343502836020",
       "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "LinkedIn于2003年推出，YouTube于2005年推出，Twitter/X于2006年推出（Face…",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：LinkedIn launched in 2003 YouTube launched in 2005 Twitter/X launched in 2006 (Facebook 2004, Insta 2010, Snap 2011 e…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "LinkedIn launched in 2003 YouTube launched in 2005 Twitter/X launched in 2006 (Face…",
-      "originalBody": "LinkedIn launched in 2003\n\nYouTube launched in 2005 \n\nTwitter/X launched in 2006 \n\n(Facebook 2004, Insta 2010, Snap 2011 etc)\n\nNetwork effects create massive long term staying power.  \n\nUnclear yet if the AI era can build its own strong flywheels (data loops etc) https://t.co/4BZbL2eFWY",
-      "translatedTitle": "LinkedIn于2003年推出，YouTube于2005年推出，Twitter/X于2006年推出（Face…",
-      "translatedBody": "LinkedIn 于 2003 年上线\n\nYouTube 于 2005 年上线\n\nTwitter/X 于 2006 年上线\n\n（Facebook 于 2004 年上线，Instagram 于 2010 年上线，Snapchat 于 2011 年上线等等）\n\n网络效应能够创造强大的长期影响力。\n\n人工智能时代能否构建自身强大的飞轮效应（例如数据循环等）尚不明朗。https://t.co/4BZbL2eFWY",
+      "builder": "Aaron Levie",
+      "title": "我们现在与经纪人的合作还处于非常早期的阶段。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：We are so unbelievably early with agents right now. The majority of companies aren’t even using coding agents at scal…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "We are so unbelievably early with agents right now.",
+      "originalBody": "We are so unbelievably early with agents right now. The majority of companies aren’t even using coding agents at scale, let alone for the rest of knowledge work. We’re still mostly in the chatbot era of work for most of AI right now. \n\nDiffusion of tech takes time, even in the most breakneck of markets, because there are major workflows that need to be reinvented, any regulated or large business has huge governance processes for deploying new tech or agents, data needs to get into well-organized environments, and there’s technical literacy that needs to be established. All things that get solved, but takes time nonetheless.\n\nA point of comparison for technology diffusion: in 2010, a time by which every person in silicon valley knew that cloud was the future, AWS revenue was $500 million, Azure had only launched that year, and GCP was called Google App Engine. By 2025, these 3 platforms generated around $225 billion in revenue. And that’s only about 60% of the cloud market.\n\nSo from the moment the tech industry saw the future of cloud to today, the market is nearly 1,000 times bigger. And it’s still growing at an insane rate. \n\nThe same will happen for agents. Coding agents are like the early days of cloud computing when developers got on board for initial use cases. Then came the bigger workloads. This gives you a sense for how early we actually are in this transformation.",
+      "translatedTitle": "我们现在与经纪人的合作还处于非常早期的阶段。",
+      "translatedBody": "目前，智能体技术还处于非常早期的阶段。大多数公司甚至还没有大规模使用编码智能体，更不用说将其应用于其他知识型工作了。就人工智能而言，我们目前仍主要处于聊天机器人时代。\n\n即使在发展最快的市场中，技术的普及也需要时间，因为需要重新设计重要的工作流程，任何受监管的大型企业在部署新技术或智能体时都有庞大的管理流程，数据需要进入组织良好的环境，并且需要建立技术素养。所有这些问题最终都会得到解决，但仍然需要时间。\n\n技术普及的一个对比：2010 年，硅谷的每个人都知道云计算是未来趋势，当时 AWS 的收入为 5 亿美元，Azure 也是在那一年才推出的，而 GCP 当时还叫做 Google App Engine。到 2025 年，这三大平台创造了约 2250 亿美元的收入。而这仅仅占云计算市场份额的 60% 左右。\n\n从科技行业预见云计算的未来至今，市场规模已增长近千倍，并且仍在以惊人的速度持续增长。\n\n代理也会经历同样的过程。开发代理就像云计算的早期阶段，开发者们最初只是为了满足一些初始用例而加入。随后，更大的工作负载随之而来。这让我们意识到，我们目前在这场变革中还处于非常早期的阶段。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2035458987940880466",
-      "publishedAt": "2026-03-21T20:50:14.000Z",
-      "score": 44.95,
+      "sourceUrl": "https://x.com/levie/status/2035762343502836020",
+      "publishedAt": "2026-03-22T16:55:39.000Z",
+      "score": 84.58,
       "engagement": {
-        "likes": 27,
-        "retweets": 3,
-        "replies": 8
+        "likes": 524,
+        "retweets": 61,
+        "replies": 76
       },
       "matchedFocusAreas": [
+        "Coding Agents",
         "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2035945773729493466",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "过去几天我们把重点放在了测试上，现在 OpenClaw 的测试框架大约需要……",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Really made tests a focus the last few days and now OpenClaw's harness takes around 2 minutes, earlier this week it w…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Really made tests a focus the last few days and now OpenClaw's harness takes around…",
+      "originalBody": "Really made tests a focus the last few days and now OpenClaw's harness takes around 2 minutes, earlier this week it was closer to 10 mins.",
+      "translatedTitle": "过去几天我们把重点放在了测试上，现在 OpenClaw 的测试框架大约需要……",
+      "translatedBody": "过去几天我们确实把重点放在了测试上，现在 OpenClaw 的测试只需要大约 2 分钟，而本周早些时候还需要接近 10 分钟。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2035945773729493466",
+      "publishedAt": "2026-03-23T05:04:33.000Z",
+      "score": 57.85,
+      "engagement": {
+        "likes": 466,
+        "retweets": 11,
+        "replies": 38
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-03-22T06:49:11.600Z",
-    "totalCandidates": 19,
-    "textQualifiedCandidates": 5,
-    "selectedTweets": 5
+    "upstreamGeneratedAt": "2026-03-23T07:06:57.026Z",
+    "totalCandidates": 29,
+    "textQualifiedCandidates": 16,
+    "selectedTweets": 8
   }
 }
