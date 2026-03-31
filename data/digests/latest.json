@@ -1,10 +1,10 @@
 {
-  "date": "2026-03-30",
-  "generatedAt": "2026-03-30T02:54:39.420Z",
+  "date": "2026-03-31",
+  "generatedAt": "2026-03-31T02:48:03.473Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-03-30",
-  "summary": "今天最值得看的是 Andrej Karpathy 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 27 条候选动态里，筛出 14 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-03-31",
+  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 3 条候选动态里，筛出 1 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,224 +23,35 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2037921699824607591",
+      "id": "2038663014098899416",
       "type": "tweet",
-      "builder": "Andrej Karpathy",
-      "title": "- 撰写了一篇博客文章 - 利用法学硕士学位，花了 4 个小时精心完善了论点……",
-      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：- Drafted a blog post - Used an LLM to meticulously improve the argument over 4 hours. - Wow, feeling great, it’s so…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "- Drafted a blog post - Used an LLM to meticulously improve the argument over 4 hou…",
-      "originalBody": "- Drafted a blog post\n- Used an LLM to meticulously improve the argument over 4 hours.\n- Wow, feeling great, it’s so convincing!\n- Fun idea let’s ask it to argue the opposite. \n- LLM demolishes the entire argument and convinces me that the opposite is in fact true.\n- lol\n\nThe LLMs may elicit an opinion when asked but are extremely competent in arguing almost any direction. This is actually super useful as a tool for forming your own opinions, just make sure to ask different directions and be careful with the sycophancy.",
-      "translatedTitle": "- 撰写了一篇博客文章 - 利用法学硕士学位，花了 4 个小时精心完善了论点……",
-      "translatedBody": "- 写了一篇博客文章\n\n- 用 LLM 花了 4 个小时精心完善论点。\n\n- 哇，感觉真棒，太有说服力了！\n\n- 好主意，我们让它论证相反的观点。\n\n- LLM 彻底推翻了我的论点，并说服我相反的观点才是真的。\n\n- 哈哈\n\nLLM 在被问及时可能会给出一些意见，但它们几乎可以胜任任何方向的论证。这其实是一个非常有用的工具，可以帮助你形成自己的观点，只要确保问不同的问题，并注意不要过度奉承。",
+      "builder": "Claude",
+      "title": "现在计算机的使用已纳入克劳德代码。",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Computer use is now in Claude Code. Claude can open your apps, click through your UI, and test what it built, right f…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Computer use is now in Claude Code.",
+      "originalBody": "Computer use is now in Claude Code.\n\nClaude can open your apps, click through your UI, and test what it built, right from the CLI.\n\nNow in research preview on Pro and Max plans. https://t.co/s2FDQaDmr1",
+      "translatedTitle": "现在计算机的使用已纳入克劳德代码。",
+      "translatedBody": "Claude Code 现在支持计算机操作。\n\nClaude 可以直接通过命令行界面 (CLI) 打开您的应用程序、浏览用户界面并测试其构建的内容。\n\n目前 Pro 和 Max 套餐用户可体验此功能。https://t.co/s2FDQaDmr1",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/karpathy/status/2037921699824607591",
-      "publishedAt": "2026-03-28T15:56:10.000Z",
-      "score": 203.57,
+      "sourceUrl": "https://x.com/claudeai/status/2038663014098899416",
+      "publishedAt": "2026-03-30T17:01:53.000Z",
+      "score": 164.2,
       "engagement": {
-        "likes": 23516,
-        "retweets": 1786,
-        "replies": 1337
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2037969691910848941",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "在我的工作中，我一直有意识地避免陷入错误的等同陷阱……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：False equivalence is a trap I’ve been consciously steering away from in my work the last 5 years. in Zuck’s case it c…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "False equivalence is a trap I’ve been consciously steering away from in my work the…",
-      "originalBody": "False equivalence is a trap I’ve been consciously steering away from in my work the last 5 years. in Zuck’s case it cost him @GoogleDeepMind.\n\nin content/strategy it is common to go wide than deep: “oh we do a, b, c, and d” and put equal weight on all of them. But the world is not fair and power laws compound. Most school systems, bureaucrats, managers, and content curators are not set up for one thing to matter 50x more than the next thing. False equivalence killed my first devtools startup. False equivalence plagues policy making in my home country. False equivalence makes you underpay your top performers and spend too much time on lost causes. \n\nRules:\n\nCarefully bet on a very small set of things. \nDon’t hedge, but keep reversibility.\nSet triggers/levels to monitor if you are wrong.\nSet tests to DOUBLE DOWN EARLY if you are more right than you thought.",
-      "translatedTitle": "在我的工作中，我一直有意识地避免陷入错误的等同陷阱……",
-      "translatedBody": "在过去五年里，我一直有意识地避免在工作中陷入“错误等价”的陷阱。扎克伯格就因为犯了这个错误而失去了谷歌DeepMind。\n\n在内容/策略方面，人们常常会追求面面俱到而忽略深度：“哦，我们做a、b、c和d”，并赋予它们同等的权重。但世界并不公平，幂律效应会叠加。大多数学校系统、官僚机构、管理者和内容策划者并没有做好充分的准备，让一件事的重要性比另一件事高出50倍。“错误等价”扼杀了我的第一个开发者工具创业项目。在我的祖国，错误的等价也困扰着政策制定。错误的等价会导致你低估优秀员工的薪酬，并在注定失败的事情上浪费太多时间。\n\n规则：\n\n谨慎地押注于极少数的事情。\n\n不要对冲风险，但要保持可逆性。\n\n设定触发点/阈值，以便在判断错误时进行监控。\n\n如果你比想象中更准确，那就尽早设置加倍下注测试。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2037969691910848941",
-      "publishedAt": "2026-03-28T19:06:52.000Z",
-      "score": 155.38,
-      "engagement": {
-        "likes": 255,
-        "retweets": 21,
-        "replies": 28
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2037993361450336714",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "Vercel团队本周在美丽的亚利桑那州为我们公司举办的团建活动留下了深刻的印象……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Vercel team left their mark on wonderful Arizona this week for our company offsite 🇺🇸😄 So excited to push the fron…",
-      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Vercel team left their mark on wonderful Arizona this week for our company offsite…",
-      "originalBody": "Vercel team left their mark on wonderful Arizona this week for our company offsite 🇺🇸😄 So excited to push the frontier with such amazing colleagues and friends https://t.co/pFY6gGYYrI",
-      "translatedTitle": "Vercel团队本周在美丽的亚利桑那州为我们公司举办的团建活动留下了深刻的印象……",
-      "translatedBody": "Vercel团队本周在美丽的亚利桑那州留下了深刻的印记，参加了我们公司的团建活动🇺🇸😄 非常激动能与如此优秀的同事和朋友们一起开拓创新！https://t.co/pFY6gGYYrI",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2037993361450336714",
-      "publishedAt": "2026-03-28T20:40:56.000Z",
-      "score": 132.52,
-      "engagement": {
-        "likes": 450,
-        "retweets": 9,
-        "replies": 29
+        "likes": 11545,
+        "retweets": 878,
+        "replies": 869
       },
       "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2038096302781657462",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "嗨，我是你友好的邻居相扑橙子德弗雷尔。",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：hi it’s me your friendly neighborhood sumo orange devrel. these are SOTA Oranges. eating 2 of these every day will ~f…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "hi it’s me your friendly neighborhood sumo orange devrel.",
-      "originalBody": "hi it’s me your friendly neighborhood sumo orange devrel.\n\nthese are SOTA Oranges. eating 2 of these every day will ~fill your daily vitamin C and fiber needs (!!!)\n\nthey are delicious, insanely easy to peel (I am dead serious, this will make you revisit what you think an orange eating experience should be, all other oranges are ruined after eating this one) and you can subscribe weekly on Amazon Fresh for like $8.",
-      "translatedTitle": "嗨，我是你友好的邻居相扑橙子德弗雷尔。",
-      "translatedBody": "嗨，我是你友好的邻居——相扑橙子德夫雷尔。\n\n这些是SOTA橙子。每天吃两个就能满足你每日所需的维生素C和膳食纤维（！！！）\n\n它们美味可口，而且超级容易剥皮（我可不是开玩笑，吃过之后你会重新定义吃橙子的体验，其他橙子在你眼里都黯然失色）。你可以在亚马逊生鲜上每周订阅，价格只要8美元左右。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2038096302781657462",
-      "publishedAt": "2026-03-29T03:29:59.000Z",
-      "score": 126.29,
-      "engagement": {
-        "likes": 104,
-        "retweets": 1,
-        "replies": 21
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2038144755478237654",
-      "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "一款优秀的代理产品应该能够做到其创造者未曾想到的事情……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：A good agent product should be able to do things that its creator did not think it could do For internet-era products…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "A good agent product should be able to do things that its creator did not think it…",
-      "originalBody": "A good agent product should be able to do things that its creator did not think it could do\n\nFor internet-era products, you design all the functionalities and a \"good product\" works according to your expectations\n\nFor agent products, you unleash it and it surprises & delights you with things you didn't think were possible",
-      "translatedTitle": "一款优秀的代理产品应该能够做到其创造者未曾想到的事情……",
-      "translatedBody": "一款优秀的代理产品应该能够做到其开发者最初认为它做不到的事情。\n\n对于互联网时代的产品，你设计所有功能，一款“好产品”就能满足你的预期。\n\n而对于代理产品，你释放它的全部潜能，它却能以你意想不到的方式给你带来惊喜和愉悦。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2038144755478237654",
-      "publishedAt": "2026-03-29T06:42:31.000Z",
-      "score": 69.79,
-      "engagement": {
-        "likes": 13,
-        "retweets": 0,
-        "replies": 5
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2038054087451885747",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "里士满市关闭Flock摄像头以“保护移民”后，汽车盗窃案激增……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：After Richmond disabled its Flock cameras to \"protect immigrants,\" car thefts jumped 33%. Immigrant shopkeepers begge…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "After Richmond disabled its Flock cameras to \"protect immigrants,\" car thefts jumpe…",
-      "originalBody": "After Richmond disabled its Flock cameras to \"protect immigrants,\" car thefts jumped 33%. \n\nImmigrant shopkeepers begged to bring them back. Last week their city council finally listened. \n\nOpposing safety cameras is a luxury belief. \n\nhttps://t.co/4BecRL4WTL",
-      "translatedTitle": "里士满市关闭Flock摄像头以“保护移民”后，汽车盗窃案激增……",
-      "translatedBody": "里士满市为了“保护移民”而关闭了Flock监控摄像头后，汽车盗窃案激增了33%。\n\n移民店主们恳求恢复这些摄像头。上周，市议会终于听取了他们的意见。\n\n反对安装监控摄像头是一种奢侈的想法。\n\nhttps://t.co/4BecRL4WTL",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2038054087451885747",
-      "publishedAt": "2026-03-29T00:42:14.000Z",
-      "score": 61.81,
-      "engagement": {
-        "likes": 935,
-        "retweets": 89,
-        "replies": 36
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2037988925818519763",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "每天都会发生这么多事。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：So much of this, every day. You really have to develop thick skin (exoskeleton?) when working on successful open sour…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "So much of this, every day.",
-      "originalBody": "So much of this, every day. You really have to develop thick skin (exoskeleton?) when working on successful open source.\n\n(The Chrome extension has been removed since Google added native access in 144+, which is simpler, but yes, it does require a one-time setting change) https://t.co/N62y2XfaTW",
-      "translatedTitle": "每天都会发生这么多事。",
-      "translatedBody": "每天都要面对这么多事情。要想成功开发开源项目，你真的需要练就一副厚脸皮（或者说外骨骼？）。\n\n（自从谷歌在 144+ 版本中添加了原生访问方式后，Chrome 扩展程序就被移除了。原生访问方式更简单，但确实需要进行一次性设置更改。）https://t.co/N62y2XfaTW",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2037988925818519763",
-      "publishedAt": "2026-03-28T20:23:18.000Z",
-      "score": 59.41,
-      "engagement": {
-        "likes": 546,
-        "retweets": 20,
-        "replies": 100
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2038074759527981416",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "MCPorter (MCP->CLI)🧳0.8.0 版本已发布。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：MCPorter (MCP->CLI)🧳0.8.0 is out. - stronger OAuth handling for servers - valid JSON output on fallback paths - bett…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "MCPorter (MCP->CLI)🧳0.8.0 is out.",
-      "originalBody": "MCPorter (MCP->CLI)🧳0.8.0 is out.\n\n- stronger OAuth handling for servers\n- valid JSON output on fallback paths\n- better mcporter call behavior and error handling\n- generated CLIs handle object-valued args better\n- keep-alive/daemon reliability https://t.co/Nu9UOBxPam",
-      "translatedTitle": "MCPorter (MCP->CLI)🧳0.8.0 版本已发布。",
-      "translatedBody": "MCPorter (MCP->CLI)🧳0.8.0 版本已发布。\n\n- 增强了服务器端的 OAuth 处理能力\n\n- 备用路径下输出有效的 JSON 格式\n\n- 改进了 mcporter 调用行为和错误处理\n\n- 生成的 CLI 能够更好地处理对象值参数\n\n- 提升了 keep-alive/守护进程的可靠性 https://t.co/Nu9UOBxPam",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2038074759527981416",
-      "publishedAt": "2026-03-29T02:04:22.000Z",
-      "score": 58.84,
-      "engagement": {
-        "likes": 543,
-        "retweets": 41,
-        "replies": 23
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-03-29T07:01:25.090Z",
-    "totalCandidates": 27,
-    "textQualifiedCandidates": 14,
-    "selectedTweets": 8
+    "upstreamGeneratedAt": "2026-03-30T17:54:41.398Z",
+    "totalCandidates": 3,
+    "textQualifiedCandidates": 1,
+    "selectedTweets": 1
   }
 }
