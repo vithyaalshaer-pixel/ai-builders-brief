@@ -1,57 +1,78 @@
 {
-  "date": "2026-03-31",
-  "generatedAt": "2026-03-31T02:48:03.473Z",
+  "date": "2026-04-01",
+  "generatedAt": "2026-04-01T03:18:02.768Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-03-31",
-  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 3 条候选动态里，筛出 1 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-04-01",
+  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 7 条候选动态里，筛出 2 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
     {
       "slug": "coding-agents",
       "label": "Coding Agents"
-    },
-    {
-      "slug": "foundation-models",
-      "label": "Foundation Models"
-    },
-    {
-      "slug": "product-ships",
-      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2038663014098899416",
+      "id": "2039075139741241517",
       "type": "tweet",
-      "builder": "Claude",
-      "title": "现在计算机的使用已纳入克劳德代码。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Computer use is now in Claude Code. Claude can open your apps, click through your UI, and test what it built, right f…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Computer use is now in Claude Code.",
-      "originalBody": "Computer use is now in Claude Code.\n\nClaude can open your apps, click through your UI, and test what it built, right from the CLI.\n\nNow in research preview on Pro and Max plans. https://t.co/s2FDQaDmr1",
-      "translatedTitle": "现在计算机的使用已纳入克劳德代码。",
-      "translatedBody": "Claude Code 现在支持计算机操作。\n\nClaude 可以直接通过命令行界面 (CLI) 打开您的应用程序、浏览用户界面并测试其构建的内容。\n\n目前 Pro 和 Max 套餐用户可体验此功能。https://t.co/s2FDQaDmr1",
+      "builder": "Swyx",
+      "title": "莎拉完成了最不可能的开发者活动——她召集了一大批开发者……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：sarah achieves the most impossible developer events - she got a bunch of developers at a writers meetup to sit togeth…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "sarah achieves the most impossible developer events - she got a bunch of developers…",
+      "originalBody": "sarah achieves the most impossible developer events - she got a bunch of developers at a writers meetup to sit together….\n\n… and actually write 🤯\n\nthanks to @byAnhtho for being our 3rd Writing Mentor!\n\n@allenpark helped with AV and will upload both her and @QuinnyPig video soon",
+      "translatedTitle": "莎拉完成了最不可能的开发者活动——她召集了一大批开发者……",
+      "translatedBody": "Sarah 完成了最不可能的开发者活动——她让一群参加作家聚会的开发者们坐在一起……\n\n……而且真的开始写作了🤯\n\n感谢 @byAnhtho 成为我们的第三位写作导师！\n\n@allenpark 协助完成了音视频部分，她和 @QuinnyPig 的视频很快就会上传。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2038663014098899416",
-      "publishedAt": "2026-03-30T17:01:53.000Z",
-      "score": 164.2,
+      "sourceUrl": "https://x.com/swyx/status/2039075139741241517",
+      "publishedAt": "2026-03-31T20:19:32.000Z",
+      "score": 159.84,
       "engagement": {
-        "likes": 11545,
-        "retweets": 878,
-        "replies": 869
+        "likes": 22,
+        "retweets": 0,
+        "replies": 5
       },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2039130252212154720",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "如果你能让经纪人为你创造奇迹，而且你又有品味和自主权，那么你……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If you can make the agents do magic for you and you have taste and agency, then you could be 16, 20, 30, or 45 or 60…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "If you can make the agents do magic for you and you have taste and agency, then you…",
+      "originalBody": "If you can make the agents do magic for you and you have taste and agency, then you could be 16, 20, 30, or 45 or 60 and it doesn't matter",
+      "translatedTitle": "如果你能让经纪人为你创造奇迹，而且你又有品味和自主权，那么你……",
+      "translatedBody": "如果你能让经纪人为你创造奇迹，而且你自身有品味和魄力，那么无论你是16岁、20岁、30岁、45岁还是60岁，都无关紧要。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2039130252212154720",
+      "publishedAt": "2026-03-31T23:58:31.000Z",
+      "score": 67.47,
+      "engagement": {
+        "likes": 52,
+        "retweets": 1,
+        "replies": 7
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-03-30T17:54:41.398Z",
-    "totalCandidates": 3,
-    "textQualifiedCandidates": 1,
-    "selectedTweets": 1
+    "upstreamGeneratedAt": "2026-04-01T01:00:50.032Z",
+    "totalCandidates": 7,
+    "textQualifiedCandidates": 2,
+    "selectedTweets": 2
   }
 }
