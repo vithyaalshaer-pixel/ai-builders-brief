@@ -1,77 +1,82 @@
 {
-  "date": "2026-04-01",
-  "generatedAt": "2026-04-01T03:18:02.768Z",
+  "date": "2026-04-02",
+  "generatedAt": "2026-04-02T02:44:00.964Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-04-01",
-  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 7 条候选动态里，筛出 2 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-04-02",
+  "summary": "今天最值得看的是 Aaron Levie 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 15 条候选动态里，筛出 2 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
     {
       "slug": "coding-agents",
       "label": "Coding Agents"
+    },
+    {
+      "slug": "product-ships",
+      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2039075139741241517",
+      "id": "2039216522028257549",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "莎拉完成了最不可能的开发者活动——她召集了一大批开发者……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：sarah achieves the most impossible developer events - she got a bunch of developers at a writers meetup to sit togeth…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "sarah achieves the most impossible developer events - she got a bunch of developers…",
-      "originalBody": "sarah achieves the most impossible developer events - she got a bunch of developers at a writers meetup to sit together….\n\n… and actually write 🤯\n\nthanks to @byAnhtho for being our 3rd Writing Mentor!\n\n@allenpark helped with AV and will upload both her and @QuinnyPig video soon",
-      "translatedTitle": "莎拉完成了最不可能的开发者活动——她召集了一大批开发者……",
-      "translatedBody": "Sarah 完成了最不可能的开发者活动——她让一群参加作家聚会的开发者们坐在一起……\n\n……而且真的开始写作了🤯\n\n感谢 @byAnhtho 成为我们的第三位写作导师！\n\n@allenpark 协助完成了音视频部分，她和 @QuinnyPig 的视频很快就会上传。",
+      "builder": "Aaron Levie",
+      "title": "代理商生产力提升的最终限制因素将是关键学生……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The ultimate rate limiter on productivity gains from agents will be on critical stuff like security, compliance, gove…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "The ultimate rate limiter on productivity gains from agents will be on critical stu…",
+      "originalBody": "The ultimate rate limiter on productivity gains from agents will be on critical stuff like security, compliance, governance, the ability to review the work of the agent, ensure that it’s compatible with regulations, and so on. \n\nWe’ve been living in a little bit of la-la land around how much software enterprises are going to ultimately want to vibe code themselves. The last 48 hours represents a good example of why you won’t take on every risk of every piece of technology in your enterprise. \n\nThere’s no free lunch with AI productivity. Companies will have the build up the systems, processes, and controls for ensuring that agents can’t run around and do anything they want on any data at any time.",
+      "translatedTitle": "代理商生产力提升的最终限制因素将是关键学生……",
+      "translatedBody": "最终限制智能体生产力提升的因素将是安全、合规、治理、审查智能体工作、确保其符合法规等关键方面。\n\n我们之前对软件企业最终会如何自主编写代码抱有过高的期望，这有点过于乐观了。过去48小时发生的事情很好地说明了为什么你不会承担企业中每项技术的全部风险。\n\n人工智能生产力提升并非唾手可得。企业必须建立相应的系统、流程和控制措施，以确保智能体不会随时随地随意处理任何数据。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2039075139741241517",
-      "publishedAt": "2026-03-31T20:19:32.000Z",
-      "score": 159.84,
+      "sourceUrl": "https://x.com/levie/status/2039216522028257549",
+      "publishedAt": "2026-04-01T05:41:20.000Z",
+      "score": 79.8,
       "engagement": {
-        "likes": 22,
-        "retweets": 0,
-        "replies": 5
+        "likes": 96,
+        "retweets": 19,
+        "replies": 25
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2039130252212154720",
+      "id": "2039198010681565665",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "如果你能让经纪人为你创造奇迹，而且你又有品味和自主权，那么你……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If you can make the agents do magic for you and you have taste and agency, then you could be 16, 20, 30, or 45 or 60…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "If you can make the agents do magic for you and you have taste and agency, then you…",
-      "originalBody": "If you can make the agents do magic for you and you have taste and agency, then you could be 16, 20, 30, or 45 or 60 and it doesn't matter",
-      "translatedTitle": "如果你能让经纪人为你创造奇迹，而且你又有品味和自主权，那么你……",
-      "translatedBody": "如果你能让经纪人为你创造奇迹，而且你自身有品味和魄力，那么无论你是16岁、20岁、30岁、45岁还是60岁，都无关紧要。",
+      "builder": "Aditya Agarwal",
+      "title": "现在回想起来，Facebook早期“在生产环境中修复bug”的理念听起来简直荒谬……",
+      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Looking back, early Facebook's philosophy of \"fixing bugs in production\" sounded crazy to most people. Maybe the mode…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Looking back, early Facebook's philosophy of \"fixing bugs in production\" sounded cr…",
+      "originalBody": "Looking back, early Facebook's philosophy of \"fixing bugs in production\" sounded crazy to most people.\n\nMaybe the modern version of that is, just let your source code be public.\n\nIf software is so dynamic, maybe this isn't so crazy.\n\nOr maybe it is totally batshit crazy.",
+      "translatedTitle": "现在回想起来，Facebook早期“在生产环境中修复bug”的理念听起来简直荒谬……",
+      "translatedBody": "回想起来，Facebook早期“在生产环境中修复bug”的理念在大多数人看来简直是疯了。\n\n或许现在的版本就是：直接公开源代码。\n\n如果软件如此瞬息万变，或许这也没那么疯狂。\n\n又或许，这完全是疯了。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2039130252212154720",
-      "publishedAt": "2026-03-31T23:58:31.000Z",
-      "score": 67.47,
+      "sourceUrl": "https://x.com/adityaag/status/2039198010681565665",
+      "publishedAt": "2026-04-01T04:27:46.000Z",
+      "score": 42.07,
       "engagement": {
-        "likes": 52,
-        "retweets": 1,
-        "replies": 7
+        "likes": 15,
+        "retweets": 0,
+        "replies": 2
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Product Ships"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-04-01T01:00:50.032Z",
-    "totalCandidates": 7,
+    "upstreamGeneratedAt": "2026-04-01T07:17:38.686Z",
+    "totalCandidates": 15,
     "textQualifiedCandidates": 2,
     "selectedTweets": 2
   }
