@@ -1,10 +1,10 @@
 {
-  "date": "2026-04-02",
-  "generatedAt": "2026-04-02T02:44:00.964Z",
+  "date": "2026-04-03",
+  "generatedAt": "2026-04-03T02:46:20.576Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-04-02",
-  "summary": "今天最值得看的是 Aaron Levie 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 15 条候选动态里，筛出 2 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-04-03",
+  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 27 条候选动态里，筛出 10 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -19,26 +19,51 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2039216522028257549",
+      "id": "2039472186600427903",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "代理商生产力提升的最终限制因素将是关键学生……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The ultimate rate limiter on productivity gains from agents will be on critical stuff like security, compliance, gove…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "The ultimate rate limiter on productivity gains from agents will be on critical stu…",
-      "originalBody": "The ultimate rate limiter on productivity gains from agents will be on critical stuff like security, compliance, governance, the ability to review the work of the agent, ensure that it’s compatible with regulations, and so on. \n\nWe’ve been living in a little bit of la-la land around how much software enterprises are going to ultimately want to vibe code themselves. The last 48 hours represents a good example of why you won’t take on every risk of every piece of technology in your enterprise. \n\nThere’s no free lunch with AI productivity. Companies will have the build up the systems, processes, and controls for ensuring that agents can’t run around and do anything they want on any data at any time.",
-      "translatedTitle": "代理商生产力提升的最终限制因素将是关键学生……",
-      "translatedBody": "最终限制智能体生产力提升的因素将是安全、合规、治理、审查智能体工作、确保其符合法规等关键方面。\n\n我们之前对软件企业最终会如何自主编写代码抱有过高的期望，这有点过于乐观了。过去48小时发生的事情很好地说明了为什么你不会承担企业中每项技术的全部风险。\n\n人工智能生产力提升并非唾手可得。企业必须建立相应的系统、流程和控制措施，以确保智能体不会随时随地随意处理任何数据。",
+      "builder": "Swyx",
+      "title": "“我们选择在本十年内登陆月球并完成其他任务，并非因为……”",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：\"We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "\"We choose to go to the Moon in this decade and do the other things, not because th…",
+      "originalBody": "\"We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard; \n\nbecause that goal will serve to organize and measure the best of our energies and skills, \n\nbecause that challenge is one that we are willing to accept, one we are unwilling to postpone, and one we intend to win, and the others, too.\"",
+      "translatedTitle": "“我们选择在本十年内登陆月球并完成其他任务，并非因为……”",
+      "translatedBody": "“我们选择在本十年内登月并完成其他目标，不是因为它们容易，而是因为它们困难；\n\n因为这个目标将有助于组织和衡量我们最优秀的能量和技能；\n\n因为我们愿意接受这项挑战，不愿推迟，并且决心赢得这项挑战，以及其他挑战。”",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2039216522028257549",
-      "publishedAt": "2026-04-01T05:41:20.000Z",
-      "score": 79.8,
+      "sourceUrl": "https://x.com/swyx/status/2039472186600427903",
+      "publishedAt": "2026-04-01T22:37:15.000Z",
+      "score": 123.68,
       "engagement": {
-        "likes": 96,
-        "retweets": 19,
-        "replies": 25
+        "likes": 68,
+        "retweets": 5,
+        "replies": 10
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2039357127903350960",
+      "type": "tweet",
+      "builder": "Dan Shipper",
+      "title": "SaaS并没有消亡，它只需要与代理程序原生集成。",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：SaaS isn’t dead, it just needs to become agent-native. Linear (@linear) is a great example of how: They pivoted the p…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "SaaS isn’t dead, it just needs to become agent-native.",
+      "originalBody": "SaaS isn’t dead, it just needs to become agent-native. Linear (@linear) is a great example of how:\n\nThey pivoted the product to be used by both humans and agents, and that has made them one of the premier software tools in the agent-native era. \n\nI had Linear’s cofounder and CEO @karrisaarinen on @every's AI & I to talk about how a product management tool for human software developers became an agent-native tool—and how Linear’s trajectory reveals a bright future for SaaS businesses:\n- Speed means decisions matter more, not less. AI makes it easy to have an idea and build it without considering whether its existence is justified. When ChatGPT was released, SaaS companies were launching their own chatbots left, right, and center. Instead of jumping on the bandwagon, Linear stopped to consider whether the application was useful. (It wasn’t.) \n- Just because the technology has changed doesn’t mean your mission should. Karri attributes Linear’s success to never losing sight of what matters: helping teams develop great software. Instead of chasing trends, Linear focused on understanding how AI was impacting its customers’ workflows—and updating its product accordingly.\n- Agents are now first-class users. Linear never tried to change what it was or did well; it just expanded the user base. Companies can now kick off agents inside Linear, manage them, and track what they're working on alongside the humans on the team, which explains why Codex, Coinbase, and Brex all run their agents on Linear. \n\nThis is a must watch for anyone interested in how an agent-native SaaS company operates. \n\nWatch below!\n\nTimestamps:\nIntroduction and how Every first discovered Linear: 00:00:39\nWhy Linear waited to ship AI features instead of rushing to chatbots: 00:02:00\nLinear's agent platform and becoming the system that guides AI agents: 00:05:06\nWhy \"SaaS is dead\" is a simplistic narrative: 00:07:42\nHow Linear adopted AI coding tools internally: 00:12:18\nAI's impact on product building workflows—speed versus thoughtfulness: 00:17:45\nThe value of conceptual work and thinking before shipping: 00:22:18\nHow AI is reshaping Linear's product strategy: 00:29:30\nDemo: Linear's agent skills, shared context, and code review workflow: 00:37:18\nThe future of product development and the enduring role of human judgment: 00:47:48",
+      "translatedTitle": "SaaS并没有消亡，它只需要与代理程序原生集成。",
+      "translatedBody": "SaaS并未消亡，它只是需要转型为原生智能体工具。Linear (@linear) 就是一个很好的例子：\n\n他们将产品转型为既可供人类使用也可供智能体使用，这使他们成为原生智能体时代首屈一指的软件工具之一。\n\n我邀请了Linear的联合创始人兼CEO @karrisaarinen 做客@every 的“AI & I”节目，探讨了这款面向人类软件开发人员的产品管理工具如何转型为原生智能体工具，以及Linear的发展轨迹如何展现了SaaS企业的光明未来：\n\n- 速度意味着决策更加重要，而非不那么重要。人工智能让人们很容易产生想法并将其付诸实践，而无需考虑其存在的合理性。当ChatGPT发布时，SaaS公司纷纷推出自己的聊天机器人。Linear并没有盲目跟风，而是停下来思考这款应用是否真的有用。（答案是否定的。）\n\n- 技术变革并不意味着你的使命也应该改变。 Karri 将 Linear 的成功归功于始终不忘初心：帮助团队开发出色的软件。Linear 没有追逐潮流，而是专注于了解人工智能如何影响客户的工作流程，并据此更新产品。\n\n- 代理现在已成为一流用户。Linear 从未试图改变其自身优势所在，只是不断扩大用户群体。企业现在可以在 Linear 内部启动代理，管理他们，并与团队成员一起跟踪他们的工作进度，这也解释了为什么 Codex、Coinbase 和 Brex 都选择在 Linear 上运行代理。\n\n对于任何对代理原生 SaaS 公司运作方式感兴趣的人来说，这都是必看的。\n\n请观看下方视频！\n\n时间戳：\n\n引言以及Every如何首次发现Linear：00:00:39\n\nLinear为何选择延迟发布AI功能而不是急于推出聊天机器人：00:02:00\n\nLinear的代理平台及其如何成为指导AI代理的系统：00:05:06\n\n“SaaS已死”的说法为何过于简单：00:07:42\n\nLinear如何在内部采用AI编码工具：00:12:18\n\nAI对产品构建工作流程的影响——速度与思考：00:17:45\n\n概念性工作和发布前思考的价值：00:22:18\n\nAI如何重塑Linear的产品战略：00:29:30\n\n演示：Linear的代理技能、共享上下文和代码审查工作流程：00:37:18\n\n产品开发的未来以及人类判断的持久作用：00:47:48",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/danshipper/status/2039357127903350960",
+      "publishedAt": "2026-04-01T15:00:03.000Z",
+      "score": 75.81,
+      "engagement": {
+        "likes": 88,
+        "retweets": 12,
+        "replies": 19
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -47,37 +72,172 @@
       "sourceType": "x"
     },
     {
-      "id": "2039198010681565665",
+      "id": "2039490349941526770",
       "type": "tweet",
-      "builder": "Aditya Agarwal",
-      "title": "现在回想起来，Facebook早期“在生产环境中修复bug”的理念听起来简直荒谬……",
-      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Looking back, early Facebook's philosophy of \"fixing bugs in production\" sounded crazy to most people. Maybe the mode…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Looking back, early Facebook's philosophy of \"fixing bugs in production\" sounded cr…",
-      "originalBody": "Looking back, early Facebook's philosophy of \"fixing bugs in production\" sounded crazy to most people.\n\nMaybe the modern version of that is, just let your source code be public.\n\nIf software is so dynamic, maybe this isn't so crazy.\n\nOr maybe it is totally batshit crazy.",
-      "translatedTitle": "现在回想起来，Facebook早期“在生产环境中修复bug”的理念听起来简直荒谬……",
-      "translatedBody": "回想起来，Facebook早期“在生产环境中修复bug”的理念在大多数人看来简直是疯了。\n\n或许现在的版本就是：直接公开源代码。\n\n如果软件如此瞬息万变，或许这也没那么疯狂。\n\n又或许，这完全是疯了。",
+      "builder": "Nan Yu",
+      "title": "如果你是产品经理、销售人员或技术支持人员，你曾多少次需要麻烦别人……",
+      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：If you're a PM or on sales or support, how many times have you needed to bother an engineer to find out exactly how t…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "If you're a PM or on sales or support, how many times have you needed to bother an…",
+      "originalBody": "If you're a PM or on sales or support, how many times have you needed to bother an engineer to find out exactly how the app works? \n\nI wanted to know exactly what the default setting was for a personal configuration for all of our users. \n\nYou never need to ask an engineer again for this kind of thing, because Linear Agent can just read the code and tell you.",
+      "translatedTitle": "如果你是产品经理、销售人员或技术支持人员，你曾多少次需要麻烦别人……",
+      "translatedBody": "如果你是产品经理、销售或技术支持人员，你是不是经常需要麻烦工程师才能弄清楚应用程序的具体工作原理？\n\n我想知道所有用户的个人配置的默认设置是什么。\n\n你再也不用为此询问工程师了，因为 Linear Agent 可以直接读取代码并告诉你答案。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/adityaag/status/2039198010681565665",
-      "publishedAt": "2026-04-01T04:27:46.000Z",
-      "score": 42.07,
+      "sourceUrl": "https://x.com/thenanyu/status/2039490349941526770",
+      "publishedAt": "2026-04-01T23:49:25.000Z",
+      "score": 71.51,
       "engagement": {
-        "likes": 15,
-        "retweets": 0,
-        "replies": 2
+        "likes": 45,
+        "retweets": 2,
+        "replies": 8
       },
       "matchedFocusAreas": [
+        "Coding Agents",
         "Product Ships"
       ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2039563521885901091",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我认为移动设备和短视频的结合已经腐蚀了很多人的大脑……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I think the combination of mobile and short video has rotted the brains of an entire generation of kids. See so many…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "I think the combination of mobile and short video has rotted the brains of an entir…",
+      "originalBody": "I think the combination of mobile and short video has rotted the brains of an entire generation of kids. \n\nSee so many kids staring at their TikTok, YouTube Shorts, Reels, etc like zombies.",
+      "translatedTitle": "我认为移动设备和短视频的结合已经腐蚀了很多人的大脑……",
+      "translatedBody": "我认为手机和短视频的结合已经腐蚀了整整一代孩子的大脑。\n\n看到那么多孩子像行尸走肉一样盯着他们的TikTok、YouTube Shorts、Reels等等视频。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2039563521885901091",
+      "publishedAt": "2026-04-02T04:40:11.000Z",
+      "score": 71.31,
+      "engagement": {
+        "likes": 24,
+        "retweets": 0,
+        "replies": 11
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2039551079621566812",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "我从不使用平面模式。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I never use plan mode. The main reason this was added to codex is for claude-pilled people who struggle with changing…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I never use plan mode.",
+      "originalBody": "I never use plan mode. \n\nThe main reason this was added to codex is for claude-pilled people who struggle with changing their habits.\n\njust talk with your agent. https://t.co/72fL0alajL",
+      "translatedTitle": "我从不使用平面模式。",
+      "translatedBody": "我从不用计划模式。\n\n之所以把这个功能添加到 Codex 里，主要是为了那些难以改变习惯的“老顽固”。\n\n直接跟你的经纪人谈谈吧。https://t.co/72fL0alajL",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2039551079621566812",
+      "publishedAt": "2026-04-02T03:50:45.000Z",
+      "score": 66.29,
+      "engagement": {
+        "likes": 1726,
+        "retweets": 91,
+        "replies": 225
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2039368866741277074",
+      "type": "tweet",
+      "builder": "Zara Zhang",
+      "title": "隆重推出“关注建设者”技能：掌握最新动态的最佳方式……",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Introducing the \"Follow builders\" skill: the best way to stay on top of the insane happenings in AI I carefully curat…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Introducing the \"Follow builders\" skill: the best way to stay on top of the insane…",
+      "originalBody": "Introducing the \"Follow builders\" skill: the best way to stay on top of the insane happenings in AI\n\nI carefully curated 25 X accounts & podcasts that share the highest-quality, first-hand insights on AI (by builders from OpenAI, Anthropic, Google, OpenClaw, Replit, Vercel, Cursor...)\n\nYour OpenClaw/agent can remix my central feed & send you a personalized daily newsletter in whatever channel you like\n\nAlready widely used with 2k+ stars on GitHub; link below",
+      "translatedTitle": "隆重推出“关注建设者”技能：掌握最新动态的最佳方式……",
+      "translatedBody": "隆重推出“关注开发者”技能：掌握人工智能领域最新动态的最佳途径\n\n我精心挑选了 25 个账号和播客，它们分享来自 OpenAI、Anthropic、Google、OpenClaw、Replit、Vercel、Cursor 等公司的开发者提供的最优质、最权威的人工智能见解。\n\n您的 OpenClaw/代理可以重新整合我的中心信息源，并通过您选择的渠道向您发送个性化的每日新闻简报。\n\n该技能已在 GitHub 上获得 2000 多个 star，并被广泛使用；链接如下。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/zarazhangrui/status/2039368866741277074",
+      "publishedAt": "2026-04-01T15:46:42.000Z",
+      "score": 55.68,
+      "engagement": {
+        "likes": 274,
+        "retweets": 21,
+        "replies": 29
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2039421527935033854",
+      "type": "tweet",
+      "builder": "Cat Wu",
+      "title": "我喜欢在 Claude 手机应用上使用 Claude Code 随时随地激发灵感，然后拍照……",
+      "summary": "Cat Wu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I love using Claude Code on Claude mobile app to fire off ideas on the go, then pick them up on my laptop later. We s…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I love using Claude Code on Claude mobile app to fire off ideas on the go, then pic…",
+      "originalBody": "I love using Claude Code on Claude mobile app to fire off ideas on the go, then pick them up on my laptop later. We support easily teleporting sessions to your local CLI.\n\nDownload link for Claude iOS and Android apps: https://t.co/KkIkUWTKzL https://t.co/xs4jQQXFBW",
+      "translatedTitle": "我喜欢在 Claude 手机应用上使用 Claude Code 随时随地激发灵感，然后拍照……",
+      "translatedBody": "我喜欢在 Claude 移动应用上使用 Claude Code，随时随地记录灵感，之后再用笔记本电脑继续编辑。我们支持轻松地将会话传输到本地命令行界面 (CLI)。\n\nClaude iOS 和 Android 应用下载链接：https://t.co/KkIkUWTKzL https://t.co/xs4jQQXFBW",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/_catwu/status/2039421527935033854",
+      "publishedAt": "2026-04-01T19:15:57.000Z",
+      "score": 52.28,
+      "engagement": {
+        "likes": 143,
+        "retweets": 12,
+        "replies": 13
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2039453692592873587",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "这不是愚人节玩笑，我们重写了 Claude Code 渲染器，使其使用虚拟视口……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验：not an April Fools joke, we rewrote the Claude Code renderer to use a virtual viewport you can use your mouse, the pr…",
+      "whyItMatters": "Thariq 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "not an April Fools joke, we rewrote the Claude Code renderer to use a virtual viewp…",
+      "originalBody": "not an April Fools joke, we rewrote the Claude Code renderer to use a virtual viewport\n\nyou can use your mouse, the prompt input stays at the bottom, and a lot more small UX wins people have been asking for\n\nit's experimental so give us your feedback https://t.co/VqXbsfSlTJ",
+      "translatedTitle": "这不是愚人节玩笑，我们重写了 Claude Code 渲染器，使其使用虚拟视口……",
+      "translatedBody": "这不是愚人节玩笑，我们重写了 Claude Code 渲染器，使其使用虚拟视口。\n\n您可以使用鼠标，提示输入框会保持在底部，还有许多其他用户期待已久的 UX 小改进。\n\n目前还在实验阶段，欢迎您提供反馈：https://t.co/VqXbsfSlTJ",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2039453692592873587",
+      "publishedAt": "2026-04-01T21:23:46.000Z",
+      "score": 39.38,
+      "engagement": {
+        "likes": 1483,
+        "retweets": 54,
+        "replies": 214
+      },
+      "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-04-01T07:17:38.686Z",
-    "totalCandidates": 15,
-    "textQualifiedCandidates": 2,
-    "selectedTweets": 2
+    "upstreamGeneratedAt": "2026-04-02T07:09:15.204Z",
+    "totalCandidates": 27,
+    "textQualifiedCandidates": 10,
+    "selectedTweets": 8
   }
 }
