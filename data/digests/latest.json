@@ -1,10 +1,10 @@
 {
-  "date": "2026-04-03",
-  "generatedAt": "2026-04-03T02:46:20.576Z",
+  "date": "2026-04-04",
+  "generatedAt": "2026-04-04T02:36:46.861Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-04-03",
-  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 27 条候选动态里，筛出 10 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-04-04",
+  "summary": "今天最值得看的是 Andrej Karpathy 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 25 条候选动态里，筛出 9 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,231 +13,242 @@
       "label": "Coding Agents"
     },
     {
+      "slug": "foundation-models",
+      "label": "Foundation Models"
+    },
+    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2039472186600427903",
+      "id": "2039805659525644595",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "“我们选择在本十年内登陆月球并完成其他任务，并非因为……”",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：\"We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "\"We choose to go to the Moon in this decade and do the other things, not because th…",
-      "originalBody": "\"We choose to go to the Moon in this decade and do the other things, not because they are easy, but because they are hard; \n\nbecause that goal will serve to organize and measure the best of our energies and skills, \n\nbecause that challenge is one that we are willing to accept, one we are unwilling to postpone, and one we intend to win, and the others, too.\"",
-      "translatedTitle": "“我们选择在本十年内登陆月球并完成其他任务，并非因为……”",
-      "translatedBody": "“我们选择在本十年内登月并完成其他目标，不是因为它们容易，而是因为它们困难；\n\n因为这个目标将有助于组织和衡量我们最优秀的能量和技能；\n\n因为我们愿意接受这项挑战，不愿推迟，并且决心赢得这项挑战，以及其他挑战。”",
+      "builder": "Andrej Karpathy",
+      "title": "LLM知识库 我最近发现一个非常有用的技巧：使用LLM来构建……",
+      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：LLM Knowledge Bases Something I'm finding very useful recently: using LLMs to build personal knowledge bases for vari…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "LLM Knowledge Bases Something I'm finding very useful recently: using LLMs to build…",
+      "originalBody": "LLM Knowledge Bases\n\nSomething I'm finding very useful recently: using LLMs to build personal knowledge bases for various topics of research interest. In this way, a large fraction of my recent token throughput is going less into manipulating code, and more into manipulating knowledge (stored as markdown and images). The latest LLMs are quite good at it. So:\n\nData ingest:\nI index source documents (articles, papers, repos, datasets, images, etc.) into a raw/ directory, then I use an LLM to incrementally \"compile\" a wiki, which is just a collection of .md files in a directory structure. The wiki includes summaries of all the data in raw/, backlinks, and then it categorizes data into concepts, writes articles for them, and links them all. To convert web articles into .md files I like to use the Obsidian Web Clipper extension, and then I also use a hotkey to download all the related images to local so that my LLM can easily reference them.\n\nIDE:\nI use Obsidian as the IDE \"frontend\" where I can view the raw data, the the compiled wiki, and the derived visualizations. Important to note that the LLM writes and maintains all of the data of the wiki, I rarely touch it directly. I've played with a few Obsidian plugins to render and view data in other ways (e.g. Marp for slides).\n\nQ&A:\nWhere things get interesting is that once your wiki is big enough (e.g. mine on some recent research is ~100 articles and ~400K words), you can ask your LLM agent all kinds of complex questions against the wiki, and it will go off, research the answers, etc. I thought I had to reach for fancy RAG, but the LLM has been pretty good about auto-maintaining index files and brief summaries of all the documents and it reads all the important related data fairly easily at this ~small scale.\n\nOutput:\nInstead of getting answers in text/terminal, I like to have it render markdown files for me, or slide shows (Marp format), or matplotlib images, all of which I then view again in Obsidian. You can imagine many other visual output formats depending on the query. Often, I end up \"filing\" the outputs back into the wiki to enhance it for further queries. So my own explorations and queries always \"add up\" in the knowledge base.\n\nLinting:\nI've run some LLM \"health checks\" over the wiki to e.g. find inconsistent data, impute missing data (with web searchers), find interesting connections for new article candidates, etc., to incrementally clean up the wiki and enhance its overall data integrity. The LLMs are quite good at suggesting further questions to ask and look into.\n\nExtra tools:\nI find myself developing additional tools to process the data, e.g. I vibe coded a small and naive search engine over the wiki, which I both use directly (in a web ui), but more often I want to hand it off to an LLM via CLI as a tool for larger queries. \n\nFurther explorations:\nAs the repo grows, the natural desire is to also think about synthetic data generation + finetuning to have your LLM \"know\" the data in its weights instead of just context windows.\n\nTLDR: raw data from a given number of sources is collected, then compiled by an LLM into a .md wiki, then operated on by various CLIs by the LLM to do Q&A and to incrementally enhance the wiki, and all of it viewable in Obsidian. You rarely ever write or edit the wiki manually, it's the domain of the LLM. I think there is room here for an incredible new product instead of a hacky collection of scripts.",
+      "translatedTitle": "LLM知识库 我最近发现一个非常有用的技巧：使用LLM来构建……",
+      "translatedBody": "LLM 知识库\n\n最近我发现一个非常有用的方法：使用 LLM 构建个人知识库，涵盖各种我感兴趣的研究主题。这样一来，我最近大部分的 token 吞吐量就不再用于代码操作，而是更多地用于知识处理（以 Markdown 和图像形式存储）。最新的 LLM 在这方面表现出色。具体来说：\n\n数据导入：\n\n我将源文档（文章、论文、代码库、数据集、图像等）索引到 raw/ 目录中，然后使用 LLM 逐步“编译”一个 wiki，它实际上就是一个目录结构中的 .md 文件集合。wiki 包含 raw/ 目录中所有数据的摘要、反向链接，然后将数据分类到不同的概念中，为每个概念撰写文章，并将它们链接起来。为了将网页文章转换为 .md 文件，我喜欢使用 Obsidian Web Clipper 扩展程序，然后我还使用快捷键将所有相关的图像下载到本地，以便我的 LLM 可以轻松引用它们。\n\nIDE：\n\n我使用 Obsidian 作为 IDE“前端”，可以在这里查看原始数据、编译后的 wiki 以及生成的可视化图表。需要注意的是，LLM 负责写入和维护 wiki 的所有数据，我很少直接操作它。我尝试过一些 Obsidian 插件，以其他方式渲染和查看数据（例如，使用 Marp 制作幻灯片）。\n\n问答：\n\n有趣的是，一旦你的 wiki 足够大（例如，我最近一项研究的 wiki 大约有 100 篇文章，约 40 万字），你就可以向 LLM 代理提出各种针对 wiki 的复杂问题，它会进行搜索、查找答案等等。我原以为需要使用复杂的 RAG 系统，但 LLM 在自动维护索引文件和所有文档的简要摘要方面做得相当不错，而且在这个小规模下，它也能相当轻松地读取所有重要的相关数据。\n\n输出：\n\n我更喜欢将答案渲染成 Markdown 文件、幻灯片（MARP 格式）或 matplotlib 图像，而不是以文本/终端的形式输出，然后我会在 Obsidian 中再次查看这些内容。您可以想象，根据查询的不同，还可以有许多其他可视化输出格式。通常，我会将这些输出“归档”回 wiki，以便更好地支持后续查询。因此，我自己的探索和查询总是会不断“积累”到知识库中。\n\n代码检查：\n\n我使用 LLM 对 wiki 进行了一些“健康检查”，例如查找不一致的数据、使用网络搜索工具填补缺失数据、寻找与新文章候选相关的有趣联系等等，以逐步清理 wiki 并提高其整体数据完整性。LLM 在提出需要进一步探讨的问题方面非常出色。\n\n其他工具：\n\n我发现自己正在开发一些额外的工具来处理数据，例如……我用 Vibe 代码在 wiki 上编写了一个小型简易的搜索引擎，我既可以直接在 Web 界面中使用它，但更多时候，我希望通过命令行界面 (CLI) 将其交给语言学习管理 (LLM) 工具来处理更复杂的查询。\n\n进一步探索：\n\n随着代码库的增长，自然而然地，我也希望能够考虑生成合成数据并进行微调，让 LLM 能够“了解”其权重中的数据，而不仅仅是上下文窗口。\n\n简而言之：从一定数量的数据源收集原始数据，然后由 LLM 编译成 .md 格式的 wiki 文件，再由 LLM 通过各种 CLI 工具进行操作，以进行问答并逐步完善 wiki，所有这些都可以在 Obsidian 中查看。你几乎不需要手动编写或编辑 wiki，这完全由 LLM 负责。我认为这里有空间开发出一款出色的新产品，而不是一堆蹩脚的脚本。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2039472186600427903",
-      "publishedAt": "2026-04-01T22:37:15.000Z",
-      "score": 123.68,
+      "sourceUrl": "https://x.com/karpathy/status/2039805659525644595",
+      "publishedAt": "2026-04-02T20:42:21.000Z",
+      "score": 227.5,
       "engagement": {
-        "likes": 68,
-        "retweets": 5,
-        "replies": 10
+        "likes": 18265,
+        "retweets": 1950,
+        "replies": 1027
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2039808711452246261",
+      "type": "tweet",
+      "builder": "Andrej Karpathy",
+      "title": "哦，顺着这个思路推演下去，你可以想象，每一个问题都……",
+      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Oh and in the natural extrapolation, you could imagine that every question to a frontier grade LLM spawns a team of L…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "Oh and in the natural extrapolation, you could imagine that every question to a fro…",
+      "originalBody": "Oh and in the natural extrapolation, you could imagine that every question to a frontier grade LLM spawns a team of LLMs to automate the whole thing: iteratively construct an entire ephemeral wiki, lint it, loop a few times, then write a full report. Way beyond a `.decode()`.",
+      "translatedTitle": "哦，顺着这个思路推演下去，你可以想象，每一个问题都……",
+      "translatedBody": "哦，顺着这个思路推演下去，你可以想象，每个向顶尖法学硕士提出的问题都会催生出一个法学硕士团队来自动化整个流程：迭代构建一个完整的临时维基，进行代码检查，循环几次，然后编写一份完整的报告。这远远超出了 `.decode()` 的范畴。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/karpathy/status/2039808711452246261",
+      "publishedAt": "2026-04-02T20:54:29.000Z",
+      "score": 161.39,
+      "engagement": {
+        "likes": 935,
+        "retweets": 35,
+        "replies": 48
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2039773740586918137",
+      "type": "tweet",
+      "builder": "Sam Altman",
+      "title": "TBPN是我最喜欢的科技节目。",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：TBPN is my favorite tech show. We want them to keep that going and for them to do what they do so well. I don't expec…",
+      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "TBPN is my favorite tech show.",
+      "originalBody": "TBPN is my favorite tech show.\n\nWe want them to keep that going and for them to do what they do so well.\n\nI don't expect them to go any easier on us, am sure I'll do my part to help enable that with occasional stupid decisions.",
+      "translatedTitle": "TBPN是我最喜欢的科技节目。",
+      "translatedBody": "TBPN 是我最喜欢的科技节目。\n\n我们希望他们能继续办下去，继续保持他们一贯的优秀水准。\n\n我并不指望他们会对我们手下留情，当然，我偶尔也会做出一些愚蠢的决定，算是“助纣为虐”。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/sama/status/2039773740586918137",
+      "publishedAt": "2026-04-02T18:35:31.000Z",
+      "score": 145.63,
+      "engagement": {
+        "likes": 5080,
+        "retweets": 144,
+        "replies": 649
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2039357127903350960",
+      "id": "2039931799414194621",
       "type": "tweet",
-      "builder": "Dan Shipper",
-      "title": "SaaS并没有消亡，它只需要与代理程序原生集成。",
-      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：SaaS isn’t dead, it just needs to become agent-native. Linear (@linear) is a great example of how: They pivoted the p…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "SaaS isn’t dead, it just needs to become agent-native.",
-      "originalBody": "SaaS isn’t dead, it just needs to become agent-native. Linear (@linear) is a great example of how:\n\nThey pivoted the product to be used by both humans and agents, and that has made them one of the premier software tools in the agent-native era. \n\nI had Linear’s cofounder and CEO @karrisaarinen on @every's AI & I to talk about how a product management tool for human software developers became an agent-native tool—and how Linear’s trajectory reveals a bright future for SaaS businesses:\n- Speed means decisions matter more, not less. AI makes it easy to have an idea and build it without considering whether its existence is justified. When ChatGPT was released, SaaS companies were launching their own chatbots left, right, and center. Instead of jumping on the bandwagon, Linear stopped to consider whether the application was useful. (It wasn’t.) \n- Just because the technology has changed doesn’t mean your mission should. Karri attributes Linear’s success to never losing sight of what matters: helping teams develop great software. Instead of chasing trends, Linear focused on understanding how AI was impacting its customers’ workflows—and updating its product accordingly.\n- Agents are now first-class users. Linear never tried to change what it was or did well; it just expanded the user base. Companies can now kick off agents inside Linear, manage them, and track what they're working on alongside the humans on the team, which explains why Codex, Coinbase, and Brex all run their agents on Linear. \n\nThis is a must watch for anyone interested in how an agent-native SaaS company operates. \n\nWatch below!\n\nTimestamps:\nIntroduction and how Every first discovered Linear: 00:00:39\nWhy Linear waited to ship AI features instead of rushing to chatbots: 00:02:00\nLinear's agent platform and becoming the system that guides AI agents: 00:05:06\nWhy \"SaaS is dead\" is a simplistic narrative: 00:07:42\nHow Linear adopted AI coding tools internally: 00:12:18\nAI's impact on product building workflows—speed versus thoughtfulness: 00:17:45\nThe value of conceptual work and thinking before shipping: 00:22:18\nHow AI is reshaping Linear's product strategy: 00:29:30\nDemo: Linear's agent skills, shared context, and code review workflow: 00:37:18\nThe future of product development and the enduring role of human judgment: 00:47:48",
-      "translatedTitle": "SaaS并没有消亡，它只需要与代理程序原生集成。",
-      "translatedBody": "SaaS并未消亡，它只是需要转型为原生智能体工具。Linear (@linear) 就是一个很好的例子：\n\n他们将产品转型为既可供人类使用也可供智能体使用，这使他们成为原生智能体时代首屈一指的软件工具之一。\n\n我邀请了Linear的联合创始人兼CEO @karrisaarinen 做客@every 的“AI & I”节目，探讨了这款面向人类软件开发人员的产品管理工具如何转型为原生智能体工具，以及Linear的发展轨迹如何展现了SaaS企业的光明未来：\n\n- 速度意味着决策更加重要，而非不那么重要。人工智能让人们很容易产生想法并将其付诸实践，而无需考虑其存在的合理性。当ChatGPT发布时，SaaS公司纷纷推出自己的聊天机器人。Linear并没有盲目跟风，而是停下来思考这款应用是否真的有用。（答案是否定的。）\n\n- 技术变革并不意味着你的使命也应该改变。 Karri 将 Linear 的成功归功于始终不忘初心：帮助团队开发出色的软件。Linear 没有追逐潮流，而是专注于了解人工智能如何影响客户的工作流程，并据此更新产品。\n\n- 代理现在已成为一流用户。Linear 从未试图改变其自身优势所在，只是不断扩大用户群体。企业现在可以在 Linear 内部启动代理，管理他们，并与团队成员一起跟踪他们的工作进度，这也解释了为什么 Codex、Coinbase 和 Brex 都选择在 Linear 上运行代理。\n\n对于任何对代理原生 SaaS 公司运作方式感兴趣的人来说，这都是必看的。\n\n请观看下方视频！\n\n时间戳：\n\n引言以及Every如何首次发现Linear：00:00:39\n\nLinear为何选择延迟发布AI功能而不是急于推出聊天机器人：00:02:00\n\nLinear的代理平台及其如何成为指导AI代理的系统：00:05:06\n\n“SaaS已死”的说法为何过于简单：00:07:42\n\nLinear如何在内部采用AI编码工具：00:12:18\n\nAI对产品构建工作流程的影响——速度与思考：00:17:45\n\n概念性工作和发布前思考的价值：00:22:18\n\nAI如何重塑Linear的产品战略：00:29:30\n\n演示：Linear的代理技能、共享上下文和代码审查工作流程：00:37:18\n\n产品开发的未来以及人类判断的持久作用：00:47:48",
+      "builder": "Aaron Levie",
+      "title": "迄今为止，构建人工智能代理过程中最重要的经验之一就是：你必须非常果断……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：One of the biggest lessons thus far in building AI agents is you have to be brutally unsentimental in your architectu…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "One of the biggest lessons thus far in building AI agents is you have to be brutall…",
+      "originalBody": "One of the biggest lessons thus far in building AI agents is you have to be brutally unsentimental in your architecture. \n\nThe models get better and better at handling things you previously built scaffolding for, you need to ruthlessly jettison your prior tech to get those new performance gains. \n\nThe rough loop of building AI agents looks something like:\n\n1. Build a bunch of systems around the LLM to ensure that the agent can solve specific tasks very well\n\n2. The model capabilities dramatically improve, rendering many of those systems redundant or even harmful\n\n3. Remove prior scaffolding to get the new performance gains from the agent\n\n4. New capabilities emerge in the models that let you solve a new set of much harder problems\n\n5. Go back to step 1 \n\nFor instance, in our new Box Agent, from the moment we designed the original architecture to the ultimate release, we had to evolve multiple components of agent harness simply because some parts were creating unnecessary constraints for the agents as models improved. \n\nThe models continued to get insanely good at more complex reasoning, improvements in using search and other tools, writing code on the fly for new capabilities, improving context window performance for accuracy, and more. \n\nMany of the mitigations we put in place for the Box Agent (like to appropriately find data that users were looking for, or ways of chunking text to deal with context window limitations), eventually meat we got lower quality results or meant we were overfitting for specific use-cases, as soon as the models got better.\n\nThe main lesson is always make sure you’re taking advantage of the frontier capabilities and don’t become nostalgic around the tech you’ve already built.",
+      "translatedTitle": "迄今为止，构建人工智能代理过程中最重要的经验之一就是：你必须非常果断……",
+      "translatedBody": "构建人工智能代理迄今为止最重要的经验之一是，架构设计必须毫不留情。\n\n随着模型在处理之前搭建的框架所涵盖的任务方面不断进步，为了获得新的性能提升，你必须果断地抛弃之前的技术。\n\n构建人工智能代理的大致流程如下：\n\n1. 围绕逻辑层模型 (LLM) 构建一系列系统，以确保代理能够出色地完成特定任务。\n\n2. 模型能力显著提升，导致许多系统变得冗余甚至有害。\n\n3. 移除之前的框架，以获得代理带来的新性能提升。\n\n4. 模型中涌现出新的能力，使你能够解决一系列难度更高的新问题。\n\n5. 回到步骤 1。\n\n例如，在我们新的 Box Agent 中，从最初设计架构到最终发布，我们不得不不断改进代理框架的多个组件，因为随着模型的改进，某些部分会给代理带来不必要的限制。\n\n这些模型在更复杂的推理方面持续飞速发展，搜索和其他工具的使用也得到了改进，新增功能的代码可以即时编写，上下文窗口的性能也得到了提升，从而提高了准确性等等。\n\n我们为 Box Agent 实施的许多缓解措施（例如，更准确地找到用户想要的数据，或者通过文本分块来应对上下文窗口的限制）最终都导致结果质量下降，或者意味着我们对特定用例过度拟合，而这一切都发生在模型性能提升之后。\n\n最重要的教训是：始终要确保充分利用前沿技术，不要对已经开发的技术抱有怀旧之情。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/danshipper/status/2039357127903350960",
-      "publishedAt": "2026-04-01T15:00:03.000Z",
-      "score": 75.81,
+      "sourceUrl": "https://x.com/levie/status/2039931799414194621",
+      "publishedAt": "2026-04-03T05:03:35.000Z",
+      "score": 105.41,
       "engagement": {
-        "likes": 88,
-        "retweets": 12,
-        "replies": 19
+        "likes": 139,
+        "retweets": 16,
+        "replies": 28
       },
       "matchedFocusAreas": [
         "Coding Agents",
+        "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2039490349941526770",
+      "id": "2039895634313187619",
       "type": "tweet",
-      "builder": "Nan Yu",
-      "title": "如果你是产品经理、销售人员或技术支持人员，你曾多少次需要麻烦别人……",
-      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：If you're a PM or on sales or support, how many times have you needed to bother an engineer to find out exactly how t…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "If you're a PM or on sales or support, how many times have you needed to bother an…",
-      "originalBody": "If you're a PM or on sales or support, how many times have you needed to bother an engineer to find out exactly how the app works? \n\nI wanted to know exactly what the default setting was for a personal configuration for all of our users. \n\nYou never need to ask an engineer again for this kind of thing, because Linear Agent can just read the code and tell you.",
-      "translatedTitle": "如果你是产品经理、销售人员或技术支持人员，你曾多少次需要麻烦别人……",
-      "translatedBody": "如果你是产品经理、销售或技术支持人员，你是不是经常需要麻烦工程师才能弄清楚应用程序的具体工作原理？\n\n我想知道所有用户的个人配置的默认设置是什么。\n\n你再也不用为此询问工程师了，因为 Linear Agent 可以直接读取代码并告诉你答案。",
+      "builder": "Ryo Lu",
+      "title": "玻璃与",
+      "summary": "Ryo Lu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：glass vs. black box we believe you should be able to see everything. and be in control of everything. the terminal wa…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "glass vs.",
+      "originalBody": "glass vs. black box\n\nwe believe you should be able to see everything. and be in control of everything.\n\nthe terminal was a black box. one line in, few lines out. you learned to think like the machine.\n\nAI kept the black box and made it more addictive. now you type a wish and pull the lever. something comes out. you accept or reject the whole thing. you see less and think less as the model became better. you became a product of the model.\n\nglass breaks the box to fit you.\n\nthe PM writes a plan and watches it become real. the designer sketches an idea and iterate live in code. the engineer breaks down the systems architecture before a single line is written. the new programmer reads every diff, asks questions, learns, builds intuition. the expert lets it flow and steers when something feels off.\n\nsame tool. different surfaces. infinite depth. your way.\n\nthe agents are visible. the diff is there. the plan is editable. the state is clear. you can Tab and make edits in files when you need to. nothing hides. and nothing is forced. you go as deep as you want, stay as high as you need.\n\nas AI gets more powerful, glass gets more important.\n\nnot because you need to watch every move. but because the best work happens when you know you can. when you add the extra touch that only you would think to add. when you catch the thing the model missed. when you shape it to fit how you actually think and work.\n\nyour shortcuts. your patterns. your taste. the tool learns your way, not the other way around.\n\nyou stay in the driver's seat. not because AI isn't capable. but because the best outcomes come from you and the model thinking together – you thinking, it executing, both getting better.\n\ngive away the wheel and you get mediocre. keep it and you get to build something great.\n\nCursor is glass. watch the agents. stop them. steer them. make them yours.\n\nstay glass.",
+      "translatedTitle": "玻璃与",
+      "translatedBody": "玻璃 vs. 黑匣子\n\n我们相信，你应该能够看到一切，并掌控一切。\n\n终端就像一个黑匣子，输入一行，输出几行。你学会了像机器一样思考。\n\n人工智能保留了黑匣子，并使其更具吸引力。现在，你输入一个愿望，然后拉动拉杆，就会有东西出来。你可以接受或拒绝整个结果。随着模型的不断完善，你看到的越来越少，思考的也越来越少。你最终成为了模型的产物。\n\n玻璃打破了黑匣子，使其更适合你。\n\n项目经理制定计划，并看着它变成现实。设计师勾勒出想法，并在代码中实时迭代。工程师在编写任何一行代码之前，就对系统架构进行分解。新程序员阅读每一个差异，提出问题，学习，培养直觉。专家则顺其自然，并在感觉不对劲时进行引导。\n\n同样的工具，不同的界面，无限的深度，由你掌控。\n\n智能体清晰可见，差异一目了然，计划可编辑，状态一目了然。需要时，你可以随时切换标签页并编辑文件。没有任何隐藏内容，也没有任何强制操作。你可以深入到任何你想深入的地方，也可以停留在你需要的任何高度。\n\n随着人工智能变得越来越强大，这种“玻璃视角”变得越来越重要。\n\n这并非因为你需要监视每一个动作，而是因为当你确信自己能够做到时，才能做出最好的作品。当你添加只有你才能想到的点睛之笔时，当你捕捉到模型遗漏之处时，当你根据自己的实际思考和工作方式来调整它时，才能做出最好的作品。\n\n你的快捷键。你的模式。你的品味。工具会学习你的方式，而不是你去学习工具。\n\n你始终掌控着方向盘。这并非因为人工智能能力不足，而是因为最佳结果来自于你和模型的共同思考——你思考，它执行，双方共同进步。\n\n放弃控制权，你只能得到平庸。掌控它，你才能创造伟大的作品。\n\n光标就是“玻璃视角”。观察智能体。阻止它们。引导它们。让它们为你所用。\n\n保持“玻璃视角”。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thenanyu/status/2039490349941526770",
-      "publishedAt": "2026-04-01T23:49:25.000Z",
-      "score": 71.51,
+      "sourceUrl": "https://x.com/ryolu_/status/2039895634313187619",
+      "publishedAt": "2026-04-03T02:39:53.000Z",
+      "score": 103.65,
       "engagement": {
-        "likes": 45,
-        "retweets": 2,
-        "replies": 8
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2039563521885901091",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我认为移动设备和短视频的结合已经腐蚀了很多人的大脑……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I think the combination of mobile and short video has rotted the brains of an entire generation of kids. See so many…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "I think the combination of mobile and short video has rotted the brains of an entir…",
-      "originalBody": "I think the combination of mobile and short video has rotted the brains of an entire generation of kids. \n\nSee so many kids staring at their TikTok, YouTube Shorts, Reels, etc like zombies.",
-      "translatedTitle": "我认为移动设备和短视频的结合已经腐蚀了很多人的大脑……",
-      "translatedBody": "我认为手机和短视频的结合已经腐蚀了整整一代孩子的大脑。\n\n看到那么多孩子像行尸走肉一样盯着他们的TikTok、YouTube Shorts、Reels等等视频。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2039563521885901091",
-      "publishedAt": "2026-04-02T04:40:11.000Z",
-      "score": 71.31,
-      "engagement": {
-        "likes": 24,
-        "retweets": 0,
-        "replies": 11
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2039551079621566812",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "我从不使用平面模式。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I never use plan mode. The main reason this was added to codex is for claude-pilled people who struggle with changing…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I never use plan mode.",
-      "originalBody": "I never use plan mode. \n\nThe main reason this was added to codex is for claude-pilled people who struggle with changing their habits.\n\njust talk with your agent. https://t.co/72fL0alajL",
-      "translatedTitle": "我从不使用平面模式。",
-      "translatedBody": "我从不用计划模式。\n\n之所以把这个功能添加到 Codex 里，主要是为了那些难以改变习惯的“老顽固”。\n\n直接跟你的经纪人谈谈吧。https://t.co/72fL0alajL",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2039551079621566812",
-      "publishedAt": "2026-04-02T03:50:45.000Z",
-      "score": 66.29,
-      "engagement": {
-        "likes": 1726,
-        "retweets": 91,
-        "replies": 225
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2039368866741277074",
-      "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "隆重推出“关注建设者”技能：掌握最新动态的最佳方式……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Introducing the \"Follow builders\" skill: the best way to stay on top of the insane happenings in AI I carefully curat…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Introducing the \"Follow builders\" skill: the best way to stay on top of the insane…",
-      "originalBody": "Introducing the \"Follow builders\" skill: the best way to stay on top of the insane happenings in AI\n\nI carefully curated 25 X accounts & podcasts that share the highest-quality, first-hand insights on AI (by builders from OpenAI, Anthropic, Google, OpenClaw, Replit, Vercel, Cursor...)\n\nYour OpenClaw/agent can remix my central feed & send you a personalized daily newsletter in whatever channel you like\n\nAlready widely used with 2k+ stars on GitHub; link below",
-      "translatedTitle": "隆重推出“关注建设者”技能：掌握最新动态的最佳方式……",
-      "translatedBody": "隆重推出“关注开发者”技能：掌握人工智能领域最新动态的最佳途径\n\n我精心挑选了 25 个账号和播客，它们分享来自 OpenAI、Anthropic、Google、OpenClaw、Replit、Vercel、Cursor 等公司的开发者提供的最优质、最权威的人工智能见解。\n\n您的 OpenClaw/代理可以重新整合我的中心信息源，并通过您选择的渠道向您发送个性化的每日新闻简报。\n\n该技能已在 GitHub 上获得 2000 多个 star，并被广泛使用；链接如下。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2039368866741277074",
-      "publishedAt": "2026-04-01T15:46:42.000Z",
-      "score": 55.68,
-      "engagement": {
-        "likes": 274,
-        "retweets": 21,
-        "replies": 29
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2039421527935033854",
-      "type": "tweet",
-      "builder": "Cat Wu",
-      "title": "我喜欢在 Claude 手机应用上使用 Claude Code 随时随地激发灵感，然后拍照……",
-      "summary": "Cat Wu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I love using Claude Code on Claude mobile app to fire off ideas on the go, then pick them up on my laptop later. We s…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I love using Claude Code on Claude mobile app to fire off ideas on the go, then pic…",
-      "originalBody": "I love using Claude Code on Claude mobile app to fire off ideas on the go, then pick them up on my laptop later. We support easily teleporting sessions to your local CLI.\n\nDownload link for Claude iOS and Android apps: https://t.co/KkIkUWTKzL https://t.co/xs4jQQXFBW",
-      "translatedTitle": "我喜欢在 Claude 手机应用上使用 Claude Code 随时随地激发灵感，然后拍照……",
-      "translatedBody": "我喜欢在 Claude 移动应用上使用 Claude Code，随时随地记录灵感，之后再用笔记本电脑继续编辑。我们支持轻松地将会话传输到本地命令行界面 (CLI)。\n\nClaude iOS 和 Android 应用下载链接：https://t.co/KkIkUWTKzL https://t.co/xs4jQQXFBW",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/_catwu/status/2039421527935033854",
-      "publishedAt": "2026-04-01T19:15:57.000Z",
-      "score": 52.28,
-      "engagement": {
-        "likes": 143,
-        "retweets": 12,
+        "likes": 205,
+        "retweets": 8,
         "replies": 13
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2039453692592873587",
+      "id": "2039850011044016291",
       "type": "tweet",
-      "builder": "Thariq",
-      "title": "这不是愚人节玩笑，我们重写了 Claude Code 渲染器，使其使用虚拟视口……",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验：not an April Fools joke, we rewrote the Claude Code renderer to use a virtual viewport you can use your mouse, the pr…",
-      "whyItMatters": "Thariq 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "not an April Fools joke, we rewrote the Claude Code renderer to use a virtual viewp…",
-      "originalBody": "not an April Fools joke, we rewrote the Claude Code renderer to use a virtual viewport\n\nyou can use your mouse, the prompt input stays at the bottom, and a lot more small UX wins people have been asking for\n\nit's experimental so give us your feedback https://t.co/VqXbsfSlTJ",
-      "translatedTitle": "这不是愚人节玩笑，我们重写了 Claude Code 渲染器，使其使用虚拟视口……",
-      "translatedBody": "这不是愚人节玩笑，我们重写了 Claude Code 渲染器，使其使用虚拟视口。\n\n您可以使用鼠标，提示输入框会保持在底部，还有许多其他用户期待已久的 UX 小改进。\n\n目前还在实验阶段，欢迎您提供反馈：https://t.co/VqXbsfSlTJ",
+      "builder": "Peter Yang",
+      "title": "我刚刚试用了 Cursor 3，新界面好多了。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I just tried out Cursor 3 and the new interface is much better. The old one had far too many buttons and toggles that…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "I just tried out Cursor 3 and the new interface is much better.",
+      "originalBody": "I just tried out Cursor 3 and the new interface is much better. The old one had far too many buttons and toggles that got in the way of just talking to the agent.\n\nI think this should just be the default view? Why do I need to press cmd+shift+p to use it? https://t.co/Pvup1xJ8k1 https://t.co/dtIYyD8W9A",
+      "translatedTitle": "我刚刚试用了 Cursor 3，新界面好多了。",
+      "translatedBody": "我刚试用了 Cursor 3，新界面好多了。旧界面按钮和开关太多，反而妨碍了和客服人员直接沟通。\n\n我觉得这应该设为默认视图才对？为什么我需要按 cmd+shift+p 才能使用？https://t.co/Pvup1xJ8k1 https://t.co/dtIYyD8W9A",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2039453692592873587",
-      "publishedAt": "2026-04-01T21:23:46.000Z",
-      "score": 39.38,
+      "sourceUrl": "https://x.com/petergyang/status/2039850011044016291",
+      "publishedAt": "2026-04-02T23:38:35.000Z",
+      "score": 76.22,
       "engagement": {
-        "likes": 1483,
-        "retweets": 54,
-        "replies": 214
+        "likes": 122,
+        "retweets": 3,
+        "replies": 16
       },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2039898958814974021",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我已经带孩子们去过三个迪士尼乐园了（洛杉矶、东京、上海）。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I’ve taken my kids to 3 Disneylands now (LA, Tokyo, Shanghai). Tips on how to survive the visit and avoid 3 hour line…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "I’ve taken my kids to 3 Disneylands now (LA, Tokyo, Shanghai).",
+      "originalBody": "I’ve taken my kids to 3 Disneylands now (LA, Tokyo, Shanghai). Tips on how to survive the visit and avoid 3 hour lines:\n\n1. Get early access by staying at the Disney hotel or purchasing early access separately. The first hour is key. \n\n2. Go to the most popular ride right away. Run to it if you can. \n\n3. Buy premier pass for the two other most popular rides and go on those. \n\n4. If you’re staying at the park hotel, leave the park for a nice lunch and go back to the hotel to take a nap during peak hours.\n\n5. Come back to the park at like 5 pm. Lines should be shorter then.\n\n6. Save a spot to watch the fireworks 30-60 min before it starts depending on crowds.\n\n7. When everyone’s leaving the park after fireworks that’s your chance to go on the popular rides again. Lines should be very short then.\n\n8. Be prepared to walk like 20,000 steps during the day.\n\nGLHF",
+      "translatedTitle": "我已经带孩子们去过三个迪士尼乐园了（洛杉矶、东京、上海）。",
+      "translatedBody": "我已经带孩子们去过三个迪士尼乐园了（洛杉矶、东京、上海）。以下是一些游玩小贴士，教你如何避免排三小时的队：\n\n1. 入住迪士尼酒店或单独购买提前入园门票，即可享受提前入园的特权。第一个小时至关重要。\n\n2. 一进园就直奔最热门的游乐设施。如果可以，就跑过去。\n\n3. 购买另外两个热门游乐设施的优先通行证，优先体验它们。\n\n4. 如果你住在乐园酒店，可以在高峰时段离开乐园去享用一顿美味的午餐，然后回酒店小憩一会儿。\n\n5. 下午五点左右再回到乐园。那时排队的人应该会少一些。\n\n6. 根据人流量，在烟花表演开始前30-60分钟找个好位置观看。\n\n7. 烟花表演结束后，当大家都离开乐园时，就是你再次体验热门游乐设施的好机会。那时排队的人应该会非常少。\n\n8. 做好一天步行两万步的准备。\n\n祝你好运！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2039898958814974021",
+      "publishedAt": "2026-04-03T02:53:05.000Z",
+      "score": 74.72,
+      "engagement": {
+        "likes": 86,
+        "retweets": 2,
+        "replies": 12
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2039782190838686088",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "预测：这将扼杀一些开源项目。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Prediction: This is gonna kill some oss projects. \"On the kernel security list we've seen a huge bump of reports. We…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Prediction: This is gonna kill some oss projects.",
+      "originalBody": "Prediction: This is gonna kill some oss projects.\n\n\"On the kernel security list we've seen a huge bump of reports. We were between 2 and 3 per week maybe two years ago, then reached probably 10 a week over the last year with the only difference being only AI slop, and now since the beginning of the year we're around 5-10 per day depending on the days (fridays and tuesdays seem the worst). Now most of these reports are correct, to the point that we had to bring in more maintainers to help us.\" https://t.co/rK7evxZjUR",
+      "translatedTitle": "预测：这将扼杀一些开源项目。",
+      "translatedBody": "预测：这会扼杀一些开源项目。\n\n“内核安全邮件列表上的报告数量激增。两年前，我们每周大概收到 2 到 3 份报告，去年达到了每周 10 份左右，唯一的区别是人工智能相关的漏洞。而从今年年初开始，我们每天大约收到 5 到 10 份报告，具体数量取决于日期（周五和周二似乎最多）。现在，这些报告大部分都是正确的，以至于我们不得不增加维护人员来帮忙。” https://t.co/rK7evxZjUR",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2039782190838686088",
+      "publishedAt": "2026-04-02T19:09:06.000Z",
+      "score": 62.28,
+      "engagement": {
+        "likes": 1044,
+        "retweets": 57,
+        "replies": 79
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-04-02T07:09:15.204Z",
-    "totalCandidates": 27,
-    "textQualifiedCandidates": 10,
+    "upstreamGeneratedAt": "2026-04-03T07:05:08.698Z",
+    "totalCandidates": 25,
+    "textQualifiedCandidates": 9,
     "selectedTweets": 8
   }
 }
