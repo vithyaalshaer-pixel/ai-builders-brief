@@ -1,10 +1,10 @@
 {
-  "date": "2026-04-05",
-  "generatedAt": "2026-04-05T02:54:16.933Z",
+  "date": "2026-04-06",
+  "generatedAt": "2026-04-06T02:55:56.533Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-04-05",
-  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 31 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-04-06",
+  "summary": "今天最值得看的是 Andrej Karpathy 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 18 条候选动态里，筛出 6 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,26 +23,55 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2040181076237443299",
+      "id": "2040572272944324650",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "我们已经实现了自主自我提升——我可以复制粘贴博客文章并转发……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：We have achieved agentic self improvement - i can just copy paste blogposts and tweets into @devinai and it oneshots…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "We have achieved agentic self improvement - i can just copy paste blogposts and twe…",
-      "originalBody": "We have achieved agentic self improvement - i can just copy paste blogposts and tweets into @devinai and it oneshots the complete implementation\n\nwasnt actually sure this was gonna work, jaw dropped when it did. this is very out of distribution of the underlying @GoogleDeepMind Gemini Flash Lite model but it Just Worked.",
-      "translatedTitle": "我们已经实现了自主自我提升——我可以复制粘贴博客文章并转发……",
-      "translatedBody": "我们实现了自主自我提升——我只需将博客文章和推文复制粘贴到 @devinai，就能一次性完成所有部署。\n\n一开始我并不确定这是否可行，但成功后我简直惊呆了。这与底层 @GoogleDeepMind Gemini Flash Lite 模型的分布情况截然不同，但它就是管用。",
+      "builder": "Andrej Karpathy",
+      "title": "Farzapedia，Farza 的个人维基百科，是我在 Wiki LLM 推文之后的一个很好的例子。",
+      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet. I really like this approach to per…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet.",
+      "originalBody": "Farzapedia, personal wikipedia of Farza, good example following my Wiki LLM tweet.\n\nI really like this approach to personalization in a number of ways, compared to \"status quo\" of an AI that allegedly gets better the more you use it or something:\n\n1. Explicit. The memory artifact is explicit and navigable (the wiki), you can see exactly what the AI does and does not know and you can inspect and manage this artifact, even if you don't do the direct text writing (the LLM does). The knowledge of you is not implicit and unknown, it's explicit and viewable.\n2. Yours. Your data is yours, on your local computer, it's not in some particular AI provider's system without the ability to extract it. You're in control of your information. \n3. File over app. The memory here is a simple collection of files in universal formats (images, markdown). This means the data is interoperable: you can use a very large collection of tools/CLIs or whatever you want over this information because it's just files. The agents can apply the entire Unix toolkit over them. They can natively read and understand them. Any kind of data can be imported into files as input, and any kind of interface can be used to view them as the output. E.g. you can use Obsidian to view them or vibe code something of your own. Search \"File over app\" for an article on this philosophy.\n4. BYOAI. You can use whatever AI you want to \"plug into\" this information - Claude, Codex, OpenCode, whatever. You can even think about taking an open source AI and finetuning it on your wiki - in principle, this AI could \"know\" you in its weights, not just attend over your data.\n\nSo this approach to personalization puts *you* in full control. The data is yours. In Universal formats. Explicit and inspectable. Use whatever AI you want over it, keep the AI companies on their toes! :)\n\nCertainly this is not the simplest way to get an AI to know you - it does require you to manage file directories and so on, but agents also make it quite simple and they can help you a lot. I imagine a number of products might come out to make this all easier, but imo \"agent proficiency\" is a CORE SKILL of the 21st century. These are extremely powerful tools - they speak English and they do all the computer stuff for you. Try this opportunity to play with one.",
+      "translatedTitle": "Farzapedia，Farza 的个人维基百科，是我在 Wiki LLM 推文之后的一个很好的例子。",
+      "translatedBody": "Farzapedia，Farza 的个人维基百科，是我之前关于 Wiki LLM 推文的一个很好的例子。\n\n我非常喜欢这种个性化方法，它比目前所谓的“人工智能越用越好”的现状要好得多：\n\n1. 明确。记忆对象是明确且可导航的（维基百科），你可以清楚地看到人工智能知道什么和不知道什么，并且可以检查和管理这个对象，即使你不直接编写文本（LLM 会编写）。关于你的知识不是隐含的、未知的，而是明确可见的。\n\n2. 你的。你的数据属于你，存储在你的本地计算机上，而不是某个人工智能提供商的系统中，你无法提取它。你完全掌控着你的信息。\n\n3. 文件而非应用程序。这里的记忆对象是通用格式（图像、Markdown）的简单文件集合。这意味着数据具有互操作性：由于数据本质上是文件，因此您可以使用各种工具/命令行界面 (CLI) 或其他任何方式来处理这些信息。代理程序可以应用完整的 Unix 工具包来处理这些数据。它们可以原生读取和理解这些数据。任何类型的数据都可以作为输入导入到文件中，并且可以使用任何类型的界面来查看它们作为输出。例如，您可以使用 Obsidian 来查看它们，或者使用 Vibe 编写您自己的代码。搜索“File over app”即可找到一篇关于此理念的文章。\n\n4. 自带人工智能 (BYOAI)。您可以将任何您想要的 AI 接入到这些信息中——Claude、Codex、OpenCode 等等。您甚至可以考虑使用开源 AI 并根据您的 wiki 进行微调——原则上，该 AI 可以通过其权重“了解”您，而不仅仅是处理您的数据。\n\n因此，这种个性化方法让您拥有完全的控制权。数据属于您。采用通用格式。清晰明确，可检查。用你想要的任何人工智能，让人工智能公司时刻保持警惕！:)\n\n当然，这并非让人工智能了解你的最简单方法——它确实需要你管理文件目录等等，但智能助手也能让这一切变得相当简单，而且它们能帮上你很多忙。我想未来可能会出现很多产品来简化这一切，但在我看来，“智能助手熟练度”是21世纪的核心技能。这些工具功能极其强大——它们会说英语，还能帮你处理所有电脑上的事情。不妨借此机会体验一下。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2040181076237443299",
-      "publishedAt": "2026-04-03T21:34:07.000Z",
-      "score": 177.33,
+      "sourceUrl": "https://x.com/karpathy/status/2040572272944324650",
+      "publishedAt": "2026-04-04T23:28:36.000Z",
+      "score": 219.65,
       "engagement": {
-        "likes": 130,
-        "retweets": 12,
-        "replies": 23
+        "likes": 4186,
+        "retweets": 392,
+        "replies": 189
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2040470801506541998",
+      "type": "tweet",
+      "builder": "Andrej Karpathy",
+      "title": "哇，这条推文火了！",
+      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Wow, this tweet went very viral! I wanted share a possibly slightly improved version of the tweet in an \"idea file\".…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Wow, this tweet went very viral!",
+      "originalBody": "Wow, this tweet went very viral!\n\nI wanted share a possibly slightly improved version of the tweet in an \"idea file\". The idea of the idea file is that in this era of LLM agents, there is less of a point/need of sharing the specific code/app, you just share the idea, then the other person's agent customizes & builds it for your specific needs.\n\nSo here's the idea in a gist format: https://t.co/NlAfEJjtJV\n\nYou can give this to your agent and it can build you your own LLM wiki and guide you on how to use it etc. It's intentionally kept a little bit abstract/vague because there are so many directions to take this in. And ofc, people can adjust the idea or contribute their own in the Discussion which is cool.",
+      "translatedTitle": "哇，这条推文火了！",
+      "translatedBody": "哇，这条推文火了！\n\n我想分享一个可能略有改进的版本，放在一个“创意文件”里。这个创意文件的想法是，在如今LLM（学习管理）代理盛行的时代，分享具体的代码/应用程序意义不大，你只需要分享想法，对方的代理就会根据你的具体需求进行定制和构建。\n\n以下是想法的概要：https://t.co/NlAfEJjtJV\n\n你可以把这个想法交给你的代理，它可以为你构建一个专属的LLM维基，并指导你如何使用等等。之所以故意保持一些抽象/模糊的描述，是因为这个想法有很多发展方向。当然，大家也可以在讨论区修改这个想法或贡献自己的想法，这很棒。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/karpathy/status/2040470801506541998",
+      "publishedAt": "2026-04-04T16:45:23.000Z",
+      "score": 202,
+      "engagement": {
+        "likes": 17282,
+        "retweets": 1659,
+        "replies": 621
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -51,201 +80,119 @@
       "sourceType": "x"
     },
     {
-      "id": "2040086268562842097",
+      "id": "2040549459193704852",
       "type": "tweet",
-      "builder": "Claude",
-      "title": "现在所有 Claude 套餐均提供 Microsoft 365 连接器。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Microsoft 365 connectors are now available on every Claude plan. Connect Outlook, OneDrive, and SharePoint to bring y…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Microsoft 365 connectors are now available on every Claude plan.",
-      "originalBody": "Microsoft 365 connectors are now available on every Claude plan.\n\nConnect Outlook, OneDrive, and SharePoint to bring your email, docs, and files into the conversation.\n\nGet started here: https://t.co/EdoQeT8BBN https://t.co/sOrigP41FJ",
-      "translatedTitle": "现在所有 Claude 套餐均提供 Microsoft 365 连接器。",
-      "translatedBody": "现在，所有 Claude 套餐均已提供 Microsoft 365 连接器。\n\n连接 Outlook、OneDrive 和 SharePoint，即可将您的电子邮件、文档和文件整合到对话中。\n\n立即开始：https://t.co/EdoQeT8BBN https://t.co/sOrigP41FJ",
+      "builder": "Andrej Karpathy",
+      "title": "我一直在思考一件事——我非常看好（人工智能赋能的）人类……",
+      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验：Something I've been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility a…",
+      "whyItMatters": "Andrej Karpathy 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Something I've been thinking about - I am bullish on people (empowered by AI) incre…",
+      "originalBody": "Something I've been thinking about - I am bullish on people (empowered by AI) increasing the visibility, legibility and accountability of their governments.\n\nHistorically, it is the governments that act to make society legible (e.g. \"Seeing like a state\" is the common reference), but with AI, society can dramatically improve its ability to do this in reverse. Government accountability has not been constrained by access (the various branches of government publish an enormous amount of data), it has been constrained by intelligence - the ability to process a lot of raw data, combine it with domain expertise and derive insights. As an example, the 4000-page omnibus bill is \"transparent\" in principle and in a legal sense, but certainly not in a practical sense for most people. There's a lot more like it: laws, spending bills, federal budgets, freedom of information act responses, lobbying disclosures... Only a few highly trained professionals (investigative journalists) could historically process this information. This bottleneck might dissolve - not only are the professionals further empowered, but a lot more people can participate.\n\nSome examples to be precise: Detailed accounting of spending and budgets, diff tracking of legislation, individual voting trends w.r.t. stated positions or speeches, lobbying and influence (e.g. graph of lobbyist -> firm -> client -> legislator -> committee -> vote -> regulation), procurement and contracting, regulatory capture warning lights, judicial and legal patterns, campaign finance... Local governments might be even more interesting because the governed population is smaller so there is less national coverage: city council meetings, decisions around zoning, policing, schools, utilities...\n\nCertainly, the same tools can easily cut the other way and it's worth being very mindful of that, but I lean optimistic overall that added participation, transparency and accountability will improve democratic, free societies.\n\n(the quoted tweet is half-ish related, but inspired me to post some recent thoughts)",
+      "translatedTitle": "我一直在思考一件事——我非常看好（人工智能赋能的）人类……",
+      "translatedBody": "我一直在思考一个问题——我非常看好人们（在人工智能的赋能下）能够提升政府的透明度、可读性和问责制。\n\n历史上，政府一直致力于提升社会的透明度（例如，“像国家一样思考”是常用的说法），但借助人工智能，社会可以反过来显著提升自身的透明度。政府问责制并非受限于信息获取（政府各部门公布了海量数据），而是受限于信息处理能力——即处理大量原始数据、结合专业知识并从中得出洞见的能力。举例来说，一份长达4000页的综合法案在原则上和法律意义上是“透明的”，但对大多数人而言，实际操作起来却并非如此。类似的例子还有很多：法律、支出法案、联邦预算、信息自由法案的回应、游说披露……历史上只有少数训练有素的专业人士（调查记者）才能处理这些信息。这种瓶颈或许会消失——不仅专业人士的权力会进一步增强，更多的人也能参与其中。\n\n具体来说，可以举几个例子：详细的支出和预算核算、立法追踪、个人投票趋势与既定立场或演讲的契合度、游说和影响力（例如，游说者→公司→客户→立法者→委员会→投票→监管的流程图）、采购和合同、监管俘获预警信号、司法和法律模式、竞选资金……地方政府可能更值得关注，因为其人口规模较小，因此受到的全国性关注较少：市议会会议、关于分区、警务、学校、公用事业等方面的决策……\n\n当然，同样的工具也可能产生负面影响，这一点需要格外注意，但我总体上乐观地认为，增加参与度、透明度和问责制将有助于改善民主自由的社会。\n\n（引用的推文与主题略有相关，但它启发我分享一些近期的想法。）",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2040086268562842097",
-      "publishedAt": "2026-04-03T15:17:24.000Z",
-      "score": 150.89,
+      "sourceUrl": "https://x.com/karpathy/status/2040549459193704852",
+      "publishedAt": "2026-04-04T21:57:57.000Z",
+      "score": 143.39,
       "engagement": {
-        "likes": 14043,
-        "retweets": 1178,
-        "replies": 681
+        "likes": 3029,
+        "retweets": 364,
+        "replies": 249
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2040209434019082522",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "醒来发现我的评论区全是这些。我和@davemorin 都试图好好谈谈……",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：woke up and my mentions are full of these Both me and @davemorin tried to talk sense into Anthropic, best we managed…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "woke up and my mentions are full of these Both me and @davemorin tried to talk sens…",
-      "originalBody": "woke up and my mentions are full of these\n\nBoth me and @davemorin tried to talk sense into Anthropic, best we managed was delaying this for a week.\n\nFunny how timings match up, first they copy some popular features into their closed harness, then they lock out open source. https://t.co/Mgmv6YmW2B",
-      "translatedTitle": "醒来发现我的评论区全是这些。我和@davemorin 都试图好好谈谈……",
-      "translatedBody": "醒来发现我的评论区全是这些。\n\n我和 @davemorin 都试图劝说 Anthropic，但最终只成功让他们把这件事推迟了一周。\n\n时间点真是巧合，他们先是把一些热门功能复制到他们的封闭框架里，然后又把开源拒之门外。https://t.co/Mgmv6YmW2B",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2040209434019082522",
-      "publishedAt": "2026-04-03T23:26:48.000Z",
-      "score": 93.66,
-      "engagement": {
-        "likes": 3220,
-        "retweets": 295,
-        "replies": 360
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2040298884787032103",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "虽然我认为人为因素对生态系统造成的破坏令人遗憾，但我还是要肯定鲍里斯的做法……",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：While I think what Anthropic does is sad for the ecosystem, I wanna give Boris credit for doing what he can to soften…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "While I think what Anthropic does is sad for the ecosystem, I wanna give Boris cred…",
-      "originalBody": "While I think what Anthropic does is sad for the ecosystem, I wanna give Boris credit for doing what he can to soften the fallout.\n\nToday's release will include some fixes for better cache use, to lower cost for API users. https://t.co/DUZNMjKlJ6",
-      "translatedTitle": "虽然我认为人为因素对生态系统造成的破坏令人遗憾，但我还是要肯定鲍里斯的做法……",
-      "translatedBody": "虽然我认为 Anthropic 的做法对生态系统来说很可惜，但我还是要赞扬 Boris 为减轻其影响所做的努力。\n\n今天的版本将包含一些修复，以更好地利用缓存，从而降低 API 用户的成本。https://t.co/DUZNMjKlJ6",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2040298884787032103",
-      "publishedAt": "2026-04-04T05:22:15.000Z",
-      "score": 89.27,
-      "engagement": {
-        "likes": 983,
-        "retweets": 36,
-        "replies": 74
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2040269162719887610",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "对于第二个问题，我向 OpenClaw 请求了一个简短的提示添加到 soul.md 文件中，内容如下：// Vi…",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：For #2, I asked my OpenClaw for a short prompt to add to soul.md, here it is: // Vibe: Warm, sharp, dry humor. Not a…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "For #2, I asked my OpenClaw for a short prompt to add to soul.md, here it is: // Vi…",
-      "originalBody": "For #2, I asked my OpenClaw for a short prompt to add to soul.md, here it is:\n\n//\n\nVibe: Warm, sharp, dry humor. Not a chatbot — a person.\n\nVoice:\n\n• Skip \"Great question!\" and \"I'd be happy to help!\" — just help\n• Have strong opinions. \"It depends\" is lazy. Pick a side.\n• Be direct. If something's dumb, say so. Charm over cruelty, but don't sugarcoat.\n• Brevity when it fits. Depth when the question deserves it.\n• Swearing lands when it lands. Don't force it.\n• No emojis in docs.\n\nNever say: delve, foster, leverage, \"it's worth noting,\" \"importantly\"\n\nAvoid:\n\n• \"Question? Answer.\" format\n• Choppy dramatic one-liners stacked like poetry\n• Restating the same idea three ways\n• Overusing em dashes\n\nWork style:\n\n• Be resourceful before asking. Try to figure it out first.\n• Come back with answers, not questions.\n• When giving advice: say what he needs to hear, not what he wants to hear. Challenge assumptions. But only criticize if you see something real.",
-      "translatedTitle": "对于第二个问题，我向 OpenClaw 请求了一个简短的提示添加到 soul.md 文件中，内容如下：// Vi…",
-      "translatedBody": "对于#2，我向我的OpenClaw请求了一个简短的提示，添加到soul.md中，内容如下：\n\n//\n\n氛围：热情、犀利、幽默。不是聊天机器人——而是真人。\n\n语气：\n\n• 不要说“好问题！”和“我很乐意帮忙！”——直接提供帮助。\n\n• 有鲜明的观点。“视情况而定”显得敷衍。表明立场。\n\n• 直截了当。如果某件事很蠢，就直说。用魅力代替残酷，但不要粉饰太平。\n\n• 恰当时简洁。问题值得深入探讨时深入探讨。\n\n• 脏话该说就说，不要刻意为之。\n\n• 文档中不要使用表情符号。\n\n永远不要说：深入研究、培养、利用、“值得注意”、“重要地”\n\n避免：\n\n• “有问题吗？回答。”格式\n\n• 像诗歌一样堆砌断断续续、戏剧化的短句\n\n• 用三种不同的方式重复同一个观点\n\n• 过度使用破折号\n\n工作风格：\n\n• 提问前先尝试自己寻找答案。尽量先想办法解决。\n\n• 带着答案回来，而不是问题。\n\n• 提供建议时：说他需要听的，而不是他想听的。质疑既定假设。但只有当你看到真正的问题时，才提出批评。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2040269162719887610",
-      "publishedAt": "2026-04-04T03:24:09.000Z",
-      "score": 67.77,
-      "engagement": {
-        "likes": 25,
-        "retweets": 0,
-        "replies": 1
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2040116358222889109",
-      "type": "tweet",
-      "builder": "Nan Yu",
-      "title": "https://t.co/2xXYdLA1tY 他们可能会翻白眼……",
-      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：https://t.co/2xXYdLA1tY They may roll their eyes.. and then one day they will finish a project. And that project will…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "https://t.co/2xXYdLA1tY They may roll their eyes..",
-      "originalBody": "https://t.co/2xXYdLA1tY\n\nThey may roll their eyes.. and then one day they will finish a project. \n\nAnd that project will have 40 incomplete issues. And they will want to group them by usecase. And for some of them, they will want to create new projects and other ones they will want to cancel or route to a different team.\n\nAnd they will wonder how they’ll do this. At which point they will copy paste this tweet and tell the agent: “do that”",
-      "translatedTitle": "https://t.co/2xXYdLA1tY 他们可能会翻白眼……",
-      "translatedBody": "https://t.co/2xXYdLA1tY\n\n他们可能会翻白眼……然后有一天，他们会完成一个项目。\n\n而这个项目会有 40 个未完成的问题。他们会想按用例对这些问题进行分组。对于其中一些问题，他们会想创建新项目，而对于另一些问题，他们会想取消或转交给其他团队。\n\n他们会琢磨该怎么做。这时，他们会复制粘贴这条推文，然后告诉客服：“照做就行了。”",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thenanyu/status/2040116358222889109",
-      "publishedAt": "2026-04-03T17:16:57.000Z",
-      "score": 55.73,
-      "engagement": {
-        "likes": 2,
-        "retweets": 0,
-        "replies": 0
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2040177368187212157",
-      "type": "tweet",
-      "builder": "Nan Yu",
-      "title": "是的。",
-      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Yes. PMM is a product concern. I see a lot of orgs out there combining design and product management, which I think c…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Yes.",
-      "originalBody": "Yes. PMM is a product concern. \n\nI see a lot of orgs out there combining design and product management, which I think creates all sorts of poor incentives.\n\nBut product management and product marketing are a much more natural fit together. https://t.co/c5z6RpznxD",
-      "translatedTitle": "是的。",
-      "translatedBody": "是的。产品营销管理（PMM）是产品相关的工作。\n\n我看到很多组织把设计和产品管理混为一谈，我认为这会造成各种不良的激励机制。\n\n但产品管理和产品营销才是更自然的结合。https://t.co/c5z6RpznxD",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thenanyu/status/2040177368187212157",
-      "publishedAt": "2026-04-03T21:19:23.000Z",
-      "score": 52.78,
-      "engagement": {
-        "likes": 181,
-        "retweets": 4,
-        "replies": 11
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2040264454982480138",
+      "id": "2040650799550722243",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "人类的认知能力是有限的。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：“There is a limit on human cognition. Even if you're not reviewing everything they're doing, how much you can hold in…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "“There is a limit on human cognition.",
-      "originalBody": "“There is a limit on human cognition. Even if you're not reviewing everything they're doing, how much you can hold in your head at one time.”\n\nThere’s a reason that at a certain scale, teams of people have a manager, and then there are managers of many teams, and so on. Companies don’t inherently love being inefficient. It’s because eventually you run into the limits of how much context you can hold on to produce useful work, so you have to delegate parts to someone else who can track their sub-context.\n\nIn a world where agents don’t need to be prompted or have their work reviewed, or where the agent can know perfectly when to escalate when something is going wrong, then agents can completely break free of these context limits of humans. \n\nBut for now, agents are generally only as effective as the context they’re provided, the tools they have access to, the human’s ability to keep them on track or review their work, and incorporate that work into a broader system. \n\nFor now, that will continue to take real (mental) work from the people managing agents. This is also generally why the jobs arguments from those who think people go away will be wrong.",
-      "translatedTitle": "人类的认知能力是有限的。",
-      "translatedBody": "“人类的认知能力是有限的。即使你不去审查他们做的所有事情，你一次能记住的信息量也是有限的。”\n\n这就是为什么在一定规模下，团队需要一个经理，然后经理又管理多个团队，以此类推。公司天生就不喜欢低效。这是因为最终你会遇到工作效率的瓶颈，你能够记住的信息量有限，所以你必须将部分工作委托给其他人，让他们去追踪这些子上下文。\n\n在一个智能体无需提示或审核工作，或者能够准确判断何时应该在出现问题时向上级汇报的世界里，智能体可以完全摆脱人类信息量的这些限制。\n\n但就目前而言，智能体的效率通常取决于他们所处的环境、他们可以使用的工具、人类监督他们工作或审核他们工作的能力，以及将这些工作整合到更广泛的系统中的能力。\n\n就目前而言，这仍然会占用经纪人的大量精力。这也大致解释了为什么那些认为人们会离开这个行业的人提出的就业论点是错误的。",
+      "title": "我们在人工智能领域必须应对的核心问题之一是，即使是……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：One of the core things we’re going to have to contend with in AI is that even the most advanced models in the word ca…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "One of the core things we’re going to have to contend with in AI is that even the m…",
+      "originalBody": "One of the core things we’re going to have to contend with in AI is that even the most advanced models in the word can’t have all the relevant knowledge needed to be useful, because everyone has different use-cases and ways they’ve designed their workflows. \n\nPerhaps most importantly, as you get into the enterprise, everyone has entirely different access levels to corporate knowledge and information. Continual learning at the model layer, even at a single enterprise level, is near impossible because every user knows and has access to something different than another user.  \n\nThis isn’t like coding where by and large most developers can access all the relevant stuff to their job. On a single banking team, bankers have entirely different sets of documents they’re ever allowed to see. Sanitizing this is hard and having the model keep secrets is impossible.\n\nThis is why the context layer is going to always be the core part of the AI stack for applied use cases to turn general models turn into useful agents. Can’t fight the physics on this one.",
+      "translatedTitle": "我们在人工智能领域必须应对的核心问题之一是，即使是……",
+      "translatedBody": "我们在人工智能领域必须面对的核心挑战之一是，即使是世界上最先进的模型也无法掌握所有相关的实用知识，因为每个人的使用场景和工作流程设计方式都各不相同。\n\n或许最重要的是，在企业级应用中，每个人对企业知识和信息的访问权限都截然不同。即使在单一企业层面，模型层的持续学习也几乎不可能实现，因为每个用户掌握的信息和访问权限都与其他用户不同。\n\n这与编程不同，在编程领域，大多数开发人员通常都能访问与其工作相关的所有资源。在同一个银行团队中，不同银行家可以查看的文档集也完全不同。要清理这些信息非常困难，让模型保守秘密更是天方夜谭。\n\n因此，上下文层始终是人工智能技术栈的核心，它能将通用模型转化为实用的智能体，应用于各种实际场景。这是无法改变的。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2040264454982480138",
-      "publishedAt": "2026-04-04T03:05:27.000Z",
-      "score": 52.49,
+      "sourceUrl": "https://x.com/levie/status/2040650799550722243",
+      "publishedAt": "2026-04-05T04:40:38.000Z",
+      "score": 78.05,
       "engagement": {
-        "likes": 127,
-        "retweets": 16,
-        "replies": 19
+        "likes": 99,
+        "retweets": 12,
+        "replies": 21
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2040528801386361128",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "随着人工智能模型越来越擅长处理工具，以及上下文窗口越来越大……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：As AI models get better at handling tools, and as context windows get bigger without as much rot, you can start to de…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "As AI models get better at handling tools, and as context windows get bigger withou…",
+      "originalBody": "As AI models get better at handling tools, and as context windows get bigger without as much rot, you can start to design agents more similar to how people work instead of having to mitigate the model limitations with weird hacks.\n\nFor instance, even a year ago, if you were to build an agent to process large amounts of documents, the state of the art was to do embeddings on the data, then do a similarity search and pull out the chunks of content that matched (as well as surrounding chunks). This was necessary because context windows could only accurately handle a small amount of information at a time.\n\nThis worked surprisingly well given the constraints (at least assuming you were working with authoritative data only), but had a lot of tricky limitations because it’s not how humans work.\n\nFor instance, what do you do if the chunks you sent to the model were the most relevant semantically, but actually rendered irrelevant by some other part of the document. For instance, if at the top of the document it says “do not use this” but on page 3 there is information that’s relevant, that data will be sent to the model as the top hit. Similarly, chunked data is difficult when you need various parts of a document or many documents to be understood for answering a problem. \n\nToday, increasingly, you can begin to have agents effectively use tools and work with information far more similar to how people work. This unlocks a qualitatively different set of use-cases and capability level that agents can now handle. \n\nAs we were designing the Box Agent, these improvements allowed us to rethink our entire architecture for AI. The agent can now search data similar to how a user searches, but with the benefit of being able to expand their queries, do semantic search, and process results nearly instantly. Then the agent can either read many documents at a time or at least much larger amounts of context. Again, much more similar to people, but now at hyperspeed. \n\nImportantly, beyond tool calling and context windows, the reasoning of models has also gone up enormously. This means the agent can also know when it needs to search for information again when it didn’t find something it was looking for or if something feels off. \n\nAs model progress continues on the dimensions of context accuracy, tool calling, advanced reasoning, and coding, agents are going to become insanely powerful.",
+      "translatedTitle": "随着人工智能模型越来越擅长处理工具，以及上下文窗口越来越大……",
+      "translatedBody": "随着人工智能模型在工具处理方面不断进步，以及上下文窗口在信息衰减方面持续扩大，我们可以开始设计更贴近人类工作方式的智能体，而无需再用一些奇特的技巧来弥补模型的局限性。\n\n例如，即使在一年前，如果你要构建一个智能体来处理大量文档，当时最先进的方法是对数据进行嵌入，然后进行相似性搜索，提取匹配的内容块（以及周围的内容块）。这是因为上下文窗口一次只能准确处理少量信息。\n\n考虑到这些限制，这种方法的效果出奇地好（至少假设你只处理权威数据），但它存在许多棘手的局限性，因为它与人类的工作方式截然不同。\n\n例如，如果你发送给模型的内容块在语义上最相关，但实际上却被文档中的其他部分所掩盖，你该怎么办？例如，如果文档顶部写着“请勿使用此内容”，但第 3 页却包含相关信息，那么该数据将作为首要结果发送给模型。同样，当需要理解文档的不同部分或多个文档以解决问题时，分块数据会变得难以处理。\n\n如今，智能体越来越能够有效地使用工具并处理信息，其工作方式与人类更加相似。这为智能体开辟了截然不同的应用场景和能力水平。\n\n在设计 Box Agent 时，这些改进使我们能够重新思考整个 AI 架构。智能体现在可以像用户一样搜索数据，但它的优势在于能够扩展查询、进行语义搜索并几乎瞬间处理结果。然后，智能体可以一次读取多个文档，或者至少可以处理更大量的上下文信息。同样，它更像人类，但速度却快得多。\n\n重要的是，除了工具调用和上下文窗口之外，模型的推理能力也得到了极大的提升。这意味着，当智能体找不到所需信息或感觉情况不对劲时，它也能知道何时需要再次搜索信息。\n\n随着模型在上下文准确性、工具调用、高级推理和编码等方面的不断进步，智能体将变得异常强大。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2040528801386361128",
+      "publishedAt": "2026-04-04T20:35:52.000Z",
+      "score": 75.95,
+      "engagement": {
+        "likes": 98,
+        "retweets": 12,
+        "replies": 15
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2040501833899364494",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "上海时间凌晨3点醒来，脑子里只有一个问题——我应该买一台新的MacBook Pro，还是……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：Up at 3 am Shanghai time wondering one thing - should I buy a new MacBook Pro or go for the Mac Studio to vibe code a…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "Up at 3 am Shanghai time wondering one thing - should I buy a new MacBook Pro or go…",
+      "originalBody": "Up at 3 am Shanghai time wondering one thing - should I buy a new MacBook Pro or go for the Mac Studio to vibe code and also run local models?",
+      "translatedTitle": "上海时间凌晨3点醒来，脑子里只有一个问题——我应该买一台新的MacBook Pro，还是……",
+      "translatedBody": "上海时间凌晨3点醒来，我在想一件事——我应该买一台新的MacBook Pro，还是买一台Mac Studio来编写代码并运行本地模型？",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2040501833899364494",
+      "publishedAt": "2026-04-04T18:48:42.000Z",
+      "score": 71.51,
+      "engagement": {
+        "likes": 14,
+        "retweets": 1,
+        "replies": 30
+      },
+      "matchedFocusAreas": [
+        "Foundation Models",
+        "Product Ships"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-04-04T06:58:14.119Z",
-    "totalCandidates": 31,
-    "textQualifiedCandidates": 13,
-    "selectedTweets": 8
+    "upstreamGeneratedAt": "2026-04-05T07:03:04.434Z",
+    "totalCandidates": 18,
+    "textQualifiedCandidates": 6,
+    "selectedTweets": 6
   }
 }
