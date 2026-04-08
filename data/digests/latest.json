@@ -1,10 +1,10 @@
 {
-  "date": "2026-04-07",
-  "generatedAt": "2026-04-07T02:49:28.693Z",
+  "date": "2026-04-08",
+  "generatedAt": "2026-04-08T02:50:34.612Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-04-07",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 26 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-04-08",
+  "summary": "今天最值得看的是 Aaron Levie 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 22 条候选动态里，筛出 8 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,145 +13,32 @@
       "label": "Coding Agents"
     },
     {
-      "slug": "foundation-models",
-      "label": "Foundation Models"
-    },
-    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2040879055990632715",
+      "id": "2041347596342460439",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "@vercel 团队始终倾听客户的声音，并与客户在 @x 上进行互动。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：The @vercel team is always listening and engaging with customers on @x. We shape the product as a result of these con…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "The @vercel team is always listening and engaging with customers on @x.",
-      "originalBody": "The @vercel team is always listening and engaging with customers on @x. We shape the product as a result of these conversations.\n\nVercel gives us the velocity to ship, X gives us a nonstop stream of user feedback. Thanks @simhskal & @riyvir! https://t.co/8FxoT66mfv",
-      "translatedTitle": "@vercel 团队始终倾听客户的声音，并与客户在 @x 上进行互动。",
-      "translatedBody": "Vercel 团队始终在 @x 平台上倾听并与用户互动。我们根据这些对话不断改进产品。\n\nVercel 为我们提供了快速交付的能力，而 X 平台则为我们提供了源源不断的用户反馈。感谢 @simhskal 和 @riyvir！https://t.co/8FxoT66mfv",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2040879055990632715",
-      "publishedAt": "2026-04-05T19:47:39.000Z",
-      "score": 164.07,
-      "engagement": {
-        "likes": 1537,
-        "retweets": 44,
-        "replies": 118
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2040806346556428585",
-      "type": "tweet",
-      "builder": "Andrej Karpathy",
-      "title": "GitHub gist 上的评论质量之高让我感到惊讶。",
-      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Surprised with how good the comments on github gists are. A lot more helpful, insightful, constructive, a lot less AI…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Surprised with how good the comments on github gists are.",
-      "originalBody": "Surprised with how good the comments on github gists are. A lot more helpful, insightful, constructive, a lot less AI... Is it the user community? The markdown format? The (lack of) incentives?\n\nSuddenly feeling like I should gist more.\n@github consider competing with X (?)",
-      "translatedTitle": "GitHub gist 上的评论质量之高让我感到惊讶。",
-      "translatedBody": "GitHub gist 上的评论质量之高让我感到惊讶。评论更有帮助、更有见地、更有建设性，人工智能的成分也少了很多……是用户社区的功劳？Markdown 格式的功劳？还是激励机制（或缺乏激励机制）的功劳？\n\n突然觉得我应该多写点 gist。\n\n@github 考虑一下和 X 竞争（？）",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/karpathy/status/2040806346556428585",
-      "publishedAt": "2026-04-05T14:58:44.000Z",
-      "score": 158.45,
-      "engagement": {
-        "likes": 479,
-        "retweets": 15,
-        "replies": 69
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2040822340532236565",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "使用 @v0 的超逼真物理引擎在月球上创建了一面旗帜：https://t.c…",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Created a flag on the moon based with hyper-realistic physics with @v0: https://t.co/XyE8a2xBEB. The flag is simulate…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Created a flag on the moon based with hyper-realistic physics with @v0: https://t.c…",
-      "originalBody": "Created a flag on the moon based with hyper-realistic physics with @v0: https://t.co/XyE8a2xBEB.\n\nThe flag is simulated as a grid of particles connected by springs (cloth simulation). It's influenced by gravity, wind, air resistance.\n\nThe initial approach v0 one-shotted was quite simplistic, but giving it references to more sophisticated approaches in C++ and Rust quickly improved it. It was mind-blowing it to see it deeply understand the physics and port new ideas across languages.\n\nIt simulated a real sun for lighting, and procedurally generated moon-like terrain with craters. I found a sick free texture on Reddit that I uploaded and it layered on top.\n\nAnother epic moment was watching it improve performance. It seamlessly moved the physics simulation to a Web Worker. (Kinda cool to see given we just improved support for them in Turbopack 😉)",
-      "translatedTitle": "使用 @v0 的超逼真物理引擎在月球上创建了一面旗帜：https://t.c…",
-      "translatedBody": "我用 @v0 制作了一个基于超逼真物理效果的月球旗帜：https://t.co/XyE8a2xBEB。\n\n旗帜的模拟方式是将粒子网格通过弹簧连接（模拟布料）。它会受到重力、风和空气阻力的影响。\n\nv0 的初始版本非常简单，但参考了 C++ 和 Rust 中更复杂的方法后，它很快就得到了改进。看到它能够深入理解物理原理并将新想法移植到其他语言中，真是令人惊叹。\n\n它模拟了真实的太阳光照，并程序化生成了带有陨石坑的月球地形。我在 Reddit 上找到了一张很棒的免费纹理，上传后叠加在了上面。\n\n另一个激动人心的时刻是看到它的性能提升。它无缝地将物理模拟迁移到了 Web Worker 中。（考虑到我们刚刚在 Turbopack 中改进了对 Web Worker 的支持，这真是太酷了 😉）",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2040822340532236565",
-      "publishedAt": "2026-04-05T16:02:17.000Z",
-      "score": 157.89,
-      "engagement": {
-        "likes": 410,
-        "retweets": 13,
-        "replies": 76
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2040943889822232790",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "为什么 OpenAI 不关注 @embirico（Codex 产品负责人）的路线图：“在 @Open…",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：Why OpenAI doesn't focus on roadmaps from @embirico (Codex product lead): \"At @OpenAI, you either plan near or long-t…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "Why OpenAI doesn't focus on roadmaps from @embirico (Codex product lead): \"At @Open…",
-      "originalBody": "Why OpenAI doesn't focus on roadmaps from @embirico (Codex product lead):\n\n\"At @OpenAI, you either plan near or long-term, but you never plan medium-term. It's just too difficult.\n\nNear-term is up to eight weeks from now. What is a concrete thing you can rally a team to ship? [Long-term] is having a vibe that's like, a year from now on how the models will be smarter.\n\nThe product roadmap is an in-between thing that's just kind of awkward. We basically don't have a roadmap.\n\nWe have a combination of a long-term direction and short term bets that we think bring us in that direction.\"\n\n📌 Watch the full interview here: https://t.co/2lbvdTiQUl",
-      "translatedTitle": "为什么 OpenAI 不关注 @embirico（Codex 产品负责人）的路线图：“在 @Open…",
-      "translatedBody": "OpenAI 不制定产品路线图的原因，来自 @embirico（Codex 产品负责人）：\n\n“在 @OpenAI，你要么制定近期计划，要么制定长期计划，但你从不制定中期计划。这太难了。\n\n近期计划指的是未来八周内。你能拿出什么具体的东西来激励团队去交付？[长期计划]则是对未来一年模型如何变得更智能有一个大致的规划。\n\n产品路线图介于两者之间，有点尴尬。我们基本上没有路线图。\n\n我们结合了长期方向和我们认为能帮助我们实现长期方向的短期举措。”\n\n📌 点击此处观看完整采访：https://t.co/2lbvdTiQUl",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2040943889822232790",
-      "publishedAt": "2026-04-06T00:05:16.000Z",
-      "score": 79.98,
-      "engagement": {
-        "likes": 272,
-        "retweets": 12,
-        "replies": 12
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2040956069699297314",
-      "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "将用户代理变成你的营销人员：现在当我开发一项新技能/应用时，我会包含……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Turn the user's agent into your marketer: Now when I make a new skill/app, I include this line in the prompt for my a…",
+      "builder": "Aaron Levie",
+      "title": "当你的代理人外出为你工作时，工作就转移到了上一级……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：When you have agents going out and doing work for you, the work just moved up a layer of abstraction. Now the work is…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Turn the user's agent into your marketer: Now when I make a new skill/app, I includ…",
-      "originalBody": "Turn the user's agent into your marketer:\n\nNow when I make a new skill/app, I include this line in the prompt for my agent when it's writing the AGENTS.md file:\n\n\"We want the agent to introduce the product's features and benefits for the user and walk them through how to use it. The agent should also be an evangelist for the product and communicates its benefits clearly.\"\n\nSince these skills/apps don't have GUI, the agent is the interface. It should communicate the \"why\" of the product clearly",
-      "translatedTitle": "将用户代理变成你的营销人员：现在当我开发一项新技能/应用时，我会包含……",
-      "translatedBody": "将用户代理变成你的营销人员：\n\n现在，当我创建一个新的技能/应用时，我会在代理编写 AGENTS.md 文件时，在提示信息中添加以下代码：\n\n“我们希望代理向用户介绍产品的功能和优势，并指导他们如何使用。代理还应该成为产品的推广者，清晰地传达产品的优势。”\n\n由于这些技能/应用没有图形用户界面 (GUI)，代理本身就是界面。它应该清晰地传达产品的“意义”。",
+      "originalTitle": "When you have agents going out and doing work for you, the work just moved up a lay…",
+      "originalBody": "When you have agents going out and doing work for you, the work just moved up a layer of abstraction.\n\nNow the work is figuring out what to tell the agent to do, ensuring you give it proper instructions, getting needed context to the agent to do its tasks, intervening when it goes off task, reviewing the final work, and incorporating the output into something else. Any one of these components being off and poof you will have useless work product.\n\nEven as agents can complete longer horizon tasks, these steps don’t go away. In fact the longer the task the more the planning and review stages will necessarily take up. You are now the editor. A manager. A producer. The taste matters, understanding the craft of what you’re doing matters, and the skills ultimately matter.\n\nAI Agents haven’t changed any of this. We’re going to automate away the annoying parts of work and keep the more enjoyable parts. But the work is still there, just different.",
+      "translatedTitle": "当你的代理人外出为你工作时，工作就转移到了上一级……",
+      "translatedBody": "当智能体为你工作时，工作本身只是提升了一个抽象层次。\n\n现在，工作内容变成了：思考该如何指示智能体执行任务，确保你给予它正确的指令，为智能体提供完成任务所需的上下文信息，在它偏离任务时进行干预，审核最终成果，并将输出整合到其他项目中。任何一个环节出现问题，都会导致最终成果毫无用处。\n\n即使智能体能够完成周期更长的任务，这些步骤也不会消失。事实上，任务周期越长，规划和审核阶段所占用的时间就越多。你现在既是编辑，又是管理者，还是制片人。品味至关重要，对工作技艺的理解至关重要，最终，技能才是关键。\n\n人工智能智能体并没有改变这一切。我们将自动化那些繁琐的工作，保留那些更令人愉悦的部分。但工作本身依然存在，只是形式有所不同。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2040956069699297314",
-      "publishedAt": "2026-04-06T00:53:40.000Z",
-      "score": 74.1,
+      "sourceUrl": "https://x.com/levie/status/2041347596342460439",
+      "publishedAt": "2026-04-07T02:49:28.000Z",
+      "score": 76.92,
       "engagement": {
-        "likes": 79,
-        "retweets": 5,
-        "replies": 8
+        "likes": 112,
+        "retweets": 16,
+        "replies": 20
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -160,26 +47,54 @@
       "sourceType": "x"
     },
     {
-      "id": "2040967947275948357",
+      "id": "2041331383344443795",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "人工智能代理能够提高效率的领域还有很多……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：There are far more categories where AI agents making things more efficient will induce demand for that skill than spa…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "There are far more categories where AI agents making things more efficient will ind…",
-      "originalBody": "There are far more categories where AI agents making things more efficient will induce demand for that skill than spaces where agents eliminate the work. This is why the AI jobs predictions will not play out as advertised. \n\nAI making it easy to produce more code will mean we start to apply code to far more parts of our businesses. We will build automation and software for things that wouldn’t have made sense before. Marketing automation, client onboarding, modernizing old systems, doing far more research on existing data, and more. More engineers.\n\nFar more software will mean vastly more security risks. This will mean far more people thinking through system security, compliance, and governance. This used to be primarily manual and only large companies could afford this work. AI will make it so more companies care about this (and maybe can do something about it), causing more security roles.\n\nAI will also lower the cost of a bunch of previously relatively niche or harder to access categories of work. Companies will now be doing 10X more with video and graphics, and will need people to manage that work. More media. We’re going to have a near unlimited set of legal challenges in a world of AI as AI helps write even more bespoke and complicated legal docs. More lawyers. \n\nThen there’s the impact of AI efficiency on non-office worker jobs. Talked to a customer that said they’re going to make scheduling medical appointments and getting referrals so efficient the next problem will be there will be no booking time slots available. More healthcare. Many industries will have this same dynamic play out.\n\nThe examples are endless once you start to think through second order effects of agents making work more efficient.",
-      "translatedTitle": "人工智能代理能够提高效率的领域还有很多……",
-      "translatedBody": "人工智能代理能够提高效率的领域远比能够取代工作的领域多，因此，人工智能代理能够创造更多技能需求的领域也远比它们能够取代工作的领域多。这就是为什么人工智能就业预测不会像宣传的那样实现的原因。\n\n人工智能使编写更多代码变得更加容易，这意味着我们将开始在业务的更多方面应用代码。我们将为以前不适用的事项构建自动化和软件，例如营销自动化、客户导入、旧系统现代化、对现有数据进行更深入的研究等等。这将需要更多的工程师。\n\n软件数量的激增意味着安全风险的大幅增加。这意味着更多的人需要思考系统安全、合规性和治理问题。过去，这些工作主要依靠人工，只有大型公司才能负担得起。人工智能将使更多公司关注这些问题（并可能采取一些措施），从而催生更多安全岗位。\n\n人工智能还将降低许多以前相对小众或难以进入的工作类别的成本。公司现在在视频和图形方面的工作量将增加十倍，因此需要更多人来管理这些工作。这将催生更多媒体行业。在人工智能时代，我们将面临几乎无穷无尽的法律挑战，因为人工智能可以帮助撰写更加定制化和复杂的法律文件。律师的需求量将会增加。\n\n此外，人工智能效率的提升也会对非办公室工作岗位产生影响。我曾与一位客户交流，他表示，人工智能将使预约就诊和转诊流程变得极其高效，以至于下一个问题可能是预约名额已满。医疗保健行业将面临更大的挑战。许多行业都将经历类似的动态变化。\n\n一旦开始思考人工智能提高工作效率带来的二阶效应，就会发现这样的例子不胜枚举。",
+      "builder": "Peter Yang",
+      "title": "我和我的朋友@illscience（a16z GP）就世界的未来进行了一次愉快的聊天……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I had a wonderful chat with my friend @illscience (a16z GP) about the future of work in an AI agent first world: 1. C…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "I had a wonderful chat with my friend @illscience (a16z GP) about the future of wor…",
+      "originalBody": "I had a wonderful chat with my friend @illscience (a16z GP) about the future of work in an AI agent first world:\n\n1. Coding will eat all knowledge work\n\nWriting docs, building slides, pulling analytics — I now get the first 80% done through AI coding agents before doing manual polish for the last 20%. I never start from zero anymore.\n\n2. Small teams will outperform large orgs\n\nAnish and I both remember sitting in 3-hour OKR meetings thinking \"this is wasting my life.\" This generation's founders know to stay tiny on purpose. 2-3 person product teams with a swarm of agents will replace overstaffed orgs.\n\n3. Apps for completing tasks will shrink\n\nEver since I wired up Google Workspace, Mercury, and other APIs to my OpenClaw, I barely use those apps anymore.  But I still scroll X every day. Apps that entertain you will outlast the ones you open to get stuff done.\n\n4. We'll all have personal agents that understand us deeply\n\nI was on a walk with my OpenClaw and it said: \"You keep talking about your career and business. Just remember your kids are 7 and 4. They're going to grow up soon - optimize for spending time with them instead.\" That was a great wake-up call I didn't expect.\n\n5. Human ambition has no ceiling\n\nThe shape of the economy is changing, not shrinking. We'll hopefully see more one-person companies and small teams in light of ongoing layoffs from big tech. As someone tweeted recently, \"The job market is so bad I have no choice but to pursue my dreams.\"\n\n📌 Watch now: https://t.co/Axm2XrSymb",
+      "translatedTitle": "我和我的朋友@illscience（a16z GP）就世界的未来进行了一次愉快的聊天……",
+      "translatedBody": "我和我的朋友 @illscience (a16z GP) 就人工智能优先时代的工作未来进行了一次精彩的对话：\n\n1. 编码将取代所有知识型工作\n\n编写文档、制作幻灯片、提取分析数据——现在，我只需通过人工智能编码代理完成 80% 的工作，然后再手动润色剩余的 20%。我再也不用从零开始了。\n\n2. 小团队将超越大团队\n\n我和 Anish 都记得以前参加长达 3 小时的 OKR 会议时，心里想着“这简直是在浪费生命”。而这一代的创始人懂得刻意保持小规模。由 2-3 人组成的产品团队，配备大量人工智能代理，将取代人手过剩的组织。\n\n3. 用于完成任务的应用程序将会减少\n\n自从我将 Google Workspace、Mercury 和其他 API 连接到我的 OpenClaw 后，我就几乎不再使用这些应用程序了。但我仍然每天浏览 X。那些娱乐性的应用程序将会比那些用于完成任务的应用程序更受欢迎。\n\n4. 我们都会拥有真正了解我们的私人智能助手\n\n我带着我的 OpenClaw 散步时，它突然说：“你一直在谈论你的事业和生意。但别忘了你的孩子才 7 岁和 4 岁。他们很快就会长大——你应该把更多的时间花在陪伴他们身上。” 这真是一个意想不到的醍醐灌顶。\n\n5. 人类的雄心壮志永无止境\n\n经济格局正在发生变化，而非萎缩。鉴于大型科技公司持续裁员，我们或许会看到更多一人公司和小团队的出现。正如最近有人在推特上所说：“就业市场如此糟糕，我别无选择，只能追逐我的梦想。”\n\n📌 立即观看：https://t.co/Axm2XrSymb",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2040967947275948357",
-      "publishedAt": "2026-04-06T01:40:52.000Z",
-      "score": 54.23,
+      "sourceUrl": "https://x.com/petergyang/status/2041331383344443795",
+      "publishedAt": "2026-04-07T01:45:02.000Z",
+      "score": 74.66,
       "engagement": {
-        "likes": 169,
-        "retweets": 29,
-        "replies": 30
+        "likes": 74,
+        "retweets": 11,
+        "replies": 11
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2041388847930712399",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "攻击者可以利用未修复的漏洞从 Cowork 窃取用户文件……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Attackers can exfiltrate user files from Cowork by exploiting an unremediated vulnerability in Claude’s coding enviro…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Attackers can exfiltrate user files from Cowork by exploiting an unremediated vulne…",
+      "originalBody": "Attackers can exfiltrate user files from Cowork by exploiting an unremediated vulnerability in Claude’s coding environment, which now extends to Cowork. The vulnerability was first identified in https://t.co/noHjpUqN1I chat before Cowork existed by Johann Rehberger, who disclosed the vulnerability. It was acknowledged but not remediated by Anthropic.\nhttps://t.co/RQTMzbOaR2",
+      "translatedTitle": "攻击者可以利用未修复的漏洞从 Cowork 窃取用户文件……",
+      "translatedBody": "攻击者可以利用 Claude 代码环境中一个尚未修复的漏洞，从 Cowork 窃取用户文件，该漏洞现在也存在于 Cowork 中。该漏洞最早由 Johann Rehberger 在 Cowork 成立之前通过 https://t.co/noHjpUqN1I 聊天记录发现并披露。Anthropic 承认了该漏洞的存在，但并未进行修复。\n\nhttps://t.co/RQTMzbOaR2",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2041388847930712399",
+      "publishedAt": "2026-04-07T05:33:23.000Z",
+      "score": 54.08,
+      "engagement": {
+        "likes": 108,
+        "retweets": 10,
+        "replies": 19
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -187,26 +102,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2040910000990920752",
+      "id": "2041196551113179296",
       "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "醒来 > 打开 X > 看到新技能（或功能） > 把它交给克劳德·科德看看是否……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：> wake up > open X > see new skill (or feature) > give it to Claude Code to see if worth implementing > ask Codex to…",
+      "builder": "Zara Zhang",
+      "title": "在发布一款基于人工智能开发的产品之前，最重要的一步是思考……",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Before shipping a product built with AI, the most important step is to think about what features you can CUT, not wha…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "> wake up > open X > see new skill (or feature) > give it to Claude Code to see if…",
-      "originalBody": "> wake up\n> open X\n> see new skill (or feature)\n> give it to Claude Code to see if worth implementing \n> ask Codex to review Claude Code plan\n> code\n> iterate\n> repeat",
-      "translatedTitle": "醒来 > 打开 X > 看到新技能（或功能） > 把它交给克劳德·科德看看是否……",
-      "translatedBody": "> 起床\n\n> 打开 X\n\n> 发现新技能（或功能）\n\n> 交给 Claude Code 看看是否值得实现\n\n> 请 Codex 审核 Claude Code 的计划\n\n> 编写代码\n\n> 迭代\n\n> 重复",
+      "originalTitle": "Before shipping a product built with AI, the most important step is to think about…",
+      "originalBody": "Before shipping a product built with AI, the most important step is to think about what features you can CUT, not what features you can add",
+      "translatedTitle": "在发布一款基于人工智能开发的产品之前，最重要的一步是思考……",
+      "translatedBody": "在发布一款基于人工智能构建的产品之前，最重要的一步是思考可以砍掉哪些功能，而不是可以添加哪些功能。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2040910000990920752",
-      "publishedAt": "2026-04-05T21:50:37.000Z",
-      "score": 48.48,
+      "sourceUrl": "https://x.com/zarazhangrui/status/2041196551113179296",
+      "publishedAt": "2026-04-06T16:49:16.000Z",
+      "score": 50.81,
       "engagement": {
-        "likes": 68,
-        "retweets": 4,
-        "replies": 9
+        "likes": 96,
+        "retweets": 2,
+        "replies": 27
       },
       "matchedFocusAreas": [
         "Product Ships"
@@ -214,37 +129,112 @@
       "sourceType": "x"
     },
     {
-      "id": "2040954866567364758",
+      "id": "2041302485315248595",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "开源软件战胜开源软件的例子有哪些？",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：What are some good examples of open source winning vs. proprietary tech? In mobile for example, Android has the most…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "What are some good examples of open source winning vs.",
-      "originalBody": "What are some good examples of open source winning vs. proprietary tech?  \n\nIn mobile for example, Android has the most market share but iOS still captures the majority of profits.\n\nSeems like both can win?",
-      "translatedTitle": "开源软件战胜开源软件的例子有哪些？",
-      "translatedBody": "开源技术战胜专有技术的例子有哪些？\n\n例如，在移动领域，Android 的市场份额最大，但 iOS 仍然占据大部分利润。\n\n看起来两者似乎都有可能获胜？",
+      "builder": "Dan Shipper",
+      "title": "认为人工智能让组织不再需要层级结构的想法简直愚蠢至极……",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：the idea that organizations don't need hierarchies anymore because of ai is silly for sure, there's an opportunity fo…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "the idea that organizations don't need hierarchies anymore because of ai is silly f…",
+      "originalBody": "the idea that organizations don't need hierarchies anymore because of ai is silly\n\nfor sure, there's an opportunity for fewer layers of middle management. but every experience i've had with agents leads me to believe that specialization and therefore hierarchy is extremely valuable",
+      "translatedTitle": "认为人工智能让组织不再需要层级结构的想法简直愚蠢至极……",
+      "translatedBody": "认为人工智能让组织不再需要层级结构的想法很荒谬。\n\n诚然，人工智能或许能减少一些中层管理人员。但我与智能体的所有互动经历都让我相信，专业化以及由此产生的层级结构仍然极其重要。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2040954866567364758",
-      "publishedAt": "2026-04-06T00:48:53.000Z",
-      "score": 39.11,
+      "sourceUrl": "https://x.com/danshipper/status/2041302485315248595",
+      "publishedAt": "2026-04-06T23:50:12.000Z",
+      "score": 49.23,
       "engagement": {
-        "likes": 5,
-        "retweets": 0,
-        "replies": 6
+        "likes": 77,
+        "retweets": 2,
+        "replies": 15
       },
       "matchedFocusAreas": [
-        "Product Ships"
+        "Coding Agents"
       ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2041252127943877068",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "我想再进行几次这样的通话。",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验：I want to do a few more of these calls. If your MAX 20x plan ran out of tokens unexpectedly early and you're willing…",
+      "whyItMatters": "Thariq 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "I want to do a few more of these calls.",
+      "originalBody": "I want to do a few more of these calls.  \n\nIf your MAX 20x plan ran out of tokens unexpectedly early and you're willing to screenshare and run some prompts through Claude Code please comment.\n\nTrying to figure out how we can improve /usage to give more info. https://t.co/rufJ6vCJGT",
+      "translatedTitle": "我想再进行几次这样的通话。",
+      "translatedBody": "我想再进行几次这样的通话。\n\n如果您的 MAX 20x 套餐代币意外提前用完，并且您愿意分享屏幕并通过 Claude Code 运行一些提示，请留言。\n\n我们正在努力改进 /usage 参数，以便提供更多信息。https://t.co/rufJ6vCJGT",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2041252127943877068",
+      "publishedAt": "2026-04-06T20:30:06.000Z",
+      "score": 39.67,
+      "engagement": {
+        "likes": 1447,
+        "retweets": 62,
+        "replies": 301
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2041273698452136210",
+      "type": "tweet",
+      "builder": "Dan Shipper",
+      "title": "我们刚刚更新了实时AI新闻追踪器，将@TrySpiral作为其主要撰稿人……",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验：we just updated our realtime AI headline tracker to use @TrySpiral as its lead writer it now finds and writes the top…",
+      "whyItMatters": "Dan Shipper 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "we just updated our realtime AI headline tracker to use @TrySpiral as its lead writ…",
+      "originalBody": "we just updated our realtime AI headline tracker to use @TrySpiral as its lead writer\n\nit now finds and writes the top stories every 30 minutes, so you know what to pay attention to\n\nhttps://t.co/Bod8aCByqd https://t.co/LSkaJq0WyY",
+      "translatedTitle": "我们刚刚更新了实时AI新闻追踪器，将@TrySpiral作为其主要撰稿人……",
+      "translatedBody": "我们刚刚更新了实时AI新闻头条追踪器，现在由@TrySpiral担任首席撰稿人。\n\n它现在每30分钟搜集并撰写头条新闻，让您知道该关注哪些重要信息。\n\nhttps://t.co/Bod8aCByqd https://t.co/LSkaJq0WyY",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/danshipper/status/2041273698452136210",
+      "publishedAt": "2026-04-06T21:55:49.000Z",
+      "score": 18.96,
+      "engagement": {
+        "likes": 27,
+        "retweets": 2,
+        "replies": 4
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2041221369401126984",
+      "type": "tweet",
+      "builder": "Aditya Agarwal",
+      "title": "人工智能正在改写安全规则。",
+      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验：AI is rewriting the rules of security. How do you build defenses at machine speed? The only way to defend against AI…",
+      "whyItMatters": "Aditya Agarwal 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "AI is rewriting the rules of security.",
+      "originalBody": "AI is rewriting the rules of security. How do you build defenses at machine speed?\n\nThe only way to defend against AI threats is with AI.\n\n@nikesharora, CEO of the world's largest cybersecurity company @PaloAltoNtwks, is joining us at @southpkcommons on April 20th. https://t.co/DlIaNRMQQd",
+      "translatedTitle": "人工智能正在改写安全规则。",
+      "translatedBody": "人工智能正在改写安全规则。如何以机器速度构建防御体系？\n\n抵御人工智能威胁的唯一途径就是利用人工智能。\n\n全球最大的网络安全公司 Palo Alto Networks 的首席执行官 @nikesharora 将于 4 月 20 日莅临 @southpkcommons。https://t.co/DlIaNRMQQd",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/adityaag/status/2041221369401126984",
+      "publishedAt": "2026-04-06T18:27:53.000Z",
+      "score": 17.37,
+      "engagement": {
+        "likes": 22,
+        "retweets": 1,
+        "replies": 2
+      },
+      "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-04-06T07:26:35.432Z",
-    "totalCandidates": 26,
-    "textQualifiedCandidates": 11,
+    "upstreamGeneratedAt": "2026-04-07T07:13:10.911Z",
+    "totalCandidates": 22,
+    "textQualifiedCandidates": 8,
     "selectedTweets": 8
   }
 }
