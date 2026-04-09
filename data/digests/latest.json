@@ -1,10 +1,10 @@
 {
-  "date": "2026-04-08",
-  "generatedAt": "2026-04-08T02:50:34.612Z",
+  "date": "2026-04-09",
+  "generatedAt": "2026-04-09T02:45:15.815Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-04-08",
-  "summary": "今天最值得看的是 Aaron Levie 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 22 条候选动态里，筛出 8 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-04-09",
+  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 35 条候选动态里，筛出 17 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,88 +13,36 @@
       "label": "Coding Agents"
     },
     {
+      "slug": "foundation-models",
+      "label": "Foundation Models"
+    },
+    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2041347596342460439",
+      "id": "2041739250421436591",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "当你的代理人外出为你工作时，工作就转移到了上一级……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：When you have agents going out and doing work for you, the work just moved up a layer of abstraction. Now the work is…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "When you have agents going out and doing work for you, the work just moved up a lay…",
-      "originalBody": "When you have agents going out and doing work for you, the work just moved up a layer of abstraction.\n\nNow the work is figuring out what to tell the agent to do, ensuring you give it proper instructions, getting needed context to the agent to do its tasks, intervening when it goes off task, reviewing the final work, and incorporating the output into something else. Any one of these components being off and poof you will have useless work product.\n\nEven as agents can complete longer horizon tasks, these steps don’t go away. In fact the longer the task the more the planning and review stages will necessarily take up. You are now the editor. A manager. A producer. The taste matters, understanding the craft of what you’re doing matters, and the skills ultimately matter.\n\nAI Agents haven’t changed any of this. We’re going to automate away the annoying parts of work and keep the more enjoyable parts. But the work is still there, just different.",
-      "translatedTitle": "当你的代理人外出为你工作时，工作就转移到了上一级……",
-      "translatedBody": "当智能体为你工作时，工作本身只是提升了一个抽象层次。\n\n现在，工作内容变成了：思考该如何指示智能体执行任务，确保你给予它正确的指令，为智能体提供完成任务所需的上下文信息，在它偏离任务时进行干预，审核最终成果，并将输出整合到其他项目中。任何一个环节出现问题，都会导致最终成果毫无用处。\n\n即使智能体能够完成周期更长的任务，这些步骤也不会消失。事实上，任务周期越长，规划和审核阶段所占用的时间就越多。你现在既是编辑，又是管理者，还是制片人。品味至关重要，对工作技艺的理解至关重要，最终，技能才是关键。\n\n人工智能智能体并没有改变这一切。我们将自动化那些繁琐的工作，保留那些更令人愉悦的部分。但工作本身依然存在，只是形式有所不同。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2041347596342460439",
-      "publishedAt": "2026-04-07T02:49:28.000Z",
-      "score": 76.92,
-      "engagement": {
-        "likes": 112,
-        "retweets": 16,
-        "replies": 20
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2041331383344443795",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我和我的朋友@illscience（a16z GP）就世界的未来进行了一次愉快的聊天……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I had a wonderful chat with my friend @illscience (a16z GP) about the future of work in an AI agent first world: 1. C…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "I had a wonderful chat with my friend @illscience (a16z GP) about the future of wor…",
-      "originalBody": "I had a wonderful chat with my friend @illscience (a16z GP) about the future of work in an AI agent first world:\n\n1. Coding will eat all knowledge work\n\nWriting docs, building slides, pulling analytics — I now get the first 80% done through AI coding agents before doing manual polish for the last 20%. I never start from zero anymore.\n\n2. Small teams will outperform large orgs\n\nAnish and I both remember sitting in 3-hour OKR meetings thinking \"this is wasting my life.\" This generation's founders know to stay tiny on purpose. 2-3 person product teams with a swarm of agents will replace overstaffed orgs.\n\n3. Apps for completing tasks will shrink\n\nEver since I wired up Google Workspace, Mercury, and other APIs to my OpenClaw, I barely use those apps anymore.  But I still scroll X every day. Apps that entertain you will outlast the ones you open to get stuff done.\n\n4. We'll all have personal agents that understand us deeply\n\nI was on a walk with my OpenClaw and it said: \"You keep talking about your career and business. Just remember your kids are 7 and 4. They're going to grow up soon - optimize for spending time with them instead.\" That was a great wake-up call I didn't expect.\n\n5. Human ambition has no ceiling\n\nThe shape of the economy is changing, not shrinking. We'll hopefully see more one-person companies and small teams in light of ongoing layoffs from big tech. As someone tweeted recently, \"The job market is so bad I have no choice but to pursue my dreams.\"\n\n📌 Watch now: https://t.co/Axm2XrSymb",
-      "translatedTitle": "我和我的朋友@illscience（a16z GP）就世界的未来进行了一次愉快的聊天……",
-      "translatedBody": "我和我的朋友 @illscience (a16z GP) 就人工智能优先时代的工作未来进行了一次精彩的对话：\n\n1. 编码将取代所有知识型工作\n\n编写文档、制作幻灯片、提取分析数据——现在，我只需通过人工智能编码代理完成 80% 的工作，然后再手动润色剩余的 20%。我再也不用从零开始了。\n\n2. 小团队将超越大团队\n\n我和 Anish 都记得以前参加长达 3 小时的 OKR 会议时，心里想着“这简直是在浪费生命”。而这一代的创始人懂得刻意保持小规模。由 2-3 人组成的产品团队，配备大量人工智能代理，将取代人手过剩的组织。\n\n3. 用于完成任务的应用程序将会减少\n\n自从我将 Google Workspace、Mercury 和其他 API 连接到我的 OpenClaw 后，我就几乎不再使用这些应用程序了。但我仍然每天浏览 X。那些娱乐性的应用程序将会比那些用于完成任务的应用程序更受欢迎。\n\n4. 我们都会拥有真正了解我们的私人智能助手\n\n我带着我的 OpenClaw 散步时，它突然说：“你一直在谈论你的事业和生意。但别忘了你的孩子才 7 岁和 4 岁。他们很快就会长大——你应该把更多的时间花在陪伴他们身上。” 这真是一个意想不到的醍醐灌顶。\n\n5. 人类的雄心壮志永无止境\n\n经济格局正在发生变化，而非萎缩。鉴于大型科技公司持续裁员，我们或许会看到更多一人公司和小团队的出现。正如最近有人在推特上所说：“就业市场如此糟糕，我别无选择，只能追逐我的梦想。”\n\n📌 立即观看：https://t.co/Axm2XrSymb",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2041331383344443795",
-      "publishedAt": "2026-04-07T01:45:02.000Z",
-      "score": 74.66,
-      "engagement": {
-        "likes": 74,
-        "retweets": 11,
-        "replies": 11
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2041388847930712399",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "攻击者可以利用未修复的漏洞从 Cowork 窃取用户文件……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Attackers can exfiltrate user files from Cowork by exploiting an unremediated vulnerability in Claude’s coding enviro…",
+      "builder": "Swyx",
+      "title": "@jackbutcher @thisiskp_ @danlovesproofs @bfirsh @akshat_b 这里是 @simonw 的迪…",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：@jackbutcher @thisiskp_ @danlovesproofs @bfirsh @akshat_b here is @simonw on the difference in self evident naming be…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Attackers can exfiltrate user files from Cowork by exploiting an unremediated vulne…",
-      "originalBody": "Attackers can exfiltrate user files from Cowork by exploiting an unremediated vulnerability in Claude’s coding environment, which now extends to Cowork. The vulnerability was first identified in https://t.co/noHjpUqN1I chat before Cowork existed by Johann Rehberger, who disclosed the vulnerability. It was acknowledged but not remediated by Anthropic.\nhttps://t.co/RQTMzbOaR2",
-      "translatedTitle": "攻击者可以利用未修复的漏洞从 Cowork 窃取用户文件……",
-      "translatedBody": "攻击者可以利用 Claude 代码环境中一个尚未修复的漏洞，从 Cowork 窃取用户文件，该漏洞现在也存在于 Cowork 中。该漏洞最早由 Johann Rehberger 在 Cowork 成立之前通过 https://t.co/noHjpUqN1I 聊天记录发现并披露。Anthropic 承认了该漏洞的存在，但并未进行修复。\n\nhttps://t.co/RQTMzbOaR2",
+      "originalTitle": "@jackbutcher @thisiskp_ @danlovesproofs @bfirsh @akshat_b here is @simonw on the di…",
+      "originalBody": "@jackbutcher @thisiskp_ @danlovesproofs @bfirsh @akshat_b here is @simonw on the difference in self evident naming between “prompt injection” and “lethal trifecta”\n\nhttps://t.co/wSSVgEZeWM https://t.co/ovDqwQRvq5",
+      "translatedTitle": "@jackbutcher @thisiskp_ @danlovesproofs @bfirsh @akshat_b 这里是 @simonw 的迪…",
+      "translatedBody": "@jackbutcher @thisiskp_ @danlovesproofs @bfirsh @akshat_b @simonw 就“prompt injection”（快速注射）和“lethal trifecta”（致命三联疗法）这两个显而易见的命名差异发表了看法。\n\nhttps://t.co/wSSVgEZeWM https://t.co/ovDqwQRvq5",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2041388847930712399",
-      "publishedAt": "2026-04-07T05:33:23.000Z",
-      "score": 54.08,
+      "sourceUrl": "https://x.com/swyx/status/2041739250421436591",
+      "publishedAt": "2026-04-08T04:45:45.000Z",
+      "score": 135.4,
       "engagement": {
-        "likes": 108,
-        "retweets": 10,
-        "replies": 19
+        "likes": 4,
+        "retweets": 0,
+        "replies": 0
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -102,139 +50,204 @@
       "sourceType": "x"
     },
     {
-      "id": "2041196551113179296",
+      "id": "2041720266154504351",
       "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "在发布一款基于人工智能开发的产品之前，最重要的一步是思考……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Before shipping a product built with AI, the most important step is to think about what features you can CUT, not wha…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Before shipping a product built with AI, the most important step is to think about…",
-      "originalBody": "Before shipping a product built with AI, the most important step is to think about what features you can CUT, not what features you can add",
-      "translatedTitle": "在发布一款基于人工智能开发的产品之前，最重要的一步是思考……",
-      "translatedBody": "在发布一款基于人工智能构建的产品之前，最重要的一步是思考可以砍掉哪些功能，而不是可以添加哪些功能。",
+      "builder": "Guillermo Rauch",
+      "title": "很高兴能在@ycombinator 发表演讲。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Always a pleasure to speak at @ycombinator. More bullish than ever. Exceptional founders. Best city, best time, best…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Always a pleasure to speak at @ycombinator.",
+      "originalBody": "Always a pleasure to speak at @ycombinator. More bullish than ever. Exceptional founders. Best city, best time, best opportunity to build in generations. https://t.co/YWjCu3Ldo6",
+      "translatedTitle": "很高兴能在@ycombinator 发表演讲。",
+      "translatedBody": "很高兴能在@ycombinator 演讲。比以往任何时候都更加看好这个项目。这里聚集了杰出的创始人。这是几代人以来最适合创业的城市、最佳时机和最佳机遇。https://t.co/YWjCu3Ldo6",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2041196551113179296",
-      "publishedAt": "2026-04-06T16:49:16.000Z",
-      "score": 50.81,
+      "sourceUrl": "https://x.com/rauchg/status/2041720266154504351",
+      "publishedAt": "2026-04-08T03:30:19.000Z",
+      "score": 131.5,
       "engagement": {
-        "likes": 96,
-        "retweets": 2,
-        "replies": 27
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2041302485315248595",
-      "type": "tweet",
-      "builder": "Dan Shipper",
-      "title": "认为人工智能让组织不再需要层级结构的想法简直愚蠢至极……",
-      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：the idea that organizations don't need hierarchies anymore because of ai is silly for sure, there's an opportunity fo…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "the idea that organizations don't need hierarchies anymore because of ai is silly f…",
-      "originalBody": "the idea that organizations don't need hierarchies anymore because of ai is silly\n\nfor sure, there's an opportunity for fewer layers of middle management. but every experience i've had with agents leads me to believe that specialization and therefore hierarchy is extremely valuable",
-      "translatedTitle": "认为人工智能让组织不再需要层级结构的想法简直愚蠢至极……",
-      "translatedBody": "认为人工智能让组织不再需要层级结构的想法很荒谬。\n\n诚然，人工智能或许能减少一些中层管理人员。但我与智能体的所有互动经历都让我相信，专业化以及由此产生的层级结构仍然极其重要。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/danshipper/status/2041302485315248595",
-      "publishedAt": "2026-04-06T23:50:12.000Z",
-      "score": 49.23,
-      "engagement": {
-        "likes": 77,
-        "retweets": 2,
-        "replies": 15
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2041252127943877068",
-      "type": "tweet",
-      "builder": "Thariq",
-      "title": "我想再进行几次这样的通话。",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验：I want to do a few more of these calls. If your MAX 20x plan ran out of tokens unexpectedly early and you're willing…",
-      "whyItMatters": "Thariq 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "I want to do a few more of these calls.",
-      "originalBody": "I want to do a few more of these calls.  \n\nIf your MAX 20x plan ran out of tokens unexpectedly early and you're willing to screenshare and run some prompts through Claude Code please comment.\n\nTrying to figure out how we can improve /usage to give more info. https://t.co/rufJ6vCJGT",
-      "translatedTitle": "我想再进行几次这样的通话。",
-      "translatedBody": "我想再进行几次这样的通话。\n\n如果您的 MAX 20x 套餐代币意外提前用完，并且您愿意分享屏幕并通过 Claude Code 运行一些提示，请留言。\n\n我们正在努力改进 /usage 参数，以便提供更多信息。https://t.co/rufJ6vCJGT",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2041252127943877068",
-      "publishedAt": "2026-04-06T20:30:06.000Z",
-      "score": 39.67,
-      "engagement": {
-        "likes": 1447,
-        "retweets": 62,
-        "replies": 301
+        "likes": 305,
+        "retweets": 13,
+        "replies": 22
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2041273698452136210",
+      "id": "2041512156693201176",
       "type": "tweet",
-      "builder": "Dan Shipper",
-      "title": "我们刚刚更新了实时AI新闻追踪器，将@TrySpiral作为其主要撰稿人……",
-      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验：we just updated our realtime AI headline tracker to use @TrySpiral as its lead writer it now finds and writes the top…",
-      "whyItMatters": "Dan Shipper 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "we just updated our realtime AI headline tracker to use @TrySpiral as its lead writ…",
-      "originalBody": "we just updated our realtime AI headline tracker to use @TrySpiral as its lead writer\n\nit now finds and writes the top stories every 30 minutes, so you know what to pay attention to\n\nhttps://t.co/Bod8aCByqd https://t.co/LSkaJq0WyY",
-      "translatedTitle": "我们刚刚更新了实时AI新闻追踪器，将@TrySpiral作为其主要撰稿人……",
-      "translatedBody": "我们刚刚更新了实时AI新闻头条追踪器，现在由@TrySpiral担任首席撰稿人。\n\n它现在每30分钟搜集并撰写头条新闻，让您知道该关注哪些重要信息。\n\nhttps://t.co/Bod8aCByqd https://t.co/LSkaJq0WyY",
+      "builder": "Aaron Levie",
+      "title": "我们在人工智能代理编程领域看到的生产力提升，同样也正在向其他领域发展……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：The same kinds of productivity gains we've seen in coding with AI agents are heading to the rest of knowledge work. T…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "The same kinds of productivity gains we've seen in coding with AI agents are headin…",
+      "originalBody": "The same kinds of productivity gains we've seen in coding with AI agents are heading to the rest of knowledge work. \n\nThis is the jump when you go from having a chatbot to being able to actually have an agent go off and do work for minutes or even hours and come back with a complete work output that you then review.\n\nHere's an example of the new Box Agent filling out an RFP response from an existing knowledge base. This process would normally take hours to fill out, and requires the full attention of the user doing the work. Now, you provide the Box Agent with the RFP questions, and it will go off, make a plan, extract all the relevant questions, read through existing source material to come up with an answer, and then generate a new word document as the final output. All while you're doing something else.\n\nThe key to this architecture is that the agent is able to use all of the same tools in the background that a user uses to get work done. The agent can search for documents, read entire files, run scripts and tools in the background, and even be able to write code on the fly to automate tasks it hasn't seen before. And best of all, the Box Agent will (soon) work from the Box MCP and CLI so you can invoke it in any agentic system as a step in a process.\n\nThis kind of agent complexity would have been impossible even 6 months ago. Models consistently failed at tracking long running tasks or using the right tools at the right moment for the task. But this is all now possible because of models like GPT-5.4, Opus 4.6, and Gemini 3, and is only getting better by the month.\n\nJust as we moved from engineers writing code and using AI as an assistant to answer questions, in many areas of knowledge work -like legal, finance, consulting, sales, marketing, and more- when we have a problem we'll just kick off the AI agent to just go work on it for us in the background.",
+      "translatedTitle": "我们在人工智能代理编程领域看到的生产力提升，同样也正在向其他领域发展……",
+      "translatedBody": "我们在人工智能代理编程领域看到的生产力提升，同样也正在惠及其他知识型工作领域。\n\n这意味着，从拥有一个聊天机器人，到能够让代理独立完成数分钟甚至数小时的工作，并生成完整的输出结果供您审核，这才是真正的飞跃。\n\n以下示例展示了新的 Box Agent 如何从现有知识库中填写 RFP 回复。以往，填写 RFP 回复通常需要数小时，并且需要用户全神贯注。现在，您只需向 Box Agent 提供 RFP 问题，它就会自动运行，制定计划，提取所有相关问题，阅读现有资料以得出答案，然后生成新的 Word 文档作为最终输出。而您则可以去做其他事情。\n\n这种架构的关键在于，代理能够在后台使用用户完成工作所需的所有工具。该智能体可以搜索文档、读取整个文件、在后台运行脚本和工具，甚至能够即时编写代码来自动化执行之前从未遇到过的任务。最棒的是，Box 智能体（很快）将支持 Box MCP 和 CLI，因此您可以将其作为流程中的一个步骤添加到任何智能体系统中。\n\n这种智能体的复杂性在六个月前是无法想象的。当时的模型在跟踪长时间运行的任务或在合适的时机使用合适的工具方面一直表现不佳。但现在这一切都已成为可能，这要归功于 GPT-5.4、Opus 4.6 和 Gemini 3 等模型，而且它们还在不断进步。\n\n正如我们曾经依靠工程师编写代码并使用 AI 作为助手来回答问题一样，在许多知识密集型工作领域——例如法律、金融、咨询、销售、市场营销等等——当我们遇到问题时，只需启动 AI 智能体，让它在后台自动处理即可。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/danshipper/status/2041273698452136210",
-      "publishedAt": "2026-04-06T21:55:49.000Z",
-      "score": 18.96,
+      "sourceUrl": "https://x.com/levie/status/2041512156693201176",
+      "publishedAt": "2026-04-07T13:43:22.000Z",
+      "score": 102.26,
       "engagement": {
-        "likes": 27,
+        "likes": 119,
+        "retweets": 11,
+        "replies": 30
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2041579950332113155",
+      "type": "tweet",
+      "builder": "Alex Albert",
+      "title": "Mythos Preview 目前已向我们在 Project Glasswing 中的启动合作伙伴开放。",
+      "summary": "Alex Albert 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：Mythos Preview is currently available to our launch partners in Project Glasswing. Learn more about the model and the…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "Mythos Preview is currently available to our launch partners in Project Glasswing.",
+      "originalBody": "Mythos Preview is currently available to our launch partners in Project Glasswing. Learn more about the model and the project here: https://t.co/eagt68oUPj",
+      "translatedTitle": "Mythos Preview 目前已向我们在 Project Glasswing 中的启动合作伙伴开放。",
+      "translatedBody": "Mythos Preview 目前已面向 Project Glasswing 的首发合作伙伴开放。点击此处了解更多关于该模型和项目的信息：https://t.co/eagt68oUPj",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/alexalbert__/status/2041579950332113155",
+      "publishedAt": "2026-04-07T18:12:45.000Z",
+      "score": 88.68,
+      "engagement": {
+        "likes": 1450,
+        "retweets": 68,
+        "replies": 56
+      },
+      "matchedFocusAreas": [
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2041732610179703100",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "Anthropic 出品的 Mythos 系列再次清晰地提醒我们，生活中绝对没有一堵墙……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Mythos from Anthropic is another clear reminder that there’s absolutely no wall in model capability progress right no…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Mythos from Anthropic is another clear reminder that there’s absolutely no wall in…",
+      "originalBody": "Mythos from Anthropic is another clear reminder that there’s absolutely no wall in model capability progress right now. Meaningful double digit gains on critical benchmarks, and it appears we’re going to keep up getting insane gains from the other labs.\n\nAnd as coding and tool use goes, so goes agentic workflows. Most knowledge automation is gated by some degree of models being able to reason through complicated tasks, use the right tools to work with data, have access to the right context, and be able to leverage skills and write code to work with and verify that data, and more. \n\nThe capability slope we’re going to keep seeing from the frontier labs is going to open up all new use cases in finance, healthcare, legal, consulting, supply chains, and more. \n\nMake sure you’re building something that can take advantage of these upcoming improvements, or you’ll be in a tough spot strategically.",
+      "translatedTitle": "Anthropic 出品的 Mythos 系列再次清晰地提醒我们，生活中绝对没有一堵墙……",
+      "translatedBody": "Anthropic 的 Mythos 再次清晰地表明，模型能力的提升目前没有任何瓶颈。关键基准测试中实现了两位数的显著提升，而且其他实验室似乎也将持续取得惊人的进步。\n\n随着编码和工具使用的发展，智能体工作流程也将随之发展。大多数知识自动化都受限于模型的某些能力，例如能够推理复杂任务、使用合适的工具处理数据、获取正确的上下文信息、运用技能编写代码来处理和验证数据等等。\n\n我们将持续看到前沿实验室的能力提升，这将为金融、医疗保健、法律、咨询、供应链等领域开辟全新的应用场景。\n\n确保您正在构建的产品能够充分利用这些即将到来的改进，否则您将在战略上陷入困境。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2041732610179703100",
+      "publishedAt": "2026-04-08T04:19:22.000Z",
+      "score": 78.51,
+      "engagement": {
+        "likes": 125,
+        "retweets": 16,
+        "replies": 12
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2041495924682244275",
+      "type": "tweet",
+      "builder": "Nan Yu",
+      "title": "许多设计师和工程师。",
+      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Many designers and eng. do well when you ask them to think through product questions in abstract. But you have to tak…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Many designers and eng.",
+      "originalBody": "Many designers and eng. do well when you ask them to think through product questions in abstract. \n\nBut you have to take away the IDE/figma or they tend to dive right into coding/designing exactly what was asked for. \n\nMore designers should become PMs. They’d be good at it. https://t.co/45aqy8KTsE",
+      "translatedTitle": "许多设计师和工程师。",
+      "translatedBody": "许多设计师和工程师在被要求抽象地思考产品问题时表现出色。\n\n但你必须让他们离开 IDE/Figma 之类的工具，否则他们往往会直接投入到编码/设计中，完全按照要求完成任务。\n\n应该让更多设计师转型成为产品经理。他们很适合这份工作。https://t.co/45aqy8KTsE",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thenanyu/status/2041495924682244275",
+      "publishedAt": "2026-04-07T12:38:52.000Z",
+      "score": 78.16,
+      "engagement": {
+        "likes": 191,
+        "retweets": 6,
+        "replies": 12
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2041592093718749659",
+      "type": "tweet",
+      "builder": "Kevin Weil",
+      "title": "顺便一提：@hemal 只用了几个小时就用 Prism 的强大功能，把它做成了一个简单的技能……",
+      "summary": "Kevin Weil 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Btw: @hemal built this as a simple skill in a few hours, since Prism is powered by Codex. More to come. And if you lo…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Btw: @hemal built this as a simple skill in a few hours, since Prism is powered by…",
+      "originalBody": "Btw: @hemal built this as a simple skill in a few hours, since Prism is powered by Codex. More to come.\n\nAnd if you love the idea of building AI-native products to accelerate science, we're hiring a lead designer for Prism: apply here! https://t.co/Tt9MgzHxnO https://t.co/DgY3q5Tm5L",
+      "translatedTitle": "顺便一提：@hemal 只用了几个小时就用 Prism 的强大功能，把它做成了一个简单的技能……",
+      "translatedBody": "顺便一提：@hemal 只用了几个小时就用 Codex 的强大功能轻松实现了这个功能。更多精彩内容敬请期待。\n\n如果您也热衷于构建 AI 原生产品来加速科学发展，我们正在为 Prism 招聘首席设计师：点击此处申请！https://t.co/Tt9MgzHxnO https://t.co/DgY3q5Tm5L",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/kevinweil/status/2041592093718749659",
+      "publishedAt": "2026-04-07T19:01:00.000Z",
+      "score": 74.3,
+      "engagement": {
+        "likes": 85,
+        "retweets": 7,
+        "replies": 4
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2041757065354293760",
+      "type": "tweet",
+      "builder": "Nikunj Kothari",
+      "title": "在某个阶段，早期创业者决定将重点放在浏览量和融资上……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：At some point, early stage founders decided to optimize for views and funding instead of focusing on product and rete…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "At some point, early stage founders decided to optimize for views and funding inste…",
+      "originalBody": "At some point, early stage founders decided to optimize for views and funding instead of focusing on product and retention..\n\nAnd, it’s starting to show. One of the very first things I do is look at change logs (or feature releases) of supposedly flashy companies. Or read case studies if they have any. \n\nAnd for weeks, I’ll barely see any changes. And, these are companies that would benefit from sharing this info to use for marketing. \n\nInstead of spending your time optimizing the viral launch video that’ll primarily optimize for funding, use that same energy to focus on customers who’ll actually pay you. Trust me the VCs follow!",
+      "translatedTitle": "在某个阶段，早期创业者决定将重点放在浏览量和融资上……",
+      "translatedBody": "早期创业者们在某个阶段开始追求流量和融资，而不是专注于产品和用户留存。\n\n而且，这种趋势已经开始显现。我做的第一件事就是查看那些看似光鲜亮丽的公司的更新日志（或功能发布记录），或者阅读他们的案例研究（如果有的话）。\n\n结果，好几周我都几乎看不到任何变化。而这些公司如果能分享这些信息用于市场营销，将会受益匪浅。\n\n与其把时间浪费在优化那些主要目的是为了融资的病毒式发布视频上，不如把同样的精力投入到真正会付费的客户身上。相信我，风投们会关注你的！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/nikunj/status/2041757065354293760",
+      "publishedAt": "2026-04-08T05:56:33.000Z",
+      "score": 73.98,
+      "engagement": {
+        "likes": 43,
         "retweets": 2,
         "replies": 4
       },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2041221369401126984",
-      "type": "tweet",
-      "builder": "Aditya Agarwal",
-      "title": "人工智能正在改写安全规则。",
-      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验：AI is rewriting the rules of security. How do you build defenses at machine speed? The only way to defend against AI…",
-      "whyItMatters": "Aditya Agarwal 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "AI is rewriting the rules of security.",
-      "originalBody": "AI is rewriting the rules of security. How do you build defenses at machine speed?\n\nThe only way to defend against AI threats is with AI.\n\n@nikesharora, CEO of the world's largest cybersecurity company @PaloAltoNtwks, is joining us at @southpkcommons on April 20th. https://t.co/DlIaNRMQQd",
-      "translatedTitle": "人工智能正在改写安全规则。",
-      "translatedBody": "人工智能正在改写安全规则。如何以机器速度构建防御体系？\n\n抵御人工智能威胁的唯一途径就是利用人工智能。\n\n全球最大的网络安全公司 Palo Alto Networks 的首席执行官 @nikesharora 将于 4 月 20 日莅临 @southpkcommons。https://t.co/DlIaNRMQQd",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/adityaag/status/2041221369401126984",
-      "publishedAt": "2026-04-06T18:27:53.000Z",
-      "score": 17.37,
-      "engagement": {
-        "likes": 22,
-        "retweets": 1,
-        "replies": 2
-      },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-04-07T07:13:10.911Z",
-    "totalCandidates": 22,
-    "textQualifiedCandidates": 8,
+    "upstreamGeneratedAt": "2026-04-08T07:15:24.357Z",
+    "totalCandidates": 35,
+    "textQualifiedCandidates": 17,
     "selectedTweets": 8
   }
 }
