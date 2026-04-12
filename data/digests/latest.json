@@ -1,10 +1,10 @@
 {
-  "date": "2026-04-11",
-  "generatedAt": "2026-04-11T02:41:26.195Z",
+  "date": "2026-04-12",
+  "generatedAt": "2026-04-12T03:19:30.229Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-04-11",
-  "summary": "今天最值得看的是 Andrej Karpathy 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 41 条候选动态里，筛出 19 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-04-12",
+  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 32 条候选动态里，筛出 17 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,165 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2042334451611693415",
-      "type": "tweet",
-      "builder": "Andrej Karpathy",
-      "title": "从我的时间线来看，人们对人工智能能力的理解存在越来越大的差距。",
-      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Judging by my tl there is a growing gap in understanding of AI capability. The first issue I think is around recency…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Judging by my tl there is a growing gap in understanding of AI capability.",
-      "originalBody": "Judging by my tl there is a growing gap in understanding of AI capability.\n\nThe first issue I think is around recency and tier of use. I think a lot of people tried the free tier of ChatGPT somewhere  last year and allowed it to inform their views on AI a little too much. This is a group of reactions laughing at various quirks of the models, hallucinations, etc. Yes I also saw the viral videos of OpenAI's Advanced Voice mode fumbling simple queries like \"should I drive or walk to the carwash\". The thing is that these free and old/deprecated models don't reflect the capability in the latest round of state of the art agentic models of this year, especially OpenAI Codex and Claude Code.\n\nBut that brings me to the second issue. Even if people paid $200/month to use the state of the art models, a lot of the capabilities are relatively \"peaky\" in highly technical areas. Typical queries around search, writing, advice, etc. are *not* the domain that has made the most noticeable and dramatic strides in capability. Partly,  this is due to the technical details of reinforcement learning and its use of verifiable rewards. But partly, it's also because these use cases are not sufficiently prioritized by the companies in their hillclimbing because they don't lead to as much $$$ value. The goldmines are elsewhere, and the focus comes along.\n\nSo that brings me to the second group of people, who *both* 1) pay for and use the state of the art frontier agentic models (OpenAI Codex / Claude Code) and 2) do so professionally in technical domains like programming, math and research. This group of people is subject to the highest amount of \"AI Psychosis\" because the recent improvements in these domains as of this year have been nothing short of staggering. When you hand a computer terminal to one of these models, you can now watch them melt programming problems that you'd normally expect to take days/weeks of work. It's this second group of people that assigns a much greater gravity to the capabilities, their slope, and various cyber-related repercussions.\n\nTLDR the people in these two groups are speaking past each other. It really is simultaneously the case that OpenAI's free and I think slightly orphaned (?) \"Advanced Voice Mode\" will fumble the dumbest questions in your Instagram's reels and *at the same time*, OpenAI's highest-tier and paid Codex model will go off for 1 hour to coherently restructure an entire code base, or find and exploit vulnerabilities in computer systems. This part really works and has made dramatic strides because 2 properties: 1) these domains offer explicit reward functions that are verifiable meaning they are easily amenable to reinforcement learning training (e.g. unit tests passed yes or no, in contrast to writing, which is much harder to explicitly judge),  but also 2) they are a lot more valuable in b2b settings, meaning that the biggest fraction of the team is focused on improving them. So here we are.",
-      "translatedTitle": "从我的时间线来看，人们对人工智能能力的理解存在越来越大的差距。",
-      "translatedBody": "从我的时间线来看，人们对人工智能能力的理解存在越来越大的差距。\n\n我认为第一个问题在于使用时间的长短和使用层级。很多人去年可能试用过 ChatGPT 的免费版本，并因此对人工智能产生了过分的认知。他们纷纷嘲笑模型的各种怪癖、幻觉等等。没错，我也看过 OpenAI 高级语音模式的病毒式传播视频，它连“我应该开车还是走路去洗车”这种简单的问题都回答不了。问题在于，这些免费的、老旧的模型并不能反映今年最新一批最先进的智能体模型的能力，尤其是 OpenAI Codex 和 Claude Code。\n\n但这引出了第二个问题。即使人们每月支付 200 美元来使用这些最先进的模型，它们在很多高度技术领域的能力也相对有限。围绕搜索、写作、咨询等常见查询的领域，并非能力提升最为显著的领域。部分原因是强化学习的技术细节及其对可验证奖励的使用。但部分原因也在于，这些应用场景并未被企业在技术攀登高峰的过程中给予足够的重视，因为它们带来的经济价值相对较低。真正的金矿在其他领域，而企业的关注点也随之转移。\n\n这就引出了第二类人群：他们既付费使用最先进的前沿智能体模型（例如 OpenAI Codex 和 Claude Code），又在编程、数学和研究等技术领域从事相关工作。这类人群最容易受到“人工智能狂热症”的影响，因为今年以来这些领域的进步可谓惊人。当你把电脑终端交给这些模型之一时，你现在就能看到它们轻松解决那些通常需要花费数天甚至数周才能完成的编程难题。正是这第二类人赋予了这些模型更大的意义，他们更重视这些模型的能力、发展趋势以及各种网络安全相关的后果。\n\n简而言之，这两类人之间存在着认知上的分歧。OpenAI 免费且我认为有点被冷落的“高级语音模式”确实会帮你回答 Instagram 短视频里最愚蠢的问题，但与此同时，OpenAI 最高级别的付费 Codex 模型却能在短短一小时内，系统地重构整个代码库，或者发现并利用计算机系统中的漏洞。这部分工作确实卓有成效，并取得了显著进展，原因有二：1）这些领域提供明确的、可验证的奖励函数，这意味着它们很容易进行强化学习训练（例如，单元测试通过与否，这与编写代码截然不同，编写代码很难明确判断）；2）它们在B2B环境中更有价值，这意味着团队的大部分精力都集中在改进它们上。所以，我们现在的情况就是这样。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/karpathy/status/2042334451611693415",
-      "publishedAt": "2026-04-09T20:10:52.000Z",
-      "score": 200.7,
-      "engagement": {
-        "likes": 12863,
-        "retweets": 1494,
-        "replies": 626
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2042341482531864741",
-      "type": "tweet",
-      "builder": "Andrej Karpathy",
-      "title": "最近有人跟我说，OpenClaw之所以如此火爆，是因为……",
-      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Someone recently suggested to me that the reason OpenClaw moment was so big is because it's the first time a large gr…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Someone recently suggested to me that the reason OpenClaw moment was so big is beca…",
-      "originalBody": "Someone recently suggested to me that the reason OpenClaw moment was so big is because it's the first time a large group of non-technical people (who otherwise only knew AI as synonymous with ChatGPT as a website) experienced the latest agentic models.",
-      "translatedTitle": "最近有人跟我说，OpenClaw之所以如此火爆，是因为……",
-      "translatedBody": "最近有人向我指出，OpenClaw 之所以如此火爆，是因为这是一大群非技术人员（他们之前只知道人工智能等同于 ChatGPT 网站）第一次体验到最新的智能体模型。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/karpathy/status/2042341482531864741",
-      "publishedAt": "2026-04-09T20:38:48.000Z",
-      "score": 190.02,
-      "engagement": {
-        "likes": 1875,
-        "retweets": 62,
-        "replies": 108
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2042318148851188151",
-      "type": "tweet",
-      "builder": "Josh Woodward",
-      "title": "今天就创作你的第一首完整歌曲吧！",
-      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Create your first full song today. For free. In under 50 days, over 100 million songs have been generated on @GeminiA…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Create your first full song today.",
-      "originalBody": "Create your first full song today. For free.\n\nIn under 50 days, over 100 million songs have been generated on @GeminiApp. To celebrate, we’re unlocking the full power of our music model, Lyria 3.\n\nHere’s what you get starting today:\n🎵 Generate up to 5 full-length tracks every day (~3 mins each)\n🎵 Hit your limit? Keep creating 30-second clips, or upgrade for more\n\nImages, video, and now music.\n\nYou have the ideas. Gemini has the tools. Start creating!",
-      "translatedTitle": "今天就创作你的第一首完整歌曲吧！",
-      "translatedBody": "今天就创作你的第一首完整歌曲吧！完全免费！\n\n在不到 50 天的时间里，@GeminiApp 已经生成了超过 1 亿首歌曲。为了庆祝这一里程碑，我们将全面解锁音乐模型 Lyria 3 的强大功能。\n\n从今天开始，你将获得以下权益：\n\n🎵 每天最多可生成 5 首完整曲目（每首约 3 分钟）\n\n🎵 达到上限？你可以继续创作 30 秒的片段，或者升级以获得更多功能\n\n图片、视频，现在又加上音乐。\n\n你有创意，Gemini 有工具。开始创作吧！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/joshwoodward/status/2042318148851188151",
-      "publishedAt": "2026-04-09T19:06:05.000Z",
-      "score": 182.57,
-      "engagement": {
-        "likes": 378,
-        "retweets": 46,
-        "replies": 31
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2042358253510963384",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "代理基础设施是云计算的未来 ① 对于编码代理，如果您使用 Cl…",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Agentic Infrastructure is the future of the cloud ① For coding agents If you use Claude Code, Codex, Cursor, you need…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Agentic Infrastructure is the future of the cloud ① For coding agents If you use Cl…",
-      "originalBody": "Agentic Infrastructure is the future of the cloud\n\n① For coding agents\nIf you use Claude Code, Codex, Cursor, you need infra that 'clicks' for your agents, not just devs.\n\n② To deploy agents \nPages → Agents. Long-running compute, sandboxes, and our token delivery network are the building blocks of this new kind of software.\n\n③ Itself an agent\nVercel is beloved because it's self-configuring (serverless). Add to that: self-healing, self-optimizing, self-securing. The agent holds the pager.\n\n⟁ It's a triple-entendre that works. I highly recommend the read. Agentic Infrastructure will make existing companies more efficient and support the next generation of AI-native startups.",
-      "translatedTitle": "代理基础设施是云计算的未来 ① 对于编码代理，如果您使用 Cl…",
-      "translatedBody": "智能体基础设施是云计算的未来\n\n① 用于编写智能体代码\n\n如果您使用 Claude Code、Codex 或 Cursor，您需要的基础设施不仅要能满足开发人员的需求，还要能满足智能体的需求。\n\n② 用于部署智能体\n\n页面 → 智能体。长时间运行的计算资源、沙箱以及我们的令牌分发网络是这种新型软件的基石。\n\n③ 智能体本身\n\nVercel 备受青睐，因为它具有自配置（无服务器）功能。此外，它还具备自愈、自优化和自安全功能。智能体负责管理页面。\n\n⟁ 这是一个巧妙的三重含义。我强烈推荐阅读。智能体基础设施将提升现有企业的效率，并为下一代人工智能原生创业公司提供支持。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2042358253510963384",
-      "publishedAt": "2026-04-09T21:45:27.000Z",
-      "score": 180.31,
-      "engagement": {
-        "likes": 252,
-        "retweets": 24,
-        "replies": 23
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2042308627478773808",
+      "id": "2042670341915295865",
       "type": "tweet",
       "builder": "Claude",
-      "title": "在评估中，有 Opus 顾问指导的 Sonnet 在 SWE-be 上的得分高出 2.7 个百分点……",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：In evals, Sonnet with an Opus advisor scored 2.7 percentage points higher on SWE-bench Multilingual than Sonnet alone…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "In evals, Sonnet with an Opus advisor scored 2.7 percentage points higher on SWE-be…",
-      "originalBody": "In evals, Sonnet with an Opus advisor scored 2.7 percentage points higher on SWE-bench Multilingual than Sonnet alone, while costing 11.9% less per task. https://t.co/pV4nftN1wz",
-      "translatedTitle": "在评估中，有 Opus 顾问指导的 Sonnet 在 SWE-be 上的得分高出 2.7 个百分点……",
-      "translatedBody": "在评估中，配备 Opus 顾问的 Sonnet 在 SWE-bench Multilingual 测试中的得分比单独使用 Sonnet 高出 2.7 个百分点，同时每个任务的成本降低了 11.9%。https://t.co/pV4nftN1wz",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2042308627478773808",
-      "publishedAt": "2026-04-09T18:28:15.000Z",
-      "score": 163.93,
-      "engagement": {
-        "likes": 1527,
-        "retweets": 42,
-        "replies": 96
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2042308625989882054",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "将顾问工具添加到您的消息 API 调用中。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Add the advisor tool to your Messages API call. When your Sonnet or Haiku agent hits a hard decision mid-run, it cons…",
+      "title": "Claude for Word 目前处于测试阶段。",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Claude for Word is now in beta. Draft, edit, and revise documents directly from the sidebar. Claude preserves your fo…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Add the advisor tool to your Messages API call.",
-      "originalBody": "Add the advisor tool to your Messages API call. When your Sonnet or Haiku agent hits a hard decision mid-run, it consults Opus, gets a plan, and continues, all within a single API request.",
-      "translatedTitle": "将顾问工具添加到您的消息 API 调用中。",
-      "translatedBody": "将顾问工具添加到您的消息 API 调用中。当您的 Sonnet 或 Haiku 代理在运行过程中遇到棘手决策时，它会咨询 Opus，获取方案，然后继续运行，所有操作均在一次 API 请求中完成。",
+      "originalTitle": "Claude for Word is now in beta.",
+      "originalBody": "Claude for Word is now in beta.\n\nDraft, edit, and revise documents directly from the sidebar. Claude preserves your formatting, and edits appear as tracked changes.\n\nAvailable on Team and Enterprise plans. https://t.co/tl1mZVELNg",
+      "translatedTitle": "Claude for Word 目前处于测试阶段。",
+      "translatedBody": "Claude for Word 现已推出 Beta 版。\n\n直接在侧边栏中起草、编辑和修改文档。Claude 会保留您的格式，并且所有编辑都会以跟踪更改的形式显示。\n\n适用于团队版和企业版套餐。https://t.co/tl1mZVELNg",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2042308625989882054",
-      "publishedAt": "2026-04-09T18:28:15.000Z",
-      "score": 162.83,
+      "sourceUrl": "https://x.com/claudeai/status/2042670341915295865",
+      "publishedAt": "2026-04-10T18:25:35.000Z",
+      "score": 178.2,
       "engagement": {
-        "likes": 1359,
-        "retweets": 25,
-        "replies": 8
+        "likes": 22673,
+        "retweets": 1607,
+        "replies": 837
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -189,63 +50,200 @@
       "sourceType": "x"
     },
     {
-      "id": "2042443722290327596",
+      "id": "2042670343173574705",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "顺便给@aidotengineer 的各位透露一下背景故事——这条推文启发了 AGI Pill 的诞生……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：btw some lore for those of you at @aidotengineer - this tweet inspired the AGI Pill bottles we handed out today (cc @…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "btw some lore for those of you at @aidotengineer - this tweet inspired the AGI Pill…",
-      "originalBody": "btw some lore for those of you at @aidotengineer  - this tweet inspired the AGI Pill bottles we handed out today (cc @Ronanchamberss)\n\ni didnt see anyone tweet pictures online, and they got snapped up instantly, so if you have a bottle please share photos!!! https://t.co/DS7OAaNtJE https://t.co/g6WoHG4kpT",
-      "translatedTitle": "顺便给@aidotengineer 的各位透露一下背景故事——这条推文启发了 AGI Pill 的诞生……",
-      "translatedBody": "顺便一提，@aidotengineer 的各位，这里有个小故事——这条推文启发了我们今天发放的 AGI 药瓶（抄送 @Ronanchamberss）。\n\n我没看到有人在网上发照片，而且它们瞬间就被抢光了，所以如果你有药瓶，请分享照片！！！ https://t.co/DS7OAaNtJE https://t.co/g6WoHG4kpT",
+      "builder": "Claude",
+      "title": "Claude for Word 与 Claude for Excel 和 Claude for PowerPoint 共享相同的上下文，因此……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Claude for Word shares context with Claude for Excel and Claude for PowerPoint, so Claude can work across your open d…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Claude for Word shares context with Claude for Excel and Claude for PowerPoint, so…",
+      "originalBody": "Claude for Word shares context with Claude for Excel and Claude for PowerPoint, so Claude can work across your open documents in a single conversation.\n\nRead more: https://t.co/MJ89c4IuTt",
+      "translatedTitle": "Claude for Word 与 Claude for Excel 和 Claude for PowerPoint 共享相同的上下文，因此……",
+      "translatedBody": "Claude for Word 与 Claude for Excel 和 Claude for PowerPoint 共享上下文，因此 Claude 可以在一次对话中处理您打开的所有文档。\n\n了解更多：https://t.co/MJ89c4IuTt",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2042443722290327596",
-      "publishedAt": "2026-04-10T03:25:04.000Z",
-      "score": 115.93,
+      "sourceUrl": "https://x.com/claudeai/status/2042670343173574705",
+      "publishedAt": "2026-04-10T18:25:35.000Z",
+      "score": 135.69,
       "engagement": {
-        "likes": 8,
-        "retweets": 1,
-        "replies": 5
+        "likes": 816,
+        "retweets": 48,
+        "replies": 20
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2042411572241608913",
+      "id": "2042759653281456218",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "这两种情况都可能成立：1.",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：Both of these can be true: 1. No model is anywhere near as good as Opus for OpenClaw 2. Using Claude Code as a person…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "Both of these can be true: 1.",
-      "originalBody": "Both of these can be true:\n\n1. No model is anywhere near as good as Opus for OpenClaw\n\n2. Using Claude Code as a personal assistant replacement is OK but just doesn’t feel as “mine” as my OpenClaw",
-      "translatedTitle": "这两种情况都可能成立：1.",
-      "translatedBody": "以下两种说法可能都正确：\n\n1. 对于 OpenClaw 来说，没有任何一款软件能比得上 Opus。\n\n2. 使用 Claude Code 作为个人助理的替代品尚可，但总感觉不如我的 OpenClaw 那样“专属”。",
+      "builder": "Aaron Levie",
+      "title": "我接触的科技行业以外的企业首席信息官和人工智能领导者越多，就越发觉得……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The more I meet enterprise CIOs and AI leaders outside of tech, the more it’s obvious that if you’re building softwar…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "The more I meet enterprise CIOs and AI leaders outside of tech, the more it’s obvio…",
+      "originalBody": "The more I meet enterprise CIOs and AI leaders outside of tech, the more it’s obvious that if you’re building software that doesn’t have a great headless mode, you’re going to be at risk in the coming years.\n\nAsked a group of 20 IT leaders across banking, media, finance, and healthcare if they will have any vendors left in 3-5 years that don’t have a good API option for their service and it was a unanimous “no”.\n\nThis is clearly going to change the nature of software going forward. You have to be completely comfortable serving up your value proposition as much through agent on or off your platform, as you are your own interface. I suspect most platforms will make it to the other side because of how forceful the trend will be, but of course some won’t if their heads in the sand. \n\nBut on the other end, the upside is that in a world of 100X+ more agents doing work with with software than people ever did, there are far more use-cases to drive and be a part of. In many ways it’s a renaissance if you’re tied to critical data or workflows because of what customers can now use you for. \n\nIt will certainly force an evolution of business models over time - whether you embed all of this agentic usage in a seat license or make it all consumption based - but dollars will always flow to where value is created. Going to be fun!",
+      "translatedTitle": "我接触的科技行业以外的企业首席信息官和人工智能领导者越多，就越发觉得……",
+      "translatedBody": "我接触的科技行业以外的企业首席信息官和人工智能领导者越多，就越发意识到，如果你开发的软件没有强大的无头模式，未来几年你将面临风险。\n\n我询问了来自银行、媒体、金融和医疗保健行业的20位IT领导者，在未来3-5年内，他们是否还会选择那些没有完善API选项的供应商，答案是一致的“不会”。\n\n这显然将改变未来软件的本质。你必须能够完全适应通过平台内外的代理来提供价值主张，就像你本身就是一个用户界面一样。我估计大多数平台都能成功转型，因为这一趋势势不可挡，当然，有些平台如果视而不见，就无法成功。\n\n但另一方面，好处在于，在未来这个时代，与软件交互的代理数量是以往的100倍以上，这意味着有更多用例值得开发和参与。从很多方面来说，如果你因为客户现在可以利用你而与关键数据或工作流程紧密相连，那么这可以说是一次复兴。\n\n随着时间的推移，这无疑会推动商业模式的演变——无论你是将所有这些代理使用都嵌入到席位许可中，还是完全基于消费——但资金总是会流向创造价值的地方。这将会很有趣！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2042411572241608913",
-      "publishedAt": "2026-04-10T01:17:19.000Z",
-      "score": 77.87,
+      "sourceUrl": "https://x.com/levie/status/2042759653281456218",
+      "publishedAt": "2026-04-11T00:20:28.000Z",
+      "score": 80.07,
       "engagement": {
-        "likes": 141,
-        "retweets": 4,
-        "replies": 40
+        "likes": 242,
+        "retweets": 20,
+        "replies": 25
       },
       "matchedFocusAreas": [
-        "Foundation Models",
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2042758851074588945",
+      "type": "tweet",
+      "builder": "Nikunj Kothari",
+      "title": "我当时正在写一篇（相对较长的）文章，内容是关于我向V型雇主转型过程中的所有心得体会……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I was writing a (relatively) long essay on all my learnings of transitioning to a VC ~two years ago.. But, decided to…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "I was writing a (relatively) long essay on all my learnings of transitioning to a V…",
+      "originalBody": "I was writing a (relatively) long essay on all my learnings of transitioning to a VC ~two years ago.. \n\nBut, decided to whittle it down to a tight 11 bullet point list (some are cliches, but oh so true):\n\n1. Get on the flight -don’t question it.\n\n2. Deals often die on the weekends.\n\n3. If it’s not wired, it’s not done yet.\n\n4. Conviction is never found in the data room.\n\n5. Naïvety is a virtue, not a weakness.\n\n6. In early stage, pick two: founder, market, product -then believe that the third catches up.\n\n7. The right deal at the wrong time is still the wrong deal.\n\n8. In the land of hubris, constraints still reign king.\n\n9. Slow no’s are worse than fast no’s. Way worse. \n\n10. Your last deal should teach you more than your first.\n\n11. Above all else, pick integrity.\n\n---\n\nIf you are an experienced VC, please add more to this.\n\nIf you as a reader are curious about any of these, please ask questions.\n\nGrateful to have this extremely privileged opportunity!",
+      "translatedTitle": "我当时正在写一篇（相对较长的）文章，内容是关于我向V型雇主转型过程中的所有心得体会……",
+      "translatedBody": "大约两年前，我写了一篇（比较）长的文章，记录我转型成为风险投资人的所有心得体会……\n\n不过，我决定把它精简成11条要点（有些是老生常谈，但却句句属实）：\n\n1. 赶紧行动——别犹豫。\n\n2. 交易往往会在周末告吹。\n\n3. 如果还没完成，那就还没完工。\n\n4. 数据室里永远找不到真正的信心。\n\n5. 天真是一种美德，而不是弱点。\n\n6. 在早期阶段，先选两个：创始人、市场、产品——然后相信第三个会迎头赶上。\n\n7. 时机不对，即使是合适的交易也是错误的。\n\n8. 在傲慢自大的世界里，限制依然至高无上。\n\n9. 缓慢的拒绝比快速的拒绝更糟糕。糟糕得多。\n\n10. 上一笔交易应该比第一笔更有启发性。\n\n11. 最重要的是，诚信至上。\n\n---\n\n如果您是一位经验丰富的风险投资人，请补充更多内容。\n\n如果您对以上任何一点感兴趣，欢迎提问。\n\n非常荣幸能获得这次难得的机会！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/nikunj/status/2042758851074588945",
+      "publishedAt": "2026-04-11T00:17:17.000Z",
+      "score": 77.74,
+      "engagement": {
+        "likes": 161,
+        "retweets": 2,
+        "replies": 26
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
         "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2042827575454822432",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "是的，要实现 OpenClaw + GBrain + LLM Know 这样的配置确实有点令人沮丧……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Yes, this is indeed a somewhat frustrating setup to get OpenClaw + GBrain + LLM Knowledge Wiki talking to your phone.…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Yes, this is indeed a somewhat frustrating setup to get OpenClaw + GBrain + LLM Kno…",
+      "originalBody": "Yes, this is indeed a somewhat frustrating setup to get OpenClaw + GBrain + LLM Knowledge Wiki talking to your phone. \n\nThese are all things that need to be fixed. We're in the Altair BASIC era of AI agents.\n\n(Screenshot below from underrated GStack skill /plan-DevEx-review) https://t.co/3ljs0JfIDE",
+      "translatedTitle": "是的，要实现 OpenClaw + GBrain + LLM Know 这样的配置确实有点令人沮丧……",
+      "translatedBody": "是的，要让 OpenClaw + GBrain + LLM Knowledge Wiki 与手机交互，这套配置确实有点令人沮丧。\n\n这些问题都需要解决。我们现在正处于人工智能代理的 Altair BASIC 时代。\n\n（以下截图来自被低估的 GStack 技能 /plan-DevEx-review）https://t.co/3ljs0JfIDE",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2042827575454822432",
+      "publishedAt": "2026-04-11T04:50:22.000Z",
+      "score": 73.98,
+      "engagement": {
+        "likes": 49,
+        "retweets": 4,
+        "replies": 11
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2042772055905689977",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "关于中国人工智能工作文化的观察：1.",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Observations about Chinese AI work culture: 1. Many arrive at work late (11 am) and work until late at night (11 pm).…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Observations about Chinese AI work culture: 1.",
+      "originalBody": "Observations about Chinese AI work culture:\n\n1. Many arrive at work late (11 am) and work until late at night (11 pm).\n\n2. Due to the schedule above, many employees are young. Hard for parents to sustain the same schedule. \n\n3. Everyone at these companies is using the best US AI tools like Claude Code via VPN. VPN is very common even for folks not working in tech. \n\n4. Younger generation doesn’t really drink, smoke, or party much. Many just work all the time and order food and boba delivery to office. \n\n5. Government is very supportive of AI startups including cities competing for the best AI founders to start companies locally. Beijing seems to be main AI hub. \n\n6. Youth employment is still bad so gov is also encouraging OPC (one person companies) via subsidies and incentives.\n\nWould love to hear other people’s perspectives on the above.",
+      "translatedTitle": "关于中国人工智能工作文化的观察：1.",
+      "translatedBody": "关于中国人工智能工作文化的观察：\n\n1. 许多人上班很晚（上午11点），工作到很晚（晚上11点）。\n\n2. 由于上述作息时间，许多员工都很年轻。对于有孩子的父母来说，很难维持同样的作息时间。\n\n3. 这些公司里的每个人都在使用美国顶尖的人工智能工具，例如通过VPN访问Claude Code。即使对于非科技行业的人来说，使用VPN也很普遍。\n\n4. 年轻一代不太喝酒、抽烟或参加派对。许多人整天埋头工作，点外卖或奶茶送到办公室。\n\n5. 政府非常支持人工智能初创企业，包括一些城市竞相吸引优秀的人工智能创始人到当地创业。北京似乎是主要的人工智能中心。\n\n6. 青年就业形势依然严峻，因此政府也通过补贴和激励措施鼓励一人公司（OPC）的发展。\n\n很想听听大家对以上内容的看法。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2042772055905689977",
+      "publishedAt": "2026-04-11T01:09:45.000Z",
+      "score": 59.73,
+      "engagement": {
+        "likes": 654,
+        "retweets": 37,
+        "replies": 36
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2042638661389328413",
+      "type": "tweet",
+      "builder": "Matt Turck",
+      "title": "Claude Cowork、Mythos 和软件的未来：我与 @felixriese 的对话……",
+      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Claude Cowork, Mythos, and the Future of Software: my conversation with @felixrieseberg, who leads Cowork at @Anthrop…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Claude Cowork, Mythos, and the Future of Software: my conversation with @felixriese…",
+      "originalBody": "Claude Cowork, Mythos, and the Future of Software: my conversation with @felixrieseberg, who leads Cowork at @AnthropicAI \n\n00:00 Intro\n\n01:53 Claude Mythos Preview and the “step-function change”\n\n06:16 Why Anthropic is treating Mythos differently\n\n11:19 The real story behind Claude Cowork’s “10-day” build\n\n12:42 Why Anthropic realized Claude Code needed a non-technical version\n\n15:44 What Claude Cowork actually is\n\n17:03 Under the hood: virtual machines, tools, skills\n\n18:36 Where Cowork’s memory actually lives\n\n19:26 How Cowork connects to files, apps, and the internet\n\n20:45 Why Felix thinks the local computer is under-appreciated\n\n24:49 Trust: how do you get users comfortable with AI agents?\n\n28:45 What UX actually means for AI agents\n\n31:27 Anthropic Cowork's roadmap is only one month long\n\n34:12 Building 100 prototypes \n\n35:10 If execution is free, what becomes the bottleneck?\n\n37:25 Does it come down to taste?\n\n40:12 The hardest part of building Claude Cowork\n\n41:43 Advice for founders building AI agents\n\n44:21 SaaSpocalypse: what’s left for software startups\n\n49:30 Where AI agents are going next\n\n51:20 Regulated industries and enterprise adoption\n\n54:15 Hot takes: what's underrated, overrated, and what Felix would build today",
+      "translatedTitle": "Claude Cowork、Mythos 和软件的未来：我与 @felixriese 的对话……",
+      "translatedBody": "Claude Cowork、Mythos 和软件的未来：我与 @Felixrieseberg（@AnthropicAI Cowork 项目负责人）的对话\n\n00:00 引言\n\n01:53 Claude Mythos 预览版及其“阶跃式变化”\n\n06:16 Anthropic 为何对 Mythos 采取不同的策略\n\n11:19 Claude Cowork “10 天”构建背后的真实故事\n\n12:42 Anthropic 为何意识到 Claude Code 需要一个非技术版本\n\n15:44 Claude Cowork 的本质\n\n17:03 底层架构：虚拟机、工具和技术\n\n18:36 Cowork 的内存实际存储在哪里\n\n19:26 Cowork 如何连接文件、应用程序和互联网\n\n20:45 Felix 为何认为本地计算机被低估了\n\n24:49 信任：如何让用户安心使用 AI 代理？ 28:45 用户体验对人工智能代理的真正意义\n\n31:27 Anthropic Cowork 的路线图只有一个月\n\n34:12 构建 100 个原型\n\n35:10 如果执行成本为零，瓶颈会是什么？\n\n37:25 这最终取决于个人喜好吗？\n\n40:12 构建 Claude Cowork 最难的部分是什么？\n\n41:43 给正在构建人工智能代理的创始人的建议\n\n44:21 SaaS 末日：软件创业公司的未来\n\n49:30 人工智能代理的未来发展方向\n\n51:20 受监管行业和企业应用\n\n54:15 热点观点：哪些被低估了，哪些被高估了，以及 Felix 如果放在今天会开发什么",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/mattturck/status/2042638661389328413",
+      "publishedAt": "2026-04-10T16:19:41.000Z",
+      "score": 56.75,
+      "engagement": {
+        "likes": 327,
+        "retweets": 52,
+        "replies": 7
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2042833728305795370",
+      "type": "tweet",
+      "builder": "Amjad Masad",
+      "title": "两年前在塔克的节目中，我谈到了人工智能末日论者的“理性主义”思想……",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Two years ago on Tucker’s show I talked about how the AI doomers “rationalist” ideology will eventually lead to viole…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Two years ago on Tucker’s show I talked about how the AI doomers “rationalist” ideo…",
+      "originalBody": "Two years ago on Tucker’s show I talked about how the AI doomers “rationalist” ideology will eventually lead to violence. \n\nAnd sure enough the alleged Sam Altman Molotov attacker appears to be a believer and maybe even an active participant in those communities. https://t.co/R0T9Awg0A6",
+      "translatedTitle": "两年前在塔克的节目中，我谈到了人工智能末日论者的“理性主义”思想……",
+      "translatedBody": "两年前我在塔克·卡尔森的节目中谈到，人工智能末日论者的“理性主义”意识形态最终会导致暴力。\n\n果不其然，据称是萨姆·奥特曼莫洛托夫袭击者的凶手似乎就是这些群体的信徒，甚至可能是他们的积极参与者。https://t.co/R0T9Awg0A6",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/amasad/status/2042833728305795370",
+      "publishedAt": "2026-04-11T05:14:49.000Z",
+      "score": 52.35,
+      "engagement": {
+        "likes": 96,
+        "retweets": 6,
+        "replies": 15
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-04-10T07:24:47.831Z",
-    "totalCandidates": 41,
-    "textQualifiedCandidates": 19,
+    "upstreamGeneratedAt": "2026-04-11T06:58:35.342Z",
+    "totalCandidates": 32,
+    "textQualifiedCandidates": 17,
     "selectedTweets": 8
   }
 }
