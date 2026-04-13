@@ -1,10 +1,10 @@
 {
-  "date": "2026-04-12",
-  "generatedAt": "2026-04-12T03:19:30.229Z",
+  "date": "2026-04-13",
+  "generatedAt": "2026-04-13T03:25:47.576Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-04-12",
-  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 32 条候选动态里，筛出 17 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-04-13",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 18 条候选动态里，筛出 15 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,34 +15,30 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
-    },
-    {
-      "slug": "product-ships",
-      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2042670341915295865",
+      "id": "2043020059896091016",
       "type": "tweet",
-      "builder": "Claude",
-      "title": "Claude for Word 目前处于测试阶段。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Claude for Word is now in beta. Draft, edit, and revise documents directly from the sidebar. Claude preserves your fo…",
+      "builder": "Guillermo Rauch",
+      "title": "Vercel Sandbox 现在是速度最快的基于 microVM 的沙箱。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Vercel Sandbox is now the #1 fastest microVM-based Sandbox. We’ve also heard from customers migrating that beyond “in…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Claude for Word is now in beta.",
-      "originalBody": "Claude for Word is now in beta.\n\nDraft, edit, and revise documents directly from the sidebar. Claude preserves your formatting, and edits appear as tracked changes.\n\nAvailable on Team and Enterprise plans. https://t.co/tl1mZVELNg",
-      "translatedTitle": "Claude for Word 目前处于测试阶段。",
-      "translatedBody": "Claude for Word 现已推出 Beta 版。\n\n直接在侧边栏中起草、编辑和修改文档。Claude 会保留您的格式，并且所有编辑都会以跟踪更改的形式显示。\n\n适用于团队版和企业版套餐。https://t.co/tl1mZVELNg",
+      "originalTitle": "Vercel Sandbox is now the #1 fastest microVM-based Sandbox.",
+      "originalBody": "Vercel Sandbox is now the #1 fastest microVM-based Sandbox.\n\nWe’ve also heard from customers migrating that beyond “in the lab” benchmarks, our real-world performance & reliability are second-to-none. Literally.\n\nWhether it’s 🦞 claws, coding agents, or plain compute parallelism, we think this is the foundation of the new world. Enjoy!",
+      "translatedTitle": "Vercel Sandbox 现在是速度最快的基于 microVM 的沙箱。",
+      "translatedBody": "Vercel Sandbox 现已成为速度最快的基于微型虚拟机的沙箱平台。\n\n我们也收到客户的反馈，他们表示，除了实验室基准测试之外，我们的实际性能和可靠性也堪称一流。毫不夸张。\n\n无论是 🦞 爪子、编码代理，还是纯粹的计算并行，我们都认为这是新世界的基石。尽情体验吧！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2042670341915295865",
-      "publishedAt": "2026-04-10T18:25:35.000Z",
-      "score": 178.2,
+      "sourceUrl": "https://x.com/rauchg/status/2043020059896091016",
+      "publishedAt": "2026-04-11T17:35:14.000Z",
+      "score": 156.79,
       "engagement": {
-        "likes": 22673,
-        "retweets": 1607,
-        "replies": 837
+        "likes": 355,
+        "retweets": 21,
+        "replies": 32
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -50,51 +46,76 @@
       "sourceType": "x"
     },
     {
-      "id": "2042670343173574705",
+      "id": "2043095815577833619",
       "type": "tweet",
-      "builder": "Claude",
-      "title": "Claude for Word 与 Claude for Excel 和 Claude for PowerPoint 共享相同的上下文，因此……",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Claude for Word shares context with Claude for Excel and Claude for PowerPoint, so Claude can work across your open d…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Claude for Word shares context with Claude for Excel and Claude for PowerPoint, so…",
-      "originalBody": "Claude for Word shares context with Claude for Excel and Claude for PowerPoint, so Claude can work across your open documents in a single conversation.\n\nRead more: https://t.co/MJ89c4IuTt",
-      "translatedTitle": "Claude for Word 与 Claude for Excel 和 Claude for PowerPoint 共享相同的上下文，因此……",
-      "translatedBody": "Claude for Word 与 Claude for Excel 和 Claude for PowerPoint 共享上下文，因此 Claude 可以在一次对话中处理您打开的所有文档。\n\n了解更多：https://t.co/MJ89c4IuTt",
+      "builder": "Swyx",
+      "title": "我直接从伦敦飞回来，准备今晚在百老汇的歌舞表演！！",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：flew straight back from London town to get ready for my Broadway cabaret tonight !! (sorry didnt advertise… its v lim…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "flew straight back from London town to get ready for my Broadway cabaret tonight !!",
+      "originalBody": "flew straight back from London town to get ready for my Broadway cabaret tonight !!\n\n(sorry didnt advertise… its v limited seating) https://t.co/H2FS34JwFB",
+      "translatedTitle": "我直接从伦敦飞回来，准备今晚在百老汇的歌舞表演！！",
+      "translatedBody": "刚从伦敦飞回来，准备今晚在百老汇的歌舞表演！！\n\n（抱歉没提前宣传……座位非常有限）https://t.co/H2FS34JwFB",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2042670343173574705",
-      "publishedAt": "2026-04-10T18:25:35.000Z",
-      "score": 135.69,
+      "sourceUrl": "https://x.com/swyx/status/2043095815577833619",
+      "publishedAt": "2026-04-11T22:36:15.000Z",
+      "score": 121.02,
       "engagement": {
-        "likes": 816,
-        "retweets": 48,
-        "replies": 20
+        "likes": 39,
+        "retweets": 0,
+        "replies": 11
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2042759653281456218",
+      "id": "2043217991589102027",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "我接触的科技行业以外的企业首席信息官和人工智能领导者越多，就越发觉得……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The more I meet enterprise CIOs and AI leaders outside of tech, the more it’s obvious that if you’re building softwar…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "The more I meet enterprise CIOs and AI leaders outside of tech, the more it’s obvio…",
-      "originalBody": "The more I meet enterprise CIOs and AI leaders outside of tech, the more it’s obvious that if you’re building software that doesn’t have a great headless mode, you’re going to be at risk in the coming years.\n\nAsked a group of 20 IT leaders across banking, media, finance, and healthcare if they will have any vendors left in 3-5 years that don’t have a good API option for their service and it was a unanimous “no”.\n\nThis is clearly going to change the nature of software going forward. You have to be completely comfortable serving up your value proposition as much through agent on or off your platform, as you are your own interface. I suspect most platforms will make it to the other side because of how forceful the trend will be, but of course some won’t if their heads in the sand. \n\nBut on the other end, the upside is that in a world of 100X+ more agents doing work with with software than people ever did, there are far more use-cases to drive and be a part of. In many ways it’s a renaissance if you’re tied to critical data or workflows because of what customers can now use you for. \n\nIt will certainly force an evolution of business models over time - whether you embed all of this agentic usage in a seat license or make it all consumption based - but dollars will always flow to where value is created. Going to be fun!",
-      "translatedTitle": "我接触的科技行业以外的企业首席信息官和人工智能领导者越多，就越发觉得……",
-      "translatedBody": "我接触的科技行业以外的企业首席信息官和人工智能领导者越多，就越发意识到，如果你开发的软件没有强大的无头模式，未来几年你将面临风险。\n\n我询问了来自银行、媒体、金融和医疗保健行业的20位IT领导者，在未来3-5年内，他们是否还会选择那些没有完善API选项的供应商，答案是一致的“不会”。\n\n这显然将改变未来软件的本质。你必须能够完全适应通过平台内外的代理来提供价值主张，就像你本身就是一个用户界面一样。我估计大多数平台都能成功转型，因为这一趋势势不可挡，当然，有些平台如果视而不见，就无法成功。\n\n但另一方面，好处在于，在未来这个时代，与软件交互的代理数量是以往的100倍以上，这意味着有更多用例值得开发和参与。从很多方面来说，如果你因为客户现在可以利用你而与关键数据或工作流程紧密相连，那么这可以说是一次复兴。\n\n随着时间的推移，这无疑会推动商业模式的演变——无论你是将所有这些代理使用都嵌入到席位许可中，还是完全基于消费——但资金总是会流向创造价值的地方。这将会很有趣！",
+      "builder": "Swyx",
+      "title": "深夜 TAM 低潮时发推文：时隔约 18 年再次独唱百老汇歌曲！",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：late night low TAM tweet: did a Broadway solo song for the first time in ~18 years! only fumbled lyrics once! https:/…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "late night low TAM tweet: did a Broadway solo song for the first time in ~18 years!",
+      "originalBody": "late night low TAM tweet:\n\ndid a Broadway solo song for the first time in ~18 years! only fumbled lyrics once! https://t.co/1Yh31lH68z https://t.co/mi9jwudyFd",
+      "translatedTitle": "深夜 TAM 低潮时发推文：时隔约 18 年再次独唱百老汇歌曲！",
+      "translatedBody": "深夜低潮时发推：\n\n时隔约18年再次独唱百老汇歌曲！只唱错了一次歌词！https://t.co/1Yh31lH68z https://t.co/mi9jwudyFd",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2042759653281456218",
-      "publishedAt": "2026-04-11T00:20:28.000Z",
-      "score": 80.07,
+      "sourceUrl": "https://x.com/swyx/status/2043217991589102027",
+      "publishedAt": "2026-04-12T06:41:45.000Z",
+      "score": 118.61,
       "engagement": {
-        "likes": 242,
-        "retweets": 20,
-        "replies": 25
+        "likes": 15,
+        "retweets": 0,
+        "replies": 2
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2043136620006961384",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "2) Native Codex 作为 OpenClaw 框架：plugins.entries.codex.enabled = true agent…",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：2) Native Codex as the OpenClaw harness: plugins.entries.codex.enabled = true agents.defaults.model = \"codex/gpt-5.4\"…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "2) Native Codex as the OpenClaw harness: plugins.entries.codex.enabled = true agent…",
+      "originalBody": "2) Native Codex as the OpenClaw harness:\n\nplugins.entries.codex.enabled = true\nagents.defaults.model = \"codex/gpt-5.4\"\nagents.defaults.embeddedHarness = { runtime: \"codex\", fallback: \"none\" }\n\nCodex owns threads, resume, compaction, app-server execution. https://t.co/9DDpY6TMqf",
+      "translatedTitle": "2) Native Codex 作为 OpenClaw 框架：plugins.entries.codex.enabled = true agent…",
+      "translatedBody": "2) 将原生 Codex 作为 OpenClaw 框架：\n\nplugins.entries.codex.enabled = true\n\nagents.defaults.model = \"codex/gpt-5.4\"\n\nagents.defaults.embeddedHarness = { runtime: \"codex\", fallback: \"none\" }\n\nCodex 拥有线程、恢复、压缩和应用服务器执行等功能。https://t.co/9DDpY6TMqf",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2043136620006961384",
+      "publishedAt": "2026-04-12T01:18:24.000Z",
+      "score": 77.09,
+      "engagement": {
+        "likes": 165,
+        "retweets": 3,
+        "replies": 6
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -103,54 +124,54 @@
       "sourceType": "x"
     },
     {
-      "id": "2042758851074588945",
+      "id": "2043136624469619050",
       "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "我当时正在写一篇（相对较长的）文章，内容是关于我向V型雇主转型过程中的所有心得体会……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I was writing a (relatively) long essay on all my learnings of transitioning to a VC ~two years ago.. But, decided to…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "I was writing a (relatively) long essay on all my learnings of transitioning to a V…",
-      "originalBody": "I was writing a (relatively) long essay on all my learnings of transitioning to a VC ~two years ago.. \n\nBut, decided to whittle it down to a tight 11 bullet point list (some are cliches, but oh so true):\n\n1. Get on the flight -don’t question it.\n\n2. Deals often die on the weekends.\n\n3. If it’s not wired, it’s not done yet.\n\n4. Conviction is never found in the data room.\n\n5. Naïvety is a virtue, not a weakness.\n\n6. In early stage, pick two: founder, market, product -then believe that the third catches up.\n\n7. The right deal at the wrong time is still the wrong deal.\n\n8. In the land of hubris, constraints still reign king.\n\n9. Slow no’s are worse than fast no’s. Way worse. \n\n10. Your last deal should teach you more than your first.\n\n11. Above all else, pick integrity.\n\n---\n\nIf you are an experienced VC, please add more to this.\n\nIf you as a reader are curious about any of these, please ask questions.\n\nGrateful to have this extremely privileged opportunity!",
-      "translatedTitle": "我当时正在写一篇（相对较长的）文章，内容是关于我向V型雇主转型过程中的所有心得体会……",
-      "translatedBody": "大约两年前，我写了一篇（比较）长的文章，记录我转型成为风险投资人的所有心得体会……\n\n不过，我决定把它精简成11条要点（有些是老生常谈，但却句句属实）：\n\n1. 赶紧行动——别犹豫。\n\n2. 交易往往会在周末告吹。\n\n3. 如果还没完成，那就还没完工。\n\n4. 数据室里永远找不到真正的信心。\n\n5. 天真是一种美德，而不是弱点。\n\n6. 在早期阶段，先选两个：创始人、市场、产品——然后相信第三个会迎头赶上。\n\n7. 时机不对，即使是合适的交易也是错误的。\n\n8. 在傲慢自大的世界里，限制依然至高无上。\n\n9. 缓慢的拒绝比快速的拒绝更糟糕。糟糕得多。\n\n10. 上一笔交易应该比第一笔更有启发性。\n\n11. 最重要的是，诚信至上。\n\n---\n\n如果您是一位经验丰富的风险投资人，请补充更多内容。\n\n如果您对以上任何一点感兴趣，欢迎提问。\n\n非常荣幸能获得这次难得的机会！",
+      "builder": "Peter Steinberger",
+      "title": "现在，线束可以做成插件——这意味着替换默认的Pi线束将变得非常简单……",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Harnesses can now been plugins - meaning it'd be trivial to replace the default Pi harness with e.g. Anthropic’s SDK…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Harnesses can now been plugins - meaning it'd be trivial to replace the default Pi…",
+      "originalBody": "Harnesses can now been plugins - meaning it'd be trivial to replace the default Pi harness with e.g. Anthropic’s SDK or another custom one.\n\nThis won't magically allow Claude subscription, but it's useful to compare different implementations.\n\nUsing codex as harness will likely weaken personality, but should increase agentic mode to keep the agent working on longer-horizon tasks.\n\nSo far I gated strict mode to GPT since it's not yet tested with other models, but it's trivial to modify that if you use hackable install.",
+      "translatedTitle": "现在，线束可以做成插件——这意味着替换默认的Pi线束将变得非常简单……",
+      "translatedBody": "现在，Harness 可以作为插件使用——这意味着可以轻松地将默认的 Pi Harness 替换为例如 Anthropic 的 SDK 或其他自定义的 Harness。\n\n这并不会神奇地实现 Claude 订阅，但有助于比较不同的实现方式。\n\n使用 Codex 作为 Harness 可能会削弱智能体的个性，但应该会增强其代理模式，使其能够处理更长期的任务。\n\n目前，我将严格模式限制为仅限 GPT，因为它尚未与其他模型进行过测试，但如果您使用可破解的安装方式，则可以轻松修改此设置。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2042758851074588945",
-      "publishedAt": "2026-04-11T00:17:17.000Z",
-      "score": 77.74,
+      "sourceUrl": "https://x.com/steipete/status/2043136624469619050",
+      "publishedAt": "2026-04-12T01:18:25.000Z",
+      "score": 75.23,
       "engagement": {
-        "likes": 161,
-        "retweets": 2,
-        "replies": 26
+        "likes": 116,
+        "retweets": 1,
+        "replies": 5
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Product Ships"
+        "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2042827575454822432",
+      "id": "2043144970060939487",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "是的，要实现 OpenClaw + GBrain + LLM Know 这样的配置确实有点令人沮丧……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Yes, this is indeed a somewhat frustrating setup to get OpenClaw + GBrain + LLM Knowledge Wiki talking to your phone.…",
+      "builder": "Aditya Agarwal",
+      "title": "真正的“代理”与简单地在循环中运行 LLM（或……）之间的最大区别在于",
+      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The big difference between a true \"agent\" and simply running an LLM in a loop (or an event-based trigger) is how you…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Yes, this is indeed a somewhat frustrating setup to get OpenClaw + GBrain + LLM Kno…",
-      "originalBody": "Yes, this is indeed a somewhat frustrating setup to get OpenClaw + GBrain + LLM Knowledge Wiki talking to your phone. \n\nThese are all things that need to be fixed. We're in the Altair BASIC era of AI agents.\n\n(Screenshot below from underrated GStack skill /plan-DevEx-review) https://t.co/3ljs0JfIDE",
-      "translatedTitle": "是的，要实现 OpenClaw + GBrain + LLM Know 这样的配置确实有点令人沮丧……",
-      "translatedBody": "是的，要让 OpenClaw + GBrain + LLM Knowledge Wiki 与手机交互，这套配置确实有点令人沮丧。\n\n这些问题都需要解决。我们现在正处于人工智能代理的 Altair BASIC 时代。\n\n（以下截图来自被低估的 GStack 技能 /plan-DevEx-review）https://t.co/3ljs0JfIDE",
+      "originalTitle": "The big difference between a true \"agent\" and simply running an LLM in a loop (or a…",
+      "originalBody": "The big difference between a true \"agent\" and simply running an LLM in a loop (or an event-based trigger) is how you do intelligent long-horizon memory management.\n\nBy far the most interesting aspect of the Claude Code architecture was their 3-tier memory architecture.",
+      "translatedTitle": "真正的“代理”与简单地在循环中运行 LLM（或……）之间的最大区别在于",
+      "translatedBody": "真正的“代理”与简单地循环运行 LLM（或基于事件的触发器）之间的最大区别在于如何进行智能的长期内存管理。\n\n克劳德代码架构中最有趣的部分无疑是其三层内存架构。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2042827575454822432",
-      "publishedAt": "2026-04-11T04:50:22.000Z",
-      "score": 73.98,
+      "sourceUrl": "https://x.com/adityaag/status/2043144970060939487",
+      "publishedAt": "2026-04-12T01:51:35.000Z",
+      "score": 74.82,
       "engagement": {
-        "likes": 49,
+        "likes": 96,
         "retweets": 4,
-        "replies": 11
+        "replies": 8
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -159,53 +180,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2042772055905689977",
+      "id": "2043136615640694797",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "关于中国人工智能工作文化的观察：1.",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Observations about Chinese AI work culture: 1. Many arrive at work late (11 am) and work until late at night (11 pm).…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Observations about Chinese AI work culture: 1.",
-      "originalBody": "Observations about Chinese AI work culture:\n\n1. Many arrive at work late (11 am) and work until late at night (11 pm).\n\n2. Due to the schedule above, many employees are young. Hard for parents to sustain the same schedule. \n\n3. Everyone at these companies is using the best US AI tools like Claude Code via VPN. VPN is very common even for folks not working in tech. \n\n4. Younger generation doesn’t really drink, smoke, or party much. Many just work all the time and order food and boba delivery to office. \n\n5. Government is very supportive of AI startups including cities competing for the best AI founders to start companies locally. Beijing seems to be main AI hub. \n\n6. Youth employment is still bad so gov is also encouraging OPC (one person companies) via subsidies and incentives.\n\nWould love to hear other people’s perspectives on the above.",
-      "translatedTitle": "关于中国人工智能工作文化的观察：1.",
-      "translatedBody": "关于中国人工智能工作文化的观察：\n\n1. 许多人上班很晚（上午11点），工作到很晚（晚上11点）。\n\n2. 由于上述作息时间，许多员工都很年轻。对于有孩子的父母来说，很难维持同样的作息时间。\n\n3. 这些公司里的每个人都在使用美国顶尖的人工智能工具，例如通过VPN访问Claude Code。即使对于非科技行业的人来说，使用VPN也很普遍。\n\n4. 年轻一代不太喝酒、抽烟或参加派对。许多人整天埋头工作，点外卖或奶茶送到办公室。\n\n5. 政府非常支持人工智能初创企业，包括一些城市竞相吸引优秀的人工智能创始人到当地创业。北京似乎是主要的人工智能中心。\n\n6. 青年就业形势依然严峻，因此政府也通过补贴和激励措施鼓励一人公司（OPC）的发展。\n\n很想听听大家对以上内容的看法。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2042772055905689977",
-      "publishedAt": "2026-04-11T01:09:45.000Z",
-      "score": 59.73,
-      "engagement": {
-        "likes": 654,
-        "retweets": 37,
-        "replies": 36
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2042638661389328413",
-      "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "Claude Cowork、Mythos 和软件的未来：我与 @felixriese 的对话……",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Claude Cowork, Mythos, and the Future of Software: my conversation with @felixrieseberg, who leads Cowork at @Anthrop…",
+      "builder": "Peter Steinberger",
+      "title": "下一个 @openclaw 实验将解决一些“GPT 太懒”的问题：1）Stri…",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Two experiments in the next @openclaw to address some \"GPT is lazy\" issues: 1) Strict mode: agents.defaults.embeddedP…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Claude Cowork, Mythos, and the Future of Software: my conversation with @felixriese…",
-      "originalBody": "Claude Cowork, Mythos, and the Future of Software: my conversation with @felixrieseberg, who leads Cowork at @AnthropicAI \n\n00:00 Intro\n\n01:53 Claude Mythos Preview and the “step-function change”\n\n06:16 Why Anthropic is treating Mythos differently\n\n11:19 The real story behind Claude Cowork’s “10-day” build\n\n12:42 Why Anthropic realized Claude Code needed a non-technical version\n\n15:44 What Claude Cowork actually is\n\n17:03 Under the hood: virtual machines, tools, skills\n\n18:36 Where Cowork’s memory actually lives\n\n19:26 How Cowork connects to files, apps, and the internet\n\n20:45 Why Felix thinks the local computer is under-appreciated\n\n24:49 Trust: how do you get users comfortable with AI agents?\n\n28:45 What UX actually means for AI agents\n\n31:27 Anthropic Cowork's roadmap is only one month long\n\n34:12 Building 100 prototypes \n\n35:10 If execution is free, what becomes the bottleneck?\n\n37:25 Does it come down to taste?\n\n40:12 The hardest part of building Claude Cowork\n\n41:43 Advice for founders building AI agents\n\n44:21 SaaSpocalypse: what’s left for software startups\n\n49:30 Where AI agents are going next\n\n51:20 Regulated industries and enterprise adoption\n\n54:15 Hot takes: what's underrated, overrated, and what Felix would build today",
-      "translatedTitle": "Claude Cowork、Mythos 和软件的未来：我与 @felixriese 的对话……",
-      "translatedBody": "Claude Cowork、Mythos 和软件的未来：我与 @Felixrieseberg（@AnthropicAI Cowork 项目负责人）的对话\n\n00:00 引言\n\n01:53 Claude Mythos 预览版及其“阶跃式变化”\n\n06:16 Anthropic 为何对 Mythos 采取不同的策略\n\n11:19 Claude Cowork “10 天”构建背后的真实故事\n\n12:42 Anthropic 为何意识到 Claude Code 需要一个非技术版本\n\n15:44 Claude Cowork 的本质\n\n17:03 底层架构：虚拟机、工具和技术\n\n18:36 Cowork 的内存实际存储在哪里\n\n19:26 Cowork 如何连接文件、应用程序和互联网\n\n20:45 Felix 为何认为本地计算机被低估了\n\n24:49 信任：如何让用户安心使用 AI 代理？ 28:45 用户体验对人工智能代理的真正意义\n\n31:27 Anthropic Cowork 的路线图只有一个月\n\n34:12 构建 100 个原型\n\n35:10 如果执行成本为零，瓶颈会是什么？\n\n37:25 这最终取决于个人喜好吗？\n\n40:12 构建 Claude Cowork 最难的部分是什么？\n\n41:43 给正在构建人工智能代理的创始人的建议\n\n44:21 SaaS 末日：软件创业公司的未来\n\n49:30 人工智能代理的未来发展方向\n\n51:20 受监管行业和企业应用\n\n54:15 热点观点：哪些被低估了，哪些被高估了，以及 Felix 如果放在今天会开发什么",
+      "originalTitle": "Two experiments in the next @openclaw to address some \"GPT is lazy\" issues: 1) Stri…",
+      "originalBody": "Two experiments in the next @openclaw to address some \"GPT is lazy\" issues: \n1) Strict mode:\n\nagents.defaults.embeddedPi.executionContract = \"strict-agentic\"\n\nThis tells GPT-5.x to keep working: read more code, call tools, make changes, or return a real blocker instead of stopping at “here’s the plan.” https://t.co/QMdeus6Y5J",
+      "translatedTitle": "下一个 @openclaw 实验将解决一些“GPT 太懒”的问题：1）Stri…",
+      "translatedBody": "下一期 @openclaw 将进行两项实验，以解决 GPT 的“懒惰”问题：\n\n1) 严格模式：\n\nagents.defaults.embeddedPi.executionContract = \"strict-agentic\"\n\n这会告诉 GPT-5.x 继续工作：读取更多代码、调用工具、进行更改，或者返回真正的阻塞，而不是仅仅停留在“这是计划”的阶段。https://t.co/QMdeus6Y5J",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2042638661389328413",
-      "publishedAt": "2026-04-10T16:19:41.000Z",
-      "score": 56.75,
+      "sourceUrl": "https://x.com/steipete/status/2043136615640694797",
+      "publishedAt": "2026-04-12T01:18:23.000Z",
+      "score": 62.16,
       "engagement": {
-        "likes": 327,
-        "retweets": 52,
-        "replies": 7
+        "likes": 1009,
+        "retweets": 58,
+        "replies": 82
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -213,26 +207,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2042833728305795370",
+      "id": "2043187721989149146",
       "type": "tweet",
-      "builder": "Amjad Masad",
-      "title": "两年前在塔克的节目中，我谈到了人工智能末日论者的“理性主义”思想……",
-      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Two years ago on Tucker’s show I talked about how the AI doomers “rationalist” ideology will eventually lead to viole…",
+      "builder": "Zara Zhang",
+      "title": "人类最有效的协作方式：不协作。一个人应该……",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The most efficient way for humans to collaborate: do not collaborate One person should own something end-to-end and w…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Two years ago on Tucker’s show I talked about how the AI doomers “rationalist” ideo…",
-      "originalBody": "Two years ago on Tucker’s show I talked about how the AI doomers “rationalist” ideology will eventually lead to violence. \n\nAnd sure enough the alleged Sam Altman Molotov attacker appears to be a believer and maybe even an active participant in those communities. https://t.co/R0T9Awg0A6",
-      "translatedTitle": "两年前在塔克的节目中，我谈到了人工智能末日论者的“理性主义”思想……",
-      "translatedBody": "两年前我在塔克·卡尔森的节目中谈到，人工智能末日论者的“理性主义”意识形态最终会导致暴力。\n\n果不其然，据称是萨姆·奥特曼莫洛托夫袭击者的凶手似乎就是这些群体的信徒，甚至可能是他们的积极参与者。https://t.co/R0T9Awg0A6",
+      "originalTitle": "The most efficient way for humans to collaborate: do not collaborate One person sho…",
+      "originalBody": "The most efficient way for humans to collaborate: do not collaborate\n\nOne person should own something end-to-end and work with agents",
+      "translatedTitle": "人类最有效的协作方式：不协作。一个人应该……",
+      "translatedBody": "人类最有效的协作方式：不协作\n\n一个人应该全权负责某项工作，并与代理人合作。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/amasad/status/2042833728305795370",
-      "publishedAt": "2026-04-11T05:14:49.000Z",
-      "score": 52.35,
+      "sourceUrl": "https://x.com/zarazhangrui/status/2043187721989149146",
+      "publishedAt": "2026-04-12T04:41:28.000Z",
+      "score": 54.92,
       "engagement": {
-        "likes": 96,
-        "retweets": 6,
-        "replies": 15
+        "likes": 140,
+        "retweets": 15,
+        "replies": 49
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -241,9 +235,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-04-11T06:58:35.342Z",
-    "totalCandidates": 32,
-    "textQualifiedCandidates": 17,
+    "upstreamGeneratedAt": "2026-04-12T07:10:52.880Z",
+    "totalCandidates": 18,
+    "textQualifiedCandidates": 15,
     "selectedTweets": 8
   }
 }
