@@ -1,10 +1,10 @@
 {
-  "date": "2026-04-13",
-  "generatedAt": "2026-04-13T03:25:47.576Z",
+  "date": "2026-04-14",
+  "generatedAt": "2026-04-14T02:57:36.290Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-04-13",
+  "title": "AI Builders Daily | 2026-04-14",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 18 条候选动态里，筛出 15 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 18 条候选动态里，筛出 8 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,30 +15,87 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
+    },
+    {
+      "slug": "product-ships",
+      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2043020059896091016",
+      "id": "2043381737754120592",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "Vercel Sandbox 现在是速度最快的基于 microVM 的沙箱。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Vercel Sandbox is now the #1 fastest microVM-based Sandbox. We’ve also heard from customers migrating that beyond “in…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Vercel Sandbox is now the #1 fastest microVM-based Sandbox.",
-      "originalBody": "Vercel Sandbox is now the #1 fastest microVM-based Sandbox.\n\nWe’ve also heard from customers migrating that beyond “in the lab” benchmarks, our real-world performance & reliability are second-to-none. Literally.\n\nWhether it’s 🦞 claws, coding agents, or plain compute parallelism, we think this is the foundation of the new world. Enjoy!",
-      "translatedTitle": "Vercel Sandbox 现在是速度最快的基于 microVM 的沙箱。",
-      "translatedBody": "Vercel Sandbox 现已成为速度最快的基于微型虚拟机的沙箱平台。\n\n我们也收到客户的反馈，他们表示，除了实验室基准测试之外，我们的实际性能和可靠性也堪称一流。毫不夸张。\n\n无论是 🦞 爪子、编码代理，还是纯粹的计算并行，我们都认为这是新世界的基石。尽情体验吧！",
+      "title": "专业提示：创建一个X群聊，邀请你最好、最挑剔的客户加入。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Protip: Create an X group chat with your best and most demanding customers. Put your engineering leads in said group…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Protip: Create an X group chat with your best and most demanding customers.",
+      "originalBody": "Protip: Create an X group chat with your best and most demanding customers. Put your engineering leads in said group chat. Respond and ship quickly. Face the music.\n\nWe have one going for @v0. DM if you want to be a part of it and are committed to sharing excellent feedback.",
+      "translatedTitle": "专业提示：创建一个X群聊，邀请你最好、最挑剔的客户加入。",
+      "translatedBody": "专业提示：创建一个包含你最重要、要求最高的客户的群聊。把你的工程负责人也加入这个群聊。快速响应，快速交付。勇于承担后果。\n\n我们 @v0 正在创建一个群聊。如果你想加入并致力于分享宝贵的反馈，请私信联系。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2043020059896091016",
-      "publishedAt": "2026-04-11T17:35:14.000Z",
-      "score": 156.79,
+      "sourceUrl": "https://x.com/rauchg/status/2043381737754120592",
+      "publishedAt": "2026-04-12T17:32:25.000Z",
+      "score": 133.92,
       "engagement": {
-        "likes": 355,
+        "likes": 540,
         "retweets": 21,
-        "replies": 32
+        "replies": 59
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2043466663258140685",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我的整个信息流和克劳德的子版块里全是说奥普斯被削弱了的人。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：My entire feed and the Claude subreddit is full of ppl saying opus got nerfed. Why would Anthropic nerf its own model…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "My entire feed and the Claude subreddit is full of ppl saying opus got nerfed.",
+      "originalBody": "My entire feed and the Claude subreddit is full of ppl saying opus got nerfed.\n\nWhy would Anthropic nerf its own models?",
+      "translatedTitle": "我的整个信息流和克劳德的子版块里全是说奥普斯被削弱了的人。",
+      "translatedBody": "我的整个信息流和克劳德的子版块里全是说奥普斯被削弱了的消息。\n\nAnthropico 为什么要削弱自己的模型呢？",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2043466663258140685",
+      "publishedAt": "2026-04-12T23:09:52.000Z",
+      "score": 85.55,
+      "engagement": {
+        "likes": 532,
+        "retweets": 8,
+        "replies": 245
+      },
+      "matchedFocusAreas": [
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2043566215927328955",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "这是我对智能体工程学所学到的知识的最简洁概括……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：This is the simplest distillation of what I have learned about agentic engineering this year Push smart fuzzy operati…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "This is the simplest distillation of what I have learned about agentic engineering…",
+      "originalBody": "This is the simplest distillation of what I have learned about agentic engineering this year \n\nPush smart fuzzy operations humans do into markdown skills. Fat skills. \n\nPush must-be-perfect deterministic operations into code. Fat code. \n\nThe harness? Keep it thin. https://t.co/3ESkNepZrZ",
+      "translatedTitle": "这是我对智能体工程学所学到的知识的最简洁概括……",
+      "translatedBody": "这是我今年对智能工程学习到的最简洁的总结：\n\n将人类执行的智能模糊操作融入 Markdown 技能中。技能很臃肿。\n\n将必须完美无缺的确定性操作融入代码中。代码很臃肿。\n\n框架？保持精简。https://t.co/3ESkNepZrZ",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2043566215927328955",
+      "publishedAt": "2026-04-13T05:45:28.000Z",
+      "score": 61.06,
+      "engagement": {
+        "likes": 450,
+        "retweets": 38,
+        "replies": 43
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -46,198 +103,141 @@
       "sourceType": "x"
     },
     {
-      "id": "2043095815577833619",
+      "id": "2043318118169354302",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "我直接从伦敦飞回来，准备今晚在百老汇的歌舞表演！！",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：flew straight back from London town to get ready for my Broadway cabaret tonight !! (sorry didnt advertise… its v lim…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "flew straight back from London town to get ready for my Broadway cabaret tonight !!",
-      "originalBody": "flew straight back from London town to get ready for my Broadway cabaret tonight !!\n\n(sorry didnt advertise… its v limited seating) https://t.co/H2FS34JwFB",
-      "translatedTitle": "我直接从伦敦飞回来，准备今晚在百老汇的歌舞表演！！",
-      "translatedBody": "刚从伦敦飞回来，准备今晚在百老汇的歌舞表演！！\n\n（抱歉没提前宣传……座位非常有限）https://t.co/H2FS34JwFB",
+      "builder": "Aaron Levie",
+      "title": "安保是另一个即将迎来杰文斯式变革的绝佳例子……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Security another great example of a job category that is about to have its Jevons paradox moment as well. “And counte…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Security another great example of a job category that is about to have its Jevons p…",
+      "originalBody": "Security another great example of a job category that is about to have its Jevons paradox moment as well. \n\n“And counterintuitively, I think better AI tooling for security will increase the demand for security talent, not decrease it. Autonomous exploitability automates the proving step, but it doesn't automate the response. More real findings surfaced faster means more triage, more remediation, more architectural decisions that need human judgment”\n\nAI is going to generate 100X more code, and along with that, there will be an enormous increase in security discoveries. AI is the only way to triage all of these new threats and risks, but an expert still will be needed on the other side to manage the process. Going to be a massive category of opportunity for talent.",
+      "translatedTitle": "安保是另一个即将迎来杰文斯式变革的绝佳例子……",
+      "translatedBody": "安全领域是另一个即将面临“杰文斯悖论”的绝佳例子。\n\n“与直觉相反，我认为更先进的安全人工智能工具将会增加对安全人才的需求，而不是减少。自主漏洞利用可以自动完成验证步骤，但无法自动完成响应。更快地发现更多真实漏洞意味着需要进行更多的分类、更多的补救措施以及更多需要人工判断的架构决策。”\n\n人工智能将生成百倍以上的代码，随之而来的是安全漏洞发现数量的激增。人工智能是分类所有这些新威胁和风险的唯一途径，但仍然需要专家在另一端管理整个流程。这将为人才提供巨大的机遇。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2043095815577833619",
-      "publishedAt": "2026-04-11T22:36:15.000Z",
-      "score": 121.02,
+      "sourceUrl": "https://x.com/levie/status/2043318118169354302",
+      "publishedAt": "2026-04-12T13:19:37.000Z",
+      "score": 56.57,
       "engagement": {
-        "likes": 39,
-        "retweets": 0,
-        "replies": 11
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2043217991589102027",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "深夜 TAM 低潮时发推文：时隔约 18 年再次独唱百老汇歌曲！",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：late night low TAM tweet: did a Broadway solo song for the first time in ~18 years! only fumbled lyrics once! https:/…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "late night low TAM tweet: did a Broadway solo song for the first time in ~18 years!",
-      "originalBody": "late night low TAM tweet:\n\ndid a Broadway solo song for the first time in ~18 years! only fumbled lyrics once! https://t.co/1Yh31lH68z https://t.co/mi9jwudyFd",
-      "translatedTitle": "深夜 TAM 低潮时发推文：时隔约 18 年再次独唱百老汇歌曲！",
-      "translatedBody": "深夜低潮时发推：\n\n时隔约18年再次独唱百老汇歌曲！只唱错了一次歌词！https://t.co/1Yh31lH68z https://t.co/mi9jwudyFd",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2043217991589102027",
-      "publishedAt": "2026-04-12T06:41:45.000Z",
-      "score": 118.61,
-      "engagement": {
-        "likes": 15,
-        "retweets": 0,
-        "replies": 2
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2043136620006961384",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "2) Native Codex 作为 OpenClaw 框架：plugins.entries.codex.enabled = true agent…",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：2) Native Codex as the OpenClaw harness: plugins.entries.codex.enabled = true agents.defaults.model = \"codex/gpt-5.4\"…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "2) Native Codex as the OpenClaw harness: plugins.entries.codex.enabled = true agent…",
-      "originalBody": "2) Native Codex as the OpenClaw harness:\n\nplugins.entries.codex.enabled = true\nagents.defaults.model = \"codex/gpt-5.4\"\nagents.defaults.embeddedHarness = { runtime: \"codex\", fallback: \"none\" }\n\nCodex owns threads, resume, compaction, app-server execution. https://t.co/9DDpY6TMqf",
-      "translatedTitle": "2) Native Codex 作为 OpenClaw 框架：plugins.entries.codex.enabled = true agent…",
-      "translatedBody": "2) 将原生 Codex 作为 OpenClaw 框架：\n\nplugins.entries.codex.enabled = true\n\nagents.defaults.model = \"codex/gpt-5.4\"\n\nagents.defaults.embeddedHarness = { runtime: \"codex\", fallback: \"none\" }\n\nCodex 拥有线程、恢复、压缩和应用服务器执行等功能。https://t.co/9DDpY6TMqf",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2043136620006961384",
-      "publishedAt": "2026-04-12T01:18:24.000Z",
-      "score": 77.09,
-      "engagement": {
-        "likes": 165,
-        "retweets": 3,
-        "replies": 6
+        "likes": 307,
+        "retweets": 44,
+        "replies": 21
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
+        "Coding Agents"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2043136624469619050",
+      "id": "2043374140443553885",
       "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "现在，线束可以做成插件——这意味着替换默认的Pi线束将变得非常简单……",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Harnesses can now been plugins - meaning it'd be trivial to replace the default Pi harness with e.g. Anthropic’s SDK…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Harnesses can now been plugins - meaning it'd be trivial to replace the default Pi…",
-      "originalBody": "Harnesses can now been plugins - meaning it'd be trivial to replace the default Pi harness with e.g. Anthropic’s SDK or another custom one.\n\nThis won't magically allow Claude subscription, but it's useful to compare different implementations.\n\nUsing codex as harness will likely weaken personality, but should increase agentic mode to keep the agent working on longer-horizon tasks.\n\nSo far I gated strict mode to GPT since it's not yet tested with other models, but it's trivial to modify that if you use hackable install.",
-      "translatedTitle": "现在，线束可以做成插件——这意味着替换默认的Pi线束将变得非常简单……",
-      "translatedBody": "现在，Harness 可以作为插件使用——这意味着可以轻松地将默认的 Pi Harness 替换为例如 Anthropic 的 SDK 或其他自定义的 Harness。\n\n这并不会神奇地实现 Claude 订阅，但有助于比较不同的实现方式。\n\n使用 Codex 作为 Harness 可能会削弱智能体的个性，但应该会增强其代理模式，使其能够处理更长期的任务。\n\n目前，我将严格模式限制为仅限 GPT，因为它尚未与其他模型进行过测试，但如果您使用可破解的安装方式，则可以轻松修改此设置。",
+      "builder": "Nikunj Kothari",
+      "title": "我可是科幻迷中的科幻迷了。",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I'm as SF-pilled as they come.. but more people should adopt the \"Doordash\" strategy for building companies. Doordash…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I'm as SF-pilled as they come..",
+      "originalBody": "I'm as SF-pilled as they come.. but more people should adopt the \"Doordash\" strategy for building companies. \n\nDoordash famously won the race against Uber Eats because they focused on suburban markets right outside cities. While the main players were all focused on the main cities, Doordash started with suburbs and then ate into the main markets. \n\nSimilarly, I think we'll see more companies started by people that are wildly ambitious, that are close to large cities but are tired of doing the 20-30 minute commute every day (Palo Alto is a good example). You can argue that @Waymo makes commuting not an issue, but people still don't want to sit in cars. \n\nWhen I was at @meter, I saw a lot plans of coworking spots that were starting in suburbs to fulfill this demand and I think that'll continue to happen vs. competing in hyper competitive cities. \n\nThis will skew to more experienced people than the 19 year old who wants to live in SF/NY/LA and that's perfectly fine. There will be markets for both. \n\nIf folks have tried this already, I'd love to learn how it's going!",
+      "translatedTitle": "我可是科幻迷中的科幻迷了。",
+      "translatedBody": "我可是旧金山迷，但我觉得更多人应该借鉴 DoorDash 的创业策略。\n\nDoorDash 之所以能战胜 Uber Eats，是因为它专注于城市郊区市场。当时其他主要外卖平台都把重心放在了市中心，而 DoorDash 则从郊区起步，逐步蚕食市中心市场。\n\n同样地，我认为未来会有更多雄心勃勃的人创办公司，他们住在离大城市很近的地方，却厌倦了每天 20-30 分钟的通勤（帕洛阿尔托就是一个很好的例子）。你可以说 Waymo 让通勤不再是问题，但人们仍然不想坐车。\n\n我在 Meter 工作时，看到很多联合办公空间计划在郊区兴建，以满足这种需求。我认为这种趋势会持续下去，而不是在竞争激烈的城市里争夺市场份额。\n\n这会更倾向于那些比想在旧金山/纽约/洛杉矶生活的19岁年轻人更有经验的人，这完全没问题。两者都会有市场。\n\n如果有人已经尝试过这种方式，我很想了解一下结果如何！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2043136624469619050",
-      "publishedAt": "2026-04-12T01:18:25.000Z",
-      "score": 75.23,
+      "sourceUrl": "https://x.com/nikunj/status/2043374140443553885",
+      "publishedAt": "2026-04-12T17:02:13.000Z",
+      "score": 52.69,
       "engagement": {
-        "likes": 116,
+        "likes": 170,
         "retweets": 1,
+        "replies": 20
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2043510607736189193",
+      "type": "tweet",
+      "builder": "Kevin Weil",
+      "title": "这是一个很棒的观点。",
+      "summary": "Kevin Weil 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：This is a great take. Human intelligence and computer intelligence are not different points on a line, but in a high…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "This is a great take.",
+      "originalBody": "This is a great take. Human intelligence and computer intelligence are not different points on a line, but in a high dimensional space—and we should explore more of the space. https://t.co/BdIX5OWR0H",
+      "translatedTitle": "这是一个很棒的观点。",
+      "translatedBody": "这是一个很棒的观点。人类智能和计算机智能并非同一条线上的两个点，而是在一个高维空间中——我们应该更深入地探索这个空间。https://t.co/BdIX5OWR0H",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/kevinweil/status/2043510607736189193",
+      "publishedAt": "2026-04-13T02:04:30.000Z",
+      "score": 50.01,
+      "engagement": {
+        "likes": 93,
+        "retweets": 10,
         "replies": 5
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2043144970060939487",
-      "type": "tweet",
-      "builder": "Aditya Agarwal",
-      "title": "真正的“代理”与简单地在循环中运行 LLM（或……）之间的最大区别在于",
-      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The big difference between a true \"agent\" and simply running an LLM in a loop (or an event-based trigger) is how you…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "The big difference between a true \"agent\" and simply running an LLM in a loop (or a…",
-      "originalBody": "The big difference between a true \"agent\" and simply running an LLM in a loop (or an event-based trigger) is how you do intelligent long-horizon memory management.\n\nBy far the most interesting aspect of the Claude Code architecture was their 3-tier memory architecture.",
-      "translatedTitle": "真正的“代理”与简单地在循环中运行 LLM（或……）之间的最大区别在于",
-      "translatedBody": "真正的“代理”与简单地循环运行 LLM（或基于事件的触发器）之间的最大区别在于如何进行智能的长期内存管理。\n\n克劳德代码架构中最有趣的部分无疑是其三层内存架构。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/adityaag/status/2043144970060939487",
-      "publishedAt": "2026-04-12T01:51:35.000Z",
-      "score": 74.82,
-      "engagement": {
-        "likes": 96,
-        "retweets": 4,
-        "replies": 8
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2043136615640694797",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "下一个 @openclaw 实验将解决一些“GPT 太懒”的问题：1）Stri…",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Two experiments in the next @openclaw to address some \"GPT is lazy\" issues: 1) Strict mode: agents.defaults.embeddedP…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Two experiments in the next @openclaw to address some \"GPT is lazy\" issues: 1) Stri…",
-      "originalBody": "Two experiments in the next @openclaw to address some \"GPT is lazy\" issues: \n1) Strict mode:\n\nagents.defaults.embeddedPi.executionContract = \"strict-agentic\"\n\nThis tells GPT-5.x to keep working: read more code, call tools, make changes, or return a real blocker instead of stopping at “here’s the plan.” https://t.co/QMdeus6Y5J",
-      "translatedTitle": "下一个 @openclaw 实验将解决一些“GPT 太懒”的问题：1）Stri…",
-      "translatedBody": "下一期 @openclaw 将进行两项实验，以解决 GPT 的“懒惰”问题：\n\n1) 严格模式：\n\nagents.defaults.embeddedPi.executionContract = \"strict-agentic\"\n\n这会告诉 GPT-5.x 继续工作：读取更多代码、调用工具、进行更改，或者返回真正的阻塞，而不是仅仅停留在“这是计划”的阶段。https://t.co/QMdeus6Y5J",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2043136615640694797",
-      "publishedAt": "2026-04-12T01:18:23.000Z",
-      "score": 62.16,
-      "engagement": {
-        "likes": 1009,
-        "retweets": 58,
-        "replies": 82
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2043187721989149146",
+      "id": "2043415572688629937",
       "type": "tweet",
       "builder": "Zara Zhang",
-      "title": "人类最有效的协作方式：不协作。一个人应该……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The most efficient way for humans to collaborate: do not collaborate One person should own something end-to-end and w…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The most efficient way for humans to collaborate: do not collaborate One person sho…",
-      "originalBody": "The most efficient way for humans to collaborate: do not collaborate\n\nOne person should own something end-to-end and work with agents",
-      "translatedTitle": "人类最有效的协作方式：不协作。一个人应该……",
-      "translatedBody": "人类最有效的协作方式：不协作\n\n一个人应该全权负责某项工作，并与代理人合作。",
+      "title": "友情提示：你可以在 Chrome 浏览器中使用 vibe 代码自定义“新标签页”。",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验：PSA: You can vibe code your own \"New tab\" page in Chrome. I have turned mine into the ultimate solution to the \"too m…",
+      "whyItMatters": "Zara Zhang 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "PSA: You can vibe code your own \"New tab\" page in Chrome.",
+      "originalBody": "PSA: You can vibe code your own \"New tab\" page in Chrome. I have turned mine into the ultimate solution to the \"too many tabs\" problem\n\n- See all your tabs with clear titles, grouped by domain\n- Closing any tab gives you \"swoosh\" sound and confetti effect 🎊\n- \"Easy wins\" grouped together: homepages, localhost tabs... batch-close them with one click\n- Duplicate tabs detected; close duplicates with one click\n- For tabs you're not done with, save it for later in a checklist\n\nThis is the Marie Kondo method for browser tabs\n\nOpen-sourced the code below",
+      "translatedTitle": "友情提示：你可以在 Chrome 浏览器中使用 vibe 代码自定义“新标签页”。",
+      "translatedBody": "友情提示：你可以在 Chrome 浏览器中使用 Vibe Code 自定义“新标签页”页面。我已经把它改造成了解决“标签页太多”问题的终极方案。\n\n- 所有标签页清晰可见，标题分明，按域名分组\n\n- 关闭任何标签页都会发出“嗖”的一声，并伴有彩带特效🎊\n\n- 将“轻松搞定”的标签页分组：主页、本地标签页……一键批量关闭\n\n- 检测重复标签页；一键关闭重复标签页\n\n- 对于尚未完成的标签页，可以将其保存到待办事项清单中以便稍后处理\n\n这简直就是浏览器标签页版的“断舍离”！\n\n以下代码已开源",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2043187721989149146",
-      "publishedAt": "2026-04-12T04:41:28.000Z",
-      "score": 54.92,
+      "sourceUrl": "https://x.com/zarazhangrui/status/2043415572688629937",
+      "publishedAt": "2026-04-12T19:46:52.000Z",
+      "score": 36.33,
       "engagement": {
-        "likes": 140,
-        "retweets": 15,
-        "replies": 49
+        "likes": 948,
+        "retweets": 28,
+        "replies": 40
       },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2043501400626491758",
+      "type": "tweet",
+      "builder": "Aditya Agarwal",
+      "title": "很有意思……人类学文化让我想起了早期的Facebook……唉……",
+      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验：It's interesting...the Anthropic culture reminds me a lot of early Facebook....despite OpenAI having a lot more ex-Fa…",
+      "whyItMatters": "Aditya Agarwal 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "It's interesting...the Anthropic culture reminds me a lot of early Facebook....desp…",
+      "originalBody": "It's interesting...the Anthropic culture reminds me a lot of early Facebook....despite OpenAI having a lot more ex-Facebook people\n\nSimilarities:\n--> People within the company are having a lot of fun\n--> There is a lot of naivete about the world\n--> There is a bottoms-up hacker culture\n--> There is insane \"mission\" alignment\n--> They might be taking themselves just a bit too seriously\n--> Winning solves a lot of things",
+      "translatedTitle": "很有意思……人类学文化让我想起了早期的Facebook……唉……",
+      "translatedBody": "很有意思……Anthropic 的企业文化让我想起了早期的 Facebook……尽管 OpenAI 的前 Facebook 员工更多。\n\n相似之处：\n\n--> 公司内部员工都乐在其中\n\n--> 对世界抱有很天真的认知\n\n--> 拥有自下而上的黑客文化\n\n--> 使命感极强\n\n--> 他们可能有点太认真了\n\n--> 胜利可以解决很多问题",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/adityaag/status/2043501400626491758",
+      "publishedAt": "2026-04-13T01:27:54.000Z",
+      "score": 29.6,
+      "engagement": {
+        "likes": 265,
+        "retweets": 3,
+        "replies": 14
+      },
+      "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-04-12T07:10:52.880Z",
+    "upstreamGeneratedAt": "2026-04-13T07:59:47.375Z",
     "totalCandidates": 18,
-    "textQualifiedCandidates": 15,
+    "textQualifiedCandidates": 8,
     "selectedTweets": 8
   }
 }
