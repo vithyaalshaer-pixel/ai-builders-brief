@@ -1,10 +1,10 @@
 {
-  "date": "2026-04-23",
-  "generatedAt": "2026-04-23T03:20:08.378Z",
+  "date": "2026-04-24",
+  "generatedAt": "2026-04-24T03:22:09.784Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-04-23",
-  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 31 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-04-24",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 30 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,80 +23,82 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2046791964759044504",
+      "id": "2047150411170320808",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "我想让大家及时了解安全调查的进展情况。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I want to keep everyone updated on the details of the security investigation. The team performed an in-depth analysis…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "I want to keep everyone updated on the details of the security investigation.",
+      "originalBody": "I want to keep everyone updated on the details of the security investigation.\n\nThe team performed an in-depth analysis to search for root causes and to better understand the behavior of the threat actor.\n\nWe cast a very wide net, pulling and processing nearly a petabyte of logs of the entire Vercel Network and API, extending well beyond the initial Context[.]ai compromise.\n\nWe now understand that the threat actor has been active beyond that startup's compromise. Threat intel points to the distribution of malware to computers in search of valuable tokens like keys to Vercel accounts and other providers.\n\nOnce the attacker gets ahold of those keys, our logs show a repeated pattern: rapid and comprehensive API usage, with a focus on enumeration of non-sensitive environment variables.\n\nAs a result:\n◾We've deepened and widened our collaboration with partners across the industry, like Microsoft, AWS and Wiz, to further protect the broader internet.\n◾ We've notified other suspected victims of this threat actor, independent of this event, encouraging them to rotate credentials and adopt best practices.\n\nWe've also shipped a bunch more product enhancements. I'm extremely thankful to our team and industry partners for working around the clock. For more details on the ongoing investigation, refer to our security bulletin:\nhttps://t.co/BLVnic9fJC",
+      "translatedTitle": "我想让大家及时了解安全调查的进展情况。",
+      "translatedBody": "我想让大家及时了解安全调查的进展。\n\n团队进行了深入分析，以寻找根本原因并更好地了解攻击者的行为。\n\n我们撒下了非常大一张网，提取并处理了整个 Vercel 网络和 API 近 PB 的日志，远远超出了最初 Context[.]ai 被攻破的范围。\n\n我们现在了解到，攻击者的活动远不止于攻破这家初创公司。威胁情报显示，攻击者正在向计算机分发恶意软件，以寻找诸如 Vercel 账户和其他服务提供商的密钥之类的重要令牌。\n\n一旦攻击者获得了这些密钥，我们的日志显示出一种反复出现的模式：快速且全面地使用 API，重点是枚举非敏感的环境变量。\n\n因此：\n\n◾我们深化并扩大了与业内合作伙伴（例如 Microsoft、AWS 和 Wiz）的合作，以进一步保护更广泛的互联网安全。\n\n◾ 我们已通知其他疑似受此威胁行为者攻击的受害者（与本次事件无关），并鼓励他们轮换使用凭证并采取最佳实践。\n\n此外，我们还发布了一系列产品增强功能。我衷心感谢我们的团队和行业合作伙伴夜以继日地工作。有关正在进行的调查的更多详情，请参阅我们的安全公告：\n\nhttps://t.co/BLVnic9fJC",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2047150411170320808",
+      "publishedAt": "2026-04-23T03:07:46.000Z",
+      "score": 186.22,
+      "engagement": {
+        "likes": 762,
+        "retweets": 102,
+        "replies": 51
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2047140362771132544",
       "type": "tweet",
       "builder": "Swyx",
-      "title": "LS 是第一个收听播客的光标，当时 @amanrsanger 还在听……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：LS was the first podcast cursor ever did listen back to baby @amanrsanger when they were 5 people and pre-PMF https:/…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "LS was the first podcast cursor ever did listen back to baby @amanrsanger when they…",
-      "originalBody": "LS was the first podcast cursor ever did\n\nlisten back to baby @amanrsanger when they were 5 people and pre-PMF https://t.co/0tIvpIwjC4 https://t.co/yL7jesPT2X",
-      "translatedTitle": "LS 是第一个收听播客的光标，当时 @amanrsanger 还在听……",
-      "translatedBody": "LS 是 Cursor 做的第一个播客\n\n回听一下 @amanrsanger 五岁时，也就是 PMF 之前录制的节目：https://t.co/0tIvpIwjC4 https://t.co/yL7jesPT2X",
+      "title": "顺便说一下，和朋友们讨论GPT图像到思维转换（Image-2-Thinking）的最佳框架是……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：btw in talking to friends the best framing for how to discuss GPT-Image-2-Thinking taking multiple tens of mins for g…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "btw in talking to friends the best framing for how to discuss GPT-Image-2-Thinking…",
+      "originalBody": "btw in talking to friends the best framing for how to discuss GPT-Image-2-Thinking taking multiple tens of mins for generation and being able to oneshot QR codes and diagrams and logos and foods and faces..\n\n...is that Image-2 is a new Image model, Image-2-Thinking is a new Image AGENT that basically has search and photoshop as a tool to use in an agent loop that can search and composite and review its own work.\n\nthe same way Gemini Flash Vision destroyed benchmarks by introducing an agentic loop for image-to-text, now Image-2-Thinking is doing it for text-to-image.",
+      "translatedTitle": "顺便说一下，和朋友们讨论GPT图像到思维转换（Image-2-Thinking）的最佳框架是……",
+      "translatedBody": "顺便一提，在和朋友们讨论GPT-Image-2-Thinking时，我们发现，要解释它生成图像需要几十分钟，却能一次性生成二维码、图表、标志、食物和人脸……的最佳方式是：\n\n……Image-2是一种新的图像模型，而Image-2-Thinking是一种新的图像代理，它基本上将搜索和Photoshop作为工具，在一个代理循环中使用，可以搜索、合成和审查自己的作品。\n\n就像Gemini Flash Vision通过引入图像到文本的代理循环打破了基准测试一样，现在Image-2-Thinking正在将这种循环应用于文本到图像的转换。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2046791964759044504",
-      "publishedAt": "2026-04-22T03:23:26.000Z",
-      "score": 118.94,
+      "sourceUrl": "https://x.com/swyx/status/2047140362771132544",
+      "publishedAt": "2026-04-23T02:27:51.000Z",
+      "score": 172.9,
       "engagement": {
-        "likes": 25,
-        "retweets": 2,
-        "replies": 5
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2046805326784319663",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "如果你读到这里却不明白为什么会发生这种情况，这是一个重新审视它的机会……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：If you read this and don’t understand why it’s happening it’s an opportunity to reset your understanding of how the r…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "If you read this and don’t understand why it’s happening it’s an opportunity to res…",
-      "originalBody": "If you read this and don’t understand why it’s happening it’s an opportunity to reset your understanding of how the real world works. \n\nThe real world will need a ton of help actually getting agents going in the enterprise. Companies have legacy tech stacks they need to modernize, data in tons of fragmented tools, knowledge that isn’t captured or digitized, and change management needed to actually utilize agents effectively. And they have to do all this while still running their business day-to-day, unlike startups.\n\nThis is why there is so much opportunity for companies (software or services) to actually deploy agents in specific domains and workflows. This remains a big opportunity for both existing services providers but also tons of new startups as well. Every new technology wave produces a new era of consulting firms that can deliver on that technology. \n\nIt’s also why the FDE model is going to be alive and well for a long time because companies will want to have their vendor actually help drive the change management and implementation for their new workflows. \n\nThe people aren’t going away. Far from it.",
-      "translatedTitle": "如果你读到这里却不明白为什么会发生这种情况，这是一个重新审视它的机会……",
-      "translatedBody": "如果你读到这里却不明白事情的来龙去脉，这正是一个重新审视现实世界运作方式的机会。\n\n现实世界需要大量的帮助才能真正让智能体在企业中发挥作用。企业拥有需要现代化改造的遗留技术栈、分散在各种工具中的数据、尚未被收集或数字化的知识，以及有效利用智能体所需的变革管理。而且，与初创公司不同，他们必须在维持日常业务运营的同时完成所有这些工作。\n\n正因如此，企业（软件或服务）在特定领域和工作流程中部署智能体的机会才如此之多。这对于现有服务提供商和众多新兴初创公司而言都是一个巨大的机遇。每一次新的技术浪潮都会催生出一批能够提供相关技术支持的咨询公司。\n\n这也是为什么FDE模式将长期存在并保持活力的原因，因为企业希望供应商能够真正帮助他们推动新工作流程的变革管理和实施。\n\n人不会消失。恰恰相反。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2046805326784319663",
-      "publishedAt": "2026-04-22T04:16:32.000Z",
-      "score": 113.93,
-      "engagement": {
-        "likes": 1173,
-        "retweets": 102,
-        "replies": 58
+        "likes": 56,
+        "retweets": 3,
+        "replies": 12
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
+        "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2046803162590335240",
+      "id": "2046957675079237668",
       "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "OpenClaw 2026.4.21 已上线。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：OpenClaw 2026.4.21 is live. Small release, important fix: npm updates now repair bundled plugin runtime deps, with Do…",
+      "builder": "Ryo Lu",
+      "title": "过度烹饪，你肯定见过这种情况：有人发布了一个仪表盘，上面显示了每一个数字……",
+      "summary": "Ryo Lu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：overcooking you've seen this: someone ships a dashboard that shows every number with a sparkline, every action has a…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "OpenClaw 2026.4.21 is live.",
-      "originalBody": "OpenClaw 2026.4.21 is live.\n\nSmall release, important fix: npm updates now repair bundled plugin runtime deps, with Docker E2E coverage so Telegram/Discord/Slack do not break after upgrade.\n\nAlso backports OpenAI Image 2 support.\n\nnpm i -g openclaw@latest",
-      "translatedTitle": "OpenClaw 2026.4.21 已上线。",
-      "translatedBody": "OpenClaw 2026.4.21 版本已发布。\n\n小版本更新，重要修复：npm 更新现在会修复捆绑插件的运行时依赖项，并提供 Docker 端到端覆盖，因此升级后 Telegram/Discord/Slack 不会出现故障。\n\n此外，还向后移植了 OpenAI Image 2 支持。\n\nnpm i -g openclaw@latest",
+      "originalTitle": "overcooking you've seen this: someone ships a dashboard that shows every number wit…",
+      "originalBody": "overcooking\n\nyou've seen this: someone ships a dashboard that shows every number with a sparkline, every action has a confirmation modal, every empty state has an animated illustration and a tagline. individually each decision made sense to someone. together it feels like chaos. nothing is in focus.\n\nthat's overcooking. not one bad decision in isolation, but the accumulation of reasonable ones that no one said no to.\n\nAI makes this worse as the cost of adding dropped to near zero. it can build a feature, even a whole new concept in minutes. so people do. and then they do it again. the thing that started with a clear purpose slowly becomes a collection of additions that are each justifiable but collectively incoherent.\n\nthe root problem is that most \"new ideas\" aren't new. they're repackaging of something that already exists at a more fundamental level. a new sticker on an old concept. it feels like progress because something changed, with a new word and skin – but the thinking didn't go deeper, it just duplicated itself into confusion.\n\nthe whole has a core. you feel it once you understand the whole system. everything in it are related and balanced. when you overload it, that gravity weakens. not because any one thing is wrong – but because attention is finite and you force it everywhere.\n\nwhat we need aren't more tools that make more slop. it's seeing through the chaos, and returning to what the thing actually is, and cutting everything that doesn't serve that. that's harder now, not easier. because there's always something else you could add with one more prompt.",
+      "translatedTitle": "过度烹饪，你肯定见过这种情况：有人发布了一个仪表盘，上面显示了每一个数字……",
+      "translatedBody": "过度设计\n\n你肯定见过这种情况：有人发布了一个仪表盘，每个数字都用迷你图表示，每个操作都配有确认弹窗，每个空白状态都配上动画插图和标语。单独来看，每个设计都说得通。但组合在一起，却显得混乱不堪，毫无重点。\n\n这就是过度设计。并非某个孤立的错误决策，而是看似合理却无人反对的决策累积而成。\n\n人工智能让情况雪上加霜，因为添加功能的成本几乎降至零。它可以在几分钟内构建一个功能，甚至一个全新的概念。于是人们照做了。然后他们又重复这个过程。原本目标明确的东西，慢慢变成了一系列看似合理但整体上却杂乱无章的添加。\n\n问题的根源在于，大多数“新想法”并非真正意义上的新事物。它们只是对早已存在的事物进行重新包装，就像给旧概念贴上新的标签。人们感觉像是取得了进步，因为某些东西发生了变化，换了个说法和新包装——但思考并没有深入，只是重复了原有内容，最终导致混乱。\n\n整体有一个核心。一旦你理解了整个系统，就能感受到它。其中的一切相互关联，彼此平衡。当你让它超负荷运转时，这种平衡就会减弱。这并非因为某件事本身出了问题——而是因为注意力是有限的，而你却把它强加到各个方面。\n\n我们需要的不是更多只会制造更多混乱的工具。我们需要的是看穿混乱，回归事物的本质，并剔除所有与本质无关的东西。现在这更难了，而不是更容易了。因为只要再加一点提示，你总能找到新的东西。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2046803162590335240",
-      "publishedAt": "2026-04-22T04:07:56.000Z",
-      "score": 84.09,
+      "sourceUrl": "https://x.com/ryolu_/status/2046957675079237668",
+      "publishedAt": "2026-04-22T14:21:55.000Z",
+      "score": 87.71,
       "engagement": {
-        "likes": 492,
-        "retweets": 17,
-        "replies": 45
+        "likes": 1121,
+        "retweets": 89,
+        "replies": 59
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -105,81 +107,54 @@
       "sourceType": "x"
     },
     {
-      "id": "2046748122928263345",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "discrawl 0.3.0 版本已发布。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：discrawl 0.3.0 is out. This release adds Git-backed archive sync, so a Discord archive can be published to a private…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "discrawl 0.3.0 is out.",
-      "originalBody": "discrawl 0.3.0 is out.\n\nThis release adds Git-backed archive sync, so a Discord archive can be published to a private repo and queried locally without every user needing bot credentials.\n\nAlso: auto-refresh, activity reports, field notes, faster imports. https://t.co/ZFGgZEFtFQ",
-      "translatedTitle": "discrawl 0.3.0 版本已发布。",
-      "translatedBody": "discrawl 0.3.0 版本已发布。\n\n此版本新增了基于 Git 的归档同步功能，因此可以将 Discord 归档发布到私有仓库，并在本地进行查询，而无需每个用户都提供机器人凭据。\n\n此外，还新增了自动刷新、活动报告、字段备注和更快的导入速度。https://t.co/ZFGgZEFtFQ",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2046748122928263345",
-      "publishedAt": "2026-04-22T00:29:13.000Z",
-      "score": 77.03,
-      "engagement": {
-        "likes": 147,
-        "retweets": 8,
-        "replies": 10
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2046787353906167992",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "我们做了一些工作，通过一些方法将 CI 时间从 8 分钟缩短到 2 分钟……",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Did some work to get our CI times down from 8 to two minutes via some... parallelization. Kudos to the @useblacksmith…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Did some work to get our CI times down from 8 to two minutes via some...",
-      "originalBody": "Did some work to get our CI times down from 8 to two minutes via some... parallelization. Kudos to the @useblacksmith folks for sponsoring + letting us melt their servers. https://t.co/CkrAuTDsK1",
-      "translatedTitle": "我们做了一些工作，通过一些方法将 CI 时间从 8 分钟缩短到 2 分钟……",
-      "translatedBody": "我们做了一些工作，通过并行化将 CI 时间从 8 分钟缩短到了 2 分钟。感谢 @useblacksmith 的赞助，也感谢他们让我们用他们的服务器。https://t.co/CkrAuTDsK1",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2046787353906167992",
-      "publishedAt": "2026-04-22T03:05:07.000Z",
-      "score": 54.47,
-      "engagement": {
-        "likes": 243,
-        "retweets": 8,
-        "replies": 17
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2046643173766697214",
+      "id": "2047027507397005367",
       "type": "tweet",
       "builder": "Dan Shipper",
-      "title": "独白笔记上线啦！",
-      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Monologue Notes is live! Record a note on a walk, in a meeting, or in the middle of the night. Built to be agent nati…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Monologue Notes is live!",
-      "originalBody": "Monologue Notes is live!\n\nRecord a note on a walk, in a meeting, or in the middle of the night. \n\nBuilt to be agent native: your agents can access your notes from anywhere https://t.co/maosJXtsrZ",
-      "translatedTitle": "独白笔记上线啦！",
-      "translatedBody": "独白笔记功能上线啦！\n\n无论是在散步、开会还是深夜，都能随时记录笔记。\n\n专为经纪人打造：您的经纪人可以随时随地访问您的笔记 https://t.co/maosJXtsrZ",
+      "title": "法学硕士编写的代码比大多数人类工程师都好。",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：LLMs write better code than most human engineers. If code is handled, what's left for us? I chatted with @kieranklaas…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "LLMs write better code than most human engineers.",
+      "originalBody": "LLMs write better code than most human engineers. If code is handled, what's left for us?\n\nI chatted with @kieranklaassen, GM of @CoraComputerCora and creator of compound engineering, on @every's AI & I about where humans fit now that AI can generate high-quality code, copy, strategy, and design. His theory: We’re the bread.\n\nHumans are indispensable at the beginning and end of every process. At the beginning, to set the frame, and at the end to provide the final polish.\n\nThis turned into a wide-ranging conversation on the future of humans and AI in coding and beyond.\n\nWe get into:\n- Why AI work is a sandwich. The models are the filling, responsible for writing, testing, and iterating. Humans are the bread bookending the models: We frame the problem and judge whether the output feels right.\n- The four steps behind compound engineering: Plan, work, review, and compound. The last one—where learnings feed back into the repo so agents don't repeat their mistakes—is what allows one engineer to ship like a team of five.\n- Play to your strengths. Knowing when to step away and let the models execute lets you focus on areas that require human judgement, like approaching a problem from multiple angles.\n\nThis is a must-watch for anyone trying to figure out their role in the workplace now that the execution layer is largely solved.\n\nWatch below!\n\nTimestamps:\nIntroduction and the AI sandwich metaphor: 00:00:52\nWhat compound engineering is and how it’s evolved: 00:02:33\nThe \"work\" phase of agentic coding is essentially solved: 00:04:27\nWhy humans belong at the beginning and the end of an AI workflow: 00:06:27\nDan's argument for why agents can't change frames—and how this will keep us employed: 00:11:06\nFull automation remains a moving target: 00:16:51\nMusical composition as a model for human-AI collaboration: 00:23:21\nFind your place in an AI-accelerated world by leaning into what brings you joy: 00:26:39",
+      "translatedTitle": "法学硕士编写的代码比大多数人类工程师都好。",
+      "translatedBody": "语言学习硕士（LLM）编写的代码比大多数人类工程师都好。如果代码编写都由他们负责，那我们人类还能做什么呢？\n\n我和@CoraComputerCora 的总经理兼复合工程的创始人@kieranklaassen 在@every 的“AI & I”节目中聊了聊，探讨在人工智能能够生成高质量代码、文案、策略和设计的情况下，人类的定位是什么。他的理论是：我们是面包。\n\n人类在每个流程的开始和结束阶段都不可或缺。开始阶段，我们负责设定框架；结束阶段，我们负责进行最后的润色。\n\n这引发了一场关于人类和人工智能在编码及其他领域未来发展的广泛讨论。\n\n我们探讨了以下内容：\n\n- 为什么人工智能工作就像一个三明治。模型是馅料，负责编写代码、测试和迭代。人类是夹在模型之间的面包：我们定义问题，并判断输出是否符合预期。\n\n- 复合工程背后的四个步骤：计划、执行、审查和复合。最后一点——将学习成果反馈到代码库中，避免智能体重蹈覆辙——使得一名工程师能够像五人团队一样高效地完成工作。\n\n- 发挥你的优势。懂得何时放手让模型执行，可以让你专注于需要人为判断的领域，例如从多个角度分析问题。\n\n对于任何想要在执行层面基本解决后找到自己职场角色的人来说，这都是必看的视频。\n\n请观看下方视频！\n\n时间戳：\n\n引言和人工智能三明治比喻：00:00:52\n\n复合工程是什么以及它是如何演变的：00:02:33\n\n智能体编码的“工作”阶段基本得到解决：00:04:27\n\n为什么人类应该出现在人工智能工作流程的开始和结束：00:06:27\n\n丹关于智能体为何无法改变框架的论点——以及这将如何保障我们的就业：00:11:06\n\n完全自动化仍然是一个不断变化的目标：00:16:51\n\n以音乐创作为例，探讨人机协作：00:23:21\n\n在人工智能加速发展的世界中，找到属于自己的位置，拥抱那些能带给你快乐的事物：00:26:39",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/danshipper/status/2046643173766697214",
-      "publishedAt": "2026-04-21T17:32:12.000Z",
-      "score": 48.21,
+      "sourceUrl": "https://x.com/danshipper/status/2047027507397005367",
+      "publishedAt": "2026-04-22T18:59:24.000Z",
+      "score": 72.9,
       "engagement": {
-        "likes": 59,
-        "retweets": 10,
-        "replies": 4
+        "likes": 50,
+        "retweets": 9,
+        "replies": 8
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2047028112626749645",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "这可能是软件无头化领域迄今为止最大的新闻，并将带来……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：This is probably the biggest news yet in software going headless, and will bring knowledge work agents to the masses.…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "This is probably the biggest news yet in software going headless, and will bring kn…",
+      "originalBody": "This is probably the biggest news yet in software going headless, and will bring knowledge work agents to the masses. The new ChatGPT agents have access to any of the tools and data you want to work with, with complete coding and tool use available to them. \n\nHere's an example of a custom sales assistant agent uses Box as a knowledge source for accessing enterprise content securely to answer questions and generate new content on the fly. The workflows can obviously vastly far more complex as the agent can use any of the tools within Box available via MCP and CLI.\n\nThis precisely what agents will start to look like for knowledge work. You'll be able to spin them up in the foreground or background to help augment work. Big opportunity right now for headless platforms, and for all the new builders and designers of these agents in the enterprise.",
+      "translatedTitle": "这可能是软件无头化领域迄今为止最大的新闻，并将带来……",
+      "translatedBody": "这可能是软件无头化领域迄今为止最重大的新闻，它将把知识型智能体带给大众。全新的 ChatGPT 智能体可以访问您想要使用的任何工具和数据，并拥有完整的代码编写和工具使用权限。\n\n以下是一个自定义销售助理智能体的示例：它使用 Box 作为知识库，安全地访问企业内容，从而回答问题并即时生成新内容。显然，工作流程可以更加复杂，因为智能体可以使用 Box 中通过 MCP 和 CLI 提供的任何工具。\n\n这正是未来知识型智能体的发展方向。您可以将它们在前台或后台启动，以增强工作效率。对于无头平台以及企业中所有此类智能体的构建者和设计者来说，这都是一个巨大的机遇。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2047028112626749645",
+      "publishedAt": "2026-04-22T19:01:48.000Z",
+      "score": 62.01,
+      "engagement": {
+        "likes": 987,
+        "retweets": 64,
+        "replies": 66
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -187,62 +162,91 @@
       "sourceType": "x"
     },
     {
-      "id": "2046791457479201007",
+      "id": "2047183884266402275",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "ChatGPT 图片在移动应用上运行良好，但是当我尝试生成图片时……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：ChatGPT Images works great from the mobile app, but when I try to generate images on @ChatGPTapp web - it often forge…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "ChatGPT Images works great from the mobile app, but when I try to generate images o…",
-      "originalBody": "ChatGPT Images works great from the mobile app, but when I try to generate images on @ChatGPTapp web - it often forgets it has access to the image tool and start generating code instead, resulting in \"images\" like this lol\n\nSeems like a bug please fix. https://t.co/0a5STt0aCV",
-      "translatedTitle": "ChatGPT 图片在移动应用上运行良好，但是当我尝试生成图片时……",
-      "translatedBody": "ChatGPT 图片在手机应用上运行良好，但当我在 @ChatGPTapp 网页版上尝试生成图片时，它经常会忘记自己拥有图片工具的访问权限，转而开始生成代码，导致生成的“图片”看起来像这样哈哈。\n\n这似乎是个 bug，请修复。https://t.co/0a5STt0aCV",
+      "builder": "Garry Tan",
+      "title": "这很有意思。",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：This is interesting. Anyone experimenting with this? So far anytime I have adjacent skills I just tell it to DRY itse…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "This is interesting.",
+      "originalBody": "This is interesting. Anyone experimenting with this? So far anytime I have adjacent skills I just tell it to DRY itself up and turn it into a bigger skill with more parameters\n\nSo far I found composing bigger skills with branching params is better https://t.co/L4T6Zfosr2",
+      "translatedTitle": "这很有意思。",
+      "translatedBody": "这很有意思。有人在尝试吗？目前，每当遇到相邻技能时，我都会让它们自行分解，然后合并成一个参数更多的大型技能。\n\n目前我发现，使用分支参数来组合大型技能效果更好。https://t.co/L4T6Zfosr2",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2046791457479201007",
-      "publishedAt": "2026-04-22T03:21:25.000Z",
-      "score": 44.25,
+      "sourceUrl": "https://x.com/garrytan/status/2047183884266402275",
+      "publishedAt": "2026-04-23T05:20:47.000Z",
+      "score": 54.89,
       "engagement": {
-        "likes": 22,
-        "retweets": 1,
-        "replies": 10
+        "likes": 158,
+        "retweets": 10,
+        "replies": 22
       },
       "matchedFocusAreas": [
-        "Product Ships"
+        "Coding Agents"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2046790326682333539",
+      "id": "2047156858214035590",
       "type": "tweet",
       "builder": "Amjad Masad",
-      "title": "关于我起诉国会议员兰迪·芬恩的诉讼案的最新进展。",
-      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验：Update on my lawsuit against Congressman Randy Fine. He tried to weasel out of the case by unblocking me, but this is…",
-      "whyItMatters": "Amjad Masad 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Update on my lawsuit against Congressman Randy Fine.",
-      "originalBody": "Update on my lawsuit against Congressman Randy Fine.\n\nHe tried to weasel out of the case by unblocking me, but this isn’t just about me. It’s about Fine’s DISRESPECT for the 1st Amendment.\n\nWe will not stop until he’s forced to unblock all Americans and respect their rights. https://t.co/sTPhkbk8kH https://t.co/kYaTv5K656",
-      "translatedTitle": "关于我起诉国会议员兰迪·芬恩的诉讼案的最新进展。",
-      "translatedBody": "关于我起诉国会议员兰迪·芬恩的诉讼的最新进展。\n\n他试图通过解除对我的封锁来逃避诉讼，但这不仅仅关乎我个人。这关乎芬恩对美国宪法第一修正案的漠视。\n\n我们将坚持到底，直到他被迫解除对所有美国公民的封锁，并尊重他们的权利。https://t.co/sTPhkbk8kH https://t.co/kYaTv5K656",
+      "title": "你现在无法访问 Mythos 🫵🤭 但这并不意味着你可以坐等。",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：You don’t have access to Mythos 🫵🤭 Doesn’t mean you can just sit around and wait. Replit published a whitepaper sho…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "You don’t have access to Mythos 🫵🤭 Doesn’t mean you can just sit around and wait.",
+      "originalBody": "You don’t have access to Mythos 🫵🤭\n\nDoesn’t mean you can just sit around and wait.\n\nReplit published a whitepaper showing you can get significantly better performance from current gen LLMs (90%+ in some cases) by combining with static analysis tools.\n\nhttps://t.co/Dlxn915Z4m",
+      "translatedTitle": "你现在无法访问 Mythos 🫵🤭 但这并不意味着你可以坐等。",
+      "translatedBody": "你目前无法使用 Mythos 🫵🤭\n\n但这并不意味着你可以坐等。\n\nReplit 发布了一份白皮书，展示了如何通过结合静态分析工具，显著提升当前一代 LLM 的性能（某些情况下提升幅度可达 90% 以上）。\n\nhttps://t.co/Dlxn915Z4m",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/amasad/status/2046790326682333539",
-      "publishedAt": "2026-04-22T03:16:56.000Z",
-      "score": 38.68,
+      "sourceUrl": "https://x.com/amasad/status/2047156858214035590",
+      "publishedAt": "2026-04-23T03:33:23.000Z",
+      "score": 51.91,
       "engagement": {
-        "likes": 1352,
-        "retweets": 132,
-        "replies": 37
+        "likes": 137,
+        "retweets": 4,
+        "replies": 15
       },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2047124883071816189",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "精湛工艺 > 粗制滥造 我也喜欢用人工智能生成东西，但精湛工艺才是最后那10%的精髓……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Craft > slop I love using AI to generate things too but craft is in that last 10% where you manually apply your taste…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Craft > slop I love using AI to generate things too but craft is in that last 10% w…",
+      "originalBody": "Craft > slop\n\nI love using AI to generate things too but craft is in that last 10% where you manually apply your taste to make something you can be proud of. \n\nMany people never bother.",
+      "translatedTitle": "精湛工艺 > 粗制滥造 我也喜欢用人工智能生成东西，但精湛工艺才是最后那10%的精髓……",
+      "translatedBody": "匠心之作 > 粗制滥造\n\n我也喜欢用人工智能生成东西，但匠心之作指的是最后那10%的投入，你需要亲力亲为，融入自己的品味，才能做出让自己引以为傲的作品。\n\n很多人从不费这个劲。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2047124883071816189",
+      "publishedAt": "2026-04-23T01:26:20.000Z",
+      "score": 47.03,
+      "engagement": {
+        "likes": 39,
+        "retweets": 0,
+        "replies": 19
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-04-22T07:43:19.253Z",
-    "totalCandidates": 31,
-    "textQualifiedCandidates": 11,
+    "upstreamGeneratedAt": "2026-04-23T07:48:14.866Z",
+    "totalCandidates": 30,
+    "textQualifiedCandidates": 12,
     "selectedTweets": 8
   }
 }
