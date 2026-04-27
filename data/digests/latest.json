@@ -1,10 +1,10 @@
 {
-  "date": "2026-04-26",
-  "generatedAt": "2026-04-26T03:29:22.078Z",
+  "date": "2026-04-27",
+  "generatedAt": "2026-04-27T03:33:42.101Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-04-26",
-  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 28 条候选动态里，筛出 9 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-04-27",
+  "summary": "今天最值得看的是 Garry Tan 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 25 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,194 +13,121 @@
       "label": "Coding Agents"
     },
     {
+      "slug": "foundation-models",
+      "label": "Foundation Models"
+    },
+    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2047705175847256452",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "郑重声明，我把“未定”放在了最后一栏，而不是第二栏，@nikit…",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：for the record, i put \"undecided\" as the last choice, not the second choice, @nikitabier sorry i know this is minor b…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "for the record, i put \"undecided\" as the last choice, not the second choice, @nikit…",
-      "originalBody": "for the record, i put \"undecided\" as the last choice, not the second choice, @nikitabier sorry i know this is minor but it should be a 2 second fix in cursor\n\nhttps://t.co/bUhX0QLQUs",
-      "translatedTitle": "郑重声明，我把“未定”放在了最后一栏，而不是第二栏，@nikit…",
-      "translatedBody": "郑重声明，我把“未定”放在了最后一个选项，而不是第二个选项。@nikitabier 抱歉，我知道这只是个小问题，但光标应该很容易修改，只需两秒钟。\n\nhttps://t.co/bUhX0QLQUs",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2047705175847256452",
-      "publishedAt": "2026-04-24T15:52:13.000Z",
-      "score": 138.37,
-      "engagement": {
-        "likes": 3,
-        "retweets": 0,
-        "replies": 6
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2047749587163877668",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "@jsconfeu @cramforce 正在直播！",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：@jsconfeu @cramforce talk now live! @vercel is doing incredible AI engineering work and it comes direct from the C-su…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "@jsconfeu @cramforce talk now live!",
-      "originalBody": "@jsconfeu @cramforce talk now live! @vercel is doing incredible AI engineering work and it comes direct from the C-suite, this should be more common but it is not, even today\n\nhttps://t.co/B9enUKh24m",
-      "translatedTitle": "@jsconfeu @cramforce 正在直播！",
-      "translatedBody": "@jsconfeu @cramforce 的演讲正在直播！@vercel 正在进行令人惊叹的 AI 工程工作，而且这项工作直接来自高管层，这种情况应该更普遍，但即使在今天也并非如此。\n\nhttps://t.co/B9enUKh24m",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2047749587163877668",
-      "publishedAt": "2026-04-24T18:48:41.000Z",
-      "score": 113.16,
-      "engagement": {
-        "likes": 7,
-        "retweets": 0,
-        "replies": 3
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2047747142308274645",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "“如果人工智能能够提高员工的工作效率（这已被广泛接受为事实），那么……”",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：“If AI can make employees more productive, which is widely accepted as fact, then companies are going to want as many…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "“If AI can make employees more productive, which is widely accepted as fact, then c…",
-      "originalBody": "“If AI can make employees more productive, which is widely accepted as fact, then companies are going to want as many productive units of labor as possible. This is a key reason why I am changing my mind.”\n\nThis is why jevons paradox is really important to understand with AI right now. \n\nAnd counterintuitively, this trend is going to increase as AI gets better. The better AI gets at performing tasks, the more companies can take on those tasks, which leads to hiring more people to do the surrounding work of those tasks.\n\nThink about the small business that can’t afford to build complex software. When AI is only a little good nothing changes for them. When it’s really good they can finally hire engineers that have the impact of 5-10X, so they can finally invest in engineering. \n\nThe sales team that can automate customer intelligence and outbound demand gen will hire more sales people because they have more leads to go after. The marketing team that can now do higher-end video production than before will hire a video editor. And so on.\n\nThis is going to happen in more and more surprisingly ways.",
-      "translatedTitle": "“如果人工智能能够提高员工的工作效率（这已被广泛接受为事实），那么……”",
-      "translatedBody": "“如果人工智能能够提高员工的工作效率（这已被广泛接受），那么企业就会想要尽可能多的高效劳动力。这正是我改变想法的关键原因。”\n\n这就是为什么理解杰文斯悖论对于当下的人工智能发展至关重要。\n\n而且，与直觉相反，随着人工智能技术的进步，这种趋势还会加剧。人工智能执行任务的能力越强，企业就能承担更多任务，进而需要雇佣更多人来完成这些任务相关的辅助工作。\n\n想想那些无力开发复杂软件的小企业。当人工智能还不够完善时，对他们来说没有任何改变。但当人工智能真正强大时，他们终于可以雇佣那些能够带来5到10倍效益的工程师，从而最终能够投资于工程开发。\n\n能够自动化客户洞察和主动需求生成的销售团队会雇佣更多销售人员，因为他们有更多的潜在客户需要跟进。能够制作比以往更高端视频的营销团队会雇佣视频剪辑师。诸如此类。\n\n这种情况将会以越来越多令人意想不到的方式发生。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2047747142308274645",
-      "publishedAt": "2026-04-24T18:38:58.000Z",
-      "score": 84.01,
-      "engagement": {
-        "likes": 476,
-        "retweets": 54,
-        "replies": 65
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2047797210427859450",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "🛰️ discrawl 0.6.0 版本发布！",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：🛰️ discrawl 0.6.0 is out! Biggest new feature is that it can now *read* Discord DMs without any custom login tricks…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "🛰️ discrawl 0.6.0 is out!",
-      "originalBody": "🛰️ discrawl 0.6.0 is out!\n\nBiggest new feature is that it can now *read* Discord DMs without any custom login tricks that might get you blocked. No writing since it's not nice to send humans slop. https://t.co/nxGZSlAYl0",
-      "translatedTitle": "🛰️ discrawl 0.6.0 版本发布！",
-      "translatedBody": "🛰️ discrawl 0.6.0 版本发布啦！\n\n最大的新功能是现在可以*读取* Discord 私信，无需任何可能导致你被封禁的自定义登录技巧。不支持写入，毕竟给人类发送垃圾信息不太友好。https://t.co/nxGZSlAYl0",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2047797210427859450",
-      "publishedAt": "2026-04-24T21:57:55.000Z",
-      "score": 79.68,
-      "engagement": {
-        "likes": 229,
-        "retweets": 18,
-        "replies": 21
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2047883265516924976",
+      "id": "2048290087318773807",
       "type": "tweet",
       "builder": "Garry Tan",
-      "title": "改变政党，使其屠杀所有资本家（皮克尔）并摧毁学校（鲍曼）……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Change the party to murder all capitalists (Piker) and destroy the schools (Bowman), brought to you by a tech centimi…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Change the party to murder all capitalists (Piker) and destroy the schools (Bowman)…",
-      "originalBody": "Change the party to murder all capitalists (Piker) and destroy the schools (Bowman), brought to you by a tech centimillionaire who is using his money to buy an election (Chakrabarti)\n\nNo thanks! https://t.co/2NMikjnt41",
-      "translatedTitle": "改变政党，使其屠杀所有资本家（皮克尔）并摧毁学校（鲍曼）……",
-      "translatedBody": "改变政党，屠杀所有资本家（Piker），摧毁学校（Bowman），这一切都出自一位用钱收买选举的科技亿万富翁之手（Chakrabarti）。\n\n不，谢谢！https://t.co/2NMikjnt41",
+      "title": "GBrain v0.22 发布——修复了大量搜索和退役问题，并新增了一个评估系统……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Releaseing GBrain v0.22 - lots of fixes to search and retireval and a new eval system (gbrain-evals is now a separate…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Releaseing GBrain v0.22 - lots of fixes to search and retireval and a new eval syst…",
+      "originalBody": "Releaseing GBrain v0.22 - lots of fixes to search and retireval and a new eval system (gbrain-evals is now a separate repo to prevent checkout bloat) https://t.co/qVAQjQeReV",
+      "translatedTitle": "GBrain v0.22 发布——修复了大量搜索和退役问题，并新增了一个评估系统……",
+      "translatedBody": "GBrain v0.22 发布——修复了大量搜索和退役问题，并新增了一个评估系统（gbrain-evals 现在是一个独立的代码库，以避免代码库臃肿）https://t.co/qVAQjQeReV",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2047883265516924976",
-      "publishedAt": "2026-04-25T03:39:52.000Z",
-      "score": 56.97,
+      "sourceUrl": "https://x.com/garrytan/status/2048290087318773807",
+      "publishedAt": "2026-04-26T06:36:26.000Z",
+      "score": 100.65,
       "engagement": {
-        "likes": 349,
-        "retweets": 25,
-        "replies": 31
+        "likes": 41,
+        "retweets": 3,
+        "replies": 19
       },
       "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2047707257073524897",
-      "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "致所有产品团队：项目代码名称并非临时名称，而是永久名称。",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Note to all product teams: project code names are not temporary, they are permanent. Like truly eternal. Choose very…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Note to all product teams: project code names are not temporary, they are permanent.",
-      "originalBody": "Note to all product teams: project code names are not temporary, they are permanent. Like truly eternal. \n\nChoose very very wisely.",
-      "translatedTitle": "致所有产品团队：项目代码名称并非临时名称，而是永久名称。",
-      "translatedBody": "致所有产品团队：项目代号并非临时名称，而是永久的，真正意义上的永恒。\n\n务必慎重选择。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2047707257073524897",
-      "publishedAt": "2026-04-24T16:00:29.000Z",
-      "score": 48.45,
-      "engagement": {
-        "likes": 76,
-        "retweets": 2,
-        "replies": 6
-      },
-      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2047721904438493482",
+      "id": "2048275589224628677",
       "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "将 Cohere 和 Aleph Alpha 结合起来，真是一个有趣的时刻。",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Combining Cohere and Aleph Alpha is such an interesting moment. Spending a lot of time outside the US, hard to overst…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Combining Cohere and Aleph Alpha is such an interesting moment.",
-      "originalBody": "Combining Cohere and Aleph Alpha is such an interesting moment.  Spending a lot of time outside the US, hard to overstate how much reluctance there is to outsourcing intelligence to a handful of US platforms, given current geopolitical chaos.",
-      "translatedTitle": "将 Cohere 和 Aleph Alpha 结合起来，真是一个有趣的时刻。",
-      "translatedBody": "Cohere 和 Aleph Alpha 的合并真是一个有趣的时刻。由于我经常在美国境外工作，鉴于当前的地缘政治混乱局势，很难不让人意识到人们对将情报外包给少数几个美国平台有多么不情愿。",
+      "builder": "Peter Steinberger",
+      "title": "总结一下📝0.14.0版本已发布。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Summarize 📝0.14.0 is out. GPT-5.5 Fast mode via `--fast`, Reddit thread extraction in the browser extension, local P…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Summarize 📝0.14.0 is out.",
+      "originalBody": "Summarize 📝0.14.0 is out.\n\nGPT-5.5 Fast mode via `--fast`, Reddit thread extraction in the browser extension, local PDF `--extract`, and fixes for auto model config + Meta site compatibility. https://t.co/sbqbYupQ9Y",
+      "translatedTitle": "总结一下📝0.14.0版本已发布。",
+      "translatedBody": "Summarize 📝0.14.0 版本已发布。\n\n新增 GPT-5.5 快速模式（通过 `--fast` 参数启用）、浏览器扩展程序新增 Reddit 帖子提取功能、本地 PDF 提取（通过 `--extract` 参数启用），并修复了自动模型配置和 Meta 站点兼容性问题。https://t.co/sbqbYupQ9Y",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2047721904438493482",
-      "publishedAt": "2026-04-24T16:58:41.000Z",
-      "score": 45.88,
+      "sourceUrl": "https://x.com/steipete/status/2048275589224628677",
+      "publishedAt": "2026-04-26T05:38:50.000Z",
+      "score": 80.77,
       "engagement": {
-        "likes": 39,
+        "likes": 192,
+        "retweets": 12,
+        "replies": 19
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2048190683782201767",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "是否存在由人工精心整理的设计、编码、产品等方面的优质技能库？",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Are there good human-curated skill repos for design, coding, product, etc that's not \"here's 100 skills you separate…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Are there good human-curated skill repos for design, coding, product, etc that's no…",
+      "originalBody": "Are there good human-curated skill repos for design, coding, product, etc that's not \"here's 100 skills you separate the slop yourself\"",
+      "translatedTitle": "是否存在由人工精心整理的设计、编码、产品等方面的优质技能库？",
+      "translatedBody": "是否存在由人工精心整理的设计、编码、产品等方面的优质技能库，而不是那种“这里有100项技能，你自己去筛选”的模式？",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2048190683782201767",
+      "publishedAt": "2026-04-26T00:01:27.000Z",
+      "score": 74.52,
+      "engagement": {
+        "likes": 84,
         "retweets": 3,
-        "replies": 6
+        "replies": 13
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2048223146063609965",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "非常值得一读。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Great read. AI lets you get tremendous leverage that wasn’t available before in almost any domain. That means we’re a…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Great read.",
+      "originalBody": "Great read. AI lets you get tremendous leverage that wasn’t available before in almost any domain. \n\nThat means we’re at a unique moment in history where anyone with a high level of ambition and core skills in any area can overcome a lot of historical experience requirements for their role.\n\nThis can apply to anyone who’s junior or senior, but it’s pretty sweet that you can do far more than you could have accomplished as a newer employee than even a couple years ago. The people that take advantage of this will get ahead massively. \n\nAnd the companies that find this talent within or outside should put them in key positions to get as much out of them as possible. These people will seem strange and from the future, but they will help you figure out where things are going. Everyone company should be doing whatever they can to find them.",
+      "translatedTitle": "非常值得一读。",
+      "translatedBody": "这篇文章写得真好。人工智能让你在几乎所有领域都能获得前所未有的巨大优势。\n\n这意味着我们正处于一个独特的历史时刻，任何拥有远大抱负和核心技能的人，无论身处哪个领域，都能突破以往对经验的诸多限制。\n\n这适用于任何级别的员工，无论是初级还是高级，但令人欣喜的是，你现在能取得的成就远超几年前的新员工。那些能够充分利用这一优势的人将会获得巨大的发展。\n\n而那些在公司内部或外部发现这类人才的企业，应该将他们安排在关键岗位上，以最大限度地发挥他们的潜力。这些人或许看起来有些另类，仿佛来自未来，但他们能够帮助你把握未来的发展方向。每家公司都应该竭尽所能去寻找这样的人才。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2048223146063609965",
+      "publishedAt": "2026-04-26T02:10:26.000Z",
+      "score": 57.75,
+      "engagement": {
+        "likes": 396,
+        "retweets": 40,
+        "replies": 39
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -208,26 +135,107 @@
       "sourceType": "x"
     },
     {
-      "id": "2047758400948408831",
+      "id": "2048252455817785357",
       "type": "tweet",
-      "builder": "Nan Yu",
-      "title": "想想你在 Behance 和 Dribbbl 上看到过多少“天气”应用和“仪表盘”……",
-      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Think about how many “weather” apps and “dashboards” you saw on behance and dribbble in the pre-AI era All hallucinat…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Think about how many “weather” apps and “dashboards” you saw on behance and dribbbl…",
-      "originalBody": "Think about how many “weather” apps and “dashboards” you saw on behance and dribbble in the pre-AI era\n\nAll hallucinations",
-      "translatedTitle": "想想你在 Behance 和 Dribbbl 上看到过多少“天气”应用和“仪表盘”……",
-      "translatedBody": "想想在人工智能时代之前，你在 Behance 和 Dribbble 上见过多少“天气”应用和“仪表盘”？\n\n全是幻觉。",
+      "builder": "Peter Steinberger",
+      "title": "CodexBar 🎚️ 0.23 版本发布：新增 Mistral 支持、Claude Designs/Daily Routines 使用、Cur…",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：CodexBar 🎚️ 0.23 is out: Mistral support, Claude Designs/Daily Routines usage, Cursor Extra usage, GPT-5.5 pricing,…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "CodexBar 🎚️ 0.23 is out: Mistral support, Claude Designs/Daily Routines usage, Cur…",
+      "originalBody": "CodexBar 🎚️ 0.23 is out:\n\nMistral support, Claude Designs/Daily Routines usage, Cursor Extra usage, GPT-5.5 pricing, cleaner widgets/menus, and a bunch of reliability fixes. https://t.co/X4FXCEmAFG",
+      "translatedTitle": "CodexBar 🎚️ 0.23 版本发布：新增 Mistral 支持、Claude Designs/Daily Routines 使用、Cur…",
+      "translatedBody": "CodexBar 🎚️ 0.23 版本发布：\n\n新增 Mistral 支持、Claude Designs/Daily Routines 使用功能、Cursor Extra 使用功能、GPT-5.5 定价模式、更简洁的组件/菜单，以及一系列稳定性修复。https://t.co/X4FXCEmAFG",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thenanyu/status/2047758400948408831",
-      "publishedAt": "2026-04-24T19:23:42.000Z",
-      "score": 33.39,
+      "sourceUrl": "https://x.com/steipete/status/2048252455817785357",
+      "publishedAt": "2026-04-26T04:06:54.000Z",
+      "score": 54.69,
       "engagement": {
-        "likes": 4,
-        "retweets": 0,
-        "replies": 0
+        "likes": 214,
+        "retweets": 13,
+        "replies": 18
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2048278995121094868",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "你是否曾经想过将浏览器与 Claude Code 并排控制？",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Did you ever want to control your browser side-by-side with Claude Code? Now, with /open-gstack-browser skill and GSt…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Did you ever want to control your browser side-by-side with Claude Code?",
+      "originalBody": "Did you ever want to control your browser side-by-side with Claude Code? Now, with /open-gstack-browser skill and GStack Browser, you can https://t.co/dT0dUd3MhF",
+      "translatedTitle": "你是否曾经想过将浏览器与 Claude Code 并排控制？",
+      "translatedBody": "你是否曾经想过将浏览器与 Claude Code 并排控制？现在，借助 /open-gstack-browser 技能和 GStack Browser，你可以做到 https://t.co/dT0dUd3MhF",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2048278995121094868",
+      "publishedAt": "2026-04-26T05:52:22.000Z",
+      "score": 53.61,
+      "engagement": {
+        "likes": 111,
+        "retweets": 3,
+        "replies": 25
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2048294481955631163",
+      "type": "tweet",
+      "builder": "Amanda Askell",
+      "title": "我从飞行模拟器中学到的是，当一名飞行员可能会有点无聊……",
+      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：What I'm learning from flight simulators is that it would be a bit boring to be an amateur cessna pilot but a lot of…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "What I'm learning from flight simulators is that it would be a bit boring to be an…",
+      "originalBody": "What I'm learning from flight simulators is that it would be a bit boring to be an amateur cessna pilot but a lot of fun to be an amateur fighter jet pilot.",
+      "translatedTitle": "我从飞行模拟器中学到的是，当一名飞行员可能会有点无聊……",
+      "translatedBody": "我从飞行模拟器中了解到，当一名业余塞斯纳飞机飞行员会有点无聊，但当一名业余战斗机飞行员会非常有趣。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/AmandaAskell/status/2048294481955631163",
+      "publishedAt": "2026-04-26T06:53:54.000Z",
+      "score": 52.39,
+      "engagement": {
+        "likes": 76,
+        "retweets": 3,
+        "replies": 12
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2048101948826751429",
+      "type": "tweet",
+      "builder": "Zara Zhang",
+      "title": "当我坐在电脑前开始打字时，这并不是写作的开始……",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：When I sit down at my computer and start typing, that's not the beginning of writing. It's the LAST step. 80% of the…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "When I sit down at my computer and start typing, that's not the beginning of writin…",
+      "originalBody": "When I sit down at my computer and start typing, that's not the beginning of writing. It's the LAST step. 80% of the writing is already done. It just happened in my head.\n\n- Writing ≠ generating text\n- Building product ≠ writing PRDs\n- Designing ≠ making mockups\n- Engineering ≠ writing code",
+      "translatedTitle": "当我坐在电脑前开始打字时，这并不是写作的开始……",
+      "translatedBody": "当我坐在电脑前开始敲键盘时，这并不是写作的开始，而是最后一步。80% 的写作工作其实已经完成了，只是在我的脑海里自然而然地发生了。\n\n- 写作 ≠ 生成文本\n\n- 构建产品 ≠ 撰写产品需求文档 (PRD)\n\n- 设计 ≠ 制作模型\n\n- 工程 ≠ 编写代码",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/zarazhangrui/status/2048101948826751429",
+      "publishedAt": "2026-04-25T18:08:51.000Z",
+      "score": 49.25,
+      "engagement": {
+        "likes": 75,
+        "retweets": 7,
+        "replies": 10
       },
       "matchedFocusAreas": [
         "Product Ships"
@@ -236,9 +244,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-04-25T07:12:08.616Z",
-    "totalCandidates": 28,
-    "textQualifiedCandidates": 9,
+    "upstreamGeneratedAt": "2026-04-26T07:25:34.134Z",
+    "totalCandidates": 25,
+    "textQualifiedCandidates": 12,
     "selectedTweets": 8
   }
 }
