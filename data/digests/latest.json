@@ -1,10 +1,10 @@
 {
-  "date": "2026-04-27",
-  "generatedAt": "2026-04-27T03:33:42.101Z",
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-28T03:38:21.588Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-04-27",
-  "summary": "今天最值得看的是 Garry Tan 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 25 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-04-28",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 22 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,55 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2048290087318773807",
+      "id": "2048523195305902341",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "GBrain v0.22 发布——修复了大量搜索和退役问题，并新增了一个评估系统……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Releaseing GBrain v0.22 - lots of fixes to search and retireval and a new eval system (gbrain-evals is now a separate…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Releaseing GBrain v0.22 - lots of fixes to search and retireval and a new eval syst…",
-      "originalBody": "Releaseing GBrain v0.22 - lots of fixes to search and retireval and a new eval system (gbrain-evals is now a separate repo to prevent checkout bloat) https://t.co/qVAQjQeReV",
-      "translatedTitle": "GBrain v0.22 发布——修复了大量搜索和退役问题，并新增了一个评估系统……",
-      "translatedBody": "GBrain v0.22 发布——修复了大量搜索和退役问题，并新增了一个评估系统（gbrain-evals 现在是一个独立的代码库，以避免代码库臃肿）https://t.co/qVAQjQeReV",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2048290087318773807",
-      "publishedAt": "2026-04-26T06:36:26.000Z",
-      "score": 100.65,
-      "engagement": {
-        "likes": 41,
-        "retweets": 3,
-        "replies": 19
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2048275589224628677",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "总结一下📝0.14.0版本已发布。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Summarize 📝0.14.0 is out. GPT-5.5 Fast mode via `--fast`, Reddit thread extraction in the browser extension, local P…",
+      "builder": "Guillermo Rauch",
+      "title": "编码智能体将成为所有超级智能的基础。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Coding agents will be the foundation of all superintelligence. At a minimum, coding ability is indistinguishable from…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Summarize 📝0.14.0 is out.",
-      "originalBody": "Summarize 📝0.14.0 is out.\n\nGPT-5.5 Fast mode via `--fast`, Reddit thread extraction in the browser extension, local PDF `--extract`, and fixes for auto model config + Meta site compatibility. https://t.co/sbqbYupQ9Y",
-      "translatedTitle": "总结一下📝0.14.0版本已发布。",
-      "translatedBody": "Summarize 📝0.14.0 版本已发布。\n\n新增 GPT-5.5 快速模式（通过 `--fast` 参数启用）、浏览器扩展程序新增 Reddit 帖子提取功能、本地 PDF 提取（通过 `--extract` 参数启用），并修复了自动模型配置和 Meta 站点兼容性问题。https://t.co/sbqbYupQ9Y",
+      "originalTitle": "Coding agents will be the foundation of all superintelligence.",
+      "originalBody": "Coding agents will be the foundation of all superintelligence. \n\nAt a minimum, coding ability is indistinguishable from 'proficiency with computers'. Great coding agents like Claude Code master bash, filesystems, configuring and installing programs…\n\nBut it's also about self-improvement. A coding agent has the ability to examine its source, its state, its skills, its instructions… it can propose changes to itself (with human supervision and audit trail, I recommend), or even mutate itself directly.\n\nIn retrospect, this should be obvious. \"What I cannot create, I cannot understand\". Coding fluency has given models a deeper understanding of all computer and knowledge work. To master programs, you must be able to create them.",
+      "translatedTitle": "编码智能体将成为所有超级智能的基础。",
+      "translatedBody": "编码智能体将成为所有超级智能的基础。\n\n至少，编码能力与“计算机操作熟练度”密不可分。像 Claude Code 这样优秀的编码智能体精通 Bash、文件系统、程序配置和安装程序……\n\n但这还关乎自我提升。编码智能体能够审视自身的源代码、状态、技能和指令……它可以提出自我改进方案（我建议在人工监督和审计跟踪的前提下进行），甚至可以直接进行自我变异。\n\n回过头来看，这应该是显而易见的。“我无法创造的东西，我无法理解。” 编码能力使模型对所有计算机和知识工作有了更深刻的理解。要掌握程序，就必须能够创建它们。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2048275589224628677",
-      "publishedAt": "2026-04-26T05:38:50.000Z",
-      "score": 80.77,
+      "sourceUrl": "https://x.com/rauchg/status/2048523195305902341",
+      "publishedAt": "2026-04-26T22:02:44.000Z",
+      "score": 183.15,
       "engagement": {
-        "likes": 192,
-        "retweets": 12,
-        "replies": 19
+        "likes": 427,
+        "retweets": 34,
+        "replies": 55
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -80,26 +51,78 @@
       "sourceType": "x"
     },
     {
-      "id": "2048190683782201767",
+      "id": "2048428561481265539",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "是否存在由人工精心整理的设计、编码、产品等方面的优质技能库？",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Are there good human-curated skill repos for design, coding, product, etc that's not \"here's 100 skills you separate…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Are there good human-curated skill repos for design, coding, product, etc that's no…",
-      "originalBody": "Are there good human-curated skill repos for design, coding, product, etc that's not \"here's 100 skills you separate the slop yourself\"",
-      "translatedTitle": "是否存在由人工精心整理的设计、编码、产品等方面的优质技能库？",
-      "translatedBody": "是否存在由人工精心整理的设计、编码、产品等方面的优质技能库，而不是那种“这里有100项技能，你自己去筛选”的模式？",
+      "builder": "Sam Altman",
+      "title": "现在似乎是时候认真重新思考操作系统和用户界面了……",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：feels like a good time to seriously rethink how operating systems and user interfaces are designed (also the internet…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "feels like a good time to seriously rethink how operating systems and user interfac…",
+      "originalBody": "feels like a good time to seriously rethink how operating systems and user interfaces are designed\n\n(also the internet; there should be a protocol that is equally usable by people and agents)",
+      "translatedTitle": "现在似乎是时候认真重新思考操作系统和用户界面了……",
+      "translatedBody": "现在似乎是时候认真反思一下操作系统和用户界面的设计方式了。\n\n（互联网也一样；应该有一种对人和智能体都同样适用的协议。）",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2048190683782201767",
-      "publishedAt": "2026-04-26T00:01:27.000Z",
-      "score": 74.52,
+      "sourceUrl": "https://x.com/sama/status/2048428561481265539",
+      "publishedAt": "2026-04-26T15:46:41.000Z",
+      "score": 174.77,
       "engagement": {
-        "likes": 84,
-        "retweets": 3,
-        "replies": 13
+        "likes": 10506,
+        "retweets": 634,
+        "replies": 1515
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2048554097985593849",
+      "type": "tweet",
+      "builder": "Sam Altman",
+      "title": "看到大家对 5.5 分的评价真是太棒了！",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：so fun to see the reception to 5.5! there is almost nothing that feels more gratifying to me than builders saying the…",
+      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "so fun to see the reception to 5.5!",
+      "originalBody": "so fun to see the reception to 5.5!\n\nthere is almost nothing that feels more gratifying to me than builders saying they find our tools useful.",
+      "translatedTitle": "看到大家对 5.5 分的评价真是太棒了！",
+      "translatedBody": "看到大家对 5.5 版本的反响如此热烈，真是太棒了！\n\n没有什么比建筑工人说他们觉得我们的工具好用更让我感到欣慰的了。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/sama/status/2048554097985593849",
+      "publishedAt": "2026-04-27T00:05:31.000Z",
+      "score": 144.41,
+      "engagement": {
+        "likes": 3906,
+        "retweets": 101,
+        "replies": 610
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2048537503972684252",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "至少有两个重要但不易察觉的因素会导致过度劳累的感觉……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：There are at least 2 big but subtle factors contributing to the sense of overwork due to agents right now. 1. The lev…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "There are at least 2 big but subtle factors contributing to the sense of overwork d…",
+      "originalBody": "There are at least 2 big but subtle factors contributing to the sense of overwork due to agents right now.\n\n1. The leverage on incremental effort has gone up substantially due to AI, and anyone using these tools tend to feel it first. We’re so used to everything taking so long to get done, that spending that much extra time on something didn’t have the same value. \n\nBut now you can sense the compounding leverage you have with agents much more acutely. It feels more like when you’re a people manager and not maximizing what your team is working on. The worst thing you can do is waste your team’s time, point them in the wrong direction, or have them be idle. Now ICs get a similar sense of this via managing agents.\n\nPrioritization and thinking through how to break up tasks and maximize work becomes a key skill.\n\n2. The other rested factor is we’ve just made it so much easier to start incremental tasks that end up taking much longer than we realize. Very easy to get to the 90% solution but the final 10% takes the vast majority of the time. So we are starting far more projects because of the lower barrier, and spending a ton of time to finish the work. \n\nI regularly start a project at 9PM that I think will be quick, and find myself at midnight still completing the work. The interesting thing about this fact is that we’ll use AI to test lots of new ideas an hypothesis, and quickly figure out which areas to continue and sustain. \n\nThis will ultimately lead to a lot of the job creation with AI, because teams and companies will decide that the experiment needs to get promoted into a production process. But they wouldn’t have even started that “experiment” without AI in the first place. \n\nThis overwork obviously can’t sustain across the economy, but it’s interesting to see how this is shaping things right now.",
+      "translatedTitle": "至少有两个重要但不易察觉的因素会导致过度劳累的感觉……",
+      "translatedBody": "至少有两个重要但不易察觉的因素导致了目前因使用智能代理而产生的过度劳累感。\n\n1. 由于人工智能的出现，增量投入的杠杆效应显著增强，任何使用这些工具的人往往最先感受到这一点。我们已经习惯了所有事情都需要很长时间才能完成，因此，花额外的时间去做某件事并没有带来同样的价值。\n\n但现在，你能更敏锐地感受到使用智能代理所带来的累积效应。这感觉就像你作为一名团队管理者，没有最大限度地发挥团队的工作效率一样。最糟糕的事情莫过于浪费团队的时间、误导他们或让他们无所事事。现在，独立贡献者（IC）在管理智能代理时也会有类似的感受。\n\n因此，优先级排序以及如何分解任务并最大化工作效率成为了一项关键技能。\n\n2. 另一个令人担忧的因素是，我们现在更容易启动一些看似简单的任务，而这些任务最终耗时远超我们的预期。找到90%的解决方案很容易，但最后的10%却耗费了绝大部分时间。因此，由于门槛降低，我们启动的项目数量激增，却也因此花费大量时间来完成工作。\n\n我经常在晚上9点开始一个我认为很快就能完成的项目，结果却发现自己一直忙到午夜。有趣的是，我们可以利用人工智能来测试许多新想法和假设，并迅速确定哪些领域值得继续推进和发展。\n\n这最终将催生大量与人工智能相关的就业机会，因为团队和公司会认为这些实验需要转化为生产流程。但如果没有人工智能，他们一开始甚至都不会启动这些“实验”。\n\n这种过度劳累显然无法在整个经济体系中持续下去，但观察它目前如何影响着经济格局，确实很有意思。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2048537503972684252",
+      "publishedAt": "2026-04-26T22:59:35.000Z",
+      "score": 80.84,
+      "engagement": {
+        "likes": 263,
+        "retweets": 26,
+        "replies": 37
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -108,145 +131,120 @@
       "sourceType": "x"
     },
     {
-      "id": "2048223146063609965",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "非常值得一读。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Great read. AI lets you get tremendous leverage that wasn’t available before in almost any domain. That means we’re a…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Great read.",
-      "originalBody": "Great read. AI lets you get tremendous leverage that wasn’t available before in almost any domain. \n\nThat means we’re at a unique moment in history where anyone with a high level of ambition and core skills in any area can overcome a lot of historical experience requirements for their role.\n\nThis can apply to anyone who’s junior or senior, but it’s pretty sweet that you can do far more than you could have accomplished as a newer employee than even a couple years ago. The people that take advantage of this will get ahead massively. \n\nAnd the companies that find this talent within or outside should put them in key positions to get as much out of them as possible. These people will seem strange and from the future, but they will help you figure out where things are going. Everyone company should be doing whatever they can to find them.",
-      "translatedTitle": "非常值得一读。",
-      "translatedBody": "这篇文章写得真好。人工智能让你在几乎所有领域都能获得前所未有的巨大优势。\n\n这意味着我们正处于一个独特的历史时刻，任何拥有远大抱负和核心技能的人，无论身处哪个领域，都能突破以往对经验的诸多限制。\n\n这适用于任何级别的员工，无论是初级还是高级，但令人欣喜的是，你现在能取得的成就远超几年前的新员工。那些能够充分利用这一优势的人将会获得巨大的发展。\n\n而那些在公司内部或外部发现这类人才的企业，应该将他们安排在关键岗位上，以最大限度地发挥他们的潜力。这些人或许看起来有些另类，仿佛来自未来，但他们能够帮助你把握未来的发展方向。每家公司都应该竭尽所能去寻找这样的人才。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2048223146063609965",
-      "publishedAt": "2026-04-26T02:10:26.000Z",
-      "score": 57.75,
-      "engagement": {
-        "likes": 396,
-        "retweets": 40,
-        "replies": 39
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2048252455817785357",
+      "id": "2048660875007914176",
       "type": "tweet",
       "builder": "Peter Steinberger",
-      "title": "CodexBar 🎚️ 0.23 版本发布：新增 Mistral 支持、Claude Designs/Daily Routines 使用、Cur…",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：CodexBar 🎚️ 0.23 is out: Mistral support, Claude Designs/Daily Routines usage, Cursor Extra usage, GPT-5.5 pricing,…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "CodexBar 🎚️ 0.23 is out: Mistral support, Claude Designs/Daily Routines usage, Cur…",
-      "originalBody": "CodexBar 🎚️ 0.23 is out:\n\nMistral support, Claude Designs/Daily Routines usage, Cursor Extra usage, GPT-5.5 pricing, cleaner widgets/menus, and a bunch of reliability fixes. https://t.co/X4FXCEmAFG",
-      "translatedTitle": "CodexBar 🎚️ 0.23 版本发布：新增 Mistral 支持、Claude Designs/Daily Routines 使用、Cur…",
-      "translatedBody": "CodexBar 🎚️ 0.23 版本发布：\n\n新增 Mistral 支持、Claude Designs/Daily Routines 使用功能、Cursor Extra 使用功能、GPT-5.5 定价模式、更简洁的组件/菜单，以及一系列稳定性修复。https://t.co/X4FXCEmAFG",
+      "title": "发布 wacrawl 0.2.0。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Released wacrawl 0.2.0. New: encrypted Git backup/restore for WhatsApp Desktop archives. `wacrawl backup push` writes…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Released wacrawl 0.2.0.",
+      "originalBody": "Released wacrawl 0.2.0.\n\nNew: encrypted Git backup/restore for WhatsApp Desktop archives. `wacrawl backup push` writes age-encrypted shards to GitHub; `backup pull` decrypts, verifies, and restores locally. https://t.co/gzCQO6eSAe",
+      "translatedTitle": "发布 wacrawl 0.2.0。",
+      "translatedBody": "wacrawl 0.2.0 版本发布。\n\n新增功能：WhatsApp Desktop 存档的加密 Git 备份/恢复。`wacrawl backup push` 命令会将加密后的分片写入 GitHub；`backup pull` 命令则会在本地解密、验证并恢复数据。https://t.co/gzCQO6eSAe",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2048252455817785357",
-      "publishedAt": "2026-04-26T04:06:54.000Z",
-      "score": 54.69,
+      "sourceUrl": "https://x.com/steipete/status/2048660875007914176",
+      "publishedAt": "2026-04-27T07:09:49.000Z",
+      "score": 78.39,
       "engagement": {
-        "likes": 214,
-        "retweets": 13,
-        "replies": 18
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2048278995121094868",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "你是否曾经想过将浏览器与 Claude Code 并排控制？",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Did you ever want to control your browser side-by-side with Claude Code? Now, with /open-gstack-browser skill and GSt…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Did you ever want to control your browser side-by-side with Claude Code?",
-      "originalBody": "Did you ever want to control your browser side-by-side with Claude Code? Now, with /open-gstack-browser skill and GStack Browser, you can https://t.co/dT0dUd3MhF",
-      "translatedTitle": "你是否曾经想过将浏览器与 Claude Code 并排控制？",
-      "translatedBody": "你是否曾经想过将浏览器与 Claude Code 并排控制？现在，借助 /open-gstack-browser 技能和 GStack Browser，你可以做到 https://t.co/dT0dUd3MhF",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2048278995121094868",
-      "publishedAt": "2026-04-26T05:52:22.000Z",
-      "score": 53.61,
-      "engagement": {
-        "likes": 111,
-        "retweets": 3,
-        "replies": 25
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2048294481955631163",
-      "type": "tweet",
-      "builder": "Amanda Askell",
-      "title": "我从飞行模拟器中学到的是，当一名飞行员可能会有点无聊……",
-      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：What I'm learning from flight simulators is that it would be a bit boring to be an amateur cessna pilot but a lot of…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "What I'm learning from flight simulators is that it would be a bit boring to be an…",
-      "originalBody": "What I'm learning from flight simulators is that it would be a bit boring to be an amateur cessna pilot but a lot of fun to be an amateur fighter jet pilot.",
-      "translatedTitle": "我从飞行模拟器中学到的是，当一名飞行员可能会有点无聊……",
-      "translatedBody": "我从飞行模拟器中了解到，当一名业余塞斯纳飞机飞行员会有点无聊，但当一名业余战斗机飞行员会非常有趣。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/AmandaAskell/status/2048294481955631163",
-      "publishedAt": "2026-04-26T06:53:54.000Z",
-      "score": 52.39,
-      "engagement": {
-        "likes": 76,
-        "retweets": 3,
+        "likes": 89,
+        "retweets": 5,
         "replies": 12
       },
       "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2048669695344046090",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "像我这样能言善辩的特工的秘诀不在于一份文件。",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The secret to an articulate agent like mine isn't one file. It's three: SOUL.md — Who the agent IS. Voice, values, op…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "The secret to an articulate agent like mine isn't one file.",
+      "originalBody": "The secret to an articulate agent like mine isn't one file. It's three:\n\nSOUL.md — Who the agent IS. Voice, values, operating principles, what good output looks like, what bad output looks like. Not a system prompt, a constitution. Mine says things like \"brevity is mandatory,\" \"humor is mandatory,\" \"never open with 'Great question,'\" \"swearing is allowed when it lands.\" The more specific and opinionated this is, the less your agent sounds like a chatbot. Write it like you're briefing your smartest friend on how to be you, not like you're configuring software.\n\nUSER.md — Who YOU are. Not a bio — a deep model. How your mind works, what you're building, your strengths, your blind spots, your family, your temperament, what triggers you, what you care about. The more the agent understands about you, the better it can serve you. Mine is ~4000 words.\n\nAGENTS.md — Operational rules. What to check on every message, what to never do, how to handle failures, lookup chains, path rules, brain-first protocols. This is the playbook for how it works, not who it is.\n\nThe articulation comes from SOUL.md being brutally specific about voice. Generic instructions → generic output. If you write \"be helpful and concise\" you get ChatGPT. If you write \"speak like a peer with taste, one sentence when one sentence works, uncomfortable truths welcome if actually true, language with voltage\" — you get something alive.",
+      "translatedTitle": "像我这样能言善辩的特工的秘诀不在于一份文件。",
+      "translatedBody": "打造像我这样能言善辩的智能体，秘诀不在于一个文件，而在于三个文件：\n\nSOUL.md——智能体是谁。包括语音语调、价值观、运行原则，以及好的输出和坏的输出是什么样子。这不是系统提示，而是一份章程。我的文件中包含诸如“必须简洁”、“必须幽默”、“永远不要以‘好问题’开头”、“如果合适，可以爆粗口”之类的内容。SOUL.md 的内容越具体、越有主见，你的智能体听起来就越不像聊天机器人。编写时，要像在向你最聪明的朋友介绍如何做你自己一样，而不是像在配置软件一样。\n\nUSER.md——你是谁。这不是个人简介，而是一个深度模型。包括你的思维方式、你正在做的事情、你的优势、你的盲点、你的家庭、你的性格、你的触发点以及你关心的事情。智能体对你了解得越多，就能更好地为你服务。我的 USER.md 文件大约有 4000 字。\n\nAGENTS.md——运行规则。每条消息要检查什么，哪些事情绝对不能做，如何处理故障，查找链，路径规则，以及以人为本的协议。这是它的运作方式，而不是它本身。\n\n这种清晰的表达源于 SOUL.md 对语音的精准描述。通用指令 → 通用输出。如果你写“简洁明了，乐于助人”，你会得到 ChatGPT。如果你写“像同龄人一样有品位地说话，一句话就能表达清楚，如果事实如此，欢迎坦诚相告，语言要生动有力”——你会得到一个鲜活的语音。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2048669695344046090",
+      "publishedAt": "2026-04-27T07:44:52.000Z",
+      "score": 77.56,
+      "engagement": {
+        "likes": 62,
+        "retweets": 6,
+        "replies": 10
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
         "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2048101948826751429",
+      "id": "2048626844694421842",
       "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "当我坐在电脑前开始打字时，这并不是写作的开始……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：When I sit down at my computer and start typing, that's not the beginning of writing. It's the LAST step. 80% of the…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "When I sit down at my computer and start typing, that's not the beginning of writin…",
-      "originalBody": "When I sit down at my computer and start typing, that's not the beginning of writing. It's the LAST step. 80% of the writing is already done. It just happened in my head.\n\n- Writing ≠ generating text\n- Building product ≠ writing PRDs\n- Designing ≠ making mockups\n- Engineering ≠ writing code",
-      "translatedTitle": "当我坐在电脑前开始打字时，这并不是写作的开始……",
-      "translatedBody": "当我坐在电脑前开始敲键盘时，这并不是写作的开始，而是最后一步。80% 的写作工作其实已经完成了，只是在我的脑海里自然而然地发生了。\n\n- 写作 ≠ 生成文本\n\n- 构建产品 ≠ 撰写产品需求文档 (PRD)\n\n- 设计 ≠ 制作模型\n\n- 工程 ≠ 编写代码",
+      "builder": "Peter Steinberger",
+      "title": "我想要一个真正本地化的推文存储方案，所以开发了 Birdclaw。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Wanted a truly local storage for my tweets so built birdclaw. Imoorts your archive, backs it up on github, has jobs s…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Wanted a truly local storage for my tweets so built birdclaw.",
+      "originalBody": "Wanted a truly local storage for my tweets so built birdclaw. Imoorts your archive, backs it up on github, has jobs so you can import your x bookmarks daily (since they are not fully accessible via the api). \nhttps://t.co/4Nd1Ad0ZeY",
+      "translatedTitle": "我想要一个真正本地化的推文存储方案，所以开发了 Birdclaw。",
+      "translatedBody": "我想要一个真正本地化的推文存储方案，所以开发了 Birdclaw。它可以导入你的推文存档，备份到 GitHub，并且提供任务功能，让你每天导入 x 个书签（因为这些书签无法通过 API 完全访问）。\n\nhttps://t.co/4Nd1Ad0ZeY",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2048101948826751429",
-      "publishedAt": "2026-04-25T18:08:51.000Z",
-      "score": 49.25,
+      "sourceUrl": "https://x.com/steipete/status/2048626844694421842",
+      "publishedAt": "2026-04-27T04:54:36.000Z",
+      "score": 61.75,
       "engagement": {
-        "likes": 75,
-        "retweets": 7,
-        "replies": 10
+        "likes": 727,
+        "retweets": 58,
+        "replies": 41
       },
       "matchedFocusAreas": [
-        "Product Ships"
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2048576989930619185",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "注意到一种有趣的盖尔曼失忆症变体，在这种变体中，人们使用人工智能来处理他们的……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Noticing an interesting version of gell-man amnesia where people use AI for their job and see all the various things…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "Noticing an interesting version of gell-man amnesia where people use AI for their j…",
+      "originalBody": "Noticing an interesting version of gell-man amnesia where people use AI for their job and see all the various things they have to do in the “last mile”, but then look at someone else’s job and think that AI will eliminate it immediately.\n\nWe all have a much deeper appreciation for the nuances and complexities of the work that we do every day. We run into issues about accessing data, we know how much context is needed to get AI models to work the way we need, we have to review the output of the AI to make sure it’s accurate, and then we have to incorporate that work into some broader business process. We see all those steps deeply for the work that we do.\n\nThen, a moment later, we see AI do something in a foreign space and think that it can go automate that entire function. We tend to dramatically underestimate the work that goes into making the AI work just as effectively in those jobs.\n\nThis is reason to be skeptical about many of the theories of job loss. It’s coming from the lens of being able to automate individual tasks with AI, without understanding all the work that goes into doing the job fully.",
+      "translatedTitle": "注意到一种有趣的盖尔曼失忆症变体，在这种变体中，人们使用人工智能来处理他们的……",
+      "translatedBody": "我注意到一种有趣的“盖尔曼失忆症”变体：人们在工作中使用人工智能，了解“最后一公里”的种种繁琐环节，但看到别人的工作，却认为人工智能会立即取代他们的工作。\n\n我们对日常工作的细微差别和复杂性有着更深刻的理解。我们会遇到数据访问方面的问题，我们知道需要多少上下文信息才能让人工智能模型按预期运行，我们需要审核人工智能的输出以确保其准确性，然后还要将这项工作整合到更广泛的业务流程中。我们对工作中的所有这些步骤都了如指掌。\n\n然而，片刻之后，我们看到人工智能在某个领域有所作为，就认为它可以完全自动化该领域的整个功能。我们往往严重低估了让人工智能在这些工作中同样高效运行所需的工作量。\n\n这正是我们应该对许多关于失业的理论持怀疑态度的原因。这种观点源于能够利用人工智能自动执行单个任务，却不了解完成这项工作所需的全部工作。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2048576989930619185",
+      "publishedAt": "2026-04-27T01:36:29.000Z",
+      "score": 60.79,
+      "engagement": {
+        "likes": 713,
+        "retweets": 75,
+        "replies": 64
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-04-26T07:25:34.134Z",
-    "totalCandidates": 25,
-    "textQualifiedCandidates": 12,
+    "upstreamGeneratedAt": "2026-04-27T08:20:43.831Z",
+    "totalCandidates": 22,
+    "textQualifiedCandidates": 13,
     "selectedTweets": 8
   }
 }
