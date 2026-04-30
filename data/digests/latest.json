@@ -1,10 +1,10 @@
 {
-  "date": "2026-04-29",
-  "generatedAt": "2026-04-29T03:36:29.186Z",
+  "date": "2026-04-30",
+  "generatedAt": "2026-04-30T03:37:53.608Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-04-29",
-  "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 29 条候选动态里，筛出 15 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-04-30",
+  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 34 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,168 +23,53 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2048755148361707946",
+      "id": "2049143442601546054",
       "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "我们已更新与微软的合作伙伴关系。",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：we have updated our partnership with microsoft. microsoft will remain our primary cloud partner, but we are now able…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "we have updated our partnership with microsoft.",
-      "originalBody": "we have updated our partnership with microsoft.\n\nmicrosoft will remain our primary cloud partner, but we are now able to make our products and services available across all clouds.\n\nwill continue to provide them with models and products until 2032, and a revenue share through 2030.",
-      "translatedTitle": "我们已更新与微软的合作伙伴关系。",
-      "translatedBody": "我们已更新与微软的合作伙伴关系。\n\n微软仍将是我们的主要云合作伙伴，但我们现在能够将我们的产品和服务推广到所有云平台。\n\n我们将继续向微软提供产品和模型，直至 2032 年，并与其达成收入分成协议，直至 2030 年。",
+      "builder": "Claude",
+      "title": "今天还将推出更多连接器：Adobe Creative Cloud、Ableton、Splice、Canva Affin…",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：More connectors launching today: Adobe Creative Cloud, Ableton, Splice, Canva Affinity, SketchUp, and Resolume. We've…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "More connectors launching today: Adobe Creative Cloud, Ableton, Splice, Canva Affin…",
+      "originalBody": "More connectors launching today: Adobe Creative Cloud, Ableton, Splice, Canva Affinity, SketchUp, and Resolume.\n\nWe've also joined the Blender Development Fund as a patron to support open-source development of the software.\n\nRead more: https://t.co/vg3l9MWNTg",
+      "translatedTitle": "今天还将推出更多连接器：Adobe Creative Cloud、Ableton、Splice、Canva Affin…",
+      "translatedBody": "今天新增更多连接器：Adobe Creative Cloud、Ableton、Splice、Canva Affinity、SketchUp 和 Resolume。\n\n我们还加入了 Blender 开发基金，成为其赞助人，以支持该软件的开源开发。\n\n了解更多：https://t.co/vg3l9MWNTg",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2048755148361707946",
-      "publishedAt": "2026-04-27T13:24:26.000Z",
-      "score": 225.57,
+      "sourceUrl": "https://x.com/claudeai/status/2049143442601546054",
+      "publishedAt": "2026-04-28T15:07:22.000Z",
+      "score": 169.43,
       "engagement": {
-        "likes": 13164,
-        "retweets": 773,
-        "replies": 1110
+        "likes": 3742,
+        "retweets": 556,
+        "replies": 121
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2048771729821229091",
+      "id": "2049216048831025232",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我从@tibo_maker（一位每月收入超过100万美元的独立人工智能创始人）身上学到的5个最重要的经验：1.",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：My top 5 takeaways from @tibo_maker, a solo AI founder who's making $1M+ a month: 1. Charge money on day one. Tibo’s…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "My top 5 takeaways from @tibo_maker, a solo AI founder who's making $1M+ a month: 1.",
-      "originalBody": "My top 5 takeaways from @tibo_maker, a solo AI founder who's making $1M+ a month:\n\n1. Charge money on day one.\n\nTibo’s first startup failed because he cared more about appearing successful (e.g., I managed a team of 10 and raised $200K) than validating demand with paying customers. “If there is no revenue and no stickiness in the revenue, it’s going to be very hard to build a successful business.” Free signups are easy to mistake for traction.\n\n2. Follow the signal when users surprise you.\n\nTibo acquired Typeframe ($2K MRR) as a product video tool, but noticed users were hacking it to stitch 5-second AI clips into longer videos with consistent characters and scenes. He pivoted the entire product to meet this need and rebranded it to Revid, which is now making $600K+ MRR.\n\n3. Price your AI SaaS at $50-100/month\n\nLow enough that customers don’t need a sales call and high enough to filter out tire-kickers. “I see so many people charging $10 / month and it puts you into the position of a cheap product.” Tibo picks his price point first, then shapes the product around it.\n\n4. Keep monthly churn below 20%.\n\nIf more than 20% of customers cancel each month, stop scaling acquisition and fix the product first. There’s a ceiling (max MRR) on your revenue based on churn vs. acquisition. At 40% churn, customers stay about 2 months and you’ll hit a wall no matter how much you spend.\n\n5. Build tool pages to rank on Google\n\nRevid has 100+ pages each targeting a specific Google search like “turn audio into video” and “YouTube to shorts.” Many AI founders follow a similar model.\n\n📌 Watch our full conversation for more practical tactics like the above:  https://t.co/N6b950Xc5p",
-      "translatedTitle": "我从@tibo_maker（一位每月收入超过100万美元的独立人工智能创始人）身上学到的5个最重要的经验：1.",
-      "translatedBody": "我从@tibo_maker（一位月入百万美元以上的独立人工智能创始人）身上学到的五大经验：\n\n1. 从第一天起就开始收费。\n\nTibo 的第一家创业公司失败的原因在于，他更注重表面的成功（例如，“我管理着一个 10 人的团队，筹集了 20 万美元”），而不是通过付费用户来验证市场需求。“如果没有收入，而且收入没有粘性，就很难建立一个成功的企业。” 免费注册很容易被误认为是用户增长。\n\n2. 当用户给你带来惊喜时，要紧跟信号。\n\nTibo 收购了 Typeframe（月经常性收入 2000 美元），最初它是一款产品视频工具。但他发现用户正在破解该工具，将 5 秒的 AI 短片拼接成更长的视频，并保持角色和场景的一致性。他彻底调整了产品方向以满足这一需求，并将其更名为 Revid，如今 Revid 的月经常性收入已超过 60 万美元。\n\n3. 将你的 AI SaaS 定价在每月 50-100 美元\n\n价格要低到客户无需销售电话即可购买，又要高到足以筛选掉那些只是随便看看的人。“我看到很多人定价 10 美元/月，这会让你的产品显得很廉价。” Tibo 会先确定价格点，然后再围绕这个价格点来设计产品。\n\n4. 将月流失率控制在 20% 以下\n\n如果每月超过 20% 的客户取消订阅，请停止扩大获客规模，首先修复产品。你的收入上限（最大月经常性收入）取决于流失率与获客率的平衡。如果流失率达到 40%，客户平均只会停留 2 个月左右，无论你投入多少，都会遇到瓶颈。\n\n5. 创建工具页面以提升 Google 排名\n\nRevid 拥有 100 多个页面，每个页面都针对特定的 Google 搜索，例如“将音频转换为视频”和“将 YouTube 视频转换为 Shorts”。许多 AI 创始人都遵循类似的模式。\n\n📌观看我们的完整对话，了解更多类似上述的实用策略：https://t.co/N6b950Xc5p",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2048771729821229091",
-      "publishedAt": "2026-04-27T14:30:19.000Z",
-      "score": 104.57,
-      "engagement": {
-        "likes": 216,
-        "retweets": 22,
-        "replies": 20
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2048911624061522228",
-      "type": "tweet",
-      "builder": "Amjad Masad",
-      "title": "Replit 速通一年多前就积累了所有这些经验，现在我们是唯一一个……",
-      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Replit speedrun all these learnings more than a year ago and now we’re the only platform with proper agent production…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Replit speedrun all these learnings more than a year ago and now we’re the only pla…",
-      "originalBody": "Replit speedrun all these learnings more than a year ago and now we’re the only platform with proper agent production isolation.\n\nThe benefits of a vertically integrated platform will continue to compound. https://t.co/VWxDRe6kKH",
-      "translatedTitle": "Replit 速通一年多前就积累了所有这些经验，现在我们是唯一一个……",
-      "translatedBody": "Replit 早在一年多前就迅速掌握了所有这些经验，如今我们是唯一拥有完善的代理生产隔离机制的平台。\n\n垂直整合平台的优势将持续累积。https://t.co/VWxDRe6kKH",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/amasad/status/2048911624061522228",
-      "publishedAt": "2026-04-27T23:46:12.000Z",
-      "score": 82.32,
-      "engagement": {
-        "likes": 394,
-        "retweets": 23,
-        "replies": 35
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2048896617424527499",
-      "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "硅谷：人工智能正在自我加速发展，智能体掌控一切，老年人很笨……",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Silicon Valley: AI is self-accelerating, agents run everything, old people are dumb Global 2000: I spent a fortune on…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Silicon Valley: AI is self-accelerating, agents run everything, old people are dumb…",
-      "originalBody": "Silicon Valley: AI is self-accelerating, agents run everything, old people are dumb\n\nGlobal 2000: I spent a fortune on your AI chat 2 years ago and got zero productivity; my engineers like the coding AI thing but no one else cares; agents are scary\n\nNever seen a gap this huge",
-      "translatedTitle": "硅谷：人工智能正在自我加速发展，智能体掌控一切，老年人很笨……",
-      "translatedBody": "硅谷：人工智能正在自我加速发展，智能体掌控一切，老年人很笨\n\n全球2000强：两年前我在你们的AI聊天室花了一大笔钱，结果毫无成效；我的工程师喜欢编写AI代码，但其他人都不感兴趣；智能体很可怕\n\n从未见过如此巨大的差距",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2048896617424527499",
-      "publishedAt": "2026-04-27T22:46:34.000Z",
-      "score": 82.28,
-      "engagement": {
-        "likes": 398,
-        "retweets": 20,
-        "replies": 34
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2048918016642154698",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "需要 API/MCP 的产品：@substack @RiversidedotFM 其他所有视频编辑工具……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Products that need APIs/MCPs: @substack @RiversidedotFM Every other video editing tool Every bank that's not @mercury…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Products that need APIs/MCPs: @substack @RiversidedotFM Every other video editing t…",
-      "originalBody": "Products that need APIs/MCPs:\n\n@substack \n@RiversidedotFM \nEvery other video editing tool\nEvery bank that's not @mercury \nEvery government website\nEvery healthcare portal",
-      "translatedTitle": "需要 API/MCP 的产品：@substack @RiversidedotFM 其他所有视频编辑工具……",
-      "translatedBody": "需要 API/MCP 的产品：\n\n@substack\n\n@RiversidedotFM\n\n所有其他视频编辑工具\n\n除 @mercury 以外的所有银行\n\n所有政府网站\n\n所有医疗保健门户网站",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2048918016642154698",
-      "publishedAt": "2026-04-28T00:11:36.000Z",
-      "score": 72.18,
-      "engagement": {
-        "likes": 41,
-        "retweets": 0,
-        "replies": 19
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2048957477106938075",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "终于有了出色的公关/问题管理、远程测试执行、大规模……解决方案",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Finally have great solutions for PR/Issue management, remote test execution, massive CI infra for testing. Streamline…",
+      "builder": "Guillermo Rauch",
+      "title": "Vercel Labs团队正在扩充。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We're growing the Vercel Labs team. Our mission is to build the devtools of the AI era. We used to build tools for hu…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Finally have great solutions for PR/Issue management, remote test execution, massiv…",
-      "originalBody": "Finally have great solutions for PR/Issue management, remote test execution, massive CI infra for testing. Streamlines a lot of the work. https://t.co/xetfW6dm4o",
-      "translatedTitle": "终于有了出色的公关/问题管理、远程测试执行、大规模……解决方案",
-      "translatedBody": "终于有了出色的 PR/Issue 管理、远程测试执行和大规模 CI 测试基础设施解决方案。大大简化了工作流程。https://t.co/xetfW6dm4o",
+      "originalTitle": "We're growing the Vercel Labs team.",
+      "originalBody": "We're growing the Vercel Labs team. Our mission is to build the devtools of the AI era.\n\nWe used to build tools for humans, now we're building them for agents. @ctatedev & team have shipped the tools that agents love: 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛, 𝚙𝚘𝚛𝚝𝚕𝚎𝚜𝚜, 𝚜𝚔𝚒𝚕𝚕𝚜, 𝚌𝚑𝚊𝚝, 𝚓𝚞𝚜𝚝-𝚋𝚊𝚜𝚑, 𝚓𝚜𝚘𝚗-𝚛𝚎𝚗𝚍𝚎𝚛… 22.8M+ downloads to date.\n\nDream job. DMs open 😀",
+      "translatedTitle": "Vercel Labs团队正在扩充。",
+      "translatedBody": "Vercel Labs 团队正在壮大。我们的使命是打造人工智能时代的开发工具。\n\n我们过去为人类开发工具，现在我们为智能体开发工具。 @ctatedev 和他的团队发布了经纪人们喜爱的工具：𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛、𝚙𝚘𝚛𝚝𝚕𝚎𝚜𝚜、𝚜𝚔𝚒𝚕𝚕𝚜、𝚌𝚑𝚊𝚝、𝚓𝚞𝚜𝚝-𝚋𝚊𝚜𝚑、𝚓𝚜𝚘𝚗-𝚛𝚎𝚗𝚍𝚎𝚛……迄今为止下载量已超过 2280 万次。\n\n梦寐以求的工作。欢迎私信 😀",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2048957477106938075",
-      "publishedAt": "2026-04-28T02:48:24.000Z",
-      "score": 57.51,
+      "sourceUrl": "https://x.com/rauchg/status/2049216048831025232",
+      "publishedAt": "2026-04-28T19:55:53.000Z",
+      "score": 162.01,
       "engagement": {
-        "likes": 439,
-        "retweets": 14,
-        "replies": 29
+        "likes": 1025,
+        "retweets": 39,
+        "replies": 74
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -192,53 +77,162 @@
       "sourceType": "x"
     },
     {
-      "id": "2048900068523266544",
+      "id": "2049143438281445811",
       "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "隆重介绍 Dawn 🌅 @varadh、@trq212 和我一直在与许多前创始人交流……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Introducing Dawn 🌅 @varadh, @trq212 and I have been talking to a lot of ex-founders lately. There’s a community for…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Introducing Dawn 🌅 @varadh, @trq212 and I have been talking to a lot of ex-founder…",
-      "originalBody": "Introducing Dawn 🌅\n\n@varadh, @trq212 and I have been talking to a lot of ex-founders lately. There’s a community for every stage of starting a company. There isn’t one for what comes after.\n\nSo, we decided to start one.\n\nDawn Vol I is a small dinner. May 19th in SF. Off the record. Ex-founders only.\n\nRegister at meetatdawn dot com",
-      "translatedTitle": "隆重介绍 Dawn 🌅 @varadh、@trq212 和我一直在与许多前创始人交流……",
-      "translatedBody": "隆重推出 Dawn 🌅\n\n最近，我和 @varadh、@trq212 一直在和很多前创业者交流。创业的每个阶段都有相应的社群，唯独缺少一个关注创业者退休后生活的社群。\n\n所以，我们决定创建一个。\n\nDawn Vol I 是一场小型晚宴，将于 5 月 19 日在旧金山举行。非正式交流，仅限前创业者参加。\n\n请访问 meetatdawn.com 注册。",
+      "builder": "Claude",
+      "title": "Claude现在可以与创意专业人士已经使用的工具连接。",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Claude now connects to the tools creative professionals already use. With the new Blender connector, you can debug a…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Claude now connects to the tools creative professionals already use.",
+      "originalBody": "Claude now connects to the tools creative professionals already use.\n\nWith the new Blender connector, you can debug a scene, build new tools, or batch-apply changes across every object, directly from Claude. https://t.co/Kc3cBHTNpV",
+      "translatedTitle": "Claude现在可以与创意专业人士已经使用的工具连接。",
+      "translatedBody": "Claude 现在可以与创意专业人士常用的工具连接。\n\n借助全新的 Blender 连接器，您可以直接在 Claude 中调试场景、构建新工具或批量应用更改到所有对象。https://t.co/Kc3cBHTNpV",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2048900068523266544",
-      "publishedAt": "2026-04-27T23:00:17.000Z",
-      "score": 51.55,
+      "sourceUrl": "https://x.com/claudeai/status/2049143438281445811",
+      "publishedAt": "2026-04-28T15:07:21.000Z",
+      "score": 155.51,
       "engagement": {
-        "likes": 135,
-        "retweets": 3,
-        "replies": 14
+        "likes": 34320,
+        "retweets": 3037,
+        "replies": 1248
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2049236793761976357",
+      "type": "tweet",
+      "builder": "Dan Shipper",
+      "title": "在 Codex 中使用 Posthog 浏览代码中的 Posthog 体验要好得多……",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：using posthog inside of codex it is SO MUCH better to browse posthog inside of codex—codex can write queries and see…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "using posthog inside of codex it is SO MUCH better to browse posthog inside of code…",
+      "originalBody": "using posthog inside of codex\n\nit is SO MUCH better to browse posthog inside of codex—codex can write queries and see the results, and it makes our collaboration extremely seamless. codex can also kick off agents that write PRs or run production DB requests to back up insights it's finding\n\na browser inside your desktop coding orchestration tool > an agent in your browser",
+      "translatedTitle": "在 Codex 中使用 Posthog 浏览代码中的 Posthog 体验要好得多……",
+      "translatedBody": "在 Codex 中使用 Posthog\n\n在 Codex 中浏览 Posthog 简直太棒了——Codex 可以编写查询并查看结果，这使得我们的协作无比顺畅。Codex 还可以启动代理来编写 PR 或运行生产数据库请求，以验证其发现的洞察。\n\n桌面代码编排工具中的浏览器 > 浏览器中的代理",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/danshipper/status/2049236793761976357",
+      "publishedAt": "2026-04-28T21:18:19.000Z",
+      "score": 78.19,
+      "engagement": {
+        "likes": 184,
+        "retweets": 8,
+        "replies": 15
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2049027061768192288",
+      "id": "2049258231042805806",
       "type": "tweet",
       "builder": "Zara Zhang",
-      "title": "我认识的最先进的人工智能用户每天只与一个客服人员对话，而不是多个……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The most sophisticated AI users I know are talking to just ONE agent daily, not multiple agents That agents will then…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The most sophisticated AI users I know are talking to just ONE agent daily, not mul…",
-      "originalBody": "The most sophisticated AI users I know are talking to just ONE agent daily, not multiple agents\n\nThat agents will then assign tasks to other subagents/spawn subagents as needed\n\nBut the day-to-day communication is with just 1 agent, who serves as the overall orchestrator/router",
-      "translatedTitle": "我认识的最先进的人工智能用户每天只与一个客服人员对话，而不是多个……",
-      "translatedBody": "我认识的最厉害的AI用户每天只跟一个代理对话，而不是多个代理。\n\n这些代理会根据需要将任务分配给其他子代理/生成子代理。\n\n但日常沟通只与一个代理进行，这个代理充当着总协调者/路由的角色。",
+      "title": "不要让AI生成图像；让它们生成SVG！",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Don't get AI to generate images; get them to generate SVGs! Vector illustrations that seamlessly blend into the desig…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Don't get AI to generate images; get them to generate SVGs!",
+      "originalBody": "Don't get AI to generate images; get them to generate SVGs!\n\nVector illustrations that seamlessly blend into the design style is the perfect complement to HTML Slides \n\n(Here I'm using the @QuiverAI API inside @AnyGenIO's Frontend Slides feature https://t.co/HDcFWYzJXa) https://t.co/taG21gR6yj",
+      "translatedTitle": "不要让AI生成图像；让它们生成SVG！",
+      "translatedBody": "别让 AI 生成图像；让它们生成 SVG！\n\n与设计风格完美融合的矢量插图是 HTML 幻灯片的理想补充。\n\n（这里我使用了 @QuiverAI API，并将其集成到 @AnyGenIO 的前端幻灯片功能中 https://t.co/HDcFWYzJXa）https://t.co/taG21gR6yj",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2049027061768192288",
-      "publishedAt": "2026-04-28T07:24:55.000Z",
-      "score": 50.44,
+      "sourceUrl": "https://x.com/zarazhangrui/status/2049258231042805806",
+      "publishedAt": "2026-04-28T22:43:30.000Z",
+      "score": 76.67,
       "engagement": {
-        "likes": 34,
-        "retweets": 3,
-        "replies": 15
+        "likes": 120,
+        "retweets": 14,
+        "replies": 12
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2049232534064734331",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "如果我们以人工智能模型能够在哪个时代的游戏中一击必杀来衡量其优劣……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：What if we measure how good AI models are by what era of games it can one shot a single level for (or maybe build wit…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "What if we measure how good AI models are by what era of games it can one shot a si…",
+      "originalBody": "What if we measure how good AI models are by what era of games it can one shot a single level for (or maybe build with 30 min of work):\n\nAtari\nNES\nSNES, Sega Genesis\nPlayStation, N64\nPS2, Xbox, GameCube, Dreamcast\nXbox 360, PS3, Wii\nPS4, Xbox One, Switch\nPS5, Xbox Series X/S\n\nI think we're still in the NES era?",
+      "translatedTitle": "如果我们以人工智能模型能够在哪个时代的游戏中一击必杀来衡量其优劣……",
+      "translatedBody": "如果我们用人工智能模型能够一击通关（或者用30分钟就能完成）哪个时代的游戏关卡来衡量它的性能，结果会怎样呢？\n\nAtari\n\nNES\n\nSNES、Sega Genesis\n\nPlayStation、N64\n\nPS2、Xbox、GameCube、Dreamcast\n\nXbox 360、PS3、Wii\n\nPS4、Xbox One、Switch\n\nPS5、Xbox Series X/S\n\n我觉得我们现在还处于NES时代吧？",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2049232534064734331",
+      "publishedAt": "2026-04-28T21:01:23.000Z",
+      "score": 69.35,
+      "engagement": {
+        "likes": 22,
+        "retweets": 0,
+        "replies": 12
+      },
+      "matchedFocusAreas": [
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2049163935182733396",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "智能体编码对于希望获得更多收益的软件开发人员来说是一大福音……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Agentic coding is a huge boon for software developers that want to get far more done, great for IT people to build va…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Agentic coding is a huge boon for software developers that want to get far more don…",
+      "originalBody": "Agentic coding is a huge boon for software developers that want to get far more done, great for IT people to build vastly more custom systems internally, great for domain experts that want to automate workflows or wire systems together, and absolutely fantastic for anyone curious to learn how to start coding. \n\nWhat it’s less great for is casually building complex software that you have to maintain on an ongoing basis and take on all the risk for. Upgrades, maintenance, keeping up to date with latest security issues, and so on, are taxes most knowledge workers aren’t familiar with or prepared for.\n\nNet net: we’re going to get 100X more software and vastly more software developers in the future. But that’s different from *everyone* rolling their own.",
+      "translatedTitle": "智能体编码对于希望获得更多收益的软件开发人员来说是一大福音……",
+      "translatedBody": "智能编码对于想要大幅提高工作效率的软件开发人员来说是一大福音，对于希望在内部构建更多定制化系统的 IT 人员来说也大有裨益，对于想要自动化工作流程或连接系统的领域专家来说更是如虎添翼，对于任何想要学习如何开始编程的人来说更是绝佳之选。\n\n然而，它并不适合随意构建需要持续维护并承担所有风险的复杂软件。升级、维护、及时应对最新的安全问题等等，对于大多数知识工作者来说都是既不熟悉也不准备承担的“税负”。\n\n总而言之：未来软件数量和软件开发人员的数量都将增长 100 倍。但这与*每个人*都自行开发软件是截然不同的。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2049163935182733396",
+      "publishedAt": "2026-04-28T16:28:48.000Z",
+      "score": 57.97,
+      "engagement": {
+        "likes": 419,
+        "retweets": 33,
+        "replies": 49
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2049168449709170874",
+      "type": "tweet",
+      "builder": "Amjad Masad",
+      "title": "这些幻灯片真的很不错。",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The slides are actually really good. I used to pay people to make me slides and the process was always frustrating, b…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "The slides are actually really good.",
+      "originalBody": "The slides are actually really good. I used to pay people to make me slides and the process was always frustrating, but now I actually enjoy making them. https://t.co/vILNW8SC6u",
+      "translatedTitle": "这些幻灯片真的很不错。",
+      "translatedBody": "这些幻灯片真的太棒了。我以前花钱请人帮我做幻灯片，过程总是很让人沮丧，但现在我反而很享受自己做幻灯片的过程。https://t.co/vILNW8SC6u",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/amasad/status/2049168449709170874",
+      "publishedAt": "2026-04-28T16:46:44.000Z",
+      "score": 57.23,
+      "engagement": {
+        "likes": 411,
+        "retweets": 12,
+        "replies": 33
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -247,9 +241,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-04-28T08:22:09.081Z",
-    "totalCandidates": 29,
-    "textQualifiedCandidates": 15,
+    "upstreamGeneratedAt": "2026-04-29T08:13:04.657Z",
+    "totalCandidates": 34,
+    "textQualifiedCandidates": 18,
     "selectedTweets": 8
   }
 }
