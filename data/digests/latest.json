@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-01",
-  "generatedAt": "2026-05-01T03:50:00.281Z",
+  "date": "2026-05-02",
+  "generatedAt": "2026-05-02T03:23:16.650Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-01",
-  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 34 条候选动态里，筛出 14 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-05-02",
+  "summary": "今天最值得看的是 Andrej Karpathy 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 41 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,26 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2049652947408372187",
+      "id": "2049903821095354523",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "> 是我 > “互联网充斥着人工智能垃圾，我们需要低背景代币” > “w…",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：> be me > \"the internet is polluted by ai slop, we need low-background tokens\" > \"wouldnt it be cool if we could time…",
+      "builder": "Andrej Karpathy",
+      "title": "大约一周前在 Sequoia Ascent 2026 上的炉边谈话。",
+      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Fireside chat at Sequoia Ascent 2026 from a ~week ago. Some highlights: The first theme I tried to push on is that LL…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "> be me > \"the internet is polluted by ai slop, we need low-background tokens\" > \"w…",
-      "originalBody": "> be me\n> \"the internet is polluted by ai slop, we need low-background tokens\"\n> \"wouldnt it be cool if we could time travel and see what our ancestors 100 years ago would say to us\"\n> all the existing vintage models are like <4B\n> we need a chat tuned 13B vintage model \n> assemble avengers of ML incl the GPT-1/2 guy\n> need vintage tokens\n> train new vintage OCR model for old books, newspapers, periodicals, scientific journals, patents, and case law\n> need vintage RLHF but cant use chat \n> synthesize RLHF pairs from historical texts with regular structure eg etiquette manuals, letter-writing manuals, cookbooks, dictionaries, encyclopedias, and poetry and fable collections, shove it into ChatML\n> train it\n> future knowledge still got in somehow\n> dammit.jpg\n> train new SOTA document-level n-gram-based anachronism classifier\n> meticulously curate hundreds of billions of pre-1931 tokens (public domain)\n> train it\n> ok! it checks out vs our FineWeb baseline!\n> release it\n> it's the most confidently racist model ever released by humankind\n> mfw",
-      "translatedTitle": "> 是我 > “互联网充斥着人工智能垃圾，我们需要低背景代币” > “w…",
-      "translatedBody": "> 是我\n\n> “互联网被人工智能垃圾污染了，我们需要低背景词元”\n\n> “如果我们能穿越时空，看看100年前的祖先会对我们说什么，那该多酷啊”\n\n> 所有现有的复古模型都只有不到40亿个字符\n\n> 我们需要一个针对聊天优化的130亿个字符的复古模型\n\n> 召集机器学习复仇者联盟，包括GPT-1/2的开发者\n\n> 需要复古词元\n\n> 为旧书、报纸、期刊、科学期刊、专利和案例法训练新的复古OCR模型\n\n> 需要复古RLHF，但不能用聊天记录\n\n> 从具有规则结构的历史文本（例如礼仪手册、书信写作手册、食谱、词典、百科全书以及诗歌和寓言集）中合成RLHF对，并将其导入ChatML\n\n> 训练它\n\n> 未来的知识不知怎么还是混进来了\n\n> 该死.jpg\n\n> 训练新的SOTA文档级模型基于 n-gram 的时代错乱分类器\n\n> 精心收集数千亿个 1931 年之前的词元（公共领域）\n\n> 训练模型\n\n> 成功！与我们的 FineWeb 基线模型对比合格！\n\n> 发布模型\n\n> 这是人类有史以来发布的最具种族歧视倾向的模型\n\n> 我的表情",
+      "originalTitle": "Fireside chat at Sequoia Ascent 2026 from a ~week ago.",
+      "originalBody": "Fireside chat at Sequoia Ascent 2026 from a ~week ago. Some highlights:\n\nThe first theme I tried to push on is that LLMs are about a lot more than just speeding up what existed before (e.g. coding). Three examples of new horizons:\n\n1. menugen: an app that can be fully engulfed by LLMs, with no classical code needed: input an image, output an image and an LLM can natively do the thing.\n2. install .md skills instead of install .sh scripts. Why create a complex Software 1.0 bash script for e.g. installing a piece of software if you can write the installation out in words and say \"just show this to your LLM\".  The LLM is an advanced interpreter of English and can intelligently target installation to your setup, debug everything inline, etc.\n3. LLM knowledge bases as an example of something that was *impossible* with classical code because it's computation over unstructured data (knowledge) from arbitrary sources and in arbitrary formats, including simply text articles etc.\n\nI pushed on these because in every new paradigm change, the obvious things are always in the realm of speeding up or somehow improving what existed, but here we have examples of functionality that either suddenly perhaps shouldn't even exist (1,2), or was fundamentally not possible before (3).\n\nThe second (ongoing) theme is trying to explain the pattern of jaggedness in LLMs. How it can be true that a single artifact will simultaneously 1) coherently refactor a 100,000-line code base *and* 2) tell you to walk to the car wash to wash your car. I previously wrote about the source of this as having to do with verifiability of a domain, here I expand on this as having to also do with economics because revenue/TAM dictates what the frontier labs choose to package into training data distributions during RL. You're either in the data distribution (on the rails of the RL circuits) and flying or you're off-roading in the jungle with a machete, in relative terms. Still not 100% satisfied with this, but it's an ongoing struggle to build an accurate model of LLM capabilities if you wish to practically take advantage of their power while avoiding their pitfalls, which brings me to...\n\nLast theme is the agent-native economy. The decomposition of products and services into sensors, actuators and logic (split up across all of 1.0/2.0/3.0 computing paradigms), how we can make information maximally legible to LLMs, some words on the quickly emerging agentic engineering and its skill set, related hiring practices, etc., possibly even hints/dreams of fully neural computing handling the vast majority of computation with some help from (classical) CPU coprocessors.",
+      "translatedTitle": "大约一周前在 Sequoia Ascent 2026 上的炉边谈话。",
+      "translatedBody": "大约一周前，我在 Sequoia Ascent 2026 大会上进行了一次炉边谈话。以下是一些要点：\n\n我首先强调的是，LLM（逻辑逻辑模型）的意义远不止于加速现有流程（例如编码）。以下是三个新方向的例子：\n\n1. menugen：一个可以被 LLM 完全掌控的应用程序，无需编写任何传统代码：只需输入图像，输出图像，LLM 即可原生完成操作。\n\n2. 安装 .md 技能，而不是安装 .sh 脚本。既然可以用文字描述安装过程，然后告诉 LLM “只需把这段文字展示给你的 LLM 即可”，为什么还要编写复杂的 Software 1.0 bash 脚本来安装软件呢？ LLM 是一个高级英语解释器，能够智能地根据您的设置进行安装，并能进行所有内联调试等等。\n\n3. LLM 知识库就是一个例子，它展现了传统代码无法实现的功能，因为它需要对来自任意来源、格式任意的非结构化数据（知识）进行计算，包括纯文本文章等等。\n\n我之所以着重讨论这些，是因为在每一次新的范式转变中，显而易见的改进总是围绕着加速或提升现有功能展开，但这里我们却看到了一些功能示例，这些功能要么突然间可能根本不应该存在（1、2），要么在以前根本无法实现（3）。\n\n第二个（持续进行的）主题是试图解释 LLM 中存在的锯齿状模式。一个单一的组件如何能够同时做到以下两点：1）对一个 10 万行代码库进行连贯的重构；*并且* 2）告诉你去洗车店洗车。我之前写过，这个问题源于领域的可验证性，而在这里，我进一步阐述，它也与经济学有关，因为收入/TAM（潜在市场规模）决定了前沿实验室在强化学习过程中选择将哪些内容打包到训练数据分布中。相对而言，要么你身处数据分布之中（沿着强化学习的轨道），一路顺风顺水；要么你就像拿着砍刀在丛林里越野。我对这个结论仍然不太满意，但如果你想在实际应用中利用低阶学习模型（LLM）的强大功能，同时避免其陷阱，那么构建一个准确的LLM能力模型始终是一个挑战，这也引出了……\n\n最后一个主题是智能体原生经济。将产品和服务分解为传感器、执行器和逻辑（涵盖所有 1.0/2.0/3.0 计算范式），如何使信息对 LLM 最大程度地易读，关于快速兴起的智能体工程及其技能集、相关招聘实践等的一些说明，甚至可能暗示/设想完全神经计算在（经典）CPU 协处理器的帮助下处理绝大多数计算。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2049652947408372187",
-      "publishedAt": "2026-04-30T00:51:58.000Z",
-      "score": 195.93,
+      "sourceUrl": "https://x.com/karpathy/status/2049903821095354523",
+      "publishedAt": "2026-04-30T17:28:50.000Z",
+      "score": 218.77,
       "engagement": {
-        "likes": 37,
-        "retweets": 2,
-        "replies": 9
+        "likes": 3402,
+        "retweets": 411,
+        "replies": 144
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -52,159 +52,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2049712078836170843",
-      "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "我们即将开始推广 GPT-5.5-Cyber，这是一种前沿的网络安全模型，旨在进行关键性测试……",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：we're starting rollout of GPT-5.5-Cyber, a frontier cybersecurity model, to critical cyber defenders in the next few…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "we're starting rollout of GPT-5.5-Cyber, a frontier cybersecurity model, to critica…",
-      "originalBody": "we're starting rollout of GPT-5.5-Cyber, a frontier cybersecurity model, to critical cyber defenders in the next few days.\n\nwe will work with the entire ecosystem and the government to figure out trusted access for cyber; we want to rapidly help secure companies/infrastructure.",
-      "translatedTitle": "我们即将开始推广 GPT-5.5-Cyber，这是一种前沿的网络安全模型，旨在进行关键性测试……",
-      "translatedBody": "我们将在未来几天内开始向关键网络安全防御人员推广 GPT-5.5-Cyber，这是一个前沿的网络安全模型。\n\n我们将与整个生态系统和政府合作，共同探索网络安全的可信访问方案；我们希望能够迅速帮助企业和基础设施提升安全性。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2049712078836170843",
-      "publishedAt": "2026-04-30T04:46:56.000Z",
-      "score": 172.38,
-      "engagement": {
-        "likes": 5595,
-        "retweets": 389,
-        "replies": 680
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2049524400131838436",
-      "type": "tweet",
-      "builder": "Josh Woodward",
-      "title": "Gemini新增功能：生成文件并导出文件；告诉Gemini你想创建什么……",
-      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：New in Gemini: Generate files and export them Tell Gemini what you want to create and the format, and it now does the…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "New in Gemini: Generate files and export them Tell Gemini what you want to create a…",
-      "originalBody": "New in Gemini: Generate files and export them\n\nTell Gemini what you want to create and the format, and it now does the work for you.\n\nNow supporting:\n📄 Google Docs, Word (.docx) & PDFs\n📊 Google Sheets, Excel (.xlsx) & CSV\n🖥️ Google Slides\n🛠️ Markdown, LaTeX, TXT, RTF\n\nAvailable now on all surfaces globally!",
-      "translatedTitle": "Gemini新增功能：生成文件并导出文件；告诉Gemini你想创建什么……",
-      "translatedBody": "Gemini 新增功能：生成并导出文件\n\n告诉 Gemini 你想创建什么以及文件格式，它现在就能帮你搞定。\n\n现已支持：\n\n📄 Google Docs、Word (.docx) 和 PDF\n\n📊 Google Sheets、Excel (.xlsx) 和 CSV\n\n🖥️ Google Slides\n\n🛠️ Markdown、LaTeX、TXT、RTF\n\n现已在全球所有平台上线！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/joshwoodward/status/2049524400131838436",
-      "publishedAt": "2026-04-29T16:21:09.000Z",
-      "score": 166.76,
-      "engagement": {
-        "likes": 2419,
-        "retweets": 212,
-        "replies": 117
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2049523910173966597",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "Claude Managed Agents 的最佳应用：ARIA，作者：Idriss Benguezzou 和 Adam Hnaien，来自 F…",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Best Use of Claude Managed Agents: ARIA by Idriss Benguezzou and Adam Hnaien from France A maintenance system that re…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Best Use of Claude Managed Agents: ARIA by Idriss Benguezzou and Adam Hnaien from F…",
-      "originalBody": "Best Use of Claude Managed Agents: ARIA by Idriss Benguezzou and Adam Hnaien from France\n\nA maintenance system that reads your machine manuals, and when something goes wrong, creates a work order for your technician with the fix that worked last time.\n\nhttps://t.co/XbKCYMLzb8",
-      "translatedTitle": "Claude Managed Agents 的最佳应用：ARIA，作者：Idriss Benguezzou 和 Adam Hnaien，来自 F…",
-      "translatedBody": "Claude Managed Agents 的最佳应用案例：法国 Idriss Benguezzou 和 Adam Hnaien 开发的 ARIA\n\n这套维护系统能够读取您的机器手册，并在出现故障时自动生成工单，并附上上次有效的修复方案，供您的技术人员参考。\n\nhttps://t.co/XbKCYMLzb8",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2049523910173966597",
-      "publishedAt": "2026-04-29T16:19:13.000Z",
-      "score": 155.35,
-      "engagement": {
-        "likes": 293,
-        "retweets": 14,
-        "replies": 11
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2049643473339601388",
+      "id": "2050068468498842058",
       "type": "tweet",
       "builder": "Swyx",
-      "title": "我还没做研究把它和同类产品进行比较，但我很高兴我们拥有一个……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：i havent done the work to compare it to peers but i'm just excited that we have a base model and honestly for all the…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "i havent done the work to compare it to peers but i'm just excited that we have a b…",
-      "originalBody": "i havent done the work to compare it to peers but i'm just excited that we have a base model and honestly for all the people that complained about the death of the completions API (@deepfates ? or deepfates adjacent) not enough people are experimenting with weird usages and finetunes of the base models we DO get\n\nhttps://t.co/TDXdKTFC74",
-      "translatedTitle": "我还没做研究把它和同类产品进行比较，但我很高兴我们拥有一个……",
-      "translatedBody": "我还没做对比测试，但我很兴奋我们现在有了一个基础模型。说实话，对于那些抱怨补全 API 被弃用的人（@deepfates？或者 deepfates adjacent），很少有人尝试对我们现有的基础模型进行各种奇特的用法和微调。\n\nhttps://t.co/TDXdKTFC74",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2049643473339601388",
-      "publishedAt": "2026-04-30T00:14:19.000Z",
-      "score": 137,
-      "engagement": {
-        "likes": 6,
-        "retweets": 0,
-        "replies": 2
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2049523908584386582",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "“保持思考”奖：智利设计师 Benjamin Torralbo 的 MaestrIA，一款家用维修工具……",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：\"Keep Thinking\" Prize: MaestrIA by Benjamin Torralbo from Chile A home repair tool that photographs damage, returns a…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "\"Keep Thinking\" Prize: MaestrIA by Benjamin Torralbo from Chile A home repair tool…",
-      "originalBody": "\"Keep Thinking\" Prize: MaestrIA by Benjamin Torralbo from Chile\n\nA home repair tool that photographs damage, returns a diagnosis, prices parts at local stores, and drafts a message to a nearby tradesperson. Built by a carpenter’s son.\n\nhttps://t.co/qSSJWqYIdy",
-      "translatedTitle": "“保持思考”奖：智利设计师 Benjamin Torralbo 的 MaestrIA，一款家用维修工具……",
-      "translatedBody": "“持续思考”奖：智利人本杰明·托拉尔博设计的 MaestrIA\n\n这是一款家用维修工具，可以拍摄损坏照片、进行故障诊断、查询附近商店的零件价格，并自动向附近的维修人员发送信息。它出自一位木匠的儿子之手。\n\nhttps://t.co/qSSJWqYIdy",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2049523908584386582",
-      "publishedAt": "2026-04-29T16:19:12.000Z",
-      "score": 131.54,
-      "engagement": {
-        "likes": 355,
-        "retweets": 30,
-        "replies": 6
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2049530878083379427",
-      "type": "tweet",
-      "builder": "Aditya Agarwal",
-      "title": "一些关于代理的观察，源于我花费大量时间安装、使用和调试代理……",
-      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Some observations on agents from a lot of time spent installing, using, debugging and building things with OpenClaw,…",
+      "title": "我最近在@jacobeffron 的播客节目中说过，“编写代码来突破隔离”是……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：i said on @jacobeffron's pod recently that \"coding agents breaking containment\" is the breakout theme of the year. i…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Some observations on agents from a lot of time spent installing, using, debugging a…",
-      "originalBody": "Some observations on agents from a lot of time spent installing, using, debugging and building things with OpenClaw, Hermes, etc.\n\n- Most people who rave about OpenClaw, HermesAgent etc. have not actually used it. Facts.\n\n- Agents are developer products today. They are so so so far from being consumer grade in terms of delight, simplicity, reliability etc.\n\n- I wish the agents generated more dynamic interfaces. Don't give me chat. Give me interactive, dynamic apps/webpages. I suspect this will be a next big vector of innovation.\n\n- The agents are ultimately a wrapper to code-generation and tool-calling....not to \"generative AI\". This is important to grok. These agents are doing most of their \"work\" through iterative tool calling.\n\n- Once you understand the core loop behind agentic AI, old school \"chat AI\" doesn't make sense. The idea of an \"always-on\" agent that actually adapts, learns and maintains state is a LOT more compelling than a one-off chat prompt. The latter feels much more like a search query.\n\n- So much of mangling with agents today is basically setting it up to use browsers and/or your computer. And there are so many constraints!\n\n- Installing and running openclaw feels a lot like running Linux in the early 2000s. You spend a lot of time compiling device drivers, setting up configurations etc. You feel a real sense of accomplishment from jerry-rigging everything together but it is a LOT of work to get to the point of utility",
-      "translatedTitle": "一些关于代理的观察，源于我花费大量时间安装、使用和调试代理……",
-      "translatedBody": "一些关于智能体（Agent）的观察，源于我花费大量时间安装、使用、调试和构建 OpenClaw、Hermes 等工具。\n\n- 大多数对 OpenClaw、HermesAgent 等工具赞不绝口的人实际上并没有使用过它们。这是事实。\n\n- 如今的智能体主要面向开发者。它们在用户体验、易用性、可靠性等方面距离消费级产品还相差甚远。\n\n- 我希望智能体能够生成更动态的界面。不要给我聊天功能，给我交互式的、动态的应用/网页。我预感这将是下一个重要的创新方向。\n\n- 智能体本质上是代码生成和工具调用的封装层，而不是“生成式人工智能”。理解这一点至关重要。这些智能体的大部分“工作”都是通过迭代调用工具来完成的。\n\n- 一旦你理解了智能体人工智能背后的核心循环，传统的“聊天式人工智能”就显得毫无意义了。一个能够真正适应环境、学习并保持状态的“始终在线”智能体，其理念远比一次性的聊天提示更具吸引力。后者更像是搜索查询。\n\n——如今，对智能体的各种改造基本上都只是将其配置为使用浏览器和/或你的电脑。而这其中存在着诸多限制！\n\n——安装和运行 OpenClaw 的感觉很像 2000 年代初期的 Linux 系统。你需要花费大量时间编译设备驱动程序、设置配置等等。虽然把所有东西拼凑起来确实很有成就感，但要达到真正实用的程度，需要付出大量的努力。",
+      "originalTitle": "i said on @jacobeffron's pod recently that \"coding agents breaking containment\" is…",
+      "originalBody": "i said on @jacobeffron's pod recently that \"coding agents breaking containment\" is the breakout theme of the year. i meant it - this is the year all knowledge workers, not just coders, get AGI-pilled.\n\nfor the AIE EU closing note (https://t.co/P1gILAWvlj), I gave a short talk on how we use agents to run @aidotengineer as a Tiny Team that now serves ~1m unique developers a month for free all around the world, for everything from CMS to renting lobster inflatables.\n\nyes I use @openclaw personally and as a team we use @cognition's Devin and @townai, but this isn't about any one agent; it's about all of them, and how you are probably not trying hard enough to use them for daily knowledge work. \n\ni hope this gives you agent productivity ideas for you and your team.",
+      "translatedTitle": "我最近在@jacobeffron 的播客节目中说过，“编写代码来突破隔离”是……",
+      "translatedBody": "我最近在 @jacobeffron 的播客节目中提到，“打破隔离的编码代理”是今年的热门主题。我说的没错——今年所有知识工作者，而不仅仅是程序员，都将接受通用人工智能（AGI）的洗礼。\n\n在 AIE EU 的闭幕致辞中（https://t.co/P1gILAWvlj），我做了一个简短的演讲，介绍了我们如何使用智能代理以小型团队的形式运营 @aidotengineer，该团队现在每月为全球约 100 万名独立开发者免费提供服务，涵盖从内容管理系统 (CMS) 到租赁龙虾充气玩具等各种内容。\n\n是的，我个人使用 @openclaw，我们团队使用 @cognition 的 Devin 和 @townai，但这并非针对任何单一的智能代理；而是关于所有智能代理，以及你可能还没有充分尝试将它们用于日常知识工作。\n\n我希望这能为你和你的团队带来一些关于提高智能代理效率的想法。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/adityaag/status/2049530878083379427",
-      "publishedAt": "2026-04-29T16:46:54.000Z",
-      "score": 82.35,
+      "sourceUrl": "https://x.com/swyx/status/2050068468498842058",
+      "publishedAt": "2026-05-01T04:23:05.000Z",
+      "score": 171.33,
       "engagement": {
-        "likes": 361,
-        "retweets": 23,
-        "replies": 59
+        "likes": 18,
+        "retweets": 1,
+        "replies": 19
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -213,26 +80,165 @@
       "sourceType": "x"
     },
     {
-      "id": "2049714403050918067",
+      "id": "2049898741772021991",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "开始招聘和重新培训新的代理工程岗位人员，以负责*内部*职能……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Starting to hire and retrain for new agent engineering roles for *internal* functions to help get more powerful agent…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Starting to hire and retrain for new agent engineering roles for *internal* functio…",
-      "originalBody": "Starting to hire and retrain for new agent engineering roles for *internal* functions to help get more powerful agents working well on critical business processes. I expect this type of role to be a very big deal over time at Box and other companies.\n\nIt looks something like an internal FDE, whose job it is to wire up internal systems and get agents working with them effectively. The person will be extremely technical and capable of building secure, governed agents for internal workflows that connect to business systems (like Box, Salesforce, Workday, etc.), and codify workflows in skills.\n\nIn some cases this person may understand the business process well enough to do it fully, but in most cases I expect them to work with the business directly in an embedded fashion. Ironically, that may introduce another new role on the business side that is more akin to agent product management for internal processes. The key is that you need technical + process people that can span multiple teams or functions in an organization. It’s not about brining automation to a job, but bringing automation to a process.\n\nThis is going to be a very big trend in most companies going forward. Fun to watch the early innings of what this will look like.",
-      "translatedTitle": "开始招聘和重新培训新的代理工程岗位人员，以负责*内部*职能……",
-      "translatedBody": "我们正在为*内部*职能部门招聘和重新培训新的代理工程师，以帮助更强大的代理在关键业务流程中高效运行。我预计，随着时间的推移，这类职位在 Box 和其他公司都将变得非常重要。\n\n它类似于内部功能开发工程师 (FDE)，其职责是连接内部系统并确保代理能够高效地与之协同工作。该职位要求应聘者具备极强的技术能力，能够为连接到业务系统（例如 Box、Salesforce、Workday 等）的内部工作流程构建安全、受监管的代理，并将工作流程编码为技能。\n\n在某些情况下，该职位要求应聘者对业务流程的理解足够深入，能够独立完成所有工作，但在大多数情况下，我希望他们能够以嵌入式的方式直接与业务部门合作。具有讽刺意味的是，这可能会在业务方面催生另一个新职位，该职位更类似于内部流程的代理产品管理。关键在于，我们需要能够跨越组织内多个团队或职能部门的技术和流程方面的人才。这并非是将自动化应用于某个具体工作，而是将自动化应用于整个流程。\n\n这将成为未来大多数公司的一个非常重要的趋势。观察这一趋势的早期发展阶段会很有趣。",
+      "builder": "Claude",
+      "title": "许多安全团队都询问如何在不引入 st…的情况下，将 Opus 4.7 集成到他们的代码中。",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Many security teams have asked how to put Opus 4.7 to work on their code without standing up custom tooling. Claude S…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Many security teams have asked how to put Opus 4.7 to work on their code without st…",
+      "originalBody": "Many security teams have asked how to put Opus 4.7 to work on their code without standing up custom tooling. Claude Security is that on-ramp: no API integration or agent build required.",
+      "translatedTitle": "许多安全团队都询问如何在不引入 st…的情况下，将 Opus 4.7 集成到他们的代码中。",
+      "translatedBody": "许多安全团队都询问如何在不搭建自定义工具的情况下，将 Opus 4.7 集成到他们的代码中。Claude Security 正是为此而生：无需 API 集成或代理构建。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2049714403050918067",
-      "publishedAt": "2026-04-30T04:56:10.000Z",
-      "score": 80.74,
+      "sourceUrl": "https://x.com/claudeai/status/2049898741772021991",
+      "publishedAt": "2026-04-30T17:08:39.000Z",
+      "score": 158.21,
       "engagement": {
-        "likes": 226,
-        "retweets": 10,
-        "replies": 32
+        "likes": 535,
+        "retweets": 16,
+        "replies": 12
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2049898743772696745",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "自二月份的研究预览以来，已有数百家机构在产品上使用了该研究成果……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Since the research preview in February, hundreds of organizations have used it on production code, catching issues ex…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Since the research preview in February, hundreds of organizations have used it on p…",
+      "originalBody": "Since the research preview in February, hundreds of organizations have used it on production code, catching issues existing scanners had missed. \n\nBased on early feedback, we've added scheduled scans, directory-level targeting, CSV and Markdown exports, webhook notifications for new findings, and dismissals that carry forward across scans.",
+      "translatedTitle": "自二月份的研究预览以来，已有数百家机构在产品上使用了该研究成果……",
+      "translatedBody": "自二月份的研究预览版发布以来，已有数百家机构在生产代码中使用了该工具，成功发现了现有扫描器遗漏的问题。\n\n根据早期反馈，我们新增了定时扫描、目录级目标定位、CSV 和 Markdown 导出、新发现的 Webhook 通知以及跨扫描保留的忽略项等功能。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2049898743772696745",
+      "publishedAt": "2026-04-30T17:08:40.000Z",
+      "score": 156.79,
+      "engagement": {
+        "likes": 402,
+        "retweets": 13,
+        "replies": 11
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2049874181509034151",
+      "type": "tweet",
+      "builder": "Aditya Agarwal",
+      "title": "攻击者拥有人工智能。",
+      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：The attackers have AI. So do the defenders. Cybersecurity has a new shape: AI is both the threat and the only viable…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "The attackers have AI.",
+      "originalBody": "The attackers have AI. So do the defenders.\n\nCybersecurity has a new shape: AI is both the threat and the only viable solution.\n\n@nikesharora, CEO of @PaloAltoNtwks, joined me at @southpkcommons to break down what’s next.\n\n(00:30) Big problems vs. fast wins\n(04:00) Joining Google\n(07:00) Larry Page's product obsession\n(10:00) He read every hiring packet himself\n(13:00) What Silicon Valley gets wrong about Masa Son\n(16:00) Successful founders never wish they took less risk\n(17:00) Joining Palo Alto knowing nothing about cybersecurity\n(20:00) What incumbents got wrong when ChatGPT launched\n(23:00) Security was never built into AI\n(28:00) No enterprise knows what's running inside its stack\n(31:00) AI finds bad code faster than humans ever could\n(35:00) The only way to fix the chaos is more AI\n(38:00) AI won't just automate work—it raises the floor\n(41:00) Foundation models vs. specialized stacks\n(45:00) Why communication is 30% of the job at scale",
+      "translatedTitle": "攻击者拥有人工智能。",
+      "translatedBody": "攻击者拥有人工智能，防御者也拥有。\n\n网络安全格局已然改变：人工智能既是威胁，也是唯一可行的解决方案。\n\n@PaloAltoNtwks 的首席执行官 @nikesharora 与我一同出席了 @southpkcommons 活动，探讨了网络安全的未来发展趋势。\n\n（00:30）大问题 vs. 快速成功\n\n（04:00）加入谷歌\n\n（07:00）拉里·佩奇对产品的痴迷\n\n（10:00）他亲自阅读每一份招聘资料\n\n（13:00）硅谷对孙正义的误解\n\n（16:00）成功的创始人从不后悔当初承担的风险较小\n\n（17:00）加入帕洛阿尔托时对网络安全一无所知\n\n（20:00）ChatGPT 发布时，现有企业犯了哪些错误\n\n（23:00）人工智能从未内置安全性\n\n（28:00）没有企业了解其技术栈内部运行着什么\n\n（31:00）人工智能发现错误代码的速度远超人类\n\n（35:00）解决混乱的唯一方法是更多地使用人工智能\n\n（38:00）人工智能不仅能自动化工作，还能提高工作效率\n\n（41:00）基础模型 vs. 专业技术栈\n\n（45:00）为什么沟通至关重要规模化工作中 30% 的工作",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/adityaag/status/2049874181509034151",
+      "publishedAt": "2026-04-30T15:31:04.000Z",
+      "score": 99.91,
+      "engagement": {
+        "likes": 86,
+        "retweets": 13,
+        "replies": 4
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2050020603323904369",
+      "type": "tweet",
+      "builder": "Amanda Askell",
+      "title": "我越来越频繁地看到一些关于我的文章，文章的论断非常自信……",
+      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I've increasingly seen content written about me that's asserted very confidently but is also completely made up. We a…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "I've increasingly seen content written about me that's asserted very confidently bu…",
+      "originalBody": "I've increasingly seen content written about me that's asserted very confidently but is also completely made up. We all know it's cheap to bullshit on the internet but it's weird to experience it first hand. Anyway, I just hope internet fiction fools a few but doesn't stick 🤷🏼‍♀️",
+      "translatedTitle": "我越来越频繁地看到一些关于我的文章，文章的论断非常自信……",
+      "translatedBody": "我最近看到越来越多关于我的报道，作者语气非常自信，但内容却完全是编造的。我们都知道在网上胡说八道很廉价，但亲身经历还是挺奇怪的。总之，我只希望这些网络谣言能骗过一些人，但别真的成真🤷🏼‍♀️",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/AmandaAskell/status/2050020603323904369",
+      "publishedAt": "2026-05-01T01:12:54.000Z",
+      "score": 85.84,
+      "engagement": {
+        "likes": 824,
+        "retweets": 21,
+        "replies": 69
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2050051426446152159",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "随着代理商成为软件的最大用户，所有软件都必须可用……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：As agents become the biggest users of software, then all software has to be available in a headless fashion. Agents w…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "As agents become the biggest users of software, then all software has to be availab…",
+      "originalBody": "As agents become the biggest users of software, then all software has to be available in a headless fashion. Agents won’t be using your UI, they’ll be talking to your APIs.\n\nSo the question becomes what is the business model of software and this headless approach in the future?\n\nHere are a few thoughts on how everything plays out based on what we’re seeing and doing at Box, but also conversation with other platforms.\n\n1) Seats don’t go away for *people*. Seats are still a convenient and efficient way to have a customer use technology predictably for a set of users within a baseline set of usage. The key, though, is that when the customer pays for a seat, it has to come with a set of usage of APIs on behalf of that user that the agent can use on their behalf. \n\nThe user will need to be able to interact with their data and the underlying tool via any agent they work with, and an embedded amount of usage will come with the seat. I would imagine most software -Box included- will enable seats to work with their data at a relatively high volume via systems like ChatGPT, Codex, Claude, Gemini, Cursor, Copilot, Perplexity, Factory, Cogniton, et al. quite seamlessly. If you don’t do this, you’re DOA.\n\n2) Agents may have “seats” if they are doing stateful work in the system, but they will be priced very differently than people. Seats (or the equivalent) can make sense when you have an agent that has its own workspace, stores its own data, needs a different set of permissions compared to the user, and so on. \n\nIf a company wants this agent to be around for long period of time, that may very well look like another “user” in the system. Openclaw-style agents highlight what this future could look like. \n\nThe only issue on pricing here is that one customer could decide to do all their work in 1 agent, and another might split it into 1,000 agents. So pricing like a human seat is nearly impossible and impractical; each company will have a different approach for this as it gets tricky perfectly trying to capture all the value within an agent seat.\n\n3) The dominant pricing for headless use that goes above the seat allotment, or when an agent is firmly acting on their own, will be a consumption model. Many enterprises software platforms have previously operated like this with PaaS options, and agents will look like another machine user of their system. \n\nIn some cases the APIs might get priced just as they did previously, but in other cases there may need to be new types of APIs that represent the work an agent would do in one go -more akin to an outcome- instead of a series of API calls. This is especially germane when the headless software also has an agentic use-case embedded within in, such as orchestrating the process within their own system via AI.\n\nOverall the growth of this usage pattern is effectively unbounded as the use-cases for agents operating on data in these systems will dramatically exceed what people do with their data and tools today. Every platform that goes headless (which will be anyone that wants to take advantage of agents) will need to adopt a model like this. Some may fight it initially but it’s an inevitably as there will always be more and more agents outside your platform than people.\n\nOverall, there’s a lot of really interesting changes left to come in software due to headless use of these systems. Early days.",
+      "translatedTitle": "随着代理商成为软件的最大用户，所有软件都必须可用……",
+      "translatedBody": "随着代理商成为软件的最大用户群体，所有软件都必须以无头模式运行。代理商将不再使用您的用户界面，而是直接与您的 API 交互。\n\n因此，问题就变成了：未来软件的商业模式以及这种无头模式的发展方向是什么？\n\n以下是我们基于 Box 的观察和实践，以及与其他平台的交流，对未来发展趋势的一些思考。\n\n1) 席位不会消失。席位仍然是一种便捷高效的方式，让客户能够以可预测的方式，在一定用户基线使用范围内使用技术。关键在于，当客户付费购买席位时，席位必须包含一定数量的 API 使用额度，供代理商代表该用户使用。\n\n用户需要能够通过与其合作的任何代理商与其数据和底层工具进行交互，而席位本身就包含一定数量的 API 使用额度。我估计大多数软件（包括 Box）都会允许用户通过 ChatGPT、Codex、Claude、Gemini、Cursor、Copilot、Perplexity、Factory、Cogniton 等系统，以相对较高的数据量无缝地处理数据。如果不这样做，那就注定失败。\n\n2) 如果代理在系统中执行有状态的工作，它们也可以拥有“席位”，但它们的定价方式与用户截然不同。当代理拥有自己的工作空间、存储自己的数据、需要与用户不同的权限集等等时，席位（或类似概念）就显得很有意义。\n\n如果公司希望某个代理长期运行，那么它很可能被视为系统中的另一个“用户”。Openclaw 风格的代理就展现了这种未来可能的样子。\n\n这里唯一的定价问题是，一个客户可能决定用一个代理完成所有工作，而另一个客户可能将其拆分到 1000 个代理中。因此，像按人头计费那样定价几乎是不可能的，也不切实际；每家公司都会采取不同的方法，因为要完美地捕捉代理席位的所有价值非常棘手。\n\n3) 对于超出席位配额或代理完全自主运行的无头使用情况，主流定价模式将是消费模式。许多企业软件平台之前都采用过这种PaaS模式，代理就像是系统中的另一个机器用户。\n\n在某些情况下，API的定价可能与之前相同，但在其他情况下，可能需要新型API来表示代理一次性完成的工作——更像是结果——而不是一系列API调用。当无头软件本身也嵌入了代理用例时，例如通过AI协调自身系统内的流程，这一点尤为重要。\n\n总而言之，这种使用模式的增长实际上是无限的，因为代理在这些系统中处理数据的用例将远远超过人们今天使用数据和工具的方式。所有采用无头架构的平台（也就是任何想要利用代理的平台）都需要采用类似的模型。有些人可能一开始会抵制，但这势在必行，因为平台之外的代理数量总是会远远超过用户数量。\n\n总而言之，由于这些系统的无头架构应用，软件领域还有许多非常有趣的变革即将到来。目前还处于早期阶段。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2050051426446152159",
+      "publishedAt": "2026-05-01T03:15:22.000Z",
+      "score": 82.4,
+      "engagement": {
+        "likes": 357,
+        "retweets": 26,
+        "replies": 61
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2049866003287576978",
+      "type": "tweet",
+      "builder": "Ryo Lu",
+      "title": "没有观点是固执己见的，人们往往把“固执己见”和“通用”视为对立的概念……",
+      "summary": "Ryo Lu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：no opinion is opinionated people treat \"opinionated\" and \"general purpose\" as opposites. they're not. the moment you…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "no opinion is opinionated people treat \"opinionated\" and \"general purpose\" as oppos…",
+      "originalBody": "no opinion is opinionated\n\npeople treat \"opinionated\" and \"general purpose\" as opposites. they're not.\n\nthe moment you decide what concepts exist, what's visible, what composes, what extends, what hides – you've already expressed a worldview. \"no opinion\" is itself a strong one.\n\nbuilding for universality means saying something very specific: core concepts should be few, durable, and flexible. users shouldn't be trapped in rigid workflows. abstraction matters more than surface specialization. the system should fold into many shapes without breaking its underlying logic.\n\nthis is also why pure customer-centricity falls short. user feedback tells you where friction is. it rarely tells you what the underlying system should be. if you only follow direct user demand, you converge on local maxima – fragmented features, narrow tools, products shaped around current habits rather than enduring concepts.\n\nthat gap is where design lives. the work of simplifying reality below the level that's immediately obvious.\n\ngreat systems don't start by multiplying products. they start by reducing concepts to their essence – until the primitives become clear. then you build paths for each concept to extend, combine, fold into others. the packaging can vary. the essence shouldn't.\n\nthis is what lets a system serve beginners without capping experts. serve one domain without being trapped by it.\n\nflexibility isn't the absence of opinion. it's the result of a strong opinion held in cohesion – not about one ideal workflow, but about which concepts are fundamental, which abstractions should endure, which degrees of freedom matter.\n\nsimple at the core. open at the edges. that's the ultimate opinion.",
+      "translatedTitle": "没有观点是固执己见的，人们往往把“固执己见”和“通用”视为对立的概念……",
+      "translatedBody": "没有观点本身就是一种强硬观点。\n\n人们常常把“强硬观点”和“通用性”视为对立面，但它们并非如此。\n\n当你决定哪些概念存在、哪些是可见的、哪些是构成要素、哪些是延伸、哪些是隐藏的——你其实已经表达了一种世界观。“没有观点”本身就是一种强有力的观点。\n\n构建通用性意味着要表达非常具体的内容：核心概念应该少而精，持久且灵活。用户不应该被困在僵化的工作流程中。抽象比表面上的专业化更重要。系统应该能够折叠成多种形态，而不会破坏其底层逻辑。\n\n这也是为什么纯粹以客户为中心会失败的原因。用户反馈会告诉你哪里存在摩擦，但它很少会告诉你底层系统应该是什么样子。如果你只关注用户的直接需求，你就会陷入局部最优解——功能碎片化、工具狭窄、产品围绕着当前的习惯而非持久的概念而设计。\n\n设计就存在于这个差距之中。设计的工作是将现实简化到显而易见的层面之下。\n\n伟大的系统并非始于产品的倍增。他们首先将概念简化到本质——直到基本要素清晰明了。然后，为每个概念构建扩展、组合和融入其他概念的路径。形式可以多种多样，但本质不应改变。\n\n这使得系统既能服务于初学者，又不限制专家；既能服务于特定领域，又不被其束缚。\n\n灵活性并非缺乏观点，而是源于一种高度凝聚的坚定信念——并非关乎某种理想的工作流程，而是关乎哪些概念是根本的，哪些抽象概念应该保留，哪些自由度至关重要。\n\n核心简洁，边缘开放。这才是最终的理念。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/ryolu_/status/2049866003287576978",
+      "publishedAt": "2026-04-30T14:58:34.000Z",
+      "score": 78.37,
+      "engagement": {
+        "likes": 186,
+        "retweets": 11,
+        "replies": 15
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -242,9 +248,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-04-30T08:17:51.251Z",
-    "totalCandidates": 34,
-    "textQualifiedCandidates": 14,
+    "upstreamGeneratedAt": "2026-05-01T08:08:57.346Z",
+    "totalCandidates": 41,
+    "textQualifiedCandidates": 18,
     "selectedTweets": 8
   }
 }
