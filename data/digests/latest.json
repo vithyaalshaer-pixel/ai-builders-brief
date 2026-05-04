@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-03",
-  "generatedAt": "2026-05-03T03:41:32.252Z",
+  "date": "2026-05-04",
+  "generatedAt": "2026-05-04T03:39:31.488Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-03",
+  "title": "AI Builders Daily | 2026-05-04",
   "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 28 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 23 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,186 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2050427808456077541",
+      "id": "2050671161915371998",
       "type": "tweet",
       "builder": "Sam Altman",
-      "title": "我们将为未来的新品发布策划更大规模的庆祝活动。",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：we will plan bigger parties for future releases. a lot more people wanted to come than we expected. thank you! gonna…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "we will plan bigger parties for future releases.",
-      "originalBody": "we will plan bigger parties for future releases.\n\na lot more people wanted to come than we expected. thank you!\n\ngonna try to think of a really good idea for the next one.",
-      "translatedTitle": "我们将为未来的新品发布策划更大规模的庆祝活动。",
-      "translatedBody": "我们会为未来的新品发布策划更大规模的派对。\n\n来的人比我们预想的要多得多，谢谢大家！\n\n下次我会努力想个好点子。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2050427808456077541",
-      "publishedAt": "2026-05-02T04:10:59.000Z",
-      "score": 192.39,
-      "engagement": {
-        "likes": 2294,
-        "retweets": 53,
-        "replies": 468
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2050252933866930339",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "我们的开发者大会“Code with Claude”将于下周回归。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Code with Claude, our developer conference, returns next week. Whether you're just getting started with Claude Code o…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Code with Claude, our developer conference, returns next week.",
-      "originalBody": "Code with Claude, our developer conference, returns next week.\n\nWhether you're just getting started with Claude Code or you've been building for a while, there's a session for you.\n\nRegister for the livestream: https://t.co/GJwOPMDLEC https://t.co/uwAZgWPu7F",
-      "translatedTitle": "我们的开发者大会“Code with Claude”将于下周回归。",
-      "translatedBody": "我们的开发者大会“Code with Claude”将于下周回归。\n\n无论您是刚刚开始使用 Claude Code，还是已经开发了一段时间，总有一场研讨会适合您。\n\n注册观看直播：https://t.co/GJwOPMDLEC https://t.co/uwAZgWPu7F",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2050252933866930339",
-      "publishedAt": "2026-05-01T16:36:05.000Z",
-      "score": 147.72,
-      "engagement": {
-        "likes": 7562,
-        "retweets": 727,
-        "replies": 301
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2050460622706626740",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "请求开发一款 Chrome 扩展程序，用于增强网页上所有图像输入框的功能：- 让我们…",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：request for chrome extension that augments all image input boxes on the web: - lets me generate a simple word text th…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "request for chrome extension that augments all image input boxes on the web: - lets…",
-      "originalBody": "request for chrome extension that augments all image input boxes on the web:\n\n- lets me generate a simple word text thing (no ai)  OR \n- draw something with @tldraw (no ai) OR\n- use either words or drawings to generate something of the required proportions\n\n@devinai do it pls https://t.co/9Z7nhwr16q",
-      "translatedTitle": "请求开发一款 Chrome 扩展程序，用于增强网页上所有图像输入框的功能：- 让我们…",
-      "translatedBody": "请求开发一款 Chrome 扩展程序，增强网页上所有图像输入框的功能：\n\n- 生成简单的文字文本（无需 AI）\n\n- 使用 @tldraw 绘制图形（无需 AI）\n\n- 使用文字或图形生成所需比例的图像\n\n@devinai 请帮忙开发 https://t.co/9Z7nhwr16q",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2050460622706626740",
-      "publishedAt": "2026-05-02T06:21:22.000Z",
-      "score": 117.43,
-      "engagement": {
-        "likes": 11,
-        "retweets": 1,
-        "replies": 2
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2050240083325030404",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "当我与硅谷以外的企业交流时，他们提到的绝大多数用例……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：When I talk to enterprises outside of Silicon Valley, most of the use-cases they have in mind with AI are to augment…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "When I talk to enterprises outside of Silicon Valley, most of the use-cases they ha…",
-      "originalBody": "When I talk to enterprises outside of Silicon Valley, most of the use-cases they have in mind with AI are to augment and accelerate how they work, simply because of how much more they can do right now.\n\nMost companies are not satisfied with how much they’re doing, and they’re always constrained by some bottleneck. So they’re looking at processes that are slow and inefficient and wondering if AI can make it so they can ship more product, speed up customer onboarding, better resolve customer issues, more comprehensively understand their customers, and more. \n\nThey’re also bringing intelligence to work that would have never been possible to do before. Tech jobs got concentrated in valley and the tech industry, and enterprises or SMBs have not been able to build the products or bring automation to most areas of work. AI lets them do so now. This will be true of many other fields.\n\nAnd in the areas where there may be some cost cutting, usually that’s in service of funding another area of growth, or it’s temporary. AI cost cutting quickly gets eroded when your competition uses AI to better serve the customer and compete more effectively.",
-      "translatedTitle": "当我与硅谷以外的企业交流时，他们提到的绝大多数用例……",
-      "translatedBody": "当我与硅谷以外的企业交流时，他们设想的人工智能应用场景大多是为了增强和加速他们的工作方式，原因很简单，因为人工智能现在能做的事情已经大大增加了。\n\n大多数公司对目前的效率并不满意，总是受到各种瓶颈的制约。因此，他们正在审视那些缓慢低效的流程，并思考人工智能能否帮助他们提高产品交付速度、加快客户注册流程、更好地解决客户问题、更全面地了解客户等等。\n\n他们还将人工智能应用于以前根本无法实现的工作中。科技工作岗位集中在硅谷和科技行业，而企业或中小企业一直无力开发产品或将自动化应用于大多数工作领域。人工智能现在让他们能够做到这一点。这种情况也将在许多其他领域发生。\n\n即使在某些领域可能需要削减成本，通常也是为了资助其他增长领域，或者只是暂时的。当你的竞争对手利用人工智能更好地服务客户并更有效地参与竞争时，人工智能带来的成本削减很快就会被抵消。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2050240083325030404",
-      "publishedAt": "2026-05-01T15:45:02.000Z",
-      "score": 80.28,
-      "engagement": {
-        "likes": 232,
-        "retweets": 18,
-        "replies": 43
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2050365216421241152",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "如何一举驱逐亿万富翁并摧毁加州的税基……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：How to drive the billionaires out and ruin the California tax base in one fell swoop: propose asset seizure measures…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "How to drive the billionaires out and ruin the California tax base in one fell swoo…",
-      "originalBody": "How to drive the billionaires out and ruin the California tax base in one fell swoop: propose asset seizure measures\n\nMake it make sense! Middle class taxpayers will take on all the billions in tax revenue lost https://t.co/MMVeHAPwMB",
-      "translatedTitle": "如何一举驱逐亿万富翁并摧毁加州的税基……",
-      "translatedBody": "如何一举驱逐亿万富翁并摧毁加州税基：提出资产没收措施\n\n这说得通吗？中产阶级纳税人将承担所有损失的数十亿美元税收 https://t.co/MMVeHAPwMB",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2050365216421241152",
-      "publishedAt": "2026-05-02T00:02:16.000Z",
-      "score": 58.24,
-      "engagement": {
-        "likes": 463,
-        "retweets": 30,
-        "replies": 43
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2050295657836277764",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "Atlassian 的业绩令华尔街感到意外，但这其实并不令人意外。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Atlassian’s results surprised Wall Street, but it shouldn’t be a surprise. The simple heuristic for the future of sof…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Atlassian’s results surprised Wall Street, but it shouldn’t be a surprise.",
-      "originalBody": "Atlassian’s results surprised Wall Street, but it shouldn’t be a surprise. The simple heuristic for the future of software is that when there are 100X more agents than people, which parts of software will grow because agents are doing more work that the underlying software is tied to.\n\nIf the world generates more code, generates more leads, reviews more contracts, processes more invoices, creates more designs, transacts with more payments, and so on, what are the underlying systems that are managing that work? That will give you a hint as to what happens next.\n\nThese agents still need guardrails, security, compliance, workflows to be tied to, data stored, and so on. Those parts of the system of record ecosystem will only go up over time in a world of 100X more untrusted (and trusted) agents used in your workflows.",
-      "translatedTitle": "Atlassian 的业绩令华尔街感到意外，但这其实并不令人意外。",
-      "translatedBody": "Atlassian 的业绩令华尔街感到意外，但其实并不意外。软件未来发展的简单经验法则是：当代理的数量是人口的 100 倍时，哪些软件部分会因为代理承担了更多底层软件无法承载的工作而增长？\n\n如果世界生成更多代码、产生更多潜在客户、审核更多合同、处理更多发票、创建更多设计、进行更多支付交易等等，那么管理这些工作的底层系统又是什么呢？这将有助于我们了解未来的发展趋势。\n\n这些代理仍然需要安全防护、安全措施、合规性、与之关联的工作流程、数据存储等等。在工作流程中使用数量增长 100 倍的（包括不受信任的和受信任的）代理的世界里，记录系统生态系统的这些组成部分只会随着时间的推移而不断增长。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2050295657836277764",
-      "publishedAt": "2026-05-01T19:25:52.000Z",
-      "score": 58.24,
-      "engagement": {
-        "likes": 430,
-        "retweets": 48,
-        "replies": 41
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2050304359024759242",
-      "type": "tweet",
-      "builder": "Dan Shipper",
-      "title": "这是正确的，原因很简单：模型比任何个体人类都更了解事物……",
-      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：this is correct and the reason is simple: models know more than any individual human. but any individual human learns…",
+      "title": "我总是觉得我希望这些车型更便宜/更快，而不是我希望它们更好……",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：i keep thinking i want the models to be cheaper/faster more than i want them to be smarter but it seems that just bei…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "this is correct and the reason is simple: models know more than any individual huma…",
-      "originalBody": "this is correct and the reason is simple:\n\nmodels know more than any individual human. but any individual human learns faster than models do https://t.co/vo4BGFKv5A",
-      "translatedTitle": "这是正确的，原因很简单：模型比任何个体人类都更了解事物……",
-      "translatedBody": "这是正确的，原因很简单：\n\n模型比任何人类个体都更博学，但任何人类个体的学习速度都比模型快。https://t.co/vo4BGFKv5A",
+      "originalTitle": "i keep thinking i want the models to be cheaper/faster more than i want them to be…",
+      "originalBody": "i keep thinking i want the models to be cheaper/faster more than i want them to be smarter\n\nbut it seems that just being smarter is still the most important thing",
+      "translatedTitle": "我总是觉得我希望这些车型更便宜/更快，而不是我希望它们更好……",
+      "translatedBody": "我一直觉得，比起更智能，我更希望这些模型更便宜/更快。\n\n但似乎更智能才是最重要的。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/danshipper/status/2050304359024759242",
-      "publishedAt": "2026-05-01T20:00:26.000Z",
-      "score": 49.93,
+      "sourceUrl": "https://x.com/sama/status/2050671161915371998",
+      "publishedAt": "2026-05-02T20:17:59.000Z",
+      "score": 174.32,
       "engagement": {
-        "likes": 93,
-        "retweets": 3,
-        "replies": 13
+        "likes": 9505,
+        "retweets": 260,
+        "replies": 1910
       },
       "matchedFocusAreas": [
         "Foundation Models"
@@ -210,26 +50,187 @@
       "sourceType": "x"
     },
     {
-      "id": "2050326543797469415",
+      "id": "2050753293601935777",
       "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "我发现很多人把编码代理当作雇员，而我实际上……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I realized a lot of people treat coding agents as their employee, whereas I actually treat it as my cofounder I don't…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I realized a lot of people treat coding agents as their employee, whereas I actuall…",
-      "originalBody": "I realized a lot of people treat coding agents as their employee, whereas I actually treat it as my cofounder\n\nI don't just give orders. I present problems, describe the situation, and ask for their opinion",
-      "translatedTitle": "我发现很多人把编码代理当作雇员，而我实际上……",
-      "translatedBody": "我发现很多人把程序员当作员工，而我却把他们当作联合创始人。\n\n我不会直接下达指令。我会提出问题，描述情况，并征求他们的意见。",
+      "builder": "Swyx",
+      "title": "向 @tokengobbler 致敬，他在 AIE Europe 的舞台上现场关闭了 Vibe-kanban -…",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：Much respect to @tokengobbler who shutdown Vibe-kanban live onstage at AIE Europe - still with 30,000 MAU, and still…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Much respect to @tokengobbler who shutdown Vibe-kanban live onstage at AIE Europe -…",
+      "originalBody": "Much respect to @tokengobbler who shutdown Vibe-kanban live onstage at AIE Europe - still with 30,000 MAU, and still living on as an open source project.\n\n\"Everyone who is making money is doing 2 things: selling to enterprise, and reselling tokens. We were doing neither.\" \n\nsurprisingly not the first company to shutter at AIE but there's a lot to learn from the process and the software engineering retrospective from 2021-2025 will stick in my mind!",
+      "translatedTitle": "向 @tokengobbler 致敬，他在 AIE Europe 的舞台上现场关闭了 Vibe-kanban -…",
+      "translatedBody": "向 @tokengobbler 致敬，他在 AIE 欧洲大会上当场关闭了 Vibe-kanban——尽管它仍然拥有 3 万月活跃用户，并且仍然作为一个开源项目存在。\n\n“所有赚钱的人都在做两件事：向企业销售产品，以及转售代币。而我们两件事都没做。”\n\n令人惊讶的是，Vibe-kanban 并非 AIE 大会上第一个倒闭的公司，但这个过程有很多值得学习的地方，2021-2025 年的软件工程回顾将永远铭刻在我的记忆中！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2050326543797469415",
-      "publishedAt": "2026-05-01T21:28:35.000Z",
-      "score": 49.82,
+      "sourceUrl": "https://x.com/swyx/status/2050753293601935777",
+      "publishedAt": "2026-05-03T01:44:21.000Z",
+      "score": 122.93,
       "engagement": {
-        "likes": 74,
-        "retweets": 6,
+        "likes": 56,
+        "retweets": 4,
+        "replies": 11
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2050779734116856137",
+      "type": "tweet",
+      "builder": "Nikunj Kothari",
+      "title": "目前太多基金都在限制下行风险，而不是最大化上行收益。",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Too many funds are capping downside right now, instead of maximizing upside.. I’ll often ask the GP/partner on why th…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Too many funds are capping downside right now, instead of maximizing upside..",
+      "originalBody": "Too many funds are capping downside right now, instead of maximizing upside..\n\nI’ll often ask the GP/partner on why they did the deal and on my fifth why the real reason comes out which is “well at least big token factory will acquire them so our downside is capped”\n\nI haven’t done this for many years but I don’t think history shows that’s how you return a 5-10x fund?\n\nMaybe, the incentives have really simply shifted to AUM-maxxing and so the sentiment is deploy baby deploy. But, sigh, that just seems so incredibly short sighted. \n\nMaybe, it’s been a long day and I just want to rant but time is the only thing you don’t get back. Use it very wisely to work on things that matter and with people who won’t treat you as an option call 🫡",
+      "translatedTitle": "目前太多基金都在限制下行风险，而不是最大化上行收益。",
+      "translatedBody": "现在太多基金都在限制下行风险，而不是最大化上行收益。\n\n我经常会问普通合伙人/合伙人为什么做这笔交易，但往往问到第五次的时候，他们才会说出真正的理由：“至少大型代币工厂会收购他们，这样我们的下行风险就被限制住了。”\n\n我已经很多年没这么做了，但我认为历史经验表明，这种方法并不能让基金获得 5-10 倍的回报。\n\n也许，激励机制真的只是单纯地转向了资产管理规模最大化，所以大家的想法就是“赶紧部署”。唉，这看起来真是目光短浅。\n\n也许，今天太累了，我只是想发泄一下，但时间是唯一一去不复返的东西。好好利用时间，去做真正重要的事情，和那些不会把你当成期权筹码的人在一起。🫡",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/nikunj/status/2050779734116856137",
+      "publishedAt": "2026-05-03T03:29:24.000Z",
+      "score": 71.42,
+      "engagement": {
+        "likes": 54,
+        "retweets": 0,
+        "replies": 4
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2050490163810230579",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "🦀 Crabbox 0.3.0 版本已发布。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：🦀 Crabbox 0.3.0 is out. Remote Linux runs for dirty worktrees 🔐 GitHub browser login 🧰 Blacksmith Testbox wrap 📡…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "🦀 Crabbox 0.3.0 is out.",
+      "originalBody": "🦀 Crabbox 0.3.0 is out.\nRemote Linux runs for dirty worktrees\n\n🔐 GitHub browser login\n🧰 Blacksmith Testbox wrap\n📡 crabbox attach for live run replay\n📜 Durable run events\n☁️ AWS image create\n🛡️ Cloudflare Access\n\nbrew upgrade openclaw/tap/crabbox\nhttps://t.co/oD7LDHzpSF",
+      "translatedTitle": "🦀 Crabbox 0.3.0 版本已发布。",
+      "translatedBody": "🦀 Crabbox 0.3.0 版本发布。\n\n远程 Linux 运行，支持脏工作树\n\n🔐 GitHub 浏览器登录\n\n🧰 Blacksmith Testbox 封装\n\n📡 Crabbox 附加组件，支持实时运行回放\n\n📜 持久运行事件\n\n☁️ AWS 镜像创建\n\n🛡️ Cloudflare 访问\n\nbrew upgrade openclaw/tap/crabbox\n\nhttps://t.co/oD7LDHzpSF",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2050490163810230579",
+      "publishedAt": "2026-05-02T08:18:45.000Z",
+      "score": 59.06,
+      "engagement": {
+        "likes": 580,
+        "retweets": 39,
         "replies": 20
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2050735979477008412",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "这个修复了通过 npm 安装时遇到的依赖问题/速度慢的问题。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：This one fixes the depenency issues/slowness some had when installed via npm. Plugins are hard, worth it tho! Package…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "This one fixes the depenency issues/slowness some had when installed via npm.",
+      "originalBody": "This one fixes the depenency issues/slowness some had when installed via npm.\n\nPlugins are hard, worth it tho! Package is way leaner now, we moved [almost] everything into extensions! https://t.co/rp3Psd3sPF https://t.co/JFZ7xkbrnR",
+      "translatedTitle": "这个修复了通过 npm 安装时遇到的依赖问题/速度慢的问题。",
+      "translatedBody": "这个更新修复了部分用户通过 npm 安装时遇到的依赖问题/运行缓慢的问题。\n\n插件开发虽然很困难，但绝对值得！现在软件包更加精简，我们几乎把所有功能都移到了扩展程序里！https://t.co/rp3Psd3sPF https://t.co/JFZ7xkbrnR",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2050735979477008412",
+      "publishedAt": "2026-05-03T00:35:32.000Z",
+      "score": 58.63,
+      "engagement": {
+        "likes": 496,
+        "retweets": 24,
+        "replies": 60
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2050684160151617603",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "如果你认为人工智能会取代软件工程师，这里有一个简单的思维实验。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：If you think AI replaces software engineers, here’s a quick thought experiment. Imagine you’re a life sciences compan…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "If you think AI replaces software engineers, here’s a quick thought experiment.",
+      "originalBody": "If you think AI replaces software engineers, here’s a quick thought experiment. \n\nImagine you’re a life sciences company. 10 years ago you want to invest heavily in lab automation, processing data at scale, and other software. You look at the cost of doing so and realize you can’t compete with tech for as many engineers as you need, so you pare down your goals and do what you can. Every new software project has a fixed cost of a certain sized team, so you can only do so much given budgets, ability to compete for talent, and other trade offs.\n\nNow, AI comes along. And all of a sudden you have the *exact same* output tokens as the best tech companies in the world. Your engineers are using the same AI models as the tech industry, which means you have just boosted your engineering team by a some meaningful amount, while also neutralizing your differences with tech. \n\nDo you continue with your pared down approach, or do you start to hire more engineers because each engineer is 2X or 5X more capable than before? In almost every company I’m talking to, they’re doing the latter.\n\nNow extrapolate this to every bank, manufacturer, industrial company, retailer, and on and on. And extrapolate it not to just large enterprises, but also every SMB up and down the stack of these value chains. Oh, and also extrapolate this to other job functions, not just engineers. Resource scarce domains in marketing, legal, finance, design, and so on. \n\nIf you’re wondering why new jobs show up because of AI this is the reason. Any other view of what happens doesn’t contemplate the variety of unmet needs there are in the economy.",
+      "translatedTitle": "如果你认为人工智能会取代软件工程师，这里有一个简单的思维实验。",
+      "translatedBody": "如果你认为人工智能会取代软件工程师，不妨做一个简单的思维实验。\n\n假设你是一家生命科学公司。十年前，你计划大力投资实验室自动化、大规模数据处理以及其他软件。你评估了成本，发现无法与科技公司竞争所需的工程师数量，于是缩减了目标，力求做到力所能及。每个新的软件项目都需要一定规模的团队，因此在预算、人才竞争能力和其他权衡因素的限制下，你的能力也有限。\n\n现在，人工智能出现了。突然之间，你拥有了与世界顶级科技公司*完全相同*的产出。你的工程师正在使用与科技行业相同的人工智能模型，这意味着你的工程团队实力得到了显著提升，同时也消除了你与科技公司之间的差距。\n\n你会继续沿用之前的精简策略，还是会因为每位工程师的能力都比以前提升了2倍甚至5倍而开始招聘更多工程师呢？在我接触过的几乎所有公司里，他们都在做后一种情况。\n\n现在，把这种情况推广到每一家银行、制造商、工业公司、零售商等等。而且，不仅要推广到大型企业，还要推广到价值链上下游的每一家中小企业。哦，还要推广到其他职能部门，而不仅仅是工程师。比如市场营销、法律、金融、设计等资源稀缺的领域。\n\n如果你想知道为什么人工智能会催生新的工作岗位，这就是原因。任何其他解释都忽略了经济中存在的各种未被满足的需求。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2050684160151617603",
+      "publishedAt": "2026-05-02T21:09:38.000Z",
+      "score": 57.3,
+      "engagement": {
+        "likes": 301,
+        "retweets": 52,
+        "replies": 57
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2050583747041640608",
+      "type": "tweet",
+      "builder": "Dan Shipper",
+      "title": "很明显，未来十年我们的大部分工作都将以这种方式进行：代理……",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：clear that this is how we'll be doing most of our work for the next 10 years: agent running continuously on the left,…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "clear that this is how we'll be doing most of our work for the next 10 years: agent…",
+      "originalBody": "clear that this is how we'll be doing most of our work for the next 10 years:\n\nagent running continuously on the left, application that you + the agent use on the right https://t.co/GTLkK20XDS",
+      "translatedTitle": "很明显，未来十年我们的大部分工作都将以这种方式进行：代理……",
+      "translatedBody": "很明显，未来十年我们的大部分工作都将以这种方式进行：\n\n左侧是持续运行的代理，右侧是您和代理共同使用的应用程序 https://t.co/GTLkK20XDS",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/danshipper/status/2050583747041640608",
+      "publishedAt": "2026-05-02T14:30:37.000Z",
+      "score": 56.42,
+      "engagement": {
+        "likes": 323,
+        "retweets": 20,
+        "replies": 34
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2050775806574751816",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "奥克兰的人均税收在同类城市中最高，而服务业则位列前茅……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Oakland has highest taxes per capita among similar cities while services are among the worst. 44% of Measure E revenu…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Oakland has highest taxes per capita among similar cities while services are among…",
+      "originalBody": "Oakland has highest taxes per capita among similar cities while services are among the worst. 44% of Measure E revenue goes to pre-approved union raises.\n\nThe pattern: wrap dysfunction in moral language, attack anyone who asks where the money went\n\nhttps://t.co/wbkyxt6Zve https://t.co/PArVnY9DLP",
+      "translatedTitle": "奥克兰的人均税收在同类城市中最高，而服务业则位列前茅……",
+      "translatedBody": "奥克兰的人均税收在同类城市中最高，而公共服务却垫底。E提案收入的44%用于预先批准的工会加薪。\n\n惯用伎俩：用道德说辞掩盖弊端，攻击任何质疑资金去向的人。\n\nhttps://t.co/wbkyxt6Zve https://t.co/PArVnY9DLP",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2050775806574751816",
+      "publishedAt": "2026-05-03T03:13:48.000Z",
+      "score": 55.42,
+      "engagement": {
+        "likes": 237,
+        "retweets": 36,
+        "replies": 22
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -238,8 +239,8 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-02T07:40:30.488Z",
-    "totalCandidates": 28,
+    "upstreamGeneratedAt": "2026-05-03T07:59:02.694Z",
+    "totalCandidates": 23,
     "textQualifiedCandidates": 11,
     "selectedTweets": 8
   }
