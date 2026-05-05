@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-04",
-  "generatedAt": "2026-05-04T03:39:31.488Z",
+  "date": "2026-05-05",
+  "generatedAt": "2026-05-05T03:26:10.189Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-04",
+  "title": "AI Builders Daily | 2026-05-05",
   "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 23 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 24 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,78 +23,80 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2050671161915371998",
+      "id": "2050964008480723059",
       "type": "tweet",
       "builder": "Sam Altman",
-      "title": "我总是觉得我希望这些车型更便宜/更快，而不是我希望它们更好……",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：i keep thinking i want the models to be cheaper/faster more than i want them to be smarter but it seems that just bei…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "i keep thinking i want the models to be cheaper/faster more than i want them to be…",
-      "originalBody": "i keep thinking i want the models to be cheaper/faster more than i want them to be smarter\n\nbut it seems that just being smarter is still the most important thing",
-      "translatedTitle": "我总是觉得我希望这些车型更便宜/更快，而不是我希望它们更好……",
-      "translatedBody": "我一直觉得，比起更智能，我更希望这些模型更便宜/更快。\n\n但似乎更智能才是最重要的。",
+      "title": "过去十年与格雷格共事真是一件非常愉快的事情。",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：it has been a real pleasure to work with Greg over the past decade. i feel very lucky. this post held up pretty well,…",
+      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "it has been a real pleasure to work with Greg over the past decade.",
+      "originalBody": "it has been a real pleasure to work with Greg over the past decade. i feel very lucky.\n\nthis post held up pretty well, but not did not sufficiently highlight his technical brilliance and sheer determination.\n\nhttps://t.co/wi03SGDLjU",
+      "translatedTitle": "过去十年与格雷格共事真是一件非常愉快的事情。",
+      "translatedBody": "过去十年能与格雷格共事真是我的荣幸。我感到非常幸运。\n\n这篇文章写得还不错，但并没有充分展现他卓越的技术才能和坚定的决心。\n\nhttps://t.co/wi03SGDLjU",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2050671161915371998",
-      "publishedAt": "2026-05-02T20:17:59.000Z",
-      "score": 174.32,
+      "sourceUrl": "https://x.com/sama/status/2050964008480723059",
+      "publishedAt": "2026-05-03T15:41:39.000Z",
+      "score": 144.25,
       "engagement": {
-        "likes": 9505,
-        "retweets": 260,
-        "replies": 1910
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2050753293601935777",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "向 @tokengobbler 致敬，他在 AIE Europe 的舞台上现场关闭了 Vibe-kanban -…",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：Much respect to @tokengobbler who shutdown Vibe-kanban live onstage at AIE Europe - still with 30,000 MAU, and still…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Much respect to @tokengobbler who shutdown Vibe-kanban live onstage at AIE Europe -…",
-      "originalBody": "Much respect to @tokengobbler who shutdown Vibe-kanban live onstage at AIE Europe - still with 30,000 MAU, and still living on as an open source project.\n\n\"Everyone who is making money is doing 2 things: selling to enterprise, and reselling tokens. We were doing neither.\" \n\nsurprisingly not the first company to shutter at AIE but there's a lot to learn from the process and the software engineering retrospective from 2021-2025 will stick in my mind!",
-      "translatedTitle": "向 @tokengobbler 致敬，他在 AIE Europe 的舞台上现场关闭了 Vibe-kanban -…",
-      "translatedBody": "向 @tokengobbler 致敬，他在 AIE 欧洲大会上当场关闭了 Vibe-kanban——尽管它仍然拥有 3 万月活跃用户，并且仍然作为一个开源项目存在。\n\n“所有赚钱的人都在做两件事：向企业销售产品，以及转售代币。而我们两件事都没做。”\n\n令人惊讶的是，Vibe-kanban 并非 AIE 大会上第一个倒闭的公司，但这个过程有很多值得学习的地方，2021-2025 年的软件工程回顾将永远铭刻在我的记忆中！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2050753293601935777",
-      "publishedAt": "2026-05-03T01:44:21.000Z",
-      "score": 122.93,
-      "engagement": {
-        "likes": 56,
-        "retweets": 4,
-        "replies": 11
+        "likes": 4058,
+        "retweets": 133,
+        "replies": 364
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2050779734116856137",
+      "id": "2051057677984469277",
       "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "目前太多基金都在限制下行风险，而不是最大化上行收益。",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Too many funds are capping downside right now, instead of maximizing upside.. I’ll often ask the GP/partner on why th…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Too many funds are capping downside right now, instead of maximizing upside..",
-      "originalBody": "Too many funds are capping downside right now, instead of maximizing upside..\n\nI’ll often ask the GP/partner on why they did the deal and on my fifth why the real reason comes out which is “well at least big token factory will acquire them so our downside is capped”\n\nI haven’t done this for many years but I don’t think history shows that’s how you return a 5-10x fund?\n\nMaybe, the incentives have really simply shifted to AUM-maxxing and so the sentiment is deploy baby deploy. But, sigh, that just seems so incredibly short sighted. \n\nMaybe, it’s been a long day and I just want to rant but time is the only thing you don’t get back. Use it very wisely to work on things that matter and with people who won’t treat you as an option call 🫡",
-      "translatedTitle": "目前太多基金都在限制下行风险，而不是最大化上行收益。",
-      "translatedBody": "现在太多基金都在限制下行风险，而不是最大化上行收益。\n\n我经常会问普通合伙人/合伙人为什么做这笔交易，但往往问到第五次的时候，他们才会说出真正的理由：“至少大型代币工厂会收购他们，这样我们的下行风险就被限制住了。”\n\n我已经很多年没这么做了，但我认为历史经验表明，这种方法并不能让基金获得 5-10 倍的回报。\n\n也许，激励机制真的只是单纯地转向了资产管理规模最大化，所以大家的想法就是“赶紧部署”。唉，这看起来真是目光短浅。\n\n也许，今天太累了，我只是想发泄一下，但时间是唯一一去不复返的东西。好好利用时间，去做真正重要的事情，和那些不会把你当成期权筹码的人在一起。🫡",
+      "builder": "Aaron Levie",
+      "title": "无论是现有的咨询公司、新成立的咨询公司，还是代理商销售的FDE……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Whether it’s existing consulting firms, new ones that emerge, FDEs from agent vendors, or new internal agent engineer…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Whether it’s existing consulting firms, new ones that emerge, FDEs from agent vendo…",
+      "originalBody": "Whether it’s existing consulting firms, new ones that emerge, FDEs from agent vendors, or new internal agent engineering roles, the amount of work that is going to be created to implement agents in enterprises will exceed anything we imagine today.\n\nThe complexity of implementing agents in any existing organizations is very real. When I talk to large enterprises, as you move from a chat paradigm to agents that participate in meaningful workflows, there are a number of things they need to do.\n\nFirst, you have to get agents to be able to talk to your data securely across your systems. In many cases, enterprises have decades of legacy infrastructure that contain the valuable context for AI agents. That’s going to take a ton of work to go modernize and move to systems that work well with agents. \n\nThen, you need to ensure that you’ve implemented agents with the right access controls and entitlements, the right scopes to be safely used, and have ways of monitoring, logging, and securing the work that they do. \n\nNext, you need to actually document the processes in the organization in a way that agents can utilize for doing the work. You also need to figure out what the new workflow looks like when agents and people are working together on a process, and who steps in where. Just replicating the old workflow will mute the gains. Oh and you likely need to create evals for your top new end-state processes.\n\nFinally, you have to keep up with a rapidly changing set of best practices and architectural shifts happening in the agent space. While it’s fun for people to change their personal productivity tools on a dime, it’s 100X harder to do this in a business process. The speed of change is a blessing and a curse right now for anyone trying to keep a stable system design.\n\nAll of this means that individuals and companies that develop expertise on the above set of components (and more) are going to be needed to help organizations actually implement agents at scale. This is also the rationale for vertical AI agents right now that can go in deep on a business domain and help bring automation to it. \n\nThis is a huge opportunity right now whether you’re doing this internally or as an external business provider.",
+      "translatedTitle": "无论是现有的咨询公司、新成立的咨询公司，还是代理商销售的FDE……",
+      "translatedBody": "无论是现有的咨询公司、新成立的咨询公司、代理供应商的FDE（功能开发工程师），还是新的内部代理工程师岗位，企业部署代理所需的工作量都将远远超出我们今天的想象。\n\n在任何现有组织中部署代理的复杂性都是不容忽视的。当我与大型企业交流时，我发现，当他们从聊天模式过渡到能够参与有意义工作流程的代理时，他们需要完成许多工作。\n\n首先，必须确保代理能够安全地访问系统中的数据。在许多情况下，企业拥有数十年历史的遗留基础设施，其中包含着人工智能代理所需的宝贵上下文信息。要实现现代化并迁移到与代理良好兼容的系统，需要付出大量的努力。\n\n其次，需要确保已部署的代理具有正确的访问控制和权限，拥有合适的范围以确保其安全使用，并具备监控、记录和保护其工作的方法。\n\n接下来，你需要以智能体能够理解的方式，将组织内部的流程记录下来，以便它们能够有效地完成工作。你还需要弄清楚当智能体和用户协同工作时，新的工作流程是什么样的，以及谁负责哪些环节。仅仅复制旧的工作流程会大大降低改进的效果。此外，你可能还需要对最重要的全新最终流程进行评估。\n\n最后，你必须紧跟智能体领域快速变化的最佳实践和架构转型。虽然人们可以随时更换个人生产力工具，但在业务流程中这样做却难上加难。对于任何试图保持系统设计稳定的人来说，这种快速变化既是机遇也是挑战。\n\n所有这些都意味着，我们需要那些精通上述组件（以及更多）的个人和公司，来帮助组织大规模地部署智能体。这也是目前垂直领域人工智能智能体存在的意义所在，它们可以深入特定业务领域，帮助实现自动化。\n\n无论你是公司内部运营还是作为外部业务供应商，这都是一个巨大的机遇。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2050779734116856137",
-      "publishedAt": "2026-05-03T03:29:24.000Z",
-      "score": 71.42,
+      "sourceUrl": "https://x.com/levie/status/2051057677984469277",
+      "publishedAt": "2026-05-03T21:53:51.000Z",
+      "score": 114.11,
       "engagement": {
-        "likes": 54,
-        "retweets": 0,
-        "replies": 4
+        "likes": 1338,
+        "retweets": 162,
+        "replies": 102
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2051088325100831046",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "发布了🚦RepoBar 0.4.0。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Released 🚦RepoBar 0.4.0. This one makes the GitHub menu a lot smarter: persistent SQLite caching, fewer wasted API c…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Released 🚦RepoBar 0.4.0.",
+      "originalBody": "Released 🚦RepoBar 0.4.0.\n\nThis one makes the GitHub menu a lot smarter: persistent SQLite caching, fewer wasted API calls, visible rate limits, better Issues/PR loading, archive fallback support.\n\nTiny menubar app, increasingly useful daily tool. https://t.co/KYzCTtXF1O https://t.co/ZKVoVVXqBC",
+      "translatedTitle": "发布了🚦RepoBar 0.4.0。",
+      "translatedBody": "RepoBar 0.4.0 版本发布！\n\n此版本让 GitHub 菜单更加智能：持久化 SQLite 缓存、减少无效 API 调用、显示速率限制、优化 Issues/PR 加载速度、支持归档回退。\n\n小巧的菜单栏应用，日益成为日常实用工具。https://t.co/KYzCTtXF1O https://t.co/ZKVoVVXqBC",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2051088325100831046",
+      "publishedAt": "2026-05-03T23:55:38.000Z",
+      "score": 88.92,
+      "engagement": {
+        "likes": 1486,
+        "retweets": 83,
+        "replies": 65
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -103,134 +105,136 @@
       "sourceType": "x"
     },
     {
-      "id": "2050490163810230579",
+      "id": "2050963126234034387",
       "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "🦀 Crabbox 0.3.0 版本已发布。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：🦀 Crabbox 0.3.0 is out. Remote Linux runs for dirty worktrees 🔐 GitHub browser login 🧰 Blacksmith Testbox wrap 📡…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "🦀 Crabbox 0.3.0 is out.",
-      "originalBody": "🦀 Crabbox 0.3.0 is out.\nRemote Linux runs for dirty worktrees\n\n🔐 GitHub browser login\n🧰 Blacksmith Testbox wrap\n📡 crabbox attach for live run replay\n📜 Durable run events\n☁️ AWS image create\n🛡️ Cloudflare Access\n\nbrew upgrade openclaw/tap/crabbox\nhttps://t.co/oD7LDHzpSF",
-      "translatedTitle": "🦀 Crabbox 0.3.0 版本已发布。",
-      "translatedBody": "🦀 Crabbox 0.3.0 版本发布。\n\n远程 Linux 运行，支持脏工作树\n\n🔐 GitHub 浏览器登录\n\n🧰 Blacksmith Testbox 封装\n\n📡 Crabbox 附加组件，支持实时运行回放\n\n📜 持久运行事件\n\n☁️ AWS 镜像创建\n\n🛡️ Cloudflare 访问\n\nbrew upgrade openclaw/tap/crabbox\n\nhttps://t.co/oD7LDHzpSF",
+      "builder": "Peter Yang",
+      "title": "如何让你的代理程序在 Macbook 合上盖子后仍然运行：1.",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：How to keep your agents running even when your macbook lid is closed: 1. Go to Mac App Store and download Amphetamine…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "How to keep your agents running even when your macbook lid is closed: 1.",
+      "originalBody": "How to keep your agents running even when your macbook lid is closed:\n\n1. Go to Mac App Store and download Amphetamine\n\n2. Go to Settings → Session Defaults → uncheck everything below\n\nYou're welcome :) https://t.co/mRVEq7c7Ly https://t.co/YUkFqARudk",
+      "translatedTitle": "如何让你的代理程序在 Macbook 合上盖子后仍然运行：1.",
+      "translatedBody": "如何让你的代理程序在 MacBook 合上盖子后仍然运行：\n\n1. 前往 Mac App Store 下载 Amphetamine\n\n2. 前往“设置”→“会话默认设置”→ 取消勾选以下所有选项\n\n不用谢 :) https://t.co/mRVEq7c7Ly https://t.co/YUkFqARudk",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2050490163810230579",
-      "publishedAt": "2026-05-02T08:18:45.000Z",
-      "score": 59.06,
+      "sourceUrl": "https://x.com/petergyang/status/2050963126234034387",
+      "publishedAt": "2026-05-03T15:38:09.000Z",
+      "score": 84.6,
       "engagement": {
-        "likes": 580,
-        "retweets": 39,
-        "replies": 20
+        "likes": 589,
+        "retweets": 37,
+        "replies": 67
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2050735979477008412",
+      "id": "2051155065331941873",
       "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "这个修复了通过 npm 安装时遇到的依赖问题/速度慢的问题。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：This one fixes the depenency issues/slowness some had when installed via npm. Plugins are hard, worth it tho! Package…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "This one fixes the depenency issues/slowness some had when installed via npm.",
-      "originalBody": "This one fixes the depenency issues/slowness some had when installed via npm.\n\nPlugins are hard, worth it tho! Package is way leaner now, we moved [almost] everything into extensions! https://t.co/rp3Psd3sPF https://t.co/JFZ7xkbrnR",
-      "translatedTitle": "这个修复了通过 npm 安装时遇到的依赖问题/速度慢的问题。",
-      "translatedBody": "这个更新修复了部分用户通过 npm 安装时遇到的依赖问题/运行缓慢的问题。\n\n插件开发虽然很困难，但绝对值得！现在软件包更加精简，我们几乎把所有功能都移到了扩展程序里！https://t.co/rp3Psd3sPF https://t.co/JFZ7xkbrnR",
+      "builder": "Zara Zhang",
+      "title": "在人工智能出现之前，你根本负担不起建造小型项目的成本。",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Before AI, you couldn't afford to build something small. Because the cost of software development was so high, you ha…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Before AI, you couldn't afford to build something small.",
+      "originalBody": "Before AI, you couldn't afford to build something small. Because the cost of software development was so high, you had to hire a team, convince other people, justify it to a committee.\n\nNow, it's literally just you and a coding agent. A coding agent doesn't need to be convinced. It will readily build whatever crazy and weird idea you have. So go build something that would get rejected in every big tech company's product review meeting.",
+      "translatedTitle": "在人工智能出现之前，你根本负担不起建造小型项目的成本。",
+      "translatedBody": "在人工智能出现之前，你根本负担不起开发小型软件的成本。因为软件开发成本极高，你必须组建团队，说服其他人，还要向委员会提交论证。\n\n现在，你只需要一个编码智能体。编码智能体无需任何说服，它就能轻松实现你任何疯狂的想法。所以，尽情去做那些在大型科技公司的产品评审会议上会被否决的东西吧。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2050735979477008412",
-      "publishedAt": "2026-05-03T00:35:32.000Z",
-      "score": 58.63,
+      "sourceUrl": "https://x.com/zarazhangrui/status/2051155065331941873",
+      "publishedAt": "2026-05-04T04:20:50.000Z",
+      "score": 73.88,
       "engagement": {
-        "likes": 496,
-        "retweets": 24,
-        "replies": 60
+        "likes": 49,
+        "retweets": 7,
+        "replies": 12
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2050684160151617603",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "如果你认为人工智能会取代软件工程师，这里有一个简单的思维实验。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：If you think AI replaces software engineers, here’s a quick thought experiment. Imagine you’re a life sciences compan…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "If you think AI replaces software engineers, here’s a quick thought experiment.",
-      "originalBody": "If you think AI replaces software engineers, here’s a quick thought experiment. \n\nImagine you’re a life sciences company. 10 years ago you want to invest heavily in lab automation, processing data at scale, and other software. You look at the cost of doing so and realize you can’t compete with tech for as many engineers as you need, so you pare down your goals and do what you can. Every new software project has a fixed cost of a certain sized team, so you can only do so much given budgets, ability to compete for talent, and other trade offs.\n\nNow, AI comes along. And all of a sudden you have the *exact same* output tokens as the best tech companies in the world. Your engineers are using the same AI models as the tech industry, which means you have just boosted your engineering team by a some meaningful amount, while also neutralizing your differences with tech. \n\nDo you continue with your pared down approach, or do you start to hire more engineers because each engineer is 2X or 5X more capable than before? In almost every company I’m talking to, they’re doing the latter.\n\nNow extrapolate this to every bank, manufacturer, industrial company, retailer, and on and on. And extrapolate it not to just large enterprises, but also every SMB up and down the stack of these value chains. Oh, and also extrapolate this to other job functions, not just engineers. Resource scarce domains in marketing, legal, finance, design, and so on. \n\nIf you’re wondering why new jobs show up because of AI this is the reason. Any other view of what happens doesn’t contemplate the variety of unmet needs there are in the economy.",
-      "translatedTitle": "如果你认为人工智能会取代软件工程师，这里有一个简单的思维实验。",
-      "translatedBody": "如果你认为人工智能会取代软件工程师，不妨做一个简单的思维实验。\n\n假设你是一家生命科学公司。十年前，你计划大力投资实验室自动化、大规模数据处理以及其他软件。你评估了成本，发现无法与科技公司竞争所需的工程师数量，于是缩减了目标，力求做到力所能及。每个新的软件项目都需要一定规模的团队，因此在预算、人才竞争能力和其他权衡因素的限制下，你的能力也有限。\n\n现在，人工智能出现了。突然之间，你拥有了与世界顶级科技公司*完全相同*的产出。你的工程师正在使用与科技行业相同的人工智能模型，这意味着你的工程团队实力得到了显著提升，同时也消除了你与科技公司之间的差距。\n\n你会继续沿用之前的精简策略，还是会因为每位工程师的能力都比以前提升了2倍甚至5倍而开始招聘更多工程师呢？在我接触过的几乎所有公司里，他们都在做后一种情况。\n\n现在，把这种情况推广到每一家银行、制造商、工业公司、零售商等等。而且，不仅要推广到大型企业，还要推广到价值链上下游的每一家中小企业。哦，还要推广到其他职能部门，而不仅仅是工程师。比如市场营销、法律、金融、设计等资源稀缺的领域。\n\n如果你想知道为什么人工智能会催生新的工作岗位，这就是原因。任何其他解释都忽略了经济中存在的各种未被满足的需求。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2050684160151617603",
-      "publishedAt": "2026-05-02T21:09:38.000Z",
-      "score": 57.3,
-      "engagement": {
-        "likes": 301,
-        "retweets": 52,
-        "replies": 57
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2050583747041640608",
-      "type": "tweet",
-      "builder": "Dan Shipper",
-      "title": "很明显，未来十年我们的大部分工作都将以这种方式进行：代理……",
-      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：clear that this is how we'll be doing most of our work for the next 10 years: agent running continuously on the left,…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "clear that this is how we'll be doing most of our work for the next 10 years: agent…",
-      "originalBody": "clear that this is how we'll be doing most of our work for the next 10 years:\n\nagent running continuously on the left, application that you + the agent use on the right https://t.co/GTLkK20XDS",
-      "translatedTitle": "很明显，未来十年我们的大部分工作都将以这种方式进行：代理……",
-      "translatedBody": "很明显，未来十年我们的大部分工作都将以这种方式进行：\n\n左侧是持续运行的代理，右侧是您和代理共同使用的应用程序 https://t.co/GTLkK20XDS",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/danshipper/status/2050583747041640608",
-      "publishedAt": "2026-05-02T14:30:37.000Z",
-      "score": 56.42,
-      "engagement": {
-        "likes": 323,
-        "retweets": 20,
-        "replies": 34
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2050775806574751816",
+      "id": "2051099735176659256",
       "type": "tweet",
       "builder": "Garry Tan",
-      "title": "奥克兰的人均税收在同类城市中最高，而服务业则位列前茅……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Oakland has highest taxes per capita among similar cities while services are among the worst. 44% of Measure E revenu…",
+      "title": "个人人工智能的目标：构建一个由人工智能增强的个体人类能够……的文明。",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The goal of Personal AI: civilization where individual humans, augmented by AI, can do consequential work without bei…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Oakland has highest taxes per capita among similar cities while services are among…",
-      "originalBody": "Oakland has highest taxes per capita among similar cities while services are among the worst. 44% of Measure E revenue goes to pre-approved union raises.\n\nThe pattern: wrap dysfunction in moral language, attack anyone who asks where the money went\n\nhttps://t.co/wbkyxt6Zve https://t.co/PArVnY9DLP",
-      "translatedTitle": "奥克兰的人均税收在同类城市中最高，而服务业则位列前茅……",
-      "translatedBody": "奥克兰的人均税收在同类城市中最高，而公共服务却垫底。E提案收入的44%用于预先批准的工会加薪。\n\n惯用伎俩：用道德说辞掩盖弊端，攻击任何质疑资金去向的人。\n\nhttps://t.co/wbkyxt6Zve https://t.co/PArVnY9DLP",
+      "originalTitle": "The goal of Personal AI: civilization where individual humans, augmented by AI, can…",
+      "originalBody": "The goal of Personal AI: civilization where individual humans, augmented by AI, can do consequential work without being captured by extractive institutions. \n\nFreedom to write your prompt and own your data. \n\nThis is the new battleground. \n\n2034 won’t have to be like 1984.",
+      "translatedTitle": "个人人工智能的目标：构建一个由人工智能增强的个体人类能够……的文明。",
+      "translatedBody": "个人人工智能的目标：构建一个由人工智能增强的个体人类能够从事有意义的工作，而不受剥削性机构控制的文明。\n\n自由撰写题目，拥有数据所有权。\n\n这是新的战场。\n\n2034年不必重蹈1984年的覆辙。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2050775806574751816",
-      "publishedAt": "2026-05-03T03:13:48.000Z",
-      "score": 55.42,
+      "sourceUrl": "https://x.com/garrytan/status/2051099735176659256",
+      "publishedAt": "2026-05-04T00:40:59.000Z",
+      "score": 60.43,
       "engagement": {
-        "likes": 237,
-        "retweets": 36,
-        "replies": 22
+        "likes": 618,
+        "retweets": 65,
+        "replies": 98
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2051129249348894754",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我最终还是没能抵挡住诱惑，下载了 Hermes 来试用。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：I caved and downloaded Hermes to try. For those of you who have tried both Hermes and OpenClaw what difference do you…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "I caved and downloaded Hermes to try.",
+      "originalBody": "I caved and downloaded Hermes to try. \n\nFor those of you who have tried both Hermes and OpenClaw what difference do you notice?\n\nNo shilling please, just want some honest opinions",
+      "translatedTitle": "我最终还是没能抵挡住诱惑，下载了 Hermes 来试用。",
+      "translatedBody": "我最终还是没忍住，下载了 Hermes 来试用。\n\n各位同时用过 Hermes 和 OpenClaw 的朋友，你们觉得它们之间有什么区别？\n\n请不要推销，我只是想听听大家的真实想法。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2051129249348894754",
+      "publishedAt": "2026-05-04T02:38:15.000Z",
+      "score": 60.05,
+      "engagement": {
+        "likes": 496,
+        "retweets": 11,
+        "replies": 210
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2051167532523074015",
+      "type": "tweet",
+      "builder": "Amjad Masad",
+      "title": "10 个活跃项目，198 个草稿，700 多个已完成项目。",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：10 active, 198 draft, 700+ done. I don’t think there’s more agentic parallelism happening anywhere else on the intern…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "10 active, 198 draft, 700+ done.",
+      "originalBody": "10 active, 198 draft, 700+ done.\n\nI don’t think there’s more agentic parallelism happening anywhere else on the internet than what happens on @Replit. https://t.co/eoEkNlNsu9",
+      "translatedTitle": "10 个活跃项目，198 个草稿，700 多个已完成项目。",
+      "translatedBody": "10 个活跃用户，198 个草稿，700 多个已完成用户。\n\n我认为互联网上没有哪个地方比 @Replit 更能体现这种多任务并行性了。https://t.co/eoEkNlNsu9",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/amasad/status/2051167532523074015",
+      "publishedAt": "2026-05-04T05:10:23.000Z",
+      "score": 53.62,
+      "engagement": {
+        "likes": 134,
+        "retweets": 6,
+        "replies": 18
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -239,8 +243,8 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-03T07:59:02.694Z",
-    "totalCandidates": 23,
+    "upstreamGeneratedAt": "2026-05-04T08:26:33.142Z",
+    "totalCandidates": 24,
     "textQualifiedCandidates": 11,
     "selectedTweets": 8
   }
