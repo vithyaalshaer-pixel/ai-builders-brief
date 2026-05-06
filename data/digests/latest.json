@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-05",
-  "generatedAt": "2026-05-05T03:26:10.189Z",
+  "date": "2026-05-06",
+  "generatedAt": "2026-05-06T03:36:43.422Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-05",
+  "title": "AI Builders Daily | 2026-05-06",
   "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 24 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 25 条候选动态里，筛出 14 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,51 +23,132 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2050964008480723059",
+      "id": "2051464865634742334",
       "type": "tweet",
       "builder": "Sam Altman",
-      "title": "过去十年与格雷格共事真是一件非常愉快的事情。",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：it has been a real pleasure to work with Greg over the past decade. i feel very lucky. this post held up pretty well,…",
-      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "it has been a real pleasure to work with Greg over the past decade.",
-      "originalBody": "it has been a real pleasure to work with Greg over the past decade. i feel very lucky.\n\nthis post held up pretty well, but not did not sufficiently highlight his technical brilliance and sheer determination.\n\nhttps://t.co/wi03SGDLjU",
-      "translatedTitle": "过去十年与格雷格共事真是一件非常愉快的事情。",
-      "translatedBody": "过去十年能与格雷格共事真是我的荣幸。我感到非常幸运。\n\n这篇文章写得还不错，但并没有充分展现他卓越的技术才能和坚定的决心。\n\nhttps://t.co/wi03SGDLjU",
+      "title": "非常期待语音模型能越来越好，观察人们如何使用它们很有意思……",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：pretty excited for voice models to get great its interesting to watch how people are already starting to change the w…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "pretty excited for voice models to get great its interesting to watch how people ar…",
+      "originalBody": "pretty excited for voice models to get great\n\nits interesting to watch how people are already starting to change the way they interface with AI",
+      "translatedTitle": "非常期待语音模型能越来越好，观察人们如何使用它们很有意思……",
+      "translatedBody": "非常期待语音模型能越来越好\n\n观察人们如何改变与人工智能交互的方式很有意思。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2050964008480723059",
-      "publishedAt": "2026-05-03T15:41:39.000Z",
-      "score": 144.25,
+      "sourceUrl": "https://x.com/sama/status/2051464865634742334",
+      "publishedAt": "2026-05-05T00:51:52.000Z",
+      "score": 170.18,
       "engagement": {
-        "likes": 4058,
-        "retweets": 133,
-        "replies": 364
+        "likes": 4451,
+        "retweets": 162,
+        "replies": 696
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2051386798899888539",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "𝚗𝚙𝚡 𝚍𝚎𝚎𝚙𝚜𝚎𝚌 我们正在推出一款用于深度集成的开源代理编排器……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：𝚗𝚙𝚡 𝚍𝚎𝚎𝚙𝚜𝚎𝚌 We're introducing an open-source agent orchestrator for deep security reviews. We built it for…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "𝚗𝚙𝚡 𝚍𝚎𝚎𝚙𝚜𝚎𝚌 We're introducing an open-source agent orchestrator for deep…",
+      "originalBody": "𝚗𝚙𝚡 𝚍𝚎𝚎𝚙𝚜𝚎𝚌\n\nWe're introducing an open-source agent orchestrator for deep security reviews.\n\nWe built it for internal use, and after running it against some major OSS projects, we gained conviction to share it with the world.\n\nCoding agents can now find critical vulnerabilities in minutes that would take teams of people months (if they can spot them at all). Since 𝚍𝚎𝚎𝚙𝚜𝚎𝚌 is optimized to work with Vercel Sandbox, you can effectively harness the power of thousands of agents scrutinizing your codebase in parallel.\n\nI encourage you to try this on your repositories. BTW: If you run an OSS project and want us to sponsor a run, my DMs are open.",
+      "translatedTitle": "𝚗𝚙𝚡 𝚍𝚎𝚎𝚙𝚜𝚎𝚌 我们正在推出一款用于深度集成的开源代理编排器……",
+      "translatedBody": "𝚗𝚙𝚡 𝚍𝚎𝚎𝚙𝚜𝚎𝚌\n\n我们推出了一款用于深度安全审查的开源代理编排器。\n\n我们最初是为内部使用而开发的，但在对一些主要的开源软件项目进行测试后，我们确信应该将其分享给全世界。\n\n现在，编码代理可以在几分钟内发现关键漏洞，而人工团队可能需要数月才能发现这些漏洞（如果他们能够发现的话）。由于 𝚍𝚎𝚎𝚙𝚜𝚎𝚌 针对 Vercel Sandbox 进行了优化，您可以有效地利用数千个代理并行审查您的代码库。\n\n我鼓励您在自己的代码仓库中尝试一下。顺便说一句：如果您运营着一个开源项目，并希望我们赞助一次测试，欢迎随时联系我。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2051386798899888539",
+      "publishedAt": "2026-05-04T19:41:40.000Z",
+      "score": 163.02,
+      "engagement": {
+        "likes": 1229,
+        "retweets": 86,
+        "replies": 48
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2051318922805436896",
+      "type": "tweet",
+      "builder": "Sam Altman",
+      "title": "我们将为所有申请参加 GPT-5.5 派对的人准备一份惊喜……",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：we are gonna do something nice for everyone who applied for the GPT-5.5 party and that we didn't have space for. hope…",
+      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "we are gonna do something nice for everyone who applied for the GPT-5.5 party and t…",
+      "originalBody": "we are gonna do something nice for everyone who applied for the GPT-5.5 party and that we didn't have space for. hope you enjoy!",
+      "translatedTitle": "我们将为所有申请参加 GPT-5.5 派对的人准备一份惊喜……",
+      "translatedBody": "我们将为所有申请参加 GPT-5.5 派对但因场地限制未能邀请到的朋友们准备一份惊喜。希望你们喜欢！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/sama/status/2051318922805436896",
+      "publishedAt": "2026-05-04T15:11:57.000Z",
+      "score": 147.7,
+      "engagement": {
+        "likes": 7348,
+        "retweets": 162,
+        "replies": 1182
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2051057677984469277",
+      "id": "2051329252344369626",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "无论是现有的咨询公司、新成立的咨询公司，还是代理商销售的FDE……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Whether it’s existing consulting firms, new ones that emerge, FDEs from agent vendors, or new internal agent engineer…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Whether it’s existing consulting firms, new ones that emerge, FDEs from agent vendo…",
-      "originalBody": "Whether it’s existing consulting firms, new ones that emerge, FDEs from agent vendors, or new internal agent engineering roles, the amount of work that is going to be created to implement agents in enterprises will exceed anything we imagine today.\n\nThe complexity of implementing agents in any existing organizations is very real. When I talk to large enterprises, as you move from a chat paradigm to agents that participate in meaningful workflows, there are a number of things they need to do.\n\nFirst, you have to get agents to be able to talk to your data securely across your systems. In many cases, enterprises have decades of legacy infrastructure that contain the valuable context for AI agents. That’s going to take a ton of work to go modernize and move to systems that work well with agents. \n\nThen, you need to ensure that you’ve implemented agents with the right access controls and entitlements, the right scopes to be safely used, and have ways of monitoring, logging, and securing the work that they do. \n\nNext, you need to actually document the processes in the organization in a way that agents can utilize for doing the work. You also need to figure out what the new workflow looks like when agents and people are working together on a process, and who steps in where. Just replicating the old workflow will mute the gains. Oh and you likely need to create evals for your top new end-state processes.\n\nFinally, you have to keep up with a rapidly changing set of best practices and architectural shifts happening in the agent space. While it’s fun for people to change their personal productivity tools on a dime, it’s 100X harder to do this in a business process. The speed of change is a blessing and a curse right now for anyone trying to keep a stable system design.\n\nAll of this means that individuals and companies that develop expertise on the above set of components (and more) are going to be needed to help organizations actually implement agents at scale. This is also the rationale for vertical AI agents right now that can go in deep on a business domain and help bring automation to it. \n\nThis is a huge opportunity right now whether you’re doing this internally or as an external business provider.",
-      "translatedTitle": "无论是现有的咨询公司、新成立的咨询公司，还是代理商销售的FDE……",
-      "translatedBody": "无论是现有的咨询公司、新成立的咨询公司、代理供应商的FDE（功能开发工程师），还是新的内部代理工程师岗位，企业部署代理所需的工作量都将远远超出我们今天的想象。\n\n在任何现有组织中部署代理的复杂性都是不容忽视的。当我与大型企业交流时，我发现，当他们从聊天模式过渡到能够参与有意义工作流程的代理时，他们需要完成许多工作。\n\n首先，必须确保代理能够安全地访问系统中的数据。在许多情况下，企业拥有数十年历史的遗留基础设施，其中包含着人工智能代理所需的宝贵上下文信息。要实现现代化并迁移到与代理良好兼容的系统，需要付出大量的努力。\n\n其次，需要确保已部署的代理具有正确的访问控制和权限，拥有合适的范围以确保其安全使用，并具备监控、记录和保护其工作的方法。\n\n接下来，你需要以智能体能够理解的方式，将组织内部的流程记录下来，以便它们能够有效地完成工作。你还需要弄清楚当智能体和用户协同工作时，新的工作流程是什么样的，以及谁负责哪些环节。仅仅复制旧的工作流程会大大降低改进的效果。此外，你可能还需要对最重要的全新最终流程进行评估。\n\n最后，你必须紧跟智能体领域快速变化的最佳实践和架构转型。虽然人们可以随时更换个人生产力工具，但在业务流程中这样做却难上加难。对于任何试图保持系统设计稳定的人来说，这种快速变化既是机遇也是挑战。\n\n所有这些都意味着，我们需要那些精通上述组件（以及更多）的个人和公司，来帮助组织大规模地部署智能体。这也是目前垂直领域人工智能智能体存在的意义所在，它们可以深入特定业务领域，帮助实现自动化。\n\n无论你是公司内部运营还是作为外部业务供应商，这都是一个巨大的机遇。",
+      "builder": "Swyx",
+      "title": "顺便说一句，这个投票结果非常好。如果你想要一个热门投票筛选器，可以查看大量的投票结果……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：this one is doing v well btw if you want the popular vote filter on the firehose of all the things @patrickdebois was…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "this one is doing v well btw if you want the popular vote filter on the firehose of…",
+      "originalBody": "this one is doing v well btw if you want the popular vote filter on the firehose of all the things\n\n@patrickdebois was one of the track keynotes i gave a \"blank check\" to based on his sincere support since our very earliest days + when in europe we must feature the DevOps guy. he didnt disappoint!",
+      "translatedTitle": "顺便说一句，这个投票结果非常好。如果你想要一个热门投票筛选器，可以查看大量的投票结果……",
+      "translatedBody": "顺便一提，这个活动非常成功！如果你想在海量信息中筛选出最热门的投票，那就选它吧。\n\n@patrickdebois 是我邀请的几位主题演讲嘉宾之一，因为他从我们公司创立之初就给予了我们真诚的支持，所以我毫不犹豫地给他开了“空白支票”。而且，在欧洲，我们必须重点介绍 DevOps 专家。他果然没让我们失望！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2051057677984469277",
-      "publishedAt": "2026-05-03T21:53:51.000Z",
-      "score": 114.11,
+      "sourceUrl": "https://x.com/swyx/status/2051329252344369626",
+      "publishedAt": "2026-05-04T15:53:00.000Z",
+      "score": 145.44,
       "engagement": {
-        "likes": 1338,
-        "retweets": 162,
-        "replies": 102
+        "likes": 40,
+        "retweets": 1,
+        "replies": 5
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2051344780328858040",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "Anthropico 和 OpenAI 都推出了新的举措，旨在帮助企业部署人工智能代理……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Both Anthropic and OpenAI have new initiatives to help enterprises deploy AI agents within their organizations. This…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Both Anthropic and OpenAI have new initiatives to help enterprises deploy AI agents…",
+      "originalBody": "Both Anthropic and OpenAI have new initiatives to help enterprises deploy AI agents within their organizations. This is a trend that’s early but going to get very big fast.\n\nAs agents enter knowledge work beyond coding, there is very real work to upgrade IT systems, get agents the context they need, modernize the workflows to work with agents, figure out the human-agent relationship in the workflow, drive adoption and do change management, and much more. \n\nWhile AI models have an incredible amount of capability packed into them, there’s no shortcut to getting that intelligence applied to a business process in a stable way. This is creating tons of opportunities across the market for new jobs and firms, and the labs are equally recognizing the criticality here.",
+      "translatedTitle": "Anthropico 和 OpenAI 都推出了新的举措，旨在帮助企业部署人工智能代理……",
+      "translatedBody": "Anthropic 和 OpenAI 都推出了新的举措，旨在帮助企业在其组织内部部署人工智能代理。这一趋势尚处于早期阶段，但发展势头迅猛。\n\n随着人工智能代理开始从事编码以外的知识工作，企业需要投入大量实际精力来升级 IT 系统，为代理提供所需的上下文信息，实现工作流程现代化以更好地与代理协作，理清工作流程中人机交互的关系，推动应用并进行变革管理等等。\n\n尽管人工智能模型蕴含着惊人的能力，但要将这些智能稳定地应用于业务流程，却并非易事。这为市场创造了大量新的就业机会和公司，各大人工智能实验室也同样意识到了这一点的重要性。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2051344780328858040",
+      "publishedAt": "2026-05-04T16:54:42.000Z",
+      "score": 112.13,
+      "engagement": {
+        "likes": 836,
+        "retweets": 110,
+        "replies": 124
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -77,175 +158,91 @@
       "sourceType": "x"
     },
     {
-      "id": "2051088325100831046",
+      "id": "2051440392722391180",
       "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "发布了🚦RepoBar 0.4.0。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Released 🚦RepoBar 0.4.0. This one makes the GitHub menu a lot smarter: persistent SQLite caching, fewer wasted API c…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Released 🚦RepoBar 0.4.0.",
-      "originalBody": "Released 🚦RepoBar 0.4.0.\n\nThis one makes the GitHub menu a lot smarter: persistent SQLite caching, fewer wasted API calls, visible rate limits, better Issues/PR loading, archive fallback support.\n\nTiny menubar app, increasingly useful daily tool. https://t.co/KYzCTtXF1O https://t.co/ZKVoVVXqBC",
-      "translatedTitle": "发布了🚦RepoBar 0.4.0。",
-      "translatedBody": "RepoBar 0.4.0 版本发布！\n\n此版本让 GitHub 菜单更加智能：持久化 SQLite 缓存、减少无效 API 调用、显示速率限制、优化 Issues/PR 加载速度、支持归档回退。\n\n小巧的菜单栏应用，日益成为日常实用工具。https://t.co/KYzCTtXF1O https://t.co/ZKVoVVXqBC",
+      "builder": "Swyx",
+      "title": "OAI估值8500亿美元，目前ARR约为300亿美元；蚂蚁集团估值约9000亿美元，目前ARR约为440亿美元*（*已确认收入）",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：OAI 850B valuation, ~30B ARR now Ant ~900B valuation, ~44B* ARR now *revenue recognized differently, per Denise Dress…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "OAI 850B valuation, ~30B ARR now Ant ~900B valuation, ~44B* ARR now *revenue recogn…",
+      "originalBody": "OAI 850B valuation, ~30B ARR now \nAnt ~900B valuation, ~44B* ARR now  \n\n*revenue recognized differently, per Denise Dresser its probably closer to 8-10B lower if using OAI methodology\n\nchart reconstructed from wsj by me https://t.co/6NJhYWD7OR",
+      "translatedTitle": "OAI估值8500亿美元，目前ARR约为300亿美元；蚂蚁集团估值约9000亿美元，目前ARR约为440亿美元*（*已确认收入）",
+      "translatedBody": "OAI估值8500亿美元，目前年经常性收入（ARR）约300亿美元\n\n蚂蚁集团估值约9000亿美元，目前年经常性收入（ARR）约440亿美元*\n\n*收入确认方式不同，据Denise Dresser称，如果采用OAI的确认方法，实际年经常性收入可能低80-100亿美元\n\n图表由我根据《华尔街日报》重新制作 https://t.co/6NJhYWD7OR",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2051088325100831046",
-      "publishedAt": "2026-05-03T23:55:38.000Z",
-      "score": 88.92,
+      "sourceUrl": "https://x.com/swyx/status/2051440392722391180",
+      "publishedAt": "2026-05-04T23:14:38.000Z",
+      "score": 111.45,
       "engagement": {
-        "likes": 1486,
-        "retweets": 83,
-        "replies": 65
+        "likes": 3,
+        "retweets": 1,
+        "replies": 2
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2051321911741972900",
+      "type": "tweet",
+      "builder": "Nikunj Kothari",
+      "title": "Gemini Flash 的价格如此低廉，质量又如此出色，简直令人难以置信。",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：It’s criminal how cheap and how good Gemini Flash is.. that too with 1M context windows and structured outputs. Proba…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "It’s criminal how cheap and how good Gemini Flash is..",
+      "originalBody": "It’s criminal how cheap and how good Gemini Flash is.. that too with 1M context windows and structured outputs. \n\nProbably, my most used model in production workloads. \n\nSeparately their new live voice model is mindblowingly good if you haven’t tried it yet!",
+      "translatedTitle": "Gemini Flash 的价格如此低廉，质量又如此出色，简直令人难以置信。",
+      "translatedBody": "Gemini Flash 的价格如此低廉却功能如此强大，简直令人难以置信……而且还支持 100 万个上下文窗口和结构化输出。\n\n它可能是我在生产环境中使用最多的模型。\n\n另外，如果你还没试过他们新推出的实时语音模型，那真是太可惜了，它简直好到令人难以置信！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/nikunj/status/2051321911741972900",
+      "publishedAt": "2026-05-04T15:23:50.000Z",
+      "score": 80.13,
+      "engagement": {
+        "likes": 252,
+        "retweets": 10,
+        "replies": 34
+      },
+      "matchedFocusAreas": [
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2051349526171287930",
+      "type": "tweet",
+      "builder": "Nikunj Kothari",
+      "title": "这显然是个热门观点。",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Apparently, this is a hot take.. Startup vintage of 2023-2025 is slowly realizing that fancy launch videos & focusing…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Apparently, this is a hot take..",
+      "originalBody": "Apparently, this is a hot take..\n\nStartup vintage of 2023-2025 is slowly realizing that fancy launch videos & focusing just on distribution MIGHT lead to VC funding, but still leads to money being lit on fire when you should have been spending equal (if not longer) time on retention.\n\nMomentum (in lieu of anything else) has ceased to be a moat. It never was in the first place, and the numbers (seed -> series A gap) are starting to show this. We'll see acquihires at a much faster clip than we've seen before.",
+      "translatedTitle": "这显然是个热门观点。",
+      "translatedBody": "显然，这算是个热门观点……\n\n2023-2025 年出生的创业公司逐渐意识到，花哨的发布视频和只专注于分发渠道或许能带来风险投资，但最终却只是把钱白白浪费掉，而他们本应该把同样多（甚至更多）的时间花在用户留存上。\n\n仅仅依靠势头（而非其他因素）已经不再是护城河了。它原本就不是，而数据（种子轮到 A 轮的差距）也开始印证这一点。我们将看到收购式招聘以前所未有的速度增长。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/nikunj/status/2051349526171287930",
+      "publishedAt": "2026-05-04T17:13:33.000Z",
+      "score": 80.08,
+      "engagement": {
+        "likes": 262,
+        "retweets": 2,
+        "replies": 36
       },
       "matchedFocusAreas": [
         "Coding Agents",
         "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2050963126234034387",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "如何让你的代理程序在 Macbook 合上盖子后仍然运行：1.",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：How to keep your agents running even when your macbook lid is closed: 1. Go to Mac App Store and download Amphetamine…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "How to keep your agents running even when your macbook lid is closed: 1.",
-      "originalBody": "How to keep your agents running even when your macbook lid is closed:\n\n1. Go to Mac App Store and download Amphetamine\n\n2. Go to Settings → Session Defaults → uncheck everything below\n\nYou're welcome :) https://t.co/mRVEq7c7Ly https://t.co/YUkFqARudk",
-      "translatedTitle": "如何让你的代理程序在 Macbook 合上盖子后仍然运行：1.",
-      "translatedBody": "如何让你的代理程序在 MacBook 合上盖子后仍然运行：\n\n1. 前往 Mac App Store 下载 Amphetamine\n\n2. 前往“设置”→“会话默认设置”→ 取消勾选以下所有选项\n\n不用谢 :) https://t.co/mRVEq7c7Ly https://t.co/YUkFqARudk",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2050963126234034387",
-      "publishedAt": "2026-05-03T15:38:09.000Z",
-      "score": 84.6,
-      "engagement": {
-        "likes": 589,
-        "retweets": 37,
-        "replies": 67
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2051155065331941873",
-      "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "在人工智能出现之前，你根本负担不起建造小型项目的成本。",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Before AI, you couldn't afford to build something small. Because the cost of software development was so high, you ha…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Before AI, you couldn't afford to build something small.",
-      "originalBody": "Before AI, you couldn't afford to build something small. Because the cost of software development was so high, you had to hire a team, convince other people, justify it to a committee.\n\nNow, it's literally just you and a coding agent. A coding agent doesn't need to be convinced. It will readily build whatever crazy and weird idea you have. So go build something that would get rejected in every big tech company's product review meeting.",
-      "translatedTitle": "在人工智能出现之前，你根本负担不起建造小型项目的成本。",
-      "translatedBody": "在人工智能出现之前，你根本负担不起开发小型软件的成本。因为软件开发成本极高，你必须组建团队，说服其他人，还要向委员会提交论证。\n\n现在，你只需要一个编码智能体。编码智能体无需任何说服，它就能轻松实现你任何疯狂的想法。所以，尽情去做那些在大型科技公司的产品评审会议上会被否决的东西吧。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2051155065331941873",
-      "publishedAt": "2026-05-04T04:20:50.000Z",
-      "score": 73.88,
-      "engagement": {
-        "likes": 49,
-        "retweets": 7,
-        "replies": 12
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2051099735176659256",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "个人人工智能的目标：构建一个由人工智能增强的个体人类能够……的文明。",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The goal of Personal AI: civilization where individual humans, augmented by AI, can do consequential work without bei…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The goal of Personal AI: civilization where individual humans, augmented by AI, can…",
-      "originalBody": "The goal of Personal AI: civilization where individual humans, augmented by AI, can do consequential work without being captured by extractive institutions. \n\nFreedom to write your prompt and own your data. \n\nThis is the new battleground. \n\n2034 won’t have to be like 1984.",
-      "translatedTitle": "个人人工智能的目标：构建一个由人工智能增强的个体人类能够……的文明。",
-      "translatedBody": "个人人工智能的目标：构建一个由人工智能增强的个体人类能够从事有意义的工作，而不受剥削性机构控制的文明。\n\n自由撰写题目，拥有数据所有权。\n\n这是新的战场。\n\n2034年不必重蹈1984年的覆辙。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2051099735176659256",
-      "publishedAt": "2026-05-04T00:40:59.000Z",
-      "score": 60.43,
-      "engagement": {
-        "likes": 618,
-        "retweets": 65,
-        "replies": 98
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2051129249348894754",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我最终还是没能抵挡住诱惑，下载了 Hermes 来试用。",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：I caved and downloaded Hermes to try. For those of you who have tried both Hermes and OpenClaw what difference do you…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "I caved and downloaded Hermes to try.",
-      "originalBody": "I caved and downloaded Hermes to try. \n\nFor those of you who have tried both Hermes and OpenClaw what difference do you notice?\n\nNo shilling please, just want some honest opinions",
-      "translatedTitle": "我最终还是没能抵挡住诱惑，下载了 Hermes 来试用。",
-      "translatedBody": "我最终还是没忍住，下载了 Hermes 来试用。\n\n各位同时用过 Hermes 和 OpenClaw 的朋友，你们觉得它们之间有什么区别？\n\n请不要推销，我只是想听听大家的真实想法。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2051129249348894754",
-      "publishedAt": "2026-05-04T02:38:15.000Z",
-      "score": 60.05,
-      "engagement": {
-        "likes": 496,
-        "retweets": 11,
-        "replies": 210
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2051167532523074015",
-      "type": "tweet",
-      "builder": "Amjad Masad",
-      "title": "10 个活跃项目，198 个草稿，700 多个已完成项目。",
-      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：10 active, 198 draft, 700+ done. I don’t think there’s more agentic parallelism happening anywhere else on the intern…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "10 active, 198 draft, 700+ done.",
-      "originalBody": "10 active, 198 draft, 700+ done.\n\nI don’t think there’s more agentic parallelism happening anywhere else on the internet than what happens on @Replit. https://t.co/eoEkNlNsu9",
-      "translatedTitle": "10 个活跃项目，198 个草稿，700 多个已完成项目。",
-      "translatedBody": "10 个活跃用户，198 个草稿，700 多个已完成用户。\n\n我认为互联网上没有哪个地方比 @Replit 更能体现这种多任务并行性了。https://t.co/eoEkNlNsu9",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/amasad/status/2051167532523074015",
-      "publishedAt": "2026-05-04T05:10:23.000Z",
-      "score": 53.62,
-      "engagement": {
-        "likes": 134,
-        "retweets": 6,
-        "replies": 18
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-04T08:26:33.142Z",
-    "totalCandidates": 24,
-    "textQualifiedCandidates": 11,
+    "upstreamGeneratedAt": "2026-05-05T08:05:54.146Z",
+    "totalCandidates": 25,
+    "textQualifiedCandidates": 14,
     "selectedTweets": 8
   }
 }
