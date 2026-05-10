@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-09",
-  "generatedAt": "2026-05-09T03:31:10.369Z",
+  "date": "2026-05-10",
+  "generatedAt": "2026-05-10T03:44:42.415Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-09",
-  "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 34 条候选动态里，筛出 15 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-05-10",
+  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 23 条候选动态里，筛出 10 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,34 +15,30 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
-    },
-    {
-      "slug": "product-ships",
-      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2052462428663992564",
+      "id": "2052782201486598523",
       "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "顺便一提，年轻人似乎更喜欢通过语音与人工智能互动，而老年人……",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：as a side note, young people seem to prefer to interact with AI via voice, and old people, and people in the middle l…",
+      "builder": "Swyx",
+      "title": "@nikitabier @business bloomberg 突然对你对开发者的看法感兴趣了……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：@nikitabier @business bloomberg being suddenly interested in your take on developer experience and ai coding tools is…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "as a side note, young people seem to prefer to interact with AI via voice, and old…",
-      "originalBody": "as a side note, young people seem to prefer to interact with AI via voice, and old people, and people in the middle like to type. i wonder if this will change.",
-      "translatedTitle": "顺便一提，年轻人似乎更喜欢通过语音与人工智能互动，而老年人……",
-      "translatedBody": "顺便一提，年轻人似乎更喜欢通过语音与人工智能互动，而老年人和中年人则更喜欢打字。我想知道这种情况是否会改变。",
+      "originalTitle": "@nikitabier @business bloomberg being suddenly interested in your take on developer…",
+      "originalBody": "@nikitabier @business bloomberg being suddenly interested in your take on developer experience and ai coding tools is the new \"sexy singles in your area\" https://t.co/PBnXTxam0V",
+      "translatedTitle": "@nikitabier @business bloomberg 突然对你对开发者的看法感兴趣了……",
+      "translatedBody": "@nikitabier @business 彭博社突然对你关于开发者体验和人工智能编码工具的观点感兴趣，这简直就是新时代的“寻找你附近的性感单身人士”了。https://t.co/PBnXTxam0V",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2052462428663992564",
-      "publishedAt": "2026-05-07T18:55:50.000Z",
-      "score": 164.47,
+      "sourceUrl": "https://x.com/swyx/status/2052782201486598523",
+      "publishedAt": "2026-05-08T16:06:30.000Z",
+      "score": 139.77,
       "engagement": {
-        "likes": 1267,
-        "retweets": 43,
-        "replies": 395
+        "likes": 7,
+        "retweets": 0,
+        "replies": 6
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -50,133 +46,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2052445786651168849",
+      "id": "2052899864493830590",
       "type": "tweet",
-      "builder": "Claude",
-      "title": "适用于 Excel、PowerPoint 和 Word 的 Claude 现已正式发布，Claude for…",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Claude for Excel, PowerPoint, and Word are now generally available, and Claude for Outlook is in public beta. As Clau…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Claude for Excel, PowerPoint, and Word are now generally available, and Claude for…",
-      "originalBody": "Claude for Excel, PowerPoint, and Word are now generally available, and Claude for Outlook is in public beta.\n\nAs Claude moves between your Microsoft apps, it carries the full context of your conversation. https://t.co/l8oOcoFcHg",
-      "translatedTitle": "适用于 Excel、PowerPoint 和 Word 的 Claude 现已正式发布，Claude for…",
-      "translatedBody": "Claude for Excel、PowerPoint 和 Word 现已正式发布，Claude for Outlook 目前处于公开测试阶段。\n\nClaude 会在您的 Microsoft 应用之间切换，并保留完整的对话上下文。https://t.co/l8oOcoFcHg",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2052445786651168849",
-      "publishedAt": "2026-05-07T17:49:42.000Z",
-      "score": 154.66,
-      "engagement": {
-        "likes": 30256,
-        "retweets": 2287,
-        "replies": 711
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2052485051812909530",
-      "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "帮助软件开发人员像宝可梦一样进化成超级英雄，这比尝试……酷多了。",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：way cooler to help software developers pokemon-evolve into superheroes than to try to replace them it is insane what…",
-      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "way cooler to help software developers pokemon-evolve into superheroes than to try…",
-      "originalBody": "way cooler to help software developers pokemon-evolve into superheroes than to try to replace them\n\nit is insane what one really good person can do now https://t.co/iEqSQHgg5B",
-      "translatedTitle": "帮助软件开发人员像宝可梦一样进化成超级英雄，这比尝试……酷多了。",
-      "translatedBody": "帮助软件开发者像宝可梦一样进化成超级英雄，远比试图取代他们酷多了。\n\n一个真正优秀的人现在能做到的事情简直不可思议。https://t.co/iEqSQHgg5B",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2052485051812909530",
-      "publishedAt": "2026-05-07T20:25:44.000Z",
-      "score": 143.55,
-      "engagement": {
-        "likes": 3046,
-        "retweets": 168,
-        "replies": 585
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2052440959997063309",
-      "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "与 OpenAI 董事会成员兼负责人 @zicokolter 进行了深入的对话……",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Deeply thoughtful conversation with @zicokolter, board member at @OpenAI and head of the machine learning department…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Deeply thoughtful conversation with @zicokolter, board member at @OpenAI and head o…",
-      "originalBody": "Deeply thoughtful conversation with @zicokolter, board member at @OpenAI and head of the machine learning department at @CarnegieMellon, about AI safety, AI security, agents and frontier AI \n\n00:00 Intro\n\n01:32 OpenAI board role and Safety & Security Committee\n\n03:53 How OpenAI reviews major model releases\n\n05:33 OpenAI’s preparedness framework explained\n\n09:46 Are frontier AI models getting safer?\n\n12:33 Why AI safety does not come from scale\n\n15:23 The four categories of AI risk\n\n19:38 Doomerism vs accelerationism in AI\n\n24:11 The six-month AI pause debate\n\n26:20 AI safety as a global effort\n\n28:04 How Zico Kolter got into machine learning\n\n31:05 OpenAI in the early days\n\n34:14 Why Carnegie Mellon became an AI powerhouse\n\n38:43 What Gray Swan does in AI security\n\n40:44 AI safety vs AI security\n\n43:15 The GCG jailbreak paper\n\n49:19 How AI labs responded to jailbreak research\n\n50:19 State-of-the-art AI defenses\n\n52:32 State-of-the-art AI attacks\n\n54:22 Why AI agents expand the attack surface\n\n58:39 Are AI agents ready for production?\n\n59:40 Mechanistic interpretability explained\n\n1:02:31 Will AI be safer in two years?\n\n1:03:46 Reinforcement learning and self-improving models\n\n1:08:09 Do post-transformer architectures matter\n\n1:09:29 Best research directions in AI now\n\n1:11:00 Zico Kolter’s Intro to Modern AI course\n\n1:14:53 Why modern AI is simpler than people think",
-      "translatedTitle": "与 OpenAI 董事会成员兼负责人 @zicokolter 进行了深入的对话……",
-      "translatedBody": "与 OpenAI 董事会成员、卡内基梅隆大学机器学习系主任 @zicokolter 进行了一场深入的对话，探讨了人工智能安全、人工智能保障、智能体和前沿人工智能等话题。\n\n00:00 引言\n\n01:32 OpenAI 董事会的角色以及安全委员会\n\n03:53 OpenAI 如何审核主要模型发布\n\n05:33 OpenAI 的准备框架详解\n\n09:46 前沿人工智能模型是否越来越安全？\n\n12:33 为什么人工智能安全并非源于规模\n\n15:23 人工智能风险的四大类别\n\n19:38 人工智能领域的末日论与加速论\n\n24:11 关于人工智能暂停六个月的辩论\n\n26:20 人工智能安全作为一项全球性努力\n\n28:04 Zico Kolter 如何进入机器学习领域\n\n31:05 OpenAI 的早期发展\n\n34:14 卡内基梅隆大学为何成为人工智能强校\n\n38:43 Gray Swan 在人工智能安全领域所做的工作\n\n40:44 人工智能安全与人工智能安全的区别\n\n43:15 GCG 的越狱论文\n\n49:19 人工智能实验室如何应对越狱研究\n\n50:19 最先进的人工智能防御技术\n\n52:32 最先进的人工智能攻击技术\n\n54:22 为什么人工智能代理会扩大攻击面\n\n58:39 人工智能代理是否已准备好投入生产？\n\n59:40 机制可解释性详解\n\n1:02:31 两年后人工智能会更安全吗？\n\n1:03:46 强化学习和自改进模型\n\n1:08:09 后Transformer架构重要吗？\n\n1:09:29 当前人工智能的最佳研究方向\n\n1:11:00 Zico Kolter的现代人工智能入门课程\n\n1:14:53 为什么现代人工智能比人们想象的更简单",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2052440959997063309",
-      "publishedAt": "2026-05-07T17:30:32.000Z",
-      "score": 95.64,
-      "engagement": {
-        "likes": 34,
-        "retweets": 5,
-        "replies": 5
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2052490869320946037",
-      "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "我即将离开@Google。",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：I'm moving on from @Google. I had the privilege of helping build two businesses from zero: first across Search & Ads,…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "I'm moving on from @Google.",
-      "originalBody": "I'm moving on from @Google.\n\nI had the privilege of helping build two businesses from zero: first across Search & Ads, then Gemini.\n\nThree years ago, OpenAI and Anthropic were in the lead. We built what it took to compete: the playbook for building AI models, the customer feedback flywheel, and the enterprise business. Gemini 3 was the moment those systems came together.\n\nTo the Gemini team: we went from underdogs to competing at the frontier. Keep pushing.\n\nFor now, I'm enjoying the emergent capabilities of some real intelligence at home - my toddler. She's been quietly shipping.",
-      "translatedTitle": "我即将离开@Google。",
-      "translatedBody": "我即将离开谷歌。\n\n我有幸参与创建了两项业务：首先是搜索和广告业务，然后是 Gemini。\n\n三年前，OpenAI 和 Anthropic 处于领先地位。我们构建了与之竞争所需的一切：构建 AI 模型的操作指南、客户反馈循环以及企业级业务。Gemini 3 标志着这些系统完美融合。\n\n致 Gemini 团队：我们从不被看好到如今站在行业前沿。继续努力！\n\n目前，我正在享受家中一位真正“智能”的萌芽——我的小女儿。她一直在默默地“贡献”着自己的力量。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2052490869320946037",
-      "publishedAt": "2026-05-07T20:48:51.000Z",
-      "score": 86.98,
-      "engagement": {
-        "likes": 1104,
-        "retweets": 11,
-        "replies": 53
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2052588548126364028",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "GStack v1.28 版本已发布，GStack 浏览器现在可以下载项目，并按方向键运行……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Just dropped GStack v1.28 GStack Browser can now download items, and run in headed configuration mode with anti-bot d…",
+      "builder": "Alex Albert",
+      "title": "我们提供给 METR 的早期 Claude Mythos 预览快照的时间跨度更长……",
+      "summary": "Alex Albert 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：An early Claude Mythos Preview snapshot we provided METR has a time horizon of more than 2x the next best model on th…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Just dropped GStack v1.28 GStack Browser can now download items, and run in headed…",
-      "originalBody": "Just dropped GStack v1.28\n\nGStack Browser can now download items, and run in headed configuration mode with anti-bot detection in using Xvfb on headless Linux containers (like your claw/hermes) \n\nAdded llms.txt so agents of all kinds can use all the skills with less guesswork https://t.co/eagccYgpxG",
-      "translatedTitle": "GStack v1.28 版本已发布，GStack 浏览器现在可以下载项目，并按方向键运行……",
-      "translatedBody": "GStack v1.28 版本已发布\n\nGStack 浏览器现在可以下载物品，并可在无头 Linux 容器（例如 Claw/Hermes）上使用 Xvfb 以带反机器人检测的配置模式运行。\n\n新增 llms.txt 文件，以便各类代理都能更轻松地使用所有技能。https://t.co/eagccYgpxG",
+      "originalTitle": "An early Claude Mythos Preview snapshot we provided METR has a time horizon of more…",
+      "originalBody": "An early Claude Mythos Preview snapshot we provided METR has a time horizon of more than 2x the next best model on their 80% success rate benchmark https://t.co/xOrewjvFIF https://t.co/DVUWVaubCg",
+      "translatedTitle": "我们提供给 METR 的早期 Claude Mythos 预览快照的时间跨度更长……",
+      "translatedBody": "我们提供给 METR 的 Claude Mythos 早期预览快照显示，其时间跨度是其 80% 成功率基准下第二佳模型的两倍以上。https://t.co/xOrewjvFIF https://t.co/DVUWVaubCg",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2052588548126364028",
-      "publishedAt": "2026-05-08T03:16:59.000Z",
-      "score": 75.06,
+      "sourceUrl": "https://x.com/alexalbert__/status/2052899864493830590",
+      "publishedAt": "2026-05-08T23:54:03.000Z",
+      "score": 86.45,
       "engagement": {
-        "likes": 87,
-        "retweets": 6,
-        "replies": 15
+        "likes": 880,
+        "retweets": 66,
+        "replies": 52
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -185,26 +74,53 @@
       "sourceType": "x"
     },
     {
-      "id": "2052486085226184742",
+      "id": "2052928572810256748",
       "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "我有幸指导了 ChatGPT 2026 届未来之星班的一些成员……",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Had the honor of mentoring some of the folks in the ChatGPT Future Class of 2026 this year. Shoutout to @arhan_menta…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Had the honor of mentoring some of the folks in the ChatGPT Future Class of 2026 th…",
-      "originalBody": "Had the honor of mentoring some of the folks in the ChatGPT Future Class of 2026 this year.\n\nShoutout to @arhan_menta @nayelr_ @rushilkukreja who built Wi-Find, a system that detects disaster survivors through walls and debris using AI. https://t.co/fbEq6XzHwm https://t.co/FGZLGSHgE2",
-      "translatedTitle": "我有幸指导了 ChatGPT 2026 届未来之星班的一些成员……",
-      "translatedBody": "今年我有幸指导了 ChatGPT 2026 届未来之星班的部分成员。\n\n特别感谢 @arhan_menta、@nayelr_ 和 @rushilkukreja，他们开发了 Wi-Find 系统，该系统利用人工智能技术穿透墙壁和瓦砾，探测灾难幸存者。https://t.co/fbEq6XzHwm https://t.co/FGZLGSHgE2",
+      "builder": "Amanda Askell",
+      "title": "一致性研究通常需要侧重于避免令人担忧的行为，但我认为……",
+      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Alignment research often has to focus on averting concerning behaviors, but I think the positive vision for this kind…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "Alignment research often has to focus on averting concerning behaviors, but I think…",
+      "originalBody": "Alignment research often has to focus on averting concerning behaviors, but I think the positive vision for this kind of training is one where we can give models and honest and positive vision for what AI models can be and why. I'm excited about the future of this work. https://t.co/4BnLVNjnEY https://t.co/AYIilWyJLB",
+      "translatedTitle": "一致性研究通常需要侧重于避免令人担忧的行为，但我认为……",
+      "translatedBody": "对齐研究通常需要侧重于避免令人担忧的行为，但我认为这类训练的积极愿景在于，我们可以为人工智能模型提供真实而积极的愿景，阐明人工智能模型能够成为什么样子以及为什么。我对这项工作的未来充满期待。https://t.co/4BnLVNjnEY https://t.co/AYIilWyJLB",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2052486085226184742",
-      "publishedAt": "2026-05-07T20:29:50.000Z",
-      "score": 51.47,
+      "sourceUrl": "https://x.com/AmandaAskell/status/2052928572810256748",
+      "publishedAt": "2026-05-09T01:48:07.000Z",
+      "score": 57.66,
       "engagement": {
-        "likes": 128,
-        "retweets": 6,
-        "replies": 13
+        "likes": 394,
+        "retweets": 29,
+        "replies": 49
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2052903105256382679",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "大型企业中出现的一个普遍趋势是，代币预算已成为一个重要议题。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：A common trend emerging in larger enterprises is token budgeting as a major topic. As agents can do more and more lon…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "A common trend emerging in larger enterprises is token budgeting as a major topic.",
+      "originalBody": "A common trend emerging in larger enterprises is token budgeting as a major topic. As agents can do more and more long running tasks, and thus take vastly more compute, allocation of tokens across teams becomes a very real thing in the enterprise.\n\nCompanies spend a meaningful amount of time deciding how much to spend on talent, marketing campaigns, events, laptop setups, and even the cost of lunches. Tokens will be no different.\n\nTokens will similarly need to be excruciatingly well-managed because you’ll need to ensure you don’t blow up your budget, and you’ll need to ensure that the tokens are flowing to the highest and most useful parts of work. You don’t want to find out you burned your monthly budget on something relatively low value and then be blocked on the much higher value task later. \n\nDoing this at large company scale is extremely hard as you have layers of abstraction on data and visibility into the digital work being done by agents in any central way. This is going to mean that agentic spend will increasingly will expand beyond the confines of the IT budget, and end up in organizational budgets like other expenses. \n\nUltimately team and org leaders will have to be given budgets for this, but even they don’t have adequate visibility and controls in most cases. We’ll need all new software just to solve this problem, and it’s probably an opportunity for startups in its own right.\n\nGoing to be an all new era of enterprise resource allocation, especially while we compute constrained.",
+      "translatedTitle": "大型企业中出现的一个普遍趋势是，代币预算已成为一个重要议题。",
+      "translatedBody": "大型企业中一个日益普遍的趋势是，代币预算已成为一个重要议题。随着智能体能够执行越来越多的长时间运行任务，从而消耗大量的计算资源，跨团队分配代币已成为企业中一个非常现实的问题。\n\n公司会花费大量时间来决定在人才、营销活动、活动、笔记本电脑配置，甚至午餐费用上投入多少资金。代币的分配也不例外。\n\n代币同样需要极其精细的管理，因为你需要确保不会超支，并且要确保代币流向最有价值、最有价值的工作环节。你肯定不希望发现自己把月度预算浪费在了价值相对较低的任务上，然后导致之后价值更高的任务无法进行。\n\n在大公司规模下进行代币管理极其困难，因为数据存在多层抽象，而且很难以集中的方式了解智能体正在执行的数字工作。这意味着代理支出将越来越多地超出 IT 预算的范畴，最终像其他费用一样纳入组织预算。\n\n最终，团队和组织领导者必须为此获得预算，但即便如此，在大多数情况下，他们也缺乏足够的可见性和控制力。我们需要全新的软件来解决这个问题，而这本身可能就是初创企业的一大机遇。\n\n这将是一个全新的企业资源分配时代，尤其是在计算资源受限的情况下。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2052903105256382679",
+      "publishedAt": "2026-05-09T00:06:56.000Z",
+      "score": 57.45,
+      "engagement": {
+        "likes": 328,
+        "retweets": 39,
+        "replies": 66
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -212,35 +128,116 @@
       "sourceType": "x"
     },
     {
-      "id": "2052468573516513762",
+      "id": "2052928583388340332",
       "type": "tweet",
-      "builder": "Alex Albert",
-      "title": "在 Claude Mythos Preview 的帮助下，Firefox 团队修复了更多安全漏洞……",
-      "summary": "Alex Albert 的最新观点聚焦在可执行的一线经验：With the help of Claude Mythos Preview, the Firefox team fixed more security bugs in April than in the past 15 months…",
-      "whyItMatters": "Alex Albert 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "With the help of Claude Mythos Preview, the Firefox team fixed more security bugs i…",
-      "originalBody": "With the help of Claude Mythos Preview, the Firefox team fixed more security bugs in April than in the past 15 months combined. https://t.co/rHsempnr0Y",
-      "translatedTitle": "在 Claude Mythos Preview 的帮助下，Firefox 团队修复了更多安全漏洞……",
-      "translatedBody": "在 Claude Mythos Preview 的帮助下，Firefox 团队在 4 月份修复的安全漏洞比过去 15 个月加起来还要多。https://t.co/rHsempnr0Y",
+      "builder": "Zara Zhang",
+      "title": "AnyGen现已提供全部32款精美的HTML幻灯片模板，即插即用……",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：All 32 Beautiful HTML Slide Templates are now available on AnyGen, it's plug-and-play even for those without a coding…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "All 32 Beautiful HTML Slide Templates are now available on AnyGen, it's plug-and-pl…",
+      "originalBody": "All 32 Beautiful HTML Slide Templates are now available on AnyGen, it's plug-and-play even for those without a coding agent\n\nUse them now: https://t.co/HDcFWYzJXa https://t.co/BYSpiI1Bts https://t.co/Ugi2IUbxRN",
+      "translatedTitle": "AnyGen现已提供全部32款精美的HTML幻灯片模板，即插即用……",
+      "translatedBody": "所有 32 款精美的 HTML 幻灯片模板现已在 AnyGen 上架，即使没有编程助手也能轻松即插即用。\n\n立即使用：https://t.co/HDcFWYzJXa https://t.co/BYSpiI1Bts https://t.co/Ugi2IUbxRN",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/alexalbert__/status/2052468573516513762",
-      "publishedAt": "2026-05-07T19:20:15.000Z",
-      "score": 49.68,
+      "sourceUrl": "https://x.com/zarazhangrui/status/2052928583388340332",
+      "publishedAt": "2026-05-09T01:48:10.000Z",
+      "score": 52.49,
       "engagement": {
-        "likes": 11614,
-        "retweets": 926,
-        "replies": 233
+        "likes": 153,
+        "retweets": 14,
+        "replies": 9
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2052977849267892339",
+      "type": "tweet",
+      "builder": "Zara Zhang",
+      "title": "使用 OpenAI 的实时 2 API 构建了一个“YouTube 实时助手”浏览器扩展程序：……",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Built a \"YouTube realtime copilot\" browser extension using OpenAI's realtime 2 API: The agent watches the video along…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Built a \"YouTube realtime copilot\" browser extension using OpenAI's realtime 2 API:…",
+      "originalBody": "Built a \"YouTube realtime copilot\" browser extension using OpenAI's realtime 2 API: \n\nThe agent watches the video alongside you, and can answer any question you have about what was just said via realtime voice chat.\n\nThe crazy part to me is: It can differentiate the YouTube's audio stream and your voice, so it doesn't confuse the video as commands, and stays silent unless you ask something!",
+      "translatedTitle": "使用 OpenAI 的实时 2 API 构建了一个“YouTube 实时助手”浏览器扩展程序：……",
+      "translatedBody": "我用 OpenAI 的 Realtime 2 API 开发了一款“YouTube 实时助手”浏览器扩展：\n\n这个助手会和你一起观看视频，并通过实时语音聊天回答你关于视频内容的任何问题。\n\n最神奇的是：它能区分 YouTube 的音频流和你的声音，所以不会把视频误认为是指令，除非你主动提问，否则它会保持沉默！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/zarazhangrui/status/2052977849267892339",
+      "publishedAt": "2026-05-09T05:03:56.000Z",
+      "score": 52.26,
+      "engagement": {
+        "likes": 109,
+        "retweets": 7,
+        "replies": 14
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2052839798063112303",
+      "type": "tweet",
+      "builder": "Matt Turck",
+      "title": "我越思考人工智能代理，就越觉得定价并非完全取决于……",
+      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The more I think about AI agents, the less obvious it is that pricing goes purely consumption-based Token costs matte…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "The more I think about AI agents, the less obvious it is that pricing goes purely c…",
+      "originalBody": "The more I think about AI agents, the less obvious it is that pricing goes purely consumption-based\n\nToken costs matter... but enterprise agents may need identities, roles, auth, budgets, audit logs etc\n\nThat sounds oddly seat-like? just not human-seat-like",
+      "translatedTitle": "我越思考人工智能代理，就越觉得定价并非完全取决于……",
+      "translatedBody": "我越思考人工智能代理，就越觉得定价并非完全基于消费。\n\n令牌成本固然重要……但企业级代理可能需要身份、角色、授权、预算、审计日志等等。\n\n这听起来有点像座位？只是不像人类座位。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/mattturck/status/2052839798063112303",
+      "publishedAt": "2026-05-08T19:55:22.000Z",
+      "score": 50.04,
+      "engagement": {
+        "likes": 72,
+        "retweets": 5,
+        "replies": 26
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2052811606032269638",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "HTML是新的Markdown。",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验：HTML is the new markdown. I've stopped writing markdown files for almost everything and switched to using Claude Code…",
+      "whyItMatters": "Thariq 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "HTML is the new markdown.",
+      "originalBody": "HTML is the new markdown. \n\nI've stopped writing markdown files for almost everything and switched to using Claude Code to generate HTML for me. This is why. https://t.co/T97m0lIDx1",
+      "translatedTitle": "HTML是新的Markdown。",
+      "translatedBody": "HTML 是新的 Markdown。\n\n我已经不再为几乎所有东西编写 Markdown 文件，而是改用 Claude Code 来生成 HTML。原因如下：https://t.co/T97m0lIDx1",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2052811606032269638",
+      "publishedAt": "2026-05-08T18:03:20.000Z",
+      "score": 48.52,
+      "engagement": {
+        "likes": 8721,
+        "retweets": 671,
+        "replies": 654
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-08T07:58:39.860Z",
-    "totalCandidates": 34,
-    "textQualifiedCandidates": 15,
+    "upstreamGeneratedAt": "2026-05-09T08:12:14.479Z",
+    "totalCandidates": 23,
+    "textQualifiedCandidates": 10,
     "selectedTweets": 8
   }
 }
