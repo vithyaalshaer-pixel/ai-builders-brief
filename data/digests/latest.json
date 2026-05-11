@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-10",
-  "generatedAt": "2026-05-10T03:44:42.415Z",
+  "date": "2026-05-11",
+  "generatedAt": "2026-05-11T03:57:15.016Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-10",
-  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 23 条候选动态里，筛出 10 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-05-11",
+  "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 24 条候选动态里，筛出 15 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,30 +15,59 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
+    },
+    {
+      "slug": "product-ships",
+      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2052782201486598523",
+      "id": "2053191344999604409",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "@nikitabier @business bloomberg 突然对你对开发者的看法感兴趣了……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：@nikitabier @business bloomberg being suddenly interested in your take on developer experience and ai coding tools is…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "@nikitabier @business bloomberg being suddenly interested in your take on developer…",
-      "originalBody": "@nikitabier @business bloomberg being suddenly interested in your take on developer experience and ai coding tools is the new \"sexy singles in your area\" https://t.co/PBnXTxam0V",
-      "translatedTitle": "@nikitabier @business bloomberg 突然对你对开发者的看法感兴趣了……",
-      "translatedBody": "@nikitabier @business 彭博社突然对你关于开发者体验和人工智能编码工具的观点感兴趣，这简直就是新时代的“寻找你附近的性感单身人士”了。https://t.co/PBnXTxam0V",
+      "builder": "Sam Altman",
+      "title": "开始完成一系列法典任务，带着孩子在阳光下奔跑玩耍，还有……",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：kicking off a bunch of codex tasks, running around with my kid in the sunshine, and then coming back at naptime to fi…",
+      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "kicking off a bunch of codex tasks, running around with my kid in the sunshine, and…",
+      "originalBody": "kicking off a bunch of codex tasks, running around with my kid in the sunshine, and then coming back at naptime to find them all completed makes me very optimistic for the future",
+      "translatedTitle": "开始完成一系列法典任务，带着孩子在阳光下奔跑玩耍，还有……",
+      "translatedBody": "启动了一堆法典任务，和孩子在阳光下玩耍，然后在午睡时间回来发现所有任务都完成了，这让我对未来充满乐观。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2052782201486598523",
-      "publishedAt": "2026-05-08T16:06:30.000Z",
-      "score": 139.77,
+      "sourceUrl": "https://x.com/sama/status/2053191344999604409",
+      "publishedAt": "2026-05-09T19:12:17.000Z",
+      "score": 146.24,
       "engagement": {
-        "likes": 7,
+        "likes": 5807,
+        "retweets": 178,
+        "replies": 648
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2053364156510982164",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "想知道 @embirico 是否有关于 Codex 用户中使用此模式的比例以及使用情况的数据……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：wondering if @embirico has numbers on what % of codex users use this mode and how much it has gone up over the last m…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "wondering if @embirico has numbers on what % of codex users use this mode and how m…",
+      "originalBody": "wondering if @embirico has numbers on what % of codex users use this mode and how much it has gone up over the last month\n\nits a decent proxy for alignment/agent adoption https://t.co/rROmu1SezX",
+      "translatedTitle": "想知道 @embirico 是否有关于 Codex 用户中使用此模式的比例以及使用情况的数据……",
+      "translatedBody": "想知道 @embirico 是否有关于 Codex 用户使用此模式的比例以及过去一个月增长幅度的数据\n\n这可以作为衡量阵营/代理采用率的一个不错指标 https://t.co/rROmu1SezX",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2053364156510982164",
+      "publishedAt": "2026-05-10T06:38:59.000Z",
+      "score": 144.68,
+      "engagement": {
+        "likes": 10,
         "retweets": 0,
-        "replies": 6
+        "replies": 10
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -46,198 +75,175 @@
       "sourceType": "x"
     },
     {
-      "id": "2052899864493830590",
+      "id": "2053370687931498603",
       "type": "tweet",
-      "builder": "Alex Albert",
-      "title": "我们提供给 METR 的早期 Claude Mythos 预览快照的时间跨度更长……",
-      "summary": "Alex Albert 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：An early Claude Mythos Preview snapshot we provided METR has a time horizon of more than 2x the next best model on th…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "An early Claude Mythos Preview snapshot we provided METR has a time horizon of more…",
-      "originalBody": "An early Claude Mythos Preview snapshot we provided METR has a time horizon of more than 2x the next best model on their 80% success rate benchmark https://t.co/xOrewjvFIF https://t.co/DVUWVaubCg",
-      "translatedTitle": "我们提供给 METR 的早期 Claude Mythos 预览快照的时间跨度更长……",
-      "translatedBody": "我们提供给 METR 的 Claude Mythos 早期预览快照显示，其时间跨度是其 80% 成功率基准下第二佳模型的两倍以上。https://t.co/xOrewjvFIF https://t.co/DVUWVaubCg",
+      "builder": "Swyx",
+      "title": "好吧，我太兴奋了，这周我几乎都藏不住这个秘密，现在终于……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：OK I'VE BEEN SO EXCITED i could barely keep this a secret all week and it's finally official MY HOME COUNTRY'S MINIST…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "OK I'VE BEEN SO EXCITED i could barely keep this a secret all week and it's finally…",
+      "originalBody": "OK I'VE BEEN SO EXCITED i could barely keep this a secret all week and it's finally official\n\nMY HOME COUNTRY'S MINISTER OF FOREIGN AFFAIRS (equiv to Secretary of State) IS A HUGE NANOCLAW FAN (check @VivianBala, that's really him, not an intern) AND WILL BE KEYNOTING @AIDOTENGINEER SINGAPORE (with NanoClaw creator @Gavriel_Cohen right after) NEXT WEEK\n\nUsecases like his are what I have been hoping to promote with the international AIE partnerships and @agrimsingh and @SherryYanJiang crushed it with this one.\n\ngovernments waking up to AI and joining @aiDotEngineer:\n\nUK: Chief AI Officer\nSingapore: Cabinet Minister\n\nwho's next??",
+      "translatedTitle": "好吧，我太兴奋了，这周我几乎都藏不住这个秘密，现在终于……",
+      "translatedBody": "好吧，我兴奋极了，这周几乎都藏不住秘密了，现在终于正式公布了！\n\n我祖国的外交部长（相当于国务卿）是 NanoClaw 的超级粉丝（看看 @VivianBala，他本人就是 NanoClaw，不是实习生！），他将在下周的 @aiDotEngineer 新加坡大会上发表主题演讲（NanoClaw 的创始人 @Gavriel_Cohen 将在演讲结束后紧接着发言）。\n\n我一直希望通过国际人工智能工程师协会 (AIE) 的合作来推广像他这样的应用案例，@agrimsingh 和 @SherryYanJiang 在这方面做得非常出色。\n\n各国政府开始重视人工智能并加入 @aiDotEngineer：\n\n英国：首席人工智能官\n\n新加坡：内阁部长\n\n下一个会是谁呢？",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/alexalbert__/status/2052899864493830590",
-      "publishedAt": "2026-05-08T23:54:03.000Z",
-      "score": 86.45,
+      "sourceUrl": "https://x.com/swyx/status/2053370687931498603",
+      "publishedAt": "2026-05-10T07:04:56.000Z",
+      "score": 125.08,
       "engagement": {
-        "likes": 880,
-        "retweets": 66,
-        "replies": 52
+        "likes": 47,
+        "retweets": 3,
+        "replies": 9
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2053170264121450616",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "有时候我给克劳德·科德发消息，消息会卡住3分钟，我完全不知道发生了什么……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Sometimes when I message Claude Code it just hangs for 3 minutes and I have no idea whether it's still working or not…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Sometimes when I message Claude Code it just hangs for 3 minutes and I have no idea…",
+      "originalBody": "Sometimes when I message Claude Code it just hangs for 3 minutes and I have no idea whether it's still working or not. Wish it communicated more. https://t.co/Fzd7LhLsYK",
+      "translatedTitle": "有时候我给克劳德·科德发消息，消息会卡住3分钟，我完全不知道发生了什么……",
+      "translatedBody": "有时候我给 Claude Code 发消息，它会卡住 3 分钟，我完全不知道它是否还在运行。真希望它能多一些反馈。https://t.co/Fzd7LhLsYK",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2053170264121450616",
+      "publishedAt": "2026-05-09T17:48:31.000Z",
+      "score": 86.68,
+      "engagement": {
+        "likes": 961,
+        "retweets": 5,
+        "replies": 111
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models"
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2052928572810256748",
-      "type": "tweet",
-      "builder": "Amanda Askell",
-      "title": "一致性研究通常需要侧重于避免令人担忧的行为，但我认为……",
-      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Alignment research often has to focus on averting concerning behaviors, but I think the positive vision for this kind…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "Alignment research often has to focus on averting concerning behaviors, but I think…",
-      "originalBody": "Alignment research often has to focus on averting concerning behaviors, but I think the positive vision for this kind of training is one where we can give models and honest and positive vision for what AI models can be and why. I'm excited about the future of this work. https://t.co/4BnLVNjnEY https://t.co/AYIilWyJLB",
-      "translatedTitle": "一致性研究通常需要侧重于避免令人担忧的行为，但我认为……",
-      "translatedBody": "对齐研究通常需要侧重于避免令人担忧的行为，但我认为这类训练的积极愿景在于，我们可以为人工智能模型提供真实而积极的愿景，阐明人工智能模型能够成为什么样子以及为什么。我对这项工作的未来充满期待。https://t.co/4BnLVNjnEY https://t.co/AYIilWyJLB",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/AmandaAskell/status/2052928572810256748",
-      "publishedAt": "2026-05-09T01:48:07.000Z",
-      "score": 57.66,
-      "engagement": {
-        "likes": 394,
-        "retweets": 29,
-        "replies": 49
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2052903105256382679",
+      "id": "2053267097493573921",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "大型企业中出现的一个普遍趋势是，代币预算已成为一个重要议题。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：A common trend emerging in larger enterprises is token budgeting as a major topic. As agents can do more and more lon…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "A common trend emerging in larger enterprises is token budgeting as a major topic.",
-      "originalBody": "A common trend emerging in larger enterprises is token budgeting as a major topic. As agents can do more and more long running tasks, and thus take vastly more compute, allocation of tokens across teams becomes a very real thing in the enterprise.\n\nCompanies spend a meaningful amount of time deciding how much to spend on talent, marketing campaigns, events, laptop setups, and even the cost of lunches. Tokens will be no different.\n\nTokens will similarly need to be excruciatingly well-managed because you’ll need to ensure you don’t blow up your budget, and you’ll need to ensure that the tokens are flowing to the highest and most useful parts of work. You don’t want to find out you burned your monthly budget on something relatively low value and then be blocked on the much higher value task later. \n\nDoing this at large company scale is extremely hard as you have layers of abstraction on data and visibility into the digital work being done by agents in any central way. This is going to mean that agentic spend will increasingly will expand beyond the confines of the IT budget, and end up in organizational budgets like other expenses. \n\nUltimately team and org leaders will have to be given budgets for this, but even they don’t have adequate visibility and controls in most cases. We’ll need all new software just to solve this problem, and it’s probably an opportunity for startups in its own right.\n\nGoing to be an all new era of enterprise resource allocation, especially while we compute constrained.",
-      "translatedTitle": "大型企业中出现的一个普遍趋势是，代币预算已成为一个重要议题。",
-      "translatedBody": "大型企业中一个日益普遍的趋势是，代币预算已成为一个重要议题。随着智能体能够执行越来越多的长时间运行任务，从而消耗大量的计算资源，跨团队分配代币已成为企业中一个非常现实的问题。\n\n公司会花费大量时间来决定在人才、营销活动、活动、笔记本电脑配置，甚至午餐费用上投入多少资金。代币的分配也不例外。\n\n代币同样需要极其精细的管理，因为你需要确保不会超支，并且要确保代币流向最有价值、最有价值的工作环节。你肯定不希望发现自己把月度预算浪费在了价值相对较低的任务上，然后导致之后价值更高的任务无法进行。\n\n在大公司规模下进行代币管理极其困难，因为数据存在多层抽象，而且很难以集中的方式了解智能体正在执行的数字工作。这意味着代理支出将越来越多地超出 IT 预算的范畴，最终像其他费用一样纳入组织预算。\n\n最终，团队和组织领导者必须为此获得预算，但即便如此，在大多数情况下，他们也缺乏足够的可见性和控制力。我们需要全新的软件来解决这个问题，而这本身可能就是初创企业的一大机遇。\n\n这将是一个全新的企业资源分配时代，尤其是在计算资源受限的情况下。",
+      "title": "就我们目前所了解的经纪人的情况来看，很明显他们会取得成功……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：For everything we’ve seen about agents so far, it’s clear that they will make it far easier for people to get into pr…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "For everything we’ve seen about agents so far, it’s clear that they will make it fa…",
+      "originalBody": "For everything we’ve seen about agents so far, it’s clear that they will make it far easier for people to get into previously extremely complicated fields. That will most certainly mean far more people will build software, explore creative work, research spaces they couldn’t do before, and so on. \n\nYet, equally, we’ve seen that people with experience in every one of those fields have a huge edge with the right judgment and historical context to leverage these tools in ways that exceed the output of the novices (if they choose to). They know when the agents are making catastrophic mistakes, can give the agents the right context to do the job better than they otherwise would have, and so on. \n\nThe combination of these two facts essentially means that we will continue to get the same lift as we’ve seen in any other technological revolution. More democratization, but similarly greater output from the experts. This then makes the experts continue to be in higher demand because over time our expectation for what we can get out of any field will just go up.\n\nThis is going to be true in essentially every important field. You’ll trust a lawyer using an agent for legal advice over someone who’s never had to experience how well a contract holds up. You’ll trust an engineer developing and running software over someone who’s never seen a production system. You’ll rely on the important instincts of a designer using agents over the average prompter.\n\nThe quality and volume of output we expect from these functions will certainly go up meaningfully, but the person with experience will always have a leg up, which is why the jobs don’t go away.",
+      "translatedTitle": "就我们目前所了解的经纪人的情况来看，很明显他们会取得成功……",
+      "translatedBody": "就我们目前所见，智能体无疑将大大简化人们进入以往极其复杂领域的流程。这无疑意味着将有更多的人能够开发软件、探索创意工作、研究他们以前无法涉足的领域等等。\n\n然而，同样地，我们也看到，在所有这些领域拥有丰富经验的人，凭借正确的判断力和历史背景，能够以超越新手的方式利用这些工具（如果他们愿意的话），从而获得巨大的优势。他们知道智能体何时会犯下灾难性的错误，能够为智能体提供合适的背景信息，使其更好地完成工作等等。\n\n这两个事实结合起来，本质上意味着我们将持续获得与以往任何技术革命相同的推动力：更加民主化，但专家的产出同样更高。这将使专家的需求持续增长，因为随着时间的推移，我们对任何领域所能获得的期望都会不断提高。\n\n这几乎适用于所有重要领域。你会更信任通过代理人提供法律咨询的律师，而不是从未经历过合同效力的人。你会更信任开发和运行软件的工程师，而不是从未接触过生产系统的人。你会更依赖通过代理人工作的、拥有敏锐直觉的设计师，而不是普通的提词员。\n\n我们对这些职能的产出质量和数量期望无疑会显著提高，但有经验的人始终具有优势，这也是为什么这些工作不会消失的原因。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2052903105256382679",
-      "publishedAt": "2026-05-09T00:06:56.000Z",
-      "score": 57.45,
+      "sourceUrl": "https://x.com/levie/status/2053267097493573921",
+      "publishedAt": "2026-05-10T00:13:18.000Z",
+      "score": 82.21,
       "engagement": {
-        "likes": 328,
-        "retweets": 39,
-        "replies": 66
+        "likes": 321,
+        "retweets": 41,
+        "replies": 53
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2052928583388340332",
+      "id": "2053317001976881312",
       "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "AnyGen现已提供全部32款精美的HTML幻灯片模板，即插即用……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：All 32 Beautiful HTML Slide Templates are now available on AnyGen, it's plug-and-play even for those without a coding…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "All 32 Beautiful HTML Slide Templates are now available on AnyGen, it's plug-and-pl…",
-      "originalBody": "All 32 Beautiful HTML Slide Templates are now available on AnyGen, it's plug-and-play even for those without a coding agent\n\nUse them now: https://t.co/HDcFWYzJXa https://t.co/BYSpiI1Bts https://t.co/Ugi2IUbxRN",
-      "translatedTitle": "AnyGen现已提供全部32款精美的HTML幻灯片模板，即插即用……",
-      "translatedBody": "所有 32 款精美的 HTML 幻灯片模板现已在 AnyGen 上架，即使没有编程助手也能轻松即插即用。\n\n立即使用：https://t.co/HDcFWYzJXa https://t.co/BYSpiI1Bts https://t.co/Ugi2IUbxRN",
+      "builder": "Peter Yang",
+      "title": "如果你不小心，人工智能常会给你一个陷阱：1.",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Here's a common trap with AI if you're not careful: 1. You ask it to generate some markdown files (maybe to build som…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Here's a common trap with AI if you're not careful: 1.",
+      "originalBody": "Here's a common trap with AI if you're not careful:\n\n1. You ask it to generate some markdown files (maybe to build some skills). You skim them and they look ok. Sure, there's a bit of slop in there, but you're too lazy to edit them manually.\n\n2. Over time you ask it to generate more markdown files. Except now it's referencing the previous files to write the new ones.\n\n3. What started as 5% slop becomes 10% and then more. Before you know it, you've got a pile of AI-generated slop that feels overwhelming and have no idea how any of it actually works.\n\n🥲",
+      "translatedTitle": "如果你不小心，人工智能常会给你一个陷阱：1.",
+      "translatedBody": "如果你不小心，人工智能很容易陷入以下陷阱：\n\n1. 你让它生成一些 Markdown 文件（可能是为了提升技能）。你快速浏览了一下，看起来还不错。当然，里面肯定有一些瑕疵，但你懒得手动修改。\n\n2. 随着时间的推移，你让它生成更多 Markdown 文件。但这次，它会引用之前的文件来生成新的文件。\n\n3. 最初只有 5% 的瑕疵，后来变成了 10%，然后更多。不知不觉中，你手里就堆满了人工智能生成的乱七八糟的文件，感觉不知所措，却完全不知道它们是怎么运作的。\n\n🥲",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2052928583388340332",
-      "publishedAt": "2026-05-09T01:48:10.000Z",
-      "score": 52.49,
+      "sourceUrl": "https://x.com/petergyang/status/2053317001976881312",
+      "publishedAt": "2026-05-10T03:31:36.000Z",
+      "score": 80.23,
       "engagement": {
-        "likes": 153,
-        "retweets": 14,
-        "replies": 9
+        "likes": 229,
+        "retweets": 3,
+        "replies": 63
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2052977849267892339",
+      "id": "2053196581139321300",
       "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "使用 OpenAI 的实时 2 API 构建了一个“YouTube 实时助手”浏览器扩展程序：……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Built a \"YouTube realtime copilot\" browser extension using OpenAI's realtime 2 API: The agent watches the video along…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Built a \"YouTube realtime copilot\" browser extension using OpenAI's realtime 2 API:…",
-      "originalBody": "Built a \"YouTube realtime copilot\" browser extension using OpenAI's realtime 2 API: \n\nThe agent watches the video alongside you, and can answer any question you have about what was just said via realtime voice chat.\n\nThe crazy part to me is: It can differentiate the YouTube's audio stream and your voice, so it doesn't confuse the video as commands, and stays silent unless you ask something!",
-      "translatedTitle": "使用 OpenAI 的实时 2 API 构建了一个“YouTube 实时助手”浏览器扩展程序：……",
-      "translatedBody": "我用 OpenAI 的 Realtime 2 API 开发了一款“YouTube 实时助手”浏览器扩展：\n\n这个助手会和你一起观看视频，并通过实时语音聊天回答你关于视频内容的任何问题。\n\n最神奇的是：它能区分 YouTube 的音频流和你的声音，所以不会把视频误认为是指令，除非你主动提问，否则它会保持沉默！",
+      "builder": "Peter Yang",
+      "title": "代理程序会生成md和html文件，还有其他人懒得编辑吗？",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：With agents generating md and html files anyone else find themselves too lazy to edit the files manually? All the age…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "With agents generating md and html files anyone else find themselves too lazy to ed…",
+      "originalBody": "With agents generating md and html files anyone else find themselves too lazy to edit the files manually? \n\nAll the agent generated files seem good but then always have at least 10% slop in there.",
+      "translatedTitle": "代理程序会生成md和html文件，还有其他人懒得编辑吗？",
+      "translatedBody": "代理程序生成的 md 和 html 文件，有没有人和我一样懒得手动编辑？\n\n所有代理程序生成的文件看起来都不错，但总有至少 10% 的冗余代码。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2052977849267892339",
-      "publishedAt": "2026-05-09T05:03:56.000Z",
-      "score": 52.26,
+      "sourceUrl": "https://x.com/petergyang/status/2053196581139321300",
+      "publishedAt": "2026-05-09T19:33:06.000Z",
+      "score": 74.84,
       "engagement": {
-        "likes": 109,
-        "retweets": 7,
-        "replies": 14
+        "likes": 58,
+        "retweets": 0,
+        "replies": 39
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2052839798063112303",
+      "id": "2053159569015328953",
       "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "我越思考人工智能代理，就越觉得定价并非完全取决于……",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The more I think about AI agents, the less obvious it is that pricing goes purely consumption-based Token costs matte…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The more I think about AI agents, the less obvious it is that pricing goes purely c…",
-      "originalBody": "The more I think about AI agents, the less obvious it is that pricing goes purely consumption-based\n\nToken costs matter... but enterprise agents may need identities, roles, auth, budgets, audit logs etc\n\nThat sounds oddly seat-like? just not human-seat-like",
-      "translatedTitle": "我越思考人工智能代理，就越觉得定价并非完全取决于……",
-      "translatedBody": "我越思考人工智能代理，就越觉得定价并非完全基于消费。\n\n令牌成本固然重要……但企业级代理可能需要身份、角色、授权、预算、审计日志等等。\n\n这听起来有点像座位？只是不像人类座位。",
+      "builder": "Nikunj Kothari",
+      "title": "如果你总是对那些像真人一样估算工作量的模型感到恼火……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：If you are always annoyed at models estimating work as if a human is doing it instead of just crushing the work, add…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "If you are always annoyed at models estimating work as if a human is doing it inste…",
+      "originalBody": "If you are always annoyed at models estimating work as if a human is doing it instead of just crushing the work, add this to your custom instructions.. \n\n“When estimating or planning, assume you (the model) are executing the work yourself. Report timelines in model-execution units (seconds, minutes, tool calls, iterations), not human days or headcount. Separate the work into (a) the model-executable portion you will do and (b) human prerequisites or follow-ups such as API signups, credentials, hosting, deploys, or anything requiring accounts or physical action you cannot access. Estimate only your portion and flag human parts explicitly. Mark any human step that blocks model work as a gating step, not just a parallel task. If a task is entirely human-required, say so instead of inventing a model plan. If the model portion is short enough to complete in this conversation, offer to start now rather than only planning”.",
+      "translatedTitle": "如果你总是对那些像真人一样估算工作量的模型感到恼火……",
+      "translatedBody": "如果您总是对模型估算工作量时仿佛是在模拟人类操作而非高效完成工作感到恼火，请将以下内容添加到您的自定义指令中：\n\n“在估算或规划时，请假设您（模型）正在亲自执行工作。以模型执行单位（秒、分钟、工具调用次数、迭代次数）报告时间线，而不是以人工天数或人员数量为单位。将工作分为 (a) 您将执行的模型可执行部分和 (b) 人工前提条件或后续工作，例如 API 注册、凭证、托管、部署，或任何需要您无法访问的帐户或实际操作。仅估算您负责的部分，并明确标记人工操作部分。将任何阻碍模型工作的人工步骤标记为关键步骤，而不仅仅是并行任务。如果某项任务完全需要人工操作，请明确说明，而不是编造模型计划。如果模型部分足够短，可以在本次对话中完成，请提出立即开始，而不仅仅是进行规划。”",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2052839798063112303",
-      "publishedAt": "2026-05-08T19:55:22.000Z",
-      "score": 50.04,
+      "sourceUrl": "https://x.com/nikunj/status/2053159569015328953",
+      "publishedAt": "2026-05-09T17:06:01.000Z",
+      "score": 72.4,
       "engagement": {
-        "likes": 72,
-        "retweets": 5,
-        "replies": 26
+        "likes": 56,
+        "retweets": 3,
+        "replies": 7
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Foundation Models",
+        "Product Ships"
       ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2052811606032269638",
-      "type": "tweet",
-      "builder": "Thariq",
-      "title": "HTML是新的Markdown。",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验：HTML is the new markdown. I've stopped writing markdown files for almost everything and switched to using Claude Code…",
-      "whyItMatters": "Thariq 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "HTML is the new markdown.",
-      "originalBody": "HTML is the new markdown. \n\nI've stopped writing markdown files for almost everything and switched to using Claude Code to generate HTML for me. This is why. https://t.co/T97m0lIDx1",
-      "translatedTitle": "HTML是新的Markdown。",
-      "translatedBody": "HTML 是新的 Markdown。\n\n我已经不再为几乎所有东西编写 Markdown 文件，而是改用 Claude Code 来生成 HTML。原因如下：https://t.co/T97m0lIDx1",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2052811606032269638",
-      "publishedAt": "2026-05-08T18:03:20.000Z",
-      "score": 48.52,
-      "engagement": {
-        "likes": 8721,
-        "retweets": 671,
-        "replies": 654
-      },
-      "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-09T08:12:14.479Z",
-    "totalCandidates": 23,
-    "textQualifiedCandidates": 10,
+    "upstreamGeneratedAt": "2026-05-10T08:22:05.364Z",
+    "totalCandidates": 24,
+    "textQualifiedCandidates": 15,
     "selectedTweets": 8
   }
 }
