@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-14",
-  "generatedAt": "2026-05-14T03:49:36.831Z",
+  "date": "2026-05-15",
+  "generatedAt": "2026-05-15T03:53:19.105Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-14",
-  "summary": "今天没有筛出足够高信号的文字动态，保留上一版节奏并等待下一轮更新。",
-  "intro": "已从 0 条候选动态里，筛出 0 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-05-15",
+  "summary": "今天最值得看的是 Peter Yang 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 3 条候选动态里，筛出 3 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,19 +13,95 @@
       "label": "Coding Agents"
     },
     {
-      "slug": "foundation-models",
-      "label": "Foundation Models"
-    },
-    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
-  "tweetHighlights": [],
+  "tweetHighlights": [
+    {
+      "id": "2054569893060809151",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "告诉我你是否以前见过这句话：“今天真是艰难的一天。”",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Tell me if you've seen this before: \"Today is a hard day. We've made the difficult decision to cut 1,000+ employees.…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Tell me if you've seen this before: \"Today is a hard day.",
+      "originalBody": "Tell me if you've seen this before:\n\n\"Today is a hard day. We've made the difficult decision to cut 1,000+ employees. Our business has never been stronger, but AI has changed how we work...\"\n\nWhenever I read one of these, I mentally translate it to what's actually happening:\n\n\"Today is a hard day. We overhired during the zero-interest era and need to cut costs. AI is easy to blame, so…\"\n\nOver 80,000 tech employees were laid off in Q1, the highest since 2022-23.\n\nHere's my rant why these layoffs keep happening and 6 ways to take back control as an employee.\n\n📌 Read now: https://t.co/LGgVeVAE4t",
+      "translatedTitle": "告诉我你是否以前见过这句话：“今天真是艰难的一天。”",
+      "translatedBody": "告诉我你是否也曾见过这样的广告：\n\n“今天是个艰难的日子。我们做出了一个艰难的决定，裁员1000多人。我们的业务从未如此强劲，但人工智能改变了我们的工作方式……”\n\n每当我看到这样的广告，我都会在脑海中把它翻译成现实：\n\n“今天是个艰难的日子。我们在零利率时代过度招聘，现在需要削减成本。人工智能很容易成为替罪羊，所以……”\n\n第一季度，超过8万名科技从业人员被裁员，这是自2022-2023财年以来的最高纪录。\n\n以下是我对裁员持续发生的原因的吐槽，以及作为员工如何重新掌控自己命运的6种方法。\n\n📌 立即阅读：https://t.co/LGgVeVAE4t",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2054569893060809151",
+      "publishedAt": "2026-05-13T14:30:09.000Z",
+      "score": 48.76,
+      "engagement": {
+        "likes": 60,
+        "retweets": 3,
+        "replies": 19
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2054778575988093249",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "传统媒体引用那些从中获利的人的言论，无异于自取其辱……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Legacy media besmirches itself when it quotes people who personally benefit from more fentanyl tourism Defund nonprof…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Legacy media besmirches itself when it quotes people who personally benefit from mo…",
+      "originalBody": "Legacy media besmirches itself when it quotes people who personally benefit from more fentanyl tourism \n\nDefund nonprofits that support people doing drugs until they die. Fund recovery and treatment in SF and everywhere in on the West Coast https://t.co/qWRYjVYWHd",
+      "translatedTitle": "传统媒体引用那些从中获利的人的言论，无异于自取其辱……",
+      "translatedBody": "传统媒体引用那些从芬太尼旅游中获利的人的言论，简直是在自取其辱。\n\n停止资助那些支持吸毒致死者的非营利组织。为旧金山和西海岸各地的戒毒康复和治疗提供资金。https://t.co/qWRYjVYWHd",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2054778575988093249",
+      "publishedAt": "2026-05-14T04:19:23.000Z",
+      "score": 48.43,
+      "engagement": {
+        "likes": 53,
+        "retweets": 9,
+        "replies": 7
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2054599845214650442",
+      "type": "tweet",
+      "builder": "Nikunj Kothari",
+      "title": "如果你需要一个信号来证明风险投资已经真正成为共识资本，那么这就是了……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验：If you needed a signal that VC has truly become consensus capital, then this is the sign.. If you are a founder for t…",
+      "whyItMatters": "Nikunj Kothari 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "If you needed a signal that VC has truly become consensus capital, then this is the…",
+      "originalBody": "If you needed a signal that VC has truly become consensus capital, then this is the sign.. \n\nIf you are a founder for the sake of being a founder, then this will resonate since you NEED capital to run your business.\n\nIf you are obsessed and don't care what the world thinks, then you'll treat each rejection as potential learning - but NOT a verdict on why you shouldn't start that company.",
+      "translatedTitle": "如果你需要一个信号来证明风险投资已经真正成为共识资本，那么这就是了……",
+      "translatedBody": "如果你需要一个信号来证明风险投资已经真正成为共识资本，那么这就是了。\n\n如果你只是为了创业而创业，那么这一点会让你感同身受，因为你需要资金来运营你的公司。\n\n如果你痴迷于创业，不在乎外界的看法，那么你会把每一次拒绝都视为潜在的学习机会，而不是否定你创办这家公司的决定。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/nikunj/status/2054599845214650442",
+      "publishedAt": "2026-05-13T16:29:10.000Z",
+      "score": 27.39,
+      "engagement": {
+        "likes": 159,
+        "retweets": 3,
+        "replies": 17
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    }
+  ],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-13T09:19:56.049Z",
-    "totalCandidates": 0,
-    "textQualifiedCandidates": 0,
-    "selectedTweets": 0
+    "upstreamGeneratedAt": "2026-05-14T08:50:39.990Z",
+    "totalCandidates": 3,
+    "textQualifiedCandidates": 3,
+    "selectedTweets": 3
   }
 }
