@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-15",
-  "generatedAt": "2026-05-15T03:53:19.105Z",
+  "date": "2026-05-16",
+  "generatedAt": "2026-05-16T03:35:11.796Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-15",
-  "summary": "今天最值得看的是 Peter Yang 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 3 条候选动态里，筛出 3 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-05-16",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 31 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,58 +13,199 @@
       "label": "Coding Agents"
     },
     {
+      "slug": "foundation-models",
+      "label": "Foundation Models"
+    },
+    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2054569893060809151",
+      "id": "2054989456189648918",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "告诉我你是否以前见过这句话：“今天真是艰难的一天。”",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Tell me if you've seen this before: \"Today is a hard day. We've made the difficult decision to cut 1,000+ employees.…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Tell me if you've seen this before: \"Today is a hard day.",
-      "originalBody": "Tell me if you've seen this before:\n\n\"Today is a hard day. We've made the difficult decision to cut 1,000+ employees. Our business has never been stronger, but AI has changed how we work...\"\n\nWhenever I read one of these, I mentally translate it to what's actually happening:\n\n\"Today is a hard day. We overhired during the zero-interest era and need to cut costs. AI is easy to blame, so…\"\n\nOver 80,000 tech employees were laid off in Q1, the highest since 2022-23.\n\nHere's my rant why these layoffs keep happening and 6 ways to take back control as an employee.\n\n📌 Read now: https://t.co/LGgVeVAE4t",
-      "translatedTitle": "告诉我你是否以前见过这句话：“今天真是艰难的一天。”",
-      "translatedBody": "告诉我你是否也曾见过这样的广告：\n\n“今天是个艰难的日子。我们做出了一个艰难的决定，裁员1000多人。我们的业务从未如此强劲，但人工智能改变了我们的工作方式……”\n\n每当我看到这样的广告，我都会在脑海中把它翻译成现实：\n\n“今天是个艰难的日子。我们在零利率时代过度招聘，现在需要削减成本。人工智能很容易成为替罪羊，所以……”\n\n第一季度，超过8万名科技从业人员被裁员，这是自2022-2023财年以来的最高纪录。\n\n以下是我对裁员持续发生的原因的吐槽，以及作为员工如何重新掌控自己命运的6种方法。\n\n📌 立即阅读：https://t.co/LGgVeVAE4t",
+      "builder": "Guillermo Rauch",
+      "title": "顺便说一下，你可以在终端上渲染图像：▲ ~/ npx ai-cli image 'a vercel ai…",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：You can just render images on the terminal btw: ▲ ~/ npx ai-cli image 'a vercel ai sdk diagram' Run 𝚗𝚙𝚖 𝚒 -𝚐 𝚊\ud835…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "You can just render images on the terminal btw: ▲ ~/ npx ai-cli image 'a vercel ai…",
+      "originalBody": "You can just render images on the terminal btw:\n▲ ~/ npx ai-cli image 'a vercel ai sdk diagram'\n\nRun 𝚗𝚙𝚖 𝚒 -𝚐 𝚊𝚒-𝚌𝚕𝚒 and access every image, video & text model from @vercel AI Gateway instantly https://t.co/IsATrdSNyF",
+      "translatedTitle": "顺便说一下，你可以在终端上渲染图像：▲ ~/ npx ai-cli image 'a vercel ai…",
+      "translatedBody": "顺便一提，你也可以直接在终端渲染图像：\n\n▲ ~/ npx ai-cli image 'a vercel ai sdk diagram'\n\n运行 𝚗𝚙𝚖 𝚒 -𝚐 𝚊𝚒-𝚌𝚕𝚒 即可立即访问 @vercel AI Gateway 中的所有图像、视频和文本模型 https://t.co/IsATrdSNyF",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2054569893060809151",
-      "publishedAt": "2026-05-13T14:30:09.000Z",
-      "score": 48.76,
+      "sourceUrl": "https://x.com/rauchg/status/2054989456189648918",
+      "publishedAt": "2026-05-14T18:17:20.000Z",
+      "score": 182.95,
       "engagement": {
-        "likes": 60,
-        "retweets": 3,
-        "replies": 19
+        "likes": 456,
+        "retweets": 21,
+        "replies": 39
       },
       "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2055113979857703350",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "显然，在@AIEMiami 大会上，Geoff 抱怨说 @SAPConcur 已经是一款过时的软件……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：Apparently at @AIEMiami geoff complained about @SAPConcur being dead software and a SAP guy was in the audience and i…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Apparently at @AIEMiami geoff complained about @SAPConcur being dead software and a…",
+      "originalBody": "Apparently at @AIEMiami geoff complained about @SAPConcur being dead software and a SAP guy was in the audience and invited him to SAP to advise on how to do AI transformation for 6800 employees \n\nTLDR he made fun of SAP, and SAP… concurred https://t.co/oCD0d6Mb1T https://t.co/g5sT8h5hVI",
+      "translatedTitle": "显然，在@AIEMiami 大会上，Geoff 抱怨说 @SAPConcur 已经是一款过时的软件……",
+      "translatedBody": "显然，在@AIEMiami 大会上，Geoff 抱怨 SAPConcur 已经过时了，一位 SAP 员工正好在场，便邀请他加入 SAP，为公司 6800 名员工提供 AI 转型方面的咨询。\n\n简而言之，他嘲讽了 SAP，而 SAP……表示赞同。https://t.co/oCD0d6Mb1T https://t.co/g5sT8h5hVI",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2055113979857703350",
+      "publishedAt": "2026-05-15T02:32:09.000Z",
+      "score": 124.61,
+      "engagement": {
+        "likes": 92,
+        "retweets": 0,
+        "replies": 13
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2055136119969529993",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "他花了整整一年时间才搭建好他的特工安全带的脚手架。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：He just spent a year building scaffolding for his agent harness. Now release a new model update that makes all of it…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "He just spent a year building scaffolding for his agent harness.",
+      "originalBody": "He just spent a year building scaffolding for his agent harness. Now release a new model update that makes all of it obsolete. https://t.co/lSoGB1j1rH",
+      "translatedTitle": "他花了整整一年时间才搭建好他的特工安全带的脚手架。",
+      "translatedBody": "他花了整整一年时间搭建特工安全带的框架，现在却发布了一个新模型更新，让之前的所有工作都作废了。https://t.co/lSoGB1j1rH",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2055136119969529993",
+      "publishedAt": "2026-05-15T04:00:08.000Z",
+      "score": 109.75,
+      "engagement": {
+        "likes": 592,
+        "retweets": 39,
+        "replies": 37
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2054778575988093249",
+      "id": "2055143231625818554",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "传统媒体引用那些从中获利的人的言论，无异于自取其辱……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Legacy media besmirches itself when it quotes people who personally benefit from more fentanyl tourism Defund nonprof…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Legacy media besmirches itself when it quotes people who personally benefit from mo…",
-      "originalBody": "Legacy media besmirches itself when it quotes people who personally benefit from more fentanyl tourism \n\nDefund nonprofits that support people doing drugs until they die. Fund recovery and treatment in SF and everywhere in on the West Coast https://t.co/qWRYjVYWHd",
-      "translatedTitle": "传统媒体引用那些从中获利的人的言论，无异于自取其辱……",
-      "translatedBody": "传统媒体引用那些从芬太尼旅游中获利的人的言论，简直是在自取其辱。\n\n停止资助那些支持吸毒致死者的非营利组织。为旧金山和西海岸各地的戒毒康复和治疗提供资金。https://t.co/qWRYjVYWHd",
+      "builder": "Aaron Levie",
+      "title": "我们正处于一个角色界限变得模糊不清的时期……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：We’re in a period where everything feels like it’s getting jumbled up across roles because AI lets you explore the ad…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "We’re in a period where everything feels like it’s getting jumbled up across roles…",
+      "originalBody": "We’re in a period where everything feels like it’s getting jumbled up across roles because AI lets you explore the adjacencies of other functions more easily.\n\nWe all collectively have to figure out the new form of definition of what these jobs look like in a world of agents, and certainly many will look different from what they did before. But there are some immutable laws that will eventually re-emerge over time and become clear again. \n\nAs an example, when you’re scaling, product managers should be spending an insane amount of time with customers and getting feedback on the product and thinking through what to do build next, how to design it so it’s usable, and so on. Engineers should be understanding the business objectives, and building systems that scale and are secure, even as feature velocity increases by 10X. Now both can do a bit more of the others role, and this can temporarily get conflated as doing the whole thing, but eventually the work adds up to be enough that it makes sense to specialize again.\n\nSimilarly, in GTM, the product marketer can certainly generate a working design and video for a launch, but the specialist is always going to (or should) have an eye for quality that delivers a better outcome.\n\nMy bet is that AI enhances specialization even further, even if a few roles collapse into each other, and the future toolchain and craft of the specialist will be much higher leverage and output far greater than anyone else as a hobbyist in that function.",
+      "translatedTitle": "我们正处于一个角色界限变得模糊不清的时期……",
+      "translatedBody": "我们正处于一个角色界限模糊的时期，因为人工智能让我们更容易探索其他职能之间的关联。\n\n我们都必须共同努力，在智能体时代重新定义这些工作，而且许多工作肯定会与以往大不相同。但有些不变的规律终将随着时间的推移而重新出现，并再次变得清晰明了。\n\n例如，在规模化发展阶段，产品经理应该投入大量时间与客户沟通，收集产品反馈，思考下一步的开发方向、如何设计才能使其易于使用等等。工程师则应该理解业务目标，构建可扩展且安全的系统，即使功能开发速度提升了十倍。现在，两者都可以承担对方的部分职责，这在短期内可能会让人误以为他们包揽了所有工作，但最终，工作量累积起来，再次进行专业化分工就显得尤为重要。\n\n同样，在市场推广（GTM）中，产品营销人员当然可以为产品发布制作出可用的设计和视频，但专家始终（或者说应该）拥有对品质的敏锐眼光，从而带来更佳的成果。\n\n我认为，人工智能将进一步强化专业化，即便某些角色可能会相互融合，但未来专家的工具链和技能将更具杠杆效应，产出也将远远超过其他从事该职能的业余人士。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2054778575988093249",
-      "publishedAt": "2026-05-14T04:19:23.000Z",
-      "score": 48.43,
+      "sourceUrl": "https://x.com/levie/status/2055143231625818554",
+      "publishedAt": "2026-05-15T04:28:23.000Z",
+      "score": 80.23,
       "engagement": {
-        "likes": 53,
-        "retweets": 9,
+        "likes": 182,
+        "retweets": 18,
+        "replies": 40
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2055093087660286413",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "我觉得这篇帖子被一些不明真相的人淹没了，所以，真的，别太当真……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I think this post is getting swarmed by uninformed people, so really, just take a look at this if you are here to say…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I think this post is getting swarmed by uninformed people, so really, just take a l…",
+      "originalBody": "I think this post is getting swarmed by uninformed people, so really, just take a look at this if you are here to say \"hur dur datacenters are bad for energy/water/jobs/loud\" https://t.co/6b79qXp1Op",
+      "translatedTitle": "我觉得这篇帖子被一些不明真相的人淹没了，所以，真的，别太当真……",
+      "translatedBody": "我觉得这篇帖子被一些不明真相的人淹没了，所以如果你只是想说“数据中心对能源/水/就业/噪音有害处”，那就看看这个链接吧：https://t.co/6b79qXp1Op",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2055093087660286413",
+      "publishedAt": "2026-05-15T01:09:08.000Z",
+      "score": 54.26,
+      "engagement": {
+        "likes": 143,
+        "retweets": 24,
+        "replies": 55
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2054924517135540320",
+      "type": "tweet",
+      "builder": "Nikunj Kothari",
+      "title": "每一家拥有数据墙的大型公司都意识到，是时候采用无头架构（或称无头架构）了……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Every single large company with data walls realizing it’s time to go headless (or essentially die).. It’s the right c…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Every single large company with data walls realizing it’s time to go headless (or e…",
+      "originalBody": "Every single large company with data walls realizing it’s time to go headless (or essentially die)..\n\nIt’s the right call too since the market/usage for agents will be 100x larger than humans. \n\nIf you gatekeep your systems for humans, you’ll most likely be 100x less valuable!",
+      "translatedTitle": "每一家拥有数据墙的大型公司都意识到，是时候采用无头架构（或称无头架构）了……",
+      "translatedBody": "所有拥有数据壁垒的大型公司都意识到，是时候转向无头系统了（否则就只能等死）。\n\n这的确是正确的决定，因为智能代理的市场/使用量将是人类的百倍。\n\n如果你的系统只允许人类访问，你的价值很可能会缩水百倍！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/nikunj/status/2054924517135540320",
+      "publishedAt": "2026-05-14T13:59:18.000Z",
+      "score": 49.71,
+      "engagement": {
+        "likes": 79,
+        "retweets": 3,
+        "replies": 19
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2055015466054410400",
+      "type": "tweet",
+      "builder": "Dan Shipper",
+      "title": "当人们问我如何让他们的组织代理人清醒过来时，我总是说同样的话：t…",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：when people ask me how to get their org agent-pilled i always say the same thing: the #1 leading indicator is whether…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "when people ask me how to get their org agent-pilled i always say the same thing: t…",
+      "originalBody": "when people ask me how to get their org agent-pilled i always say the same thing:\n\nthe #1 leading indicator is whether their leadership team personally uses Codex, Claude Code or Cowork day to day. \n\nthat’s why over the last few months we’ve been working privately with leadership teams of the top companies in tech, helping them get their hands deep into Claude Code, Cowork, Codex and more. \n\nif you want @every to come and get your exec team agent-pilled, we’re opening up a few slots:\n\nhttps://t.co/o8g3c1xKYr",
+      "translatedTitle": "当人们问我如何让他们的组织代理人清醒过来时，我总是说同样的话：t…",
+      "translatedBody": "当人们问我如何让他们的组织真正重视智能代理时，我总是给出同样的答案：\n\n最重要的指标是他们的领导团队是否每天都在使用 Codex、Claude Code 或 Cowork。\n\n因此，在过去的几个月里，我们一直在与顶尖科技公司的领导团队进行私下合作，帮助他们深入了解 Claude Code、Cowork、Codex 等工具。\n\n如果您希望 @every 来帮助您的管理团队重视智能代理，我们目前开放了一些名额：\n\nhttps://t.co/o8g3c1xKYr",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/danshipper/status/2055015466054410400",
+      "publishedAt": "2026-05-14T20:00:42.000Z",
+      "score": 48.3,
+      "engagement": {
+        "likes": 68,
+        "retweets": 4,
         "replies": 7
       },
       "matchedFocusAreas": [
@@ -73,35 +214,37 @@
       "sourceType": "x"
     },
     {
-      "id": "2054599845214650442",
+      "id": "2054981832408760782",
       "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "如果你需要一个信号来证明风险投资已经真正成为共识资本，那么这就是了……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验：If you needed a signal that VC has truly become consensus capital, then this is the sign.. If you are a founder for t…",
-      "whyItMatters": "Nikunj Kothari 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "If you needed a signal that VC has truly become consensus capital, then this is the…",
-      "originalBody": "If you needed a signal that VC has truly become consensus capital, then this is the sign.. \n\nIf you are a founder for the sake of being a founder, then this will resonate since you NEED capital to run your business.\n\nIf you are obsessed and don't care what the world thinks, then you'll treat each rejection as potential learning - but NOT a verdict on why you shouldn't start that company.",
-      "translatedTitle": "如果你需要一个信号来证明风险投资已经真正成为共识资本，那么这就是了……",
-      "translatedBody": "如果你需要一个信号来证明风险投资已经真正成为共识资本，那么这就是了。\n\n如果你只是为了创业而创业，那么这一点会让你感同身受，因为你需要资金来运营你的公司。\n\n如果你痴迷于创业，不在乎外界的看法，那么你会把每一次拒绝都视为潜在的学习机会，而不是否定你创办这家公司的决定。",
+      "builder": "Zara Zhang",
+      "title": "我将于下周六（5月23日）在旧金山共同主持一场活动！",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I will be co-hosting an event in SF next Sat (5/23)! I've been thinking a lot about how to manage & curate CONTEXT fo…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I will be co-hosting an event in SF next Sat (5/23)!",
+      "originalBody": "I will be co-hosting an event in SF next Sat (5/23)!\n\nI've been thinking a lot about how to manage & curate CONTEXT for agents. I'm inviting everyone who's thought a lot about this to demo your real workflows & show what's actually working.\n\nFormat: A series of rapid-fire 5-minute demos, followed by Q&A. Screen shares of real workflows only; no slides.\n\n​Not demoing? Come hang out as a participant. Either way, expect an afternoon of practical workflows, fresh ideas, and new friends.\n\nRSVP here: https://t.co/5t0q6cHDV6\n\nCohosted w @NotionHQ & @radicalvcfund (@juleszqiu)",
+      "translatedTitle": "我将于下周六（5月23日）在旧金山共同主持一场活动！",
+      "translatedBody": "我将于下周六（5月23日）在旧金山联合举办一场活动！\n\n我一直在思考如何管理和策划经纪人的情境信息。我诚邀所有对此进行过深入思考的朋友们来演示你们的实际工作流程，并分享哪些方法真正有效。\n\n形式：一系列5分钟的快速演示，随后是问答环节。仅展示实际工作流程的屏幕，不使用幻灯片。\n\n不做演示？欢迎作为参与者前来交流。无论如何，期待一个充满实用工作流程、新鲜想法和新朋友的下午。\n\n请在此处回复：https://t.co/5t0q6cHDV6\n\n与 @NotionHQ 和 @radicalvcfund (@juleszqiu) 联合举办",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2054599845214650442",
-      "publishedAt": "2026-05-13T16:29:10.000Z",
-      "score": 27.39,
+      "sourceUrl": "https://x.com/zarazhangrui/status/2054981832408760782",
+      "publishedAt": "2026-05-14T17:47:03.000Z",
+      "score": 48.06,
       "engagement": {
-        "likes": 159,
-        "retweets": 3,
-        "replies": 17
+        "likes": 61,
+        "retweets": 4,
+        "replies": 9
       },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-14T08:50:39.990Z",
-    "totalCandidates": 3,
-    "textQualifiedCandidates": 3,
-    "selectedTweets": 3
+    "upstreamGeneratedAt": "2026-05-15T09:24:50.319Z",
+    "totalCandidates": 31,
+    "textQualifiedCandidates": 13,
+    "selectedTweets": 8
   }
 }
