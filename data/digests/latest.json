@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-16",
-  "generatedAt": "2026-05-16T03:35:11.796Z",
+  "date": "2026-05-17",
+  "generatedAt": "2026-05-17T03:53:34.108Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-16",
+  "title": "AI Builders Daily | 2026-05-17",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 31 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 26 条候选动态里，筛出 17 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,78 +23,187 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2054989456189648918",
+      "id": "2055491454307582454",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "顺便说一下，你可以在终端上渲染图像：▲ ~/ npx ai-cli image 'a vercel ai…",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：You can just render images on the terminal btw: ▲ ~/ npx ai-cli image 'a vercel ai sdk diagram' Run 𝚗𝚙𝚖 𝚒 -𝚐 𝚊\ud835…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "You can just render images on the terminal btw: ▲ ~/ npx ai-cli image 'a vercel ai…",
-      "originalBody": "You can just render images on the terminal btw:\n▲ ~/ npx ai-cli image 'a vercel ai sdk diagram'\n\nRun 𝚗𝚙𝚖 𝚒 -𝚐 𝚊𝚒-𝚌𝚕𝚒 and access every image, video & text model from @vercel AI Gateway instantly https://t.co/IsATrdSNyF",
-      "translatedTitle": "顺便说一下，你可以在终端上渲染图像：▲ ~/ npx ai-cli image 'a vercel ai…",
-      "translatedBody": "顺便一提，你也可以直接在终端渲染图像：\n\n▲ ~/ npx ai-cli image 'a vercel ai sdk diagram'\n\n运行 𝚗𝚙𝚖 𝚒 -𝚐 𝚊𝚒-𝚌𝚕𝚒 即可立即访问 @vercel AI Gateway 中的所有图像、视频和文本模型 https://t.co/IsATrdSNyF",
+      "title": "Grok CLI 对插件和技能提供了强大的支持。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Grok CLI has great support for Plugins and Skills. Installing the Vercel Plugin gives Grok cloud deployment superpowe…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Grok CLI has great support for Plugins and Skills.",
+      "originalBody": "Grok CLI has great support for Plugins and Skills. Installing the Vercel Plugin gives Grok cloud deployment superpowers.\n\nWatch this creative coding website be generated with Grok and hosted seamlessly on Vercel ↓\n\nhttps://t.co/VpA5FqmkOO https://t.co/FXvn73FBFd",
+      "translatedTitle": "Grok CLI 对插件和技能提供了强大的支持。",
+      "translatedBody": "Grok CLI 对插件和技能提供了强大的支持。安装 Vercel 插件后，Grok 即可拥有强大的云部署功能。\n\n观看这个创意十足的编程网站如何用 Grok 生成并无缝托管在 Vercel 上 ↓\n\nhttps://t.co/VpA5FqmkOO https://t.co/FXvn73FBFd",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2054989456189648918",
-      "publishedAt": "2026-05-14T18:17:20.000Z",
-      "score": 182.95,
+      "sourceUrl": "https://x.com/rauchg/status/2055491454307582454",
+      "publishedAt": "2026-05-16T03:32:06.000Z",
+      "score": 187.55,
       "engagement": {
-        "likes": 456,
-        "retweets": 21,
-        "replies": 39
+        "likes": 853,
+        "retweets": 131,
+        "replies": 154
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models"
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2055113979857703350",
+      "id": "2055440326765244742",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "显然，在@AIEMiami 大会上，Geoff 抱怨说 @SAPConcur 已经是一款过时的软件……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：Apparently at @AIEMiami geoff complained about @SAPConcur being dead software and a SAP guy was in the audience and i…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Apparently at @AIEMiami geoff complained about @SAPConcur being dead software and a…",
-      "originalBody": "Apparently at @AIEMiami geoff complained about @SAPConcur being dead software and a SAP guy was in the audience and invited him to SAP to advise on how to do AI transformation for 6800 employees \n\nTLDR he made fun of SAP, and SAP… concurred https://t.co/oCD0d6Mb1T https://t.co/g5sT8h5hVI",
-      "translatedTitle": "显然，在@AIEMiami 大会上，Geoff 抱怨说 @SAPConcur 已经是一款过时的软件……",
-      "translatedBody": "显然，在@AIEMiami 大会上，Geoff 抱怨 SAPConcur 已经过时了，一位 SAP 员工正好在场，便邀请他加入 SAP，为公司 6800 名员工提供 AI 转型方面的咨询。\n\n简而言之，他嘲讽了 SAP，而 SAP……表示赞同。https://t.co/oCD0d6Mb1T https://t.co/g5sT8h5hVI",
+      "builder": "Guillermo Rauch",
+      "title": "Vercel 通过类似 Okta 的 SSO 来保护您的代理部署。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Vercel protects your agents' deployments behind SSO like @Okta. Even Production ones, giving you a secure 'intranet'…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Vercel protects your agents' deployments behind SSO like @Okta.",
+      "originalBody": "Vercel protects your agents' deployments behind SSO like @Okta. Even Production ones, giving you a secure 'intranet' of apps generated with @v0, Codex, Claude, etc.\n\nIt's all fun and games until your agent gets 𝟺𝟶𝟷 𝚄𝚗𝚊𝚞𝚝𝚑𝚘𝚛𝚒𝚣𝚎𝚍 from the deployment *it just made* though 😂\n\nThe solution: 𝚟𝚎𝚛𝚌𝚎𝚕 𝚌𝚞𝚛𝚕. By just prefixing 𝚟𝚎𝚛𝚌𝚎𝚕 or 𝚟𝚌 you unblock your agent and yourself to easily 𝚌𝚞𝚛𝚕 any URL you have access to within the Vercel ecosystem.",
+      "translatedTitle": "Vercel 通过类似 Okta 的 SSO 来保护您的代理部署。",
+      "translatedBody": "Vercel 像 @Okta 一样，通过 SSO 保护您的代理部署。即使是生产环境，也能为您提供一个安全的“内网”，用于存放使用 @v0、Codex、Claude 等工具生成的应用程序。\n\n一切都很顺利，直到您的代理从它刚刚创建的部署中收到 401 个错误信息 😂\n\n解决方案：使用 Vercel。只需在 URL 前加上 𝚟𝚎𝚛𝚌𝚎𝚕 或 𝚟𝚌，即可解除对代理和您自己的限制，从而轻松访问 Vercel 生态系统中您有权访问的任何 URL。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2055113979857703350",
-      "publishedAt": "2026-05-15T02:32:09.000Z",
-      "score": 124.61,
+      "sourceUrl": "https://x.com/rauchg/status/2055440326765244742",
+      "publishedAt": "2026-05-16T00:08:56.000Z",
+      "score": 177.05,
       "engagement": {
-        "likes": 92,
+        "likes": 150,
+        "retweets": 3,
+        "replies": 15
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2055278852931530784",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "如果你不仅在管理代理商方面表现出色，而且在自身能力方面也同样出类拔萃……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If you become exceptional at managing agents, but are also exceptional in your understanding of the fundamentals, you…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "If you become exceptional at managing agents, but are also exceptional in your unde…",
+      "originalBody": "If you become exceptional at managing agents, but are also exceptional in your understanding of the fundamentals, you will be unstoppable.\n\nWe all prefer to work with masters of their craft. What’s new: you can’t afford to miss out on the amplification agents have on your output",
+      "translatedTitle": "如果你不仅在管理代理商方面表现出色，而且在自身能力方面也同样出类拔萃……",
+      "translatedBody": "如果你不仅在管理经纪人方面出类拔萃，而且对基本原理的理解也同样精深，你将势不可挡。\n\n我们都更愿意与各自领域的佼佼者共事。现在，你绝对不能错过经纪人对你业绩的提升作用。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2055278852931530784",
+      "publishedAt": "2026-05-15T13:27:18.000Z",
+      "score": 165.21,
+      "engagement": {
+        "likes": 1863,
+        "retweets": 111,
+        "replies": 106
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2055494400252481687",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "不得不说，Codex 和三个月前相比，简直判若两人。",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：gotta say Codex is completely unrecognizable from 3 months ago. guys went extreme founder mode on this thing @gabriel…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "gotta say Codex is completely unrecognizable from 3 months ago.",
+      "originalBody": "gotta say Codex is completely unrecognizable from 3 months ago. guys went extreme founder mode on this thing\n\n@gabrielchua was demoing this and i was like “you guys have agentic excel on mac” https://t.co/khrZiOvZp9 https://t.co/Nmg13LdLqu",
+      "translatedTitle": "不得不说，Codex 和三个月前相比，简直判若两人。",
+      "translatedBody": "不得不说，Codex 跟三个月前相比简直判若两人。他们这次真是火力全开，全力以赴。\n\n@gabrielchua 当时在演示这个，我当时就想：“你们居然在 Mac 上用 Agentic Excel？” https://t.co/khrZiOvZp9 https://t.co/Nmg13LdLqu",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2055494400252481687",
+      "publishedAt": "2026-05-16T03:43:48.000Z",
+      "score": 146.99,
+      "engagement": {
+        "likes": 35,
+        "retweets": 1,
+        "replies": 20
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2055470634331750588",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "@Gavriel_Cohen @thsottiaux 新加坡人工智能政府科技负责人估计，13亿……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：@Gavriel_Cohen @thsottiaux head of AI Govtech at Singapore estimates 1.3 billion agents in the country in the next 2…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "@Gavriel_Cohen @thsottiaux head of AI Govtech at Singapore estimates 1.3 billion ag…",
+      "originalBody": "@Gavriel_Cohen @thsottiaux head of AI Govtech at Singapore estimates 1.3 billion agents in the country in the next 2 years and is building a national MCP gateway @dsp_ https://t.co/glAGn6jTmd",
+      "translatedTitle": "@Gavriel_Cohen @thsottiaux 新加坡人工智能政府科技负责人估计，13亿……",
+      "translatedBody": "新加坡人工智能政府科技局负责人@Gavriel_Cohen 和 @thsottiaux 预计，未来两年新加坡将拥有13亿个智能体，并正在构建一个全国性的移动通信门户网站 @dsp_ https://t.co/glAGn6jTmd",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2055470634331750588",
+      "publishedAt": "2026-05-16T02:09:22.000Z",
+      "score": 143.6,
+      "engagement": {
+        "likes": 30,
         "retweets": 0,
-        "replies": 13
+        "replies": 3
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2055356452286640630",
+      "type": "tweet",
+      "builder": "Sam Altman",
+      "title": "我很欣赏团队对这些报告的认真态度（即使答案……",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：i appreciate how seriously the team always takes these reports (even when the answer turns out to be 'i got used to t…",
+      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "i appreciate how seriously the team always takes these reports (even when the answe…",
+      "originalBody": "i appreciate how seriously the team always takes these reports (even when the answer turns out to be 'i got used to the current level of magic and now i'd like more please') https://t.co/O6Ws2zQyGN",
+      "translatedTitle": "我很欣赏团队对这些报告的认真态度（即使答案……",
+      "translatedBody": "我很欣赏团队对这些报告的认真态度（即使最终的答案是“我已经习惯了目前的魔法水平，现在想要更多”）。https://t.co/O6Ws2zQyGN",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/sama/status/2055356452286640630",
+      "publishedAt": "2026-05-15T18:35:39.000Z",
+      "score": 143.59,
+      "engagement": {
+        "likes": 3274,
+        "retweets": 89,
+        "replies": 561
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2055136119969529993",
+      "id": "2055501840419328286",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "他花了整整一年时间才搭建好他的特工安全带的脚手架。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：He just spent a year building scaffolding for his agent harness. Now release a new model update that makes all of it…",
+      "title": "我已全面部署前线工程技术，专门负责人工智能方面的工作……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：I’m fully forward deployed engineering pilled specifically because AI simply is not the same as software. In software…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "He just spent a year building scaffolding for his agent harness.",
-      "originalBody": "He just spent a year building scaffolding for his agent harness. Now release a new model update that makes all of it obsolete. https://t.co/lSoGB1j1rH",
-      "translatedTitle": "他花了整整一年时间才搭建好他的特工安全带的脚手架。",
-      "translatedBody": "他花了整整一年时间搭建特工安全带的框架，现在却发布了一个新模型更新，让之前的所有工作都作废了。https://t.co/lSoGB1j1rH",
+      "originalTitle": "I’m fully forward deployed engineering pilled specifically because AI simply is not…",
+      "originalBody": "I’m fully forward deployed engineering pilled specifically because AI simply is not the same as software. In software, you deliver a stable piece of technology to a customer and they adopt it and that’s that (extreme over simplification). \n\nIn AI, you’re delivering something that is constantly evolving both due to the nature of the new capabilities and best practices that emerge, but also because the underlying models change so much that they can meaningfully change the workflow as a result of their upgrades.\n\nFor this reason it’s far more logical that one vendor can share best practices across thousands of companies more efficiently than every single company can learn and manage these best practices themselves. Further, the learnings from those customers should go right back into the core product as a result.\n\nAs we go from chat systems to anyone can relatively easily adopt to agentic systems that require more meaningful efforts to manage and update, the FDE model (or equivalent) essentially becomes a core competency for anyone deploying AI at scale.",
+      "translatedTitle": "我已全面部署前线工程技术，专门负责人工智能方面的工作……",
+      "translatedBody": "我之所以如此重视前沿部署工程，是因为人工智能与软件截然不同。在软件领域，你向客户交付一套稳定的技术，他们采用后就万事大吉了（这里做了极大的简化）。\n\n而在人工智能领域，你交付的是一个不断演进的系统，这不仅是因为新功能和最佳实践的不断涌现，还因为底层模型的更新换代如此之大，以至于升级后会对工作流程产生显著影响。\n\n因此，一家供应商能够更高效地与成千上万家公司共享最佳实践，这远比每家公司自行学习和管理这些最佳实践要合理得多。此外，从这些客户那里获得的经验也应该直接应用到核心产品中。\n\n随着我们从任何人都能相对轻松地使用的聊天系统，发展到需要投入更多精力进行管理和更新的智能体系统，前沿部署工程模型（或类似模型）实际上已成为任何大规模部署人工智能的人员的核心竞争力。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2055136119969529993",
-      "publishedAt": "2026-05-15T04:00:08.000Z",
-      "score": 109.75,
+      "sourceUrl": "https://x.com/levie/status/2055501840419328286",
+      "publishedAt": "2026-05-16T04:13:22.000Z",
+      "score": 105.27,
       "engagement": {
-        "likes": 592,
-        "retweets": 39,
+        "likes": 220,
+        "retweets": 18,
         "replies": 37
       },
       "matchedFocusAreas": [
@@ -105,146 +214,38 @@
       "sourceType": "x"
     },
     {
-      "id": "2055143231625818554",
+      "id": "2055405041843052792",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "我们正处于一个角色界限变得模糊不清的时期……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：We’re in a period where everything feels like it’s getting jumbled up across roles because AI lets you explore the ad…",
+      "builder": "Peter Steinberger",
+      "title": "人们对我的人工智能支出感到震惊。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：People freaking out over my AI spend. What nobody sees: Part of what excites me so much about working on OpenClaw is…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "We’re in a period where everything feels like it’s getting jumbled up across roles…",
-      "originalBody": "We’re in a period where everything feels like it’s getting jumbled up across roles because AI lets you explore the adjacencies of other functions more easily.\n\nWe all collectively have to figure out the new form of definition of what these jobs look like in a world of agents, and certainly many will look different from what they did before. But there are some immutable laws that will eventually re-emerge over time and become clear again. \n\nAs an example, when you’re scaling, product managers should be spending an insane amount of time with customers and getting feedback on the product and thinking through what to do build next, how to design it so it’s usable, and so on. Engineers should be understanding the business objectives, and building systems that scale and are secure, even as feature velocity increases by 10X. Now both can do a bit more of the others role, and this can temporarily get conflated as doing the whole thing, but eventually the work adds up to be enough that it makes sense to specialize again.\n\nSimilarly, in GTM, the product marketer can certainly generate a working design and video for a launch, but the specialist is always going to (or should) have an eye for quality that delivers a better outcome.\n\nMy bet is that AI enhances specialization even further, even if a few roles collapse into each other, and the future toolchain and craft of the specialist will be much higher leverage and output far greater than anyone else as a hobbyist in that function.",
-      "translatedTitle": "我们正处于一个角色界限变得模糊不清的时期……",
-      "translatedBody": "我们正处于一个角色界限模糊的时期，因为人工智能让我们更容易探索其他职能之间的关联。\n\n我们都必须共同努力，在智能体时代重新定义这些工作，而且许多工作肯定会与以往大不相同。但有些不变的规律终将随着时间的推移而重新出现，并再次变得清晰明了。\n\n例如，在规模化发展阶段，产品经理应该投入大量时间与客户沟通，收集产品反馈，思考下一步的开发方向、如何设计才能使其易于使用等等。工程师则应该理解业务目标，构建可扩展且安全的系统，即使功能开发速度提升了十倍。现在，两者都可以承担对方的部分职责，这在短期内可能会让人误以为他们包揽了所有工作，但最终，工作量累积起来，再次进行专业化分工就显得尤为重要。\n\n同样，在市场推广（GTM）中，产品营销人员当然可以为产品发布制作出可用的设计和视频，但专家始终（或者说应该）拥有对品质的敏锐眼光，从而带来更佳的成果。\n\n我认为，人工智能将进一步强化专业化，即便某些角色可能会相互融合，但未来专家的工具链和技能将更具杠杆效应，产出也将远远超过其他从事该职能的业余人士。",
+      "originalTitle": "People freaking out over my AI spend.",
+      "originalBody": "People freaking out over my AI spend. What nobody sees: Part of what excites me so much about working on OpenClaw is that I'm trying to answer the question:\n\nHow would we build software in the future if tokens don't matter?\n\nWe constant run ~100 codex in the cloud, reviewing every PR, every issue. If a fix on main lands, @clawsweeper will eventually find that 6 month old issue and close it with an exact reference.\n\nWe run codex on every commit to review for security issues (as it's far too easy to miss).\n\nWe run codex to de-duplicate issues and find clusters and send reports for the most pressing issues.\n\nWe have agents that can recreate complex setups, spin up ephemeral https://t.co/Q1NRXLemEy machines, log into e.g. Telegram, make a video and post before/after fix on the PR.\n\nThere's codex that watch new issues and - if it fits our documented vision well, automatically create a PR of it. (that then another codex reviews)\n\nWe have codex running that scans comments for spam and blocks people.\n\nWe have codex instances running that verify performance benchmarks and report regressions into Discord.\n\nWe have agents that listen on our meetings and proactively start work, e.g. create PRs when we discuss new features while we discuss them.\n\nWe build https://t.co/bmA1XnoB7P to split all our projects into functional units to review and find bugs and regresssions.\n\nWe do the same split for security with Vercel's deepsec and Codex Security to find regressions and vulnerabilities.\n\nAll that automation allows us to run this project extremely lean.",
+      "translatedTitle": "人们对我的人工智能支出感到震惊。",
+      "translatedBody": "大家都在对我的 AI 投入大惊小怪。但没人看到的是：OpenClaw 最让我兴奋的地方在于，我正在尝试回答这样一个问题：\n\n如果代币不再重要，我们未来该如何构建软件？\n\n我们在云端持续运行约 100 台 Codex 客户端，审查每一个 PR 和每一个 issue。如果主分支上修复了某个问题，@clawsweeper 最终会找到那个 6 个月前的 issue，并用精确的引用将其关闭。\n\n我们对每一次提交都运行 Codex 客户端，以检查是否存在安全问题（因为这些问题很容易被忽略）。\n\n我们运行 Codex 客户端来去重重复的 issue，查找集群，并针对最紧迫的问题发送报告。\n\n我们拥有可以重现复杂场景的代理，可以启动临时的 https://t.co/Q1NRXLemEy 虚拟机，登录例如 Telegram，录制视频，并在 PR 中发布修复前后的对比。\n\n我们使用 Codex 来监控新问题，如果问题符合我们文档中描述的愿景，则会自动创建一个 PR（然后由另一个 Codex 进行审核）。\n\n我们还运行着一个 Codex 来扫描评论中的垃圾信息并屏蔽用户。\n\n我们运行着多个 Codex 实例来验证性能基准测试，并将回归问题报告到 Discord。\n\n我们部署了代理程序来监听我们的会议，并主动启动相关工作，例如，在我们讨论新功能时创建 PR。\n\n我们构建了 https://t.co/bmA1XnoB7P，将所有项目拆分成功能单元，以便进行审查并查找错误和回归问题。\n\n我们使用 Vercel 的 DeepSec 和 Codex Security 对安全部分进行同样的拆分，以查找回归问题和漏洞。\n\n所有这些自动化流程使我们能够以极低的效率运行这个项目。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2055143231625818554",
-      "publishedAt": "2026-05-15T04:28:23.000Z",
-      "score": 80.23,
+      "sourceUrl": "https://x.com/steipete/status/2055405041843052792",
+      "publishedAt": "2026-05-15T21:48:44.000Z",
+      "score": 93.94,
       "engagement": {
-        "likes": 182,
-        "retweets": 18,
-        "replies": 40
+        "likes": 3727,
+        "retweets": 209,
+        "replies": 293
       },
       "matchedFocusAreas": [
         "Coding Agents",
         "Product Ships"
       ],
       "sourceType": "x"
-    },
-    {
-      "id": "2055093087660286413",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "我觉得这篇帖子被一些不明真相的人淹没了，所以，真的，别太当真……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I think this post is getting swarmed by uninformed people, so really, just take a look at this if you are here to say…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I think this post is getting swarmed by uninformed people, so really, just take a l…",
-      "originalBody": "I think this post is getting swarmed by uninformed people, so really, just take a look at this if you are here to say \"hur dur datacenters are bad for energy/water/jobs/loud\" https://t.co/6b79qXp1Op",
-      "translatedTitle": "我觉得这篇帖子被一些不明真相的人淹没了，所以，真的，别太当真……",
-      "translatedBody": "我觉得这篇帖子被一些不明真相的人淹没了，所以如果你只是想说“数据中心对能源/水/就业/噪音有害处”，那就看看这个链接吧：https://t.co/6b79qXp1Op",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2055093087660286413",
-      "publishedAt": "2026-05-15T01:09:08.000Z",
-      "score": 54.26,
-      "engagement": {
-        "likes": 143,
-        "retweets": 24,
-        "replies": 55
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2054924517135540320",
-      "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "每一家拥有数据墙的大型公司都意识到，是时候采用无头架构（或称无头架构）了……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Every single large company with data walls realizing it’s time to go headless (or essentially die).. It’s the right c…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Every single large company with data walls realizing it’s time to go headless (or e…",
-      "originalBody": "Every single large company with data walls realizing it’s time to go headless (or essentially die)..\n\nIt’s the right call too since the market/usage for agents will be 100x larger than humans. \n\nIf you gatekeep your systems for humans, you’ll most likely be 100x less valuable!",
-      "translatedTitle": "每一家拥有数据墙的大型公司都意识到，是时候采用无头架构（或称无头架构）了……",
-      "translatedBody": "所有拥有数据壁垒的大型公司都意识到，是时候转向无头系统了（否则就只能等死）。\n\n这的确是正确的决定，因为智能代理的市场/使用量将是人类的百倍。\n\n如果你的系统只允许人类访问，你的价值很可能会缩水百倍！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2054924517135540320",
-      "publishedAt": "2026-05-14T13:59:18.000Z",
-      "score": 49.71,
-      "engagement": {
-        "likes": 79,
-        "retweets": 3,
-        "replies": 19
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2055015466054410400",
-      "type": "tweet",
-      "builder": "Dan Shipper",
-      "title": "当人们问我如何让他们的组织代理人清醒过来时，我总是说同样的话：t…",
-      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：when people ask me how to get their org agent-pilled i always say the same thing: the #1 leading indicator is whether…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "when people ask me how to get their org agent-pilled i always say the same thing: t…",
-      "originalBody": "when people ask me how to get their org agent-pilled i always say the same thing:\n\nthe #1 leading indicator is whether their leadership team personally uses Codex, Claude Code or Cowork day to day. \n\nthat’s why over the last few months we’ve been working privately with leadership teams of the top companies in tech, helping them get their hands deep into Claude Code, Cowork, Codex and more. \n\nif you want @every to come and get your exec team agent-pilled, we’re opening up a few slots:\n\nhttps://t.co/o8g3c1xKYr",
-      "translatedTitle": "当人们问我如何让他们的组织代理人清醒过来时，我总是说同样的话：t…",
-      "translatedBody": "当人们问我如何让他们的组织真正重视智能代理时，我总是给出同样的答案：\n\n最重要的指标是他们的领导团队是否每天都在使用 Codex、Claude Code 或 Cowork。\n\n因此，在过去的几个月里，我们一直在与顶尖科技公司的领导团队进行私下合作，帮助他们深入了解 Claude Code、Cowork、Codex 等工具。\n\n如果您希望 @every 来帮助您的管理团队重视智能代理，我们目前开放了一些名额：\n\nhttps://t.co/o8g3c1xKYr",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/danshipper/status/2055015466054410400",
-      "publishedAt": "2026-05-14T20:00:42.000Z",
-      "score": 48.3,
-      "engagement": {
-        "likes": 68,
-        "retweets": 4,
-        "replies": 7
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2054981832408760782",
-      "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "我将于下周六（5月23日）在旧金山共同主持一场活动！",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I will be co-hosting an event in SF next Sat (5/23)! I've been thinking a lot about how to manage & curate CONTEXT fo…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I will be co-hosting an event in SF next Sat (5/23)!",
-      "originalBody": "I will be co-hosting an event in SF next Sat (5/23)!\n\nI've been thinking a lot about how to manage & curate CONTEXT for agents. I'm inviting everyone who's thought a lot about this to demo your real workflows & show what's actually working.\n\nFormat: A series of rapid-fire 5-minute demos, followed by Q&A. Screen shares of real workflows only; no slides.\n\n​Not demoing? Come hang out as a participant. Either way, expect an afternoon of practical workflows, fresh ideas, and new friends.\n\nRSVP here: https://t.co/5t0q6cHDV6\n\nCohosted w @NotionHQ & @radicalvcfund (@juleszqiu)",
-      "translatedTitle": "我将于下周六（5月23日）在旧金山共同主持一场活动！",
-      "translatedBody": "我将于下周六（5月23日）在旧金山联合举办一场活动！\n\n我一直在思考如何管理和策划经纪人的情境信息。我诚邀所有对此进行过深入思考的朋友们来演示你们的实际工作流程，并分享哪些方法真正有效。\n\n形式：一系列5分钟的快速演示，随后是问答环节。仅展示实际工作流程的屏幕，不使用幻灯片。\n\n不做演示？欢迎作为参与者前来交流。无论如何，期待一个充满实用工作流程、新鲜想法和新朋友的下午。\n\n请在此处回复：https://t.co/5t0q6cHDV6\n\n与 @NotionHQ 和 @radicalvcfund (@juleszqiu) 联合举办",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2054981832408760782",
-      "publishedAt": "2026-05-14T17:47:03.000Z",
-      "score": 48.06,
-      "engagement": {
-        "likes": 61,
-        "retweets": 4,
-        "replies": 9
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-15T09:24:50.319Z",
-    "totalCandidates": 31,
-    "textQualifiedCandidates": 13,
+    "upstreamGeneratedAt": "2026-05-16T07:04:43.402Z",
+    "totalCandidates": 26,
+    "textQualifiedCandidates": 17,
     "selectedTweets": 8
   }
 }
