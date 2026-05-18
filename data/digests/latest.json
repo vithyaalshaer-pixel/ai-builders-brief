@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-17",
-  "generatedAt": "2026-05-17T03:53:34.108Z",
+  "date": "2026-05-18",
+  "generatedAt": "2026-05-18T04:06:11.626Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-17",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 26 条候选动态里，筛出 17 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-05-18",
+  "summary": "今天最值得看的是 Peter Yang 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 18 条候选动态里，筛出 9 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,239 +13,232 @@
       "label": "Coding Agents"
     },
     {
-      "slug": "foundation-models",
-      "label": "Foundation Models"
-    },
-    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2055491454307582454",
+      "id": "2055663937061007762",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "Grok CLI 对插件和技能提供了强大的支持。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Grok CLI has great support for Plugins and Skills. Installing the Vercel Plugin gives Grok cloud deployment superpowe…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Grok CLI has great support for Plugins and Skills.",
-      "originalBody": "Grok CLI has great support for Plugins and Skills. Installing the Vercel Plugin gives Grok cloud deployment superpowers.\n\nWatch this creative coding website be generated with Grok and hosted seamlessly on Vercel ↓\n\nhttps://t.co/VpA5FqmkOO https://t.co/FXvn73FBFd",
-      "translatedTitle": "Grok CLI 对插件和技能提供了强大的支持。",
-      "translatedBody": "Grok CLI 对插件和技能提供了强大的支持。安装 Vercel 插件后，Grok 即可拥有强大的云部署功能。\n\n观看这个创意十足的编程网站如何用 Grok 生成并无缝托管在 Vercel 上 ↓\n\nhttps://t.co/VpA5FqmkOO https://t.co/FXvn73FBFd",
+      "builder": "Peter Yang",
+      "title": "如果你深陷湾区科技行业的激烈竞争/精神崩溃之中，那就抽出时间去其他地方旅行吧……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：If you're stuck in the Bay Area tech rat race / psychosis, make time to travel to other places. Go to a small town in…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "If you're stuck in the Bay Area tech rat race / psychosis, make time to travel to o…",
+      "originalBody": "If you're stuck in the Bay Area tech rat race / psychosis, make time to travel to other places.\n\nGo to a small town in Europe or visit Asia - you'll see that life can be about much more than whether you're IC7 or IC8 or what company you work for.\n\nDon't be the person to put on your tombstone: \"He got divorced and neglected his kids but at least he made D2 at FAANG\"",
+      "translatedTitle": "如果你深陷湾区科技行业的激烈竞争/精神崩溃之中，那就抽出时间去其他地方旅行吧……",
+      "translatedBody": "如果你深陷湾区科技圈的激烈竞争/精神崩溃之中，那就抽出时间去其他地方旅行吧。\n\n去欧洲的小镇走走，或者去亚洲走走——你会发现，生活远不止于你是IC7还是IC8，或者你在哪家公司工作。\n\n别让自己的墓碑上刻着：“他离了婚，疏于照顾孩子，但至少他在FAANG（Facebook、Apple、Apple、Google）做到了D2。”",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2055491454307582454",
-      "publishedAt": "2026-05-16T03:32:06.000Z",
-      "score": 187.55,
+      "sourceUrl": "https://x.com/petergyang/status/2055663937061007762",
+      "publishedAt": "2026-05-16T14:57:29.000Z",
+      "score": 67.62,
       "engagement": {
-        "likes": 853,
-        "retweets": 131,
-        "replies": 154
+        "likes": 3090,
+        "retweets": 151,
+        "replies": 113
       },
       "matchedFocusAreas": [
-        "Coding Agents",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2055440326765244742",
+      "id": "2055670533451366479",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "Vercel 通过类似 Okta 的 SSO 来保护您的代理部署。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Vercel protects your agents' deployments behind SSO like @Okta. Even Production ones, giving you a secure 'intranet'…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Vercel protects your agents' deployments behind SSO like @Okta.",
-      "originalBody": "Vercel protects your agents' deployments behind SSO like @Okta. Even Production ones, giving you a secure 'intranet' of apps generated with @v0, Codex, Claude, etc.\n\nIt's all fun and games until your agent gets 𝟺𝟶𝟷 𝚄𝚗𝚊𝚞𝚝𝚑𝚘𝚛𝚒𝚣𝚎𝚍 from the deployment *it just made* though 😂\n\nThe solution: 𝚟𝚎𝚛𝚌𝚎𝚕 𝚌𝚞𝚛𝚕. By just prefixing 𝚟𝚎𝚛𝚌𝚎𝚕 or 𝚟𝚌 you unblock your agent and yourself to easily 𝚌𝚞𝚛𝚕 any URL you have access to within the Vercel ecosystem.",
-      "translatedTitle": "Vercel 通过类似 Okta 的 SSO 来保护您的代理部署。",
-      "translatedBody": "Vercel 像 @Okta 一样，通过 SSO 保护您的代理部署。即使是生产环境，也能为您提供一个安全的“内网”，用于存放使用 @v0、Codex、Claude 等工具生成的应用程序。\n\n一切都很顺利，直到您的代理从它刚刚创建的部署中收到 401 个错误信息 😂\n\n解决方案：使用 Vercel。只需在 URL 前加上 𝚟𝚎𝚛𝚌𝚎𝚕 或 𝚟𝚌，即可解除对代理和您自己的限制，从而轻松访问 Vercel 生态系统中您有权访问的任何 URL。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2055440326765244742",
-      "publishedAt": "2026-05-16T00:08:56.000Z",
-      "score": 177.05,
-      "engagement": {
-        "likes": 150,
-        "retweets": 3,
-        "replies": 15
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2055278852931530784",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "如果你不仅在管理代理商方面表现出色，而且在自身能力方面也同样出类拔萃……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If you become exceptional at managing agents, but are also exceptional in your understanding of the fundamentals, you…",
+      "builder": "Garry Tan",
+      "title": "GBrain是什么？",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：What is GBrain? My open source project is a knowledge system, not RAG in a box. It gives agents 8 layers that work to…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "If you become exceptional at managing agents, but are also exceptional in your unde…",
-      "originalBody": "If you become exceptional at managing agents, but are also exceptional in your understanding of the fundamentals, you will be unstoppable.\n\nWe all prefer to work with masters of their craft. What’s new: you can’t afford to miss out on the amplification agents have on your output",
-      "translatedTitle": "如果你不仅在管理代理商方面表现出色，而且在自身能力方面也同样出类拔萃……",
-      "translatedBody": "如果你不仅在管理经纪人方面出类拔萃，而且对基本原理的理解也同样精深，你将势不可挡。\n\n我们都更愿意与各自领域的佼佼者共事。现在，你绝对不能错过经纪人对你业绩的提升作用。",
+      "originalTitle": "What is GBrain?",
+      "originalBody": "What is GBrain? My open source project is a knowledge system, not RAG in a box. \n\nIt gives agents 8 layers that work together to improve memory in a way that makes your already smart OpenClaw or Hermes Agent feel clairvoyant about who you are. \n\nPersonal AI becomes possible. https://t.co/XNVIw5ZfpO",
+      "translatedTitle": "GBrain是什么？",
+      "translatedBody": "GBrain是什么？我的开源项目是一个知识系统，而不是一个装在盒子里的RAG（随机数生成器）。\n\n它为智能体提供8个协同工作的层级，以一种独特的方式提升记忆力，让您原本就很智能的OpenClaw或Hermes Agent仿佛拥有了预知未来的能力，能够洞悉您的身份。\n\n个人AI成为可能。https://t.co/XNVIw5ZfpO",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2055278852931530784",
-      "publishedAt": "2026-05-15T13:27:18.000Z",
-      "score": 165.21,
+      "sourceUrl": "https://x.com/garrytan/status/2055670533451366479",
+      "publishedAt": "2026-05-16T15:23:42.000Z",
+      "score": 63.22,
       "engagement": {
-        "likes": 1863,
-        "retweets": 111,
-        "replies": 106
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2055494400252481687",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "不得不说，Codex 和三个月前相比，简直判若两人。",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：gotta say Codex is completely unrecognizable from 3 months ago. guys went extreme founder mode on this thing @gabriel…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "gotta say Codex is completely unrecognizable from 3 months ago.",
-      "originalBody": "gotta say Codex is completely unrecognizable from 3 months ago. guys went extreme founder mode on this thing\n\n@gabrielchua was demoing this and i was like “you guys have agentic excel on mac” https://t.co/khrZiOvZp9 https://t.co/Nmg13LdLqu",
-      "translatedTitle": "不得不说，Codex 和三个月前相比，简直判若两人。",
-      "translatedBody": "不得不说，Codex 跟三个月前相比简直判若两人。他们这次真是火力全开，全力以赴。\n\n@gabrielchua 当时在演示这个，我当时就想：“你们居然在 Mac 上用 Agentic Excel？” https://t.co/khrZiOvZp9 https://t.co/Nmg13LdLqu",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2055494400252481687",
-      "publishedAt": "2026-05-16T03:43:48.000Z",
-      "score": 146.99,
-      "engagement": {
-        "likes": 35,
-        "retweets": 1,
-        "replies": 20
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2055470634331750588",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "@Gavriel_Cohen @thsottiaux 新加坡人工智能政府科技负责人估计，13亿……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：@Gavriel_Cohen @thsottiaux head of AI Govtech at Singapore estimates 1.3 billion agents in the country in the next 2…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "@Gavriel_Cohen @thsottiaux head of AI Govtech at Singapore estimates 1.3 billion ag…",
-      "originalBody": "@Gavriel_Cohen @thsottiaux head of AI Govtech at Singapore estimates 1.3 billion agents in the country in the next 2 years and is building a national MCP gateway @dsp_ https://t.co/glAGn6jTmd",
-      "translatedTitle": "@Gavriel_Cohen @thsottiaux 新加坡人工智能政府科技负责人估计，13亿……",
-      "translatedBody": "新加坡人工智能政府科技局负责人@Gavriel_Cohen 和 @thsottiaux 预计，未来两年新加坡将拥有13亿个智能体，并正在构建一个全国性的移动通信门户网站 @dsp_ https://t.co/glAGn6jTmd",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2055470634331750588",
-      "publishedAt": "2026-05-16T02:09:22.000Z",
-      "score": 143.6,
-      "engagement": {
-        "likes": 30,
-        "retweets": 0,
-        "replies": 3
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2055356452286640630",
-      "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "我很欣赏团队对这些报告的认真态度（即使答案……",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：i appreciate how seriously the team always takes these reports (even when the answer turns out to be 'i got used to t…",
-      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "i appreciate how seriously the team always takes these reports (even when the answe…",
-      "originalBody": "i appreciate how seriously the team always takes these reports (even when the answer turns out to be 'i got used to the current level of magic and now i'd like more please') https://t.co/O6Ws2zQyGN",
-      "translatedTitle": "我很欣赏团队对这些报告的认真态度（即使答案……",
-      "translatedBody": "我很欣赏团队对这些报告的认真态度（即使最终的答案是“我已经习惯了目前的魔法水平，现在想要更多”）。https://t.co/O6Ws2zQyGN",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2055356452286640630",
-      "publishedAt": "2026-05-15T18:35:39.000Z",
-      "score": 143.59,
-      "engagement": {
-        "likes": 3274,
+        "likes": 1231,
         "retweets": 89,
-        "replies": 561
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2055501840419328286",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "我已全面部署前线工程技术，专门负责人工智能方面的工作……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：I’m fully forward deployed engineering pilled specifically because AI simply is not the same as software. In software…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "I’m fully forward deployed engineering pilled specifically because AI simply is not…",
-      "originalBody": "I’m fully forward deployed engineering pilled specifically because AI simply is not the same as software. In software, you deliver a stable piece of technology to a customer and they adopt it and that’s that (extreme over simplification). \n\nIn AI, you’re delivering something that is constantly evolving both due to the nature of the new capabilities and best practices that emerge, but also because the underlying models change so much that they can meaningfully change the workflow as a result of their upgrades.\n\nFor this reason it’s far more logical that one vendor can share best practices across thousands of companies more efficiently than every single company can learn and manage these best practices themselves. Further, the learnings from those customers should go right back into the core product as a result.\n\nAs we go from chat systems to anyone can relatively easily adopt to agentic systems that require more meaningful efforts to manage and update, the FDE model (or equivalent) essentially becomes a core competency for anyone deploying AI at scale.",
-      "translatedTitle": "我已全面部署前线工程技术，专门负责人工智能方面的工作……",
-      "translatedBody": "我之所以如此重视前沿部署工程，是因为人工智能与软件截然不同。在软件领域，你向客户交付一套稳定的技术，他们采用后就万事大吉了（这里做了极大的简化）。\n\n而在人工智能领域，你交付的是一个不断演进的系统，这不仅是因为新功能和最佳实践的不断涌现，还因为底层模型的更新换代如此之大，以至于升级后会对工作流程产生显著影响。\n\n因此，一家供应商能够更高效地与成千上万家公司共享最佳实践，这远比每家公司自行学习和管理这些最佳实践要合理得多。此外，从这些客户那里获得的经验也应该直接应用到核心产品中。\n\n随着我们从任何人都能相对轻松地使用的聊天系统，发展到需要投入更多精力进行管理和更新的智能体系统，前沿部署工程模型（或类似模型）实际上已成为任何大规模部署人工智能的人员的核心竞争力。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2055501840419328286",
-      "publishedAt": "2026-05-16T04:13:22.000Z",
-      "score": 105.27,
-      "engagement": {
-        "likes": 220,
-        "retweets": 18,
-        "replies": 37
+        "replies": 80
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
+        "Coding Agents"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2055405041843052792",
+      "id": "2055674791873630650",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "周六早上，正是思考一下我们功能系统如何运作的好时机……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Saturday morning and it’s a good time to think a bit about how our functional systems are being torn down by a mind v…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Saturday morning and it’s a good time to think a bit about how our functional syste…",
+      "originalBody": "Saturday morning and it’s a good time to think a bit about how our functional systems are being torn down by a mind virus by two philosophers: Foucault and Derrida \n\nFoucault: His framework tells you that every institution claiming to know something is really just exercising power. Medicine, engineering, law, science. Apply that at civilizational scale and you get exactly what Dan Wang warns about: a society that lost the will to build. Process knowledge — the tacit know-how that only exists in the hands of people who actually make things — dies when a culture decides that all knowledge claims are suspect. America went from building the Interstate Highway System and the Apollo rockets to being unable to build a train from LA to SF. That didn't happen because we forgot the engineering. It happened because we built an entire intellectual class whose job is to interrogate every system rather than improve one.\n\nDerrida: His move is that every commitment contains its own contradiction, so you can never land on firm meaning. Run that as societal firmware and you get the bureaucratic paralysis we now live in. Infrastructure projects stuck in 15 years of environmental review because every statement of purpose deconstructs under the next round of stakeholder input. Institutions that can't say what they're for because every draft mission statement gets wordsmithed into mush by people trained to find the hidden hierarchy in any clear sentence. Derrida is the OS behind a civilization that can write a 4,000 page environmental impact report but can't pour concrete.\n\nThe real damage is these ideas escaped the lab. Every institution that adopted this operating system stopped trying to discover truth and started managing narrative. DEI bureaucracies, academic hiring committees, media editorial standards. All running on Foucault and Derrida whether they know it or not.\n\nThe antidote is building. The physical bridge across a river holds or it doesn’t. The code compiles or it doesn't. Reality keeps score and it doesn't grade on a curve.\n\nFoucault and Derrida gave a generation a sophisticated excuse to never build anything. Their followers inherited the sophistication and the impotence.\n\nIt’s time to build again.",
+      "translatedTitle": "周六早上，正是思考一下我们功能系统如何运作的好时机……",
+      "translatedBody": "周六早晨，正是思考福柯和德里达两位哲学家如何用“思维病毒”瓦解我们现有功能体系的好时机。\n\n福柯：他的理论框架指出，任何声称掌握某种知识的机构实际上都只是在行使权力。医学、工程、法律、科学皆是如此。将这一理论应用于文明层面，你就会发现丹·王所警告的现象：一个丧失了建设意志的社会。过程知识——这种只存在于实际创造者手中的隐性知识——会在一种文化认定所有知识主张都值得怀疑时消亡。美国从建造州际公路系统和阿波罗火箭，到如今连洛杉矶到旧金山的火车都建不成。这并非因为我们忘记了工程技术，而是因为我们培养了一个知识分子阶层，他们的职责是质疑每一个系统，而不是改进现有系统。\n\n德里达：他的观点是，每一项承诺都包含着自身的矛盾，因此你永远无法找到确切的意义。如果把这些理念当作社会固件来运行，就会产生我们如今身处的官僚主义瘫痪局面。基础设施项目因为每一份目标声明都会在下一轮利益相关者的意见征询中被推翻，而陷入长达15年的环境评估泥潭。一些机构甚至无法阐明自身的存在意义，因为每一份使命宣言草案都会被那些训练有素、善于在任何清晰语句中挖掘隐藏层级的人修改得支离破碎。德里达就像是这套文明背后的操作系统，它能写出一份长达4000页的环境影响报告，却连混凝土都浇筑不了。\n\n真正的危害在于，这些理念已经走出了实验室。每一个采用这套操作系统的机构都停止了探寻真理，转而开始操控叙事。多元、公平和包容（DEI）的官僚机构、学术招聘委员会、媒体编辑标准，所有这些都在福柯和德里达的理论框架下运行，无论他们是否意识到这一点。\n\n解药正在建设中。横跨河流的桥梁要么稳固，要么坍塌。代码要么编译成功，要么编译失败。现实会记录一切，它不会根据曲线评分。\n\n福柯和德里达给了整整一代人一个精妙的借口，让他们可以不去创造任何东西。他们的追随者继承了这种精妙和无能为力。\n\n现在是时候重新开始了。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2055674791873630650",
+      "publishedAt": "2026-05-16T15:40:37.000Z",
+      "score": 61.06,
+      "engagement": {
+        "likes": 709,
+        "retweets": 98,
+        "replies": 71
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2055775661755715974",
       "type": "tweet",
       "builder": "Peter Steinberger",
-      "title": "人们对我的人工智能支出感到震惊。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：People freaking out over my AI spend. What nobody sees: Part of what excites me so much about working on OpenClaw is…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "People freaking out over my AI spend.",
-      "originalBody": "People freaking out over my AI spend. What nobody sees: Part of what excites me so much about working on OpenClaw is that I'm trying to answer the question:\n\nHow would we build software in the future if tokens don't matter?\n\nWe constant run ~100 codex in the cloud, reviewing every PR, every issue. If a fix on main lands, @clawsweeper will eventually find that 6 month old issue and close it with an exact reference.\n\nWe run codex on every commit to review for security issues (as it's far too easy to miss).\n\nWe run codex to de-duplicate issues and find clusters and send reports for the most pressing issues.\n\nWe have agents that can recreate complex setups, spin up ephemeral https://t.co/Q1NRXLemEy machines, log into e.g. Telegram, make a video and post before/after fix on the PR.\n\nThere's codex that watch new issues and - if it fits our documented vision well, automatically create a PR of it. (that then another codex reviews)\n\nWe have codex running that scans comments for spam and blocks people.\n\nWe have codex instances running that verify performance benchmarks and report regressions into Discord.\n\nWe have agents that listen on our meetings and proactively start work, e.g. create PRs when we discuss new features while we discuss them.\n\nWe build https://t.co/bmA1XnoB7P to split all our projects into functional units to review and find bugs and regresssions.\n\nWe do the same split for security with Vercel's deepsec and Codex Security to find regressions and vulnerabilities.\n\nAll that automation allows us to run this project extremely lean.",
-      "translatedTitle": "人们对我的人工智能支出感到震惊。",
-      "translatedBody": "大家都在对我的 AI 投入大惊小怪。但没人看到的是：OpenClaw 最让我兴奋的地方在于，我正在尝试回答这样一个问题：\n\n如果代币不再重要，我们未来该如何构建软件？\n\n我们在云端持续运行约 100 台 Codex 客户端，审查每一个 PR 和每一个 issue。如果主分支上修复了某个问题，@clawsweeper 最终会找到那个 6 个月前的 issue，并用精确的引用将其关闭。\n\n我们对每一次提交都运行 Codex 客户端，以检查是否存在安全问题（因为这些问题很容易被忽略）。\n\n我们运行 Codex 客户端来去重重复的 issue，查找集群，并针对最紧迫的问题发送报告。\n\n我们拥有可以重现复杂场景的代理，可以启动临时的 https://t.co/Q1NRXLemEy 虚拟机，登录例如 Telegram，录制视频，并在 PR 中发布修复前后的对比。\n\n我们使用 Codex 来监控新问题，如果问题符合我们文档中描述的愿景，则会自动创建一个 PR（然后由另一个 Codex 进行审核）。\n\n我们还运行着一个 Codex 来扫描评论中的垃圾信息并屏蔽用户。\n\n我们运行着多个 Codex 实例来验证性能基准测试，并将回归问题报告到 Discord。\n\n我们部署了代理程序来监听我们的会议，并主动启动相关工作，例如，在我们讨论新功能时创建 PR。\n\n我们构建了 https://t.co/bmA1XnoB7P，将所有项目拆分成功能单元，以便进行审查并查找错误和回归问题。\n\n我们使用 Vercel 的 DeepSec 和 Codex Security 对安全部分进行同样的拆分，以查找回归问题和漏洞。\n\n所有这些自动化流程使我们能够以极低的效率运行这个项目。",
+      "title": "我的大脑：别看 Hacker News 上的评论，别看 Hacker News 上的评论……",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：my brain: don't read the hacker news comments, don't read the hacker news comments me: reads the hacker news comments",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "my brain: don't read the hacker news comments, don't read the hacker news comments…",
+      "originalBody": "my brain: don't read the hacker news comments, don't read the hacker news comments\n\nme: reads the hacker news comments",
+      "translatedTitle": "我的大脑：别看 Hacker News 上的评论，别看 Hacker News 上的评论……",
+      "translatedBody": "我的大脑：别看 Hacker News 上的评论，别看 Hacker News 上的评论\n\n我：看了 Hacker News 上的评论",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2055405041843052792",
-      "publishedAt": "2026-05-15T21:48:44.000Z",
-      "score": 93.94,
+      "sourceUrl": "https://x.com/steipete/status/2055775661755715974",
+      "publishedAt": "2026-05-16T22:21:26.000Z",
+      "score": 58.84,
       "engagement": {
-        "likes": 3727,
-        "retweets": 209,
-        "replies": 293
+        "likes": 542,
+        "retweets": 11,
+        "replies": 64
       },
       "matchedFocusAreas": [
-        "Coding Agents",
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2055728641913536762",
+      "type": "tweet",
+      "builder": "Zara Zhang",
+      "title": "AI精神病：使用Codi后，每天都会在两种精神状态之间循环往复……",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：AI psychosis: cycling between two mental states every single day ↑ after using coding agents: holy shit I'm omnipoten…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "AI psychosis: cycling between two mental states every single day ↑ after using codi…",
+      "originalBody": "AI psychosis: cycling between two mental states every single day\n↑ after using coding agents: holy shit I'm omnipotent. I can build anything. I've never felt this powerful in my life.\n↓ after scrolling twitter: holy shit I'm completely behind. everyone's ahead. the wave is moving and I'm going to get left.",
+      "translatedTitle": "AI精神病：使用Codi后，每天都会在两种精神状态之间循环往复……",
+      "translatedBody": "AI精神错乱：每天在两种精神状态之间循环\n\n↑ 使用编程智能体后：卧槽，我无所不能。我可以创造任何东西。我这辈子从未感觉如此强大。\n\n↓ 刷推特后：卧槽，我完全落后了。大家都领先。浪潮正在涌来，我要被甩在后面了。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/zarazhangrui/status/2055728641913536762",
+      "publishedAt": "2026-05-16T19:14:36.000Z",
+      "score": 52.89,
+      "engagement": {
+        "likes": 136,
+        "retweets": 16,
+        "replies": 28
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2055685581758206139",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "BlackBar 0.2.0 已上线，适用于 @useblacksmith 📈 提供 24 小时 vCPU + 工作流图表 🔔 可选加入…",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：BlackBar 0.2.0 is live for @useblacksmith 📈 24h vCPU + workflow graphs 🔔 opt-in status/job notifications 🧰 richer…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "BlackBar 0.2.0 is live for @useblacksmith 📈 24h vCPU + workflow graphs 🔔 opt-in s…",
+      "originalBody": "BlackBar 0.2.0 is live for @useblacksmith \n\n📈 24h vCPU + workflow graphs\n🔔 opt-in status/job notifications\n🧰 richer Blacksmith job rows\n🟢 compact status badge\n\nTiny menu bar, less CI guesswork.\nhttps://t.co/LAAyHy8aDQ https://t.co/178w9igZTW",
+      "translatedTitle": "BlackBar 0.2.0 已上线，适用于 @useblacksmith 📈 提供 24 小时 vCPU + 工作流图表 🔔 可选加入…",
+      "translatedBody": "BlackBar 0.2.0 已上线，适用于 @useblacksmith\n\n📈 24 小时 vCPU + 工作流图表\n\n🔔 可选的状态/任务通知\n\n🧰 更丰富的 Blacksmith 任务列表\n\n🟢 简洁的状态徽章\n\n极简菜单栏，减少 CI 操作。\n\nhttps://t.co/LAAyHy8aDQ https://t.co/178w9igZTW",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2055685581758206139",
+      "publishedAt": "2026-05-16T16:23:30.000Z",
+      "score": 52.89,
+      "engagement": {
+        "likes": 172,
+        "retweets": 7,
+        "replies": 16
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2055708451670798839",
+      "type": "tweet",
+      "builder": "Madhu Guru",
+      "title": "我有些朋友年收入超过1000万美元，但他们过得很不开心。",
+      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：I have friends who made $10M+ and are miserable. I have friends who made that much and found calm - they don’t need t…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "I have friends who made $10M+ and are miserable.",
+      "originalBody": "I have friends who made $10M+ and are miserable. I have friends who made that much and found calm - they don’t need to run anymore. \n\nI have friends who made far less and are just happy.\n\nWhether something is enough is up to you. Whether you’re happy is independent of your bank account.\n\nYou can want to be wealthy and still be content now. You don’t need to chase it from a place of lack and desperation.\n\nSilicon Valley treats ambition and happiness as mutually exclusive. As if wanting more means you can’t be satisfied now.\n\nThat’s the trap. You can be both",
+      "translatedTitle": "我有些朋友年收入超过1000万美元，但他们过得很不开心。",
+      "translatedBody": "我有些朋友年收入超过1000万美元，却过得很不开心。我也有些朋友赚了这么多钱，却找到了内心的平静——他们不再需要奔波劳碌。\n\n我还有些朋友收入远低于此，却很快乐。\n\n是否足够取决于你自己。你的幸福与你的银行存款无关。\n\n你可以渴望富有，但同时也能感到满足。你无需在匮乏和绝望中追逐财富。\n\n硅谷把雄心壮志和幸福视为水火不容。仿佛想要更多就意味着你无法享受当下。\n\n这就是陷阱。你可以两者兼得。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/realmadhuguru/status/2055708451670798839",
+      "publishedAt": "2026-05-16T17:54:22.000Z",
+      "score": 52.48,
+      "engagement": {
+        "likes": 166,
+        "retweets": 8,
+        "replies": 8
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2055648134819450907",
+      "type": "tweet",
+      "builder": "Nikunj Kothari",
+      "title": "很多年轻人问我是否应该去创业，我的回答通常是……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：A lot of young people ask me if they should move to venture and my answer is typically no* for the following reason..…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "A lot of young people ask me if they should move to venture and my answer is typica…",
+      "originalBody": "A lot of young people ask me if they should move to venture and my answer is typically no* for the following reason..\n\nIt’s hard to truly understand what “excellence” means unless you’re deeply embedded and working for founders who are truly excellent. Even if you are part of the cap table and the board and spending time with founders, you don’t get same learnings as working at a company day in and day out. \n\nI wouldn’t know anything about product excellence if it were not for @deepnishar @ericwu01 @acv and others. \n\nI wouldn’t know anything about design if it were not for @kurtvarner @MicahSivitz @xiakv and others. \n\nI wouldn’t know anything about operational excellence if it were not for @rabois @danubata and others. \n\nOnly because of these experiences and reading deeply, I was able to create some heuristics of what great founders and companies look like. And I have to keep updating it as I meet more and more founders and technology shifts beneath us. Those experiences also helped me earn the right to win the right to be a part of founders cap table.\n\nThe other main reason to not be a junior investor is for most firms you’re just sourcing founders that match the GPs taste vs. truly thinking from first principles on what makes great founders & companies. \n\nIf you really want to invest in  founders, work at a great company and start by being be an angel. It’s such a fun way to learn and be part of founders journey. \n\n* The one exception to this is you’re absolutely obsessed with the craft of investing and you really cannot fathom doing any other job. If that’s your true passion then you’ll figure out a way to be a great investor regardless of anything you have done in the past.",
+      "translatedTitle": "很多年轻人问我是否应该去创业，我的回答通常是……",
+      "translatedBody": "很多年轻人问我是否应该转行做风险投资，我的回答通常是“不*”，原因如下：\n\n除非你深入其中，为真正优秀的创始人工作，否则很难真正理解“卓越”的含义。即使你身处股权结构中，成为董事会成员，并与创始人共事，你也无法获得与日复一日在公司工作相同的经验。\n\n如果没有 @deepnishar、@ericwu01、@acv 等人，我对产品卓越一无所知。\n\n如果没有 @kurtvarner、@MicahSivitz、@xiakv 等人，我对设计一无所知。\n\n如果没有 @rabois、@danubata 等人，我对运营卓越一无所知。\n\n正是凭借这些经历和深入阅读，我才得以总结出一些关于优秀创始人和公司特征的经验法则。随着我接触到越来越多的创始人，以及我们所处的技术日新月异，我必须不断更新我的投资理念。这些经历也帮助我赢得了成为创始人股权结构表成员的资格。\n\n不做初级投资人的另一个主要原因是，大多数公司只是在寻找符合普通合伙人（GP）口味的创始人，而不是真正从根本上思考是什么造就了优秀的创始人和公司。\n\n如果你真的想投资创始人，那就先在一家优秀的公司工作，从天使投资人做起。这是一种非常有趣的学习方式，也能让你参与到创始人的成长历程中。\n\n* 唯一的例外是，你对投资这门技艺无比痴迷，无法想象自己从事其他任何工作。如果这是你真正的热情所在，那么无论你过去做过什么，你都会找到成为一名优秀投资者的方法。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/nikunj/status/2055648134819450907",
+      "publishedAt": "2026-05-16T13:54:42.000Z",
+      "score": 50.49,
+      "engagement": {
+        "likes": 101,
+        "retweets": 5,
+        "replies": 14
+      },
+      "matchedFocusAreas": [
         "Product Ships"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-16T07:04:43.402Z",
-    "totalCandidates": 26,
-    "textQualifiedCandidates": 17,
+    "upstreamGeneratedAt": "2026-05-17T07:16:46.542Z",
+    "totalCandidates": 18,
+    "textQualifiedCandidates": 9,
     "selectedTweets": 8
   }
 }
