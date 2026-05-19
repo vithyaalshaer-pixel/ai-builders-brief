@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-18",
-  "generatedAt": "2026-05-18T04:06:11.626Z",
+  "date": "2026-05-19",
+  "generatedAt": "2026-05-19T03:59:31.903Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-18",
-  "summary": "今天最值得看的是 Peter Yang 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 18 条候选动态里，筛出 9 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-05-19",
+  "summary": "今天最值得看的是 Aaron Levie 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 20 条候选动态里，筛出 5 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,59 +13,65 @@
       "label": "Coding Agents"
     },
     {
+      "slug": "foundation-models",
+      "label": "Foundation Models"
+    },
+    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2055663937061007762",
+      "id": "2056051851439857933",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "如果你深陷湾区科技行业的激烈竞争/精神崩溃之中，那就抽出时间去其他地方旅行吧……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：If you're stuck in the Bay Area tech rat race / psychosis, make time to travel to other places. Go to a small town in…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "If you're stuck in the Bay Area tech rat race / psychosis, make time to travel to o…",
-      "originalBody": "If you're stuck in the Bay Area tech rat race / psychosis, make time to travel to other places.\n\nGo to a small town in Europe or visit Asia - you'll see that life can be about much more than whether you're IC7 or IC8 or what company you work for.\n\nDon't be the person to put on your tombstone: \"He got divorced and neglected his kids but at least he made D2 at FAANG\"",
-      "translatedTitle": "如果你深陷湾区科技行业的激烈竞争/精神崩溃之中，那就抽出时间去其他地方旅行吧……",
-      "translatedBody": "如果你深陷湾区科技圈的激烈竞争/精神崩溃之中，那就抽出时间去其他地方旅行吧。\n\n去欧洲的小镇走走，或者去亚洲走走——你会发现，生活远不止于你是IC7还是IC8，或者你在哪家公司工作。\n\n别让自己的墓碑上刻着：“他离了婚，疏于照顾孩子，但至少他在FAANG（Facebook、Apple、Apple、Google）做到了D2。”",
+      "builder": "Aaron Levie",
+      "title": "学生和高校能做的最好的事情之一就是不要放弃学习和茶……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：One of the best things students and colleges can do is not bail on learning and teaching the fundamentals of any give…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "One of the best things students and colleges can do is not bail on learning and tea…",
+      "originalBody": "One of the best things students and colleges can do is not bail on learning and teaching the fundamentals of any given domain. AI will trick you into thinking you don’t need to go deep in a particular area, but that’s wrong.\n\nThe expert with AI is always going to be far more capable than the novice. Those that can steer AI agents properly, figure out how to evaluate their work, fix their mistakes, and incorporate their work into a workflow will always be the most potent users of these tools.\n\nThe experienced software developer that’s built and scaled complex systems using agents outrun someone just vibe coding. The designer that uses AI will build far better products and campaigns than anyone else. The banker or analyst that understands financial models will be able to pull off far more with agents. \n\nDespite some of the rhetoric in the valley that this is less implement now, that couldn’t be further from the case. Don’t give up on going deep in your craft.",
+      "translatedTitle": "学生和高校能做的最好的事情之一就是不要放弃学习和茶……",
+      "translatedBody": "学生和高校能做的最好的事情之一，就是不要放弃学习和教授任何领域的基础知识。人工智能会让你误以为无需深入钻研某个特定领域，但这完全是错误的。\n\n精通人工智能的专家永远比新手更胜一筹。那些能够正确引导人工智能代理、评估其工作、纠正错误并将其融入工作流程的人，永远是这些工具最强大的使用者。\n\n经验丰富的软件开发人员，如果能够利用人工智能代理构建和扩展复杂系统，其效率将远超那些只会凭感觉写代码的人。使用人工智能的设计师能够打造出比任何人都更优秀的产品和营销活动。了解金融模型的银行家或分析师能够利用人工智能代理取得更大的成就。\n\n尽管硅谷有些人认为人工智能现在应用较少，但事实并非如此。不要放弃深入钻研你的专业技能。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2055663937061007762",
-      "publishedAt": "2026-05-16T14:57:29.000Z",
-      "score": 67.62,
+      "sourceUrl": "https://x.com/levie/status/2056051851439857933",
+      "publishedAt": "2026-05-17T16:38:55.000Z",
+      "score": 108.28,
       "engagement": {
-        "likes": 3090,
-        "retweets": 151,
-        "replies": 113
+        "likes": 425,
+        "retweets": 53,
+        "replies": 41
       },
       "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2055670533451366479",
+      "id": "2056123737544757733",
       "type": "tweet",
       "builder": "Garry Tan",
-      "title": "GBrain是什么？",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：What is GBrain? My open source project is a knowledge system, not RAG in a box. It gives agents 8 layers that work to…",
+      "title": "肯·格里芬还不明白，天花板已经被提高了。",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Ken Griffin doesn’t understand the ceiling just got raised. Some 20-something maybe reading this will build the crack…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "What is GBrain?",
-      "originalBody": "What is GBrain? My open source project is a knowledge system, not RAG in a box. \n\nIt gives agents 8 layers that work together to improve memory in a way that makes your already smart OpenClaw or Hermes Agent feel clairvoyant about who you are. \n\nPersonal AI becomes possible. https://t.co/XNVIw5ZfpO",
-      "translatedTitle": "GBrain是什么？",
-      "translatedBody": "GBrain是什么？我的开源项目是一个知识系统，而不是一个装在盒子里的RAG（随机数生成器）。\n\n它为智能体提供8个协同工作的层级，以一种独特的方式提升记忆力，让您原本就很智能的OpenClaw或Hermes Agent仿佛拥有了预知未来的能力，能够洞悉您的身份。\n\n个人AI成为可能。https://t.co/XNVIw5ZfpO",
+      "originalTitle": "Ken Griffin doesn’t understand the ceiling just got raised.",
+      "originalBody": "Ken Griffin doesn’t understand the ceiling just got raised. Some 20-something maybe reading this will build the cracked AI-human-computer-symbiosis team that will supersede his whole operation because he is too distracted about lowering cost\n\nBoil the ocean don’t cut your costs https://t.co/gxgx3IzLEa",
+      "translatedTitle": "肯·格里芬还不明白，天花板已经被提高了。",
+      "translatedBody": "肯·格里芬似乎还没意识到，行业格局已经发生了变化。或许某个二十出头的年轻人读到这篇文章后，就能组建一支技术精湛的人工智能-人机共生团队，彻底颠覆他的整个运营模式，因为他一心只想着降低成本。\n\n别削减成本，要放手一搏！https://t.co/gxgx3IzLEa",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2055670533451366479",
-      "publishedAt": "2026-05-16T15:23:42.000Z",
-      "score": 63.22,
+      "sourceUrl": "https://x.com/garrytan/status/2056123737544757733",
+      "publishedAt": "2026-05-17T21:24:34.000Z",
+      "score": 60.81,
       "engagement": {
-        "likes": 1231,
-        "retweets": 89,
-        "replies": 80
+        "likes": 707,
+        "retweets": 49,
+        "replies": 105
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -73,26 +79,54 @@
       "sourceType": "x"
     },
     {
-      "id": "2055674791873630650",
+      "id": "2056178053848703019",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "周六早上，正是思考一下我们功能系统如何运作的好时机……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Saturday morning and it’s a good time to think a bit about how our functional systems are being torn down by a mind v…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Saturday morning and it’s a good time to think a bit about how our functional syste…",
-      "originalBody": "Saturday morning and it’s a good time to think a bit about how our functional systems are being torn down by a mind virus by two philosophers: Foucault and Derrida \n\nFoucault: His framework tells you that every institution claiming to know something is really just exercising power. Medicine, engineering, law, science. Apply that at civilizational scale and you get exactly what Dan Wang warns about: a society that lost the will to build. Process knowledge — the tacit know-how that only exists in the hands of people who actually make things — dies when a culture decides that all knowledge claims are suspect. America went from building the Interstate Highway System and the Apollo rockets to being unable to build a train from LA to SF. That didn't happen because we forgot the engineering. It happened because we built an entire intellectual class whose job is to interrogate every system rather than improve one.\n\nDerrida: His move is that every commitment contains its own contradiction, so you can never land on firm meaning. Run that as societal firmware and you get the bureaucratic paralysis we now live in. Infrastructure projects stuck in 15 years of environmental review because every statement of purpose deconstructs under the next round of stakeholder input. Institutions that can't say what they're for because every draft mission statement gets wordsmithed into mush by people trained to find the hidden hierarchy in any clear sentence. Derrida is the OS behind a civilization that can write a 4,000 page environmental impact report but can't pour concrete.\n\nThe real damage is these ideas escaped the lab. Every institution that adopted this operating system stopped trying to discover truth and started managing narrative. DEI bureaucracies, academic hiring committees, media editorial standards. All running on Foucault and Derrida whether they know it or not.\n\nThe antidote is building. The physical bridge across a river holds or it doesn’t. The code compiles or it doesn't. Reality keeps score and it doesn't grade on a curve.\n\nFoucault and Derrida gave a generation a sophisticated excuse to never build anything. Their followers inherited the sophistication and the impotence.\n\nIt’s time to build again.",
-      "translatedTitle": "周六早上，正是思考一下我们功能系统如何运作的好时机……",
-      "translatedBody": "周六早晨，正是思考福柯和德里达两位哲学家如何用“思维病毒”瓦解我们现有功能体系的好时机。\n\n福柯：他的理论框架指出，任何声称掌握某种知识的机构实际上都只是在行使权力。医学、工程、法律、科学皆是如此。将这一理论应用于文明层面，你就会发现丹·王所警告的现象：一个丧失了建设意志的社会。过程知识——这种只存在于实际创造者手中的隐性知识——会在一种文化认定所有知识主张都值得怀疑时消亡。美国从建造州际公路系统和阿波罗火箭，到如今连洛杉矶到旧金山的火车都建不成。这并非因为我们忘记了工程技术，而是因为我们培养了一个知识分子阶层，他们的职责是质疑每一个系统，而不是改进现有系统。\n\n德里达：他的观点是，每一项承诺都包含着自身的矛盾，因此你永远无法找到确切的意义。如果把这些理念当作社会固件来运行，就会产生我们如今身处的官僚主义瘫痪局面。基础设施项目因为每一份目标声明都会在下一轮利益相关者的意见征询中被推翻，而陷入长达15年的环境评估泥潭。一些机构甚至无法阐明自身的存在意义，因为每一份使命宣言草案都会被那些训练有素、善于在任何清晰语句中挖掘隐藏层级的人修改得支离破碎。德里达就像是这套文明背后的操作系统，它能写出一份长达4000页的环境影响报告，却连混凝土都浇筑不了。\n\n真正的危害在于，这些理念已经走出了实验室。每一个采用这套操作系统的机构都停止了探寻真理，转而开始操控叙事。多元、公平和包容（DEI）的官僚机构、学术招聘委员会、媒体编辑标准，所有这些都在福柯和德里达的理论框架下运行，无论他们是否意识到这一点。\n\n解药正在建设中。横跨河流的桥梁要么稳固，要么坍塌。代码要么编译成功，要么编译失败。现实会记录一切，它不会根据曲线评分。\n\n福柯和德里达给了整整一代人一个精妙的借口，让他们可以不去创造任何东西。他们的追随者继承了这种精妙和无能为力。\n\n现在是时候重新开始了。",
+      "builder": "Peter Yang",
+      "title": "5.",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：5. Build evals based on real traces + feedback Read actual customer conversations with your model to build product se…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "5.",
+      "originalBody": "5. Build evals based on real traces + feedback\n\nRead actual customer conversations with your model to build product sense, and use Claude to synthesize feedback into top themes.\n\nDon't run \"eval theater\" on generic academic benchmarks. As models get smarter, evals need to get harder to keep producing signal.",
+      "translatedTitle": "5.",
+      "translatedBody": "5. 基于真实数据和反馈构建评估\n\n阅读与客户实际对话的记录，运用模型构建产品认知，并使用 Claude 将反馈提炼为关键主题。\n\n不要在通用的学术基准测试上进行“作秀式”评估。随着模型变得越来越智能，评估也需要更具挑战性，才能持续产生有效信息。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2055674791873630650",
-      "publishedAt": "2026-05-16T15:40:37.000Z",
-      "score": 61.06,
+      "sourceUrl": "https://x.com/petergyang/status/2056178053848703019",
+      "publishedAt": "2026-05-18T01:00:24.000Z",
+      "score": 57.22,
       "engagement": {
-        "likes": 709,
-        "retweets": 98,
-        "replies": 71
+        "likes": 0,
+        "retweets": 0,
+        "replies": 2
+      },
+      "matchedFocusAreas": [
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2056219645796090197",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "目前，过去人们渴望的工作与现在的工作之间存在暂时的错配……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Right now there’s a temporary mismatch between the jobs that used to be sought after in some fields and the new jobs…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Right now there’s a temporary mismatch between the jobs that used to be sought afte…",
+      "originalBody": "Right now there’s a temporary mismatch between the jobs that used to be sought after in some fields and the new jobs that are becoming in demand in those fields.\n\nFor instance, if you studied CS, for years the general direction of travel was often to join a tech company and build customer-facing software in some form. A significant portion of the CS pipeline from college to hire was built for this.\n\nWhen you realize that AI is going to make coding abundant, you realize everyone will need technical talent to implement agentic systems. This means the types of roles engineers should be thinking about radically expands.\n\nI was talking to a Fortune 500 pharma CEO a week ago that commented on how much more technical talent they need right now. The job may be different from what it was 5 years ago when thinking about tech, but the demand for the skills are still there. And this is what I’m hearing from every CIO and CEO across nearly every industry right now.\n\nWe definitely need colleges to wake up to this; but we equally need companies think about how they craft pipelines into these jobs.",
+      "translatedTitle": "目前，过去人们渴望的工作与现在的工作之间存在暂时的错配……",
+      "translatedBody": "目前，某些领域曾经热门的职位与这些领域正在兴起的新兴职位之间存在暂时的错配。\n\n例如，如果你学习的是计算机科学，多年来，你的职业发展方向通常是加入科技公司，开发面向客户的软件。从大学到就业，计算机科学专业的人才培养体系很大一部分都是为此而设计的。\n\n当你意识到人工智能将使编程变得唾手可得时，你就会明白每个人都需要技术人才来实现智能系统。这意味着工程师应该考虑的职位类型将大幅扩展。\n\n一周前，我与一位财富 500 强制药公司的首席执行官交谈，他提到他们现在急需更多技术人才。从技术角度来看，现在的工作可能与五年前有所不同，但对相关技能的需求依然存在。而这正是我现在从几乎所有行业的首席信息官和首席执行官那里听到的。\n\n我们当然需要高校意识到这一点；但同样重要的是，企业需要思考如何构建通往这些职位的人才培养体系。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2056219645796090197",
+      "publishedAt": "2026-05-18T03:45:40.000Z",
+      "score": 55.95,
+      "engagement": {
+        "likes": 275,
+        "retweets": 24,
+        "replies": 37
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -100,145 +134,37 @@
       "sourceType": "x"
     },
     {
-      "id": "2055775661755715974",
+      "id": "2056125669466333672",
       "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "我的大脑：别看 Hacker News 上的评论，别看 Hacker News 上的评论……",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：my brain: don't read the hacker news comments, don't read the hacker news comments me: reads the hacker news comments",
+      "builder": "Nikunj Kothari",
+      "title": "加入一些新晋独角兽*公司的员工正面临三重打击……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Employees joining some recently minted unicorn* companies are facing a triple whammy.. 1) tranched valuations are ver…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "my brain: don't read the hacker news comments, don't read the hacker news comments…",
-      "originalBody": "my brain: don't read the hacker news comments, don't read the hacker news comments\n\nme: reads the hacker news comments",
-      "translatedTitle": "我的大脑：别看 Hacker News 上的评论，别看 Hacker News 上的评论……",
-      "translatedBody": "我的大脑：别看 Hacker News 上的评论，别看 Hacker News 上的评论\n\n我：看了 Hacker News 上的评论",
+      "originalTitle": "Employees joining some recently minted unicorn* companies are facing a triple whamm…",
+      "originalBody": "Employees joining some recently minted unicorn* companies are facing a triple whammy..\n\n1) tranched valuations are very common now means their entry strike price at that valuation is often >2x of the lead preferred price.\n\n2) this means your strike price will be quite high and so will be your 409a. you’ll paying a pretty penny if you try to early exercise and if not then you’ll have to wait a while till they grow into that valuation.  \n\n3) stock packages seem great “on paper” but are massively inflated because of this tranched valuation. so you can say total comp is very high but the real comp is not that high (at least today). this is another reason companies chase a higher valuation so they can give lower equity raises. \n\nMake sure you go with wide eyes and use Claude/ChatGPT to do some exit math on your equity. Joining a unicorn company can offer far more than just comp (learning, experience, strong mission, great team) and that should be the core reason for joining. But do your own due diligence on the company you’re joining just like an investor would. \n\n* Not all unicorn companies are the same - some are fundamentally better and have meaningfully grown into the valuation than others. Some are growing way faster than the ones with fundamentals. Point is to do your homework vs treating every company that’s valued similarly and putting them in the same bucket.",
+      "translatedTitle": "加入一些新晋独角兽*公司的员工正面临三重打击……",
+      "translatedBody": "加入一些新晋独角兽*公司的员工正面临三重打击：\n\n1) 分层估值如今非常普遍，这意味着在这种估值下，他们的入场行权价通常是主导优先股价格的两倍以上。\n\n2) 这意味着你的行权价会很高，你的409a条款也会很高。如果你试图提前行权，你将付出高昂的代价；如果不行权，你就必须等待一段时间，直到公司估值达到这个水平。\n\n3) 股票方案“账面”看起来很不错，但由于这种分层估值，实际上被严重夸大了。所以你可以说总薪酬很高，但实际薪酬并没有那么高（至少目前是这样）。这也是公司追求更高估值以便降低股权融资额的另一个原因。\n\n务必保持警惕，并使用Claude/ChatGPT等工具来计算你的股权退出收益。加入独角兽公司能带来的远不止薪酬（学习机会、经验、远大使命、优秀团队），这才是加入的真正原因。但你也要像投资者一样，对即将加入的公司进行尽职调查。\n\n* 并非所有独角兽公司都一样——有些公司的基本面更胜一筹，估值也更合理。有些公司的增长速度远超那些基本面良好的公司。关键在于做好功课，而不是把所有估值相近的公司都一概而论。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2055775661755715974",
-      "publishedAt": "2026-05-16T22:21:26.000Z",
-      "score": 58.84,
+      "sourceUrl": "https://x.com/nikunj/status/2056125669466333672",
+      "publishedAt": "2026-05-17T21:32:15.000Z",
+      "score": 50.97,
       "engagement": {
-        "likes": 542,
-        "retweets": 11,
-        "replies": 64
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2055728641913536762",
-      "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "AI精神病：使用Codi后，每天都会在两种精神状态之间循环往复……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：AI psychosis: cycling between two mental states every single day ↑ after using coding agents: holy shit I'm omnipoten…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "AI psychosis: cycling between two mental states every single day ↑ after using codi…",
-      "originalBody": "AI psychosis: cycling between two mental states every single day\n↑ after using coding agents: holy shit I'm omnipotent. I can build anything. I've never felt this powerful in my life.\n↓ after scrolling twitter: holy shit I'm completely behind. everyone's ahead. the wave is moving and I'm going to get left.",
-      "translatedTitle": "AI精神病：使用Codi后，每天都会在两种精神状态之间循环往复……",
-      "translatedBody": "AI精神错乱：每天在两种精神状态之间循环\n\n↑ 使用编程智能体后：卧槽，我无所不能。我可以创造任何东西。我这辈子从未感觉如此强大。\n\n↓ 刷推特后：卧槽，我完全落后了。大家都领先。浪潮正在涌来，我要被甩在后面了。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2055728641913536762",
-      "publishedAt": "2026-05-16T19:14:36.000Z",
-      "score": 52.89,
-      "engagement": {
-        "likes": 136,
-        "retweets": 16,
-        "replies": 28
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2055685581758206139",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "BlackBar 0.2.0 已上线，适用于 @useblacksmith 📈 提供 24 小时 vCPU + 工作流图表 🔔 可选加入…",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：BlackBar 0.2.0 is live for @useblacksmith 📈 24h vCPU + workflow graphs 🔔 opt-in status/job notifications 🧰 richer…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "BlackBar 0.2.0 is live for @useblacksmith 📈 24h vCPU + workflow graphs 🔔 opt-in s…",
-      "originalBody": "BlackBar 0.2.0 is live for @useblacksmith \n\n📈 24h vCPU + workflow graphs\n🔔 opt-in status/job notifications\n🧰 richer Blacksmith job rows\n🟢 compact status badge\n\nTiny menu bar, less CI guesswork.\nhttps://t.co/LAAyHy8aDQ https://t.co/178w9igZTW",
-      "translatedTitle": "BlackBar 0.2.0 已上线，适用于 @useblacksmith 📈 提供 24 小时 vCPU + 工作流图表 🔔 可选加入…",
-      "translatedBody": "BlackBar 0.2.0 已上线，适用于 @useblacksmith\n\n📈 24 小时 vCPU + 工作流图表\n\n🔔 可选的状态/任务通知\n\n🧰 更丰富的 Blacksmith 任务列表\n\n🟢 简洁的状态徽章\n\n极简菜单栏，减少 CI 操作。\n\nhttps://t.co/LAAyHy8aDQ https://t.co/178w9igZTW",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2055685581758206139",
-      "publishedAt": "2026-05-16T16:23:30.000Z",
-      "score": 52.89,
-      "engagement": {
-        "likes": 172,
-        "retweets": 7,
-        "replies": 16
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2055708451670798839",
-      "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "我有些朋友年收入超过1000万美元，但他们过得很不开心。",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：I have friends who made $10M+ and are miserable. I have friends who made that much and found calm - they don’t need t…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "I have friends who made $10M+ and are miserable.",
-      "originalBody": "I have friends who made $10M+ and are miserable. I have friends who made that much and found calm - they don’t need to run anymore. \n\nI have friends who made far less and are just happy.\n\nWhether something is enough is up to you. Whether you’re happy is independent of your bank account.\n\nYou can want to be wealthy and still be content now. You don’t need to chase it from a place of lack and desperation.\n\nSilicon Valley treats ambition and happiness as mutually exclusive. As if wanting more means you can’t be satisfied now.\n\nThat’s the trap. You can be both",
-      "translatedTitle": "我有些朋友年收入超过1000万美元，但他们过得很不开心。",
-      "translatedBody": "我有些朋友年收入超过1000万美元，却过得很不开心。我也有些朋友赚了这么多钱，却找到了内心的平静——他们不再需要奔波劳碌。\n\n我还有些朋友收入远低于此，却很快乐。\n\n是否足够取决于你自己。你的幸福与你的银行存款无关。\n\n你可以渴望富有，但同时也能感到满足。你无需在匮乏和绝望中追逐财富。\n\n硅谷把雄心壮志和幸福视为水火不容。仿佛想要更多就意味着你无法享受当下。\n\n这就是陷阱。你可以两者兼得。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2055708451670798839",
-      "publishedAt": "2026-05-16T17:54:22.000Z",
-      "score": 52.48,
-      "engagement": {
-        "likes": 166,
-        "retweets": 8,
+        "likes": 123,
+        "retweets": 5,
         "replies": 8
       },
       "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2055648134819450907",
-      "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "很多年轻人问我是否应该去创业，我的回答通常是……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：A lot of young people ask me if they should move to venture and my answer is typically no* for the following reason..…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "A lot of young people ask me if they should move to venture and my answer is typica…",
-      "originalBody": "A lot of young people ask me if they should move to venture and my answer is typically no* for the following reason..\n\nIt’s hard to truly understand what “excellence” means unless you’re deeply embedded and working for founders who are truly excellent. Even if you are part of the cap table and the board and spending time with founders, you don’t get same learnings as working at a company day in and day out. \n\nI wouldn’t know anything about product excellence if it were not for @deepnishar @ericwu01 @acv and others. \n\nI wouldn’t know anything about design if it were not for @kurtvarner @MicahSivitz @xiakv and others. \n\nI wouldn’t know anything about operational excellence if it were not for @rabois @danubata and others. \n\nOnly because of these experiences and reading deeply, I was able to create some heuristics of what great founders and companies look like. And I have to keep updating it as I meet more and more founders and technology shifts beneath us. Those experiences also helped me earn the right to win the right to be a part of founders cap table.\n\nThe other main reason to not be a junior investor is for most firms you’re just sourcing founders that match the GPs taste vs. truly thinking from first principles on what makes great founders & companies. \n\nIf you really want to invest in  founders, work at a great company and start by being be an angel. It’s such a fun way to learn and be part of founders journey. \n\n* The one exception to this is you’re absolutely obsessed with the craft of investing and you really cannot fathom doing any other job. If that’s your true passion then you’ll figure out a way to be a great investor regardless of anything you have done in the past.",
-      "translatedTitle": "很多年轻人问我是否应该去创业，我的回答通常是……",
-      "translatedBody": "很多年轻人问我是否应该转行做风险投资，我的回答通常是“不*”，原因如下：\n\n除非你深入其中，为真正优秀的创始人工作，否则很难真正理解“卓越”的含义。即使你身处股权结构中，成为董事会成员，并与创始人共事，你也无法获得与日复一日在公司工作相同的经验。\n\n如果没有 @deepnishar、@ericwu01、@acv 等人，我对产品卓越一无所知。\n\n如果没有 @kurtvarner、@MicahSivitz、@xiakv 等人，我对设计一无所知。\n\n如果没有 @rabois、@danubata 等人，我对运营卓越一无所知。\n\n正是凭借这些经历和深入阅读，我才得以总结出一些关于优秀创始人和公司特征的经验法则。随着我接触到越来越多的创始人，以及我们所处的技术日新月异，我必须不断更新我的投资理念。这些经历也帮助我赢得了成为创始人股权结构表成员的资格。\n\n不做初级投资人的另一个主要原因是，大多数公司只是在寻找符合普通合伙人（GP）口味的创始人，而不是真正从根本上思考是什么造就了优秀的创始人和公司。\n\n如果你真的想投资创始人，那就先在一家优秀的公司工作，从天使投资人做起。这是一种非常有趣的学习方式，也能让你参与到创始人的成长历程中。\n\n* 唯一的例外是，你对投资这门技艺无比痴迷，无法想象自己从事其他任何工作。如果这是你真正的热情所在，那么无论你过去做过什么，你都会找到成为一名优秀投资者的方法。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2055648134819450907",
-      "publishedAt": "2026-05-16T13:54:42.000Z",
-      "score": 50.49,
-      "engagement": {
-        "likes": 101,
-        "retweets": 5,
-        "replies": 14
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
+        "Coding Agents"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-17T07:16:46.542Z",
-    "totalCandidates": 18,
-    "textQualifiedCandidates": 9,
-    "selectedTweets": 8
+    "upstreamGeneratedAt": "2026-05-18T07:45:35.433Z",
+    "totalCandidates": 20,
+    "textQualifiedCandidates": 5,
+    "selectedTweets": 5
   }
 }
