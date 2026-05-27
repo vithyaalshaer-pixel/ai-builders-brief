@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-26",
-  "generatedAt": "2026-05-26T03:59:54.917Z",
+  "date": "2026-05-27",
+  "generatedAt": "2026-05-27T04:13:58.116Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-26",
-  "summary": "今天最值得看的是 Peter Yang 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 23 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-05-27",
+  "summary": "今天最值得看的是 Aaron Levie 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 18 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,55 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2058609058714968194",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "“我已经完成了 200 万美元的种子轮融资，但我暂时不会招人。”",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：\"I've raised a $2M seed round, but I'm not going to hire anybody for a while. As a startup founder, you want to under…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "\"I've raised a $2M seed round, but I'm not going to hire anybody for a while.",
-      "originalBody": "\"I've raised a $2M seed round, but I'm not going to hire anybody for a while.\n\nAs a startup founder, you want to understand every job and do it and feel the pain before you hire.\n\nThe reality is that an agent is alot faster to onboard and they retain all the training so you can improve it over time.\"\n\n📌 Watch Ryan talk more about how he onboards AI agents here: https://t.co/FXCjrzrFRO",
-      "translatedTitle": "“我已经完成了 200 万美元的种子轮融资，但我暂时不会招人。”",
-      "translatedBody": "“我已经完成了 200 万美元的种子轮融资，但暂时不会招人。\n\n作为创业公司的创始人，在正式招人之前，你肯定想了解每一项工作，亲身实践，体会其中的痛点。\n\n但现实情况是，人工智能助手上手速度更快，而且它们会保留所有训练内容，方便你随着时间的推移不断改进。”\n\n📌 观看 Ryan 详细讲解他如何让 AI 助手上手：https://t.co/FXCjrzrFRO",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2058609058714968194",
-      "publishedAt": "2026-05-24T18:00:21.000Z",
-      "score": 98.12,
-      "engagement": {
-        "likes": 46,
-        "retweets": 9,
-        "replies": 13
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2058582370253701432",
+      "id": "2059025559896883489",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "CEO们特别容易患上人工智能综合症，因为他们与人工智能本身保持着足够的距离……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：CEOs are uniquely prone to AI psychosis because they’re sufficiently distant from the last mile of work that still ha…",
+      "title": "高盛首席执行官对人工智能的悲观观点持相反立场……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The CEO of Goldman Sachs is taking the other side on the pessimistic takes on AI and jobs. If you looked at what work…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "CEOs are uniquely prone to AI psychosis because they’re sufficiently distant from t…",
-      "originalBody": "CEOs are uniquely prone to AI psychosis because they’re sufficiently distant from the last mile of work that still has to happen to generate most value with AI.\n\nSo when they play with AI, they see the happy path results, often not considering the next 10 or 20 things that have to happen to get sustainable results from agents. \n\n“Look I made this awesome product prototype”. Yes but you didn’t have to review the code before it went into production and fix a bunch of issues.\n\n“Look I generated a contract”. Yes but you didn’t verify all the terms before it goes out to the counterparty and didn’t have to wire up all the past contracts to work with.\n\nThe best thing you can do as a CEO is to use AI a *ton* to figure out the real implications of agents in the enterprise, and come out the other side with an appreciation for both the upside and the real work that goes into them.",
-      "translatedTitle": "CEO们特别容易患上人工智能综合症，因为他们与人工智能本身保持着足够的距离……",
-      "translatedBody": "CEO们特别容易患上“人工智能综合症”，因为他们距离真正发挥人工智能最大价值所需的最后阶段工作还很远。\n\n所以，当他们玩转人工智能时，看到的往往是美好的结果，却常常忽略了接下来需要完成的10到20项工作，才能让智能体持续发挥作用。\n\n“看，我做出了一个很棒的产品原型。”没错，但你不需要在产品上线前审查代码并修复大量问题。\n\n“看，我生成了一份合同。”没错，但你不需要在发送给交易对手之前核实所有条款，也不需要整合所有过往合同数据。\n\n作为CEO，你能做的最好的事情就是大量使用人工智能，去了解智能体在企业中的真正意义，并最终认识到人工智能带来的好处以及背后需要付出的艰辛努力。",
+      "originalTitle": "The CEO of Goldman Sachs is taking the other side on the pessimistic takes on AI an…",
+      "originalBody": "The CEO of Goldman Sachs is taking the other side on the pessimistic takes on AI and jobs. \n\nIf you looked at what work looked like a few decades ago and saw how much faster everything is or easier it is to produce the same thing as before - even before AI - you’d certainly have been convinced there’d be no jobs left.\n\nWhat happens is we constantly just demand more from everything. Instead of automating a task and delivering the same value proposition, but cheaper, we just expect more from the overall product or service. Because some players in the market decides to do more with the automation, and it raises everyone’s expectations. So those that don’t respond can’t compete.\n\nWe get more financial analysis from analysts. We get much more comprehensive legal advice. We get more tailored financial services offerings. We get better software in niches we never thought we could automate. Our healthcare providers offer more tests and deeper medical advice. This just goes on and on.\n\nWhen you move from believing the world is static and you’ll have a better view of how jobs evolve due to AI.",
+      "translatedTitle": "高盛首席执行官对人工智能的悲观观点持相反立场……",
+      "translatedBody": "高盛首席执行官对人工智能和就业前景的悲观论调持相反观点。\n\n如果你回顾几十年前的工作场景，看看现在一切都变得多么快捷高效，生产同样的东西也变得如此容易——甚至在人工智能出现之前——你肯定会认为工作岗位将不复存在。\n\n但事实是，我们不断地对所有事物提出更高的要求。我们不再追求自动化任务，以更低的成本提供同样的价值，而是对整体产品或服务抱有更高的期望。因为市场上的一些参与者决定利用自动化做更多的事情，这提高了所有人的期望值。因此，那些不做出相应调整的人就无法参与竞争。\n\n我们从分析师那里获得了更多的财务分析。我们获得了更全面的法律建议。我们获得了更多量身定制的金融服务。我们在以前从未想过可以自动化的领域获得了更好的软件。我们的医疗服务提供商提供了更多的检测和更深入的医疗建议。这样的例子不胜枚举。\n\n当你不再认为世界是静止不变的，你就会更好地理解人工智能如何推动工作岗位的演变。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2058582370253701432",
-      "publishedAt": "2026-05-24T16:14:18.000Z",
-      "score": 95.53,
+      "sourceUrl": "https://x.com/levie/status/2059025559896883489",
+      "publishedAt": "2026-05-25T21:35:22.000Z",
+      "score": 84.35,
       "engagement": {
-        "likes": 4865,
-        "retweets": 509,
-        "replies": 230
+        "likes": 530,
+        "retweets": 55,
+        "replies": 58
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -80,26 +51,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2058555226479866312",
+      "id": "2059029752858775581",
       "type": "tweet",
       "builder": "Peter Yang",
-      "title": "我们过去常说要打造MVP（最小可行产品）。",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：\"We used to say build the MVP. Now you should build the system that builds the MVP first.\" Here's my new episode with…",
+      "title": "过去感觉像是拖延（构建系统而不是开发最小可行产品）的事情，现在却变成了……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：What used to feel like procrastination (building systems instead of the MVP) is now a prerequisite to ship effectivel…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "\"We used to say build the MVP.",
-      "originalBody": "\"We used to say build the MVP. Now you should build the system that builds the MVP first.\"\n\nHere's my new episode with @ryancarson where he shared how he runs his startup solo with AI agents:\n\n✅ OpenClaw as his AI chief of staff to triage emails, book meetings, and do sales outreach\n\n✅ Codex and Devin as his AI eng team to ship features while he sleeps\n\nSome quotes from Ryan:\n\n\"Spend a lot of time upfront setting up your skills + documentation. Then you've suddenly unlocked the work of 10 people.\"\n\n\"Treat your agent like a real employee. Give it a real email address, calendar access, and GitHub account.\"\n\n\"Pay a designer to set up your design system and brand. After that, you can use AI to generate on-brand assets.\"\n\n📌 Watch now: https://t.co/Slc5cEkFGQ\n\nThanks to our sponsors:\n\n@WisprFlow: Don't type, just speak https://t.co/oqHJ8bN3ll\n\n@linear: The AI agent platform for modern teams https://t.co/yFylGfkenJ",
-      "translatedTitle": "我们过去常说要打造MVP（最小可行产品）。",
-      "translatedBody": "“我们过去常说要先构建最小可行产品（MVP）。现在你应该先构建能够构建MVP的系统。”\n\n这是我和@ryancarson 的最新一期节目，他分享了自己如何利用人工智能代理独自运营创业公司：\n\n✅ OpenClaw 作为他的人工智能首席运营官，负责邮件分类、会议安排和销售拓展\n\n✅ Codex 和 Devin 作为他的人工智能工程团队，在他睡觉时负责发布功能\n\nRyan 的一些语录：\n\n“前期要花大量时间搭建你的技能和文档。这样你就能瞬间获得相当于10个人的工作量。”\n\n“像对待真正的员工一样对待你的人工智能代理。给它一个真实的邮箱地址、日历访问权限和 GitHub 账号。”\n\n“聘请一位设计师来搭建你的设计系统和品牌。之后，你就可以使用人工智能来生成符合品牌形象的素材。”\n\n📌 立即观看：https://t.co/Slc5cEkFGQ\n\n感谢我们的赞助商：\n\n@WisprFlow：无需打字，直接语音沟通 https://t.co/oqHJ8bN3ll\n\n@linear：面向现代团队的 AI 智能体平台 https://t.co/yFylGfkenJ",
+      "originalTitle": "What used to feel like procrastination (building systems instead of the MVP) is now…",
+      "originalBody": "What used to feel like procrastination (building systems instead of the MVP) is now a prerequisite to ship effectively with AI agents.\n\nMy number 1 lesson from @ryancarson:\n\n\"We used to say just do the bare minimum to get the MVP out. Don't spend time on systems. It's literally reversed now.\n\nYou have to spend a lot of time setting up your documentation. Build all that into a cron job with a skill file, and suddenly you're doing the work of 10 people.\"\n\n📌 I asked Ryan how he ships 10 PRs a day, here's his answer: https://t.co/8jMGNSdHmu",
+      "translatedTitle": "过去感觉像是拖延（构建系统而不是开发最小可行产品）的事情，现在却变成了……",
+      "translatedBody": "过去那种感觉像是拖延（构建系统而不是开发最小可行产品）的做法，现在却成了高效发布 AI 智能体产品的先决条件。\n\n我从 @ryancarson 那里学到的第一课是：\n\n“我们以前常说，只要把 MVP 做完就行了，别在系统上浪费时间。现在情况完全相反了。\n\n你必须花大量时间编写文档。把这些都整合到一个带有技能文件的定时任务里，你就能完成 10 个人的工作量。”\n\n📌 我问了 Ryan 他是如何做到每天发布 10 个 PR 的，这是他的回答：https://t.co/8jMGNSdHmu",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2058555226479866312",
-      "publishedAt": "2026-05-24T14:26:26.000Z",
-      "score": 78.24,
+      "sourceUrl": "https://x.com/petergyang/status/2059029752858775581",
+      "publishedAt": "2026-05-25T21:52:02.000Z",
+      "score": 71.75,
       "engagement": {
-        "likes": 164,
-        "retweets": 13,
-        "replies": 23
+        "likes": 32,
+        "retweets": 7,
+        "replies": 12
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -108,26 +79,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2058783316753686558",
+      "id": "2059148823403082154",
       "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "通过网络请求对 API 进行逆向工程是最有趣的事情之一……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Reverse engineering APIs through network requests is one of the most fun things you can do with Claude Code to automa…",
+      "builder": "Garry Tan",
+      "title": "我说的评估是指直接告诉经纪人：鉴于我们之前讨论过的关于我们是什么……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：By evals I mean literally tell the agent: given what we discussed about what we are doing and why and what happened,…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Reverse engineering APIs through network requests is one of the most fun things you…",
-      "originalBody": "Reverse engineering APIs through network requests is one of the most fun things you can do with Claude Code to automate tasks.. \n\nSO many websites are impossible to navigate \"deterministically\" via the DOM (or through screenshots).\n\nSo, I just point Claude Code to use browser_harness by @browser_use (or vanilla playwright) and ask it to sniff network requests on the pages that I'm trying to get info on. \n\nAnd, I just keep clicking around on the sections of data that I want. And, then Claude Code is generally able to go through the logs to figure out what is the right structure for these APIs and what kind of auth do they need (most are cookie based). We also determine what kind of rate limits exist based on trial and error. \n\nI'm able to use that to construct jobs that allow me to get that data programmatically. There are many use cases for this besides scraping. I use this for random side projects (like the travel CLI), for monitoring websites (for intel), and for many many other use cases. \n\nEvery website will soon need to be headless, and we'll need to figure out mechanisms for how we have our agents pay these websites programmatically as well. \n\nJust as we have llms.txt for data and structure, we'll soon need tools.txt for agents to determine what tools exist that can be leveraged.",
-      "translatedTitle": "通过网络请求对 API 进行逆向工程是最有趣的事情之一……",
-      "translatedBody": "通过网络请求对 API 进行逆向工程是使用 Claude Code 实现任务自动化最有趣的方式之一。\n\n很多网站都无法通过 DOM（或截图）进行“确定性”导航。\n\n因此，我只需让 Claude Code 使用 @browser_use 的 browser_harness（或原生 playwright），并让它嗅探我想要获取信息的页面上的网络请求。\n\n然后，我只需不断点击我想要的数据部分。Claude Code 通常能够分析日志，找出这些 API 的正确结构以及它们需要的身份验证类型（大多数基于 cookie）。我们还会通过反复试验来确定存在的速率限制。\n\n我可以利用这些信息来构建任务，从而以编程方式获取数据。除了网页抓取之外，这种方法还有许多其他用途。我用它来做一些零散的副业项目（比如旅行命令行界面），监控网站（收集情报），以及用于其他各种各样的用途。\n\n很快，所有网站都需要实现无头架构，我们也需要找到让代理商以编程方式向这些网站付费的机制。\n\n就像我们有 llms.txt 文件来管理数据和结构一样，很快我们也需要 tools.txt 文件来帮助代理商确定可以使用哪些工具。",
+      "originalTitle": "By evals I mean literally tell the agent: given what we discussed about what we are…",
+      "originalBody": "By evals I mean literally tell the agent: given what we discussed about what we are doing and why and what happened, use three different frontier models to look at inputs and outputs of your skill file calling the code, and rate it on effectiveness. Why isn’t it a 10? How could it be made to be so? \n\nRun this a few times and you will be surprised how fast it gets astonishingly better\n\nAnd since it is in a skill file plus code with evals (LLM as judge) and unit tests, it stays better forever",
+      "translatedTitle": "我说的评估是指直接告诉经纪人：鉴于我们之前讨论过的关于我们是什么……",
+      "translatedBody": "所谓评估，我的意思是直接告诉智能体：根据我们之前讨论的关于我们正在做什么、为什么这样做以及发生了什么，使用三个不同的前沿模型来查看你的技能文件调用代码的输入和输出，并评估其有效性。为什么它不是 10 分？如何才能达到 10 分？\n\n运行几次，你会惊讶于它进步之快。\n\n而且，由于它包含在一个技能文件、代码、评估（使用 LLM 作为评判标准）和单元测试中，因此它会一直保持最佳状态。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2058783316753686558",
-      "publishedAt": "2026-05-25T05:32:47.000Z",
-      "score": 73.87,
+      "sourceUrl": "https://x.com/garrytan/status/2059148823403082154",
+      "publishedAt": "2026-05-26T05:45:11.000Z",
+      "score": 69.33,
       "engagement": {
-        "likes": 57,
-        "retweets": 2,
-        "replies": 7
+        "likes": 26,
+        "retweets": 1,
+        "replies": 1
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -136,26 +107,80 @@
       "sourceType": "x"
     },
     {
-      "id": "2058576196481200223",
+      "id": "2058917897590673525",
       "type": "tweet",
-      "builder": "Thariq",
-      "title": "说实话，我觉得这些模型还没完全成熟，Bun 的说法非常可信……",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：to be clear I don't think the models are quite there yet, Bun is extremely verifiable and has incredible test coverag…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "to be clear I don't think the models are quite there yet, Bun is extremely verifiab…",
-      "originalBody": "to be clear I don't think the models are quite there yet, Bun is extremely verifiable and has incredible test coverage\n\nbut I think they will get there",
-      "translatedTitle": "说实话，我觉得这些模型还没完全成熟，Bun 的说法非常可信……",
-      "translatedBody": "说实话，我认为这些模型还没完全成熟。Bun 模型虽然验证性极强，测试覆盖率也很高，但我觉得它们最终会达到目标。\n\n",
+      "builder": "Peter Steinberger",
+      "title": "各位：在描述技能时，请要求您的经纪人尽量精简措辞，不要过分在意语法。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Folks: when you write skills, ask your agent to be token efficient, relax grammer. I see too many skills that write b…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Folks: when you write skills, ask your agent to be token efficient, relax grammer.",
+      "originalBody": "Folks: when you write skills, ask your agent to be token efficient, relax grammer. I see too many skills that write books in the skill description, and all that crap is loaded into every context.\n\nI wrote a skill that finds the worst offenders. https://t.co/kfaaJpxMXE",
+      "translatedTitle": "各位：在描述技能时，请要求您的经纪人尽量精简措辞，不要过分在意语法。",
+      "translatedBody": "各位：写技能的时候，请你的代理人尽量精简用词，别太在意语法。我见过太多技能描述里堆砌大量文字，各种乱七八糟的东西到处乱放。\n\n我写了一个专门找出最糟糕例子的技能。https://t.co/kfaaJpxMXE",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2058576196481200223",
-      "publishedAt": "2026-05-24T15:49:46.000Z",
-      "score": 51.15,
+      "sourceUrl": "https://x.com/steipete/status/2058917897590673525",
+      "publishedAt": "2026-05-25T14:27:34.000Z",
+      "score": 69.1,
       "engagement": {
-        "likes": 133,
-        "retweets": 4,
-        "replies": 6
+        "likes": 3921,
+        "retweets": 294,
+        "replies": 146
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2058922222790525272",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "OpenClaw 的依赖项清理工作仍在继续。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：OpenClaw's dependency purge continues. Killed Sharp and Jimp. Replaced it with photon, a small WebAssembly that runs…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "OpenClaw's dependency purge continues.",
+      "originalBody": "OpenClaw's dependency purge continues. Killed Sharp and Jimp. Replaced it with photon, a small WebAssembly that runs compiled Rust for image processing. 2MB vs 140MB. https://t.co/tSimX2GKwP",
+      "translatedTitle": "OpenClaw 的依赖项清理工作仍在继续。",
+      "translatedBody": "OpenClaw 的依赖清理工作仍在继续。Sharp 和 Jimp 已被移除，取而代之的是 photon，一个运行编译后的 Rust 图像处理的小型 WebAssembly。体积从 140MB 缩小到 2MB。https://t.co/tSimX2GKwP",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2058922222790525272",
+      "publishedAt": "2026-05-25T14:44:45.000Z",
+      "score": 61.04,
+      "engagement": {
+        "likes": 883,
+        "retweets": 32,
+        "replies": 40
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2058994218484338726",
+      "type": "tweet",
+      "builder": "Amanda Askell",
+      "title": "我已经五年多没写过个人博客文章了，所以如果你看到一些类似……的文章",
+      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：I haven't written a personal blog post in over 5 years so if you see posts that claim to be written by me, they're no…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "I haven't written a personal blog post in over 5 years so if you see posts that cla…",
+      "originalBody": "I haven't written a personal blog post in over 5 years so if you see posts that claim to be written by me, they're not. I'll update if this ever changes. Maybe it should.",
+      "translatedTitle": "我已经五年多没写过个人博客文章了，所以如果你看到一些类似……的文章",
+      "translatedBody": "我已经五年多没写过个人博客文章了，所以如果你看到声称是我写的文章，那都不是。如果情况有变，我会更新。也许应该改改。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/AmandaAskell/status/2058994218484338726",
+      "publishedAt": "2026-05-25T19:30:50.000Z",
+      "score": 58.2,
+      "engagement": {
+        "likes": 497,
+        "retweets": 10,
+        "replies": 44
       },
       "matchedFocusAreas": [
         "Foundation Models"
@@ -163,80 +188,53 @@
       "sourceType": "x"
     },
     {
-      "id": "2058692391708897319",
+      "id": "2059099566377693305",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "Codex非常好。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Codex is very good. I'm especially impressed by how it uses the browse to test its own work. But any design related /…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Codex is very good.",
+      "originalBody": "Codex is very good. I'm especially impressed by how it uses the browse to test its own work.\n\nBut any design related / frontend tasks, Claude still wins.",
+      "translatedTitle": "Codex非常好。",
+      "translatedBody": "Codex 非常出色。它利用浏览器来测试自身功能的方式尤其令我印象深刻。\n\n但任何与设计/前端相关的任务，Claude 仍然更胜一筹。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2059099566377693305",
+      "publishedAt": "2026-05-26T02:29:27.000Z",
+      "score": 55.19,
+      "engagement": {
+        "likes": 239,
+        "retweets": 8,
+        "replies": 48
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2058927145519562867",
       "type": "tweet",
       "builder": "Nikunj Kothari",
-      "title": "这个周末我花了不少时间开发一款（我觉得）非常棒的旅行命令行界面产品，我很想……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Spent this weekend building a pretty rad (imo) travel CLI product that I'd love to test in public.. Anyone have a tri…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Spent this weekend building a pretty rad (imo) travel CLI product that I'd love to…",
-      "originalBody": "Spent this weekend building a pretty rad (imo) travel CLI product that I'd love to test in public..\n\nAnyone have a trip coming up soon AND has a boatload of points?\n\nReply here with origin, destination, point breakdown and I'll reply with the output!",
-      "translatedTitle": "这个周末我花了不少时间开发一款（我觉得）非常棒的旅行命令行界面产品，我很想……",
-      "translatedBody": "这个周末我花了不少时间开发一款超棒（个人感觉）的旅行消费积分产品，很想找机会公开测试一下。\n\n有没有人近期有旅行计划，而且积分又多？\n\n请在这里回复出发地、目的地和积分明细，我会回复你测试结果！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2058692391708897319",
-      "publishedAt": "2026-05-24T23:31:29.000Z",
-      "score": 46.99,
-      "engagement": {
-        "likes": 25,
-        "retweets": 0,
-        "replies": 28
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2058591611245011157",
-      "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "CEO们对人工智能感到焦虑，但他们中的许多人和他们的下属已经习惯了使用武器……",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：CEOs feel AI FOMO, but many of them and their lieutenants have gotten used to arms-length leadership and lack the mus…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "CEOs feel AI FOMO, but many of them and their lieutenants have gotten used to arms-…",
-      "originalBody": "CEOs feel AI FOMO, but many of them and their lieutenants have gotten used to arms-length leadership and lack the muscle to get hands-on with AI.\n\nSo they set sweeping, imprecise AI mandates for their company.\n\nThis leads to performative, low-effort demos from employees trying to meet the coarse goals.\n\nNext thing you know it’s been two years with no real progress and a startup with hands-on leadership is disrupting you.",
-      "translatedTitle": "CEO们对人工智能感到焦虑，但他们中的许多人和他们的下属已经习惯了使用武器……",
-      "translatedBody": "CEO们对人工智能感到焦虑，但他们中的许多人及其下属已经习惯了事事亲力亲为的领导方式，缺乏真正参与人工智能开发的魄力。\n\n因此，他们为公司制定了范围广泛但又不具体的人工智能发展目标。\n\n这导致员工们为了达到这些粗略的目标而进行敷衍了事、敷衍了事的演示。\n\n结果，两年过去了，毫无实质性进展，而一家拥有实战经验的初创公司却颠覆了你的局面。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2058591611245011157",
-      "publishedAt": "2026-05-24T16:51:01.000Z",
-      "score": 43.89,
-      "engagement": {
-        "likes": 23,
-        "retweets": 3,
-        "replies": 5
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2058659995311358332",
-      "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "通用人工智能（AGI）已经到来了吗？",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Is AGI already here? \"I think if we froze the models that we have right now and you really worked on the harness and…",
+      "title": "每周都有好多人私信问我“你不是风投吗，为什么你……”，真是太搞笑了。",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：It’s hilarious how many people DM me every week asking “aren’t you a VC, why are you building”.. Brother, the space i…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "Is AGI already here?",
-      "originalBody": "Is AGI already here?\n\n \"I think if we froze the models that we have right now and you really worked on the harness and maybe we also spent more time training with a great harness, I think people would really feel the AGI in every single domain\" - @yanndubs of @OpenAI https://t.co/amFrnChXkC https://t.co/nGv05BVzMI",
-      "translatedTitle": "通用人工智能（AGI）已经到来了吗？",
-      "translatedBody": "通用人工智能（AGI）时代已经到来了吗？\n\n“我认为，如果我们冻结现有的模型，真正着手开发框架，并投入更多时间使用优秀的框架进行训练，我相信人们会在各个领域真切感受到通用人工智能的进步。”——@yanndubs，@OpenAI https://t.co/amFrnChXkC https://t.co/nGv05BVzMI",
+      "originalTitle": "It’s hilarious how many people DM me every week asking “aren’t you a VC, why are yo…",
+      "originalBody": "It’s hilarious how many people DM me every week asking “aren’t you a VC, why are you building”..\n\nBrother, the space is moving so fast that the only way you can learn and stay at the frontier is by building. Priors need to be rethought every few months.  \n\nIt’s also SO much fun to explore the edges of these models and discover new capabilities that haven’t been documented yet. \n\nI also find it absurd that how can you NOT be curious and redo how you do work. We have alien super intelligence in our hands and you want to spend hours doing it the same way just because it’s comfortable? \n\nAutomate or get automated is the bitter lesson we all need to learn. And have a lot of fun along the way :)",
+      "translatedTitle": "每周都有好多人私信问我“你不是风投吗，为什么你……”，真是太搞笑了。",
+      "translatedBody": "每周都有好多人私信问我“你不是风投吗，为什么还要自己创业？”真是太搞笑了……\n\n兄弟，这个领域发展太快了，想要学习并保持领先地位，唯一的办法就是自己动手做。之前的想法每隔几个月就需要重新思考。\n\n探索这些模型的边界，发现那些尚未被记录的新功能，也真的非常有趣。\n\n我还觉得很荒谬，你怎么能不保持好奇心，不去革新你的工作方式呢？我们拥有如此强大的智能，却只想花几个小时重复同样的事情，仅仅因为这样比较舒服？\n\n要么自动化，要么被自动化取代，这是我们都必须吸取的惨痛教训。而且，在这个过程中，你也能收获很多乐趣 :)",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2058659995311358332",
-      "publishedAt": "2026-05-24T21:22:45.000Z",
-      "score": 42.81,
+      "sourceUrl": "https://x.com/nikunj/status/2058927145519562867",
+      "publishedAt": "2026-05-25T15:04:19.000Z",
+      "score": 51.83,
       "engagement": {
-        "likes": 12,
-        "retweets": 5,
-        "replies": 5
+        "likes": 134,
+        "retweets": 2,
+        "replies": 22
       },
       "matchedFocusAreas": [
         "Foundation Models"
@@ -245,9 +243,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-25T07:55:59.650Z",
-    "totalCandidates": 23,
-    "textQualifiedCandidates": 12,
+    "upstreamGeneratedAt": "2026-05-26T07:32:02.973Z",
+    "totalCandidates": 18,
+    "textQualifiedCandidates": 11,
     "selectedTweets": 8
   }
 }
