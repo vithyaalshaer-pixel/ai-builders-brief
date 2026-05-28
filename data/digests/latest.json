@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-27",
-  "generatedAt": "2026-05-27T04:13:58.116Z",
+  "date": "2026-05-28",
+  "generatedAt": "2026-05-28T04:01:57.818Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-27",
-  "summary": "今天最值得看的是 Aaron Levie 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 18 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-05-28",
+  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 31 条候选动态里，筛出 17 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,36 +13,57 @@
       "label": "Coding Agents"
     },
     {
-      "slug": "foundation-models",
-      "label": "Foundation Models"
-    },
-    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2059025559896883489",
+      "id": "2059372579790741793",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "高盛首席执行官对人工智能的悲观观点持相反立场……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The CEO of Goldman Sachs is taking the other side on the pessimistic takes on AI and jobs. If you looked at what work…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "The CEO of Goldman Sachs is taking the other side on the pessimistic takes on AI an…",
-      "originalBody": "The CEO of Goldman Sachs is taking the other side on the pessimistic takes on AI and jobs. \n\nIf you looked at what work looked like a few decades ago and saw how much faster everything is or easier it is to produce the same thing as before - even before AI - you’d certainly have been convinced there’d be no jobs left.\n\nWhat happens is we constantly just demand more from everything. Instead of automating a task and delivering the same value proposition, but cheaper, we just expect more from the overall product or service. Because some players in the market decides to do more with the automation, and it raises everyone’s expectations. So those that don’t respond can’t compete.\n\nWe get more financial analysis from analysts. We get much more comprehensive legal advice. We get more tailored financial services offerings. We get better software in niches we never thought we could automate. Our healthcare providers offer more tests and deeper medical advice. This just goes on and on.\n\nWhen you move from believing the world is static and you’ll have a better view of how jobs evolve due to AI.",
-      "translatedTitle": "高盛首席执行官对人工智能的悲观观点持相反立场……",
-      "translatedBody": "高盛首席执行官对人工智能和就业前景的悲观论调持相反观点。\n\n如果你回顾几十年前的工作场景，看看现在一切都变得多么快捷高效，生产同样的东西也变得如此容易——甚至在人工智能出现之前——你肯定会认为工作岗位将不复存在。\n\n但事实是，我们不断地对所有事物提出更高的要求。我们不再追求自动化任务，以更低的成本提供同样的价值，而是对整体产品或服务抱有更高的期望。因为市场上的一些参与者决定利用自动化做更多的事情，这提高了所有人的期望值。因此，那些不做出相应调整的人就无法参与竞争。\n\n我们从分析师那里获得了更多的财务分析。我们获得了更全面的法律建议。我们获得了更多量身定制的金融服务。我们在以前从未想过可以自动化的领域获得了更好的软件。我们的医疗服务提供商提供了更多的检测和更深入的医疗建议。这样的例子不胜枚举。\n\n当你不再认为世界是静止不变的，你就会更好地理解人工智能如何推动工作岗位的演变。",
+      "builder": "Swyx",
+      "title": "提交演讲稿的最后4天：https://t.co/AXtvjtt8gC 这是我们第一年举办……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：last 4 days to submit talks: https://t.co/AXtvjtt8gC this is our first year featuring PREPRINT poster sessions for re…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "last 4 days to submit talks: https://t.co/AXtvjtt8gC this is our first year featuri…",
+      "originalBody": "last 4 days to submit talks: https://t.co/AXtvjtt8gC\n\nthis is our first year featuring PREPRINT poster sessions for research papers as well - as @bclavie pointed out we need a separate process for this but you can submit here for now!",
+      "translatedTitle": "提交演讲稿的最后4天：https://t.co/AXtvjtt8gC 这是我们第一年举办……",
+      "translatedBody": "提交演讲稿的最后 4 天：https://t.co/AXtvjtt8gC\n\n今年是我们首次同时举办研究论文预印本海报展示环节——正如 @bclavie 指出的，我们需要为此设立单独的流程，但目前您可以先在这里提交！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2059025559896883489",
-      "publishedAt": "2026-05-25T21:35:22.000Z",
-      "score": 84.35,
+      "sourceUrl": "https://x.com/swyx/status/2059372579790741793",
+      "publishedAt": "2026-05-26T20:34:18.000Z",
+      "score": 117.18,
       "engagement": {
-        "likes": 530,
-        "retweets": 55,
-        "replies": 58
+        "likes": 16,
+        "retweets": 2,
+        "replies": 4
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2059411493196529751",
+      "type": "tweet",
+      "builder": "Matt Turck",
+      "title": "人工智能领域最令人费解的情况是：事物并没有发生太大变化。",
+      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The biggest mindf*ck scenario in AI: things don’t change that much. Both doomers and accelerationists turn out to be…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "The biggest mindf*ck scenario in AI: things don’t change that much.",
+      "originalBody": "The biggest mindf*ck scenario in AI: things don’t change that much.  Both doomers and accelerationists turn out to be wrong.  We are all more productive.  Agents deliver automation in the enterprise.  Some important scientific discoveries are made.  All great.  But that’s it.",
+      "translatedTitle": "人工智能领域最令人费解的情况是：事物并没有发生太大变化。",
+      "translatedBody": "人工智能领域最令人费解的情景：事情并没有发生太大变化。末日论者和加速主义者都错了。我们的生产力提高了。智能体在企业中实现了自动化。一些重要的科学发现也随之而来。一切都很棒。但仅此而已。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/mattturck/status/2059411493196529751",
+      "publishedAt": "2026-05-26T23:08:56.000Z",
+      "score": 71.29,
+      "engagement": {
+        "likes": 27,
+        "retweets": 0,
+        "replies": 21
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -51,109 +72,53 @@
       "sourceType": "x"
     },
     {
-      "id": "2059029752858775581",
+      "id": "2059518682825392525",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "过去感觉像是拖延（构建系统而不是开发最小可行产品）的事情，现在却变成了……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：What used to feel like procrastination (building systems instead of the MVP) is now a prerequisite to ship effectivel…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "What used to feel like procrastination (building systems instead of the MVP) is now…",
-      "originalBody": "What used to feel like procrastination (building systems instead of the MVP) is now a prerequisite to ship effectively with AI agents.\n\nMy number 1 lesson from @ryancarson:\n\n\"We used to say just do the bare minimum to get the MVP out. Don't spend time on systems. It's literally reversed now.\n\nYou have to spend a lot of time setting up your documentation. Build all that into a cron job with a skill file, and suddenly you're doing the work of 10 people.\"\n\n📌 I asked Ryan how he ships 10 PRs a day, here's his answer: https://t.co/8jMGNSdHmu",
-      "translatedTitle": "过去感觉像是拖延（构建系统而不是开发最小可行产品）的事情，现在却变成了……",
-      "translatedBody": "过去那种感觉像是拖延（构建系统而不是开发最小可行产品）的做法，现在却成了高效发布 AI 智能体产品的先决条件。\n\n我从 @ryancarson 那里学到的第一课是：\n\n“我们以前常说，只要把 MVP 做完就行了，别在系统上浪费时间。现在情况完全相反了。\n\n你必须花大量时间编写文档。把这些都整合到一个带有技能文件的定时任务里，你就能完成 10 个人的工作量。”\n\n📌 我问了 Ryan 他是如何做到每天发布 10 个 PR 的，这是他的回答：https://t.co/8jMGNSdHmu",
+      "builder": "Amjad Masad",
+      "title": "荣幸地从国王阿卜杜拉二世陛下手中接过奖章，以表彰其在约旦河东岸的卓越贡献……",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Honored to receive a medal from his Majesty King Abdullah II for Distinction on Jordan’s 80th Independence Day. It’s…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Honored to receive a medal from his Majesty King Abdullah II for Distinction on Jor…",
+      "originalBody": "Honored to receive a medal from his Majesty King Abdullah II for Distinction on Jordan’s 80th Independence Day.\n\nIt’s been an incredibly journey building @Replit, starting from Jordan more than 15 years ago, and then helping accelerate the field of agentic AI globally. https://t.co/BKE14jsaRe",
+      "translatedTitle": "荣幸地从国王阿卜杜拉二世陛下手中接过奖章，以表彰其在约旦河东岸的卓越贡献……",
+      "translatedBody": "荣幸在约旦独立80周年之际，从国王阿卜杜拉二世陛下手中接过杰出贡献奖章。\n\n创建 @Replit 是一段非凡的旅程，从15多年前在约旦起步，到助力全球智能体人工智能领域的发展，一路走来，成就斐然。https://t.co/BKE14jsaRe",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2059029752858775581",
-      "publishedAt": "2026-05-25T21:52:02.000Z",
-      "score": 71.75,
+      "sourceUrl": "https://x.com/amasad/status/2059518682825392525",
+      "publishedAt": "2026-05-27T06:14:52.000Z",
+      "score": 62.64,
       "engagement": {
-        "likes": 32,
-        "retweets": 7,
-        "replies": 12
+        "likes": 760,
+        "retweets": 25,
+        "replies": 56
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
+        "Coding Agents"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2059148823403082154",
+      "id": "2059521656532721964",
       "type": "tweet",
       "builder": "Garry Tan",
-      "title": "我说的评估是指直接告诉经纪人：鉴于我们之前讨论过的关于我们是什么……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：By evals I mean literally tell the agent: given what we discussed about what we are doing and why and what happened,…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "By evals I mean literally tell the agent: given what we discussed about what we are…",
-      "originalBody": "By evals I mean literally tell the agent: given what we discussed about what we are doing and why and what happened, use three different frontier models to look at inputs and outputs of your skill file calling the code, and rate it on effectiveness. Why isn’t it a 10? How could it be made to be so? \n\nRun this a few times and you will be surprised how fast it gets astonishingly better\n\nAnd since it is in a skill file plus code with evals (LLM as judge) and unit tests, it stays better forever",
-      "translatedTitle": "我说的评估是指直接告诉经纪人：鉴于我们之前讨论过的关于我们是什么……",
-      "translatedBody": "所谓评估，我的意思是直接告诉智能体：根据我们之前讨论的关于我们正在做什么、为什么这样做以及发生了什么，使用三个不同的前沿模型来查看你的技能文件调用代码的输入和输出，并评估其有效性。为什么它不是 10 分？如何才能达到 10 分？\n\n运行几次，你会惊讶于它进步之快。\n\n而且，由于它包含在一个技能文件、代码、评估（使用 LLM 作为评判标准）和单元测试中，因此它会一直保持最佳状态。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2059148823403082154",
-      "publishedAt": "2026-05-26T05:45:11.000Z",
-      "score": 69.33,
-      "engagement": {
-        "likes": 26,
-        "retweets": 1,
-        "replies": 1
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2058917897590673525",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "各位：在描述技能时，请要求您的经纪人尽量精简措辞，不要过分在意语法。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Folks: when you write skills, ask your agent to be token efficient, relax grammer. I see too many skills that write b…",
+      "title": "创始人必须停止试图用 2026 年的技术来打造 2010 年时代的企业。",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Founders must stop trying to building 2010-era businesses with 2026-era technology. Don't try to rebuild Foursquare o…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Folks: when you write skills, ask your agent to be token efficient, relax grammer.",
-      "originalBody": "Folks: when you write skills, ask your agent to be token efficient, relax grammer. I see too many skills that write books in the skill description, and all that crap is loaded into every context.\n\nI wrote a skill that finds the worst offenders. https://t.co/kfaaJpxMXE",
-      "translatedTitle": "各位：在描述技能时，请要求您的经纪人尽量精简措辞，不要过分在意语法。",
-      "translatedBody": "各位：写技能的时候，请你的代理人尽量精简用词，别太在意语法。我见过太多技能描述里堆砌大量文字，各种乱七八糟的东西到处乱放。\n\n我写了一个专门找出最糟糕例子的技能。https://t.co/kfaaJpxMXE",
+      "originalTitle": "Founders must stop trying to building 2010-era businesses with 2026-era technology.",
+      "originalBody": "Founders must stop trying to building 2010-era businesses with 2026-era technology. \n\nDon't try to rebuild Foursquare or Yelp. \n\nDon't try to recreate Basecamp by 37 Signals with $10/mo SaaS pricing. \n\nDon't underprice! If it works it's worth a lot more.\n\nDon't be tempted to become \"Tech enabled PE\" with revenue tricks. \n\nThe rules of tech changed with AI. Play the new game.",
+      "translatedTitle": "创始人必须停止试图用 2026 年的技术来打造 2010 年时代的企业。",
+      "translatedBody": "创始人必须停止试图用2026年的技术打造2010年的商业模式。\n\n不要试图重建Foursquare或Yelp。\n\n不要试图以每月10美元的SaaS价格复制37 Signals的Basecamp。\n\n不要定价过低！如果产品成功，它的价值远不止于此。\n\n不要被“技术赋能型私募股权”的诱惑所迷惑，用各种盈利技巧来牟利。\n\n人工智能改变了科技行业的规则。适应新的游戏规则吧。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2058917897590673525",
-      "publishedAt": "2026-05-25T14:27:34.000Z",
-      "score": 69.1,
+      "sourceUrl": "https://x.com/garrytan/status/2059521656532721964",
+      "publishedAt": "2026-05-27T06:26:41.000Z",
+      "score": 62.33,
       "engagement": {
-        "likes": 3921,
-        "retweets": 294,
-        "replies": 146
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2058922222790525272",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "OpenClaw 的依赖项清理工作仍在继续。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：OpenClaw's dependency purge continues. Killed Sharp and Jimp. Replaced it with photon, a small WebAssembly that runs…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "OpenClaw's dependency purge continues.",
-      "originalBody": "OpenClaw's dependency purge continues. Killed Sharp and Jimp. Replaced it with photon, a small WebAssembly that runs compiled Rust for image processing. 2MB vs 140MB. https://t.co/tSimX2GKwP",
-      "translatedTitle": "OpenClaw 的依赖项清理工作仍在继续。",
-      "translatedBody": "OpenClaw 的依赖清理工作仍在继续。Sharp 和 Jimp 已被移除，取而代之的是 photon，一个运行编译后的 Rust 图像处理的小型 WebAssembly。体积从 140MB 缩小到 2MB。https://t.co/tSimX2GKwP",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2058922222790525272",
-      "publishedAt": "2026-05-25T14:44:45.000Z",
-      "score": 61.04,
-      "engagement": {
-        "likes": 883,
+        "likes": 630,
         "retweets": 32,
-        "replies": 40
+        "replies": 78
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -161,91 +126,118 @@
       "sourceType": "x"
     },
     {
-      "id": "2058994218484338726",
+      "id": "2059453909819654554",
       "type": "tweet",
-      "builder": "Amanda Askell",
-      "title": "我已经五年多没写过个人博客文章了，所以如果你看到一些类似……的文章",
-      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：I haven't written a personal blog post in over 5 years so if you see posts that claim to be written by me, they're no…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "I haven't written a personal blog post in over 5 years so if you see posts that cla…",
-      "originalBody": "I haven't written a personal blog post in over 5 years so if you see posts that claim to be written by me, they're not. I'll update if this ever changes. Maybe it should.",
-      "translatedTitle": "我已经五年多没写过个人博客文章了，所以如果你看到一些类似……的文章",
-      "translatedBody": "我已经五年多没写过个人博客文章了，所以如果你看到声称是我写的文章，那都不是。如果情况有变，我会更新。也许应该改改。",
+      "builder": "Peter Steinberger",
+      "title": "自动审阅是我添加到我的技能库中最有影响力的技能（仅次于 https://t.co…",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：autoreview is the most impactful skill I've added to my stack (next to https://t.co/SEj2XRpaD1). It automatically rev…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "autoreview is the most impactful skill I've added to my stack (next to https://t.co…",
+      "originalBody": "autoreview is the most impactful skill I've added to my stack (next to https://t.co/SEj2XRpaD1). It automatically reviews your code before landing a PR.\n\nFinds so many edge cases.\nSometimes it runs for hours.\n\nhttps://t.co/zbUjIS2e1i",
+      "translatedTitle": "自动审阅是我添加到我的技能库中最有影响力的技能（仅次于 https://t.co…",
+      "translatedBody": "自动代码审查是我添加到我的技术栈中最有影响力的技能（仅次于 https://t.co/SEj2XRpaD1）。它会在提交 PR 之前自动审查你的代码。\n\n它能发现很多极端情况。\n\n有时候它会运行好几个小时。\n\nhttps://t.co/zbUjIS2e1i",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/AmandaAskell/status/2058994218484338726",
-      "publishedAt": "2026-05-25T19:30:50.000Z",
-      "score": 58.2,
+      "sourceUrl": "https://x.com/steipete/status/2059453909819654554",
+      "publishedAt": "2026-05-27T01:57:29.000Z",
+      "score": 61.63,
       "engagement": {
-        "likes": 497,
-        "retweets": 10,
-        "replies": 44
+        "likes": 998,
+        "retweets": 38,
+        "replies": 36
       },
       "matchedFocusAreas": [
-        "Foundation Models"
+        "Coding Agents"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2059099566377693305",
+      "id": "2059422568352714981",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "Codex非常好。",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Codex is very good. I'm especially impressed by how it uses the browse to test its own work. But any design related /…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Codex is very good.",
-      "originalBody": "Codex is very good. I'm especially impressed by how it uses the browse to test its own work.\n\nBut any design related / frontend tasks, Claude still wins.",
-      "translatedTitle": "Codex非常好。",
-      "translatedBody": "Codex 非常出色。它利用浏览器来测试自身功能的方式尤其令我印象深刻。\n\n但任何与设计/前端相关的任务，Claude 仍然更胜一筹。",
+      "builder": "Peter Steinberger",
+      "title": "Opus周围的所有设备都老旧或糟糕，所以我自己动手，换成了Octoscri…",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：All the deps around opus are old or terrible, so vibed my own and replaced octoscript and opus-native. Performance of…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "All the deps around opus are old or terrible, so vibed my own and replaced octoscri…",
+      "originalBody": "All the deps around opus are old or terrible, so vibed my own and replaced octoscript and opus-native.\n\nPerformance of modern wasm on node/V8 is ~equivalent to native. \n\nYour claw now automatically takes meetings notes and you can talk to it in meetings.\n\nhttps://t.co/K0uXTLCuYt",
+      "translatedTitle": "Opus周围的所有设备都老旧或糟糕，所以我自己动手，换成了Octoscri…",
+      "translatedBody": "Opus 的所有依赖项都过时或性能很差，所以我自己开发了一个，替换了 OctoScript 和 Opus Native。\n\n现代 WebAssembly 在 Node/V8 上的性能与原生代码基本相当。\n\n你的 Claw 现在会自动记录会议笔记，你可以在会议中和它对话。\n\nhttps://t.co/K0uXTLCuYt",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2059099566377693305",
-      "publishedAt": "2026-05-26T02:29:27.000Z",
-      "score": 55.19,
+      "sourceUrl": "https://x.com/steipete/status/2059422568352714981",
+      "publishedAt": "2026-05-26T23:52:57.000Z",
+      "score": 56.52,
       "engagement": {
-        "likes": 239,
-        "retweets": 8,
-        "replies": 48
+        "likes": 347,
+        "retweets": 25,
+        "replies": 17
       },
       "matchedFocusAreas": [
-        "Product Ships"
+        "Coding Agents"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2058927145519562867",
+      "id": "2059363115146395965",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "- 图片编辑还是视频编辑？",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：- image or video editing? write scripts - finances, tax work, etc? put in PDFs, write scripts, output HTML - medical…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "- image or video editing?",
+      "originalBody": "- image or video editing? write scripts\n- finances, tax work, etc? put in PDFs, write scripts, output HTML\n- medical advice? put in PDFs + data, output HTML \n- filling out paperwork? write scripts\n- creating a report? write HTML\n- making plans? write HTML",
+      "translatedTitle": "- 图片编辑还是视频编辑？",
+      "translatedBody": "- 图片或视频编辑？编写脚本\n\n- 财务、税务等工作？导入 PDF 文件，编写脚本，输出 HTML\n\n- 医疗咨询？导入 PDF 文件和数据，输出 HTML\n\n- 填写表格？编写脚本\n\n- 创建报告？编写 HTML\n\n- 制定计划？编写 HTML",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2059363115146395965",
+      "publishedAt": "2026-05-26T19:56:42.000Z",
+      "score": 55.62,
+      "engagement": {
+        "likes": 330,
+        "retweets": 5,
+        "replies": 10
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2059424310079697188",
       "type": "tweet",
       "builder": "Nikunj Kothari",
-      "title": "每周都有好多人私信问我“你不是风投吗，为什么你……”，真是太搞笑了。",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：It’s hilarious how many people DM me every week asking “aren’t you a VC, why are you building”.. Brother, the space i…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "It’s hilarious how many people DM me every week asking “aren’t you a VC, why are yo…",
-      "originalBody": "It’s hilarious how many people DM me every week asking “aren’t you a VC, why are you building”..\n\nBrother, the space is moving so fast that the only way you can learn and stay at the frontier is by building. Priors need to be rethought every few months.  \n\nIt’s also SO much fun to explore the edges of these models and discover new capabilities that haven’t been documented yet. \n\nI also find it absurd that how can you NOT be curious and redo how you do work. We have alien super intelligence in our hands and you want to spend hours doing it the same way just because it’s comfortable? \n\nAutomate or get automated is the bitter lesson we all need to learn. And have a lot of fun along the way :)",
-      "translatedTitle": "每周都有好多人私信问我“你不是风投吗，为什么你……”，真是太搞笑了。",
-      "translatedBody": "每周都有好多人私信问我“你不是风投吗，为什么还要自己创业？”真是太搞笑了……\n\n兄弟，这个领域发展太快了，想要学习并保持领先地位，唯一的办法就是自己动手做。之前的想法每隔几个月就需要重新思考。\n\n探索这些模型的边界，发现那些尚未被记录的新功能，也真的非常有趣。\n\n我还觉得很荒谬，你怎么能不保持好奇心，不去革新你的工作方式呢？我们拥有如此强大的智能，却只想花几个小时重复同样的事情，仅仅因为这样比较舒服？\n\n要么自动化，要么被自动化取代，这是我们都必须吸取的惨痛教训。而且，在这个过程中，你也能收获很多乐趣 :)",
+      "title": "每一家获得风险投资的应用公司本质上都必须是一家数据公司，而且/或者……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Every venture backed application company needs to inherently be a data company and/or a fintech company. Ideally both…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Every venture backed application company needs to inherently be a data company and/…",
+      "originalBody": "Every venture backed application company needs to inherently be a data company and/or a fintech company. Ideally both. \n\nIf not, find a way to quickly get there.",
+      "translatedTitle": "每一家获得风险投资的应用公司本质上都必须是一家数据公司，而且/或者……",
+      "translatedBody": "每一家获得风险投资的应用公司本质上都必须是一家数据公司和/或金融科技公司。理想情况下，两者兼备。\n\n如果目前还不是，那就想办法尽快转型。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2058927145519562867",
-      "publishedAt": "2026-05-25T15:04:19.000Z",
-      "score": 51.83,
+      "sourceUrl": "https://x.com/nikunj/status/2059424310079697188",
+      "publishedAt": "2026-05-26T23:59:52.000Z",
+      "score": 54.14,
       "engagement": {
-        "likes": 134,
-        "retweets": 2,
-        "replies": 22
+        "likes": 198,
+        "retweets": 12,
+        "replies": 30
       },
       "matchedFocusAreas": [
-        "Foundation Models"
+        "Coding Agents"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-26T07:32:02.973Z",
-    "totalCandidates": 18,
-    "textQualifiedCandidates": 11,
+    "upstreamGeneratedAt": "2026-05-27T07:45:34.065Z",
+    "totalCandidates": 31,
+    "textQualifiedCandidates": 17,
     "selectedTweets": 8
   }
 }
