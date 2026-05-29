@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-28",
-  "generatedAt": "2026-05-28T04:01:57.818Z",
+  "date": "2026-05-29",
+  "generatedAt": "2026-05-29T04:04:41.052Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-28",
-  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 31 条候选动态里，筛出 17 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-05-29",
+  "summary": "今天没有筛出足够高信号的文字动态，保留上一版节奏并等待下一轮更新。",
+  "intro": "已从 0 条候选动态里，筛出 0 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,231 +13,19 @@
       "label": "Coding Agents"
     },
     {
+      "slug": "foundation-models",
+      "label": "Foundation Models"
+    },
+    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
-  "tweetHighlights": [
-    {
-      "id": "2059372579790741793",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "提交演讲稿的最后4天：https://t.co/AXtvjtt8gC 这是我们第一年举办……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：last 4 days to submit talks: https://t.co/AXtvjtt8gC this is our first year featuring PREPRINT poster sessions for re…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "last 4 days to submit talks: https://t.co/AXtvjtt8gC this is our first year featuri…",
-      "originalBody": "last 4 days to submit talks: https://t.co/AXtvjtt8gC\n\nthis is our first year featuring PREPRINT poster sessions for research papers as well - as @bclavie pointed out we need a separate process for this but you can submit here for now!",
-      "translatedTitle": "提交演讲稿的最后4天：https://t.co/AXtvjtt8gC 这是我们第一年举办……",
-      "translatedBody": "提交演讲稿的最后 4 天：https://t.co/AXtvjtt8gC\n\n今年是我们首次同时举办研究论文预印本海报展示环节——正如 @bclavie 指出的，我们需要为此设立单独的流程，但目前您可以先在这里提交！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2059372579790741793",
-      "publishedAt": "2026-05-26T20:34:18.000Z",
-      "score": 117.18,
-      "engagement": {
-        "likes": 16,
-        "retweets": 2,
-        "replies": 4
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2059411493196529751",
-      "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "人工智能领域最令人费解的情况是：事物并没有发生太大变化。",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The biggest mindf*ck scenario in AI: things don’t change that much. Both doomers and accelerationists turn out to be…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "The biggest mindf*ck scenario in AI: things don’t change that much.",
-      "originalBody": "The biggest mindf*ck scenario in AI: things don’t change that much.  Both doomers and accelerationists turn out to be wrong.  We are all more productive.  Agents deliver automation in the enterprise.  Some important scientific discoveries are made.  All great.  But that’s it.",
-      "translatedTitle": "人工智能领域最令人费解的情况是：事物并没有发生太大变化。",
-      "translatedBody": "人工智能领域最令人费解的情景：事情并没有发生太大变化。末日论者和加速主义者都错了。我们的生产力提高了。智能体在企业中实现了自动化。一些重要的科学发现也随之而来。一切都很棒。但仅此而已。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2059411493196529751",
-      "publishedAt": "2026-05-26T23:08:56.000Z",
-      "score": 71.29,
-      "engagement": {
-        "likes": 27,
-        "retweets": 0,
-        "replies": 21
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2059518682825392525",
-      "type": "tweet",
-      "builder": "Amjad Masad",
-      "title": "荣幸地从国王阿卜杜拉二世陛下手中接过奖章，以表彰其在约旦河东岸的卓越贡献……",
-      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Honored to receive a medal from his Majesty King Abdullah II for Distinction on Jordan’s 80th Independence Day. It’s…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Honored to receive a medal from his Majesty King Abdullah II for Distinction on Jor…",
-      "originalBody": "Honored to receive a medal from his Majesty King Abdullah II for Distinction on Jordan’s 80th Independence Day.\n\nIt’s been an incredibly journey building @Replit, starting from Jordan more than 15 years ago, and then helping accelerate the field of agentic AI globally. https://t.co/BKE14jsaRe",
-      "translatedTitle": "荣幸地从国王阿卜杜拉二世陛下手中接过奖章，以表彰其在约旦河东岸的卓越贡献……",
-      "translatedBody": "荣幸在约旦独立80周年之际，从国王阿卜杜拉二世陛下手中接过杰出贡献奖章。\n\n创建 @Replit 是一段非凡的旅程，从15多年前在约旦起步，到助力全球智能体人工智能领域的发展，一路走来，成就斐然。https://t.co/BKE14jsaRe",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/amasad/status/2059518682825392525",
-      "publishedAt": "2026-05-27T06:14:52.000Z",
-      "score": 62.64,
-      "engagement": {
-        "likes": 760,
-        "retweets": 25,
-        "replies": 56
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2059521656532721964",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "创始人必须停止试图用 2026 年的技术来打造 2010 年时代的企业。",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Founders must stop trying to building 2010-era businesses with 2026-era technology. Don't try to rebuild Foursquare o…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Founders must stop trying to building 2010-era businesses with 2026-era technology.",
-      "originalBody": "Founders must stop trying to building 2010-era businesses with 2026-era technology. \n\nDon't try to rebuild Foursquare or Yelp. \n\nDon't try to recreate Basecamp by 37 Signals with $10/mo SaaS pricing. \n\nDon't underprice! If it works it's worth a lot more.\n\nDon't be tempted to become \"Tech enabled PE\" with revenue tricks. \n\nThe rules of tech changed with AI. Play the new game.",
-      "translatedTitle": "创始人必须停止试图用 2026 年的技术来打造 2010 年时代的企业。",
-      "translatedBody": "创始人必须停止试图用2026年的技术打造2010年的商业模式。\n\n不要试图重建Foursquare或Yelp。\n\n不要试图以每月10美元的SaaS价格复制37 Signals的Basecamp。\n\n不要定价过低！如果产品成功，它的价值远不止于此。\n\n不要被“技术赋能型私募股权”的诱惑所迷惑，用各种盈利技巧来牟利。\n\n人工智能改变了科技行业的规则。适应新的游戏规则吧。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2059521656532721964",
-      "publishedAt": "2026-05-27T06:26:41.000Z",
-      "score": 62.33,
-      "engagement": {
-        "likes": 630,
-        "retweets": 32,
-        "replies": 78
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2059453909819654554",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "自动审阅是我添加到我的技能库中最有影响力的技能（仅次于 https://t.co…",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：autoreview is the most impactful skill I've added to my stack (next to https://t.co/SEj2XRpaD1). It automatically rev…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "autoreview is the most impactful skill I've added to my stack (next to https://t.co…",
-      "originalBody": "autoreview is the most impactful skill I've added to my stack (next to https://t.co/SEj2XRpaD1). It automatically reviews your code before landing a PR.\n\nFinds so many edge cases.\nSometimes it runs for hours.\n\nhttps://t.co/zbUjIS2e1i",
-      "translatedTitle": "自动审阅是我添加到我的技能库中最有影响力的技能（仅次于 https://t.co…",
-      "translatedBody": "自动代码审查是我添加到我的技术栈中最有影响力的技能（仅次于 https://t.co/SEj2XRpaD1）。它会在提交 PR 之前自动审查你的代码。\n\n它能发现很多极端情况。\n\n有时候它会运行好几个小时。\n\nhttps://t.co/zbUjIS2e1i",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2059453909819654554",
-      "publishedAt": "2026-05-27T01:57:29.000Z",
-      "score": 61.63,
-      "engagement": {
-        "likes": 998,
-        "retweets": 38,
-        "replies": 36
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2059422568352714981",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "Opus周围的所有设备都老旧或糟糕，所以我自己动手，换成了Octoscri…",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：All the deps around opus are old or terrible, so vibed my own and replaced octoscript and opus-native. Performance of…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "All the deps around opus are old or terrible, so vibed my own and replaced octoscri…",
-      "originalBody": "All the deps around opus are old or terrible, so vibed my own and replaced octoscript and opus-native.\n\nPerformance of modern wasm on node/V8 is ~equivalent to native. \n\nYour claw now automatically takes meetings notes and you can talk to it in meetings.\n\nhttps://t.co/K0uXTLCuYt",
-      "translatedTitle": "Opus周围的所有设备都老旧或糟糕，所以我自己动手，换成了Octoscri…",
-      "translatedBody": "Opus 的所有依赖项都过时或性能很差，所以我自己开发了一个，替换了 OctoScript 和 Opus Native。\n\n现代 WebAssembly 在 Node/V8 上的性能与原生代码基本相当。\n\n你的 Claw 现在会自动记录会议笔记，你可以在会议中和它对话。\n\nhttps://t.co/K0uXTLCuYt",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2059422568352714981",
-      "publishedAt": "2026-05-26T23:52:57.000Z",
-      "score": 56.52,
-      "engagement": {
-        "likes": 347,
-        "retweets": 25,
-        "replies": 17
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2059363115146395965",
-      "type": "tweet",
-      "builder": "Thariq",
-      "title": "- 图片编辑还是视频编辑？",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：- image or video editing? write scripts - finances, tax work, etc? put in PDFs, write scripts, output HTML - medical…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "- image or video editing?",
-      "originalBody": "- image or video editing? write scripts\n- finances, tax work, etc? put in PDFs, write scripts, output HTML\n- medical advice? put in PDFs + data, output HTML \n- filling out paperwork? write scripts\n- creating a report? write HTML\n- making plans? write HTML",
-      "translatedTitle": "- 图片编辑还是视频编辑？",
-      "translatedBody": "- 图片或视频编辑？编写脚本\n\n- 财务、税务等工作？导入 PDF 文件，编写脚本，输出 HTML\n\n- 医疗咨询？导入 PDF 文件和数据，输出 HTML\n\n- 填写表格？编写脚本\n\n- 创建报告？编写 HTML\n\n- 制定计划？编写 HTML",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2059363115146395965",
-      "publishedAt": "2026-05-26T19:56:42.000Z",
-      "score": 55.62,
-      "engagement": {
-        "likes": 330,
-        "retweets": 5,
-        "replies": 10
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2059424310079697188",
-      "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "每一家获得风险投资的应用公司本质上都必须是一家数据公司，而且/或者……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Every venture backed application company needs to inherently be a data company and/or a fintech company. Ideally both…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Every venture backed application company needs to inherently be a data company and/…",
-      "originalBody": "Every venture backed application company needs to inherently be a data company and/or a fintech company. Ideally both. \n\nIf not, find a way to quickly get there.",
-      "translatedTitle": "每一家获得风险投资的应用公司本质上都必须是一家数据公司，而且/或者……",
-      "translatedBody": "每一家获得风险投资的应用公司本质上都必须是一家数据公司和/或金融科技公司。理想情况下，两者兼备。\n\n如果目前还不是，那就想办法尽快转型。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2059424310079697188",
-      "publishedAt": "2026-05-26T23:59:52.000Z",
-      "score": 54.14,
-      "engagement": {
-        "likes": 198,
-        "retweets": 12,
-        "replies": 30
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    }
-  ],
+  "tweetHighlights": [],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-27T07:45:34.065Z",
-    "totalCandidates": 31,
-    "textQualifiedCandidates": 17,
-    "selectedTweets": 8
+    "upstreamGeneratedAt": "2026-05-28T07:41:35.372Z",
+    "totalCandidates": 0,
+    "textQualifiedCandidates": 0,
+    "selectedTweets": 0
   }
 }
