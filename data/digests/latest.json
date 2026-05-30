@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-29",
-  "generatedAt": "2026-05-29T04:04:41.052Z",
+  "date": "2026-05-30",
+  "generatedAt": "2026-05-30T03:51:25.949Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-29",
-  "summary": "今天没有筛出足够高信号的文字动态，保留上一版节奏并等待下一轮更新。",
-  "intro": "已从 0 条候选动态里，筛出 0 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-05-30",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 26 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -21,11 +21,231 @@
       "label": "Product Ships"
     }
   ],
-  "tweetHighlights": [],
+  "tweetHighlights": [
+    {
+      "id": "2060105470460010993",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "Vercel CLI 是一个可自动更新的二进制文件，没有任何外部依赖项。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Vercel CLI as a self-updating binary with zero external dependencies. Our CLI is one of the key interfaces enabling t…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Vercel CLI as a self-updating binary with zero external dependencies.",
+      "originalBody": "Vercel CLI as a self-updating binary with zero external dependencies.\n\nOur CLI is one of the key interfaces enabling the 'cloud for agents'. This solves a huge bottleneck, as we ship changes to our CLI more than ever, and it's embedded in more places than ever.\n\nFun fact: we built 𝚙𝚔𝚐¹ yeaaars ago in service of this vision. I didn't want customers to have to worry about Node.js over here, and the CLI package over there. We deprioritized it because Git and Web took off massively, and CLI usage was more sporadic.\n\nNow the situation is inverted. Every day, I hear from customers discovering Vercel after OpenClaw, Claude Code, or Codex not only introduce, but also onboard users to our agentic infrastructure. Our CLI (as well as our MCP and SDKs) is a key enabler of this new wave.\n\n¹ https://t.co/kidl1bmxjB",
+      "translatedTitle": "Vercel CLI 是一个可自动更新的二进制文件，没有任何外部依赖项。",
+      "translatedBody": "Vercel CLI 是一个可自动更新的二进制文件，没有任何外部依赖。\n\n我们的 CLI 是实现“云代理”的关键接口之一。这解决了一个巨大的瓶颈，因为我们比以往任何时候都更频繁地发布 CLI 的更新，而且 CLI 的嵌入范围也比以往任何时候都更广。\n\n有趣的是：我们多年前为了实现这一愿景而开发了 𝚙𝚔𝚐¹。我不想让客户同时操心 Node.js 和 CLI 包。我们降低了它的优先级，因为 Git 和 Web 技术迅速发展，而 CLI 的使用则较为零散。\n\n现在情况完全相反。我每天都会收到客户的反馈，他们通过 OpenClaw、Claude Code 或 Codex 等平台发现了 Vercel，这些平台不仅介绍了我们的代理基础架构，还引导用户上手使用。我们的 CLI（以及我们的 MCP 和 SDK）是推动这股新浪潮的关键力量。\n\n¹ https://t.co/kidl1bmxjB",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2060105470460010993",
+      "publishedAt": "2026-05-28T21:06:33.000Z",
+      "score": 152.72,
+      "engagement": {
+        "likes": 160,
+        "retweets": 8,
+        "replies": 18
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060148078754267426",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "今天和@ACM_President 会面了！",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：met with @ACM_President today! we awarded Industry Spotlights at @CAISconf, and all posters and OpEx talks will be pr…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "met with @ACM_President today!",
+      "originalBody": "met with @ACM_President today!\n\nwe awarded Industry Spotlights at @CAISconf, and all posters and OpEx talks will be presenting at @aiDotEngineer next month\n\nmore AIE x ACM collaboration incoming!\n\nwonder what a “Turing award of AI Engineering” could look like… https://t.co/hsDcvOxGmr",
+      "translatedTitle": "今天和@ACM_President 会面了！",
+      "translatedBody": "今天和@ACM_President 会面了！\n\n我们在@CAISconf 上颁发了行业亮点奖，所有海报和运营卓越演讲都将在下个月的@aiDotEngineer 上展出。\n\n更多 AIE 与 ACM 的合作即将到来！\n\n不知道“人工智能工程图灵奖”会是什么样子…… https://t.co/hsDcvOxGmr",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2060148078754267426",
+      "publishedAt": "2026-05-28T23:55:52.000Z",
+      "score": 149.38,
+      "engagement": {
+        "likes": 74,
+        "retweets": 2,
+        "replies": 19
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060149158615609474",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "谷歌的免费5天AI智能体课程又回来了，这次的主题是氛围编码……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Google's free 5-day AI Agents course is back, and this time it's all about vibe coding with agents. The last one had…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Google's free 5-day AI Agents course is back, and this time it's all about vibe cod…",
+      "originalBody": "Google's free 5-day AI Agents course is back, and this time it's all about vibe coding with agents. The last one had 1.5M learners.\n\nHere's what the course covers:\n\n→ Day 1: Agents + vibe coding. Build agents  with Google Agents CLI and your coding agent.\n\n→ Day 2: Tools + interop. Connect agents to external APIs and each other.\n\n→ Day 3: Memory + context. Give agents long-term memory and personalization.\n\n→ Day 4: Quality + security. Add testing, guardrails, and evals to improve reliability.\n\n→ Day 5: Prototype to production. Deploy and monitor your agents.\n\nIt's 1-2 hours a day, taught by Google engineers, and (best of all) free 🥹\n\n📌 Register here: https://t.co/VWh6o4BWyO\n\nThanks to the Google Cloud team for their collaboration on this post.",
+      "translatedTitle": "谷歌的免费5天AI智能体课程又回来了，这次的主题是氛围编码……",
+      "translatedBody": "谷歌免费的五日人工智能代理课程又回来了！这次的主题是使用智能代理进行动态编码。上一期课程吸引了 150 万学员。\n\n课程内容如下：\n\n→ 第一天：智能代理 + 动态编码。使用 Google Agents CLI 和你的代码代理构建智能代理。\n\n→ 第二天：工具 + 互操作性。将智能代理连接到外部 API 并相互连接。\n\n→ 第三天：记忆 + 上下文。赋予智能代理长期记忆和个性化功能。\n\n→ 第四天：质量 + 安全。添加测试、防护措施和评估，以提高可靠性。\n\n→ 第五天：从原型到生产。部署并监控你的智能代理。\n\n每天只需 1-2 小时，由谷歌工程师授课，而且（最棒的是）完全免费！🥹\n\n📌 点击此处注册：https://t.co/VWh6o4BWyO\n\n感谢 Google Cloud 团队对本文的贡献。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2060149158615609474",
+      "publishedAt": "2026-05-29T00:00:09.000Z",
+      "score": 111.31,
+      "engagement": {
+        "likes": 803,
+        "retweets": 108,
+        "replies": 27
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060136766238028213",
+      "type": "tweet",
+      "builder": "Matt Turck",
+      "title": "2026 年风险投资人的一天：上午 9 点：董事会会议。",
+      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：A day in the life of a VC in 2026: 9am: Board meeting. My main value-add is aggressively pushing for Anthropic/OpenAI…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "A day in the life of a VC in 2026: 9am: Board meeting.",
+      "originalBody": "A day in the life of a VC in 2026:\n\n9am: Board meeting. My main value-add is aggressively pushing for Anthropic/OpenAI usage in non-engineering functions. Briefly ponder how I became an SDR for foundation model companies.\n\n1pm: Lunch with another VC.  We discuss how startups can find \"blue ocean\" away Anthropic/OpenAI. We conclude we should probably just invest the rest of our funds directly into Anthropic/OpenAI.\n\n3pm: Pitch meeting. Me: \"Do you run on Anthropic or OpenAI?\" Founder: \"Both.\" Debating internally whether a company reselling Anthropic/OpenAI with a 10% gross margin is a good investment but hey, at least they're in the \"token flow\".\n\n4:30pm: Deep due diligence. I ask Claude if it plans to build this exact startup natively in its next release.  Same to ChatGPT.  They both say yes. I pass on the deal.\n\n6pm: Urgent call from a portco CTO: \"We need an intro to upgrade our Anthropic tier!\" I immediately agree to help them spend more of the venture dollars we just invested in them, on Anthropic.\n\n8pm: Brainstorming next guests for the podcast. Thinking I should probably just try to get some folks from Anthropic and OpenAI.",
+      "translatedTitle": "2026 年风险投资人的一天：上午 9 点：董事会会议。",
+      "translatedBody": "2026 年风投的一天：\n\n上午 9 点：董事会会议。我的主要贡献是积极推动 Anthropic/OpenAI 在非工程领域的应用。我简要思考了一下自己是如何成为基金会模式公司的销售开发代表 (SDR) 的。\n\n下午 1 点：与另一位风投共进午餐。我们讨论了初创公司如何利用 Anthropic/OpenAI 找到“蓝海”。我们最终得出结论，或许应该将剩余资金直接投资到 Anthropic/OpenAI。\n\n下午 3 点：路演会议。我：“你们是用 Anthropic 还是 OpenAI 运行的？”创始人：“两者都用。”内部讨论着，一家以 10% 毛利率转售 Anthropic/OpenAI 的公司是否值得投资，但至少他们能获得“代币流”。\n\n下午 4:30：深入尽职调查。我问 Claude，他们是否计划在下一个版本中原生支持这家初创公司。我也问了 ChatGPT 同样的问题。他们都回答“是”。我拒绝了这笔交易。\n\n下午 6 点：接到一家投资组合公司首席技术官的紧急电话：“我们需要有人引荐我们升级到 Anthropic 的套餐！” 我立即同意帮助他们把我们刚刚投资的更多风险资金投入到 Anthropic。\n\n晚上 8 点：为播客节目集思广益，想着下一期邀请哪些嘉宾。我想我应该直接邀请 Anthropic 和 OpenAI 的人。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/mattturck/status/2060136766238028213",
+      "publishedAt": "2026-05-28T23:10:55.000Z",
+      "score": 84.44,
+      "engagement": {
+        "likes": 619,
+        "retweets": 31,
+        "replies": 40
+      },
+      "matchedFocusAreas": [
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060387204774633720",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "必须报告：Opus 4.8 搭配 OpenClaw 简直太棒了！它让一切都清晰明了……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Have to report: Opus 4.8 is fucking awesome with OpenClaw It's much more clear about its fixes, what it's thinking, a…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Have to report: Opus 4.8 is fucking awesome with OpenClaw It's much more clear abou…",
+      "originalBody": "Have to report: Opus 4.8 is fucking awesome with OpenClaw\n\nIt's much more clear about its fixes, what it's thinking, and how it works with you to fix problems.",
+      "translatedTitle": "必须报告：Opus 4.8 搭配 OpenClaw 简直太棒了！它让一切都清晰明了……",
+      "translatedBody": "必须报告：Opus 4.8 和 OpenClaw 简直绝配！\n\n它对修复内容、开发思路以及如何与你协作解决问题都更加清晰明了。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2060387204774633720",
+      "publishedAt": "2026-05-29T15:46:04.000Z",
+      "score": 71.51,
+      "engagement": {
+        "likes": 618,
+        "retweets": 17,
+        "replies": 74
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060461897594683861",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "“我们稍后会升级依赖项”这种借口已经失效了。",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The \"we will upgrade the dependencies later\" excuse just died. When AI makes library upgrades nearly free, staying cu…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "The \"we will upgrade the dependencies later\" excuse just died.",
+      "originalBody": "The \"we will upgrade the dependencies later\" excuse just died. When AI makes library upgrades nearly free, staying current stops being a luxury and becomes the default. Tech debt was always a tooling problem and now it’s a thing of the past. \n\nhttps://t.co/xRBd6WB7N5",
+      "translatedTitle": "“我们稍后会升级依赖项”这种借口已经失效了。",
+      "translatedBody": "“我们稍后会升级依赖项”这种借口已经过时了。当人工智能使得库升级几乎免费时，保持最新状态不再是奢侈，而是默认选项。技术债务一直以来都是工具方面的问题，而现在它已成为历史。\n\nhttps://t.co/xRBd6WB7N5",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2060461897594683861",
+      "publishedAt": "2026-05-29T20:42:52.000Z",
+      "score": 61.52,
+      "engagement": {
+        "likes": 28,
+        "retweets": 2,
+        "replies": 7
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060369325895094607",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "由于很多人误解了我的评论——这是关于域名的。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Since many folks misunderstood my comment - this is about the domain. At least that was the main rename-drama I had.…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Since many folks misunderstood my comment - this is about the domain.",
+      "originalBody": "Since many folks misunderstood my comment - this is about the domain. At least that was the main rename-drama I had. Content is fine.",
+      "translatedTitle": "由于很多人误解了我的评论——这是关于域名的。",
+      "translatedBody": "由于很多人误解了我的评论——我指的是域名。至少这是我遇到的主要更名问题。内容本身没问题。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2060369325895094607",
+      "publishedAt": "2026-05-29T14:35:01.000Z",
+      "score": 58.69,
+      "engagement": {
+        "likes": 75,
+        "retweets": 0,
+        "replies": 4
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060435594334130467",
+      "type": "tweet",
+      "builder": "Zara Zhang",
+      "title": "人们半开玩笑地使用“人工智能精神病”这个词，但我其实很感兴趣……",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：People use the term “AI psychosis” half-jokingly but I’d actually be very interested in seeing some studies on the ef…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "People use the term “AI psychosis” half-jokingly but I’d actually be very intereste…",
+      "originalBody": "People use the term “AI psychosis” half-jokingly but I’d actually be very interested in seeing some studies on the effect of heavy AI usage on human psychology\n\nLike does constant context switching between multiple agent sessions reduce your attention span? Do you feel like your attention span has worsened since using AI?",
+      "translatedTitle": "人们半开玩笑地使用“人工智能精神病”这个词，但我其实很感兴趣……",
+      "translatedBody": "人们半开玩笑地使用“人工智能精神病”这个词，但我其实很想看到一些关于大量使用人工智能对人类心理影响的研究。\n\n比如，在多个人工智能会话之间频繁切换是否会降低你的注意力持续时间？你是否觉得自从使用人工智能以来，你的注意力持续时间变差了？",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/zarazhangrui/status/2060435594334130467",
+      "publishedAt": "2026-05-29T18:58:21.000Z",
+      "score": 56.99,
+      "engagement": {
+        "likes": 11,
+        "retweets": 0,
+        "replies": 9
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    }
+  ],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-28T07:41:35.372Z",
-    "totalCandidates": 0,
-    "textQualifiedCandidates": 0,
-    "selectedTweets": 0
+    "upstreamGeneratedAt": "2026-05-29T20:58:14.663Z",
+    "totalCandidates": 26,
+    "textQualifiedCandidates": 12,
+    "selectedTweets": 8
   }
 }
