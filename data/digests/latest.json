@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-30",
-  "generatedAt": "2026-05-30T03:51:25.949Z",
+  "date": "2026-05-31",
+  "generatedAt": "2026-05-31T04:16:13.160Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-30",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 26 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-05-31",
+  "summary": "今天最值得看的是 Boris Cherny 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 16 条候选动态里，筛出 8 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,239 +13,227 @@
       "label": "Coding Agents"
     },
     {
-      "slug": "foundation-models",
-      "label": "Foundation Models"
-    },
-    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2060105470460010993",
+      "id": "2060390853835726946",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "Vercel CLI 是一个可自动更新的二进制文件，没有任何外部依赖项。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Vercel CLI as a self-updating binary with zero external dependencies. Our CLI is one of the key interfaces enabling t…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Vercel CLI as a self-updating binary with zero external dependencies.",
-      "originalBody": "Vercel CLI as a self-updating binary with zero external dependencies.\n\nOur CLI is one of the key interfaces enabling the 'cloud for agents'. This solves a huge bottleneck, as we ship changes to our CLI more than ever, and it's embedded in more places than ever.\n\nFun fact: we built 𝚙𝚔𝚐¹ yeaaars ago in service of this vision. I didn't want customers to have to worry about Node.js over here, and the CLI package over there. We deprioritized it because Git and Web took off massively, and CLI usage was more sporadic.\n\nNow the situation is inverted. Every day, I hear from customers discovering Vercel after OpenClaw, Claude Code, or Codex not only introduce, but also onboard users to our agentic infrastructure. Our CLI (as well as our MCP and SDKs) is a key enabler of this new wave.\n\n¹ https://t.co/kidl1bmxjB",
-      "translatedTitle": "Vercel CLI 是一个可自动更新的二进制文件，没有任何外部依赖项。",
-      "translatedBody": "Vercel CLI 是一个可自动更新的二进制文件，没有任何外部依赖。\n\n我们的 CLI 是实现“云代理”的关键接口之一。这解决了一个巨大的瓶颈，因为我们比以往任何时候都更频繁地发布 CLI 的更新，而且 CLI 的嵌入范围也比以往任何时候都更广。\n\n有趣的是：我们多年前为了实现这一愿景而开发了 𝚙𝚔𝚐¹。我不想让客户同时操心 Node.js 和 CLI 包。我们降低了它的优先级，因为 Git 和 Web 技术迅速发展，而 CLI 的使用则较为零散。\n\n现在情况完全相反。我每天都会收到客户的反馈，他们通过 OpenClaw、Claude Code 或 Codex 等平台发现了 Vercel，这些平台不仅介绍了我们的代理基础架构，还引导用户上手使用。我们的 CLI（以及我们的 MCP 和 SDK）是推动这股新浪潮的关键力量。\n\n¹ https://t.co/kidl1bmxjB",
+      "builder": "Boris Cherny",
+      "title": "质量与产量同步提高。",
+      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Quality went up alongside output. Even with more PRs shipping, total incidents dropped 5%. They built security guardr…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Quality went up alongside output.",
+      "originalBody": "Quality went up alongside output. Even with more PRs shipping, total incidents dropped 5%. They built security guardrails and quality standards into the agentic workflow itself.\n\nProductivity vs quality is sometimes framed as a tradeoff. They're not seeing it.",
+      "translatedTitle": "质量与产量同步提高。",
+      "translatedBody": "质量随着产量的提升而提高。即使提交的 PR 数量更多，事件总数也下降了 5%。他们将安全防护措施和质量标准融入到代理工作流程本身。\n\n生产力和质量有时被视为一种权衡取舍。但他们并不这么认为。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2060105470460010993",
-      "publishedAt": "2026-05-28T21:06:33.000Z",
-      "score": 152.72,
+      "sourceUrl": "https://x.com/bcherny/status/2060390853835726946",
+      "publishedAt": "2026-05-29T16:00:34.000Z",
+      "score": 81.72,
       "engagement": {
-        "likes": 160,
-        "retweets": 8,
-        "replies": 18
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2060148078754267426",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "今天和@ACM_President 会面了！",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：met with @ACM_President today! we awarded Industry Spotlights at @CAISconf, and all posters and OpEx talks will be pr…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "met with @ACM_President today!",
-      "originalBody": "met with @ACM_President today!\n\nwe awarded Industry Spotlights at @CAISconf, and all posters and OpEx talks will be presenting at @aiDotEngineer next month\n\nmore AIE x ACM collaboration incoming!\n\nwonder what a “Turing award of AI Engineering” could look like… https://t.co/hsDcvOxGmr",
-      "translatedTitle": "今天和@ACM_President 会面了！",
-      "translatedBody": "今天和@ACM_President 会面了！\n\n我们在@CAISconf 上颁发了行业亮点奖，所有海报和运营卓越演讲都将在下个月的@aiDotEngineer 上展出。\n\n更多 AIE 与 ACM 的合作即将到来！\n\n不知道“人工智能工程图灵奖”会是什么样子…… https://t.co/hsDcvOxGmr",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2060148078754267426",
-      "publishedAt": "2026-05-28T23:55:52.000Z",
-      "score": 149.38,
-      "engagement": {
-        "likes": 74,
-        "retweets": 2,
-        "replies": 19
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2060149158615609474",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "谷歌的免费5天AI智能体课程又回来了，这次的主题是氛围编码……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Google's free 5-day AI Agents course is back, and this time it's all about vibe coding with agents. The last one had…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Google's free 5-day AI Agents course is back, and this time it's all about vibe cod…",
-      "originalBody": "Google's free 5-day AI Agents course is back, and this time it's all about vibe coding with agents. The last one had 1.5M learners.\n\nHere's what the course covers:\n\n→ Day 1: Agents + vibe coding. Build agents  with Google Agents CLI and your coding agent.\n\n→ Day 2: Tools + interop. Connect agents to external APIs and each other.\n\n→ Day 3: Memory + context. Give agents long-term memory and personalization.\n\n→ Day 4: Quality + security. Add testing, guardrails, and evals to improve reliability.\n\n→ Day 5: Prototype to production. Deploy and monitor your agents.\n\nIt's 1-2 hours a day, taught by Google engineers, and (best of all) free 🥹\n\n📌 Register here: https://t.co/VWh6o4BWyO\n\nThanks to the Google Cloud team for their collaboration on this post.",
-      "translatedTitle": "谷歌的免费5天AI智能体课程又回来了，这次的主题是氛围编码……",
-      "translatedBody": "谷歌免费的五日人工智能代理课程又回来了！这次的主题是使用智能代理进行动态编码。上一期课程吸引了 150 万学员。\n\n课程内容如下：\n\n→ 第一天：智能代理 + 动态编码。使用 Google Agents CLI 和你的代码代理构建智能代理。\n\n→ 第二天：工具 + 互操作性。将智能代理连接到外部 API 并相互连接。\n\n→ 第三天：记忆 + 上下文。赋予智能代理长期记忆和个性化功能。\n\n→ 第四天：质量 + 安全。添加测试、防护措施和评估，以提高可靠性。\n\n→ 第五天：从原型到生产。部署并监控你的智能代理。\n\n每天只需 1-2 小时，由谷歌工程师授课，而且（最棒的是）完全免费！🥹\n\n📌 点击此处注册：https://t.co/VWh6o4BWyO\n\n感谢 Google Cloud 团队对本文的贡献。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2060149158615609474",
-      "publishedAt": "2026-05-29T00:00:09.000Z",
-      "score": 111.31,
-      "engagement": {
-        "likes": 803,
-        "retweets": 108,
-        "replies": 27
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2060136766238028213",
-      "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "2026 年风险投资人的一天：上午 9 点：董事会会议。",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：A day in the life of a VC in 2026: 9am: Board meeting. My main value-add is aggressively pushing for Anthropic/OpenAI…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "A day in the life of a VC in 2026: 9am: Board meeting.",
-      "originalBody": "A day in the life of a VC in 2026:\n\n9am: Board meeting. My main value-add is aggressively pushing for Anthropic/OpenAI usage in non-engineering functions. Briefly ponder how I became an SDR for foundation model companies.\n\n1pm: Lunch with another VC.  We discuss how startups can find \"blue ocean\" away Anthropic/OpenAI. We conclude we should probably just invest the rest of our funds directly into Anthropic/OpenAI.\n\n3pm: Pitch meeting. Me: \"Do you run on Anthropic or OpenAI?\" Founder: \"Both.\" Debating internally whether a company reselling Anthropic/OpenAI with a 10% gross margin is a good investment but hey, at least they're in the \"token flow\".\n\n4:30pm: Deep due diligence. I ask Claude if it plans to build this exact startup natively in its next release.  Same to ChatGPT.  They both say yes. I pass on the deal.\n\n6pm: Urgent call from a portco CTO: \"We need an intro to upgrade our Anthropic tier!\" I immediately agree to help them spend more of the venture dollars we just invested in them, on Anthropic.\n\n8pm: Brainstorming next guests for the podcast. Thinking I should probably just try to get some folks from Anthropic and OpenAI.",
-      "translatedTitle": "2026 年风险投资人的一天：上午 9 点：董事会会议。",
-      "translatedBody": "2026 年风投的一天：\n\n上午 9 点：董事会会议。我的主要贡献是积极推动 Anthropic/OpenAI 在非工程领域的应用。我简要思考了一下自己是如何成为基金会模式公司的销售开发代表 (SDR) 的。\n\n下午 1 点：与另一位风投共进午餐。我们讨论了初创公司如何利用 Anthropic/OpenAI 找到“蓝海”。我们最终得出结论，或许应该将剩余资金直接投资到 Anthropic/OpenAI。\n\n下午 3 点：路演会议。我：“你们是用 Anthropic 还是 OpenAI 运行的？”创始人：“两者都用。”内部讨论着，一家以 10% 毛利率转售 Anthropic/OpenAI 的公司是否值得投资，但至少他们能获得“代币流”。\n\n下午 4:30：深入尽职调查。我问 Claude，他们是否计划在下一个版本中原生支持这家初创公司。我也问了 ChatGPT 同样的问题。他们都回答“是”。我拒绝了这笔交易。\n\n下午 6 点：接到一家投资组合公司首席技术官的紧急电话：“我们需要有人引荐我们升级到 Anthropic 的套餐！” 我立即同意帮助他们把我们刚刚投资的更多风险资金投入到 Anthropic。\n\n晚上 8 点：为播客节目集思广益，想着下一期邀请哪些嘉宾。我想我应该直接邀请 Anthropic 和 OpenAI 的人。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2060136766238028213",
-      "publishedAt": "2026-05-28T23:10:55.000Z",
-      "score": 84.44,
-      "engagement": {
-        "likes": 619,
-        "retweets": 31,
-        "replies": 40
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2060387204774633720",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "必须报告：Opus 4.8 搭配 OpenClaw 简直太棒了！它让一切都清晰明了……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Have to report: Opus 4.8 is fucking awesome with OpenClaw It's much more clear about its fixes, what it's thinking, a…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Have to report: Opus 4.8 is fucking awesome with OpenClaw It's much more clear abou…",
-      "originalBody": "Have to report: Opus 4.8 is fucking awesome with OpenClaw\n\nIt's much more clear about its fixes, what it's thinking, and how it works with you to fix problems.",
-      "translatedTitle": "必须报告：Opus 4.8 搭配 OpenClaw 简直太棒了！它让一切都清晰明了……",
-      "translatedBody": "必须报告：Opus 4.8 和 OpenClaw 简直绝配！\n\n它对修复内容、开发思路以及如何与你协作解决问题都更加清晰明了。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2060387204774633720",
-      "publishedAt": "2026-05-29T15:46:04.000Z",
-      "score": 71.51,
-      "engagement": {
-        "likes": 618,
-        "retweets": 17,
-        "replies": 74
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2060461897594683861",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "“我们稍后会升级依赖项”这种借口已经失效了。",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The \"we will upgrade the dependencies later\" excuse just died. When AI makes library upgrades nearly free, staying cu…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The \"we will upgrade the dependencies later\" excuse just died.",
-      "originalBody": "The \"we will upgrade the dependencies later\" excuse just died. When AI makes library upgrades nearly free, staying current stops being a luxury and becomes the default. Tech debt was always a tooling problem and now it’s a thing of the past. \n\nhttps://t.co/xRBd6WB7N5",
-      "translatedTitle": "“我们稍后会升级依赖项”这种借口已经失效了。",
-      "translatedBody": "“我们稍后会升级依赖项”这种借口已经过时了。当人工智能使得库升级几乎免费时，保持最新状态不再是奢侈，而是默认选项。技术债务一直以来都是工具方面的问题，而现在它已成为历史。\n\nhttps://t.co/xRBd6WB7N5",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2060461897594683861",
-      "publishedAt": "2026-05-29T20:42:52.000Z",
-      "score": 61.52,
-      "engagement": {
-        "likes": 28,
-        "retweets": 2,
-        "replies": 7
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2060369325895094607",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "由于很多人误解了我的评论——这是关于域名的。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Since many folks misunderstood my comment - this is about the domain. At least that was the main rename-drama I had.…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Since many folks misunderstood my comment - this is about the domain.",
-      "originalBody": "Since many folks misunderstood my comment - this is about the domain. At least that was the main rename-drama I had. Content is fine.",
-      "translatedTitle": "由于很多人误解了我的评论——这是关于域名的。",
-      "translatedBody": "由于很多人误解了我的评论——我指的是域名。至少这是我遇到的主要更名问题。内容本身没问题。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2060369325895094607",
-      "publishedAt": "2026-05-29T14:35:01.000Z",
-      "score": 58.69,
-      "engagement": {
-        "likes": 75,
-        "retweets": 0,
-        "replies": 4
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2060435594334130467",
-      "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "人们半开玩笑地使用“人工智能精神病”这个词，但我其实很感兴趣……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：People use the term “AI psychosis” half-jokingly but I’d actually be very interested in seeing some studies on the ef…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "People use the term “AI psychosis” half-jokingly but I’d actually be very intereste…",
-      "originalBody": "People use the term “AI psychosis” half-jokingly but I’d actually be very interested in seeing some studies on the effect of heavy AI usage on human psychology\n\nLike does constant context switching between multiple agent sessions reduce your attention span? Do you feel like your attention span has worsened since using AI?",
-      "translatedTitle": "人们半开玩笑地使用“人工智能精神病”这个词，但我其实很感兴趣……",
-      "translatedBody": "人们半开玩笑地使用“人工智能精神病”这个词，但我其实很想看到一些关于大量使用人工智能对人类心理影响的研究。\n\n比如，在多个人工智能会话之间频繁切换是否会降低你的注意力持续时间？你是否觉得自从使用人工智能以来，你的注意力持续时间变差了？",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2060435594334130467",
-      "publishedAt": "2026-05-29T18:58:21.000Z",
-      "score": 56.99,
-      "engagement": {
-        "likes": 11,
-        "retweets": 0,
+        "likes": 411,
+        "retweets": 7,
         "replies": 9
       },
       "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060390852619272526",
+      "type": "tweet",
+      "builder": "Boris Cherny",
+      "title": "Salesforce 发布了一份关于如何使用 Claude Code 实现智能代理的详细文章。",
+      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Salesforce published a detailed writeup on going agentic with Claude Code. A couple things jumped out. A migration th…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Salesforce published a detailed writeup on going agentic with Claude Code.",
+      "originalBody": "Salesforce published a detailed writeup on going agentic with Claude Code. A couple things jumped out.\n\nA migration they'd scoped at 231 days shipped in 13. One PR delivered 21 endpoints at 100% test coverage.",
+      "translatedTitle": "Salesforce 发布了一份关于如何使用 Claude Code 实现智能代理的详细文章。",
+      "translatedBody": "Salesforce 发布了一份关于使用 Claude Code 实现智能代理的详细文档。其中有几点值得关注：\n\n他们原计划需要 231 天才能完成的迁移，最终仅用了 13 天就完成了。此外，一个 PR 就实现了 21 个端点，并且测试覆盖率达到了 100%。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/bcherny/status/2060390852619272526",
+      "publishedAt": "2026-05-29T16:00:34.000Z",
+      "score": 67.1,
+      "engagement": {
+        "likes": 2789,
+        "retweets": 137,
+        "replies": 108
+      },
+      "matchedFocusAreas": [
         "Coding Agents"
       ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060600088079356292",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "一位创始人一直说“如果我们有钱，我们就会做X”。但金钱并非关键所在。",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：A founder kept saying \"if only we had money we'd do X.\" Money is not the fire. Money is gasoline you pour on a fire t…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "A founder kept saying \"if only we had money we'd do X.\" Money is not the fire.",
+      "originalBody": "A founder kept saying \"if only we had money we'd do X.\"\n\nMoney is not the fire. Money is gasoline you pour on a fire that already exists.\n\nYou don't have a funding problem. You have a \"people don't want it yet\" problem. Go make the first fire.",
+      "translatedTitle": "一位创始人一直说“如果我们有钱，我们就会做X”。但金钱并非关键所在。",
+      "translatedBody": "一位创始人总是说“要是我们有钱，我们就能做X了。”\n\n钱不是火。钱是汽油，你往已经存在的火上浇油。\n\n你不是缺钱，而是缺“人们还没想要”。去点燃第一把火吧。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2060600088079356292",
+      "publishedAt": "2026-05-30T05:51:59.000Z",
+      "score": 58.95,
+      "engagement": {
+        "likes": 346,
+        "retweets": 23,
+        "replies": 69
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060390855383400729",
+      "type": "tweet",
+      "builder": "Boris Cherny",
+      "title": "那些从人工智能中获益最多的团队正在彻底改变他们的工作方式，不……",
+      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The teams seeing the biggest wins from AI are completely changing how they work, not speeding up what they already do…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "The teams seeing the biggest wins from AI are completely changing how they work, no…",
+      "originalBody": "The teams seeing the biggest wins from AI are completely changing how they work, not speeding up what they already do. What steps can you delete, what handoffs go away, what can an agent just own end to end. Great to see Salesforce go this deep. Shoutout to Srini, @Benioff & team.\n\nFull writeup: https://t.co/3Rbdj9K8YN",
+      "translatedTitle": "那些从人工智能中获益最多的团队正在彻底改变他们的工作方式，不……",
+      "translatedBody": "那些从人工智能中获益最大的团队正在彻底改变他们的工作方式，而不是仅仅加快现有流程。哪些步骤可以省略？哪些交接环节可以取消？哪些环节可以由客服人员全权负责？很高兴看到 Salesforce 在这方面投入如此之多。特别感谢 Srini、@Benioff 和他们的团队。\n\n完整报道：https://t.co/3Rbdj9K8YN",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/bcherny/status/2060390855383400729",
+      "publishedAt": "2026-05-29T16:00:34.000Z",
+      "score": 57.94,
+      "engagement": {
+        "likes": 450,
+        "retweets": 35,
+        "replies": 23
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060586945491931202",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "那些只会作秀、不真正关心学生福祉的人……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Virtue signalers who don’t actually care about the outcomes for the students of the UC system really should have had…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Virtue signalers who don’t actually care about the outcomes for the students of the…",
+      "originalBody": "Virtue signalers who don’t actually care about the outcomes for the students of the UC system really should have had no part in the UC Regents\n\nUnfortunately they have damaged beautiful institution and their names should be remembered for it https://t.co/F7XWMfYDiM",
+      "translatedTitle": "那些只会作秀、不真正关心学生福祉的人……",
+      "translatedBody": "那些对加州大学系统学生的福祉漠不关心、只会作秀的伪君子，根本不应该参与加州大学理事会的工作。\n\n不幸的是，他们损害了这所美丽的学府，他们的名字应该被永远铭记。https://t.co/F7XWMfYDiM",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2060586945491931202",
+      "publishedAt": "2026-05-30T04:59:46.000Z",
+      "score": 49,
+      "engagement": {
+        "likes": 67,
+        "retweets": 5,
+        "replies": 6
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060565265906290786",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "今天我在 Codex 控制面板上看到一个数字，这让我很高兴。",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验：I looked at a number today on a codex dashboard and it made me happy. More news about the number soon. 👀 Thanks to e…",
+      "whyItMatters": "Thibault Sottiaux 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "I looked at a number today on a codex dashboard and it made me happy.",
+      "originalBody": "I looked at a number today on a codex dashboard and it made me happy. More news about the number soon. 👀\n\nThanks to everyone who keeps adopting codex. We are still early. So early.",
+      "translatedTitle": "今天我在 Codex 控制面板上看到一个数字，这让我很高兴。",
+      "translatedBody": "今天我在 Codex 控制面板上看到一个数字，让我很开心。关于这个数字的更多消息很快就会公布。👀\n\n感谢所有持续采用 Codex 的用户。我们还处于早期阶段，真的还很早期。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2060565265906290786",
+      "publishedAt": "2026-05-30T03:33:37.000Z",
+      "score": 39.76,
+      "engagement": {
+        "likes": 1690,
+        "retweets": 39,
+        "replies": 193
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060525104384418271",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "对于应用层来说，没有什么比一家公司斥资 5 亿美元进行推广更好的广告了……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验：The app layer couldn’t get a better advertisement than a company spending $500M to build their own version of it. Obv…",
+      "whyItMatters": "Aaron Levie 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "The app layer couldn’t get a better advertisement than a company spending $500M to…",
+      "originalBody": "The app layer couldn’t get a better advertisement than a company spending $500M to build their own version of it. Obviously lots of nuance here that can’t be captured in the headline, but this should make you very bullish on software. https://t.co/laysmOjyo7",
+      "translatedTitle": "对于应用层来说，没有什么比一家公司斥资 5 亿美元进行推广更好的广告了……",
+      "translatedBody": "对于应用层来说，还有什么比一家公司斥资 5 亿美元打造自家版本更好的广告呢？当然，这里面有很多细节无法用标题概括，但这应该会让你对软件行业充满信心。https://t.co/laysmOjyo7",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2060525104384418271",
+      "publishedAt": "2026-05-30T00:54:02.000Z",
+      "score": 31.64,
+      "engagement": {
+        "likes": 348,
+        "retweets": 18,
+        "replies": 32
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060580468781953169",
+      "type": "tweet",
+      "builder": "Nikunj Kothari",
+      "title": "总是很有趣，可以看看别人参加@ycombinator面试是什么样的体验……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验：Always fun to see what it's like for someone to go through the @ycombinator interview process.. SO happy for this kid…",
+      "whyItMatters": "Nikunj Kothari 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Always fun to see what it's like for someone to go through the @ycombinator intervi…",
+      "originalBody": "Always fun to see what it's like for someone to go through the @ycombinator interview process.. \n\nSO happy for this kid, and excited to meet the upcoming batch! https://t.co/bHQExvHD4Q",
+      "translatedTitle": "总是很有趣，可以看看别人参加@ycombinator面试是什么样的体验……",
+      "translatedBody": "总是很乐于看到别人经历 @ycombinator 的面试过程……\n\n真为这个孩子感到高兴，也期待见到下一批学员！https://t.co/bHQExvHD4Q",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/nikunj/status/2060580468781953169",
+      "publishedAt": "2026-05-30T04:34:02.000Z",
+      "score": 19.59,
+      "engagement": {
+        "likes": 35,
+        "retweets": 0,
+        "replies": 3
+      },
+      "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-29T20:58:14.663Z",
-    "totalCandidates": 26,
-    "textQualifiedCandidates": 12,
+    "upstreamGeneratedAt": "2026-05-30T07:19:23.318Z",
+    "totalCandidates": 16,
+    "textQualifiedCandidates": 8,
     "selectedTweets": 8
   }
 }
