@@ -1,10 +1,10 @@
 {
-  "date": "2026-05-31",
-  "generatedAt": "2026-05-31T04:16:13.160Z",
+  "date": "2026-06-01",
+  "generatedAt": "2026-06-01T04:44:19.339Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-05-31",
-  "summary": "今天最值得看的是 Boris Cherny 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 16 条候选动态里，筛出 8 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-06-01",
+  "summary": "今天最值得看的是 Thibault Sottiaux 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 22 条候选动态里，筛出 7 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,227 +13,205 @@
       "label": "Coding Agents"
     },
     {
+      "slug": "foundation-models",
+      "label": "Foundation Models"
+    },
+    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2060390853835726946",
+      "id": "2060627747760984429",
       "type": "tweet",
-      "builder": "Boris Cherny",
-      "title": "质量与产量同步提高。",
-      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Quality went up alongside output. Even with more PRs shipping, total incidents dropped 5%. They built security guardr…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Quality went up alongside output.",
-      "originalBody": "Quality went up alongside output. Even with more PRs shipping, total incidents dropped 5%. They built security guardrails and quality standards into the agentic workflow itself.\n\nProductivity vs quality is sometimes framed as a tradeoff. They're not seeing it.",
-      "translatedTitle": "质量与产量同步提高。",
-      "translatedBody": "质量随着产量的提升而提高。即使提交的 PR 数量更多，事件总数也下降了 5%。他们将安全防护措施和质量标准融入到代理工作流程本身。\n\n生产力和质量有时被视为一种权衡取舍。但他们并不这么认为。",
+      "builder": "Thibault Sottiaux",
+      "title": "当我们从 GPT-5.0 升级到 GPT-5.1 再升级到……",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：When we go from GPT-5.0 -> GPT-5.1 -> ... -> GPT-5.5, the number incrementing goes with improvements in capabilities…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "When we go from GPT-5.0 -> GPT-5.1 -> ...",
+      "originalBody": "When we go from GPT-5.0 -> GPT-5.1 -> ... -> GPT-5.5, the number incrementing goes with improvements in capabilities and token efficiency (which translates to speed gains). With GPT-5.5 our best model yet.\n\nA simple strategy that we would like to continue.",
+      "translatedTitle": "当我们从 GPT-5.0 升级到 GPT-5.1 再升级到……",
+      "translatedBody": "从 GPT-5.0 到 GPT-5.1 再到……再到 GPT-5.5，版本号的递增代表着性能和令牌效率（也就是速度的提升）的提高。GPT-5.5 是我们迄今为止最好的模型。\n\n我们希望继续沿用这一简单的策略。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/bcherny/status/2060390853835726946",
-      "publishedAt": "2026-05-29T16:00:34.000Z",
-      "score": 81.72,
+      "sourceUrl": "https://x.com/thsottiaux/status/2060627747760984429",
+      "publishedAt": "2026-05-30T07:41:54.000Z",
+      "score": 68.97,
       "engagement": {
-        "likes": 411,
-        "retweets": 7,
-        "replies": 9
+        "likes": 3842,
+        "retweets": 89,
+        "replies": 397
       },
       "matchedFocusAreas": [
-        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060678430031597696",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "使用 GPT 5.5、/goal、autoreview 和 crabbox 后，我的提示时间从大约 30-60 分钟缩短到通常……",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：With GPT 5.5, /goal, autoreview and crabbox my prompts moved from ~30-60min to often 4-10h tasks and my confidence th…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "With GPT 5.5, /goal, autoreview and crabbox my prompts moved from ~30-60min to ofte…",
+      "originalBody": "With GPT 5.5, /goal, autoreview and crabbox my prompts moved from ~30-60min to often 4-10h tasks and my confidence that it’s ready is much much higher.\n\nYielding agents is a skill.",
+      "translatedTitle": "使用 GPT 5.5、/goal、autoreview 和 crabbox 后，我的提示时间从大约 30-60 分钟缩短到通常……",
+      "translatedBody": "借助 GPT 5.5、/goal、自动审核和 Crabbox，我的任务时长从大约 30-60 分钟缩短到通常 4-10 小时，我对任务完成度的信心也大大提升。\n\n让智能体获得足够的任务完成时间是一项技能。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2060678430031597696",
+      "publishedAt": "2026-05-30T11:03:17.000Z",
+      "score": 67.27,
+      "engagement": {
+        "likes": 2905,
+        "retweets": 103,
+        "replies": 145
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060672154727825718",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "我经常对法典这样做。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I do this with codex all the time. Ask it to review code for bugs and it will tell you all good, tell it there is a b…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I do this with codex all the time.",
+      "originalBody": "I do this with codex all the time. Ask it to review code for bugs and it will tell you all good, tell it there is a bug and it will LOOP AND LOOP and will find issues. https://t.co/SOAa7Z1H4I",
+      "translatedTitle": "我经常对法典这样做。",
+      "translatedBody": "我经常用 Codex 做这种测试。让它检查代码中的 bug，它会告诉你一切正常；告诉它有 bug，它就会一直循环测试，直到找到问题为止。https://t.co/SOAa7Z1H4I",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2060672154727825718",
+      "publishedAt": "2026-05-30T10:38:21.000Z",
+      "score": 66.94,
+      "engagement": {
+        "likes": 2698,
+        "retweets": 131,
+        "replies": 112
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060644549408739621",
+      "type": "tweet",
+      "builder": "Aditya Agarwal",
+      "title": "我在印度遇到的大多数人都有一个孩子。",
+      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Most people I talk to in India have 1 child. Some have 2. When I tell them I have three, their first reaction is tota…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Most people I talk to in India have 1 child.",
+      "originalBody": "Most people I talk to in India have 1 child. Some have 2.\n\nWhen I tell them I have three, their first reaction is total surprise followed by \"well, accidents happen\".\n\nThe main reason for one? Raising kids is just really hard, especially for nuclear families in cities.",
+      "translatedTitle": "我在印度遇到的大多数人都有一个孩子。",
+      "translatedBody": "我在印度遇到的大多数人只有一个孩子，有些人有两个。\n\n当我告诉他们我有三个孩子时，他们的第一反应是完全惊讶，然后是“嗯，意外总是难免的”。\n\n主要原因是什么呢？养育孩子真的非常辛苦，尤其对于城市里的核心家庭来说。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/adityaag/status/2060644549408739621",
+      "publishedAt": "2026-05-30T08:48:40.000Z",
+      "score": 53.83,
+      "engagement": {
+        "likes": 217,
+        "retweets": 3,
+        "replies": 19
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2060930599565811774",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "基本上，终极教育应用就是你在玩最终幻想之类的游戏……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Basically the ultimate education app is you're playing Final Fantasy or something and you're learning math and CS at…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Basically the ultimate education app is you're playing Final Fantasy or something a…",
+      "originalBody": "Basically the ultimate education app is you're playing Final Fantasy or something and you're learning math and CS at the same time",
+      "translatedTitle": "基本上，终极教育应用就是你在玩最终幻想之类的游戏……",
+      "translatedBody": "基本上，终极教育应用就是让你一边玩最终幻想之类的游戏，一边学习数学和计算机科学。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2060930599565811774",
+      "publishedAt": "2026-05-31T03:45:19.000Z",
+      "score": 42.55,
+      "engagement": {
+        "likes": 19,
+        "retweets": 0,
+        "replies": 6
+      },
+      "matchedFocusAreas": [
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2060390852619272526",
+      "id": "2060766674203353190",
       "type": "tweet",
-      "builder": "Boris Cherny",
-      "title": "Salesforce 发布了一份关于如何使用 Claude Code 实现智能代理的详细文章。",
-      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Salesforce published a detailed writeup on going agentic with Claude Code. A couple things jumped out. A migration th…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Salesforce published a detailed writeup on going agentic with Claude Code.",
-      "originalBody": "Salesforce published a detailed writeup on going agentic with Claude Code. A couple things jumped out.\n\nA migration they'd scoped at 231 days shipped in 13. One PR delivered 21 endpoints at 100% test coverage.",
-      "translatedTitle": "Salesforce 发布了一份关于如何使用 Claude Code 实现智能代理的详细文章。",
-      "translatedBody": "Salesforce 发布了一份关于使用 Claude Code 实现智能代理的详细文档。其中有几点值得关注：\n\n他们原计划需要 231 天才能完成的迁移，最终仅用了 13 天就完成了。此外，一个 PR 就实现了 21 个端点，并且测试覆盖率达到了 100%。",
+      "builder": "Ryo Lu",
+      "title": "我喜欢自动复习的一点是：光标会解释命令和风险，这让复习变得更加……",
+      "summary": "Ryo Lu 的最新观点聚焦在可执行的一线经验：what i love about auto-review: Cursor explains the command and risk, makes it much easier for new coders to learn and…",
+      "whyItMatters": "Ryo Lu 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "what i love about auto-review: Cursor explains the command and risk, makes it much…",
+      "originalBody": "what i love about auto-review: Cursor explains the command and risk, makes it much easier for new coders to learn and just do things https://t.co/3d2gt9uRKq",
+      "translatedTitle": "我喜欢自动复习的一点是：光标会解释命令和风险，这让复习变得更加……",
+      "translatedBody": "我喜欢自动审查的一点是：光标会解释命令和风险，这让新手程序员更容易学习和上手。https://t.co/3d2gt9uRKq",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/bcherny/status/2060390852619272526",
-      "publishedAt": "2026-05-29T16:00:34.000Z",
-      "score": 67.1,
+      "sourceUrl": "https://x.com/ryolu_/status/2060766674203353190",
+      "publishedAt": "2026-05-30T16:53:56.000Z",
+      "score": 28.91,
       "engagement": {
-        "likes": 2789,
-        "retweets": 137,
-        "replies": 108
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2060600088079356292",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "一位创始人一直说“如果我们有钱，我们就会做X”。但金钱并非关键所在。",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：A founder kept saying \"if only we had money we'd do X.\" Money is not the fire. Money is gasoline you pour on a fire t…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "A founder kept saying \"if only we had money we'd do X.\" Money is not the fire.",
-      "originalBody": "A founder kept saying \"if only we had money we'd do X.\"\n\nMoney is not the fire. Money is gasoline you pour on a fire that already exists.\n\nYou don't have a funding problem. You have a \"people don't want it yet\" problem. Go make the first fire.",
-      "translatedTitle": "一位创始人一直说“如果我们有钱，我们就会做X”。但金钱并非关键所在。",
-      "translatedBody": "一位创始人总是说“要是我们有钱，我们就能做X了。”\n\n钱不是火。钱是汽油，你往已经存在的火上浇油。\n\n你不是缺钱，而是缺“人们还没想要”。去点燃第一把火吧。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2060600088079356292",
-      "publishedAt": "2026-05-30T05:51:59.000Z",
-      "score": 58.95,
-      "engagement": {
-        "likes": 346,
-        "retweets": 23,
-        "replies": 69
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2060390855383400729",
-      "type": "tweet",
-      "builder": "Boris Cherny",
-      "title": "那些从人工智能中获益最多的团队正在彻底改变他们的工作方式，不……",
-      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The teams seeing the biggest wins from AI are completely changing how they work, not speeding up what they already do…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The teams seeing the biggest wins from AI are completely changing how they work, no…",
-      "originalBody": "The teams seeing the biggest wins from AI are completely changing how they work, not speeding up what they already do. What steps can you delete, what handoffs go away, what can an agent just own end to end. Great to see Salesforce go this deep. Shoutout to Srini, @Benioff & team.\n\nFull writeup: https://t.co/3Rbdj9K8YN",
-      "translatedTitle": "那些从人工智能中获益最多的团队正在彻底改变他们的工作方式，不……",
-      "translatedBody": "那些从人工智能中获益最大的团队正在彻底改变他们的工作方式，而不是仅仅加快现有流程。哪些步骤可以省略？哪些交接环节可以取消？哪些环节可以由客服人员全权负责？很高兴看到 Salesforce 在这方面投入如此之多。特别感谢 Srini、@Benioff 和他们的团队。\n\n完整报道：https://t.co/3Rbdj9K8YN",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/bcherny/status/2060390855383400729",
-      "publishedAt": "2026-05-29T16:00:34.000Z",
-      "score": 57.94,
-      "engagement": {
-        "likes": 450,
-        "retweets": 35,
-        "replies": 23
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2060586945491931202",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "那些只会作秀、不真正关心学生福祉的人……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Virtue signalers who don’t actually care about the outcomes for the students of the UC system really should have had…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Virtue signalers who don’t actually care about the outcomes for the students of the…",
-      "originalBody": "Virtue signalers who don’t actually care about the outcomes for the students of the UC system really should have had no part in the UC Regents\n\nUnfortunately they have damaged beautiful institution and their names should be remembered for it https://t.co/F7XWMfYDiM",
-      "translatedTitle": "那些只会作秀、不真正关心学生福祉的人……",
-      "translatedBody": "那些对加州大学系统学生的福祉漠不关心、只会作秀的伪君子，根本不应该参与加州大学理事会的工作。\n\n不幸的是，他们损害了这所美丽的学府，他们的名字应该被永远铭记。https://t.co/F7XWMfYDiM",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2060586945491931202",
-      "publishedAt": "2026-05-30T04:59:46.000Z",
-      "score": 49,
-      "engagement": {
-        "likes": 67,
-        "retweets": 5,
-        "replies": 6
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2060565265906290786",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "今天我在 Codex 控制面板上看到一个数字，这让我很高兴。",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验：I looked at a number today on a codex dashboard and it made me happy. More news about the number soon. 👀 Thanks to e…",
-      "whyItMatters": "Thibault Sottiaux 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "I looked at a number today on a codex dashboard and it made me happy.",
-      "originalBody": "I looked at a number today on a codex dashboard and it made me happy. More news about the number soon. 👀\n\nThanks to everyone who keeps adopting codex. We are still early. So early.",
-      "translatedTitle": "今天我在 Codex 控制面板上看到一个数字，这让我很高兴。",
-      "translatedBody": "今天我在 Codex 控制面板上看到一个数字，让我很开心。关于这个数字的更多消息很快就会公布。👀\n\n感谢所有持续采用 Codex 的用户。我们还处于早期阶段，真的还很早期。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2060565265906290786",
-      "publishedAt": "2026-05-30T03:33:37.000Z",
-      "score": 39.76,
-      "engagement": {
-        "likes": 1690,
-        "retweets": 39,
-        "replies": 193
+        "likes": 222,
+        "retweets": 7,
+        "replies": 13
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2060525104384418271",
+      "id": "2060923684295221390",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "对于应用层来说，没有什么比一家公司斥资 5 亿美元进行推广更好的广告了……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验：The app layer couldn’t get a better advertisement than a company spending $500M to build their own version of it. Obv…",
+      "title": "或许这与直觉相悖，但在我与首席信息官们的大多数对话中……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验：Again, maybe counterintuitive, but in the majority of conversations I have with CIOs, CTOs, and CEOs in large enterpr…",
       "whyItMatters": "Aaron Levie 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "The app layer couldn’t get a better advertisement than a company spending $500M to…",
-      "originalBody": "The app layer couldn’t get a better advertisement than a company spending $500M to build their own version of it. Obviously lots of nuance here that can’t be captured in the headline, but this should make you very bullish on software. https://t.co/laysmOjyo7",
-      "translatedTitle": "对于应用层来说，没有什么比一家公司斥资 5 亿美元进行推广更好的广告了……",
-      "translatedBody": "对于应用层来说，还有什么比一家公司斥资 5 亿美元打造自家版本更好的广告呢？当然，这里面有很多细节无法用标题概括，但这应该会让你对软件行业充满信心。https://t.co/laysmOjyo7",
+      "originalTitle": "Again, maybe counterintuitive, but in the majority of conversations I have with CIO…",
+      "originalBody": "Again, maybe counterintuitive, but in the majority of conversations I have with CIOs, CTOs, and CEOs in large enterprises, they are either growing due to AI (in new job functions like FDEs, engineering, etc.) or at a minimum reinvesting efficiency savings back into the business in new areas (sales, marketing, etc.).\n\nDavid Solomon, CEO of Goldman Sachs, articulated this perfectly in a NYTimes OpEd last week. The AI boom is both creating all new jobs in the build out of AI systems and the implementation across sectors, but also freeing up dollars to invest in areas that have been underfunded or have more demand now because of AI. \n\nMost businesses have been constrained by how much software they can produce at a given cost, how many sales reps they can hire, how many marketing campaigns they can run, how they can do outbound customer success motions with enough tailoring, how they can find more risk in their business and prevent it, and 100s of other things. \n\nWhen AI makes it possible to do more of this, investment goes back into the business. The companies that better serve their customers win over the long run, and those that just try and find savings end up doing worse.",
+      "translatedTitle": "或许这与直觉相悖，但在我与首席信息官们的大多数对话中……",
+      "translatedBody": "或许这听起来有些反直觉，但在我与大型企业的首席信息官 (CIO)、首席技术官 (CTO) 和首席执行官 (CEO) 的大多数对话中，他们都表示，要么是因为人工智能 (AI) 而实现了增长（例如在功能开发工程师、工程师等新岗位上），要么至少将提高效率节省下来的成本重新投资到业务的新领域（例如销售、市场营销等）。\n\n高盛首席执行官大卫·所罗门上周在《纽约时报》的专栏文章中对此做了完美的阐述。人工智能的蓬勃发展不仅在人工智能系统的构建和各行业的实施方面创造了全新的就业机会，而且还释放了资金，用于投资那些过去资金不足或现在因人工智能而需求激增的领域。\n\n大多数企业都受到诸多限制，例如在既定成本下能够生产多少软件、能够雇佣多少销售代表、能够开展多少营销活动、如何开展足够个性化的客户成功推广活动、如何发现并规避业务风险等等。\n\n当人工智能使这些工作成为可能时，投资就会重新投入到企业中。那些更好地服务客户的公司最终会胜出，而那些只想着节省成本的公司最终会走下坡路。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2060525104384418271",
-      "publishedAt": "2026-05-30T00:54:02.000Z",
-      "score": 31.64,
+      "sourceUrl": "https://x.com/levie/status/2060923684295221390",
+      "publishedAt": "2026-05-31T03:17:51.000Z",
+      "score": 28.35,
       "engagement": {
-        "likes": 348,
-        "retweets": 18,
-        "replies": 32
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2060580468781953169",
-      "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "总是很有趣，可以看看别人参加@ycombinator面试是什么样的体验……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验：Always fun to see what it's like for someone to go through the @ycombinator interview process.. SO happy for this kid…",
-      "whyItMatters": "Nikunj Kothari 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Always fun to see what it's like for someone to go through the @ycombinator intervi…",
-      "originalBody": "Always fun to see what it's like for someone to go through the @ycombinator interview process.. \n\nSO happy for this kid, and excited to meet the upcoming batch! https://t.co/bHQExvHD4Q",
-      "translatedTitle": "总是很有趣，可以看看别人参加@ycombinator面试是什么样的体验……",
-      "translatedBody": "总是很乐于看到别人经历 @ycombinator 的面试过程……\n\n真为这个孩子感到高兴，也期待见到下一批学员！https://t.co/bHQExvHD4Q",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2060580468781953169",
-      "publishedAt": "2026-05-30T04:34:02.000Z",
-      "score": 19.59,
-      "engagement": {
-        "likes": 35,
-        "retweets": 0,
-        "replies": 3
+        "likes": 154,
+        "retweets": 19,
+        "replies": 25
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-30T07:19:23.318Z",
-    "totalCandidates": 16,
-    "textQualifiedCandidates": 8,
-    "selectedTweets": 8
+    "upstreamGeneratedAt": "2026-05-31T07:34:55.496Z",
+    "totalCandidates": 22,
+    "textQualifiedCandidates": 7,
+    "selectedTweets": 7
   }
 }
