@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-01",
-  "generatedAt": "2026-06-01T04:44:19.339Z",
+  "date": "2026-06-02",
+  "generatedAt": "2026-06-02T04:23:32.895Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-06-01",
-  "summary": "今天最值得看的是 Thibault Sottiaux 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 22 条候选动态里，筛出 7 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-06-02",
+  "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 23 条候选动态里，筛出 15 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,26 +23,110 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2060627747760984429",
+      "id": "2061117302528188712",
       "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "当我们从 GPT-5.0 升级到 GPT-5.1 再升级到……",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：When we go from GPT-5.0 -> GPT-5.1 -> ... -> GPT-5.5, the number incrementing goes with improvements in capabilities…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "When we go from GPT-5.0 -> GPT-5.1 -> ...",
-      "originalBody": "When we go from GPT-5.0 -> GPT-5.1 -> ... -> GPT-5.5, the number incrementing goes with improvements in capabilities and token efficiency (which translates to speed gains). With GPT-5.5 our best model yet.\n\nA simple strategy that we would like to continue.",
-      "translatedTitle": "当我们从 GPT-5.0 升级到 GPT-5.1 再升级到……",
-      "translatedBody": "从 GPT-5.0 到 GPT-5.1 再到……再到 GPT-5.5，版本号的递增代表着性能和令牌效率（也就是速度的提升）的提高。GPT-5.5 是我们迄今为止最好的模型。\n\n我们希望继续沿用这一简单的策略。",
+      "builder": "Sam Altman",
+      "title": "OpenAI Robotics 正在招聘，寻找优秀的全栈硬件、运维、系统工程师……",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：OpenAI Robotics is hiring, looking for exceptional full-stack hardware, ops, systems, and ML engineers to help us pro…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "OpenAI Robotics is hiring, looking for exceptional full-stack hardware, ops, system…",
+      "originalBody": "OpenAI Robotics is hiring, looking for exceptional full-stack hardware, ops, systems, and ML engineers to help us program and manufacture robots that are useful for society.\n\nAI should be able to help people in the physical world. In the short term, we are focused on robots to support skilled workers to build our future infrastructure; in the long term, we imagine everyone having a personal robot doing anything they need.\n\nOur world simulation research program, led by Aditya Ramesh (@model_mechanic), has evolved over the past year into OpenAI Robotics. Progress is rapid, and based on a foundation of co-design between robotics hardware and ML research.\n\nIf you love working hands-on across the robotics stack and want to build the future, please consider joining us. Send an email with your background and evidence of exceptional accomplishment to: robotics-recruiting@openai.com",
+      "translatedTitle": "OpenAI Robotics 正在招聘，寻找优秀的全栈硬件、运维、系统工程师……",
+      "translatedBody": "OpenAI Robotics 正在招聘，我们寻找杰出的全栈硬件、运维、系统和机器学习工程师，帮助我们编程和制造对社会有益的机器人。\n\n人工智能应该能够帮助人们在现实世界中生活。短期内，我们专注于研发能够辅助技术工人建设未来基础设施的机器人；长期来看，我们设想每个人都能拥有一个可以满足各种需求的私人机器人。\n\n由 Aditya Ramesh (@model_mechanic) 领导的世界模拟研究项目，在过去一年中发展成为 OpenAI Robotics。该项目进展迅速，其基础是机器人硬件和机器学习研究的协同设计。\n\n如果您热爱机器人技术栈的实践工作，并渴望参与构建未来，请考虑加入我们。请将您的背景和卓越成就证明发送至：robotics-recruiting@openai.com",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2060627747760984429",
-      "publishedAt": "2026-05-30T07:41:54.000Z",
-      "score": 68.97,
+      "sourceUrl": "https://x.com/sama/status/2061117302528188712",
+      "publishedAt": "2026-05-31T16:07:13.000Z",
+      "score": 199.82,
       "engagement": {
-        "likes": 3842,
-        "retweets": 89,
-        "replies": 397
+        "likes": 11049,
+        "retweets": 840,
+        "replies": 958
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2061135404942974982",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "目前尚不清楚这是否会成为一种持久趋势，但值得庆幸的是，CEO 和 CTO 们又开始疯狂地编写代码了……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Unclear if a durable trend, but CEOs and CTOs are back to coding with a fury, thanks to coding agents. I have public…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Unclear if a durable trend, but CEOs and CTOs are back to coding with a fury, thank…",
+      "originalBody": "Unclear if a durable trend, but CEOs and CTOs are back to coding with a fury, thanks to coding agents.\n\nI have public company CEOs sliding into my DMs (and “InMail”) telling me about falling in love with shipping software again thanks to Claude Code and Vercel.\n\n“Dream accounts” that we always wanted to work with, where in the past the C-suite would hardly understand the infrastructure until much later in the game.\n\nCoding agents are the ultimate PLG-fication of the enterprise. Bad, legacy software can’t hide anymore. The stack that works is self-evident to the entire organization, from intern to CEO.",
+      "translatedTitle": "目前尚不清楚这是否会成为一种持久趋势，但值得庆幸的是，CEO 和 CTO 们又开始疯狂地编写代码了……",
+      "translatedBody": "虽然尚不清楚这是否会成为一种持久的趋势，但得益于编码代理，CEO 和 CTO 们又重新燃起了编写代码的热情。\n\n我收到一些上市公司 CEO 的私信（以及“InMail”），他们告诉我，多亏了 Claude Code 和 Vercel，他们再次爱上了软件交付。\n\n这些“梦寐以求的客户”是我们一直渴望合作的对象，而过去，这些客户的高管层往往要到项目后期才能了解其基础设施。\n\n编码代理是企业实现产品生命周期管理 (PLG) 的终极途径。糟糕的遗留软件再也无法掩盖。从实习生到 CEO，整个组织都能清晰地看到哪些技术栈才是真正有效的。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2061135404942974982",
+      "publishedAt": "2026-05-31T17:19:09.000Z",
+      "score": 188.45,
+      "engagement": {
+        "likes": 1226,
+        "retweets": 69,
+        "replies": 157
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2061256096719970337",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "稍微拉远镜头看看氛围的转变：2025年2月，@soumithchintala 正在谈论……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：just a small zoom out on the vibe shift: in Feb 2025 @soumithchintala was talking about his dream of personal, local,…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "just a small zoom out on the vibe shift: in Feb 2025 @soumithchintala was talking a…",
+      "originalBody": "just a small zoom out on the vibe shift:\n\nin Feb 2025 @soumithchintala was talking about his dream of personal, local, private agents, most people didn't believe him.\n\nit's June 2026 and @pewdiepie has just released his vibecoded @opencode wrapper that is a complete personal AI productivity suite including email, docs, and calendar. top of HN, easily >1m views, >10k stars in a day.\n\nif your Knowledge Work Agents startup can't beat pewdiepie you might as well pack up and go home at this point, his is the benchmark for what you can DIY.",
+      "translatedTitle": "稍微拉远镜头看看氛围的转变：2025年2月，@soumithchintala 正在谈论……",
+      "translatedBody": "稍微拉远一下舆论风向的转变：\n\n2025 年 2 月，@soumithchintala 还在畅想他打造个人化、本地化、私人代理的梦想，当时大多数人都不相信。\n\n到了 2026 年 6 月，@pewdiepie 发布了他基于 @opencode 开发的、经过精心设计的 Vibecoded 封装程序，这是一个完整的个人 AI 生产力套件，包含邮件、文档和日历等功能。该程序迅速登上 Hacker News 榜首，轻松突破 100 万次观看，一天之内获得超过 1 万个星标。\n\n如果你的“知识型代理”创业项目都无法超越 PewDiePie，那你现在最好还是收拾东西回家吧，他的产品已经树立了 DIY 的标杆。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2061256096719970337",
+      "publishedAt": "2026-06-01T01:18:44.000Z",
+      "score": 177.3,
+      "engagement": {
+        "likes": 137,
+        "retweets": 5,
+        "replies": 27
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2061206120233054327",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "所有评估/分析初创公司都在经历一次性的代际升级……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：every evals/analytics startup is going through a onetime generational upgrade into a continual learning platform in 2…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "every evals/analytics startup is going through a onetime generational upgrade into…",
+      "originalBody": "every evals/analytics startup is going through a onetime generational upgrade into a continual learning platform in 2026\n\nmany will fail but as always the tasteful ones win",
+      "translatedTitle": "所有评估/分析初创公司都在经历一次性的代际升级……",
+      "translatedBody": "所有评估/分析初创公司都将在2026年经历一次性的代际升级，转型为持续学习平台。\n\n许多公司将会失败，但一如既往，有远见的公司最终会胜出。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2061206120233054327",
+      "publishedAt": "2026-05-31T22:00:09.000Z",
+      "score": 155.28,
+      "engagement": {
+        "likes": 245,
+        "retweets": 8,
+        "replies": 48
       },
       "matchedFocusAreas": [
         "Foundation Models"
@@ -50,168 +134,119 @@
       "sourceType": "x"
     },
     {
-      "id": "2060678430031597696",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "使用 GPT 5.5、/goal、autoreview 和 crabbox 后，我的提示时间从大约 30-60 分钟缩短到通常……",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：With GPT 5.5, /goal, autoreview and crabbox my prompts moved from ~30-60min to often 4-10h tasks and my confidence th…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "With GPT 5.5, /goal, autoreview and crabbox my prompts moved from ~30-60min to ofte…",
-      "originalBody": "With GPT 5.5, /goal, autoreview and crabbox my prompts moved from ~30-60min to often 4-10h tasks and my confidence that it’s ready is much much higher.\n\nYielding agents is a skill.",
-      "translatedTitle": "使用 GPT 5.5、/goal、autoreview 和 crabbox 后，我的提示时间从大约 30-60 分钟缩短到通常……",
-      "translatedBody": "借助 GPT 5.5、/goal、自动审核和 Crabbox，我的任务时长从大约 30-60 分钟缩短到通常 4-10 小时，我对任务完成度的信心也大大提升。\n\n让智能体获得足够的任务完成时间是一项技能。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2060678430031597696",
-      "publishedAt": "2026-05-30T11:03:17.000Z",
-      "score": 67.27,
-      "engagement": {
-        "likes": 2905,
-        "retweets": 103,
-        "replies": 145
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2060672154727825718",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "我经常对法典这样做。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I do this with codex all the time. Ask it to review code for bugs and it will tell you all good, tell it there is a b…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I do this with codex all the time.",
-      "originalBody": "I do this with codex all the time. Ask it to review code for bugs and it will tell you all good, tell it there is a bug and it will LOOP AND LOOP and will find issues. https://t.co/SOAa7Z1H4I",
-      "translatedTitle": "我经常对法典这样做。",
-      "translatedBody": "我经常用 Codex 做这种测试。让它检查代码中的 bug，它会告诉你一切正常；告诉它有 bug，它就会一直循环测试，直到找到问题为止。https://t.co/SOAa7Z1H4I",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2060672154727825718",
-      "publishedAt": "2026-05-30T10:38:21.000Z",
-      "score": 66.94,
-      "engagement": {
-        "likes": 2698,
-        "retweets": 131,
-        "replies": 112
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2060644549408739621",
-      "type": "tweet",
-      "builder": "Aditya Agarwal",
-      "title": "我在印度遇到的大多数人都有一个孩子。",
-      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Most people I talk to in India have 1 child. Some have 2. When I tell them I have three, their first reaction is tota…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Most people I talk to in India have 1 child.",
-      "originalBody": "Most people I talk to in India have 1 child. Some have 2.\n\nWhen I tell them I have three, their first reaction is total surprise followed by \"well, accidents happen\".\n\nThe main reason for one? Raising kids is just really hard, especially for nuclear families in cities.",
-      "translatedTitle": "我在印度遇到的大多数人都有一个孩子。",
-      "translatedBody": "我在印度遇到的大多数人只有一个孩子，有些人有两个。\n\n当我告诉他们我有三个孩子时，他们的第一反应是完全惊讶，然后是“嗯，意外总是难免的”。\n\n主要原因是什么呢？养育孩子真的非常辛苦，尤其对于城市里的核心家庭来说。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/adityaag/status/2060644549408739621",
-      "publishedAt": "2026-05-30T08:48:40.000Z",
-      "score": 53.83,
-      "engagement": {
-        "likes": 217,
-        "retweets": 3,
-        "replies": 19
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2060930599565811774",
+      "id": "2061175114184736792",
       "type": "tweet",
       "builder": "Peter Yang",
-      "title": "基本上，终极教育应用就是你在玩最终幻想之类的游戏……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Basically the ultimate education app is you're playing Final Fantasy or something and you're learning math and CS at…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Basically the ultimate education app is you're playing Final Fantasy or something a…",
-      "originalBody": "Basically the ultimate education app is you're playing Final Fantasy or something and you're learning math and CS at the same time",
-      "translatedTitle": "基本上，终极教育应用就是你在玩最终幻想之类的游戏……",
-      "translatedBody": "基本上，终极教育应用就是让你一边玩最终幻想之类的游戏，一边学习数学和计算机科学。",
+      "title": "你们都不明白。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：You all just don't get it. If you want to win and I mean really win you have to: 1. Work 997 996 is for losers 2. Tok…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "You all just don't get it.",
+      "originalBody": "You all just don't get it. \n\nIf you want to win and I mean really win you have to:\n\n1. Work 997 \n996 is for losers\n\n2. Tokenmax \nIf you're not spending more on tokens than your company's entire human headcount budget, are you even AI native?\n\n3. Sleep in the office\nThink about how many more agents you can spin up with that $4,000 monthly SF rent.\n\n4. Be on Forbes 30 under 30\nIf you're over 30 and didn't make this list, I hate to say it but it's over for you.\n\n5. Try not to end up in jail\nMight be hard if you do 4.",
+      "translatedTitle": "你们都不明白。",
+      "translatedBody": "你们根本不懂。\n\n如果你想赢，我是说真正地赢，你必须做到以下几点：\n\n1. 工作997天\n\n996天是失败者的工作时间\n\n2. 代币最大化\n\n如果你在代币上的花费没有超过公司全部人力预算，你还算得上是人工智能专家吗？\n\n3. 睡在办公室\n\n想想看，每月4000美元的旧金山房租能让你多招多少个代理。\n\n4. 登上福布斯30岁以下精英榜\n\n如果你超过30岁却没上榜，很遗憾，你的时代结束了。\n\n5. 尽量别进监狱\n\n如果你做到了第4点，那可能就很难了。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2060930599565811774",
-      "publishedAt": "2026-05-31T03:45:19.000Z",
-      "score": 42.55,
+      "sourceUrl": "https://x.com/petergyang/status/2061175114184736792",
+      "publishedAt": "2026-05-31T19:56:56.000Z",
+      "score": 70.64,
       "engagement": {
-        "likes": 19,
-        "retweets": 0,
-        "replies": 6
+        "likes": 37,
+        "retweets": 2,
+        "replies": 7
       },
       "matchedFocusAreas": [
+        "Coding Agents",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2060766674203353190",
+      "id": "2061174413513678941",
       "type": "tweet",
-      "builder": "Ryo Lu",
-      "title": "我喜欢自动复习的一点是：光标会解释命令和风险，这让复习变得更加……",
-      "summary": "Ryo Lu 的最新观点聚焦在可执行的一线经验：what i love about auto-review: Cursor explains the command and risk, makes it much easier for new coders to learn and…",
-      "whyItMatters": "Ryo Lu 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "what i love about auto-review: Cursor explains the command and risk, makes it much…",
-      "originalBody": "what i love about auto-review: Cursor explains the command and risk, makes it much easier for new coders to learn and just do things https://t.co/3d2gt9uRKq",
-      "translatedTitle": "我喜欢自动复习的一点是：光标会解释命令和风险，这让复习变得更加……",
-      "translatedBody": "我喜欢自动审查的一点是：光标会解释命令和风险，这让新手程序员更容易学习和上手。https://t.co/3d2gt9uRKq",
+      "builder": "Garry Tan",
+      "title": "你应该想要掌控并管理自己的记忆。这是你唯一应该……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：You should want to control and host your own memory It’s the one thing that you should be able to take to any platfor…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "You should want to control and host your own memory It’s the one thing that you sho…",
+      "originalBody": "You should want to control and host your own memory\n\nIt’s the one thing that you should be able to take to any platform\n\nWatch for this to be a defining battle in the new browser war: the AI harness wars of 2027 https://t.co/yb8IPzuc09",
+      "translatedTitle": "你应该想要掌控并管理自己的记忆。这是你唯一应该……",
+      "translatedBody": "你应该想要掌控并托管自己的内存。\n\n这是你应该能够随心所欲地在任何平台上使用的东西。\n\n密切关注，这将成为新一轮浏览器大战的关键战役：2027 年人工智能应用之战 https://t.co/yb8IPzuc09",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/ryolu_/status/2060766674203353190",
-      "publishedAt": "2026-05-30T16:53:56.000Z",
-      "score": 28.91,
+      "sourceUrl": "https://x.com/garrytan/status/2061174413513678941",
+      "publishedAt": "2026-05-31T19:54:09.000Z",
+      "score": 64.16,
       "engagement": {
-        "likes": 222,
-        "retweets": 7,
-        "replies": 13
+        "likes": 1423,
+        "retweets": 122,
+        "replies": 110
       },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
       "sourceType": "x"
     },
     {
-      "id": "2060923684295221390",
+      "id": "2061208638027395490",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "或许这与直觉相悖，但在我与首席信息官们的大多数对话中……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验：Again, maybe counterintuitive, but in the majority of conversations I have with CIOs, CTOs, and CEOs in large enterpr…",
-      "whyItMatters": "Aaron Levie 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Again, maybe counterintuitive, but in the majority of conversations I have with CIO…",
-      "originalBody": "Again, maybe counterintuitive, but in the majority of conversations I have with CIOs, CTOs, and CEOs in large enterprises, they are either growing due to AI (in new job functions like FDEs, engineering, etc.) or at a minimum reinvesting efficiency savings back into the business in new areas (sales, marketing, etc.).\n\nDavid Solomon, CEO of Goldman Sachs, articulated this perfectly in a NYTimes OpEd last week. The AI boom is both creating all new jobs in the build out of AI systems and the implementation across sectors, but also freeing up dollars to invest in areas that have been underfunded or have more demand now because of AI. \n\nMost businesses have been constrained by how much software they can produce at a given cost, how many sales reps they can hire, how many marketing campaigns they can run, how they can do outbound customer success motions with enough tailoring, how they can find more risk in their business and prevent it, and 100s of other things. \n\nWhen AI makes it possible to do more of this, investment goes back into the business. The companies that better serve their customers win over the long run, and those that just try and find savings end up doing worse.",
-      "translatedTitle": "或许这与直觉相悖，但在我与首席信息官们的大多数对话中……",
-      "translatedBody": "或许这听起来有些反直觉，但在我与大型企业的首席信息官 (CIO)、首席技术官 (CTO) 和首席执行官 (CEO) 的大多数对话中，他们都表示，要么是因为人工智能 (AI) 而实现了增长（例如在功能开发工程师、工程师等新岗位上），要么至少将提高效率节省下来的成本重新投资到业务的新领域（例如销售、市场营销等）。\n\n高盛首席执行官大卫·所罗门上周在《纽约时报》的专栏文章中对此做了完美的阐述。人工智能的蓬勃发展不仅在人工智能系统的构建和各行业的实施方面创造了全新的就业机会，而且还释放了资金，用于投资那些过去资金不足或现在因人工智能而需求激增的领域。\n\n大多数企业都受到诸多限制，例如在既定成本下能够生产多少软件、能够雇佣多少销售代表、能够开展多少营销活动、如何开展足够个性化的客户成功推广活动、如何发现并规避业务风险等等。\n\n当人工智能使这些工作成为可能时，投资就会重新投入到企业中。那些更好地服务客户的公司最终会胜出，而那些只想着节省成本的公司最终会走下坡路。",
+      "builder": "Peter Steinberger",
+      "title": "我一直在教 Codex 做我的质量保证助手。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Been teaching codex to be my QA assistant. For every commit it creates a user-test scenario and uses webVNC (crabbox)…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Been teaching codex to be my QA assistant.",
+      "originalBody": "Been teaching codex to be my QA assistant. For every commit it creates a user-test scenario and uses webVNC (crabbox), computer/browser use (peekaboo/mcporter) to test OpenClaw like a user/QA person would.\n\nThis runs in the background and opens PRs with fixes. https://t.co/xGcKgjyf7F",
+      "translatedTitle": "我一直在教 Codex 做我的质量保证助手。",
+      "translatedBody": "我一直在教 Codex 做我的 QA 助手。每次提交代码后，它都会创建一个用户测试场景，并使用 WebVNC（Crabbox）、计算机/浏览器（Peekaboo/MCporter）来模拟用户/QA 人员的操作，从而测试 OpenClaw。\n\n它会在后台运行，并自动创建包含修复的 PR。https://t.co/xGcKgjyf7F",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2060923684295221390",
-      "publishedAt": "2026-05-31T03:17:51.000Z",
-      "score": 28.35,
+      "sourceUrl": "https://x.com/steipete/status/2061208638027395490",
+      "publishedAt": "2026-05-31T22:10:09.000Z",
+      "score": 61.93,
       "engagement": {
-        "likes": 154,
-        "retweets": 19,
-        "replies": 25
+        "likes": 1008,
+        "retweets": 59,
+        "replies": 46
       },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2061247380897579500",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "这实际上是企业人工智能代理面临的首要问题。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：This is effectively the #1 problem for AI agents in the enterprise. As we go from agentic coding (where a large amoun…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "This is effectively the #1 problem for AI agents in the enterprise.",
+      "originalBody": "This is effectively the #1 problem for AI agents in the enterprise. \n\nAs we go from agentic coding (where a large amount of context is in the code base, and users are technical enough to get the rest to the agent easily) to a world of knowledge work agents, the context problem becomes much more acute.\n\nWe see this every day with customers at Box. For existing digital knowledge, it’s often fragmented across legacy systems or environments that don’t play nice with agents, and have access controls that don’t map to the real work that needs to be done, which become a huge hurdle for getting agents the context they need. This has to all get moved to modern, secure cloud environments.\n\nBut also, companies often haven’t captured and digitized some of the critical context that agents need to work with. Decisions, processes, and workflows often live in people’s heads and tribal knowledge that need to get turned into unstructured data for agents.\n\nThis is actually one of the biggest points of leverage for applied AI companies, because they can work to specialize in getting agents exactly the information and domain expertise they need. But it’s also one of the reasons why FDEs and new system integrator plays will also work so well right now. \n\nThe companies that figure this out will be able to get the most out of AI going forward.",
+      "translatedTitle": "这实际上是企业人工智能代理面临的首要问题。",
+      "translatedBody": "这实际上是企业人工智能代理面临的首要问题。\n\n随着我们从代理编码（大量上下文信息存在于代码库中，用户具备足够的技术能力轻松地将剩余信息传递给代理）过渡到知识型工作代理的世界，上下文问题变得更加严峻。\n\n我们在 Box 的客户身上每天都能看到这种情况。现有的数字知识通常分散在与代理不兼容的遗留系统或环境中，其访问控制与实际需要完成的工作不符，这成为代理获取所需上下文信息的巨大障碍。所有这些都必须迁移到现代、安全的云环境中。\n\n此外，企业通常尚未捕获和数字化代理所需的一些关键上下文信息。决策、流程和工作流通常存在于人们的头脑和经验知识中，需要将其转化为代理可以使用的非结构化数据。\n\n这实际上是应用型人工智能公司最大的优势之一，因为它们可以专注于为智能体提供所需的信息和领域专业知识。这也是功能性开发实体（FDE）和新型系统集成商模式目前如此成功的原因之一。\n\n能够掌握这一点的公司将在未来最大限度地发挥人工智能的优势。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2061247380897579500",
+      "publishedAt": "2026-06-01T00:44:06.000Z",
+      "score": 59.03,
+      "engagement": {
+        "likes": 479,
+        "retweets": 54,
+        "replies": 65
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-05-31T07:34:55.496Z",
-    "totalCandidates": 22,
-    "textQualifiedCandidates": 7,
-    "selectedTweets": 7
+    "upstreamGeneratedAt": "2026-06-01T08:12:54.071Z",
+    "totalCandidates": 23,
+    "textQualifiedCandidates": 15,
+    "selectedTweets": 8
   }
 }
