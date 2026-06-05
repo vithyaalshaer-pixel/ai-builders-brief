@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-04",
-  "generatedAt": "2026-06-04T04:37:57.654Z",
+  "date": "2026-06-05",
+  "generatedAt": "2026-06-05T04:11:27.122Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-06-04",
-  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 38 条候选动态里，筛出 20 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-06-05",
+  "summary": "今天最值得看的是 Josh Woodward 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 38 条候选动态里，筛出 17 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,26 +23,132 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2061829558999912680",
+      "id": "2062217728824651848",
+      "type": "tweet",
+      "builder": "Josh Woodward",
+      "title": "简单介绍一下背景：谷歌实验室的一个小型团队萌生了开发一款应用的想法……",
+      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：A short backstory on this one: A small Google Labs team had an idea to make an app designed to connect you with what…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "A short backstory on this one: A small Google Labs team had an idea to make an app…",
+      "originalBody": "A short backstory on this one:\n\nA small Google Labs team had an idea to make an app designed to connect you with what matters, without the endless scroll. \"Hope scrolling, not doom scrolling\" was the hallway pitch. \"Go for it.\"\n\nAnd today, that little experiment is rolling out. \n\nMeet Dreambeans, a daily dose of inspiration, brewed fresh for you. We're excited to see what you think!",
+      "translatedTitle": "简单介绍一下背景：谷歌实验室的一个小型团队萌生了开发一款应用的想法……",
+      "translatedBody": "简单介绍一下它的由来：\n\n谷歌实验室的一个小型团队萌生了一个想法，开发一款应用，旨在让你摆脱无休止的滚动，专注于真正重要的事。“希望滚动，而非厄运滚动”——这就是他们在走廊里提出的口号。“那就去做吧！”\n\n今天，这个小小的实验正式上线了。\n\n隆重推出 Dreambeans，每日为你奉上新鲜灵感。我们期待你的反馈！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/joshwoodward/status/2062217728824651848",
+      "publishedAt": "2026-06-03T16:59:55.000Z",
+      "score": 158.7,
+      "engagement": {
+        "likes": 501,
+        "retweets": 49,
+        "replies": 29
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2062199585322529108",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "▲ + ❄️ 基于业务数据生成前端是杀手级应用之一……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：▲ + ❄️ Generating frontends on top of your business data is one of the killer apps of coding AI. The genie is out of…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "▲ + ❄️ Generating frontends on top of your business data is one of the killer apps…",
+      "originalBody": "▲ + ❄️ \n\nGenerating frontends on top of your business data is one of the killer apps of coding AI. \n\nThe genie is out of the bottle. Never going back to clunky and rigid dashboards.\n\n@vercel already ran on Snowflake. But with @v0 and @nextjs, we’re now getting 1000x the value. https://t.co/INVGZ3CgsW",
+      "translatedTitle": "▲ + ❄️ 基于业务数据生成前端是杀手级应用之一……",
+      "translatedBody": "▲ + ❄️\n\n基于业务数据生成前端是人工智能编码的杀手级应用之一。\n\n这股力量已经释放。再也不用回到笨重僵化的仪表盘时代了。\n\n@vercel 之前已经运行在 Snowflake 上。但有了 @v0 和 @nextjs，我们现在获得了 1000 倍的价值。https://t.co/INVGZ3CgsW",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2062199585322529108",
+      "publishedAt": "2026-06-03T15:47:49.000Z",
+      "score": 155.22,
+      "engagement": {
+        "likes": 268,
+        "retweets": 11,
+        "replies": 26
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2062220049146876347",
       "type": "tweet",
       "builder": "Claude",
-      "title": "法律解释是世界上最古老的职业之一。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Interpreting law is one of the oldest jobs in the world. @MaxJunestrand, co-founder and CEO of @WeAreLegora, is bring…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Interpreting law is one of the oldest jobs in the world.",
-      "originalBody": "Interpreting law is one of the oldest jobs in the world. @MaxJunestrand, co-founder and CEO of @WeAreLegora, is bringing it into its next era with Claude.\n\nHis bet: every new model release raises the tide, and Legora is building the boats for everyone else. https://t.co/EOM8PqALT4",
-      "translatedTitle": "法律解释是世界上最古老的职业之一。",
-      "translatedBody": "法律诠释是世界上最古老的职业之一。@WeAreLegora 的联合创始人兼首席执行官 @MaxJunestrand 正携手 Claude，引领法律诠释迈入新时代。\n\n他坚信：每一款新车型的发布都会带来变革，而 Legora 正是为所有人打造这艘船。https://t.co/EOM8PqALT4",
+      "title": "本在长时间使用 Claude Code 编程时总是分心，所以他搭建了一个微缩模型……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Ben kept getting distracted during long Claude Code sessions, so he built a miniature Clawd to get his attention. Whe…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Ben kept getting distracted during long Claude Code sessions, so he built a miniatu…",
+      "originalBody": "Ben kept getting distracted during long Claude Code sessions, so he built a miniature Clawd to get his attention. When \nClaude Code needs input, a solenoid inside the aluminum body pushes it upward. In other words, it jumps up and down. https://t.co/hugzPTTnSw",
+      "translatedTitle": "本在长时间使用 Claude Code 编程时总是分心，所以他搭建了一个微缩模型……",
+      "translatedBody": "本在长时间玩 Claude Code 时总是容易分心，所以他做了一个迷你版的 Clawd 来集中注意力。当 Claude Code 需要输入时，铝制外壳内的电磁阀会向上推动它。换句话说，它会上下跳动。https://t.co/hugzPTTnSw",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2061829558999912680",
-      "publishedAt": "2026-06-02T15:17:28.000Z",
-      "score": 216.63,
+      "sourceUrl": "https://x.com/claudeai/status/2062220049146876347",
+      "publishedAt": "2026-06-03T17:09:08.000Z",
+      "score": 149.95,
       "engagement": {
-        "likes": 2361,
-        "retweets": 177,
-        "replies": 153
+        "likes": 95,
+        "retweets": 6,
+        "replies": 8
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2062220045984346276",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "为了制造打字机终端，他截获了键盘信号并重新路由……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：To build the typewriter terminal, he intercepted the keyboard signals and re-routed them to an Arduino. In the back,…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "To build the typewriter terminal, he intercepted the keyboard signals and re-routed…",
+      "originalBody": "To build the typewriter terminal, he intercepted the keyboard signals and re-routed them to an Arduino. In the back, a Raspberry Pi Zero acts as the ‘brains.’ https://t.co/o0Jxu4vpM7",
+      "translatedTitle": "为了制造打字机终端，他截获了键盘信号并重新路由……",
+      "translatedBody": "为了搭建这个打字机终端，他截获了键盘信号并将其重新路由到 Arduino。在后台，一块 Raspberry Pi Zero 充当“大脑”。https://t.co/o0Jxu4vpM7",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2062220045984346276",
+      "publishedAt": "2026-06-03T17:09:07.000Z",
+      "score": 125.51,
+      "engagement": {
+        "likes": 112,
+        "retweets": 8,
+        "replies": 3
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2062202908306030915",
+      "type": "tweet",
+      "builder": "Dan Shipper",
+      "title": "我在SaaS末日恐慌期间买入了Figma的股票。",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：I bought Figma stock during the SaaSpocalypse panic. Talking to @mcolyer, Figma's director of product management for…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "I bought Figma stock during the SaaSpocalypse panic.",
+      "originalBody": "I bought Figma stock during the SaaSpocalypse panic. Talking to @mcolyer, Figma's director of product management for developers, made me wish I'd bought more.\n\nHe joined me on @every's AI & I to make the case for a SaaS resurgence—and to explain why chat-based tools are the wrong interface for design. We get into:\n\n- Why running your own agents makes you more willing to pay for SaaS, not less\n- How Figma's MCP server allows you to approach design work from two directions: Take a live web page and reconstruct it on the Figma canvas, or hand a Figma design over to an agent so it can makes changes via pull request\n- The inherent limits of chat-based design, a format that isn’t equipped to generate lots of new ideas\n-Why review is the next bottleneck, and potential solutions for helping teams scale evaluations\n\nWatch below!\n\nTimestamps\n0:01:03 - Introduction\n0:02:15 - The SaaSpocalypse narrative has it backwards\n0:05:27 - Matt’s email-agent origin story\n0:13:21 - Divergent vs. convergent design thinking\n0:17:39 - Figma’s MCP server\n0:19:45 - Why design agents need personalization\n0:22:09 - Every problem is a context problem\n0:25:12 - Apple and Google as the reigning kings of context\n0:28:18 - Why review is the new bottleneck",
+      "translatedTitle": "我在SaaS末日恐慌期间买入了Figma的股票。",
+      "translatedBody": "我在 SaaS 末日恐慌期间买入了 Figma 的股票。与 Figma 面向开发者的产品管理总监 @mcolyer 交流后，我后悔当初没多买一些。\n\n他做客 @every 的 AI & I 节目，和我一起探讨了 SaaS 复兴的必要性，并解释了为什么基于聊天的工具并不适合设计。我们讨论了以下内容：\n\n- 为什么自建代理会让你更愿意为 SaaS 付费，而不是更不愿意\n\n- Figma 的 MCP 服务器如何让你从两个方向开展设计工作：你可以直接在 Figma 画布上重建一个网页，或者将 Figma 设计交给代理，让他们通过 pull request 进行修改\n\n- 基于聊天的设计固有的局限性，这种形式无法产生大量新想法\n\n- 为什么评审会成为下一个瓶颈，以及如何帮助团队扩展评审规模\n\n请观看下方视频！\n\n时间戳\n\n0:01:03 - 引言\n\n0:02:15 - SaaS末日论调本末倒置\n\n0:05:27 - Matt的邮件代理起源故事\n\n0:13:21 - 发散型设计思维与收敛型设计思维\n\n0:17:39 - Figma的MCP服务器\n\n0:19:45 - 为什么设计代理需要个性化\n\n0:22:09 - 每个问题都是一个情境问题\n\n0:25:12 - 苹果和谷歌是情境控制领域的王者\n\n0:28:18 - 为什么评审是新的瓶颈",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/danshipper/status/2062202908306030915",
+      "publishedAt": "2026-06-03T16:01:01.000Z",
+      "score": 98.09,
+      "engagement": {
+        "likes": 52,
+        "retweets": 5,
+        "replies": 14
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -52,198 +158,93 @@
       "sourceType": "x"
     },
     {
-      "id": "2061973280655904815",
+      "id": "2062276065448669627",
       "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "美国应该在人工智能领域发挥领导作用，继续开发最好的模型，确保……",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：theUSshould lead on AI by continuing to develop the very best models, making sure they're safe, and getting cyber too…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "theUSshould lead on AI by continuing to develop the very best models, making sure t…",
-      "originalBody": "theUSshould lead on AI by continuing to develop the very best models, making sure they're safe, and getting cyber tools into the hands of trusted defenders.\n\nthe new EO gets the balance right.",
-      "translatedTitle": "美国应该在人工智能领域发挥领导作用，继续开发最好的模型，确保……",
-      "translatedBody": "美国应该在人工智能领域发挥领导作用，继续开发最优秀的模型，确保其安全性，并将网络工具交付给值得信赖的防御者。\n\n新的行政命令做到了恰当的平衡。",
+      "builder": "Peter Steinberger",
+      "title": "本周@openclaw上的npm下载量创历史新高——这主要得益于Docker的推出……",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：We never had more npm downloads than this week on @openclaw - comined with Docker, GitHub, company-internal deploymen…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "We never had more npm downloads than this week on @openclaw - comined with Docker,…",
+      "originalBody": "We never had more npm downloads than this week on @openclaw - comined with Docker, GitHub, company-internal deployments and the numerous forks, real number is more in the 10-20 million downloads/week. https://t.co/ie8bXfD2ES",
+      "translatedTitle": "本周@openclaw上的npm下载量创历史新高——这主要得益于Docker的推出……",
+      "translatedBody": "本周@openclaw上的npm下载量创历史新高——加上Docker、GitHub、公司内部部署以及众多fork，实际下载量可能高达每周1000万到2000万次。https://t.co/ie8bXfD2ES",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2061973280655904815",
-      "publishedAt": "2026-06-03T00:48:34.000Z",
-      "score": 165.84,
+      "sourceUrl": "https://x.com/steipete/status/2062276065448669627",
+      "publishedAt": "2026-06-03T20:51:43.000Z",
+      "score": 84.42,
       "engagement": {
-        "likes": 1740,
-        "retweets": 108,
-        "replies": 384
+        "likes": 602,
+        "retweets": 29,
+        "replies": 52
       },
       "matchedFocusAreas": [
-        "Foundation Models"
+        "Coding Agents",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2061934154732974376",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "YES-CODE 整个软件类别——“无代码”——都是在这样的假设下构建的……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：YES-CODE An entire category of software, \"no-code\", was built under the presumption that code is expensive, difficult…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "YES-CODE An entire category of software, \"no-code\", was built under the presumption…",
-      "originalBody": "YES-CODE\n\nAn entire category of software, \"no-code\", was built under the presumption that code is expensive, difficult, and scarce.\n\nCoding agents have forever changed the equation. Code is now cheap, easy, and abundant.\n\nI remember @cramforce being asked by an analyst long ago: \"soo, is @vercel like a no-code platform?\" Without hesitation he goes \"no, it's the absolute opposite. It's a yes-code platform.\" 😁\n\nA key thing we set out to do was to be uncompromising in quality and sophistication of the things you could host. No-code solutions took shortcuts and set hard ceilings, typically on performance and sophistication.\n\nOur mission is to create the easiest cloud for agents that you never graduate from.\n\nPS: welcome https://t.co/WTKvpexJtD to Vercel!",
-      "translatedTitle": "YES-CODE 整个软件类别——“无代码”——都是在这样的假设下构建的……",
-      "translatedBody": "是代码\n\n“无代码”软件这一类别的诞生，源于人们普遍认为代码成本高昂、编写难度大且资源稀缺。\n\n然而，智能体编码的出现彻底改变了这一局面。如今，代码变得廉价、易用且资源丰富。\n\n我记得很久以前，一位分析师曾问过 @cramforce：“那么，@vercel 算不算一个无代码平台？” 他毫不犹豫地回答：“不，恰恰相反。它是一个是代码平台。” 😁\n\n我们始终坚持一个关键原则：在可托管内容的质量和复杂性方面绝不妥协。无代码解决方案往往走捷径，并设定了严格的上限，尤其是在性能和复杂性方面。\n\n我们的使命是打造一个最便捷的智能体云平台，让您永不“毕业”。\n\n附：欢迎 https://t.co/WTKvpexJtD 加入 Vercel！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2061934154732974376",
-      "publishedAt": "2026-06-02T22:13:06.000Z",
-      "score": 158.05,
-      "engagement": {
-        "likes": 462,
-        "retweets": 20,
-        "replies": 43
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2061809689973944724",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "Conductor 的独特优势在于它是一款专为编码代理而生的 IDE。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Conductor has the distinct edge of being an IDE born for coding agents. An ADE if you will. Agents will take remote d…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Conductor has the distinct edge of being an IDE born for coding agents.",
-      "originalBody": "Conductor has the distinct edge of being an IDE born for coding agents. An ADE if you will.\n\nAgents will take remote dev mainstream. At most large and sensitive organizations, “local” isn’t a thing. But this future wasn’t evenly distributed.\n\nExcited to power their Sandbox! https://t.co/CdNkKGlNcD https://t.co/EcGjsS6tBN",
-      "translatedTitle": "Conductor 的独特优势在于它是一款专为编码代理而生的 IDE。",
-      "translatedBody": "Conductor 的独特优势在于它是一款专为编码代理而生的 IDE，或者说是一款 ADE（增强型开发环境）。\n\n代理将使远程开发成为主流。在大多数大型且高度敏感的组织中，“本地”的概念并不存在。但这种未来并非人人都能享有。\n\n很高兴能为他们的沙盒提供支持！https://t.co/CdNkKGlNcD https://t.co/EcGjsS6tBN",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2061809689973944724",
-      "publishedAt": "2026-06-02T13:58:31.000Z",
-      "score": 157.58,
-      "engagement": {
-        "likes": 417,
-        "retweets": 15,
-        "replies": 47
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2061828631089844709",
-      "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "在艰难的日子里，我最常听到的一句励志名言是：“无论你手能找到什么……”",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：one of the quotes i find most inspiring on a hard day: \"Whatever your hand finds to do, do it with all your might, fo…",
-      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "one of the quotes i find most inspiring on a hard day: \"Whatever your hand finds to…",
-      "originalBody": "one of the quotes i find most inspiring on a hard day:\n\n\"Whatever your hand finds to do, do it with all your might, for in the realm of the dead, where you are going, there is neither working nor planning nor knowledge nor wisdom\"\n\nEcclesiastes 9:10",
-      "translatedTitle": "在艰难的日子里，我最常听到的一句励志名言是：“无论你手能找到什么……”",
-      "translatedBody": "在艰难的日子里，我常常想起一句激励人心的名言：\n\n“凡你手所当做的，要尽力去做；因为在你所要去的阴间，既无工作，也无谋算，既无知识，也无智慧。”\n\n传道书 9:10",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2061828631089844709",
-      "publishedAt": "2026-06-02T15:13:47.000Z",
-      "score": 152.17,
-      "engagement": {
-        "likes": 16278,
-        "retweets": 2179,
-        "replies": 1085
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2061862134469062850",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "这就是人工智能时代的教育现状。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：This is what education in the age of AI looks like. Start with the language: the linguistic surface is your roadmap.…",
-      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "This is what education in the age of AI looks like.",
-      "originalBody": "This is what education in the age of AI looks like. Start with the language: the linguistic surface is your roadmap. Much like an SDK has a set of function definitions, human language is the new API to the world.\n\nIt also always has been… there's never been an expert in any field without mastery over its language. The distinction is that English alone could not produce tangible things. You had to translate it into machine instruction, through learning or delegation to others. You can now go direct.",
-      "translatedTitle": "这就是人工智能时代的教育现状。",
-      "translatedBody": "这就是人工智能时代的教育图景。从语言入手：语言的表层就是你的路线图。就像软件开发工具包（SDK）拥有一系列函数定义一样，人类语言是通往世界的全新API。\n\n其实一直如此……任何领域的专家都离不开对自身语言的精通。区别在于，过去单凭英语无法创造任何有形的事物。你必须通过学习或委托他人，将其转化为机器指令。而现在，你可以直接运用语言了。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2061862134469062850",
-      "publishedAt": "2026-06-02T17:26:55.000Z",
-      "score": 135.32,
-      "engagement": {
-        "likes": 765,
-        "retweets": 33,
-        "replies": 30
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2061974298760495132",
+      "id": "2062335852379066698",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "随着代币预算在运营支出中占比逐渐增大，模型路由……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：As token budgets take on a larger part of operating expenses over time, model routing is the inevitable conclusion. T…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "As token budgets take on a larger part of operating expenses over time, model routi…",
-      "originalBody": "As token budgets take on a larger part of operating expenses over time, model routing is the inevitable conclusion. This is also one of the biggest areas of differentiation for the applied AI layer over time. \n\nBy understanding the different work patterns in your domain, and having strong evals for that domain, you’ll be able to cost/performance optimize effectively.\n\nWe’re still likely at the point where most use-cases will need frontier performance for the foreseeable future; but soon you will be able to peel off individual use-cases and send them to lower cost models once the quality is sufficient for the task.\n\nEnterprises individually trying to figure this out themselves at scale will likely not be possible, so the products that can intelligently route these workflows to the right tier of model will be in a strong position to aggregate more demand.",
-      "translatedTitle": "随着代币预算在运营支出中占比逐渐增大，模型路由……",
-      "translatedBody": "随着代币预算在运营成本中占比的不断扩大，模型路由势在必行。这也将成为应用型人工智能层未来发展中最大的差异化优势之一。\n\n通过了解您所在领域的不同工作模式，并针对该领域进行强有力的评估，您将能够有效地优化成本效益。\n\n在可预见的未来，大多数用例可能仍然需要尖端性能；但很快，您就可以将各个用例分离出来，并在模型质量足以满足任务需求时，将其分配给成本更低的模型。\n\n企业自行大规模解决这个问题可能行不通，因此，能够智能地将这些工作流程路由到合适模型层级的产品将占据优势，从而吸引更多需求。",
+      "title": "不断公布的就业数据显示的情况与许多人的预期截然相反……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The jobs data coming out continues to suggest the opposite of what a lot of people had thought would happen. Just tak…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "The jobs data coming out continues to suggest the opposite of what a lot of people…",
+      "originalBody": "The jobs data coming out continues to suggest the opposite of what a lot of people had thought would happen. \n\nJust take engineering, as the prime example of the area with greatest AI impact (and perceived risk). Most companies now have far more software projects than ever before because of AI, and effectively only engineers are going to be the ones doing that work. \n\nYou can get by for a while by being non-technical building software, but eventually someone has to understand what the thing is that got built, has to maintain it, has to fix security issues that come up, upgrade the systems beneath it, and so on. That’s all jobs.\n\nNow apply that to a number of other job functions. AI is going to cause companies to hire more in sales because agents can let them process more leads and do more customer research. AI will cause an explosion of new marketing roles because of how much more efficient it is to launch campaigns and target. The list goes on.\n\nAI is going to have the opposite effect that lots of people thought on jobs.",
+      "translatedTitle": "不断公布的就业数据显示的情况与许多人的预期截然相反……",
+      "translatedBody": "不断涌现的就业数据显示，情况与许多人的预期截然相反。\n\n以工程领域为例，它是人工智能影响最大（也最具风险）的领域。由于人工智能的出现，大多数公司现在的软件项目数量远超以往，而实际上只有工程师才能胜任这些工作。\n\n你或许可以靠非技术背景勉强应付软件开发，但最终总得有人理解所开发的产品，维护它，修复出现的安全问题，升级底层系统等等。这些都是工作内容。\n\n现在，让我们把这个结论应用到其他许多工作职能上。人工智能将促使公司招聘更多销售人员，因为销售人员可以处理更多销售线索并进行更多客户调研。人工智能将催生大量新的营销岗位，因为它能显著提高营销活动的开展和目标定位效率。这样的例子不胜枚举。\n\n人工智能对就业的影响将与许多人的预期截然相反。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2061974298760495132",
-      "publishedAt": "2026-06-03T00:52:37.000Z",
-      "score": 106.45,
+      "sourceUrl": "https://x.com/levie/status/2062335852379066698",
+      "publishedAt": "2026-06-04T00:49:18.000Z",
+      "score": 82.7,
       "engagement": {
-        "likes": 299,
-        "retweets": 25,
-        "replies": 45
+        "likes": 358,
+        "retweets": 49,
+        "replies": 49
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2061876999564791952",
+      "id": "2062329981548802523",
       "type": "tweet",
       "builder": "Thibault Sottiaux",
-      "title": "大量实用工具可供日常工作使用。",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Tons of goodies for use of codex for day to day work. If you are on a business plan you can now host and share websit…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Tons of goodies for use of codex for day to day work.",
-      "originalBody": "Tons of goodies for use of codex for day to day work. \n\nIf you are on a business plan you can now host and share websites, we launched vastly improved plugins and skills for broad roles and you can give feedback to your agent through visual annotations in docs, slides, sheets and more.",
-      "translatedTitle": "大量实用工具可供日常工作使用。",
-      "translatedBody": "Codex 为日常工作提供了大量实用功能。\n\n如果您使用的是商业计划，现在可以托管和共享网站；我们推出了大幅改进的插件和技能，涵盖了广泛的角色；您还可以通过在文档、幻灯片、表格等中使用可视化注释，向您的代理提供反馈。",
+      "title": "你好。",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Hi. Over the last 24 hours we had three separate small incidents that affected Codex reliability. Those are three too…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Hi.",
+      "originalBody": "Hi. Over the last 24 hours we had three separate small incidents that affected Codex reliability. Those are three too many and we are taking active steps for them to not reproduce.\n\nI have reset usage limits for Codex across all paid plans. May the tokens flow again.",
+      "translatedTitle": "你好。",
+      "translatedBody": "您好。过去 24 小时内，Codex 的稳定性受到了三起小型事件的影响。这三起事件太多了，我们正在积极采取措施防止类似事件再次发生。\n\n我已经重置了所有付费套餐的 Codex 使用限制。希望代币能够再次正常流通。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2061876999564791952",
-      "publishedAt": "2026-06-02T18:25:59.000Z",
-      "score": 89.05,
+      "sourceUrl": "https://x.com/thsottiaux/status/2062329981548802523",
+      "publishedAt": "2026-06-04T00:25:58.000Z",
+      "score": 73.45,
       "engagement": {
-        "likes": 1416,
-        "retweets": 43,
-        "replies": 195
+        "likes": 8735,
+        "retweets": 449,
+        "replies": 849
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
+        "Coding Agents"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-06-03T08:03:30.181Z",
+    "upstreamGeneratedAt": "2026-06-04T07:55:53.311Z",
     "totalCandidates": 38,
-    "textQualifiedCandidates": 20,
+    "textQualifiedCandidates": 17,
     "selectedTweets": 8
   }
 }
