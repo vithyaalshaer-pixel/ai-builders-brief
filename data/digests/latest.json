@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-08",
-  "generatedAt": "2026-06-08T04:25:28.946Z",
+  "date": "2026-06-09",
+  "generatedAt": "2026-06-09T03:57:05.079Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-06-08",
-  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 17 条候选动态里，筛出 10 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-06-09",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 20 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,53 +23,51 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2063432747432268259",
+      "id": "2063714700618334260",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "一种流行的理论认为，研究论文 alpha* 和实验室出版在研究…时消亡了。",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：one popular theory is that research paper alpha* and lab publishing ~died when researchers realized that instead of f…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "one popular theory is that research paper alpha* and lab publishing ~died when rese…",
-      "originalBody": "one popular theory is that research paper alpha* and lab publishing ~died when researchers realized that instead of fighting with marketing depts they could simply walk out the door and get >$100m for their legally protected tacit knowledge gained\n\ncalifornia non-noncompetes have a bigger impact on knowledge spreading than github, arxiv, and huggingface combined\n\n*btw this is a motivator for me to set up @aidotengineer as a product-centric industry conference to complement the paper-centric research conferences",
-      "translatedTitle": "一种流行的理论认为，研究论文 alpha* 和实验室出版在研究…时消亡了。",
-      "translatedBody": "一种流行的理论认为，研究论文的发表平台（如 Alpha* 和实验室出版）之所以消亡，是因为研究人员意识到，与其与市场部门周旋，不如直接离开，就能凭借受法律保护的隐性知识获得超过 1 亿美元的收益。\n\n加州的竞业禁止协议对知识传播的影响甚至超过了 GitHub、arXiv 和 Hugging Face 的总和。\n\n*顺便一提，这也是我创办 @aidotengineer 的初衷之一，我想把它打造成一个以产品为中心的行业会议，与以论文为中心的学术会议形成互补。",
+      "builder": "Guillermo Rauch",
+      "title": "Vercel AI Gateway 平均每月回收超过 1 万亿个代币🤯 很像 Stripe 回收…",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Vercel AI Gateway recovers on average over 1T tokens a month 🤯 Much like Stripe recovers revenue with smart retries…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Vercel AI Gateway recovers on average over 1T tokens a month 🤯 Much like Stripe re…",
+      "originalBody": "Vercel AI Gateway recovers on average over 1T tokens a month 🤯 \n\nMuch like Stripe recovers revenue with smart retries on failed payments or credit card updates.\n\nAnd we do it with 0️⃣ zero markup over the labs; adding redundancy, zero-data retention enforcement, observability, usage APIs, caps, …\n\nhttps://t.co/OougSipbBX",
+      "translatedTitle": "Vercel AI Gateway 平均每月回收超过 1 万亿个代币🤯 很像 Stripe 回收…",
+      "translatedBody": "Vercel AI Gateway 平均每月可追回超过 1 万亿个代币 🤯\n\n就像 Stripe 通过智能重试失败的支付或信用卡信息更新来追回收入一样。\n\n而且我们实现这一切的方式是零加价，仅需在实验室环境中添加冗余机制、零数据保留、可观测性、使用 API、上限等功能……\n\nhttps://t.co/OougSipbBX",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2063432747432268259",
-      "publishedAt": "2026-06-07T01:27:58.000Z",
-      "score": 152.09,
+      "sourceUrl": "https://x.com/rauchg/status/2063714700618334260",
+      "publishedAt": "2026-06-07T20:08:21.000Z",
+      "score": 130.78,
       "engagement": {
-        "likes": 134,
-        "retweets": 5,
-        "replies": 24
+        "likes": 266,
+        "retweets": 26,
+        "replies": 32
       },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
+      "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2063342268472574268",
+      "id": "2063704354910347520",
       "type": "tweet",
       "builder": "Madhu Guru",
-      "title": "模型路由确实很难。",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Routing to models is genuinely hard. It means mapping each task to the right model - which requires benchmarking mode…",
+      "title": "人们普遍误解训练数据采集是低技能、繁琐的工作——扫描一些……",
+      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：A common misconception is that training data is low skill, grunt work - scan some notebooks, mine the internet, creat…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Routing to models is genuinely hard.",
-      "originalBody": "Routing to models is genuinely hard. It means mapping each task to the right model - which requires benchmarking models against your product's specific tasks and dialing in the quality/cost trade-off. \n\nAnd there is an opportunity in that difficulty.\n\nHere is the progression I saw with enterprises while on Gemini.\n\nPhase 1 (2024): Default to the \"it\" model. Everybody used GPT regardless of task, because it was the shiny new thing.\n\nPhase 2 (early 2025): Over-optimize. Teams over-corrected, looking for the smallest/cheapest model for their task, but did not have evals sophisticated enough to map tasks to models. They ended up burning cycles and shipping slower.\n\nPhase 3: Nuanced routing. The industry’s eval muscle and model diversity got to a point where the most sophisticated AI-native startups succeeded in breaking their product into sub-agents and routed each task to the right model - e.g. hardest reasoning to Claude, simplest to Gemini Flash-Lite or open-weight models.\n\nAnd like most product patterns, enterprises followed the AI-native builders 6-9 months later.",
-      "translatedTitle": "模型路由确实很难。",
-      "translatedBody": "将任务路由到合适的模型确实非常困难。这意味着要将每个任务映射到正确的模型——这需要根据产品的特定任务对模型进行基准测试，并权衡质量和成本。\n\n而这种困难中也蕴藏着机遇。\n\n以下是我在 Gemini 项目中观察到的企业发展历程：\n\n第一阶段（2024 年）：默认使用“热门”模型。由于 GPT 是当时最热门的新技术，所以无论任务是什么，大家都使用它。\n\n第二阶段（2025 年初）：过度优化。团队矫枉过正，一心想找到最小/最便宜的模型来完成任务，但却缺乏足够完善的评估方法来将任务映射到合适的模型。最终，他们浪费了大量资源，导致产品交付速度变慢。\n\n第三阶段：精细化路由。随着行业评估能力和模型多样性的提升，最先进的 AI 原生初创公司成功地将产品拆分成子代理，并将每个任务路由到合适的模型——例如，对克劳德来说，推理难度最高；对双子座闪光灯或轻量级模型来说，推理难度最低。\n\n而且，就像大多数产品模式一样，企业会在 6 到 9 个月后效仿那些采用人工智能技术的开发者。",
+      "originalTitle": "A common misconception is that training data is low skill, grunt work - scan some n…",
+      "originalBody": "A common misconception is that training data is low skill, grunt work - scan some notebooks, mine the internet, create labeled samples.\n\nThe data required to advance the model frontier is the opposite. Labs need training data for high-economic-value tasks. And most of these tasks outside of SWE have little documentation - it is complex, domain-specific knowledge built over the  years, spanning legacy tools that don’t talk to each other.\n\nThat's why we have SWE agents and not knowledge work agents yet.\n\nThe companies creating this training data, such as Mercor, are doing extremely high-leverage, high-skill work. \n\nCritical to moving AI forward. And deeply underappreciated.",
+      "translatedTitle": "人们普遍误解训练数据采集是低技能、繁琐的工作——扫描一些……",
+      "translatedBody": "人们普遍误解训练数据是低技能、繁琐的工作——扫描一些笔记本、挖掘互联网、创建带标签的样本。\n\n推动模型发展所需的数据恰恰相反。实验室需要训练数据来完成高经济价值的任务。而这些任务大多不在软件工程（SWE）的范畴内，缺乏文档记录——它们是多年来积累的复杂领域特定知识，涉及彼此不兼容的旧工具。\n\n这就是为什么我们目前只有软件工程智能体，而没有知识工作智能体的原因。\n\n创建这些训练数据的公司，例如 Mercor，正在进行高杠杆、高技能的工作。\n\n这对推动人工智能发展至关重要，但却被严重低估。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2063342268472574268",
-      "publishedAt": "2026-06-06T19:28:26.000Z",
-      "score": 94.42,
+      "sourceUrl": "https://x.com/realmadhuguru/status/2063704354910347520",
+      "publishedAt": "2026-06-07T19:27:14.000Z",
+      "score": 97.1,
       "engagement": {
-        "likes": 27,
-        "retweets": 3,
-        "replies": 5
+        "likes": 60,
+        "retweets": 2,
+        "replies": 3
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -79,26 +77,54 @@
       "sourceType": "x"
     },
     {
-      "id": "2063320673217609936",
+      "id": "2063792263067754658",
+      "type": "tweet",
+      "builder": "Boris Cherny",
+      "title": "多项基准测试表明，Opus 是长时间运行任务的最佳模型。",
+      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Seeing a number of benchmarks showing Opus is the best model for long-running work. Five tips for running Opus autono…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Seeing a number of benchmarks showing Opus is the best model for long-running work.",
+      "originalBody": "Seeing a number of benchmarks showing Opus is the best model for long-running work.\n\nFive tips for running Opus autonomously for hours/days:\n\n1. Use auto mode for permissions, so Claude doesn’t ask for approval\n2. Use dynamic workflows, to have Claude orchestrate hundreds/thousands of agents to get a task done\n3. Use /goal or /loop, to nudge Claude to keep going until it’s done\n4. Use Claude Code in the cloud, so you can close your laptop (easiest way is the desktop or mobile app)\n5. Make sure Claude has a way to self-verify its work end to end: Claude in Chrome browser extension for web, iOS/Android sim MCP for mobile, a way to start the full web server or service for backend work",
+      "translatedTitle": "多项基准测试表明，Opus 是长时间运行任务的最佳模型。",
+      "translatedBody": "多项基准测试表明，Opus 是长时间运行任务的最佳模型。\n\n以下五个技巧可帮助 Opus 自主运行数小时/数天：\n\n1. 使用权限自动模式，这样 Claude 就不会请求批准。\n\n2. 使用动态工作流，让 Claude 协调成百上千个代理来完成任务。\n\n3. 使用 `/goal` 或 `/loop` 命令，督促 Claude 持续运行直至任务完成。\n\n4. 使用云端 Claude Code，这样您就可以关掉笔记本电脑（最简单的方法是使用桌面或移动应用程序）。\n\n5. 确保 Claude 能够进行端到端的自我验证：网页端可以使用 Chrome 浏览器扩展程序，移动端可以使用 iOS/Android 模拟器 MCP，此外，还需要一种启动完整 Web 服务器或服务的方式来处理后端任务。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/bcherny/status/2063792263067754658",
+      "publishedAt": "2026-06-08T01:16:33.000Z",
+      "score": 90.64,
+      "engagement": {
+        "likes": 1865,
+        "retweets": 147,
+        "replies": 184
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2063835799096090749",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "代币成本正成为我所接触过的所有企业最热门的话题之一……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Token costs are becoming one of the hottest topics for any enterprise I talk with right now. It’s very bullish for AI…",
+      "title": "这里的数字可能有点极端，但毫无疑问，用例必须分层……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The numbers may be a bit extreme here, but unquestionably use-cases have to stratify in the next year or two between…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Token costs are becoming one of the hottest topics for any enterprise I talk with r…",
-      "originalBody": "Token costs are becoming one of the hottest topics for any enterprise I talk with right now. It’s very bullish for AI in general because it means these systems are being used at a scale that wasn’t contemplated before. \n\nIt also gives way to another form of differentiation that will emerge for the applied AI layer, which is model routing.\n\nAs tokens take on a significant amount of the cost of any given workflow, then companies will inevitably want to ensure that their dollars go into the most efficient use of tokens for the particular job at hand. \n\nFrontier intelligence will always be relevant at the high end of tasks, like coding, legal and financial analysis, healthcare, and more. And dollars spent here will only go up over time. But, equally, you can peel off individual tasks to lower cost models (whether they’re from open weights vendors or the major labs) and deliver a more efficient end outcome. \n\nTo do this effectively, the applied AI layer needs to understand the workflows in their domain better than anyone else, and be able to mix and match models to different jobs. If you’re doing document extraction, you need to know which models perform better or worse for any given document type. If you’re legal analysis, you want to know which models perform various types of tasks best. And so on.\n\nThis will become one of the bigger differentiation points over time. The companies with the best evals, the best ability to route the workloads, and those that have business models directly aligned to customers financial goals, will be in a great position.",
-      "translatedTitle": "代币成本正成为我所接触过的所有企业最热门的话题之一……",
-      "translatedBody": "目前，代币成本已成为我与所有企业交流时最热门的话题之一。这对人工智能整体而言是一个非常利好信号，因为它意味着这些系统的使用规模达到了前所未有的水平。\n\n这也为应用型人工智能层带来了另一种差异化形式——模型路由。\n\n由于代币承担了特定工作流程的大部分成本，企业必然会希望确保每一分钱都花在最有效的代币使用上，以完成特定的任务。\n\n前沿智能在高端任务领域始终具有重要意义，例如编码、法律和财务分析、医疗保健等等。而且，这方面的投入只会随着时间的推移而增加。但同样地，企业也可以将单个任务拆分到成本更低的模型（无论是来自开源供应商还是大型实验室）中，从而获得更高效的最终结果。\n\n为了有效地做到这一点，应用型人工智能层需要比任何人都更深入地了解其领域的工作流程，并能够将不同的模型组合起来以适应不同的任务。如果你从事文档提取工作，你需要了解哪些模型在特定文档类型上的表现更佳或更差。如果你进行法律分析，你需要了解哪些模型在执行各类任务方面表现最佳。以此类推。\n\n随着时间的推移，这将成为重要的差异化优势之一。那些拥有最佳评估能力、最佳工作负载分配能力以及业务模式与客户财务目标直接相关的公司，将占据有利地位。",
+      "originalTitle": "The numbers may be a bit extreme here, but unquestionably use-cases have to stratif…",
+      "originalBody": "The numbers may be a bit extreme here, but unquestionably use-cases have to stratify in the next year or two between model families.\n\nWe’ll see a split between frontier intelligence for high end tasks and work, and much cheaper models for high volume workloads that can sufficiently be peeled off to cheaper models. Frontier will still be far bigger than today because the use-cases will demand it, but the low-end will get quite a bit larger as well.\n\nThe big update here is that the layer that can efficiently route the workload to the right model will then become increasingly valuable since that becomes one of the new hard problems in AI agents. Agent orchestration that can cost optimize while still performing the task successfully will be in a strong position.",
+      "translatedTitle": "这里的数字可能有点极端，但毫无疑问，用例必须分层……",
+      "translatedBody": "这里的数字可能有些极端，但毫无疑问，未来一两年内，不同模型系列的应用场景将会分化。\n\n我们将看到一种分化：一方面是面向高端任务和工作的尖端智能模型，另一方面是面向高容量工作负载（这些工作负载可以充分剥离到更经济的模型上）的低成本模型。尖端智能模型的规模仍将远大于现在，因为应用场景需要它，但低端模型的规模也会大幅增长。\n\n这里最大的变化在于，能够高效地将工作负载路由到合适模型的层将变得越来越重要，因为这将成为人工智能代理领域的新难题之一。能够在成功完成任务的同时优化成本的代理编排将占据优势地位。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2063320673217609936",
-      "publishedAt": "2026-06-06T18:02:37.000Z",
-      "score": 83.68,
+      "sourceUrl": "https://x.com/levie/status/2063835799096090749",
+      "publishedAt": "2026-06-08T04:09:33.000Z",
+      "score": 78.06,
       "engagement": {
-        "likes": 404,
-        "retweets": 63,
-        "replies": 73
+        "likes": 141,
+        "retweets": 6,
+        "replies": 37
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -107,54 +133,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2063418130714800487",
+      "id": "2063697162748260627",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "我们从未说过我们不会将任何用户数据上传到云端。",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：We never said we don't upload any user data to the cloud. We said the code (file contents) specifically doesn't. Paxe…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "We never said we don't upload any user data to the cloud.",
-      "originalBody": "We never said we don't upload any user data to the cloud. We said the code (file contents) specifically doesn't. \n\nPaxel is here to help you, and over time as local models get better, we'll be able to do even more locally. Can't wait, tbh. https://t.co/B0nygC4aph",
-      "translatedTitle": "我们从未说过我们不会将任何用户数据上传到云端。",
-      "translatedBody": "我们从未说过不会将任何用户数据上传到云端。我们说的是代码（文件内容）不会上传。\n\nPaxel 致力于为您提供帮助，随着本地模型的不断完善，我们将能够在本地实现更多功能。说实话，我已经迫不及待了。https://t.co/B0nygC4aph",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2063418130714800487",
-      "publishedAt": "2026-06-07T00:29:53.000Z",
-      "score": 72.84,
-      "engagement": {
-        "likes": 46,
-        "retweets": 0,
-        "replies": 22
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2063344460705288401",
-      "type": "tweet",
-      "builder": "Amjad Masad",
-      "title": "当我公开反对加沙种族灭绝时，一群愚蠢的VC（风险投资公司）员工联合起来攻击我……",
-      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：When I spoke out against the Gaza genocide, a bunch of midwit VCs ganged up on me both in public and tried to hurt me…",
+      "builder": "Peter Steinberger",
+      "title": "每月提醒：您不应再提示编码代理了。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Here’s your monthly reminder that you shouldn’t be prompting coding agents anymore. You should be designing loops tha…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "When I spoke out against the Gaza genocide, a bunch of midwit VCs ganged up on me b…",
-      "originalBody": "When I spoke out against the Gaza genocide, a bunch of midwit VCs ganged up on me both in public and tried to hurt me in private too.\n\nMany of those who stood by me were also VCs. Just the better ones. Both morally, and in return profile.\n\nThe best way to avoid sociopaths is to have them self select out of your life by standing for your beliefs.",
-      "translatedTitle": "当我公开反对加沙种族灭绝时，一群愚蠢的VC（风险投资公司）员工联合起来攻击我……",
-      "translatedBody": "当我公开反对加沙种族灭绝时，一群愚蠢的风险投资家群起而攻之，不仅在公开场合攻击我，还在私下里试图伤害我。\n\n许多支持我的人也是风险投资家，只不过是比较优秀的那种，无论从道德层面还是人品方面来说都是如此。\n\n避免与反社会人格者接触的最好方法，就是通过坚持自己的信念，让他们自动退出你的生活。",
+      "originalTitle": "Here’s your monthly reminder that you shouldn’t be prompting coding agents anymore.",
+      "originalBody": "Here’s your monthly reminder that you shouldn’t be prompting coding agents anymore.\n\nYou should be designing loops that prompt your agents.",
+      "translatedTitle": "每月提醒：您不应再提示编码代理了。",
+      "translatedBody": "每月提醒：您不应再手动提示编码代理。\n\n您应该设计循环来提示代理。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/amasad/status/2063344460705288401",
-      "publishedAt": "2026-06-06T19:37:09.000Z",
-      "score": 70.27,
+      "sourceUrl": "https://x.com/steipete/status/2063697162748260627",
+      "publishedAt": "2026-06-07T18:58:39.000Z",
+      "score": 75.83,
       "engagement": {
-        "likes": 4935,
-        "retweets": 396,
-        "replies": 128
+        "likes": 13734,
+        "retweets": 870,
+        "replies": 1148
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -162,91 +160,89 @@
       "sourceType": "x"
     },
     {
-      "id": "2063280482922663980",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "奥克兰地方政府管理不善的问题虽然可以解决，但目前尚未得到解决……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Local government matters Oakland mismanagement is fixable but there has not yet been a resurgence of common sense the…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Local government matters Oakland mismanagement is fixable but there has not yet bee…",
-      "originalBody": "Local government matters\n\nOakland mismanagement is fixable but there has not yet been a resurgence of common sense the way SF had it\n\n@empoweroak is working on this https://t.co/sPKswjImqY",
-      "translatedTitle": "奥克兰地方政府管理不善的问题虽然可以解决，但目前尚未得到解决……",
-      "translatedBody": "地方政府事务\n\n奥克兰的管理不善问题并非无法解决，但目前尚未像旧金山那样恢复常识。\n\n@empoweroak 正在努力解决这个问题 https://t.co/sPKswjImqY",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2063280482922663980",
-      "publishedAt": "2026-06-06T15:22:55.000Z",
-      "score": 50.81,
-      "engagement": {
-        "likes": 101,
-        "retweets": 4,
-        "replies": 21
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2063263389238087745",
-      "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "公园漫步（第二部分）feat @taiuti 🌎 (00:00) 👋 (01:10) 什么样的世界模型…",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：A Walk In The Park (part II) feat @taiuti 🌎 (00:00) 👋 (01:10) What world models are (03:42) Origin story from text-…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "A Walk In The Park (part II) feat @taiuti 🌎 (00:00) 👋 (01:10) What world models a…",
-      "originalBody": "A Walk In The Park (part II) feat @taiuti 🌎\n\n(00:00) 👋\n(01:10) What world models are\n(03:42) Origin story from text-to-3D to @reactorworld \n(09:22) Deciding to start the company\n(11:22) GTA, games, and the path into programming\n(15:09) Building in stealth and keeping secrets\n(18:32) Picking investors with independent conviction\n(21:43) Where world models will grow first\n(26:08) Why low latency matters\n(29:34) Becoming CEO and scaling the team\n(32:23) Final advice",
-      "translatedTitle": "公园漫步（第二部分）feat @taiuti 🌎 (00:00) 👋 (01:10) 什么样的世界模型…",
-      "translatedBody": "公园漫步（第二部分）特邀嘉宾：@taiuti 🌎\n\n(00:00) 👋\n\n(01:10) 什么是世界模型\n\n(03:42) 从文本到 3D 再到 @reactorworld 的起源故事\n\n(09:22) 决定创办公司\n\n(11:22) GTA、游戏以及编程之路\n\n(15:09) 秘密开发和保守秘密\n\n(18:32) 独立选择投资者\n\n(21:43) 世界模型将首先在哪些领域发展\n\n(26:08) 低延迟为何重要\n\n(29:34) 成为 CEO 并扩展团队\n\n(32:23) 最后的建议",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2063263389238087745",
-      "publishedAt": "2026-06-06T14:15:00.000Z",
-      "score": 48.12,
-      "engagement": {
-        "likes": 70,
-        "retweets": 3,
-        "replies": 5
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2063475353335869922",
+      "id": "2063818032280170721",
       "type": "tweet",
       "builder": "Peter Yang",
-      "title": "应该有一种方法可以按不同的方式筛选或排序我的所有 Codex 帖子。",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：There should be a way to filter or sort all my Codex threads in different ways vs. only by project. Like filter or so…",
+      "title": "我妻子让我去倒垃圾。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：My wife asked me to take out the trash. I said, “You shouldn’t be prompting me anymore. You should be designing loops…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "There should be a way to filter or sort all my Codex threads in different ways vs.",
-      "originalBody": "There should be a way to filter or sort all my Codex threads in different ways vs. only by project. \n\nLike filter or sort by:\n\n- All waiting for approval\n- All currently working\n\nI'm trying to keep it to 10 threads but it's already getting unwieldly.  wdyt @ajambrosino ?",
-      "translatedTitle": "应该有一种方法可以按不同的方式筛选或排序我的所有 Codex 帖子。",
-      "translatedBody": "应该有一种方法可以按不同的方式筛选或排序我的所有 Codex 帖子，而不仅仅是按项目筛选。\n\n例如，可以按以下方式筛选或排序：\n\n- 所有待审核的帖子\n\n- 所有正在开发的帖子\n\n我尽量控制在 10 个帖子以内，但现在已经有点难以管理了。@ajambrosino，你觉得呢？",
+      "originalTitle": "My wife asked me to take out the trash.",
+      "originalBody": "My wife asked me to take out the trash.\n\nI said, “You shouldn’t be prompting me anymore. You should be designing loops.\"\n\nFinish the punch line of this dad joke please.",
+      "translatedTitle": "我妻子让我去倒垃圾。",
+      "translatedBody": "我老婆让我去倒垃圾。\n\n我说：“你别再催我了，你应该去设计循环程序。”\n\n请把这个老爸笑话的结尾接下去。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2063475353335869922",
-      "publishedAt": "2026-06-07T04:17:16.000Z",
-      "score": 42.55,
+      "sourceUrl": "https://x.com/petergyang/status/2063818032280170721",
+      "publishedAt": "2026-06-08T02:58:57.000Z",
+      "score": 51.04,
       "engagement": {
-        "likes": 16,
-        "retweets": 0,
-        "replies": 8
+        "likes": 102,
+        "retweets": 3,
+        "replies": 26
       },
       "matchedFocusAreas": [
         "Product Ships"
       ],
       "sourceType": "x"
+    },
+    {
+      "id": "2063638307586662539",
+      "type": "tweet",
+      "builder": "Zara Zhang",
+      "title": "我认为我的前端幻灯片技能能够如此自然地快速提升，其中一个原因是……",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I think one reason that my Frontend Slides skill has grown so much organically is because slides are inherently socia…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I think one reason that my Frontend Slides skill has grown so much organically is b…",
+      "originalBody": "I think one reason that my Frontend Slides skill has grown so much organically is because slides are inherently social\n\nPeople see these cool slides and always ask \"how did you make it\". And people tend to perceive those using HTML decks as more AI-native and AI-savvy\n\nhttps://t.co/CiQpfibZn5",
+      "translatedTitle": "我认为我的前端幻灯片技能能够如此自然地快速提升，其中一个原因是……",
+      "translatedBody": "我认为我的前端幻灯片技能之所以能如此迅速地自然提升，其中一个原因是幻灯片本身就具有社交属性。\n\n人们看到这些精美的幻灯片，总是会问“你是怎么做的？”。而且，人们往往会认为使用 HTML 幻灯片的人更了解人工智能，也更精通人工智能。\n\nhttps://t.co/CiQpfibZn5",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/zarazhangrui/status/2063638307586662539",
+      "publishedAt": "2026-06-07T15:04:47.000Z",
+      "score": 49.59,
+      "engagement": {
+        "likes": 88,
+        "retweets": 7,
+        "replies": 6
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2063748242681307611",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "我有一个新型的大按钮，按下它就可以访问 Codex。",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验：I have a new kind of big button that I can press for Codex. Over the next 100 days, we will select one person per day…",
+      "whyItMatters": "Thibault Sottiaux 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "I have a new kind of big button that I can press for Codex.",
+      "originalBody": "I have a new kind of big button that I can press for Codex. Over the next 100 days, we will select one person per day who does impressive or incredibly useful work with Codex and give them 10X usage limits for a month to see what they can do with it.\n\nFirst one tomorrow.",
+      "translatedTitle": "我有一个新型的大按钮，按下它就可以访问 Codex。",
+      "translatedBody": "我有一个全新的“大按钮”，可以随时按下，让 Codex 获得更多功能。在接下来的 100 天里，我们将每天选出一位在 Codex 上做出杰出或极具价值作品的用户，并给予他们一个月 10 倍的使用权限，看看他们能用 Codex 创造出什么。\n\n明天就是第一位。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2063748242681307611",
+      "publishedAt": "2026-06-07T22:21:38.000Z",
+      "score": 47.23,
+      "engagement": {
+        "likes": 6454,
+        "retweets": 236,
+        "replies": 1128
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-06-07T07:41:30.877Z",
-    "totalCandidates": 17,
-    "textQualifiedCandidates": 10,
+    "upstreamGeneratedAt": "2026-06-08T08:07:01.633Z",
+    "totalCandidates": 20,
+    "textQualifiedCandidates": 13,
     "selectedTweets": 8
   }
 }
