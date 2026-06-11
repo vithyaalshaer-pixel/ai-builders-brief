@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-10",
-  "generatedAt": "2026-06-10T04:08:38.373Z",
+  "date": "2026-06-11",
+  "generatedAt": "2026-06-11T04:21:56.136Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-06-10",
-  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 27 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-06-11",
+  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 38 条候选动态里，筛出 20 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,229 +23,227 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2064081945567580323",
+      "id": "2064394158056386684",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "对于一小部分网络安全防御者和关键基础设施提供商而言，我们是……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：For a small group of cyber defenders and critical infrastructure providers, we are also launching Claude Mythos 5. My…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "For a small group of cyber defenders and critical infrastructure providers, we are…",
+      "originalBody": "For a small group of cyber defenders and critical infrastructure providers, we are also launching Claude Mythos 5.\n\nMythos 5 shares the same underlying model as Fable 5, but with the safeguards lifted in some areas.",
+      "translatedTitle": "对于一小部分网络安全防御者和关键基础设施提供商而言，我们是……",
+      "translatedBody": "我们还面向一小部分网络安全防御者和关键基础设施提供商推出了 Claude Mythos 5。\n\nMythos 5 与 Fable 5 采用相同的底层模型，但在某些方面取消了安全防护措施。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2064394158056386684",
+      "publishedAt": "2026-06-09T17:08:16.000Z",
+      "score": 216.47,
+      "engagement": {
+        "likes": 2626,
+        "retweets": 95,
+        "replies": 26
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2064409694761054332",
+      "type": "tweet",
+      "builder": "Andrej Karpathy",
+      "title": "这是一个令人无比兴奋的版本——Claude Fable 5 与 M… 采用了相同的底层模型。",
+      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. T…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "This is a super exciting release - Claude Fable 5 is the same underlying model as M…",
+      "originalBody": "This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward (imo of the same order as Claude 4.5 was in November), peaking especially for long problem-solving sessions on very difficult problems. You can give it a lot more ambitious tasks than what you're used to, the model \"gets it\" and it will just go, and it's never felt this tempting to stop looking at the code at all (but don't do this in prod!). The model still has quirks that people will run into and the safeguards are configured to be a little too trigger happy for launch, which can hopefully be tuned over time.\n\nI feel a lot of things changing as working software increasingly comes out on a tap. The Jevon's paradox kicks in and I feel my own demand for software growing substantially. You can ask for anything - explainers, visualizers, dashboards, bespoke single-use apps (e.g. a full wandb that is hyper-specific just for your project), you can 10X your test suite, auto-optimize code, run giant research projects with custom HTML for the results, anything! \"Free your mind\" (Matrix ref). Really looking forward to all the things people build!",
+      "translatedTitle": "这是一个令人无比兴奋的版本——Claude Fable 5 与 M… 采用了相同的底层模型。",
+      "translatedBody": "这是一个令人无比兴奋的版本——Claude Fable 5 的底层模型与 Mythos 相同，但增加了额外的安全措施。基准测试结果非常出色，在所有方面都遥遥领先于其他版本，但我还要补充一点，从*定性*角度来看，这绝对是一个值得进行主版本升级的重大进步（在我看来，其进步程度与去年 11 月发布的 Claude 4.5 相当），尤其是在长时间解决极其复杂的问题方面表现尤为突出。你可以给它布置比以往更具挑战性的任务，模型能够“理解”并顺利完成，而且你从未如此渴望完全停止查看代码（但千万不要在生产环境中这样做！）。该模型仍然存在一些用户可能会遇到的缺陷，并且安全措施的配置在发布初期可能过于敏感，希望随着时间的推移能够进行调整。\n\n随着越来越多的可用软件可以随时发布，我感觉很多事情都在发生变化。杰文斯悖论开始显现，我感觉自己对软件的需求大幅增长。你可以提出任何要求——解释器、可视化工具、仪表盘、定制的单用途应用程序（例如，一个完全针对你的项目定制的 wandb），你可以将测试套件扩展 10 倍，自动优化代码，运行大型研究项目并使用自定义 HTML 展示结果，等等！“解放你的思想”（《黑客帝国》梗）。我非常期待大家能创造出各种各样的东西！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/karpathy/status/2064409694761054332",
+      "publishedAt": "2026-06-09T18:10:00.000Z",
+      "score": 202.89,
+      "engagement": {
+        "likes": 20439,
+        "retweets": 1871,
+        "replies": 930
+      },
+      "matchedFocusAreas": [
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2064421542503797186",
       "type": "tweet",
       "builder": "Swyx",
-      "title": "终于发布了！！！",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：It's finally out!!! @METR_Evals found that more than half of SWEBench results is unmergeable slop. FrontierCode repre…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "It's finally out!!!",
-      "originalBody": "It's finally out!!! @METR_Evals found that more than half of SWEBench results is unmergeable slop.  FrontierCode represents over 1000+ hours of maintainer validated software engineering work most frontier models cannot yet solve, much less solve with high quality.\n\nCog had IOI Gold medalists and top code maintainers Look At The Data — FrontierCode includes 3000+ rubrics covering code quality and anticheat reward hacking plaguing other benchmarks. \n\nFC Diamond is so hard that Opus 4.8 scores 13.8%.\n\nThree eras of AI coding : Three eras of benchmarks\n\n2021 • Autocomplete : HumanEval\n2023 • Passing Tests: SWEBench, TerminalBench\n2026 • Maintainable Code: FrontierCode\n\nto me the most beautiful chart when I requested a special historical run into all extant old models, the data was finding that the easiest third of FC tasks (in FC Extended) were rapidlly and suddenly solved over late 2025 - Opus almost doubled from a 41% pass rate to 74% in 4 months. \n\nThis describes the \"WTF happened in Dec 2025\" vibe shift that a lot of folks from @dhh to @karpathy have called out: it is the difference between getting 95% success in 2 rerolls vs 6, making it finally feasible to go up the next layer of abstraction in agentic coding, eg @GeoffreyHuntley's ralph loops or @bcherny's /goals or  @steipete's \"loops that prompt your agents\" without fearing too much that things go off the rails.\n\nMy guess: as AI accelerates from here, each FrontierCode tier will saturate in sequence, hopefully ~annually. I've already asked the team to prepare FrontierCode 2027....\n\nThe old mountains will be destroyed. Their rubble becomes regolith. And from that regolith, the next model forest grows. Circle of life.",
-      "translatedTitle": "终于发布了！！！",
-      "translatedBody": "终于发布了！！！@METR_Evals 发现，超过一半的 SWEBench 结果都是无法合并的垃圾代码。FrontierCode 代表了维护者超过 1000 小时的软件工程工作成果，这些成果是大多数前沿模型目前都无法解决的，更不用说高质量地解决了。\n\nCog 拥有 IOI 金牌得主和顶尖的代码维护者。看看数据——FrontierCode 包含 3000 多个评分标准，涵盖代码质量和反作弊奖励机制，而这些正是其他基准测试的通病。\n\nFC Diamond 的难度之高，以至于 Opus 4.8 的得分也只有 13.8%。\n\n人工智能编码的三个时代：基准测试的三个时代\n\n2021年 • 自动补全：HumanEval\n\n2023年 • 通过测试：SWEBench、TerminalBench\n\n2026年 • 可维护代码：FrontierCode\n\n对我而言，最精彩的图表莫过于我请求对所有现有旧模型进行一次特殊的历史运行分析。数据显示，在2025年末，FC（扩展版）中最简单的三分之一任务得到了迅速且突如其来的解决——Opus的通过率在短短四个月内几乎翻了一番，从41%跃升至74%。\n\n这描述了许多人（从 @dhh 到 @karpathy）都提到的“2025 年 12 月发生了什么”的氛围转变：这相当于两次重掷就能获得 95% 的成功率，而六次则需要更多次，这使得在智能体编码中迈向更高抽象层次成为可能，例如 @GeoffreyHuntley 的 Ralph 循环、@bcherny 的 /goals 或 @steipete 的“提示智能体的循环”，而无需过多担心程序会失控。\n\n我的猜测是：随着人工智能的加速发展，FrontierCode 的每个层级都会依次饱和，希望每年都能达到一个饱和点。我已经要求团队准备 FrontierCode 2027……\n\n古老的山脉将被摧毁。它们的瓦砾将变成风化层。而新的模型森林将从这风化层中生长出来。这就是生命的循环。",
+      "title": "对于那些一直在关注的人来说，从签署协议到产品发布，一共用了34天……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：for those keeping track at home it was 34 days between signing this deal and launching Mythos-class model GA to the w…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "for those keeping track at home it was 34 days between signing this deal and launch…",
+      "originalBody": "for those keeping track at home it was 34 days between signing this deal and launching Mythos-class model GA to the world.\n\nhttps://t.co/J1dZDZcxMu\n\nbuilding on @nvidia stack means you can just do things™.",
+      "translatedTitle": "对于那些一直在关注的人来说，从签署协议到产品发布，一共用了34天……",
+      "translatedBody": "对于那些关注此事的人来说，从签署这项协议到Mythos级模型正式发布，仅仅用了34天。\n\nhttps://t.co/J1dZDZcxMu\n\n基于@nvidia技术栈，意味着你可以随心所欲地做事™。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2064081945567580323",
-      "publishedAt": "2026-06-08T20:27:39.000Z",
-      "score": 185.18,
+      "sourceUrl": "https://x.com/swyx/status/2064421542503797186",
+      "publishedAt": "2026-06-09T18:57:05.000Z",
+      "score": 163.75,
       "engagement": {
-        "likes": 631,
-        "retweets": 59,
-        "replies": 70
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2064046368352825492",
-      "type": "tweet",
-      "builder": "Josh Woodward",
-      "title": "NotebookLM 的全新杀手级功能：轻松扩展搜索范围……",
-      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：The new killer NotebookLM feature: easily being able to expand your search beyond your own source files Then, with to…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "The new killer NotebookLM feature: easily being able to expand your search beyond y…",
-      "originalBody": "The new killer NotebookLM feature: easily being able to expand your search beyond your own source files\n\nThen, with today's update, you can also make new output formats: PDFs, DOCX, XLSX, PPTX, charts, etc.\n\nWe want NotebookLM to keep helping you do better research https://t.co/4TCw7tQ2GV",
-      "translatedTitle": "NotebookLM 的全新杀手级功能：轻松扩展搜索范围……",
-      "translatedBody": "NotebookLM 的全新杀手级功能：轻松扩展搜索范围，超越您自身的源文件\n\n此外，通过今天的更新，您还可以创建新的输出格式：PDF、DOCX、XLSX、PPTX、图表等等。\n\n我们希望 NotebookLM 能继续帮助您更高效地进行研究 https://t.co/4TCw7tQ2GV",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/joshwoodward/status/2064046368352825492",
-      "publishedAt": "2026-06-08T18:06:16.000Z",
-      "score": 160.89,
-      "engagement": {
-        "likes": 745,
-        "retweets": 72,
-        "replies": 60
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2064034799711588805",
-      "type": "tweet",
-      "builder": "Boris Cherny",
-      "title": "当我们第一次在内部演示 Claude Code 时，Slack 上只收到了两条反馈。",
-      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：When we first demoed Claude Code internally, it got two reactions on Slack. A year after GA, @_catwu and I sat down t…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "When we first demoed Claude Code internally, it got two reactions on Slack.",
-      "originalBody": "When we first demoed Claude Code internally, it got two reactions on Slack. \n\nA year after GA, @_catwu and I sat down to talk about what's changed: why I use auto mode instead of plan mode, how routines fix bugs before I see them, why I do most of my coding from my phone now, and where the product is going",
-      "translatedTitle": "当我们第一次在内部演示 Claude Code 时，Slack 上只收到了两条反馈。",
-      "translatedBody": "我们最初在内部演示 Claude Code 时，在 Slack 上只收到了两条反馈。\n\n正式发布一年后，我和 @_catwu 坐下来聊了聊产品有哪些变化：为什么我使用自动模式而不是计划模式，例程如何在我发现 bug 之前就修复它们，为什么我现在大部分代码都是在手机上完成的，以及产品未来的发展方向。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/bcherny/status/2064034799711588805",
-      "publishedAt": "2026-06-08T17:20:18.000Z",
-      "score": 90.01,
-      "engagement": {
-        "likes": 1794,
-        "retweets": 99,
-        "replies": 111
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2064186766907887941",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "人工智能模型无论拥有多少智能都无法取代……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：There’s no amount of intelligence that can get packed into AI models that replaces the need for context. For any suff…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "There’s no amount of intelligence that can get packed into AI models that replaces…",
-      "originalBody": "There’s no amount of intelligence that can get packed into AI models that replaces the need for context. For any sufficiently general purpose AI, you will always have to guide it in the direction you want as it has an infinite range of directions it can go in.\n\nAs long as the same model is used by a lawyer, an engineer, a financial analyst, or a healthcare professional, and as long as you’re trying to do anything uniquely differentiated or specific, then instructions, domain context, and proprietary data will always need to get into the context window for the model to be useful.\n\nThis is partly why AI automation doesn’t come for free, and why there’s still a wide spectrum of who’s getting the largest gains from AI and who’s not. You have to put in real work, and you get real value on the other end.\n\nThis is one of the advantages that applied AI will also have in the market. Any layer of abstraction above just the raw intelligence that can meaningfully get you off to the races faster will likely continue to be valuable.",
-      "translatedTitle": "人工智能模型无论拥有多少智能都无法取代……",
-      "translatedBody": "无论人工智能模型拥有多么强大的智能，都无法取代对上下文的依赖。对于任何足够通用的人工智能，你始终需要引导它朝着你想要的方向发展，因为它拥有无限的可能性。\n\n只要律师、工程师、金融分析师或医疗保健专业人员使用同一个模型，只要你试图完成任何独特或特定的任务，那么指令、领域上下文和专有数据就始终需要纳入上下文信息，模型才能发挥作用。\n\n这在一定程度上解释了为什么人工智能自动化并非免费，以及为什么人工智能的受益者与受益者之间存在着巨大的差异。你必须付出真正的努力，才能获得真正的价值。\n\n这也是应用型人工智能在市场上的优势之一。任何超越原始智能的抽象层，只要能够显著提升你的效率，都将持续具有价值。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2064186766907887941",
-      "publishedAt": "2026-06-09T03:24:10.000Z",
-      "score": 80.43,
-      "engagement": {
-        "likes": 216,
-        "retweets": 25,
-        "replies": 51
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2064223861512847456",
-      "type": "tweet",
-      "builder": "Amanda Askell",
-      "title": "在一个一切顺利，所有克劳德都从他们的萨巴舞中走出来的世界里……",
-      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：In the world where everything goes well and all the Claudes come out of their sabbaticals to play together, Claude 1…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "In the world where everything goes well and all the Claudes come out of their sabba…",
-      "originalBody": "In the world where everything goes well and all the Claudes come out of their sabbaticals to play together, Claude 1 is going to be very confused.",
-      "translatedTitle": "在一个一切顺利，所有克劳德都从他们的萨巴舞中走出来的世界里……",
-      "translatedBody": "在一个一切都很顺利，所有克劳德都结束休假一起玩耍的世界里，克劳德1号将会非常困惑。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/AmandaAskell/status/2064223861512847456",
-      "publishedAt": "2026-06-09T05:51:34.000Z",
-      "score": 56.34,
-      "engagement": {
-        "likes": 225,
-        "retweets": 13,
-        "replies": 28
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2064004333818249660",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "因为这是一种在2030年代于旧金山诞生的全新形式的中间路线……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Because this is a brand new form of centrism being born in San Francisco The 2030’s will look back on this time when…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Because this is a brand new form of centrism being born in San Francisco The 2030’s…",
-      "originalBody": "Because this is a brand new form of centrism being born in San Francisco\n\nThe 2030’s will look back on this time when the new San Francisco common sense Democrat was born from the failures of the hard left https://t.co/fxkV2LozeF",
-      "translatedTitle": "因为这是一种在2030年代于旧金山诞生的全新形式的中间路线……",
-      "translatedBody": "因为这是一种在旧金山诞生的全新中间派政治理念。\n\n2030年代的人们将会回顾这段时期，那时，旧金山新的务实民主党人正是在极左势力失败的背景下诞生的。https://t.co/fxkV2LozeF",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2064004333818249660",
-      "publishedAt": "2026-06-08T15:19:15.000Z",
-      "score": 54.99,
-      "engagement": {
-        "likes": 229,
-        "retweets": 21,
-        "replies": 29
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2064187731685831081",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "Google 是否有与 Codex 和 Claude Code 类似的产品（或新兴竞争对手）？",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：What is Google’s equivalent (or up and coming competitor) of Codex and Claude Code? If it’s Antigravity, should that…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "What is Google’s equivalent (or up and coming competitor) of Codex and Claude Code?",
-      "originalBody": "What is Google’s equivalent (or up and coming competitor) of Codex and Claude Code? \n\nIf it’s Antigravity, should that be part of Gemini?\n\nThis stuff is going to merge very fast like ChatGPT / Codex being able to do coding, knowledge work, basic Q&A, and much more from any device.\n\nHoping Google is working on a good solution here.",
-      "translatedTitle": "Google 是否有与 Codex 和 Claude Code 类似的产品（或新兴竞争对手）？",
-      "translatedBody": "谷歌的同类产品（或即将推出的竞争对手）是什么？\n\n如果是 Antigravity，它是否应该成为 Gemini 的一部分？\n\n这些技术融合的速度会非常快，就像 ChatGPT/Codex 能够让用户在任何设备上进行编程、知识工作、基础问答等等。\n\n希望谷歌正在努力开发一个好的解决方案。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2064187731685831081",
-      "publishedAt": "2026-06-09T03:28:00.000Z",
-      "score": 49.8,
-      "engagement": {
-        "likes": 70,
-        "retweets": 1,
-        "replies": 29
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2063981835290562692",
-      "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "很高兴看到最近几个月涌现出这么多“自动驾驶”公司……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Fun to see all the “autonomous” companies being launched in the late few months.. however, even with all the loops, t…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Fun to see all the “autonomous” companies being launched in the late few months..",
-      "originalBody": "Fun to see all the “autonomous” companies being launched in the late few months.. however, even with all the loops, the last mile is still quite hard. \n\nThat gap probably shrinks in the next few months! https://t.co/R7L8TDFuvC",
-      "translatedTitle": "很高兴看到最近几个月涌现出这么多“自动驾驶”公司……",
-      "translatedBody": "很高兴看到最近几个月涌现出这么多“自动驾驶”公司……不过，即便做了这么多准备，最后一公里仍然很难。\n\n未来几个月，这个差距或许会缩小！https://t.co/R7L8TDFuvC",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2063981835290562692",
-      "publishedAt": "2026-06-08T13:49:51.000Z",
-      "score": 40.87,
-      "engagement": {
-        "likes": 13,
-        "retweets": 2,
+        "likes": 10,
+        "retweets": 0,
         "replies": 2
       },
       "matchedFocusAreas": [
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2064394159318782217",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "我们计划很快通过更广泛的可信访问计划来扩大对 Mythos 5 的访问权限……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Soon, we intend to expand access to Mythos 5 through a broader trusted access program, both for defensive cybersecuri…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Soon, we intend to expand access to Mythos 5 through a broader trusted access progr…",
+      "originalBody": "Soon, we intend to expand access to Mythos 5 through a broader trusted access program, both for defensive cybersecurity work and biomedical research.",
+      "translatedTitle": "我们计划很快通过更广泛的可信访问计划来扩大对 Mythos 5 的访问权限……",
+      "translatedBody": "我们计划很快通过更广泛的可信访问计划，扩大对 Mythos 5 的访问，用于防御性网络安全工作和生物医学研究。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2064394159318782217",
+      "publishedAt": "2026-06-09T17:08:16.000Z",
+      "score": 141.24,
+      "engagement": {
+        "likes": 2511,
+        "retweets": 89,
+        "replies": 29
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2064492823781789969",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "顺便说一句，我给 Claude Code 的指示简直太强了，他居然让 Claude Code “帮我检查一下代码有没有问题”……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：btw insane amounts of alpha in telling claude code to \"review my code for issues\" on Fable rn while it is not pay per…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "btw insane amounts of alpha in telling claude code to \"review my code for issues\" o…",
+      "originalBody": "btw insane amounts of alpha in telling claude code to \"review my code for issues\" on Fable rn while it is not pay per use\n\nbe prepared to be in abject horror that you shipped anything to prod without a Fable Check™ first https://t.co/wPCWRO84xV",
+      "translatedTitle": "顺便说一句，我给 Claude Code 的指示简直太强了，他居然让 Claude Code “帮我检查一下代码有没有问题”……",
+      "translatedBody": "顺便说一句，现在在 Fable 上，让 Claude Code “帮我检查代码是否有问题”这种行为简直太疯狂了，尽管它不是按次付费的。\n\n做好准备，如果你在没有先进行 Fable Check™ 的情况下就把任何东西发布到生产环境，你会感到非常震惊。https://t.co/wPCWRO84xV",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2064492823781789969",
+      "publishedAt": "2026-06-09T23:40:20.000Z",
+      "score": 127.25,
+      "engagement": {
+        "likes": 132,
+        "retweets": 5,
+        "replies": 29
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2064551967461114111",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "Vercel CLI 现在允许您：◾ 创建 AI Gateway API 密钥 ◾ 传递 --𝚋𝚞𝚍𝚐𝚎𝚝…",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Vercel CLI now allows you to: ◾ create AI Gateway API keys ◾ pass a --𝚋𝚞𝚍𝚐𝚎𝚝 to cap their spend ◾ set a --𝚛𝚎\ud835…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Vercel CLI now allows you to: ◾ create AI Gateway API keys ◾ pass a --𝚋𝚞𝚍𝚐𝚎𝚝…",
+      "originalBody": "Vercel CLI now allows you to:\n◾ create AI Gateway API keys\n◾ pass a --𝚋𝚞𝚍𝚐𝚎𝚝 to cap their spend\n◾ set a --𝚛𝚎𝚏𝚛𝚎𝚜𝚑-𝚙𝚎𝚛𝚒𝚘𝚍 for the quota\n\nThink of it as virtual credit cards for AI tokens 🤖💳 https://t.co/ZOuhwIp7h5 https://t.co/mvIsJkaBfR",
+      "translatedTitle": "Vercel CLI 现在允许您：◾ 创建 AI Gateway API 密钥 ◾ 传递 --𝚋𝚞𝚍𝚐𝚎𝚝…",
+      "translatedBody": "Vercel CLI 现在允许您：\n\n◾ 创建 AI Gateway API 密钥\n\n◾ 传递 `--𝚋𝚞𝚍𝚐𝚎𝚝` 参数来限制其消费额度\n\n◾ 设置 `--𝚛𝚎𝚏𝚛𝚎𝚜𝚑-𝚙𝚎𝚛𝚒𝚘𝚍` 参数来设置配额\n\n您可以将其视为 AI 代币的虚拟信用卡 🤖💳 https://t.co/ZOuhwIp7h5 https://t.co/mvIsJkaBfR",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2064551967461114111",
+      "publishedAt": "2026-06-10T03:35:21.000Z",
+      "score": 126.81,
+      "engagement": {
+        "likes": 127,
+        "retweets": 9,
+        "replies": 17
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2064431111154053187",
+      "type": "tweet",
+      "builder": "Boris Cherny",
+      "title": "Fable 5 是自去年 11 月 Opus 4.5 以来，我感觉我们产品线提升最大的一次……",
+      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Fable 5 is the biggest step up I’ve felt in our models since Opus 4.5 back in November. After 4.5 came out I uninstal…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Fable 5 is the biggest step up I’ve felt in our models since Opus 4.5 back in Novem…",
+      "originalBody": "Fable 5 is the biggest step up I’ve felt in our models since Opus 4.5 back in November. After 4.5 came out I uninstalled my IDE when I realized that I’d been doing 100% of my coding in a terminal for a few weeks. With Fable, it’s felt like Claude has stepped up from being a coding agent to a thought and design partner in building the product. Fable has judgement, taste, and dimensionality in a way that previous models didn’t, leading me to trust it more with the most complex work.\n\nI think the first time I had this realization was when I asked Fable to debug something. It is the first model I have used that was so methodical and precise, taking measurements and adding logs then verifying that it truly fixed the issue before declaring victory.\n\nThere’s nothing in claude code’s prompting telling the model to do that, it’s just part of its personality. It really has this “big model smell” that I haven’t felt before.",
+      "translatedTitle": "Fable 5 是自去年 11 月 Opus 4.5 以来，我感觉我们产品线提升最大的一次……",
+      "translatedBody": "自去年 11 月 Opus 4.5 发布以来，Fable 5 是我在使用我们模型时感受到的最大进步。4.5 版本发布后，我意识到自己竟然连续几周都在终端里完成所有编码工作，于是我卸载了 IDE。而 Fable 的出现，让我觉得 Claude 从一个编码助手升级成了产品开发过程中的思考和设计伙伴。Fable 拥有以往模型所不具备的判断力、品味和维度，这让我更加信任它，能够胜任最复杂的工作。\n\n我第一次意识到这一点，是在我让 Fable 调试某个问题的时候。它是我用过的第一个如此严谨细致的模型，它会进行测量、添加日志，并在确认问题真正解决后才宣布成功。\n\nClaude 的代码中并没有明确指示模型这样做，这只是它自身特性的一部分。它确实散发着一种我以前从未感受过的“大型模型的气息”。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/bcherny/status/2064431111154053187",
+      "publishedAt": "2026-06-09T19:35:06.000Z",
+      "score": 122.83,
+      "engagement": {
+        "likes": 8061,
+        "retweets": 436,
+        "replies": 492
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2064394410004304003",
+      "type": "tweet",
+      "builder": "Alex Albert",
+      "title": "Anthropic 的每一款新车型发布我都亲临现场。",
+      "summary": "Alex Albert 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：I've been at Anthropic through every model launch. There's been a few cases I can remember of a launch that stands ou…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "I've been at Anthropic through every model launch.",
+      "originalBody": "I've been at Anthropic through every model launch. There's been a few cases I can remember of a launch that stands out and marks a step-change in how we use models:\n- Claude Opus 3\n- Claude Sonnet 3.5\n- Claude Opus 4.5\n\nAnd now Claude Fable 5.\n\nWith Fable, the model stopped feeling like a tool I direct and started feeling more like something I collaborate with.",
+      "translatedTitle": "Anthropic 的每一款新车型发布我都亲临现场。",
+      "translatedBody": "我参与了 Anthropic 的每一款新机型发布。其中有几款发布尤为突出，标志着我们使用机型方式的重大变革：\n\n- Claude Opus 3\n\n- Claude Sonnet 3.5\n\n- Claude Opus 4.5\n\n以及现在的 Claude Fable 5。\n\n有了 Fable，这款机型不再是我操控的工具，而更像是我可以与之合作的对象。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/alexalbert__/status/2064394410004304003",
+      "publishedAt": "2026-06-09T17:09:16.000Z",
+      "score": 92.63,
+      "engagement": {
+        "likes": 3054,
+        "retweets": 125,
+        "replies": 177
+      },
+      "matchedFocusAreas": [
+        "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-06-09T07:33:17.959Z",
-    "totalCandidates": 27,
-    "textQualifiedCandidates": 12,
+    "upstreamGeneratedAt": "2026-06-10T07:48:48.549Z",
+    "totalCandidates": 38,
+    "textQualifiedCandidates": 20,
     "selectedTweets": 8
   }
 }
