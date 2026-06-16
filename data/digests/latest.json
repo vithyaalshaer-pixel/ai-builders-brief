@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-15",
-  "generatedAt": "2026-06-15T04:53:44.197Z",
+  "date": "2026-06-16",
+  "generatedAt": "2026-06-16T04:50:41.473Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-06-15",
+  "title": "AI Builders Daily | 2026-06-16",
   "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 25 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 24 条候选动态里，筛出 7 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,238 +15,204 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
-    },
-    {
-      "slug": "product-ships",
-      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2065909887025168887",
+      "id": "2066235625695850526",
       "type": "tweet",
       "builder": "Swyx",
-      "title": "本周末是填写年度人工智能工程调查问卷的最后机会，有机会赢取丰厚奖品……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：Last chance to fill out the annual AI Engineering Survey this weekend and win great Vercel + Notion + AIE tix! link b…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Last chance to fill out the annual AI Engineering Survey this weekend and win great…",
-      "originalBody": "Last chance to fill out the annual AI Engineering Survey this weekend and win great Vercel + Notion + AIE tix!\n\nlink below \n\nwe had @devinai analyze registered attendee list and output a live chart of the people coming to the conference. it ended up being the single best data driven storytelling i've ever seen on what kind of community we are gathering in two weeks.\n\nsurvey link here!\nhttps://t.co/2oilc5lCDm\n\nno lurking, fill it out pls",
-      "translatedTitle": "本周末是填写年度人工智能工程调查问卷的最后机会，有机会赢取丰厚奖品……",
-      "translatedBody": "年度人工智能工程调查问卷即将截止，本周末填写即可赢取 Vercel + Notion + AIE 大会门票！\n\n链接如下\n\n我们请 @devinai 分析了已注册的参会者名单，并生成了一张实时图表，展示了参会人员构成。这是我见过的最精彩的数据驱动型叙事，它清晰地展现了我们将在两周后聚集怎样的社群。\n\n调查问卷链接在此！\n\nhttps://t.co/2oilc5lCDm\n\n别潜水，快来填写吧！",
+      "title": "Satya 关于 IP 地址循环的讨论：https://t.co/87HBsQptdQ > 这是我们第一次能够创建…",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Satya on loops as IP: https://t.co/87HBsQptdQ > This is the first time we can create a real cognitive loop between pe…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Satya on loops as IP: https://t.co/87HBsQptdQ > This is the first time we can creat…",
+      "originalBody": "Satya on loops as IP:\nhttps://t.co/87HBsQptdQ\n> This is the first time we can create a real cognitive loop between people and digital systems. That is a mind-bender, because it changes how we even conceptualize work inside an enterprise.\n\n> This means the real opportunity is not in picking the best model but instead in building a learning loop on top of models where human capital and token capital compound. You can offload a task, or even a job, but you can never offload your learning\n\n> In my view, our priority has to be building a frontier ecosystem, not just a frontier model, so value flows broadly across every company, every industry, and every country. One where every organization can own the learning loop that encodes its institutional knowledge, compounding its human and token capital.",
+      "translatedTitle": "Satya 关于 IP 地址循环的讨论：https://t.co/87HBsQptdQ > 这是我们第一次能够创建…",
+      "translatedBody": "Satya 谈循环即知识产权：\n\nhttps://t.co/87HBsQptdQ\n\n> 这是我们首次能够在人与数字系统之间建立真正的认知循环。这令人耳目一新，因为它彻底改变了我们对企业内部工作的理解。\n\n> 这意味着真正的机遇不在于选择最佳模型，而在于构建一个基于现有模型的学习循环，使人力资本和代币资本得以增值。你可以外包一项任务，甚至一份工作，但你永远无法外包你的学习。\n\n> 我认为，我们的首要任务是构建一个前沿生态系统，而不仅仅是一个前沿模型，这样价值才能广泛地流经每一家公司、每一个行业和每一个国家。在这个生态系统中，每个组织都可以拥有编码其机构知识的学习循环，从而增值其人力资本和代币资本。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2065909887025168887",
-      "publishedAt": "2026-06-13T21:31:14.000Z",
-      "score": 121.95,
+      "sourceUrl": "https://x.com/swyx/status/2066235625695850526",
+      "publishedAt": "2026-06-14T19:05:36.000Z",
+      "score": 164.61,
       "engagement": {
-        "likes": 31,
-        "retweets": 5,
-        "replies": 17
+        "likes": 8,
+        "retweets": 0,
+        "replies": 5
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2066415484149633329",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "目前为止，除了人类学超代码（Anthropic Ultracode）之外，我还没见过多少人。",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：havent seen many people outside anthropic ultracode yet. this thing is scarily good at burning tokens but you need to…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "havent seen many people outside anthropic ultracode yet.",
+      "originalBody": "havent seen many people outside anthropic ultracode yet. this thing is scarily good at burning tokens but you need to set up your repo to parallelize properly to make use of the fanout that i think subagents are best at.\n\nbasically the idea is \"subroutines but intelligent\". when you undersatnd just how much knowledge work is just yakshaves after yakshaves that require some judgment and intelligence, you start to appreciate that dynamic workflows are not just for coding tasks...",
+      "translatedTitle": "目前为止，除了人类学超代码（Anthropic Ultracode）之外，我还没见过多少人。",
+      "translatedBody": "还没见过多少人用过Athropotic Ultracode。这玩意儿销毁代币的效率高得吓人，但你需要正确配置代码仓库以实现并行化，才能充分利用扇出功能——我觉得子代理在这方面最擅长。\n\n基本上，它的理念是“智能子程序”。当你意识到知识工作中有多少是需要判断和智能的重复性工作时，你就会明白动态工作流不仅仅适用于编码任务……",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2066415484149633329",
+      "publishedAt": "2026-06-15T07:00:18.000Z",
+      "score": 149.48,
+      "engagement": {
+        "likes": 45,
+        "retweets": 2,
+        "replies": 15
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2066237607244427761",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "好文章。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Great post. The companies that are able to get their unique IP, institutional knowledge, and data into a format and a…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Great post.",
+      "originalBody": "Great post. The companies that are able to get their unique IP, institutional knowledge, and data into a format and architecture that lets them capture all of the gains and progress in AI are going to be in the best position in the future.\n\n“the real opportunity is not in picking the best model but instead in building a learning loop on top of models where human capital and token capital compound. You can offload a task, or even a job, but you can never offload your learning. The future of the firm is the ability to compound that learning across people and AI.\n\nThis requires a new architectural approach where every business is able to build agentic systems that improve over time, while still retaining control over their IP. A company should be able to switch out a “generalist” model without losing the “company veteran” expertise built into their learning system.”\n\nWe’re all collectively figuring out the right architecture for the future of AI. But it’s clear that so much of the power and value will accrue to wherever can best leverage any AI system against their information. This is also why the applied AI layer will also gain so much value over the coming years.",
+      "translatedTitle": "好文章。",
+      "translatedBody": "精彩的文章。那些能够将自身独特的知识产权、机构知识和数据整合到一种能够让他们充分利用人工智能所有优势和进展的格式和架构中的公司，将在未来占据最佳地位。\n\n“真正的机遇不在于选择最佳模型，而在于构建一个基于模型的学习循环，让人力资本和代币资本得以复利增长。你可以外包一项任务，甚至一份工作，但你永远无法外包你的学习成果。企业的未来在于能够将这种学习成果在人员和人工智能之间进行复利增长。\n\n这需要一种全新的架构方法，让每个企业都能构建随着时间推移不断改进的智能系统，同时仍然保持对其知识产权的控制。公司应该能够在不丢失其学习系统中内置的“公司资深人士”专业知识的情况下，替换掉一个“通用”模型。”\n\n我们都在共同探索人工智能未来发展的正确架构。但显而易见的是，能够最大程度地利用人工智能系统及其信息的企业，将获得巨大的权力和价值。这也是为什么应用人工智能层在未来几年也将获得巨大价值的原因。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2066237607244427761",
+      "publishedAt": "2026-06-14T19:13:29.000Z",
+      "score": 85.72,
+      "engagement": {
+        "likes": 712,
+        "retweets": 74,
+        "replies": 58
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2066167615618466060",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "这一切的最大赢家将是开放权重模型。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The big winner in all of this is going to be open weights models. This is a huge win for the field, as a risk that wa…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "The big winner in all of this is going to be open weights models.",
+      "originalBody": "The big winner in all of this is going to be open weights models. This is a huge win for the field, as a risk that was entirely theoretical and untested 2 days ago (that a model could be pulled back), now has a new precedent that’s been set.\n\nThe game theory the US should highly consider, and the risk with regulating AI at the model layer vs. applied layer, is that other countries now have even more incentive to develop sovereign AI.\n\nIf at any moment a model can be become unavailable to your country’s users or businesses, this poses very real risk on relying on technology from a particular country.\n\nAs a result, it forces major countries to charter their own path on AI development, which reduces America’s leadership role in this tech stack over time. The most likely solution that other countries will rely on is open weights models, which currently is generally not coming from the US.\n\nAmerica should be considering all of these downstream implications as it decides how and where in the stack to be regulating AI. At the same time, we should be doing a ton more OSS innovation.",
+      "translatedTitle": "这一切的最大赢家将是开放权重模型。",
+      "translatedBody": "这一切的最大赢家将是开放权重模型。这对该领域来说是一项巨大的胜利，因为两天前还完全是理论上的、未经检验的风险（模型可能被撤回）如今已经有了先例。\n\n美国应该认真考虑的博弈论是，在模型层而非应用层监管人工智能的风险在于，其他国家现在更有动力发展自主人工智能。\n\n如果某个模型随时可能对本国用户或企业不可用，那么依赖特定国家的技术就构成了非常现实的风险。\n\n因此，这将迫使主要国家制定自己的人工智能发展道路，从而逐渐削弱美国在该技术领域的领导地位。其他国家最有可能依赖的解决方案是开放权重模型，而目前这种模型通常并非来自美国。\n\n美国在决定如何以及在技术栈的哪个环节监管人工智能时，应该考虑所有这些后续影响。与此同时，我们应该在开源软件领域进行更多创新。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2066167615618466060",
+      "publishedAt": "2026-06-14T14:35:21.000Z",
+      "score": 84.79,
+      "engagement": {
+        "likes": 564,
+        "retweets": 57,
+        "replies": 76
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2066270561081454989",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "Codex 可以查看并设定自己的目标。",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Codex can see and set its own /goal. Everything we build, we build also as a tool for the agent. This is a generaliza…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Codex can see and set its own /goal.",
+      "originalBody": "Codex can see and set its own /goal. Everything we build, we build also as a tool for the agent. This is a generalization of meta prompting, where you let the agent set its own task based on your intent. https://t.co/8xyjRjFk4v",
+      "translatedTitle": "Codex 可以查看并设定自己的目标。",
+      "translatedBody": "Codex 可以查看并设置自己的目标。我们构建的每一个功能，都同时也是为智能体量身打造的工具。这是一种元提示的泛化，它允许智能体根据你的意图设定自己的任务。https://t.co/8xyjRjFk4v",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2066270561081454989",
+      "publishedAt": "2026-06-14T21:24:25.000Z",
+      "score": 66.07,
+      "engagement": {
+        "likes": 2232,
+        "retweets": 94,
+        "replies": 151
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2066269412391637050",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "下一代改变世界的年轻人几乎肯定是……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The next generation of young people who change the world will almost certainly be the people who are most adept at ma…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "The next generation of young people who change the world will almost certainly be t…",
+      "originalBody": "The next generation of young people who change the world will almost certainly be the people who are most adept at making long-running multi-stage multi-team agent tasks work extremely well, and at high volume and across every part of their personal and work lives. https://t.co/xG2qvRNdW5",
+      "translatedTitle": "下一代改变世界的年轻人几乎肯定是……",
+      "translatedBody": "下一代改变世界的年轻人几乎肯定是最擅长高效、高效率地处理长期、多阶段、多团队协作的智能体任务的人，而且他们还能将这种能力运用到个人生活和工作的各个方面。https://t.co/xG2qvRNdW5",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2066269412391637050",
+      "publishedAt": "2026-06-14T21:19:52.000Z",
+      "score": 58.36,
+      "engagement": {
+        "likes": 446,
+        "retweets": 41,
+        "replies": 49
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2066388749244854771",
+      "type": "tweet",
+      "builder": "Zara Zhang",
+      "title": "写一篇技能文章并不能让你真正掌握一项技能。",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验：You don't make a good skill by writing a skill. You make it by doing the thing, fixing it 20 times, then telling the…",
+      "whyItMatters": "Zara Zhang 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "You don't make a good skill by writing a skill.",
+      "originalBody": "You don't make a good skill by writing a skill. \n\nYou make it by doing the thing, fixing it 20 times, then telling the AI to bottle up everything you just did.",
+      "translatedTitle": "写一篇技能文章并不能让你真正掌握一项技能。",
+      "translatedBody": "好的技能不是写出来就能做出的。\n\n而是通过实践，反复修改20次，然后让AI把所有修改都打包进去。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/zarazhangrui/status/2066388749244854771",
+      "publishedAt": "2026-06-15T05:14:04.000Z",
+      "score": 26.9,
+      "engagement": {
+        "likes": 112,
+        "retweets": 8,
+        "replies": 22
       },
       "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2065842361834651996",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "整个Fable出口管制事件实际上对监管总体上是积极的……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：This whole Fable export control situation is actually net positive to regulation discourse. It’s an early peek into w…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "This whole Fable export control situation is actually net positive to regulation di…",
-      "originalBody": "This whole Fable export control situation is actually net positive to regulation discourse. It’s an early peek into what AI regulation would end up looking like at scale when enacted at the model layer instead of the specific application of the AI.\n\nThe government would have sole discretion over when a model can be released to the to public, based on a bunch of factors that they inherently control. \n\nIn this case, based on the available reporting, the risk is that the model can be jailbroken to deliver increased cyber exploit capabilities. The issue is that actually you want models to be able to have those capabilities on the defense side of cyber as well, and for all intents and purposes, by Anthropic’s own response, you can execute these capabilities today in other models. \n\nSo thus the whole challenge will be that you’re debating with the government, over months and months, with every model release, what these models are actually capable of and what their risks are. Inherently, there’s not only a lot of subjectivity in determining those risks, but there’s also many other factors that go into the risks being practical in the first place.\n\nThe net result is that we would end up with backlog of AI releases, progress in the market inherently would dramatically slow down, and AI would start to look more like any other sclerotic industry. If this paradigm had existed 3 years ago at the start of the current AI wave, we’d likely currently be stuck on GPT-4 level intelligence at this point.\n\nThis is why, wherever possible, we should be regulating the applied use of AI. We should continue to study and enforce the dangerous use of AI in cyber attacks, financial services risks, fraud, biowarfare, and other spaces. AI safety is incredibly important, but slowing down progress this early in the development of AI I suspect is net harmful.",
-      "translatedTitle": "整个Fable出口管制事件实际上对监管总体上是积极的……",
-      "translatedBody": "整个Fable出口管制事件实际上对监管讨论具有积极意义。它让我们得以窥见，如果人工智能监管不是针对具体应用而是针对模型层面，那么大规模的人工智能监管最终会是什么样子。\n\n政府将拥有完全的自主权，决定何时向公众发布模型，而这完全取决于他们所能控制的诸多因素。\n\n就目前已有的报道来看，风险在于该模型可能被破解，从而增强其网络攻击能力。问题在于，我们实际上也希望模型在网络安全防御方面具备这些能力。而根据Anthropic公司自身的回应，目前其他模型已经具备了这些能力。\n\n因此，真正的挑战在于，每次发布新模型，都需要与政府进行长达数月的辩论，讨论这些模型的实际能力及其风险。本质上，评估这些风险不仅带有很强的主观性，而且还有许多其他因素会影响风险的实际可行性。\n\n最终结果是，人工智能产品发布会积压，市场发展速度必然会大幅放缓，人工智能也会变得像其他停滞不前的行业一样。如果这种模式在三年前，也就是当前人工智能浪潮兴起之初就存在，那么我们现在很可能还停留在 GPT-4 的智能水平。\n\n正因如此，我们应该尽可能地规范人工智能的应用。我们应该继续研究并打击人工智能在网络攻击、金融服务风险、欺诈、生物战等领域的危险使用。人工智能安全至关重要，但我认为在人工智能发展的早期阶段就放慢发展速度最终会适得其反。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2065842361834651996",
-      "publishedAt": "2026-06-13T17:02:55.000Z",
-      "score": 107.19,
-      "engagement": {
-        "likes": 318,
-        "retweets": 34,
-        "replies": 63
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2065989559905812973",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "能够将请求路由到最适合特定任务的 AI 模型的层即将到来……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：The layer that can route to the best AI model for the particular job is going to increase in value substantially. The…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "The layer that can route to the best AI model for the particular job is going to in…",
-      "originalBody": "The layer that can route to the best AI model for the particular job is going to increase in value substantially. There are at least 3 big reasons: \n\n* Cost optimization: there are plenty of use cases where you need frontier intelligence for some tasks and something far cheaper for others. Even in the same task you may use frontier intelligence for planning and review of the work, but an OSS or cheaper model for the bulk of the workload. This is going to be standard across large buckets of work going forward. \n\n* Capability maximization: despite the bitter lesson and models generally getting better in the same direction, there are still lots of differences between models. Some are better at tool use, others better at coding, and others again better at certain domains of knowledge work. The ability to route between these at different times is a huge advantage.\n\n* Risk mitigation: while the Fable situation is somewhat of a black swan, it’s possible we’re heading toward a regulatory environment where governments may restrict models at different times based on their approval mechanisms or new things they discover. This means you’re going to want flexibility in being able to deploy workloads across different providers as a form of risk mitigation.\n\nUltimately, it’s going to increasingly be a a strategic advantage for the applied AI layer that they can effectively route between models. Will be very interesting to see how this evolves.",
-      "translatedTitle": "能够将请求路由到最适合特定任务的 AI 模型的层即将到来……",
-      "translatedBody": "能够根据具体任务路由到最佳 AI 模型的层级将大幅提升其价值。这至少有三个主要原因：\n\n* 成本优化：在许多应用场景中，某些任务需要前沿智能，而其他任务则可以使用成本更低的方案。即使是同一任务，也可能需要前沿智能进行工作规划和审查，而大部分工作负载则使用开源软件或更经济的模型。未来，这将成为大多数工作领域的标准做法。\n\n* 能力最大化：尽管吸取了惨痛的教训，并且模型总体上朝着同一方向发展，但模型之间仍然存在诸多差异。有些模型更擅长工具使用，有些更擅长编码，还有一些则更擅长特定领域的知识工作。能够在不同时间路由这些模型是一项巨大的优势。\n\n* 风险缓解：虽然 Fable 事件在某种程度上属于黑天鹅事件，但我们有可能正走向一个监管环境，在这种环境下，政府可能会根据其审批机制或新发现，在不同时间限制模型的使用。这意味着您需要具备跨不同提供商部署工作负载的灵活性，以此作为风险缓解措施。\n\n最终，对于应用型人工智能层而言，能够有效地在不同模型之间进行路由将日益成为一项战略优势。我们将饶有兴趣地观察这一趋势的发展。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2065989559905812973",
-      "publishedAt": "2026-06-14T02:47:49.000Z",
-      "score": 104.41,
-      "engagement": {
-        "likes": 209,
-        "retweets": 16,
-        "replies": 27
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2065791421362352476",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "我希望这个模型的意义能够体现在更多人的实际使用和协作上……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I wish the significance of the model came from more people actually using it and coming to their own conclusions But…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "I wish the significance of the model came from more people actually using it and co…",
-      "originalBody": "I wish the significance of the model came from more people actually using it and coming to their own conclusions\n\nBut yes most people in the world learn about it through signifiers and not through interacting with that which is signified https://t.co/TcbmeHuXGQ",
-      "translatedTitle": "我希望这个模型的意义能够体现在更多人的实际使用和协作上……",
-      "translatedBody": "我希望这个模型的意义能够体现在更多人实际运用它并得出自己的结论上。\n\n但确实，世界上大多数人都是通过符号而非与符号所指对象互动来了解它的。https://t.co/TcbmeHuXGQ",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2065791421362352476",
-      "publishedAt": "2026-06-13T13:40:30.000Z",
-      "score": 78.7,
-      "engagement": {
-        "likes": 198,
-        "retweets": 8,
-        "replies": 21
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2065911676000752122",
-      "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "经历过很多新车型发布会的评测，我对每个人都感同身受……",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：Having been through many frontier model launch reviews, I have empathy for everyone involved. Launching an LLM isn't…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "Having been through many frontier model launch reviews, I have empathy for everyone…",
-      "originalBody": "Having been through many frontier model launch reviews, I have empathy for everyone involved.\n\nLaunching an LLM isn't like shipping traditional software - you're making a decision about a black box with effectively infinite use cases and infinite failure modes.\n\nThe tradeoffs are hard - every increase in capability expands the space of both valuable use cases and potential misuse.\n\nAs a lab, you build extensive evals, you red-team, you iterate on the model. You debate tradeoffs across candidate checkpoints before choosing the best one to launch.\n\nThen early-access partners still uncover behaviors you didn't anticipate.\n\nYou can never be 100% certain you've understood a frontier model. You focus on reducing the uncertainty enough to launch.\n\nAs frontier models become smarter across the industry, that decision will get harder - for labs and regulators.",
-      "translatedTitle": "经历过很多新车型发布会的评测，我对每个人都感同身受……",
-      "translatedBody": "经历过多次前沿模型发布评审，我对所有参与者都感同身受。\n\n发布LLM（生命周期模型）与发布传统软件截然不同——你需要对一个黑盒做出决策，而这个黑盒实际上拥有无限的应用场景和无限的故障模式。\n\n权衡取舍非常艰难——功能的每一次提升都会扩大有价值的应用场景和潜在的误用范围。\n\n作为实验室，你需要构建广泛的评估模型，进行红队演练，并不断迭代改进模型。在选择最佳发布方案之前，你需要权衡各个候选检查点的利弊。\n\n即便如此，早期访问合作伙伴仍然会发现一些你意想不到的行为。\n\n你永远无法百分之百确定自己已经完全理解了前沿模型。你只能专注于尽可能降低不确定性，从而最终发布。\n\n随着前沿模型在整个行业中变得越来越智能，实验室和监管机构都将面临更加艰难的决策。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2065911676000752122",
-      "publishedAt": "2026-06-13T21:38:20.000Z",
-      "score": 68.22,
-      "engagement": {
-        "likes": 29,
-        "retweets": 0,
-        "replies": 2
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2065877443874038203",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "在人工智能领域，大多数人仍然试图将旧地图应用到新领域。",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：In AI most people are still trying to use old maps on a new territory. Throw the maps away. It's time to draw new one…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "In AI most people are still trying to use old maps on a new territory.",
-      "originalBody": "In AI most people are still trying to use old maps on a new territory. \n\nThrow the maps away. It's time to draw new ones. The only way you can do it is walking the land.",
-      "translatedTitle": "在人工智能领域，大多数人仍然试图将旧地图应用到新领域。",
-      "translatedBody": "在人工智能领域，大多数人仍然试图将旧地图套用到新领域。\n\n扔掉旧地图吧。是时候绘制新地图了。而唯一的方法就是实地考察。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2065877443874038203",
-      "publishedAt": "2026-06-13T19:22:19.000Z",
-      "score": 63.56,
-      "engagement": {
-        "likes": 1154,
-        "retweets": 128,
-        "replies": 148
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2065964446489710939",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "大家都认为这是一场高深的博弈或阴谋。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Everyone thinks this is some kind of 4D chess or conspiracy. But it’s quite standard to try and jailbreak AI models,…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "Everyone thinks this is some kind of 4D chess or conspiracy.",
-      "originalBody": "Everyone thinks this is some kind of 4D chess or conspiracy. But it’s quite standard to try and jailbreak AI models, and by definition they would share that research with the government given that’s whole point. I don’t think Amazon assumed this would be the next move. https://t.co/DizjwNcaLG",
-      "translatedTitle": "大家都认为这是一场高深的博弈或阴谋。",
-      "translatedBody": "大家都觉得这是某种高深的博弈或阴谋。但尝试破解人工智能模型其实很常见，而且从定义上讲，鉴于其目的，他们肯定会与政府分享研究成果。我不认为亚马逊预料到这是下一步。https://t.co/DizjwNcaLG",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2065964446489710939",
-      "publishedAt": "2026-06-14T01:08:02.000Z",
-      "score": 53.92,
-      "engagement": {
-        "likes": 195,
-        "retweets": 8,
-        "replies": 30
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2065990670184247341",
-      "type": "tweet",
-      "builder": "Aditya Agarwal",
-      "title": "我一直在思考这张照片。",
-      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I have been thinking about this photo a lot. It's a beautiful testament to human civilization and our ability to reac…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I have been thinking about this photo a lot.",
-      "originalBody": "I have been thinking about this photo a lot.\n\nIt's a beautiful testament to human civilization and our ability to reach for the stars.\n\nBut the thing that I can't get over is that a *human being* took this photo. From a tin cylinder flying on the other side of the moon. \n\nA machine could have taken it and it would have still been cool. But man was there. And that makes it so much more evocative.",
-      "translatedTitle": "我一直在思考这张照片。",
-      "translatedBody": "我一直在思考这张照片。\n\n它完美地展现了人类文明以及我们探索星辰的能力。\n\n但我始终无法释怀的是，这张照片竟然是由*人类*拍摄的。而且是从月球背面飞行的锡制圆筒上拍摄的。\n\n机器当然也可以拍出同样精彩的照片。但照片里是人。正因如此，它才更具感染力。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/adityaag/status/2065990670184247341",
-      "publishedAt": "2026-06-14T02:52:14.000Z",
-      "score": 45.74,
-      "engagement": {
-        "likes": 49,
-        "retweets": 1,
-        "replies": 1
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-06-14T07:54:00.739Z",
-    "totalCandidates": 25,
-    "textQualifiedCandidates": 13,
-    "selectedTweets": 8
+    "upstreamGeneratedAt": "2026-06-15T08:30:08.244Z",
+    "totalCandidates": 24,
+    "textQualifiedCandidates": 7,
+    "selectedTweets": 7
   }
 }
