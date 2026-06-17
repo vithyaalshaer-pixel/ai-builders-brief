@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-16",
-  "generatedAt": "2026-06-16T04:50:41.473Z",
+  "date": "2026-06-17",
+  "generatedAt": "2026-06-17T04:41:10.634Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-06-16",
-  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 24 条候选动态里，筛出 7 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-06-17",
+  "summary": "今天最值得看的是 Josh Woodward 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 25 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,204 +15,232 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
+    },
+    {
+      "slug": "product-ships",
+      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2066235625695850526",
+      "id": "2066664862671921259",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "Satya 关于 IP 地址循环的讨论：https://t.co/87HBsQptdQ > 这是我们第一次能够创建…",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Satya on loops as IP: https://t.co/87HBsQptdQ > This is the first time we can create a real cognitive loop between pe…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Satya on loops as IP: https://t.co/87HBsQptdQ > This is the first time we can creat…",
-      "originalBody": "Satya on loops as IP:\nhttps://t.co/87HBsQptdQ\n> This is the first time we can create a real cognitive loop between people and digital systems. That is a mind-bender, because it changes how we even conceptualize work inside an enterprise.\n\n> This means the real opportunity is not in picking the best model but instead in building a learning loop on top of models where human capital and token capital compound. You can offload a task, or even a job, but you can never offload your learning\n\n> In my view, our priority has to be building a frontier ecosystem, not just a frontier model, so value flows broadly across every company, every industry, and every country. One where every organization can own the learning loop that encodes its institutional knowledge, compounding its human and token capital.",
-      "translatedTitle": "Satya 关于 IP 地址循环的讨论：https://t.co/87HBsQptdQ > 这是我们第一次能够创建…",
-      "translatedBody": "Satya 谈循环即知识产权：\n\nhttps://t.co/87HBsQptdQ\n\n> 这是我们首次能够在人与数字系统之间建立真正的认知循环。这令人耳目一新，因为它彻底改变了我们对企业内部工作的理解。\n\n> 这意味着真正的机遇不在于选择最佳模型，而在于构建一个基于现有模型的学习循环，使人力资本和代币资本得以增值。你可以外包一项任务，甚至一份工作，但你永远无法外包你的学习。\n\n> 我认为，我们的首要任务是构建一个前沿生态系统，而不仅仅是一个前沿模型，这样价值才能广泛地流经每一家公司、每一个行业和每一个国家。在这个生态系统中，每个组织都可以拥有编码其机构知识的学习循环，从而增值其人力资本和代币资本。",
+      "builder": "Josh Woodward",
+      "title": "想比其他人更早体验 @GeminiApp 的未发布功能吗？",
+      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Want unreleased @GeminiApp features before anyone else? Love breaking, testing, and shaping new tech? We're opening a…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Want unreleased @GeminiApp features before anyone else?",
+      "originalBody": "Want unreleased @GeminiApp features before anyone else? Love breaking, testing, and shaping new tech?\n\nWe're opening a limited number of slots for power users to join the Gemini Trusted Tester program.\n\nSign up here: https://t.co/kSsRsavJPv https://t.co/6sxYCb8S0y",
+      "translatedTitle": "想比其他人更早体验 @GeminiApp 的未发布功能吗？",
+      "translatedBody": "想抢先体验 @GeminiApp 的未发布功能吗？热爱探索、测试和塑造新技术？\n\n我们现面向资深用户开放少量名额，诚邀您加入 Gemini 可信测试员计划。\n\n立即注册：https://t.co/kSsRsavJPv https://t.co/6sxYCb8S0y",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2066235625695850526",
-      "publishedAt": "2026-06-14T19:05:36.000Z",
-      "score": 164.61,
+      "sourceUrl": "https://x.com/joshwoodward/status/2066664862671921259",
+      "publishedAt": "2026-06-15T23:31:14.000Z",
+      "score": 162.85,
       "engagement": {
-        "likes": 8,
-        "retweets": 0,
-        "replies": 5
+        "likes": 897,
+        "retweets": 77,
+        "replies": 249
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2066415484149633329",
+      "id": "2066553521978097921",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "目前为止，除了人类学超代码（Anthropic Ultracode）之外，我还没见过多少人。",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：havent seen many people outside anthropic ultracode yet. this thing is scarily good at burning tokens but you need to…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "havent seen many people outside anthropic ultracode yet.",
-      "originalBody": "havent seen many people outside anthropic ultracode yet. this thing is scarily good at burning tokens but you need to set up your repo to parallelize properly to make use of the fanout that i think subagents are best at.\n\nbasically the idea is \"subroutines but intelligent\". when you undersatnd just how much knowledge work is just yakshaves after yakshaves that require some judgment and intelligence, you start to appreciate that dynamic workflows are not just for coding tasks...",
-      "translatedTitle": "目前为止，除了人类学超代码（Anthropic Ultracode）之外，我还没见过多少人。",
-      "translatedBody": "还没见过多少人用过Athropotic Ultracode。这玩意儿销毁代币的效率高得吓人，但你需要正确配置代码仓库以实现并行化，才能充分利用扇出功能——我觉得子代理在这方面最擅长。\n\n基本上，它的理念是“智能子程序”。当你意识到知识工作中有多少是需要判断和智能的重复性工作时，你就会明白动态工作流不仅仅适用于编码任务……",
+      "builder": "Guillermo Rauch",
+      "title": "用户呼声最高的功能之一——延长 Vercel 函数运行时间——现已推出。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：One of our most requested features, longer Vercel function runtime, is here. What looks like an innocent tweak of a c…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "One of our most requested features, longer Vercel function runtime, is here.",
+      "originalBody": "One of our most requested features, longer Vercel function runtime, is here.\n\nWhat looks like an innocent tweak of a constant… is actually the conclusion a multi-year compute platform investment.\n\nBuilds, Sandbox, and now Functions run on our homegrown microVM-based Fluid compute infrastructure.\n\nThis investment has enabled innovations like function multi-concurrency, Active CPU pricing, and Secure Compute for private connectivity to existing cloud workloads… with lots more to come, in fact, in the coming days and weeks 😎",
+      "translatedTitle": "用户呼声最高的功能之一——延长 Vercel 函数运行时间——现已推出。",
+      "translatedBody": "我们呼声最高的功能之一——更长的 Vercel 函数运行时间——终于上线了！\n\n看似只是对一个常量进行的小幅调整……实则是我们多年计算平台投资的成果。\n\n构建、沙箱以及现在的函数都运行在我们自主研发的基于微型虚拟机的 Fluid 计算基础设施上。\n\n这项投资催生了诸多创新，例如函数多并发、动态 CPU 定价以及用于与现有云工作负载建立私有连接的安全计算……事实上，未来几天和几周内还将推出更多功能 😎",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2066415484149633329",
-      "publishedAt": "2026-06-15T07:00:18.000Z",
-      "score": 149.48,
+      "sourceUrl": "https://x.com/rauchg/status/2066553521978097921",
+      "publishedAt": "2026-06-15T16:08:49.000Z",
+      "score": 158.35,
       "engagement": {
-        "likes": 45,
-        "retweets": 2,
-        "replies": 15
+        "likes": 509,
+        "retweets": 12,
+        "replies": 45
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2066237607244427761",
+      "id": "2066567117562868009",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "好文章。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Great post. The companies that are able to get their unique IP, institutional knowledge, and data into a format and a…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Great post.",
-      "originalBody": "Great post. The companies that are able to get their unique IP, institutional knowledge, and data into a format and architecture that lets them capture all of the gains and progress in AI are going to be in the best position in the future.\n\n“the real opportunity is not in picking the best model but instead in building a learning loop on top of models where human capital and token capital compound. You can offload a task, or even a job, but you can never offload your learning. The future of the firm is the ability to compound that learning across people and AI.\n\nThis requires a new architectural approach where every business is able to build agentic systems that improve over time, while still retaining control over their IP. A company should be able to switch out a “generalist” model without losing the “company veteran” expertise built into their learning system.”\n\nWe’re all collectively figuring out the right architecture for the future of AI. But it’s clear that so much of the power and value will accrue to wherever can best leverage any AI system against their information. This is also why the applied AI layer will also gain so much value over the coming years.",
-      "translatedTitle": "好文章。",
-      "translatedBody": "精彩的文章。那些能够将自身独特的知识产权、机构知识和数据整合到一种能够让他们充分利用人工智能所有优势和进展的格式和架构中的公司，将在未来占据最佳地位。\n\n“真正的机遇不在于选择最佳模型，而在于构建一个基于模型的学习循环，让人力资本和代币资本得以复利增长。你可以外包一项任务，甚至一份工作，但你永远无法外包你的学习成果。企业的未来在于能够将这种学习成果在人员和人工智能之间进行复利增长。\n\n这需要一种全新的架构方法，让每个企业都能构建随着时间推移不断改进的智能系统，同时仍然保持对其知识产权的控制。公司应该能够在不丢失其学习系统中内置的“公司资深人士”专业知识的情况下，替换掉一个“通用”模型。”\n\n我们都在共同探索人工智能未来发展的正确架构。但显而易见的是，能够最大程度地利用人工智能系统及其信息的企业，将获得巨大的权力和价值。这也是为什么应用人工智能层在未来几年也将获得巨大价值的原因。",
+      "builder": "Guillermo Rauch",
+      "title": "v0 版本承诺默认提供最佳技能。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：v0 commits to shipping the best skills by default. Our goal is to give you the equivalent of a @vercel product engine…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "v0 commits to shipping the best skills by default.",
+      "originalBody": "v0 commits to shipping the best skills by default. \n\nOur goal is to give you the equivalent of a @vercel product engineer like @shuding and @shadcn on each prompt.\n\nBut you can also now grab any skill from https://t.co/pYz1Gn97jD or add your team’s private set. https://t.co/s2tHUBYNC4",
+      "translatedTitle": "v0 版本承诺默认提供最佳技能。",
+      "translatedBody": "v0 版本承诺默认提供最佳技能。\n\n我们的目标是让您在每个提示中都能获得相当于 @vercel 产品工程师 @shuding 和 @shadcn 的专业指导。\n\n此外，您现在还可以从 https://t.co/pYz1Gn97jD 获取任何技能，或者添加您团队的私有技能集。https://t.co/s2tHUBYNC4",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2066237607244427761",
-      "publishedAt": "2026-06-14T19:13:29.000Z",
-      "score": 85.72,
+      "sourceUrl": "https://x.com/rauchg/status/2066567117562868009",
+      "publishedAt": "2026-06-15T17:02:50.000Z",
+      "score": 153.03,
       "engagement": {
-        "likes": 712,
-        "retweets": 74,
-        "replies": 58
+        "likes": 163,
+        "retweets": 12,
+        "replies": 19
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2066167615618466060",
+      "id": "2066673011554435450",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "这一切的最大赢家将是开放权重模型。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The big winner in all of this is going to be open weights models. This is a huge win for the field, as a risk that wa…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "The big winner in all of this is going to be open weights models.",
-      "originalBody": "The big winner in all of this is going to be open weights models. This is a huge win for the field, as a risk that was entirely theoretical and untested 2 days ago (that a model could be pulled back), now has a new precedent that’s been set.\n\nThe game theory the US should highly consider, and the risk with regulating AI at the model layer vs. applied layer, is that other countries now have even more incentive to develop sovereign AI.\n\nIf at any moment a model can be become unavailable to your country’s users or businesses, this poses very real risk on relying on technology from a particular country.\n\nAs a result, it forces major countries to charter their own path on AI development, which reduces America’s leadership role in this tech stack over time. The most likely solution that other countries will rely on is open weights models, which currently is generally not coming from the US.\n\nAmerica should be considering all of these downstream implications as it decides how and where in the stack to be regulating AI. At the same time, we should be doing a ton more OSS innovation.",
-      "translatedTitle": "这一切的最大赢家将是开放权重模型。",
-      "translatedBody": "这一切的最大赢家将是开放权重模型。这对该领域来说是一项巨大的胜利，因为两天前还完全是理论上的、未经检验的风险（模型可能被撤回）如今已经有了先例。\n\n美国应该认真考虑的博弈论是，在模型层而非应用层监管人工智能的风险在于，其他国家现在更有动力发展自主人工智能。\n\n如果某个模型随时可能对本国用户或企业不可用，那么依赖特定国家的技术就构成了非常现实的风险。\n\n因此，这将迫使主要国家制定自己的人工智能发展道路，从而逐渐削弱美国在该技术领域的领导地位。其他国家最有可能依赖的解决方案是开放权重模型，而目前这种模型通常并非来自美国。\n\n美国在决定如何以及在技术栈的哪个环节监管人工智能时，应该考虑所有这些后续影响。与此同时，我们应该在开源软件领域进行更多创新。",
+      "builder": "Josh Woodward",
+      "title": "我们的麦克风图标在安卓和iOS系统上都变得更好了！",
+      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验：Our mic icon just got way better on Android and iOS! This is HUGE for non-English speakers. + now 70+ languages + mix…",
+      "whyItMatters": "Josh Woodward 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Our mic icon just got way better on Android and iOS!",
+      "originalBody": "Our mic icon just got way better on Android and iOS! This is HUGE for non-English speakers.\n\n+ now 70+ languages\n+ mix languages freely\n+ don't have to change language settings\n+ still doesn't interrupt you :) https://t.co/KQuUyC52fl",
+      "translatedTitle": "我们的麦克风图标在安卓和iOS系统上都变得更好了！",
+      "translatedBody": "我们的麦克风图标在安卓和iOS系统上都进行了大幅改进！这对非英语用户来说简直太棒了！\n\n+ 现在支持70多种语言\n\n+ 自由混合语言\n\n+ 无需更改语言设置\n\n+ 依然不会打断你的语音 :) https://t.co/KQuUyC52fl",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2066167615618466060",
-      "publishedAt": "2026-06-14T14:35:21.000Z",
-      "score": 84.79,
+      "sourceUrl": "https://x.com/joshwoodward/status/2066673011554435450",
+      "publishedAt": "2026-06-16T00:03:37.000Z",
+      "score": 135.51,
       "engagement": {
-        "likes": 564,
-        "retweets": 57,
-        "replies": 76
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2066270561081454989",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "Codex 可以查看并设定自己的目标。",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Codex can see and set its own /goal. Everything we build, we build also as a tool for the agent. This is a generaliza…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Codex can see and set its own /goal.",
-      "originalBody": "Codex can see and set its own /goal. Everything we build, we build also as a tool for the agent. This is a generalization of meta prompting, where you let the agent set its own task based on your intent. https://t.co/8xyjRjFk4v",
-      "translatedTitle": "Codex 可以查看并设定自己的目标。",
-      "translatedBody": "Codex 可以查看并设置自己的目标。我们构建的每一个功能，都同时也是为智能体量身打造的工具。这是一种元提示的泛化，它允许智能体根据你的意图设定自己的任务。https://t.co/8xyjRjFk4v",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2066270561081454989",
-      "publishedAt": "2026-06-14T21:24:25.000Z",
-      "score": 66.07,
-      "engagement": {
-        "likes": 2232,
-        "retweets": 94,
-        "replies": 151
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2066269412391637050",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "下一代改变世界的年轻人几乎肯定是……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The next generation of young people who change the world will almost certainly be the people who are most adept at ma…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The next generation of young people who change the world will almost certainly be t…",
-      "originalBody": "The next generation of young people who change the world will almost certainly be the people who are most adept at making long-running multi-stage multi-team agent tasks work extremely well, and at high volume and across every part of their personal and work lives. https://t.co/xG2qvRNdW5",
-      "translatedTitle": "下一代改变世界的年轻人几乎肯定是……",
-      "translatedBody": "下一代改变世界的年轻人几乎肯定是最擅长高效、高效率地处理长期、多阶段、多团队协作的智能体任务的人，而且他们还能将这种能力运用到个人生活和工作的各个方面。https://t.co/xG2qvRNdW5",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2066269412391637050",
-      "publishedAt": "2026-06-14T21:19:52.000Z",
-      "score": 58.36,
-      "engagement": {
-        "likes": 446,
-        "retweets": 41,
-        "replies": 49
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2066388749244854771",
-      "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "写一篇技能文章并不能让你真正掌握一项技能。",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验：You don't make a good skill by writing a skill. You make it by doing the thing, fixing it 20 times, then telling the…",
-      "whyItMatters": "Zara Zhang 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "You don't make a good skill by writing a skill.",
-      "originalBody": "You don't make a good skill by writing a skill. \n\nYou make it by doing the thing, fixing it 20 times, then telling the AI to bottle up everything you just did.",
-      "translatedTitle": "写一篇技能文章并不能让你真正掌握一项技能。",
-      "translatedBody": "好的技能不是写出来就能做出的。\n\n而是通过实践，反复修改20次，然后让AI把所有修改都打包进去。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2066388749244854771",
-      "publishedAt": "2026-06-15T05:14:04.000Z",
-      "score": 26.9,
-      "engagement": {
-        "likes": 112,
-        "retweets": 8,
-        "replies": 22
+        "likes": 702,
+        "retweets": 49,
+        "replies": 73
       },
       "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2066556235961237826",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "沙盒、函数、服务器、构建，你明白了吗？！",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：A sandbox A function A server A build Are you getting it!? These are all expressions of the same underlying compute i…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "A sandbox A function A server A build Are you getting it!?",
+      "originalBody": "A sandbox\nA function\nA server\nA build \n\nAre you getting it!? These are all expressions of the same underlying compute infrastructure.\n\nWith tweaks to load balancing, concurrency, persistence, overcommit…\n\n2026 is the year serverless and servers finally converge. With no gotchas",
+      "translatedTitle": "沙盒、函数、服务器、构建，你明白了吗？！",
+      "translatedBody": "沙箱\n\n函数\n服务器\n构建\n\n明白了吗？这些都是同一底层计算基础设施的不同表现形式。\n\n通过对负载均衡、并发、持久化、超额分配等方面的调整……\n\n2026 年，无服务器架构和服务器架构将最终融合。而且没有任何陷阱。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2066556235961237826",
+      "publishedAt": "2026-06-15T16:19:36.000Z",
+      "score": 132.93,
+      "engagement": {
+        "likes": 468,
+        "retweets": 12,
+        "replies": 41
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2066735879213994434",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "这篇重要文章让我们对人工智能的未来发展方向有了一些了解。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Key post that gives a bit of insight into what the future of AI could look like. “The most interesting thing happenin…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Key post that gives a bit of insight into what the future of AI could look like.",
+      "originalBody": "Key post that gives a bit of insight into what the future of AI could look like.\n\n“The most interesting thing happening in AI isn't that one model is getting smarter. It's that intelligence is becoming increasingly customizable. The companies that win won't necessarily be the ones with the biggest models. They'll be the ones that turn intelligence into something uniquely their own.”\n\nThe ability to combine your unique data, workflows, and a layer that can route intelligence to whatever model best performs the task is clearly the future.",
+      "translatedTitle": "这篇重要文章让我们对人工智能的未来发展方向有了一些了解。",
+      "translatedBody": "这篇重要文章让我们得以窥见人工智能的未来发展方向。\n\n“人工智能领域最有趣的事情并非某个模型变得越来越智能，而是智能的可定制性日益增强。最终胜出的公司未必是拥有最庞大模型的公司，而是能够将智能转化为自身独特优势的公司。”\n\n将自身独特的数据、工作流程以及一个能够将智能路由至最适合执行任务的模型的层结合起来，显然代表着人工智能的未来发展方向。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2066735879213994434",
+      "publishedAt": "2026-06-16T04:13:26.000Z",
+      "score": 78.88,
+      "engagement": {
+        "likes": 178,
+        "retweets": 23,
+        "replies": 20
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2066554018953146689",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "说“我们需要一个人工智能领域的FDA”或类似的政府机构很容易。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：It’s very easy to say “we need an FDA for AI” or some equivalent government agency. Well this is what that would look…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "It’s very easy to say “we need an FDA for AI” or some equivalent government agency.",
+      "originalBody": "It’s very easy to say “we need an FDA for AI” or some equivalent government agency. Well this is what that would look like.\n\nThe capabilities of AI models have near infinite permutations. It’s going to be very hard have a purely objective set of metrics that can be universally applied before every model release, without extended back and forth, research, and debate between model labs, academics, and the government. \n\nNow, imagine this same process with every country that you’re doing business with, globally, for every single model release. Add in a backlog of dozens of AI model releases, and you can quickly see how in the limit this will dramatically slow down all AI progress. \n\nThis is why we need to primarily focus on regulating the applied uses of AI, where the risk actually shows up.",
+      "translatedTitle": "说“我们需要一个人工智能领域的FDA”或类似的政府机构很容易。",
+      "translatedBody": "说“我们需要一个人工智能领域的FDA”或类似的政府机构很容易。但实际情况可能并非如此。\n\n人工智能模型的能力几乎拥有无限的组合。在每次模型发布之前，如果没有模型实验室、学术界和政府之间漫长的反复磋商、研究和辩论，就很难找到一套完全客观且普遍适用的指标体系。\n\n现在，想象一下，在全球范围内，你与每个国家/地区开展业务，每次发布模型都要经历同样的流程。再加上积压的数十个人工智能模型，你很快就能明白，这最终会如何严重阻碍人工智能的发展。\n\n这就是为什么我们需要主要关注人工智能的实际应用监管，因为风险正是在这里显现的。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2066554018953146689",
+      "publishedAt": "2026-06-15T16:10:47.000Z",
+      "score": 78.64,
+      "engagement": {
+        "likes": 151,
+        "retweets": 18,
+        "replies": 37
+      },
+      "matchedFocusAreas": [
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2066457262571360396",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "每当你在我们任何一个开源项目中创建问题时，@clawsweeper 都会……",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Whenever you create an issue on one of oure open source projects, @clawsweeper will review it, and *if* it fits the V…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Whenever you create an issue on one of oure open source projects, @clawsweeper will…",
+      "originalBody": "Whenever you create an issue on one of oure open source projects, @clawsweeper will review it, and *if* it fits the VISION.md file, will pick it up and create+autoreview a PR.\n\ne.g.: https://t.co/Q4xOh8RFVp",
+      "translatedTitle": "每当你在我们任何一个开源项目中创建问题时，@clawsweeper 都会……",
+      "translatedBody": "每当您在我们的开源项目中创建问题时，@clawsweeper 都会进行审核，如果问题符合 VISION.md 文件的要求，则会将其纳入 PR 并自动审核。\n\n例如：https://t.co/Q4xOh8RFVp",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2066457262571360396",
+      "publishedAt": "2026-06-15T09:46:18.000Z",
+      "score": 55.03,
+      "engagement": {
+        "likes": 261,
+        "retweets": 16,
+        "replies": 16
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-06-15T08:30:08.244Z",
-    "totalCandidates": 24,
-    "textQualifiedCandidates": 7,
-    "selectedTweets": 7
+    "upstreamGeneratedAt": "2026-06-16T08:20:57.835Z",
+    "totalCandidates": 25,
+    "textQualifiedCandidates": 12,
+    "selectedTweets": 8
   }
 }
