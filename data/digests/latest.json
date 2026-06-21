@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-20",
-  "generatedAt": "2026-06-20T04:06:42.499Z",
+  "date": "2026-06-21",
+  "generatedAt": "2026-06-21T04:47:38.232Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-06-20",
-  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 40 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-06-21",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 22 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,136 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2067671914533863585",
+      "id": "2067936390285807940",
       "type": "tweet",
-      "builder": "Claude",
-      "title": "工件利用了您会话的完整上下文：代码库、插件、技能、连接……",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Artifacts draw on the full context of your session: codebase, plugins, skills, connected tools. They're private until…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Artifacts draw on the full context of your session: codebase, plugins, skills, conn…",
-      "originalBody": "Artifacts draw on the full context of your session: codebase, plugins, skills, connected tools. They're private until you share them, and sharing stays inside your organization.\n\nRead more: https://t.co/z4DEdRVn7a",
-      "translatedTitle": "工件利用了您会话的完整上下文：代码库、插件、技能、连接……",
-      "translatedBody": "工件包含您会话的完整上下文：代码库、插件、技能和已连接的工具。在您共享之前，它们都是私有的，并且共享仅限于您的组织内部。\n\n了解更多：https://t.co/z4DEdRVn7a",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2067671914533863585",
-      "publishedAt": "2026-06-18T18:12:54.000Z",
-      "score": 157.36,
-      "engagement": {
-        "likes": 428,
-        "retweets": 19,
-        "replies": 20
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2067671912038240487",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "Claude Code 新增内容：文物。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：New in Claude Code: Artifacts. Interactive pages built from your session, like a PR walkthrough or a living project d…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "New in Claude Code: Artifacts.",
-      "originalBody": "New in Claude Code: Artifacts.\n\nInteractive pages built from your session, like a PR walkthrough or a living project dashboard, shared with your team at a private link.\n\nAvailable in beta on Team and Enterprise plans. https://t.co/0NX9gNCaAs",
-      "translatedTitle": "Claude Code 新增内容：文物。",
-      "translatedBody": "Claude Code 新增功能：工件。\n\n基于您的会话创建的交互式页面，例如 PR 流程演示或动态项目仪表板，可通过私密链接与您的团队共享。\n\n团队版和企业版用户可体验 Beta 版功能。https://t.co/0NX9gNCaAs",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2067671912038240487",
-      "publishedAt": "2026-06-18T18:12:53.000Z",
-      "score": 150.39,
-      "engagement": {
-        "likes": 13287,
-        "retweets": 901,
-        "replies": 492
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2067802697324212562",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "这是获取《神鬼寓言》游戏权限的一个很好的更新。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：This is a good update for getting access to Fable. It also gives us a view into what the future is likely going to lo…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "This is a good update for getting access to Fable.",
-      "originalBody": "This is a good update for getting access to Fable. It also gives us a view into what the future is likely going to look like with AI regulation. \n\nThe government will have frameworks that are used to determine future model releases past a certain threshold of capability or compute levels. Given all the constituents involved, and the economic and societal significance of AI, this was practically an inevitability.\n\nIt may seem small but the implications are massive. It will mean that each model update will go through an extensive review, testing, and feedback process. And in that processes lots of groups will weigh in on the risk of the model, and there will be lots of subjectivity on what the actual risks are or practicalities of exploiting those risks. \n\nA positive potential future here would be we still get massive model progress but they just happen in bigger jumps at once, where the labs pack in major improvements since the cost and slow down of each review stacks up. \n\nOn the other side, the risk is that past a certain threshold we may not get to see the rapid back and forth of model progress that we’ve gotten used to which can have negative compounding effects. Hoping for the former outcome.",
-      "translatedTitle": "这是获取《神鬼寓言》游戏权限的一个很好的更新。",
-      "translatedBody": "对于获取 Fable 的访问权限来说，这是一个不错的更新。它也让我们得以一窥人工智能监管的未来走向。\n\n政府将建立一套框架，用于决定未来模型发布时，其能力或计算水平是否超过特定阈值。考虑到所有相关方，以及人工智能的经济和社会意义，这几乎是不可避免的。\n\n这看似微不足道，但其影响却十分巨大。这意味着每次模型更新都将经历广泛的审查、测试和反馈流程。在这个过程中，许多团体将对模型的风险进行评估，而对于实际风险是什么，以及如何利用这些风险，将存在很多主观因素。\n\n一个积极的未来设想是，我们仍然能够看到模型的飞速发展，但这些进步将以更大的幅度一次性实现，实验室会集中进行重大改进，因为每次审查的成本和速度都会累积起来。\n\n另一方面，风险在于，超过某个阈值后，我们可能无法再看到我们已经习惯的模型快速迭代更新，这可能会产生负面的累积效应。希望是前一种结果。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2067802697324212562",
-      "publishedAt": "2026-06-19T02:52:35.000Z",
-      "score": 102.41,
-      "engagement": {
-        "likes": 151,
-        "retweets": 9,
-        "replies": 15
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2067646198140358854",
-      "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "2026 年人工智能计算现状：我与 Lambda API 的 @stephenbalaban 就此进行的对话……",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：State of AI compute 2026: my conversation with @stephenbalaban of @LambdaAPI on the neocloud boom, data centers, GPUs…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "State of AI compute 2026: my conversation with @stephenbalaban of @LambdaAPI on the…",
-      "originalBody": "State of AI compute 2026: my conversation with @stephenbalaban of @LambdaAPI on the neocloud boom, data centers, GPUs and what's ahead\n\n00:00 — Cold open\n01:21 — Why GPU compute was never a commodity\n02:45 — The H100 price index and what it gets wrong\n04:02 — The real moat: technology or financing?\n05:57 — Winner-take-all, or room for many neoclouds\n06:48 — Are we overbuilding or underbuilding AI compute?\n09:26 — What if AI gets 10x more compute-efficient?\n10:44 — The real bottleneck: land, power, and shell\n11:38 — The backlash against data centers — and the misinformation\n15:00 — Opening the hood: from photons to tokens\n17:11 — Extracting more value from the same chip\n19:26 — Frontier inference and distributed training, explained\n23:26 — What actually drives compute cost\n25:21 — Lambda's chip stack and the NVIDIA relationship\n26:17 — A multi-silicon world? CUDA, CUDNN, and NVIDIA's real moat\n28:59 — Networking, storage, and the one-click cluster\n34:46 — Renting vs. owning, and full vertical integration\n36:24 — How global is Lambda? Does location still matter?\n38:44 — The financing stack: off-take agreements, SPVs, and credit\n41:16 — Why a 2023 GPU leases for more today\n42:36 — A futures market for compute?\n43:54 — Origin story: facial recognition, Perceptio, and Apple\n47:03 — The Lambda hat and Dream Scope\n48:59 — The $60K bet that became a cloud business\n52:00 — Holding the team together through the hard times\n54:30 — Bringing on a new CEO; Stephen as CTO\n57:33 — Matching xAI on high-velocity deployment\n59:29 — \"AI won't write software — it will become the software\"\n01:01:30 — Neural software vs. vibe coding\n01:04:25 — Do agents change the compute layer\n01:06:14 — Self-assembling software inside Lambda\n01:08:18 — Gigawatt-scale AI factories\n01:08:57 — One person, one GPU\n01:12:04 — Hot takes: overrated and underrated in AI",
-      "translatedTitle": "2026 年人工智能计算现状：我与 Lambda API 的 @stephenbalaban 就此进行的对话……",
-      "translatedBody": "2026 年 AI 计算现状：我与 Lambda API 的 @stephenbalaban 探讨新云热潮、数据中心、GPU 以及未来发展趋势\n\n00:00 — 开场白\n\n01:21 — 为什么 GPU 计算从未成为商品\n\n02:45 — H100 价格指数及其不足之处\n\n04:02 — 真正的护城河：技术还是融资？\n\n05:57 — 赢家通吃，还是多种新云并存？\n\n06:48 — 我们是在过度建设还是建设不足 AI 计算？\n\n09:26 — 如果 AI 的计算效率提高 10 倍会怎样？\n\n10:44 — 真正的瓶颈：土地、电力和外壳\n\n11:38 — 数据中心遭遇的反弹——以及错误信息\n\n15:00 — 揭秘：从光子到代币\n\n17:11 — 从同一芯片中挖掘更多价值\n\n19:26 — 前沿推理和分布式训练详解\n\n23:26 — 真正驱动计算成本的因素是什么\n\n25:21 — Lambda 的芯片堆栈及其与 NVIDIA 的关系\n\n26:17 — 多芯片时代？CUDA、CUDNN 和 NVIDIA 的真正护城河\n\n28:59 — 网络、存储和一键集群\n\n34:46 — 租赁与拥有，以及完全垂直整合\n\n36:24 — Lambda 的全球化程度如何？地理位置仍然重要吗？\n\n38:44 — 融资结构：承购协议、特殊目的实体 (SPV) 和信贷\n\n41:16 — 为什么 2023 年的 GPU 如今租赁价格更高\n\n42:36 — 计算期货市场？\n\n43:54 — 起源故事：面部识别、Perceptio 和苹果\n\n47:03 — Lambda 帽子和 Dream Scope\n\n48:59 — 6 万美元的投资如何发展成云业务\n\n52:00 — 如何在艰难时期维系团队\n\n54:30 — 引入新 CEO； Stephen 担任首席技术官\n\n57:33 — 高速部署中的 xAI 匹配\n\n59:29 — “人工智能不会编写软件，它将成为软件本身”\n\n01:01:30 — 神经软件 vs. 振动编码\n\n01:04:25 — 智能体会改变计算层吗？\n\n01:06:14 — Lambda 内部的自组装软件\n\n01:08:18 — 千兆瓦级人工智能工厂\n\n01:08:57 — 一人一 GPU\n\n01:12:04 — 热点观点：人工智能领域被高估和低估的方面",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2067646198140358854",
-      "publishedAt": "2026-06-18T16:30:43.000Z",
-      "score": 100.83,
-      "engagement": {
-        "likes": 99,
-        "retweets": 15,
-        "replies": 8
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2067821985342878180",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "开放权重模型能够在如此高的资本水平上得到可信的讨论……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The fact that open weights models are being discussed credibly at this level of capability should be a huge update fo…",
+      "builder": "Guillermo Rauch",
+      "title": "代理商正在推动许多健康的软件使用习惯。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Agents are motivating so many healthy software habits. Open APIs, documentation (skills), tests (evals), Unix (CLIs),…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "The fact that open weights models are being discussed credibly at this level of cap…",
-      "originalBody": "The fact that open weights models are being discussed credibly at this level of capability should be a huge update for many. \n\nThe implications of open models getting to frontier performance ensures that you can always have sovereign AI, have the ability to post train for your specific workflows, cost optimize for various workloads, and actually afford to do much more with AI (which opens up meaningfully different applications).\n\nHuge win for the applied AI layer.",
-      "translatedTitle": "开放权重模型能够在如此高的资本水平上得到可信的讨论……",
-      "translatedBody": "开放权重模型能够达到如此高的性能水平并得到如此深入的讨论，对许多人来说无疑是一项重大突破。\n\n开放模型达到性能前沿的意义在于，它确保了用户始终拥有自主的人工智能，能够针对特定工作流程进行后训练，针对各种工作负载进行成本优化，并真正能够利用人工智能做更多的事情（从而开辟出意义深远的全新应用领域）。\n\n这对应用型人工智能领域来说无疑是一项巨大的胜利。",
+      "originalTitle": "Agents are motivating so many healthy software habits.",
+      "originalBody": "Agents are motivating so many healthy software habits. Open APIs, documentation (skills), tests (evals), Unix (CLIs), payment & commerce protocols, even wide 𝙰𝚌𝚌𝚎𝚙𝚝 use (markdown/json/html).\n\nThe original vision of the WWW coming to life before our eyes.",
+      "translatedTitle": "代理商正在推动许多健康的软件使用习惯。",
+      "translatedBody": "代理商正在推动许多良好的软件使用习惯。开放的 API、文档（技能）、测试（评估）、Unix（命令行界面）、支付和商务协议，甚至广泛使用 arbench（markdown/json/html）。\n\n万维网的最初愿景正在我们眼前变为现实。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2067821985342878180",
-      "publishedAt": "2026-06-19T04:09:14.000Z",
-      "score": 82.18,
+      "sourceUrl": "https://x.com/rauchg/status/2067936390285807940",
+      "publishedAt": "2026-06-19T11:43:50.000Z",
+      "score": 188.26,
       "engagement": {
-        "likes": 319,
-        "retweets": 49,
-        "replies": 39
+        "likes": 1244,
+        "retweets": 85,
+        "replies": 86
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -161,93 +51,200 @@
       "sourceType": "x"
     },
     {
-      "id": "2067636692794875923",
+      "id": "2068165988005380478",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "伯尼·桑德斯提出一项法案，拟没收任何估值超过2亿美元的人工智能初创公司50%的股份……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Bernie Sanders introduced a bill to seize 50% of any AI startup that crosses $200M in revenue. The same anti-prosperi…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Bernie Sanders introduced a bill to seize 50% of any AI startup that crosses $200M…",
-      "originalBody": "Bernie Sanders introduced a bill to seize 50% of any AI startup that crosses $200M in revenue. \n\nThe same anti-prosperity bloc spent the year trying to ban startup acquisitions, blocking the only exit 85% of founders ever get. \n\nThis is a war on building startups in America. https://t.co/zwYL1wlLHO",
-      "translatedTitle": "伯尼·桑德斯提出一项法案，拟没收任何估值超过2亿美元的人工智能初创公司50%的股份……",
-      "translatedBody": "伯尼·桑德斯提出一项法案，拟没收任何年收入超过2亿美元的人工智能初创公司50%的股份。\n\n同一批反对经济繁荣的势力，过去一年一直在试图禁止初创公司被收购，阻碍了85%的创始人唯一能获得的退出途径。\n\n这是一场针对美国初创企业的战争。https://t.co/zwYL1wlLHO",
+      "builder": "Guillermo Rauch",
+      "title": "下一个热门编程语言是……Markdown。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The next hot programming language is… markdown. A minimal eve agent: 📂 𝚊𝚐𝚎𝚗𝚝/ 📄 𝚒𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚒𝚘𝚗𝚜.𝚖𝚍…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "The next hot programming language is… markdown.",
+      "originalBody": "The next hot programming language is… markdown.\n\nA minimal eve agent:\n\n📂 𝚊𝚐𝚎𝚗𝚝/\n  📄 𝚒𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚒𝚘𝚗𝚜.𝚖𝚍\n  📂 𝚜𝚔𝚒𝚕𝚕𝚜/\n     📄 𝚢𝚘𝚞𝚛-𝚎𝚡𝚙𝚎𝚛𝚝𝚒𝚜𝚎.𝚖𝚍\n\nDeployable in one command: 𝚟𝚎𝚛𝚌𝚎𝚕.\n\nIt’s the most accessible programming has ever been. And likely will ever be, at least for the generation of software fully defined and controlled by us humans.\n\n(As a fun fact, one of the initial prototypes for eve was codenamed 𝚕𝚊𝚜𝚝 by @timolins, both in homage to ‘@nextjs for agents’ but also in recognition of how enduring eve’s design feels to us.)",
+      "translatedTitle": "下一个热门编程语言是……Markdown。",
+      "translatedBody": "下一个热门编程语言是……Markdown。\n\n一个极简的 EVE 代理：\n\n📂 𝚊𝚐𝚎𝚗𝚝/\n\n📄 𝚒𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚒𝚘𝚗𝚜.𝚖𝚍\n\n📂 𝚜𝚔𝚒𝚕𝚕𝚜/\n\n📄 𝚢𝚘𝚞𝚛-𝚎𝚡𝚙𝚎𝚛𝚝𝚒𝚜𝚎.𝚖𝚍\n\n只需一条命令即可部署：𝚟𝚎𝚛𝚌𝚎𝚕.\n\n这是有史以来最容易上手的编程方式。而且很可能是未来最容易上手的，至少对于完全由我们人类定义和控制的软件而言是如此。\n\n（有趣的是，Eve 的早期原型之一曾被 @timolins 命名为 𝚕𝚊𝚜𝚝，这既是为了致敬“@nextjs for agents”，也是为了表达我们对 Eve 设计经久不衰的感受。）",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2067636692794875923",
-      "publishedAt": "2026-06-18T15:52:57.000Z",
-      "score": 73.64,
+      "sourceUrl": "https://x.com/rauchg/status/2068165988005380478",
+      "publishedAt": "2026-06-20T02:56:10.000Z",
+      "score": 184.77,
       "engagement": {
-        "likes": 8496,
-        "retweets": 689,
-        "replies": 952
+        "likes": 624,
+        "retweets": 33,
+        "replies": 66
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2068233518858342887",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "10年前，@bendhalpern 和 @jessleenyc 会邀请你写下你的第一篇……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：10 years ago, you will be asked by @bendhalpern and @jessleenyc to write your first blog on @thepracticaldev. it is v…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "10 years ago, you will be asked by @bendhalpern and @jessleenyc to write your first…",
+      "originalBody": "10 years ago, you will be asked by @bendhalpern and @jessleenyc to write your first blog on @thepracticaldev.\n\nit is very important that you answer.\n\n*now @MLHacks, who are producing the first ever physical daily newspaper at @aidotengineer WF https://t.co/tYDapAogYY https://t.co/nVuMvkDhnQ",
+      "translatedTitle": "10年前，@bendhalpern 和 @jessleenyc 会邀请你写下你的第一篇……",
+      "translatedBody": "十年前，@bendhalpern 和 @jessleenyc 会邀请你为 @thepracticaldev 写你的第一篇博客。\n\n你的回答至关重要。\n\n*现在，@MLHacks 正在 @aidotengineer 制作有史以来第一份纸质日报。https://t.co/tYDapAogYY https://t.co/nVuMvkDhnQ",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2068233518858342887",
+      "publishedAt": "2026-06-20T07:24:31.000Z",
+      "score": 113.12,
+      "engagement": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 3
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2068162191740764622",
+      "type": "tweet",
+      "builder": "Amanda Askell",
+      "title": "认为我们不应该进行更多医学扫描的观点，因为偶然发现的结果会导致……",
+      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The view that we shouldn't do more medical scans because incidental findings cause a lot of harm doesn't sit well wit…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "The view that we shouldn't do more medical scans because incidental findings cause…",
+      "originalBody": "The view that we shouldn't do more medical scans because incidental findings cause a lot of harm doesn't sit well with me. It seems like the issue it points to isn't the scan but the response to it. If you see something on a scan but have no other symptoms, you could ignore it.",
+      "translatedTitle": "认为我们不应该进行更多医学扫描的观点，因为偶然发现的结果会导致……",
+      "translatedBody": "认为我们不应该做更多医学扫描，因为意外发现会造成很多伤害的观点，我并不认同。这种观点似乎指向的问题不在于扫描本身，而在于对扫描结果的反应。如果你在扫描中发现了一些异常，但没有其他症状，你可能会忽略它。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/AmandaAskell/status/2068162191740764622",
+      "publishedAt": "2026-06-20T02:41:05.000Z",
+      "score": 85.58,
+      "engagement": {
+        "likes": 774,
+        "retweets": 24,
+        "replies": 66
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2068068247413694532",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "与代理商合作成功的关键在于能否获得代理商的信任……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The main variable in getting success with agents is whether you can get the agent the context it needs to do its work…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "The main variable in getting success with agents is whether you can get the agent t…",
+      "originalBody": "The main variable in getting success with agents is whether you can get the agent the context it needs to do its work; and a major factor in that is if you can create a shared working area for that agent that a human can understand as well. \n\nThis is one of the reasons why agents using file systems is such a big deal. It creates a unified system that both the person and the agent can work within to pass around data. \n\n“What they need is a working set: plans, notes, task lists, policies, drafts, summaries, logs, corrections,  decisions, etc. For that layer, a filesystem-shaped interface tends to be more legible to both the model and the humans supervising it.”\n\nIt turns out giving agents access to the systems we already know how to use, but in a way that is best optimized for them, is the perfect primitive for agents to work.",
+      "translatedTitle": "与代理商合作成功的关键在于能否获得代理商的信任……",
+      "translatedBody": "智能体能否成功的关键在于能否为其提供完成工作所需的上下文；而能否为其创建一个人类也能理解的共享工作区，则是实现这一目标的重要因素。\n\n这正是智能体使用文件系统如此重要的原因之一。它创建了一个统一的系统，人类和智能体都可以在其中协作并传递数据。\n\n“他们需要的是一个工作集：计划、笔记、任务清单、策略、草稿、摘要、日志、更正、决策等等。对于这一层来说，文件系统形式的界面对于模型和监督它的人类来说都更容易理解。”\n\n事实证明，让智能体访问我们已经熟悉的系统，并以最适合它们的方式进行访问，是智能体开展工作的完美基础。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2068068247413694532",
+      "publishedAt": "2026-06-19T20:27:47.000Z",
+      "score": 81.7,
+      "engagement": {
+        "likes": 308,
+        "retweets": 30,
+        "replies": 46
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2068120572673077274",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "Codex 中的远程/本地交接！",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Remote / local handoff in Codex! Removing boundaries one at a time. When you let the model be in the driver seat, you…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "Remote / local handoff in Codex!",
+      "originalBody": "Remote / local handoff in Codex! Removing boundaries one at a time. \n\nWhen you let the model be in the driver seat, you actually need less infrastructure. https://t.co/sfFYixfXPl",
+      "translatedTitle": "Codex 中的远程/本地交接！",
+      "translatedBody": "Codex 实现远程/本地交接！逐步打破边界。\n\n当模型主导一切时，实际上所需的基础设施反而更少。https://t.co/sfFYixfXPl",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2068120572673077274",
+      "publishedAt": "2026-06-19T23:55:43.000Z",
+      "score": 62.84,
+      "engagement": {
+        "likes": 1138,
+        "retweets": 71,
+        "replies": 95
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2068218515723866477",
+      "type": "tweet",
+      "builder": "Amanda Askell",
+      "title": "我一生中大部分时间都饱受慢性疼痛的折磨，直到一位医生做了核磁共振检查，找到了疼痛的根源……",
+      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：I had chronic pain for most of my life until a doctor did an MRI of the pain source and found a congenital condition…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "I had chronic pain for most of my life until a doctor did an MRI of the pain source…",
+      "originalBody": "I had chronic pain for most of my life until a doctor did an MRI of the pain source and found a congenital condition that was then fixed with surgery. Now I'm wondering if I had 30+ years of pain because doctors worried I was too stupid to be in the presence of scan results.",
+      "translatedTitle": "我一生中大部分时间都饱受慢性疼痛的折磨，直到一位医生做了核磁共振检查，找到了疼痛的根源……",
+      "translatedBody": "我一生中大部分时间都饱受慢性疼痛的折磨，直到一位医生为我做了核磁共振成像检查，发现了一种先天性疾病，并通过手术治愈了它。现在我开始怀疑，我是不是因为担心自己太笨，无法面对检查结果，才忍受了三十多年的疼痛。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/AmandaAskell/status/2068218515723866477",
+      "publishedAt": "2026-06-20T06:24:54.000Z",
+      "score": 60.31,
+      "engagement": {
+        "likes": 561,
+        "retweets": 19,
+        "replies": 28
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2068175172960690266",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我曾经是 Claude Code 的铁杆用户。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I used to be a die-hard Claude Code user. Codex has won me over because: → GPT-5.5 is excellent → Fast mode + generou…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I used to be a die-hard Claude Code user.",
+      "originalBody": "I used to be a die-hard Claude Code user.\n\nCodex has won me over because:\n\n→ GPT-5.5 is excellent\n→ Fast mode + generous limits = more reps\n→ Little touches like steering, auto remote control on phone, etc\n\nBut most of all Codex's browser and computer use capabilities are simply goated. I built so many workflows relying on those two things alone instead of hunting for APIs.\n\nI still use Claude Code too. The app seems to be getting better and the design and frontend capability of Opus is still much better than GPT. Whenever Fable comes back that's another reason to go back.\n\nHonestly, I hope these two compete forever and other players (Cursor/Grok, Gemini, etc) all stay competitive.\n\nThis way the builder keeps winning 🙂",
+      "translatedTitle": "我曾经是 Claude Code 的铁杆用户。",
+      "translatedBody": "我以前是 Claude Code 的铁杆用户。\n\nCodex 最终征服了我，原因如下：\n\n→ GPT-5.5 非常出色\n\n→ 快速模式 + 宽松的限制 = 更多练习机会\n\n→ 一些贴心的小功能，例如方向盘控制、手机自动远程控制等等\n\n但最重要的是，Codex 在浏览器和电脑端的使用体验简直无与伦比。我构建了许多工作流程，完全依赖于这两点，而无需费力寻找 API。\n\n我仍然在使用 Claude Code。它的应用似乎在不断改进，而且 Opus 的设计和前端功能仍然远胜于 GPT。如果 Fable 回归，那将是我回归的另一个理由。\n\n说实话，我希望这两款软件能够一直竞争下去，其他同类产品（例如 Cursor/Grok、Gemini 等）也能保持竞争力。\n\n这样，开发者才能一直获胜 🙂",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2068175172960690266",
+      "publishedAt": "2026-06-20T03:32:40.000Z",
+      "score": 56.53,
+      "engagement": {
+        "likes": 350,
+        "retweets": 5,
+        "replies": 42
       },
       "matchedFocusAreas": [
         "Coding Agents"
       ],
       "sourceType": "x"
-    },
-    {
-      "id": "2067830061009633294",
-      "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "几周前悄悄启动了一个副业项目……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Launched a side project quietly a few weeks ago.. Wanted to test how many impressions/clicks I could get by simply ha…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Launched a side project quietly a few weeks ago..",
-      "originalBody": "Launched a side project quietly a few weeks ago.. \n\nWanted to test how many impressions/clicks I could get by simply having Claude Code / Codex optimize the hell out of the website.\n\nGot it to about 16k impressions, and 94 clicks over the last 28 days. Not bad eh?\n\nNo backlinks, no mention of this website anywhere on my socials, no Reddit hacking - simply old school SEO/GEO optimization. \n\nOfficial launch soon - parents will like this one 🍩",
-      "translatedTitle": "几周前悄悄启动了一个副业项目……",
-      "translatedBody": "几周前悄悄启动了一个副业项目……\n\n我想测试一下，如果只让 Claude Code / Codex 对网站进行深度优化，能获得多少曝光量/点击量。\n\n过去 28 天里，网站获得了大约 1.6 万次曝光和 94 次点击。还不错吧？\n\n没有使用任何反向链接，我的社交媒体上也从未提及过这个网站，也没有使用任何 Reddit 黑客手段——完全是传统的 SEO/GEO 优化。\n\n正式上线在即——爸妈们肯定会喜欢这个🍩",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2067830061009633294",
-      "publishedAt": "2026-06-19T04:41:19.000Z",
-      "score": 72.57,
-      "engagement": {
-        "likes": 47,
-        "retweets": 1,
-        "replies": 12
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2067703108344369306",
-      "type": "tweet",
-      "builder": "Nan Yu",
-      "title": "我们反复尝试了很多次才找到合适的模式。",
-      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：It took us a lot of iterations to find the right pattern for this. Early on we were very naive and we thought that th…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "It took us a lot of iterations to find the right pattern for this.",
-      "originalBody": "It took us a lot of iterations to find the right pattern for this. Early on we were very naive and we thought that the agent could one shot project updates without much input from users.\n\nThat approach ended up creating a bunch of slop, because users disengaged their brain from the process of writing an update.\n\nBy switching to a multi turn interactive mode, the agent prompts you and asks you what to emphasize, what's most important, what context is missing, etc.\n\nThis simple change elicits much better project updates and ensures that the user has a chance to steer rather than simply being asked to say yes to everything.\n\nA very good example of introducing friction for a net benefit.",
-      "translatedTitle": "我们反复尝试了很多次才找到合适的模式。",
-      "translatedBody": "我们经过多次迭代才找到合适的模式。一开始我们非常天真，以为智能体可以一次性完成项目更新，无需用户过多参与。\n\n这种方法最终导致大量信息质量低下，因为用户在编写更新的过程中会失去思考。\n\n通过切换到多轮交互模式，智能体会提示用户，询问需要强调的内容、最重要的信息、缺少哪些上下文等等。\n\n这个简单的改变显著提升了项目更新的质量，并确保用户有机会参与决策，而不是被迫对所有问题都点赞。\n\n这是一个引入摩擦反而带来收益的绝佳案例。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thenanyu/status/2067703108344369306",
-      "publishedAt": "2026-06-18T20:16:51.000Z",
-      "score": 68.3,
-      "engagement": {
-        "likes": 24,
-        "retweets": 2,
-        "replies": 3
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-06-19T08:14:32.084Z",
-    "totalCandidates": 40,
-    "textQualifiedCandidates": 18,
+    "upstreamGeneratedAt": "2026-06-20T07:37:23.218Z",
+    "totalCandidates": 22,
+    "textQualifiedCandidates": 12,
     "selectedTweets": 8
   }
 }
