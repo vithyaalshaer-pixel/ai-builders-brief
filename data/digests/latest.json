@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-22",
-  "generatedAt": "2026-06-22T04:55:06.159Z",
+  "date": "2026-06-23",
+  "generatedAt": "2026-06-23T03:57:22.150Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-06-22",
-  "summary": "今天最值得看的是 Aaron Levie 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 23 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-06-23",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 27 条候选动态里，筛出 14 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,218 +23,216 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2068434042148782515",
+      "id": "2068838709517336756",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "团队在 https://t.co/A1yfEM3p7O 上进行了烹饪。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：The team cooked on https://t.co/A1yfEM3p7O performance. 'Everything the light touches' was optimized Simba. Painting,…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "The team cooked on https://t.co/A1yfEM3p7O performance.",
+      "originalBody": "The team cooked on https://t.co/A1yfEM3p7O performance. 'Everything the light touches' was optimized Simba. Painting, layout, WebGPU shaders, blocking scripts. Every frame scrutinized. The best part is that we'll be updating our https://t.co/pYz1Gn9F9b with the lessons learned! https://t.co/NkxvURcNbq",
+      "translatedTitle": "团队在 https://t.co/A1yfEM3p7O 上进行了烹饪。",
+      "translatedBody": "团队对 https://t.co/A1yfEM3p7O 的性能进行了优化。“光照下的一切”都经过了 Simba 的优化。包括绘制、布局、WebGPU 着色器和阻塞脚本。每一帧都经过仔细检查。最棒的是，我们将把这些经验教训更新到 https://t.co/pYz1Gn9F9b 中！https://t.co/NkxvURcNbq",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2068838709517336756",
+      "publishedAt": "2026-06-21T23:29:20.000Z",
+      "score": 135.51,
+      "engagement": {
+        "likes": 791,
+        "retweets": 20,
+        "replies": 52
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2068924451887129055",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "顺便说一下，我一直在为我们正在筹建的新媒体实验室寻找保险公司……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：btw i've been shopping around for insurers for the New Media Lab we are setting up (basically the creative playground…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "btw i've been shopping around for insurers for the New Media Lab we are setting up…",
+      "originalBody": "btw i've been shopping around for insurers for the New Media Lab we are setting up (basically the creative playground housing swyx inc) and yeah the NPS of Corgi is insanely high\n\nmy real estate broker: \"just go with corgi they are covering every single one of my clients rn\"\n\nbreaking through with ~100% greenfield market share like this is unheard of in the insurance industry",
+      "translatedTitle": "顺便说一下，我一直在为我们正在筹建的新媒体实验室寻找保险公司……",
+      "translatedBody": "顺便一提，我一直在为我们正在筹建的新媒体实验室（基本上就是Swyx Inc.的创意乐园）寻找保险公司，Corgi的NPS（净推荐值）确实高得惊人。\n\n我的房地产经纪人说：“就选Corgi吧，他们现在承保了我所有客户。”\n\n像这样在新市场占据近100%的份额，在保险行业简直闻所未闻。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2068924451887129055",
+      "publishedAt": "2026-06-22T05:10:02.000Z",
+      "score": 123.54,
+      "engagement": {
+        "likes": 56,
+        "retweets": 1,
+        "replies": 9
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2068917230570795178",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "目前开源权重人工智能领域的发展令人瞩目。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Pretty remarkable what’s happening with open weights AI right now. We’re seeing models achieve SOTA results on specif…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Pretty remarkable what’s happening with open weights AI right now.",
-      "originalBody": "Pretty remarkable what’s happening with open weights AI right now. We’re seeing models achieve SOTA results on specific tasks, and getting close to frontier on some areas of coding and other domains. \n\nThe more that open weights is able to maintain only a marginal gap from the frontier, instead of a widening gap, the more value that can be created with AI.\n\nIncidentally, this is actually fine for the frontier labs as well; if we can lower the cost of an overall task then AI usage goes up in general. You’re still likely using frontier models for planning, orchestration, reviewing, and other parts of work. \n\nBut this is all very good for the applied layer of AI, which is now in a great position to cost optimize workloads with cheaper models or use tailored open models post-trained for specific tasks to improve performance.",
-      "translatedTitle": "目前开源权重人工智能领域的发展令人瞩目。",
-      "translatedBody": "目前开放权重人工智能的发展势头非常强劲。我们看到模型在特定任务上取得了最先进的成果，并在某些编码领域和其他领域接近前沿水平。\n\n开放权重与前沿水平之间的差距越小，而不是越大，人工智能就能创造越多的价值。\n\n顺便一提，这对前沿实验室来说也是一件好事；如果我们能降低整体任务的成本，那么人工智能的使用率就会普遍提高。您可能仍然会使用前沿模型进行规划、编排、审查和其他工作。\n\n但这对于人工智能的应用层来说非常有利，应用层现在可以利用更便宜的模型来优化工作负载的成本，或者使用针对特定任务进行后训练的定制开放模型来提高性能。",
+      "title": "推动人工智能架构发展的新思路。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Another new idea to push the state of AI architectures forward. Sakana released a model that effectively uses a mixtu…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Another new idea to push the state of AI architectures forward.",
+      "originalBody": "Another new idea to push the state of AI architectures forward. Sakana released a model that effectively uses a mixture of models to get work done. You get a single API but then the work gets farmed out the model that best performs the task. \n\n“Fugu manages model selection, delegation, verification, and synthesis automatically. It solves tasks directly when that is enough, or coordinates a team of expert models when a problem calls for more. The complexity of a multi-agent system never reaches your code.”\n\nThis is generally how applied AI products are building their agent harnesses at this point, but the idea of making this an LLM that any developer can interact with is also a great idea. As we get more innovation with both frontier closed and OSS models, there’s going to be a ton of value produced for the layer that can route the best.",
+      "translatedTitle": "推动人工智能架构发展的新思路。",
+      "translatedBody": "又一个推动人工智能架构发展的新思路。Sakana 发布了一个模型，它有效地混合使用多个模型来完成任务。用户只需使用一个 API，任务就会自动分配给最适合执行该任务的模型。\n\n“Fugu 可以自动管理模型选择、委托、验证和合成。它可以直接解决任务（如果任务足够），也可以在问题需要更多模型时协调一个专家模型团队。多智能体系统的复杂性不会影响到您的代码。”\n\n目前，应用型人工智能产品通常就是这样构建其智能体框架的，但将其设计成任何开发者都可以交互的层级管理（LLM）也是一个绝妙的想法。随着封闭式和开源模型的创新不断涌现，能够路由最佳模型的层级将创造巨大的价值。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2068434042148782515",
-      "publishedAt": "2026-06-20T20:41:19.000Z",
-      "score": 83.29,
+      "sourceUrl": "https://x.com/levie/status/2068917230570795178",
+      "publishedAt": "2026-06-22T04:41:21.000Z",
+      "score": 105.29,
       "engagement": {
-        "likes": 434,
-        "retweets": 45,
-        "replies": 46
+        "likes": 206,
+        "retweets": 23,
+        "replies": 25
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2068350509027876876",
-      "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "产品经理的角色也面临着身份认同危机。",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The Product role is having an identity crisis too. Engineering has found its AI-native interface - SWE agents dramati…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "The Product role is having an identity crisis too.",
-      "originalBody": "The Product role is having an identity crisis too.\n\nEngineering has found its AI-native interface - SWE agents dramatically increase individual leverage.\nCompanies are asking PMs to use AI, but they haven't evolved the role.\n\nSo there are two camps.\n\nThe old-school PM.\nAI accelerates the old job: more PRDs, more strategy decks, more docs. Lots of output, not much judgment.\n\nThe Builder PM.\nBuilder PMs use AI to expand their role across the product lifecycle.\n\nThey explore a much larger surface area of ideas to arrive at the best. They run agents for market and user research, query logs and analytics directly, generate competing ideas, then curate the best ones.\n\nThey constantly evolve their workflows to take advantage of the latest in AI.\n\nTheir outputs are increasingly prototypes rather than docs - engineers react far more constructively to demos than docs.\n\nThey do this all without compromising on the craft -they still form a strong point of view on what should be built and why.\n\nI think the role is moving much closer to Builder PMs.",
-      "translatedTitle": "产品经理的角色也面临着身份认同危机。",
-      "translatedBody": "产品经理的角色也正面临着身份认同危机。\n\n工程团队已经找到了与人工智能完美契合的界面——软件工程师（SWE）的智能体显著提升了个人影响力。\n\n公司要求产品经理使用人工智能，但他们的角色本身却没有随之进化。\n\n因此，产品经理分为两大阵营。\n\n传统型产品经理。\n\n人工智能加速了传统的产品开发流程：更多的产品需求文档（PRD）、更多的策略演示文稿、更多的文档。产出量大，但缺乏判断力。\n\n构建型产品经理。\n\n构建型产品经理利用人工智能拓展其在产品生命周期中的角色。\n\n他们探索更广泛的创意领域，以找到最佳方案。他们运行智能体进行市场和用户调研，直接查询日志和分析数据，生成多个竞争方案，然后筛选出最佳方案。\n\n他们不断改进工作流程，以充分利用最新的人工智能技术。\n\n他们的产出越来越多地是原型而非文档——工程师对演示的反馈远比对文档的反馈更具建设性。\n\n他们做到这一切的同时，丝毫不妥协于工艺——他们仍然对应该建造什么以及为什么建造有着清晰的见解。\n\n我认为这个角色正变得越来越接近于建造型项目经理。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2068350509027876876",
-      "publishedAt": "2026-06-20T15:09:24.000Z",
-      "score": 76.48,
-      "engagement": {
-        "likes": 125,
-        "retweets": 10,
-        "replies": 10
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
+        "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2068568650924409260",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "我们构建 Codex App 时，前端模型还算可以。",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：We built the Codex App with models that were okayish at front-end. Wait to see what we can do when we finally improve…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "We built the Codex App with models that were okayish at front-end.",
-      "originalBody": "We built the Codex App with models that were okayish at front-end.\n\nWait to see what we can do when we finally improve front-end capabilities significantly in our models. That day will be something.",
-      "translatedTitle": "我们构建 Codex App 时，前端模型还算可以。",
-      "translatedBody": "我们用前端性能尚可的模型构建了 Codex 应用。\n\n等我们最终大幅提升模型的前端能力后，看看我们能做到什么程度。那一天将会非常精彩。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2068568650924409260",
-      "publishedAt": "2026-06-21T05:36:13.000Z",
-      "score": 68.85,
-      "engagement": {
-        "likes": 3143,
-        "retweets": 118,
-        "replies": 382
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2068396602973143274",
-      "type": "tweet",
-      "builder": "Nan Yu",
-      "title": "嘿，@Outlook 和 @gmail 的开发者们，你们可以把这条推文发给你们的客服人员，他们会……",
-      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Hey devs at @Outlook and @gmail you can point your agents at this tweet and they will fix it for you",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Hey devs at @Outlook and @gmail you can point your agents at this tweet and they wi…",
-      "originalBody": "Hey devs at @Outlook and @gmail you can point your agents at this tweet and they will fix it for you",
-      "translatedTitle": "嘿，@Outlook 和 @gmail 的开发者们，你们可以把这条推文发给你们的客服人员，他们会……",
-      "translatedBody": "嘿，@Outlook 和 @gmail 的开发者们，你们可以把这条推文发给你们的客服人员，他们会帮你们解决这个问题。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thenanyu/status/2068396602973143274",
-      "publishedAt": "2026-06-20T18:12:33.000Z",
-      "score": 64.77,
-      "engagement": {
-        "likes": 16,
-        "retweets": 0,
-        "replies": 0
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2068411894185295969",
+      "id": "2068755908319236338",
       "type": "tweet",
       "builder": "Peter Yang",
-      "title": "我要唱反调，说我几乎没怎么用完我的 Codex 和 Claude 200 美元……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：I will go against the grain and say I can barely use up my Codex and Claude $200 subscriptions so I don’t see the poi…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "I will go against the grain and say I can barely use up my Codex and Claude $200 su…",
-      "originalBody": "I will go against the grain and say I can barely use up my Codex and Claude $200 subscriptions so I don’t see the point of trying local models…\n\nAlso to try the latest glm locally requires 512 mb which is like a $10K Max Studio?",
-      "translatedTitle": "我要唱反调，说我几乎没怎么用完我的 Codex 和 Claude 200 美元……",
-      "translatedBody": "我要唱反调了，我Codex和Claude的200美元订阅费都还没用完，所以我觉得尝试本地模型没什么意义……\n\n而且，在本地试用最新版的glm需要512MB的内存，这相当于一台价值1万美元的Max Studio？",
+      "title": "@liu8in 解释了为什么 HTML 最终成为智能视频制作的基础：“我们……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Why HTML turned out to be the foundation for agentic video making from @liu8in: “We’ve been trying to build a video a…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Why HTML turned out to be the foundation for agentic video making from @liu8in: “We…",
+      "originalBody": "Why HTML turned out to be the foundation for agentic video making from @liu8in:\n\n“We’ve been trying to build a video agent. However, we learned the hard way that agents have no visual intelligence.\n\nSo that’s when we turned to code. HTML is the LLM’s native language. LLMs can express not only information, but also visual aesthetics through HTML, CSS, and JavaScript.\n\nFootage, images, assets, SVGs can all sit on top of HTML.\"\n\n📌 As an example, see how you can make a product video from any website URL here: https://t.co/Q2p8XzCfc6",
+      "translatedTitle": "@liu8in 解释了为什么 HTML 最终成为智能视频制作的基础：“我们……",
+      "translatedBody": "@liu8in 解释了为什么 HTML 最终成为了智能视频制作的基础：\n\n“我们一直在尝试构建一个视频智能体。然而，我们惨痛地发现，智能体本身并不具备视觉智能。\n\n因此，我们转向了代码。HTML 是智能体视频制作的原生语言。智能体视频制作不仅可以通过 HTML、CSS 和 JavaScript 来表达信息，还可以表达视觉美感。\n\n视频素材、图片、资源、SVG 等都可以叠加在 HTML 之上。”\n\n📌 例如，您可以点击这里查看如何从任何网站 URL 制作产品视频：https://t.co/Q2p8XzCfc6",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2068411894185295969",
-      "publishedAt": "2026-06-20T19:13:19.000Z",
-      "score": 60.21,
+      "sourceUrl": "https://x.com/petergyang/status/2068755908319236338",
+      "publishedAt": "2026-06-21T18:00:18.000Z",
+      "score": 96.51,
       "engagement": {
-        "likes": 606,
-        "retweets": 13,
-        "replies": 151
+        "likes": 46,
+        "retweets": 3,
+        "replies": 6
       },
       "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2068318470215811080",
-      "type": "tweet",
-      "builder": "Nan Yu",
-      "title": "为什么电子邮件应用程序中粘贴的文本默认不采用字体样式？",
-      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Why isn’t the default for pasted text in email apps to take on the font treatment surrounding/preceding it? Crazy tha…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Why isn’t the default for pasted text in email apps to take on the font treatment s…",
-      "originalBody": "Why isn’t the default for pasted text in email apps to take on the font treatment surrounding/preceding it?\n\nCrazy that this is still a problem",
-      "translatedTitle": "为什么电子邮件应用程序中粘贴的文本默认不采用字体样式？",
-      "translatedBody": "为什么电子邮件应用中粘贴的文本默认不采用周围/前面文本的字体样式？\n\n真奇怪，这个问题居然还没解决。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thenanyu/status/2068318470215811080",
-      "publishedAt": "2026-06-20T13:02:05.000Z",
-      "score": 57.31,
-      "engagement": {
-        "likes": 442,
-        "retweets": 4,
-        "replies": 28
-      },
-      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2068411460620042720",
+      "id": "2068851573175021864",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "经纪人使用软件的频率将是人工的100倍。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Agents will use software 100X more than people. When that happens, theres a huge need for guardrails on what the agen…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Agents will use software 100X more than people.",
+      "originalBody": "Agents will use software 100X more than people. \n\nWhen that happens, theres a huge need for guardrails on what the agents are doing so they don’t leak data or change the wrong information, authoritative sources of truth for them to work with, logging and auditing of what they’re doing, the ability to collaborate with people through these systems, and more.\n\nA simple query on any given agentic task could pull in more data than a user touches in a month. As a result, there are lots of categories of software that when it goes headless that the usage and value go up substantially. Agents will end up using our CRM data, documents and corporate knowledge, analytics data, and other information far more than people ever did.\n\nThe platforms that can move toward the model of powering these headless interactions, and have a business model and technology strategy to support this, will be in the best position in the future.",
+      "translatedTitle": "经纪人使用软件的频率将是人工的100倍。",
+      "translatedBody": "客服人员使用软件的频率将是人工的百倍。\n\n届时，我们需要为客服人员的操作设置诸多限制，以防止数据泄露或错误修改信息；我们需要权威的信息来源供他们使用；我们需要记录和审计他们的操作；我们需要他们能够通过这些系统与他人协作等等。\n\n对任何客服任务进行简单的查询，其数据量都可能超过用户一个月的数据量。因此，许多软件类别在实现无头模式后，其使用率和价值将大幅提升。客服人员最终将比以往任何时候都更频繁地使用我们的客户关系管理 (CRM) 数据、文档、企业知识、分析数据和其他信息。\n\n能够转向支持这种无头交互模式，并拥有相应的商业模式和技术战略的平台，将在未来占据最佳地位。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2068851573175021864",
+      "publishedAt": "2026-06-22T00:20:27.000Z",
+      "score": 80.79,
+      "engagement": {
+        "likes": 228,
+        "retweets": 44,
+        "replies": 34
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2068701356358308112",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "我觉得回过头来看，有一点被低估了，那就是它对……的实用性。",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I think one underestimated thing when we look back on it was how useful it is to have your own personal brain and com…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I think one underestimated thing when we look back on it was how useful it is to ha…",
+      "originalBody": "I think one underestimated thing when we look back on it was how useful it is to have your own personal brain and company brain in 2026 at the dawn of usable AGI\n\nAGI gives you the intelligence\n\nYou still have to collect your personal context to get the real unlock",
+      "translatedTitle": "我觉得回过头来看，有一点被低估了，那就是它对……的实用性。",
+      "translatedBody": "回首往事，我认为有一点被低估了：在2026年通用人工智能（AGI）即将普及之际，拥有个人和公司各自的“大脑”是多么重要。\n\nAGI赋予你智能。\n\n但你仍然需要收集个人背景信息，才能真正解锁其价值。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2068701356358308112",
+      "publishedAt": "2026-06-21T14:23:32.000Z",
+      "score": 62.27,
+      "engagement": {
+        "likes": 964,
+        "retweets": 66,
+        "replies": 120
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2068961217524490739",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "这里有人在讨论OpenClaw发生了什么事。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：People here discussing what happened with OpenClaw. The hype died down. We improved quality and grew a team. We creat…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "People here discussing what happened with OpenClaw.",
+      "originalBody": "People here discussing what happened with OpenClaw.\n\nThe hype died down. We improved quality and grew a team. We created a non-profit whereas competiors are VC funded and have other agendas.\n\nThis is our strongest week so far. https://t.co/j6uwRneNvh",
+      "translatedTitle": "这里有人在讨论OpenClaw发生了什么事。",
+      "translatedBody": "大家正在讨论 OpenClaw 的发展情况。\n\n热度已经消退。我们提升了产品质量，团队也壮大了。我们创建了一个非营利组织，而竞争对手则获得了风险投资，并且另有图谋。\n\n这是我们迄今为止业绩最好的一周。https://t.co/j6uwRneNvh",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2068961217524490739",
+      "publishedAt": "2026-06-22T07:36:08.000Z",
+      "score": 59.31,
+      "engagement": {
+        "likes": 273,
+        "retweets": 15,
+        "replies": 37
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2068714024934740476",
       "type": "tweet",
       "builder": "Nikunj Kothari",
-      "title": "人工智能最大的问题在于，先验信息需要每隔几周重置一次。",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：The biggest problem with AI is that priors need to be reset every few weeks.. and it seems like most people are incap…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "The biggest problem with AI is that priors need to be reset every few weeks..",
-      "originalBody": "The biggest problem with AI is that priors need to be reset every few weeks.. and it seems like most people are incapable of doing that. \n\nI talk to so many people who say xyz doesn’t work and when I ask when was the last time they tried testing it, the answer is always “a few months ago.” \n\nBrother that’s like eons ago in AI timelines. This is why each person needs to have their own evals of hard tasks and weekly tinker time to truly understand where the frontier is. \n\nAnd then you need to talk to enterprise buyers weekly who are usually two years behind. But they are the buyers so you need to understand how to market. \n\nThe combination of the two will give you a pretty good sense of where to invest time and capital. If you just do these two weekly, you’ll be ahead of 99% of people.",
-      "translatedTitle": "人工智能最大的问题在于，先验信息需要每隔几周重置一次。",
-      "translatedBody": "人工智能最大的问题在于，先验知识需要每隔几周就重置一次……而大多数人似乎都做不到这一点。\n\n我跟很多人聊过，他们说某个方法行不通，当我问他们上次测试是什么时候时，答案总是“几个月前”。\n\n兄弟，在人工智能的发展历程中，那简直是天方夜谭。这就是为什么每个人都需要对棘手的任务进行评估，并每周抽出时间来改进，才能真正了解前沿技术在哪里。\n\n然后，你还需要每周与企业买家沟通，他们通常落后两年。但他们是买家，所以你必须了解如何进行市场推广。\n\n将这两者结合起来，你就能很好地了解应该把时间和资金投入到哪里。如果你每周都能做到这两点，你就能领先99%的人。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2068411460620042720",
-      "publishedAt": "2026-06-20T19:11:36.000Z",
-      "score": 49.3,
-      "engagement": {
-        "likes": 70,
-        "retweets": 7,
-        "replies": 14
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2068398871236264428",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "对于那些制作需要屏幕共享的对着镜头说话的视频的人来说，你们都使用什么平台？",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：For folks who make talking head videos with screen share what platform do you use? I'd love something that lets me ea…",
+      "title": "每周都会发生🙈 > 在 X 上看到一个有趣的项目 > 试用、fork、tr…",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Happens every week 🙈 > see an interesting project on X > play with it, fork it, try it, have some ideas > go to foun…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "For folks who make talking head videos with screen share what platform do you use?",
-      "originalBody": "For folks who make talking head videos with screen share what platform do you use?\n\nI'd love something that lets me easily zoom in and out on the screen to point out specific things.\n\n@screenstudio seems cool but does it work well with other recording tools? It doesn't record the talking head as far I can see.",
-      "translatedTitle": "对于那些制作需要屏幕共享的对着镜头说话的视频的人来说，你们都使用什么平台？",
-      "translatedBody": "对于那些制作屏幕共享视频的朋友们，你们都用什么平台？\n\n我想要一个可以轻松放大缩小屏幕，方便我指出特定内容的平台。\n\n@screenstudio 看起来不错，但它与其他录屏工具兼容性如何？据我观察，它似乎无法录制说话的人脸。",
+      "originalTitle": "Happens every week 🙈 > see an interesting project on X > play with it, fork it, tr…",
+      "originalBody": "Happens every week 🙈\n\n> see an interesting project on X\n> play with it, fork it, try it, have some ideas\n> go to founder profile\n> press the message button \n\n…\n\n> pray to God that I haven’t missed a DM from them before 😢\n\nI try to respond to all the DMs but miss sometimes!!",
+      "translatedTitle": "每周都会发生🙈 > 在 X 上看到一个有趣的项目 > 试用、fork、tr…",
+      "translatedBody": "每周都这样🙈\n\n> 在 X 上看到一个有趣的项目\n\n> 试用、fork、尝试，然后有了些想法\n\n> 进入创始人主页\n\n> 点击消息按钮\n\n…\n\n> 向上帝祈祷，希望我之前没有错过他们的私信😢\n\n我尽量回复所有私信，但有时还是会漏掉！！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2068398871236264428",
-      "publishedAt": "2026-06-20T18:21:34.000Z",
-      "score": 48.33,
+      "sourceUrl": "https://x.com/nikunj/status/2068714024934740476",
+      "publishedAt": "2026-06-21T15:13:53.000Z",
+      "score": 49.18,
       "engagement": {
-        "likes": 33,
+        "likes": 92,
         "retweets": 0,
-        "replies": 36
+        "replies": 7
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -243,9 +241,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-06-21T07:57:41.783Z",
-    "totalCandidates": 23,
-    "textQualifiedCandidates": 11,
+    "upstreamGeneratedAt": "2026-06-22T08:29:37.749Z",
+    "totalCandidates": 27,
+    "textQualifiedCandidates": 14,
     "selectedTweets": 8
   }
 }
