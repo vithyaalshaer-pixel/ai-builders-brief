@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-24",
-  "generatedAt": "2026-06-24T03:58:38.008Z",
+  "date": "2026-06-25",
+  "generatedAt": "2026-06-25T03:59:37.015Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-06-24",
-  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 27 条候选动态里，筛出 10 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-06-25",
+  "summary": "今天最值得看的是 Andrej Karpathy 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 41 条候选动态里，筛出 26 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,34 +15,139 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
-    },
-    {
-      "slug": "product-ships",
-      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2069301071965741388",
+      "id": "2069547676849557725",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "我认为没有人正确地计算过SpaceX、NeoCloud+Neo…",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：i dont think anyone is correctly doing the math around how SpaceX, the NeoCloud+NeoLab, is currently going to market?…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "i dont think anyone is correctly doing the math around how SpaceX, the NeoCloud+Neo…",
-      "originalBody": "i dont think anyone is correctly doing the math around how SpaceX, the NeoCloud+NeoLab, is currently going to market?\n\nSpaceX has already recouped about HALF its investment in Cursor, in compute deals. The other half is  paid for if Composer 3 does well. \n\nNo other company is simultaneously a leading model lab + neocloud (at least where GPUs is concerned). its a crazy effective combo iff you've adequately planned out gpu supply if inhouse training 1) goes very well 2) doesn't go very well",
-      "translatedTitle": "我认为没有人正确地计算过SpaceX、NeoCloud+Neo…",
-      "translatedBody": "我认为没人真正理解SpaceX的NeoCloud+NeoLab目前的市场策略。\n\nSpaceX已经通过计算交易收回了对Cursor大约一半的投资。如果Composer 3表现出色，另一半投资也能收回。\n\n目前还没有其他公司能同时拥有领先的模型实验室和NeoCloud（至少在GPU方面是这样）。如果内部训练1）进展顺利，2）进展不顺，并且你已经充分规划好了GPU供应，那么这套组合将会非常有效。",
+      "builder": "Andrej Karpathy",
+      "title": "这是一种与克劳德互动的新模式，它更加“内在化”……",
+      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activ…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "This is a new paradigm for interacting with Claude that is significantly more \"inli…",
+      "originalBody": "This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this \"just work\" (e.g. across tools, integrations, compute environments, memory, security, etc.), Claude basically joins the team in a seamless way - you can talk to it as you would talk to a person and it can help with a very large variety of workloads.\n\nImo this is the 3rd major redesign of LLM UIUX. The first paradigm was that the LLM is a website you go to, the second was that it is an app you download to your computer. This third one is that it is a self-contained, persistent, asynchronous entity with org-wide tools and context, working alongside teams of humans. It really takes a while to wrap your head around it, but it works and it is awesome.",
+      "translatedTitle": "这是一种与克劳德互动的新模式，它更加“内在化”……",
+      "translatedBody": "这是一种与 Claude 交互的新模式，它与组织内所有其他人类活动更加“协调一致”。一旦完成所有底层工程工作，使其“开箱即用”（例如，跨工具、集成、计算环境、内存、安全等），Claude 就能无缝融入团队——你可以像与人交流一样与它对话，它也能协助处理各种各样的工作负载。\n\n在我看来，这是 LLM UI/UX 的第三次重大重新设计。第一次是 LLM 是一个网站，第二次是下载到电脑上的应用程序。第三次是它是一个独立的、持久的、异步的实体，拥有组织范围内的工具和上下文，可以与人类团队协同工作。理解它确实需要一些时间，但它确实有效，而且非常棒。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2069301071965741388",
-      "publishedAt": "2026-06-23T06:06:35.000Z",
-      "score": 150.38,
+      "sourceUrl": "https://x.com/karpathy/status/2069547676849557725",
+      "publishedAt": "2026-06-23T22:26:31.000Z",
+      "score": 200.24,
       "engagement": {
-        "likes": 61,
-        "retweets": 1,
-        "replies": 15
+        "likes": 12492,
+        "retweets": 974,
+        "replies": 625
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2069468701548531895",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "Claude Tag 现已在 Slack 上推出测试版，适用于 Claude 企业版和团队版计划。",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Claude Tag is available in beta today on Slack for Claude Enterprise and Team plans. We plan to expand it more widely…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Claude Tag is available in beta today on Slack for Claude Enterprise and Team plans.",
+      "originalBody": "Claude Tag is available in beta today on Slack for Claude Enterprise and Team plans. We plan to expand it more widely in the future.\n\nRead more: https://t.co/MGV30Ml8mL",
+      "translatedTitle": "Claude Tag 现已在 Slack 上推出测试版，适用于 Claude 企业版和团队版计划。",
+      "translatedBody": "Claude Tag 现已在 Slack 上推出测试版，适用于 Claude 企业版和团队版用户。我们计划未来将其推广到更广泛的用户群体。\n\n了解更多：https://t.co/MGV30Ml8mL",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2069468701548531895",
+      "publishedAt": "2026-06-23T17:12:41.000Z",
+      "score": 159.26,
+      "engagement": {
+        "likes": 619,
+        "retweets": 23,
+        "replies": 33
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2069590431646769472",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "创建一个 X Chat 群组，用于收集 https://t.co/99eEa13mZ3 的反馈。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Starting an X Chat group for https://t.co/99eEa13mZ3 feedback. If you’re deep into building an agent and have high qu…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Starting an X Chat group for https://t.co/99eEa13mZ3 feedback.",
+      "originalBody": "Starting an X Chat group for https://t.co/99eEa13mZ3 feedback. If you’re deep into building an agent and have high quality critical feedback or requirements to share, DM me and I’ll add you to a group with eve engineers",
+      "translatedTitle": "创建一个 X Chat 群组，用于收集 https://t.co/99eEa13mZ3 的反馈。",
+      "translatedBody": "我正在创建一个 X Chat 群组，用于收集反馈意见（https://t.co/99eEa13mZ3）。如果您正在深入开发某个代理，并且有高质量的关键反馈或需求想要分享，请私信我，我会将您添加到一个由 EVE 工程师组成的群组中。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2069590431646769472",
+      "publishedAt": "2026-06-24T01:16:24.000Z",
+      "score": 155.99,
+      "engagement": {
+        "likes": 274,
+        "retweets": 14,
+        "replies": 53
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2069408025362714957",
+      "type": "tweet",
+      "builder": "Josh Woodward",
+      "title": "⚽️在@…将您对球队的忠诚变成定制的交易卡、壁画或虚拟毛绒玩具",
+      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：⚽️Turn your team loyalty into a custom trading card, mural, or virtual plushie in @GeminiApp How to create yours: 1)…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "⚽️Turn your team loyalty into a custom trading card, mural, or virtual plushie in @…",
+      "originalBody": "⚽️Turn your team loyalty into a custom trading card, mural, or virtual plushie in @GeminiApp\n\nHow to create yours:\n\n1) Go to https://t.co/z0bvXTam3G or open the app\n2) Tap Images (side panel)\n3) Select the \"Get in the game\" template\n4) Upload your photo and share your output here https://t.co/aysNORY2ea",
+      "translatedTitle": "⚽️在@…将您对球队的忠诚变成定制的交易卡、壁画或虚拟毛绒玩具",
+      "translatedBody": "⚽️在 @GeminiApp 中，将你对球队的忠诚变成定制的球星卡、壁画或虚拟毛绒玩具！\n\n如何创建：\n\n1) 访问 https://t.co/z0bvXTam3G 或打开应用\n\n2) 点击侧边栏的“图片”\n\n3) 选择“Get in the game”模板\n\n4) 上传照片并在此处分享你的作品：https://t.co/aysNORY2ea",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/joshwoodward/status/2069408025362714957",
+      "publishedAt": "2026-06-23T13:11:35.000Z",
+      "score": 154.46,
+      "engagement": {
+        "likes": 222,
+        "retweets": 19,
+        "replies": 16
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2069598378191941835",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "顺便一提，再鼎集团于1月份上市，发行价为每股120港元。",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：btw Zai IPO'ed in Jan at HK$120 a share. when I first met @louszbd nobody really knew anyone using GLM's. now they ha…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "btw Zai IPO'ed in Jan at HK$120 a share.",
+      "originalBody": "btw Zai IPO'ed in Jan at HK$120 a share. when I first met  @louszbd nobody really knew anyone using GLM's.\n\nnow they have beat deepseek with the world's undisputed top open model and in some respects (see @ml_angelopoulos) say top model period, and are returning to SF @aidotengineer on top of the world and open for business!\n\nexcited for @Thom_Wolf and @ZixuanLi_ to chat onstage!",
+      "translatedTitle": "顺便一提，再鼎集团于1月份上市，发行价为每股120港元。",
+      "translatedBody": "顺便一提，Zai 1月份上市，发行价每股120港元。我第一次见到@louszbd的时候，几乎没人知道有人用GLM。\n\n现在他们凭借全球公认的顶级开源模型击败了Deepseek，在某些方面（参见@ml_angelopoulos）甚至可以说就是顶级模型，他们带着世界之巅的姿态重返旧金山@aidotengineer，正式开启合作！\n\n期待@Thom_Wolf和@ZixuanLi_上台交流！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2069598378191941835",
+      "publishedAt": "2026-06-24T01:47:59.000Z",
+      "score": 148.95,
+      "engagement": {
+        "likes": 73,
+        "retweets": 5,
+        "replies": 10
       },
       "matchedFocusAreas": [
         "Foundation Models"
@@ -50,197 +155,87 @@
       "sourceType": "x"
     },
     {
-      "id": "2069121360744550796",
+      "id": "2069582337034330186",
       "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "我们希望与美国政府和安全生态系统合作，帮助所有公司确保安全……",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：We want to help all companies be secure, working with the USG and the security ecosystem. *The full version of GPT-5.…",
-      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "We want to help all companies be secure, working with the USG and the security ecos…",
-      "originalBody": "We want to help all companies be secure, working with the USG and the security ecosystem.\n\n*The full version of GPT-5.5-Cyber is here; state of the art performance on CyberGym.\n\n*Patch The Planet and Codex Security will help solve security problems instead of just finding them. https://t.co/otyCFHJR4d",
-      "translatedTitle": "我们希望与美国政府和安全生态系统合作，帮助所有公司确保安全……",
-      "translatedBody": "我们希望与美国政府和安全生态系统合作，帮助所有公司保障安全。\n\n*GPT-5.5-Cyber 完整版现已发布；在 CyberGym 上展现卓越性能。\n\n*Patch The Planet 和 Codex Security 将致力于解决安全问题，而不仅仅是发现问题。https://t.co/otyCFHJR4d",
+      "builder": "Swyx",
+      "title": "非常荣幸能主持本次会议的开幕之夜！",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：very proud to host this session opening night! if you work in tech but have never heard of Touchy Feely, you are exac…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "very proud to host this session opening night!",
+      "originalBody": "very proud to host this session opening night!\n\nif you work in tech but have never heard of Touchy Feely, you are exactly the kind of person that needs to see this. You have no idea the shocking number of tech leadeds on here are secret @LITfellows alums and i have seen first hand how strong the bonds you form are, it blows my engineer mind.\n\nFREE ADMISSION, application in link reply",
+      "translatedTitle": "非常荣幸能主持本次会议的开幕之夜！",
+      "translatedBody": "非常荣幸能主持本次活动的开幕之夜！\n\n如果你从事科技行业，却从未听说过 Touchy Feely，那你绝对应该看看这个活动。你肯定想不到，这里竟然有那么多科技领军人物都是 @LITfellows 的校友，而且我亲眼见证了大家之间建立的深厚情谊，这简直让我这个工程师都叹为观止。\n\n免费入场，申请链接见回复。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2069121360744550796",
-      "publishedAt": "2026-06-22T18:12:29.000Z",
-      "score": 146.36,
+      "sourceUrl": "https://x.com/swyx/status/2069582337034330186",
+      "publishedAt": "2026-06-24T00:44:14.000Z",
+      "score": 144.6,
       "engagement": {
-        "likes": 5715,
-        "retweets": 374,
-        "replies": 554
+        "likes": 22,
+        "retweets": 1,
+        "replies": 12
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2069468699766005847",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "开启环境行为模式，克劳德就会主动采取行动。",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Turn ambient behavior on, and Claude takes initiative. It follows up on threads that have gone quiet and flags what's…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Turn ambient behavior on, and Claude takes initiative.",
+      "originalBody": "Turn ambient behavior on, and Claude takes initiative. It follows up on threads that have gone quiet and flags what's relevant from across its channels and tools. https://t.co/fTMkAHY4Gr",
+      "translatedTitle": "开启环境行为模式，克劳德就会主动采取行动。",
+      "translatedBody": "开启环境行为模式，Claude 就会主动出击。它会跟进那些沉寂已久的话题，并从其所有渠道和工具中筛选出相关信息并标记出来。https://t.co/fTMkAHY4Gr",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2069468699766005847",
+      "publishedAt": "2026-06-23T17:12:41.000Z",
+      "score": 132.07,
+      "engagement": {
+        "likes": 428,
+        "retweets": 14,
+        "replies": 9
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2069228335255949775",
+      "id": "2069468698071494976",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "几乎所有人工智能模型和智能体的进步都源于评估。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Almost all AI model and agent progress is downstream from evals. Open weights post training for specific domains come…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Almost all AI model and agent progress is downstream from evals.",
-      "originalBody": "Almost all AI model and agent progress is downstream from evals. Open weights post training for specific domains comes down to evals. Agent improvements in the applied AI layer is all about evals. Agentic enterprise deployments that actually can augment work is all about evals. It’s all evals.\n\nThis will become a core competency of any enterprise in the future. The companies that are able to best understand their own (and/or customers) workflows and how well agents participate in that work will be in the best position to actually drive real automation.",
-      "translatedTitle": "几乎所有人工智能模型和智能体的进步都源于评估。",
-      "translatedBody": "几乎所有人工智能模型和智能体的进步都源于评估。针对特定领域的训练后开放权重也取决于评估。应用人工智能层中智能体的改进也完全依赖于评估。真正能够增强工作效率的智能体企业部署同样依赖于评估。一切都离不开评估。\n\n这将成为未来所有企业的核心竞争力。那些能够最深入地了解自身（和/或客户）工作流程以及智能体如何参与其中的公司，将最有能力真正推动自动化。",
+      "builder": "Claude",
+      "title": "在一个频道里，只有一个克劳德会和所有人互动，所以队友可以……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：In a channel, there’s one Claude that interacts with everyone, so a teammate can pick up exactly where you left off.…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "In a channel, there’s one Claude that interacts with everyone, so a teammate can pi…",
+      "originalBody": "In a channel, there’s one Claude that interacts with everyone, so a teammate can pick up exactly where you left off.\n\nIt builds more context about the work as it follows the channel, so you don’t need to explain things from scratch.",
+      "translatedTitle": "在一个频道里，只有一个克劳德会和所有人互动，所以队友可以……",
+      "translatedBody": "在一个频道里，只有一个 Claude 会与所有人互动，所以队友可以无缝衔接你之前的工作。\n\n频道会逐步构建工作背景，让你无需从头开始解释。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2069228335255949775",
-      "publishedAt": "2026-06-23T01:17:34.000Z",
-      "score": 106.44,
+      "sourceUrl": "https://x.com/claudeai/status/2069468698071494976",
+      "publishedAt": "2026-06-23T17:12:41.000Z",
+      "score": 130.87,
       "engagement": {
-        "likes": 308,
-        "retweets": 29,
-        "replies": 33
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2069234760615096344",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "加州的资产扣押税只会让该州更加贫困，并减少……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The California asset seizure tax is only going to impoverish the state and reduce funding for health care The SEIU UH…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The California asset seizure tax is only going to impoverish the state and reduce f…",
-      "originalBody": "The California asset seizure tax is only going to impoverish the state and reduce funding for health care\n\nThe SEIU UHW union doesn’t care if quality of care or even the state’s ability to care for its people goes away\n\nThere is only pure self interest there https://t.co/KI3PnPkvV3",
-      "translatedTitle": "加州的资产扣押税只会让该州更加贫困，并减少……",
-      "translatedBody": "加州的资产扣押税只会让加州更加贫困，并减少医疗保健资金。\n\nSEIU UHW工会根本不在乎医疗质量是否会下降，甚至不在乎加州是否还能继续为民众提供医疗服务。\n\n他们只关心自身利益。https://t.co/KI3PnPkvV3",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2069234760615096344",
-      "publishedAt": "2026-06-23T01:43:06.000Z",
-      "score": 55.85,
-      "engagement": {
-        "likes": 281,
-        "retweets": 25,
-        "replies": 27
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2069140445205348432",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "我们听说HTML又火起来了。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We heard that HTML is a big deal again. You can now preview, edit, manage versions, and securely share any HTML based…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "We heard that HTML is a big deal again.",
-      "originalBody": "We heard that HTML is a big deal again. You can now preview, edit, manage versions, and securely share any HTML based content on Box. Great for being able to work with any agent produced content immediately. https://t.co/Rgo2TO6RIg",
-      "translatedTitle": "我们听说HTML又火起来了。",
-      "translatedBody": "我们听说 HTML 又火了。现在，您可以在 Box 上预览、编辑、管理版本并安全地共享任何基于 HTML 的内容。这对于能够立即处理任何代理商生成的内容来说非常棒。https://t.co/Rgo2TO6RIg",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2069140445205348432",
-      "publishedAt": "2026-06-22T19:28:19.000Z",
-      "score": 54.37,
-      "engagement": {
-        "likes": 225,
-        "retweets": 12,
-        "replies": 20
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2069311440692072481",
-      "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "我制作了一个完整的前端幻灯片技能教程（GitHub 上超过 2.2 万颗星）……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I created a complete walkthrough of my Frontend Slides skill (22k+ stars on GitHub): - Complete demo of how to create…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I created a complete walkthrough of my Frontend Slides skill (22k+ stars on GitHub)…",
-      "originalBody": "I created a complete walkthrough of my Frontend Slides skill (22k+ stars on GitHub):\n- Complete demo of how to create beautiful HTML slides with Claude Code (beginner friendly)\n- How I created the skill\n- How you can create your own skill\n- Tips like how to insert images/videos into deck, how to publish\n- Lessons I learned\n(11-min video, YouTube link below)",
-      "translatedTitle": "我制作了一个完整的前端幻灯片技能教程（GitHub 上超过 2.2 万颗星）……",
-      "translatedBody": "我制作了一个完整的前端幻灯片技能教程（GitHub 上超过 2.2 万颗星）：\n\n- 使用 Claude Code 创建精美 HTML 幻灯片的完整演示（适合初学者）\n\n- 我是如何创建这项技能的\n\n- 如何创建你自己的技能\n\n- 一些技巧，例如如何在幻灯片中插入图片/视频，以及如何发布\n\n- 我学到的经验教训\n\n（11 分钟视频，YouTube 链接如下）",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2069311440692072481",
-      "publishedAt": "2026-06-23T06:47:48.000Z",
-      "score": 49.33,
-      "engagement": {
-        "likes": 46,
-        "retweets": 3,
-        "replies": 6
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2069279618969075819",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "好吧，我中了你的圈套，被激怒了，所以我要……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Ok I've fallen for the ragebaiting and have been triggered by this so I'm going to say this: Whether intentional or n…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Ok I've fallen for the ragebaiting and have been triggered by this so I'm going to…",
-      "originalBody": "Ok I've fallen for the ragebaiting and have been triggered by this so I'm going to say this: \n\nWhether intentional or not, there's a lot of virality that comes from:\n\n1. Pick the most ragebait moment of the conversation\n2. Make a clip of that exact moment\n3. Get tons of retweets and views\n\nI can tell it's rage baiting (just like the Corgi founder clip) but here's the thing - if even one parent watches this clip and decides to neglect their kids more then the damage is done.\n\nAnd yes it's hard to work at home when your kid comes back at 3 pm (or 1 pm with summer camp!) but we all make our choices.",
-      "translatedTitle": "好吧，我中了你的圈套，被激怒了，所以我要……",
-      "translatedBody": "好吧，我中了圈套，被激怒了，所以我要说：\n\n不管是有意还是无意，很多内容的传播都源于：\n\n1. 挑出对话中最容易引发愤怒的点\n\n2. 把那个点剪辑成视频\n\n3. 获得大量的转发和观看\n\n我知道这是在故意激怒（就像柯基犬创始人那个视频一样），但关键在于——如果哪怕只有一个家长看了这个视频，然后决定更加疏于照顾孩子，那就已经造成了伤害。\n\n没错，孩子下午三点（或者夏令营下午一点！）就回家，在家工作确实很难，但我们每个人都得做出自己的选择。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2069279618969075819",
-      "publishedAt": "2026-06-23T04:41:21.000Z",
-      "score": 46.92,
-      "engagement": {
-        "likes": 45,
-        "retweets": 1,
-        "replies": 7
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2069118077313425840",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我想和一位精通 Codex/Claude Code 的人一起做一期播客节目……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验：I want to do a podcast episode with someone who's good at using Codex / Claude Code to create fun pixel or threejs ga…",
-      "whyItMatters": "Peter Yang 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "I want to do a podcast episode with someone who's good at using Codex / Claude Code…",
-      "originalBody": "I want to do a podcast episode with someone who's good at using Codex / Claude Code to create fun pixel or threejs games and can show us how to do it.\n\nI am a gamer at heart! Who's the best person to talk to?",
-      "translatedTitle": "我想和一位精通 Codex/Claude Code 的人一起做一期播客节目……",
-      "translatedBody": "我想邀请一位精通使用 Codex/Claude Code 创建有趣的像素游戏或 Three.js 游戏的专家来录制一期播客节目，并向我们展示具体的操作方法。\n\n我本人也是个游戏玩家！请问谁是最佳人选？",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2069118077313425840",
-      "publishedAt": "2026-06-22T17:59:26.000Z",
-      "score": 26.01,
-      "engagement": {
-        "likes": 85,
-        "retweets": 2,
-        "replies": 38
+        "likes": 347,
+        "retweets": 10,
+        "replies": 4
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-06-23T07:33:17.525Z",
-    "totalCandidates": 27,
-    "textQualifiedCandidates": 10,
+    "upstreamGeneratedAt": "2026-06-24T07:29:07.207Z",
+    "totalCandidates": 41,
+    "textQualifiedCandidates": 26,
     "selectedTweets": 8
   }
 }
