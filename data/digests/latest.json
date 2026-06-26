@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-25",
-  "generatedAt": "2026-06-25T03:59:37.015Z",
+  "date": "2026-06-26",
+  "generatedAt": "2026-06-26T04:06:36.441Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-06-25",
-  "summary": "今天最值得看的是 Andrej Karpathy 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 41 条候选动态里，筛出 26 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-06-26",
+  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 29 条候选动态里，筛出 14 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,30 +15,143 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
+    },
+    {
+      "slug": "product-ships",
+      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2069547676849557725",
+      "id": "2069964772003770673",
       "type": "tweet",
-      "builder": "Andrej Karpathy",
-      "title": "这是一种与克劳德互动的新模式，它更加“内在化”……",
-      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activ…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "This is a new paradigm for interacting with Claude that is significantly more \"inli…",
-      "originalBody": "This is a new paradigm for interacting with Claude that is significantly more \"inline\" with all the other human activity org-wide. Once you do all of the under the hood engineering work to make this \"just work\" (e.g. across tools, integrations, compute environments, memory, security, etc.), Claude basically joins the team in a seamless way - you can talk to it as you would talk to a person and it can help with a very large variety of workloads.\n\nImo this is the 3rd major redesign of LLM UIUX. The first paradigm was that the LLM is a website you go to, the second was that it is an app you download to your computer. This third one is that it is a self-contained, persistent, asynchronous entity with org-wide tools and context, working alongside teams of humans. It really takes a while to wrap your head around it, but it works and it is awesome.",
-      "translatedTitle": "这是一种与克劳德互动的新模式，它更加“内在化”……",
-      "translatedBody": "这是一种与 Claude 交互的新模式，它与组织内所有其他人类活动更加“协调一致”。一旦完成所有底层工程工作，使其“开箱即用”（例如，跨工具、集成、计算环境、内存、安全等），Claude 就能无缝融入团队——你可以像与人交流一样与它对话，它也能协助处理各种各样的工作负载。\n\n在我看来，这是 LLM UI/UX 的第三次重大重新设计。第一次是 LLM 是一个网站，第二次是下载到电脑上的应用程序。第三次是它是一个独立的、持久的、异步的实体，拥有组织范围内的工具和上下文，可以与人类团队协同工作。理解它确实需要一些时间，但它确实有效，而且非常棒。",
+      "builder": "Swyx",
+      "title": "很多人正在准备下周的演讲（恭喜！）。",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：lots of folks prepping talks next week (congrats!). Some thoughts from RLing on thousands of hours of engineer- and r…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "lots of folks prepping talks next week (congrats!).",
+      "originalBody": "lots of folks prepping talks next week (congrats!). Some thoughts from RLing on thousands of hours of engineer- and researcher- focused talks:\n\n- AI generated svgs > AI generated imgs. MAXIMUM 4 ai slop images in your slides, I don't care how pretty your mom thinks they are (exception ofc if your talk is ABOUT imagegen)\n- Be pointy. Better to have 1 message with 5 surprising applications, than 5 messages with no concrete examples.\n- Put code on screen. Engineers like to see code. Especially if they can nitpick it to death over things that aren't the point.\n- Don't forget to Entertain. Being actually funny, or good at telling relevant anecdotes, is more important than adding yet another bullet point.\n- Have a Thesis. every talk gets ONE \"if you remember one thing from this talk, it is this\" card. 1) SO MANY PEOPLE DON'T USE IT. 2) SO MANY PEOPLE DON'T PLAN FOR IT. you get one. use it well?\n- Have a Thesis Slide. you've been in that talk where everyone gets their phone out to take a photo of the slide. Because people see 1000x more images than videos, you are much more likely to have a viral talk/slide if you have a single viral slide. You are much more likely to have a viral slide if you TRY and most people do not TRY. Struggling? Collect examples from talks you like and adapt their format to your thing. Your slides have a power law - don't spend 5% of your time each on 20 slides, spend 80% of your time on 1 slide and have the rest build up to that 1 slide.\n- You might not need slides. live demo in IDE, off the cuff rambles, pull audience member up to roleplay, do call and response with the audience, sing/perform, voice over vibe videos, I have seen it all. higher risk/effort, higher reward when done well.\n- Be pleasant to listen to. Talks with bad/no visuals still can be listened to. Talks with bad audio are DOA. Be confident, project, remember vocal variation, evoke emotion.\n- Design the emotional journey. Start strong, end strong, have a peak aha/laugh/thesis moment in the middle. Everything else is buildup.\n- Data driven talks are underrated. Present pretty charts and surprising, authoritative numbers. Use the stage authority to infer from the data to support the broader thesis. Done well, it will feel like my obvious conclusion from objectively looking at the data you presented, not you feeding the conclusion to me.\n- How to shill your product/company without feeling salesy: teach me everything I didn't know I should to know about the problems you solve, and then you shall have earned the right to convince me you are the guys to trust to solve it once and for all.\n- Actively watch a lot of talks. like with anything you both need a lot of reps AND you need to explore to find the styles/role models that you shine in. Passive = no introspection after watching, just mindlessly autoplay next video. Active = trying to articulate why a talk was good/bad after watching. If you want to REALLY hone it, think about how you feel about a famous talk and then TRANSCRIBE the talks and read the words on the printed page, and then compare with a \"normal\" talk and define rules you will follow for yourself to improve.\n\nthanks to @dexhorthy for organizing the AIEWF Speaker prep meetup tonight. we should actually do more of these....",
+      "translatedTitle": "很多人正在准备下周的演讲（恭喜！）。",
+      "translatedBody": "下周很多人都在准备演讲（恭喜！）。以下是RLing在数千小时面向工程师和研究人员的演讲经验总结：\n\n- AI生成的SVG图片比AI生成的图片好。幻灯片里最多只能放4张AI生成的图片，不管你妈妈觉得它们有多漂亮（当然，如果你的演讲主题就是图像生成，那就另当别论了）。\n\n- 言简意赅。与其讲5个没有具体例子的要点，不如用一个包含5个令人惊喜的应用案例的要点来概括。\n\n- 把代码放在屏幕上。工程师喜欢看代码。尤其是当他们可以对一些无关紧要的细节吹毛求疵的时候。\n\n- 别忘了娱乐。真正幽默风趣，或者善于讲述相关的轶事，比堆砌又一个要点更重要。\n\n- 准备一个主题。每个演讲都应该有一张“如果你能记住本次演讲的一件事，那就是这个”的卡片。1）很多人都不用这个卡片。 2）很多人都不做计划。你拿到一张幻灯片，能不能好好利用？\n\n- 准备一张核心幻灯片。你肯定参加过那种演讲，每个人都拿出手机拍照的场景。因为人们浏览图片的频率是视频的1000倍，所以如果你有一张能爆款的幻灯片，你的演讲/幻灯片就更有可能爆红。如果你用心去做，你的幻灯片爆红的几率会大大增加，而大多数人并没有这样做。还在苦苦思索？收集一些你喜欢的演讲案例，并根据自己的情况调整它们的格式。你的幻灯片遵循幂律——不要把5%的时间浪费在20张幻灯片上，而是把80%的时间集中在一张幻灯片上，剩下的时间都用来铺垫这张幻灯片。\n\n- 你可能不需要幻灯片。在IDE里做现场演示，即兴发挥，邀请观众角色扮演，与观众互动，唱歌/表演，为氛围视频配音，这些我都见过。风险/投入越高，回报也越高。\n\n- 演讲要引人入胜。没有视觉辅助或画面糟糕的演讲勉强还能听下去，但音频质量差的演讲就彻底失败了。要自信，声音洪亮，注意语调变化，并能唤起听众的情感。\n\n- 设计情感旅程。开头要精彩，结尾也要精彩，中间要有一个高潮迭起、令人捧腹大笑或引出核心论点的时刻。其他一切都是为了铺垫。\n\n- 数据驱动的演讲常常被低估。展示精美的图表和令人惊讶的权威数据。利用你的演讲权威性，从数据中推断出支持更广泛论点的结论。如果做得好，你会觉得这是我客观地分析你展示的数据后得出的显而易见的结论，而不是你强加给我的结论。\n\n- 如何推销你的产品/公司而不显得推销过度：告诉我所有关于你所解决的问题我以前不知道应该知道的知识，这样你才能赢得我的信任，让我相信你是能够彻底解决问题的最佳人选。\n\n- 积极观看大量的演讲。就像任何事情一样，你需要大量的练习，也需要不断探索，才能找到适合自己的风格/榜样。被动式学习是指看完演讲后不进行任何反思，只是机械地自动播放下一个视频。主动式学习是指看完演讲后尝试分析其优缺点。如果你想真正提升自己的演讲水平，可以思考一下你对某个著名演讲的感受，然后把演讲稿转录下来，仔细阅读文字，再与一个“普通”的演讲进行比较，并制定一些规则来指导自己改进。\n\n感谢 @dexhorthy 今晚组织了 AIEWF 演讲者准备聚会。我们应该多组织一些这样的聚会……",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/karpathy/status/2069547676849557725",
-      "publishedAt": "2026-06-23T22:26:31.000Z",
-      "score": 200.24,
+      "sourceUrl": "https://x.com/swyx/status/2069964772003770673",
+      "publishedAt": "2026-06-25T02:03:54.000Z",
+      "score": 203.71,
       "engagement": {
-        "likes": 12492,
-        "retweets": 974,
-        "replies": 625
+        "likes": 188,
+        "retweets": 14,
+        "replies": 20
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2069864073202905501",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "本期内容非常精彩：- 为什么 Databricks 能胜过 Snowflake (!",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：LOTS of alpha in this pod: - Why Databricks beat Snowflake (! a straight answer!) - Why everyone is building a metaha…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "LOTS of alpha in this pod: - Why Databricks beat Snowflake (!",
+      "originalBody": "LOTS of alpha in this pod:\n\n- Why Databricks beat Snowflake (! a straight answer!)\n- Why everyone is building a metaharness now\n- Why the @neondatabase made so much sense (so much @nikitabase glazing its not even funny)\n- How LTAP solves the HTAP dream I discussed with @ankrgyl in our @braintrust pod\n- What happened to @MosaicML + DBRX\n- How to maintain research/startup culture in a $175B megacorp\n- What's more important knowledge/experience in the race to the agent cloud: databases, operating systems, or.... networking!\n\nvery honored to be invited to @Data_AI_Summit to interview two of the top people in our industry and somehow be able to jam on everything from the @bennstancil modern data stack theme to @alighodsi's amazing keynote aura",
+      "translatedTitle": "本期内容非常精彩：- 为什么 Databricks 能胜过 Snowflake (!",
+      "translatedBody": "本期播客内容丰富：\n\n- 为什么 Databricks 能胜过 Snowflake（直截了当地回答！）\n\n- 为什么现在大家都在构建元架构\n\n- 为什么 @neondatabase 如此有意义（@nikitabase 的梗简直让人哭笑不得）\n\n- LTAP 如何解决我在 @braintrust 播客中与 @ankrgyl 讨论过的 HTAP 难题\n\n- @MosaicML + DBRX 的现状\n\n- 如何在市值 1750 亿美元的巨型企业中保持研发/创业文化\n\n- 在迈向智能体云的竞赛中，数据库、操作系统还是……网络，哪个知识/经验更重要？\n\n非常荣幸受邀参加 @Data_AI_Summit，采访两位业内顶尖人物，并有机会畅谈从 @bennstancil 的现代数据栈主题到 @alighodsi 精彩的主题演讲等方方面面。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2069864073202905501",
+      "publishedAt": "2026-06-24T19:23:45.000Z",
+      "score": 147.36,
+      "engagement": {
+        "likes": 52,
+        "retweets": 4,
+        "replies": 8
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2070001110866354345",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "人工智能将带来前所未有的创业热潮。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：AI will bring forth an unprecedented surge in entrepreneurship. From 'solopreneurs,' to the revitalization of the sma…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "AI will bring forth an unprecedented surge in entrepreneurship.",
+      "originalBody": "AI will bring forth an unprecedented surge in entrepreneurship.\n\nFrom 'solopreneurs,' to the revitalization of the small & medium business segment, to the emergence of the largest companies of our times… providing the foundation of it all.",
+      "translatedTitle": "人工智能将带来前所未有的创业热潮。",
+      "translatedBody": "人工智能将带来前所未有的创业热潮。\n\n从个体经营者到中小企业的复兴，再到当今时代最大型企业的崛起……这一切都将由人工智能奠定基础。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2070001110866354345",
+      "publishedAt": "2026-06-25T04:28:18.000Z",
+      "score": 134.1,
+      "engagement": {
+        "likes": 475,
+        "retweets": 27,
+        "replies": 79
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2069975251476422664",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "这次发布会有一些细节之处，这些细节在实践中非常重要。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：There are some subtleties in this launch that are very important in practice. This isn’t just you interacting with Cl…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "There are some subtleties in this launch that are very important in practice.",
+      "originalBody": "There are some subtleties in this launch that are very important in practice. This isn’t just you interacting with Claude in a 1:1 format via Slack. In this case, Claude acts as a coworker that any user can tap into in a shared way.\n\nWe’ve already seen some agentic coding systems start to adopt this pattern (as well as OpenClaw and Hermes), and doing it for general purpose knowledge work continues to push the idea forward.\n\nAs a result, what this means is that this agentic coworker needs its own set of resources, access to tools, and data to work with. This is not the same as you giving it access to your personal resources and tools, because the agent then could accidentally then share those out with anyone. \n\nThe agent needs to instead be like any other user in the system, and you need to be thoughtful about what it should have access to, and make sure its information that is safe to share with that group.\n\nWhen you can pull that off, it’s quite powerful. For instance, by connecting to Claude Tag to Box, you could have Claude access corporate sales materials for questions in sales conversations or generating RFPs, brand guidelines and marketing assets for campaign creation, product roadmap materials and product documentation for coding agents to use, contracts that anyone in the legal team can access, and more.\n\nBut this is just the Box example. You can equally have it access your product or customer analytics data, CRM information, codebase, and other resources and agents that would make sense to work on in a collective manner. \n\nIt’s awesome to see continued innovation in what the future of work may begin to look like with agents.",
+      "translatedTitle": "这次发布会有一些细节之处，这些细节在实践中非常重要。",
+      "translatedBody": "这次发布有一些微妙之处，在实践中至关重要。这不仅仅是你通过 Slack 与 Claude 进行一对一互动。在这种情况下，Claude 扮演着同事的角色，任何用户都可以共享地与他互动。\n\n我们已经看到一些智能体编码系统开始采用这种模式（例如 OpenClaw 和 Hermes），而将其应用于通用知识工作则进一步推动了这一理念的发展。\n\n因此，这意味着这位智能体同事需要拥有自己的一套资源、工具和数据才能工作。这与你授予它访问你个人资源和工具的权限截然不同，因为智能体可能会意外地将这些信息分享给任何人。\n\n相反，智能体需要像系统中的其他用户一样，你需要仔细考虑它应该拥有哪些访问权限，并确保这些信息可以安全地与该群体共享。\n\n如果你能做到这一点，它将非常强大。例如，通过将 Claude Tag 连接到 Box，您可以让 Claude 访问企业销售资料，用于销售对话中的问题解答或生成 RFP；访问品牌指南和营销素材，用于创建营销活动；访问产品路线图资料和产品文档，供编码人员使用；访问法务团队所有成员均可访问的合同等等。\n\n但这只是 Box 的一个示例。您也可以让它访问您的产品或客户分析数据、CRM 信息、代码库以及其他资源和代理，以便进行协同工作。\n\n看到代理在未来工作模式的不断创新，真是令人振奋。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2069975251476422664",
+      "publishedAt": "2026-06-25T02:45:32.000Z",
+      "score": 79.19,
+      "engagement": {
+        "likes": 178,
+        "retweets": 18,
+        "replies": 37
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2069805581263847467",
+      "type": "tweet",
+      "builder": "Dan Shipper",
+      "title": "我们是否正在加速迈向一个人工智能可以做人类能做的一切的未来？",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Are we hurtling toward a future where AI can do everything humans can? Edwin Chen (@echen) believes we might be. He’s…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Are we hurtling toward a future where AI can do everything humans can?",
+      "originalBody": "Are we hurtling toward a future where AI can do everything humans can?\n\nEdwin Chen (@echen) believes we might be. He’s the CEO of Surge AI, one of the largest providers of expert data for frontier labs. Surge passed over $1 billion in revenue without raising any outside capital, and that gives Edwin a unique perspective on how quickly AI progress is accelerating.\n\nI’m on the record arguing that AI automation actually creates more human work. I also believe that even though AI progress is accelerating exponentially, we’re much farther away from AI replacing humans than it might seem.\n\nThat’s why I had Edwin on @every’s AI & I. We batted around different visions of the future, and discussed whether humanity will retain its unique place in the universe, and what that might be.\n\nWe get into:\n• If Chen’s version of the future materializes, he’s worried it’ll make people stop trying. One answer comes from a short story by science fiction writer Ted Chiang: Behave as if your decisions matter, even when you know they don’t.\n• AI may soon be able to take a nebulous goal like “win a Fields Medal” and execute. What it can’t do, I argue, is set its own goals—LLMs have no intrinsic motivation, no drive to explore, no ability to just change their mind.\n• A model optimized for engagement doesn’t provide the most valuable user experience. Edwin spent 20 rounds polishing a pointless email with one model before Claude told him to just send it.\n• Why AI is still bad at writing: models learn to hack the metrics they're trained on. Edwin's Hemingway Bench found models outputting a metaphor in every single sentence, an overindexxing that makes for a terrible reading experience.\n\nThis is a must-watch for anyone interested in where we fit as models get more capable.\n\nWatch below!\n\nTimestamps\n1. Introduction: 00:00:54\n2. Surge as a \"school for AGI\": 00:01:49\n3. What AI's capacity for novel mathematics says about human achievement: 00:04:46\n4. Motivation in an era when AI can do everything: 00:07:29\n5. The trap of optimizing AI models for engagement: 00:14:34\n6. Training using datasets versus training using environments: 00:29:34\n7. The value of personal data: 00:35:09\n8. Why models are bad at writing: 00:39:40\n9. Chen's AGI timeline: 00:42:00",
+      "translatedTitle": "我们是否正在加速迈向一个人工智能可以做人类能做的一切的未来？",
+      "translatedBody": "我们是否正飞速迈向一个人工智能可以包揽人类一切的未来？\n\nEdwin Chen (@echen) 认为或许如此。他是 Surge AI 的首席执行官，该公司是为前沿实验室提供专家数据的最大供应商之一。Surge 在未接受任何外部融资的情况下，营收突破了 10 亿美元，这使得 Edwin 对人工智能发展的速度有着独特的见解。\n\n我曾公开表示，人工智能自动化实际上创造了更多的人类工作。我也相信，尽管人工智能的发展呈指数级增长，但我们距离人工智能取代人类还有很长的路要走，远比我们想象的要远。\n\n这就是我邀请 Edwin 做客 @every 的“AI & I”节目的原因。我们探讨了各种不同的未来愿景，并讨论了人类是否还能在宇宙中保持其独特的地位，以及这种地位究竟是什么。\n\n我们深入探讨了以下内容：\n\n• 如果 Chen 所设想的未来成为现实，他担心这会让人们停止努力。一个答案来自科幻作家特德·姜的一篇短篇小说：即使你知道你的决定无关紧要，也要表现得好像它们很重要。\n\n• 人工智能或许很快就能将“赢得菲尔兹奖”这样模糊的目标付诸实践。但我认为，它做不到的是设定自己的目标——人工智能没有内在动力，没有探索的欲望，也没有改变主意的能力。\n\n• 一个针对用户参与度优化的模型并不能提供最有价值的用户体验。埃德温用一个模型花了二十轮时间润色一封毫无意义的邮件，最后克劳德告诉他直接发送就行了。\n\n• 为什么人工智能仍然不擅长写作：模型学会了破解它们训练所用的指标。埃德温的“海明威基准测试”发现，有些模型会在每句话里都输出一个比喻，这种过度索引导致糟糕的阅读体验。\n\n对于任何想了解随着模型能力的提升，我们自身定位的人来说，这都是必看的。\n\n请观看下方视频！\n\n时间戳\n\n1. 引言：00:00:54\n\n2. Surge 作为“通用人工智能的摇篮”：00:01:49\n\n3. 人工智能在新数学方面的能力揭示了人类成就的哪些方面：00:04:46\n\n4. 在人工智能无所不能的时代，我们该如何保持动力：00:07:29\n\n5. 为提升用户参与度而优化人工智能模型的陷阱：00:14:34\n\n6. 使用数据集进行训练与使用环境进行训练：00:29:34\n\n7. 个人数据的价值：00:35:09\n\n8. 为什么模型不擅长写作：00:39:40\n\n9. 陈的通用人工智能发展历程：00:42:00",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/danshipper/status/2069805581263847467",
+      "publishedAt": "2026-06-24T15:31:20.000Z",
+      "score": 72.97,
+      "engagement": {
+        "likes": 63,
+        "retweets": 3,
+        "replies": 8
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -47,26 +160,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2069468701548531895",
+      "id": "2069806049847321020",
       "type": "tweet",
-      "builder": "Claude",
-      "title": "Claude Tag 现已在 Slack 上推出测试版，适用于 Claude 企业版和团队版计划。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Claude Tag is available in beta today on Slack for Claude Enterprise and Team plans. We plan to expand it more widely…",
+      "builder": "Garry Tan",
+      "title": "我们在旧金山不做这种垃圾事，因为我们看到了这种残忍行为的后果……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We aren’t doing this trash in San Francisco because we saw what these kinds of ruthless politicians do to the citizen…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Claude Tag is available in beta today on Slack for Claude Enterprise and Team plans.",
-      "originalBody": "Claude Tag is available in beta today on Slack for Claude Enterprise and Team plans. We plan to expand it more widely in the future.\n\nRead more: https://t.co/MGV30Ml8mL",
-      "translatedTitle": "Claude Tag 现已在 Slack 上推出测试版，适用于 Claude 企业版和团队版计划。",
-      "translatedBody": "Claude Tag 现已在 Slack 上推出测试版，适用于 Claude 企业版和团队版用户。我们计划未来将其推广到更广泛的用户群体。\n\n了解更多：https://t.co/MGV30Ml8mL",
+      "originalTitle": "We aren’t doing this trash in San Francisco because we saw what these kinds of ruth…",
+      "originalBody": "We aren’t doing this trash in San Francisco because we saw what these kinds of ruthless politicians do to the citizens\n\nAsian elders killed\nPublic education dismantled\n\nIf you start counting their bodies and talking about their abdication of duty, the hard left can’t win https://t.co/WZnllDa30D",
+      "translatedTitle": "我们在旧金山不做这种垃圾事，因为我们看到了这种残忍行为的后果……",
+      "translatedBody": "我们在旧金山不搞这些破事，因为我们亲眼目睹了这些冷酷无情的政客是如何对待民众的。\n\n亚裔老人被杀害\n\n公共教育体系被瓦解\n\n如果你开始清点他们的尸体，揭露他们的失职，极左势力就赢不了。https://t.co/WZnllDa30D",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2069468701548531895",
-      "publishedAt": "2026-06-23T17:12:41.000Z",
-      "score": 159.26,
+      "sourceUrl": "https://x.com/garrytan/status/2069806049847321020",
+      "publishedAt": "2026-06-24T15:33:12.000Z",
+      "score": 65.09,
       "engagement": {
-        "likes": 619,
-        "retweets": 23,
-        "replies": 33
+        "likes": 1718,
+        "retweets": 132,
+        "replies": 139
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -74,26 +187,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2069590431646769472",
+      "id": "2069934356899246083",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "创建一个 X Chat 群组，用于收集 https://t.co/99eEa13mZ3 的反馈。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Starting an X Chat group for https://t.co/99eEa13mZ3 feedback. If you’re deep into building an agent and have high qu…",
+      "builder": "Garry Tan",
+      "title": "旧金山市检察官大卫·邱表示，向记者发送一份机密的法律文件是……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：SF City Attorney David Chiu says sending a confidential legal brief to reporters is grounds for removal from public o…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Starting an X Chat group for https://t.co/99eEa13mZ3 feedback.",
-      "originalBody": "Starting an X Chat group for https://t.co/99eEa13mZ3 feedback. If you’re deep into building an agent and have high quality critical feedback or requirements to share, DM me and I’ll add you to a group with eve engineers",
-      "translatedTitle": "创建一个 X Chat 群组，用于收集 https://t.co/99eEa13mZ3 的反馈。",
-      "translatedBody": "我正在创建一个 X Chat 群组，用于收集反馈意见（https://t.co/99eEa13mZ3）。如果您正在深入开发某个代理，并且有高质量的关键反馈或需求想要分享，请私信我，我会将您添加到一个由 EVE 工程师组成的群组中。",
+      "originalTitle": "SF City Attorney David Chiu says sending a confidential legal brief to reporters is…",
+      "originalBody": "SF City Attorney David Chiu says sending a confidential legal brief to reporters is grounds for removal from public office.\n\nJackie Fielder should resign. https://t.co/12qcV4Lhka",
+      "translatedTitle": "旧金山市检察官大卫·邱表示，向记者发送一份机密的法律文件是……",
+      "translatedBody": "旧金山市检察官邱信福表示，向记者发送机密法律文件是构成免职的理由。\n\n杰基·菲尔德应该辞职。https://t.co/12qcV4Lhka",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2069590431646769472",
-      "publishedAt": "2026-06-24T01:16:24.000Z",
-      "score": 155.99,
+      "sourceUrl": "https://x.com/garrytan/status/2069934356899246083",
+      "publishedAt": "2026-06-25T00:03:02.000Z",
+      "score": 50.51,
       "engagement": {
-        "likes": 274,
-        "retweets": 14,
-        "replies": 53
+        "likes": 95,
+        "retweets": 15,
+        "replies": 5
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -101,141 +214,37 @@
       "sourceType": "x"
     },
     {
-      "id": "2069408025362714957",
+      "id": "2069992268963135897",
       "type": "tweet",
-      "builder": "Josh Woodward",
-      "title": "⚽️在@…将您对球队的忠诚变成定制的交易卡、壁画或虚拟毛绒玩具",
-      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：⚽️Turn your team loyalty into a custom trading card, mural, or virtual plushie in @GeminiApp How to create yours: 1)…",
+      "builder": "Peter Yang",
+      "title": "Claude Design 非常棒。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Claude Design is pretty great. I gave it a repo for a mobile app I'm building and it reproduced the screens perfectly…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "⚽️Turn your team loyalty into a custom trading card, mural, or virtual plushie in @…",
-      "originalBody": "⚽️Turn your team loyalty into a custom trading card, mural, or virtual plushie in @GeminiApp\n\nHow to create yours:\n\n1) Go to https://t.co/z0bvXTam3G or open the app\n2) Tap Images (side panel)\n3) Select the \"Get in the game\" template\n4) Upload your photo and share your output here https://t.co/aysNORY2ea",
-      "translatedTitle": "⚽️在@…将您对球队的忠诚变成定制的交易卡、壁画或虚拟毛绒玩具",
-      "translatedBody": "⚽️在 @GeminiApp 中，将你对球队的忠诚变成定制的球星卡、壁画或虚拟毛绒玩具！\n\n如何创建：\n\n1) 访问 https://t.co/z0bvXTam3G 或打开应用\n\n2) 点击侧边栏的“图片”\n\n3) 选择“Get in the game”模板\n\n4) 上传照片并在此处分享你的作品：https://t.co/aysNORY2ea",
+      "originalTitle": "Claude Design is pretty great.",
+      "originalBody": "Claude Design is pretty great. \n\nI gave it a repo for a mobile app I'm building and it reproduced the screens perfectly.\n\nExcept after one prompt it's telling me to save tokens already 😅 https://t.co/k6hQ53zmFN",
+      "translatedTitle": "Claude Design 非常棒。",
+      "translatedBody": "Claude Design 真不错。\n\n我给它提供了一个我正在开发的移动应用的仓库，它完美地复现了所有界面。\n\n不过，它提示我保存令牌之后就停了😅 https://t.co/k6hQ53zmFN",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/joshwoodward/status/2069408025362714957",
-      "publishedAt": "2026-06-23T13:11:35.000Z",
-      "score": 154.46,
+      "sourceUrl": "https://x.com/petergyang/status/2069992268963135897",
+      "publishedAt": "2026-06-25T03:53:10.000Z",
+      "score": 47.74,
       "engagement": {
-        "likes": 222,
-        "retweets": 19,
-        "replies": 16
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2069598378191941835",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "顺便一提，再鼎集团于1月份上市，发行价为每股120港元。",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：btw Zai IPO'ed in Jan at HK$120 a share. when I first met @louszbd nobody really knew anyone using GLM's. now they ha…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "btw Zai IPO'ed in Jan at HK$120 a share.",
-      "originalBody": "btw Zai IPO'ed in Jan at HK$120 a share. when I first met  @louszbd nobody really knew anyone using GLM's.\n\nnow they have beat deepseek with the world's undisputed top open model and in some respects (see @ml_angelopoulos) say top model period, and are returning to SF @aidotengineer on top of the world and open for business!\n\nexcited for @Thom_Wolf and @ZixuanLi_ to chat onstage!",
-      "translatedTitle": "顺便一提，再鼎集团于1月份上市，发行价为每股120港元。",
-      "translatedBody": "顺便一提，Zai 1月份上市，发行价每股120港元。我第一次见到@louszbd的时候，几乎没人知道有人用GLM。\n\n现在他们凭借全球公认的顶级开源模型击败了Deepseek，在某些方面（参见@ml_angelopoulos）甚至可以说就是顶级模型，他们带着世界之巅的姿态重返旧金山@aidotengineer，正式开启合作！\n\n期待@Thom_Wolf和@ZixuanLi_上台交流！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2069598378191941835",
-      "publishedAt": "2026-06-24T01:47:59.000Z",
-      "score": 148.95,
-      "engagement": {
-        "likes": 73,
-        "retweets": 5,
-        "replies": 10
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2069582337034330186",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "非常荣幸能主持本次会议的开幕之夜！",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：very proud to host this session opening night! if you work in tech but have never heard of Touchy Feely, you are exac…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "very proud to host this session opening night!",
-      "originalBody": "very proud to host this session opening night!\n\nif you work in tech but have never heard of Touchy Feely, you are exactly the kind of person that needs to see this. You have no idea the shocking number of tech leadeds on here are secret @LITfellows alums and i have seen first hand how strong the bonds you form are, it blows my engineer mind.\n\nFREE ADMISSION, application in link reply",
-      "translatedTitle": "非常荣幸能主持本次会议的开幕之夜！",
-      "translatedBody": "非常荣幸能主持本次活动的开幕之夜！\n\n如果你从事科技行业，却从未听说过 Touchy Feely，那你绝对应该看看这个活动。你肯定想不到，这里竟然有那么多科技领军人物都是 @LITfellows 的校友，而且我亲眼见证了大家之间建立的深厚情谊，这简直让我这个工程师都叹为观止。\n\n免费入场，申请链接见回复。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2069582337034330186",
-      "publishedAt": "2026-06-24T00:44:14.000Z",
-      "score": 144.6,
-      "engagement": {
-        "likes": 22,
+        "likes": 53,
         "retweets": 1,
-        "replies": 12
+        "replies": 15
       },
       "matchedFocusAreas": [
         "Coding Agents"
       ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2069468699766005847",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "开启环境行为模式，克劳德就会主动采取行动。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Turn ambient behavior on, and Claude takes initiative. It follows up on threads that have gone quiet and flags what's…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Turn ambient behavior on, and Claude takes initiative.",
-      "originalBody": "Turn ambient behavior on, and Claude takes initiative. It follows up on threads that have gone quiet and flags what's relevant from across its channels and tools. https://t.co/fTMkAHY4Gr",
-      "translatedTitle": "开启环境行为模式，克劳德就会主动采取行动。",
-      "translatedBody": "开启环境行为模式，Claude 就会主动出击。它会跟进那些沉寂已久的话题，并从其所有渠道和工具中筛选出相关信息并标记出来。https://t.co/fTMkAHY4Gr",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2069468699766005847",
-      "publishedAt": "2026-06-23T17:12:41.000Z",
-      "score": 132.07,
-      "engagement": {
-        "likes": 428,
-        "retweets": 14,
-        "replies": 9
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2069468698071494976",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "在一个频道里，只有一个克劳德会和所有人互动，所以队友可以……",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：In a channel, there’s one Claude that interacts with everyone, so a teammate can pick up exactly where you left off.…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "In a channel, there’s one Claude that interacts with everyone, so a teammate can pi…",
-      "originalBody": "In a channel, there’s one Claude that interacts with everyone, so a teammate can pick up exactly where you left off.\n\nIt builds more context about the work as it follows the channel, so you don’t need to explain things from scratch.",
-      "translatedTitle": "在一个频道里，只有一个克劳德会和所有人互动，所以队友可以……",
-      "translatedBody": "在一个频道里，只有一个 Claude 会与所有人互动，所以队友可以无缝衔接你之前的工作。\n\n频道会逐步构建工作背景，让你无需从头开始解释。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2069468698071494976",
-      "publishedAt": "2026-06-23T17:12:41.000Z",
-      "score": 130.87,
-      "engagement": {
-        "likes": 347,
-        "retweets": 10,
-        "replies": 4
-      },
-      "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-06-24T07:29:07.207Z",
-    "totalCandidates": 41,
-    "textQualifiedCandidates": 26,
+    "upstreamGeneratedAt": "2026-06-25T07:29:59.185Z",
+    "totalCandidates": 29,
+    "textQualifiedCandidates": 14,
     "selectedTweets": 8
   }
 }
