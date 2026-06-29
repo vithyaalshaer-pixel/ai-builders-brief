@@ -1,10 +1,10 @@
 {
-  "date": "2026-06-28",
-  "generatedAt": "2026-06-28T04:14:52.483Z",
+  "date": "2026-06-29",
+  "generatedAt": "2026-06-29T04:21:40.173Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-06-28",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 34 条候选动态里，筛出 15 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-06-29",
+  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 25 条候选动态里，筛出 10 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,220 +23,220 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2070676383135834334",
+      "id": "2070949306060931312",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "诺姆关于始终保持恒定的说法，这是一种很有意思的解读方式……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：An interesting way to take Noam at his word in regards to always keeping a constant inference budget for any eval rep…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "An interesting way to take Noam at his word in regards to always keeping a constant…",
+      "originalBody": "An interesting way to take Noam at his word in regards to always keeping a constant inference budget for any eval reporting -\n\nis that open models have a lot more dollar per token mileage than closed model APIs. So anyone launching an open model today or situationally incentivized toward open models should obviously report thinking levels measured by dollar inference on popular inference providers, instead of by number of tokens on the x axis",
+      "translatedTitle": "诺姆关于始终保持恒定的说法，这是一种很有意思的解读方式……",
+      "translatedBody": "要认真对待诺姆关于始终保持评估报告中推理预算恒定的说法，一个有趣的方法是：\n\n开放模型的每代币收益远高于封闭模型 API。因此，任何今天推出开放模型或因某种原因倾向于使用开放模型的人，显然应该报告以热门推理提供商的美元推理收益衡量的思维水平，而不是以 x 轴上的代币数量衡量。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2070949306060931312",
+      "publishedAt": "2026-06-27T19:16:05.000Z",
+      "score": 200.18,
+      "engagement": {
+        "likes": 100,
+        "retweets": 4,
+        "replies": 11
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2071047674187714830",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "代理程序是特别难以调试的软件。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Agents are particularly hard-to-debug software. For one, and by design, AI models behave in non-deterministic ways. E…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Agents are particularly hard-to-debug software.",
-      "originalBody": "Agents are particularly hard-to-debug software. \n\nFor one, and by design, AI models behave in non-deterministic ways. Even two identical prompts don't always yield the same output.\n\nBut agents are also complex distributed systems. They involve multiple steps of computation across functions and sandboxes, touching dozens of API services that can go down, rate limit you, etc.\n\nNailing down observability out of the box for https://t.co/nDDXqUmOlD on Vercel was a key priority for the team, and the feedback so far has been 🔥↓",
-      "translatedTitle": "代理程序是特别难以调试的软件。",
-      "translatedBody": "智能体是特别难调试的软件。\n\n首先，人工智能模型的设计本身就决定了它们的行为是非确定性的。即使是两个完全相同的指令，也未必会产生相同的输出。\n\n其次，智能体也是复杂的分布式系统。它们涉及跨多个函数和沙箱的多步骤计算，会调用数十个可能出现故障、速率限制等问题的 API 服务。\n\n对于团队来说，在 Vercel 平台上实现 https://t.co/nDDXqUmOlD 的开箱即用可观测性至关重要，而目前为止的反馈非常出色 🔥↓",
+      "title": "Mythos/Sol的网络安全能力在进攻中同样有用……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Mythos / Sol cybersecurity capabilities are equally useful in an offensive as well a defensive capacity. If adversari…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "Mythos / Sol cybersecurity capabilities are equally useful in an offensive as well…",
+      "originalBody": "Mythos / Sol cybersecurity capabilities are equally useful in an offensive as well a defensive capacity.\n\nIf adversaries get ahold of an equivalent offensive capability, it poses a serious threat to US companies that remain unaware of latent vulnerabilities.\n\nIn the meantime, I strongly recommend running deepsec[1] or similar harnesses with the available frontier models.\n\n[1] https://t.co/Wh4QVGDFnm",
+      "translatedTitle": "Mythos/Sol的网络安全能力在进攻中同样有用……",
+      "translatedBody": "Mythos/Sol 的网络安全能力在进攻和防御方面都同样有效。\n\n如果对手掌握了类似的进攻能力，对于那些尚未意识到潜在漏洞的美国公司来说，将构成严重威胁。\n\n与此同时，我强烈建议使用现有的前沿模型运行 DeepSec[1] 或类似的安全工具。\n\n[1] https://t.co/Wh4QVGDFnm",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2070676383135834334",
-      "publishedAt": "2026-06-27T01:11:35.000Z",
-      "score": 180.42,
+      "sourceUrl": "https://x.com/rauchg/status/2071047674187714830",
+      "publishedAt": "2026-06-28T01:46:58.000Z",
+      "score": 162.86,
       "engagement": {
-        "likes": 270,
-        "retweets": 8,
-        "replies": 37
+        "likes": 1225,
+        "retweets": 57,
+        "replies": 60
       },
       "matchedFocusAreas": [
-        "Coding Agents",
         "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2070606851377672675",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "我们通过与相关领域的专家合作，不断扩展规模，稳步推进……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：we have been scaling without slop by working with aligned domain experts to add coverage with both oai and ant launch…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "we have been scaling without slop by working with aligned domain experts to add cov…",
-      "originalBody": "we have been scaling without slop by working with aligned domain experts to add coverage \n\nwith both oai and ant launching multi-billion dollar services arms, it’s clear that FDE is one of the most in demand disciplines on earth, but I have never done the job\n\nit’s been an absolute pleasure working with Basil on our first ever AI FDE miniconference!\n\nsee at https://t.co/STlx7OsWbr  next week",
-      "translatedTitle": "我们通过与相关领域的专家合作，不断扩展规模，稳步推进……",
-      "translatedBody": "我们与相关领域的专家紧密合作，稳步扩展业务覆盖范围。\n\nOAI 和 Ant 都推出了数十亿美元的服务部门，这清楚地表明，全域元素设计 (FDE) 是全球最热门的领域之一，但我从未从事过这项工作。\n\n与 Basil 合作举办我们首届 AI 全域元素设计小型会议真是太棒了！\n\n下周请访问 https://t.co/STlx7OsWbr 了解更多信息。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2070606851377672675",
-      "publishedAt": "2026-06-26T20:35:18.000Z",
-      "score": 147.4,
-      "engagement": {
-        "likes": 46,
-        "retweets": 2,
-        "replies": 15
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2070748857441362056",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "Swyx Inc.发展历程中的一个小里程碑：我们今天接管了我的新媒体实验室，它……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：minor milestone in the growth of swyx inc: we took over my new media lab today it will be the new home for engineer-c…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "minor milestone in the growth of swyx inc: we took over my new media lab today it w…",
-      "originalBody": "minor milestone in the growth of swyx inc:\n\nwe took over my new media lab today\n\nit will be the new home for engineer-creatives in san francisco; a third place to make; a finishing school for technical storytellers; a place to inspire the inspirational.\n\nto our complete surprise; it came with a datacenter rack randomly set up and wired up! need advice on what to put in this thing. @alexocheema halp",
-      "translatedTitle": "Swyx Inc.发展历程中的一个小里程碑：我们今天接管了我的新媒体实验室，它……",
-      "translatedBody": "Swyx Inc.发展历程中的一个小里程碑：\n\n今天我们接管了我的新媒体实验室。\n\n它将成为旧金山工程师兼创意人士的新家；一个创作的第三空间；一个技术故事讲述者的进修之地；一个激发灵感的地方。\n\n令我们完全意想不到的是，它竟然自带一个随意搭建并连接好的数据中心机架！我们需要一些建议，看看该往里面放些什么。@alexocheema 求助！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2070748857441362056",
-      "publishedAt": "2026-06-27T05:59:34.000Z",
-      "score": 126.1,
-      "engagement": {
-        "likes": 72,
-        "retweets": 2,
-        "replies": 20
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2070699046939820223",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "说实话，这根本不是发布模型并继续开发和发布的方式……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：This is honestly no way to release a model and continued development and release this way is a solid way to salt the…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "This is honestly no way to release a model and continued development and release th…",
-      "originalBody": "This is honestly no way to release a model and continued development and release this way is a solid way to salt the ground and kill all innovation by small startups https://t.co/tUjxFSunVI",
-      "translatedTitle": "说实话，这根本不是发布模型并继续开发和发布的方式……",
-      "translatedBody": "说实话，这种发布模型的方式实在不可取，继续以这种方式进行开发和发布，无异于扼杀小型创业公司的所有创新。https://t.co/tUjxFSunVI",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2070699046939820223",
-      "publishedAt": "2026-06-27T02:41:39.000Z",
-      "score": 109.87,
-      "engagement": {
-        "likes": 586,
-        "retweets": 56,
-        "replies": 71
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2070554118146412979",
-      "type": "tweet",
-      "builder": "Dan Shipper",
-      "title": "突发新闻：OpenAI 发布了 GPT-5.6 Sol！",
-      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：BREAKING: OpenAI announced GPT-5.6 Sol! As of today, by U.S. government directive, access is limited to only ~20 pre-…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "BREAKING: OpenAI announced GPT-5.6 Sol!",
-      "originalBody": "BREAKING: OpenAI announced GPT-5.6 Sol!\n\nAs of today, by U.S. government directive, access is limited to only ~20 pre-approved companies and @every is not on the list. This appears to be a temporary situation while the government races to figure out a long-term policy for releasing frontier models with advanced capabilities.\n\nI understand and applaud the need for some government oversight in making American infrastructure resilient to cyberattacks and other potential new threats from the misuse of these models. However, I also strongly believe that widespread democratic access to frontier models is absolutely necessary to our country’s leading position in the AI race. It’s also critical for allowing American workers to keep pace with the new skills they need to be productive in this era.\n\nA world where advanced models are locked up only for use by the employees of AI giants and a select few companies is one where ambitious students, independent builders, and working professionals are denied the tools they need to learn, create, and compete to their fullest potential.\n\nAlso, speaking for @every and the community of developers and writers who share early access with us: Our job is to test these tools early so that we can prepare Americans for how to use them to their fullest extent. If we lose access, we lose the ability to do that important job well.\n\nThankfully, both OpenAI and the government seem to be working to make broad access available soon.\n\nWe’ll be ready to vibe check when that happens :)",
-      "translatedTitle": "突发新闻：OpenAI 发布了 GPT-5.6 Sol！",
-      "translatedBody": "突发新闻：OpenAI 发布 GPT-5.6 Sol！\n\n截至今日，根据美国政府指令，只有约 20 家预先批准的公司才能访问该模型，而 @every 并不在名单之列。这似乎只是暂时的，政府正在加紧制定一项长期政策，以发布具有先进功能的尖端模型。\n\n我理解并赞赏政府在确保美国基础设施能够抵御网络攻击和其他因滥用这些模型而可能产生的新威胁方面进行监管的必要性。然而，我也坚信，广泛民主地获取尖端模型对于我国在人工智能竞赛中保持领先地位至关重要。这对于帮助美国劳动者掌握在这个时代保持生产力所需的新技能也至关重要。\n\n如果先进模型被锁定，仅供人工智能巨头和少数几家公司的员工使用，那么雄心勃勃的学生、独立开发者和职场人士将被剥夺学习、创造和充分发挥自身潜力所需的工具。\n\n此外，我还要代表@every以及所有与我们共享早期访问权限的开发者和撰稿人社区发言：我们的工作是尽早测试这些工具，以便帮助美国民众了解如何充分利用它们。如果我们失去访问权限，我们就无法做好这项重要的工作。\n\n值得庆幸的是，OpenAI和政府似乎都在努力尽快实现广泛开放访问权限。\n\n届时，我们将做好充分准备，进行评估 :)",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/danshipper/status/2070554118146412979",
-      "publishedAt": "2026-06-26T17:05:45.000Z",
-      "score": 104.83,
-      "engagement": {
-        "likes": 231,
-        "retweets": 13,
-        "replies": 32
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2070633838146134219",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "让我捋一捋：1.",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：So let me get this straight: 1. We publish frontier models 2. They get distilled into cheap open source models 3. US…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "So let me get this straight: 1.",
-      "originalBody": "So let me get this straight:\n\n1. We publish frontier models\n2. They get distilled into cheap open source models\n3. US companies adopt the same open source models because they're good enough and much cheaper\n4. We start gating access to frontier models\n\nWhat next? US companies innovate less? Open source models become more attractive?",
-      "translatedTitle": "让我捋一捋：1.",
-      "translatedBody": "让我捋捋：\n\n1. 我们发布前沿模型\n\n2. 这些模型被提炼成廉价的开源模型\n\n3. 美国公司采用这些开源模型，因为它们足够好用而且价格便宜得多\n\n4. 我们开始限制对前沿模型的访问\n\n接下来会发生什么？美国公司会减少创新吗？开源模型会变得更有吸引力吗？",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2070633838146134219",
-      "publishedAt": "2026-06-26T22:22:32.000Z",
-      "score": 84.85,
-      "engagement": {
-        "likes": 597,
-        "retweets": 19,
-        "replies": 111
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2070656348488937889",
-      "type": "tweet",
-      "builder": "Nan Yu",
-      "title": "隐藏关卡 6：虽然有个问题，但解决它并不值得，所以别管它。",
-      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Secret level 6: there’s a problem, but it’s not worth solving, so leave it alone. This is why org with a ton of level…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Secret level 6: there’s a problem, but it’s not worth solving, so leave it alone.",
-      "originalBody": "Secret level 6: there’s a problem, but it’s not worth solving, so leave it alone. \n\nThis is why org with a ton of level 1s can win. They don’t get distracted by side quests https://t.co/fRGy1NC9oT",
-      "translatedTitle": "隐藏关卡 6：虽然有个问题，但解决它并不值得，所以别管它。",
-      "translatedBody": "隐藏关卡 6：有个问题，但解决它毫无意义，所以别管它。\n\n这就是为什么拥有大量 1 级成员的组织能够获胜的原因。他们不会被支线任务分心。https://t.co/fRGy1NC9oT",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thenanyu/status/2070656348488937889",
-      "publishedAt": "2026-06-26T23:51:59.000Z",
-      "score": 75.79,
-      "engagement": {
-        "likes": 129,
-        "retweets": 4,
-        "replies": 2
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2070563281916620895",
+      "id": "2070937863806751154",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "GPT-5.6 是真实存在的，而且看起来非常强大。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：GPT-5.6 is real and looks very strong. Going to be very strong for knowledge worker tasks that require heavy tool use…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "GPT-5.6 is real and looks very strong.",
-      "originalBody": "GPT-5.6 is real and looks very strong. Going to be very strong for knowledge worker tasks that require heavy tool use and long running agents doing work. We're not hitting any walls in AI progress right now. https://t.co/5Apn3VzmkY https://t.co/LGpfF8ANcT",
-      "translatedTitle": "GPT-5.6 是真实存在的，而且看起来非常强大。",
-      "translatedBody": "GPT-5.6 已经问世，而且看起来非常强大。它将非常擅长处理需要大量工具和长时间运行的智能体工作的知识型工作任务。目前我们在人工智能发展方面还没有遇到任何瓶颈。https://t.co/5Apn3VzmkY https://t.co/LGpfF8ANcT",
+      "title": "这里有一些关于人工智能代币成本优化的最佳实践。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Some good best practices here on AI token cost optimization. None of these happens though without a deep understandin…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Some good best practices here on AI token cost optimization.",
+      "originalBody": "Some good best practices here on AI token cost optimization. None of these happens though without a deep understanding of the underlying work being done in a non-abstract way.\n\nThe ultimate implication is that a layer between the work itself and the underlying intelligence needs to deeply understand your workflows, context, and business process. Now, each individual company doing this on their own is unlikely to be effective at scale, so as a consequence, this is effectively the playbook for any applied AI company right now. \n\nBy evaling the models for the applied use cases, deeply understanding the domain, having tuned UX and features for the use case, and having the ability to support adoption and change (via FDEs), allow this layer to add a ton of value. And as a result, enterprises get higher ROI because you actually can get *more* intelligence per dollar by having optimal architecture and workflows.\n\nThere will be many horizontal and vertical versions of this approach. Huge opportunity right now.",
+      "translatedTitle": "这里有一些关于人工智能代币成本优化的最佳实践。",
+      "translatedBody": "这里有一些关于人工智能代币成本优化的最佳实践。然而，如果没有对底层工作的深入理解（而非抽象理解），这一切都无法实现。\n\n最终这意味着，在工作本身和底层智能之间需要一个能够深入理解你的工作流程、上下文和业务流程的层。现在，每个公司单独进行这项工作不太可能大规模有效，因此，这实际上是目前所有应用型人工智能公司都必须遵循的策略。\n\n通过评估模型在应用场景中的适用性、深入理解领域、针对用例优化用户体验和功能，以及支持采用和变更（通过功能交付单元），可以让这一层创造巨大的价值。因此，企业可以获得更高的投资回报率，因为通过优化架构和工作流程，你可以用更少的钱获得更多的智能。\n\n这种方法将衍生出许多横向和纵向的版本。现在蕴藏着巨大的机遇。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2070563281916620895",
-      "publishedAt": "2026-06-26T17:42:10.000Z",
-      "score": 55.27,
+      "sourceUrl": "https://x.com/levie/status/2070937863806751154",
+      "publishedAt": "2026-06-27T18:30:37.000Z",
+      "score": 107.39,
       "engagement": {
-        "likes": 239,
-        "retweets": 18,
-        "replies": 38
+        "likes": 385,
+        "retweets": 28,
+        "replies": 39
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2071116793234813272",
+      "type": "tweet",
+      "builder": "Zara Zhang",
+      "title": "顺便说一下，我不是工程师；这些都是我出于兴趣而做的业余项目。",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Btw I'm not an engineer; these are all side projects I built for fun. I just love connecting technology with user pro…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Btw I'm not an engineer; these are all side projects I built for fun.",
+      "originalBody": "Btw I'm not an engineer; these are all side projects I built for fun. I just love connecting technology with user problems/using it to solve my own pain points, and then telling stories about the products",
+      "translatedTitle": "顺便说一下，我不是工程师；这些都是我出于兴趣而做的业余项目。",
+      "translatedBody": "顺便说一下，我不是工程师；这些都是我出于兴趣做的业余项目。我只是喜欢将技术与用户问题联系起来/用它来解决我自己的痛点，然后再讲述这些产品的故事。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/zarazhangrui/status/2071116793234813272",
+      "publishedAt": "2026-06-28T06:21:37.000Z",
+      "score": 68.23,
+      "engagement": {
+        "likes": 12,
+        "retweets": 1,
+        "replies": 5
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2071071289247244481",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "Codex 中进行了大量的改进。",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Tons of improvements landed in Codex. - Handles super long threads smoothly. - Hoverable navigation rail for previewi…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Tons of improvements landed in Codex.",
+      "originalBody": "Tons of improvements landed in Codex. \n\n- Handles super long threads smoothly. \n- Hoverable navigation rail for previewing and jumping between turns that feels just right. \n- Settings search covers more controls, with clearer appearance and host-filtering options and easier-to-find custom-provider settings. \n- Zoom-level changes no longer misalign tooltips, dialogs, menus, selection bubbles, drag previews, or autocomplete. \n- Copying into Slack preserves Markdown formatting such as bullets, bold text, code, and links; and large text pastes no longer freeze the UI.\n- And most importantly: a dedicated Pets panel.",
+      "translatedTitle": "Codex 中进行了大量的改进。",
+      "translatedBody": "Codex 迎来了大量改进。\n\n- 能够流畅处理超长对话线程。\n\n- 新增了可悬停的导航栏，方便预览和跳转，手感极佳。\n\n- 设置搜索涵盖更多控件，界面更清晰，新增了主机筛选选项，自定义提供商设置也更容易查找。\n\n- 缩放级别更改不再导致工具提示、对话框、菜单、选择气泡、拖拽预览或自动完成功能错位。\n\n- 复制到 Slack 时，Markdown 格式（例如项目符号、粗体文本、代码和链接）得以保留；粘贴大段文本也不会再导致界面卡顿。\n\n- 最重要的是：新增了专门的宠物面板。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2071071289247244481",
+      "publishedAt": "2026-06-28T03:20:48.000Z",
+      "score": 64.01,
+      "engagement": {
+        "likes": 1383,
+        "retweets": 71,
+        "replies": 170
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2071034256051097799",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "我对那台 52 英寸的戴尔显示器很感兴趣，但是需要破解 BetterDisplay 才能获得 USB 接口……",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Got excited about the 52’ Dell, but it requires BetterDisplay hacking to get a usable resolution, but then I get weir…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Got excited about the 52’ Dell, but it requires BetterDisplay hacking to get a usab…",
+      "originalBody": "Got excited about the 52’ Dell, but it requires BetterDisplay hacking to get a usable resolution, but then I get weird flickers and also startup wake issues. [on M4 Max MBP] \n\nSo, Apple wins this round, 2xXDR it is.\n\nhttps://t.co/MpRNpQJE8X",
+      "translatedTitle": "我对那台 52 英寸的戴尔显示器很感兴趣，但是需要破解 BetterDisplay 才能获得 USB 接口……",
+      "translatedBody": "我对戴尔的 52 英寸显示器很感兴趣，但它需要通过 BetterDisplay 破解才能获得可用的分辨率，但破解后会出现奇怪的闪烁和启动唤醒问题。[我的电脑是 M4 Max MacBook Pro]\n\n所以，这一轮苹果胜出，我还是选择双 XDR 显示器。\n\nhttps://t.co/MpRNpQJE8X",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2071034256051097799",
+      "publishedAt": "2026-06-28T00:53:39.000Z",
+      "score": 56.51,
+      "engagement": {
+        "likes": 341,
+        "retweets": 5,
+        "replies": 47
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2070906940352520477",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "每周六，Hermes都会给我发一封健康检查邮件，其中包含一些重要信息和统计数据……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Every Saturday, Hermes sends me a health check email with top takeaways and stats to help me work toward my health go…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Every Saturday, Hermes sends me a health check email with top takeaways and stats t…",
+      "originalBody": "Every Saturday, Hermes sends me a health check email with top takeaways and stats to help me work toward my health goals by pulling data from:\n\n→ My smart scale via the Withings API\n→ My Fitbit and Google Health\n→ An MCP server and mobile fitness app I vibe coded to track my workouts\n\nI find this super useful, even if my body fat is going the wrong way 😅\n\nI talk about how to do this in my Hermes tutorial here: https://t.co/p0BDhL6PAp\n\nShould I make another video on building my fitness app?",
+      "translatedTitle": "每周六，Hermes都会给我发一封健康检查邮件，其中包含一些重要信息和统计数据……",
+      "translatedBody": "每周六，Hermes 都会给我发送一封健康检查邮件，其中包含一些重要信息和统计数据，帮助我朝着健康目标努力。这些信息来自：\n\n→ 我的智能体重秤（通过 Withings API 获取）\n\n→ 我的 Fitbit 和 Google Health\n\n→ 我自己编写的 MCP 服务器和移动健身应用，用于追踪我的锻炼情况\n\n我觉得这非常实用，即使我的体脂率正在上升😅\n\n我在 Hermes 教程中讲解了如何实现这一点：https://t.co/p0BDhL6PAp\n\n我应该再做一个关于开发健身应用的视频吗？",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2070906940352520477",
+      "publishedAt": "2026-06-27T16:27:44.000Z",
+      "score": 47.4,
+      "engagement": {
+        "likes": 51,
+        "retweets": 1,
+        "replies": 13
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2071058953115767275",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "这个框架只有一个小问题：如果你等到 5 级或者更高……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：There's just one small problem with this framework: If you wait till level 5 or whatever to tell other people that th…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "There's just one small problem with this framework: If you wait till level 5 or wha…",
+      "originalBody": "There's just one small problem with this framework:\n\nIf you wait till level 5 or whatever to tell other people that there's a problem when there's been a burning fire for days and your \"solution\" actually didn't fix the problem at all, you're 100% in a worse situation than someone who is level 1 and just told other people about the problem right away and found a solution together.\n\nThere's no black and white to this stuff, everything has nuance.",
+      "translatedTitle": "这个框架只有一个小问题：如果你等到 5 级或者更高……",
+      "translatedBody": "这个框架只有一个小问题：\n\n如果你等到等级达到 5 级（或其他什么级别）才告诉别人问题存在，而此时火势已经持续了好几天，你的“解决方案”实际上根本没解决问题，那么你的处境肯定比那些 1 级就立即告知他人问题并共同找到解决方案的人要糟糕得多。\n\n这件事没有绝对的黑白分明，一切都充满细微差别。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2071058953115767275",
+      "publishedAt": "2026-06-28T02:31:47.000Z",
+      "score": 44.66,
+      "engagement": {
+        "likes": 35,
+        "retweets": 0,
+        "replies": 5
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -245,9 +245,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-06-27T07:23:53.714Z",
-    "totalCandidates": 34,
-    "textQualifiedCandidates": 15,
+    "upstreamGeneratedAt": "2026-06-28T07:38:46.771Z",
+    "totalCandidates": 25,
+    "textQualifiedCandidates": 10,
     "selectedTweets": 8
   }
 }
