@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-01",
-  "generatedAt": "2026-07-01T04:17:33.462Z",
+  "date": "2026-07-02",
+  "generatedAt": "2026-07-02T03:57:25.102Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-07-01",
+  "title": "AI Builders Daily | 2026-07-02",
   "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 32 条候选动态里，筛出 15 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 38 条候选动态里，筛出 14 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,160 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2071653962013446586",
+      "id": "2072017452335087996",
       "type": "tweet",
       "builder": "Claude",
-      "title": "推理过程在 Anthropic 运营的 Azure 基础设施上运行。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Inference runs on Azure infrastructure, operated by Anthropic. Prompt caching and extended thinking are supported tod…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "Inference runs on Azure infrastructure, operated by Anthropic.",
-      "originalBody": "Inference runs on Azure infrastructure, operated by Anthropic. Prompt caching and extended thinking are supported today, with more capabilities on the way.\n\nRead more: https://t.co/9MILqQYun4",
-      "translatedTitle": "推理过程在 Anthropic 运营的 Azure 基础设施上运行。",
-      "translatedBody": "推理功能运行在由 Anthropic 运营的 Azure 基础架构上。目前支持提示缓存和扩展思维，更多功能即将推出。\n\n了解更多：https://t.co/9MILqQYun4",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2071653962013446586",
-      "publishedAt": "2026-06-29T17:56:08.000Z",
-      "score": 152.64,
-      "engagement": {
-        "likes": 153,
-        "retweets": 13,
-        "replies": 14
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2071653958905467027",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "Microsoft Foundry 中的 Claude 现已正式发布，托管在 Azure 上。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Claude in Microsoft Foundry is now generally available, hosted on Azure. Azure customers get Claude Opus 4.8 and Clau…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Claude in Microsoft Foundry is now generally available, hosted on Azure.",
-      "originalBody": "Claude in Microsoft Foundry is now generally available, hosted on Azure.\n\nAzure customers get Claude Opus 4.8 and Claude Haiku 4.5, with Azure authentication, billing, and commitment retirement. https://t.co/4Rz7fa9Bxm",
-      "translatedTitle": "Microsoft Foundry 中的 Claude 现已正式发布，托管在 Azure 上。",
-      "translatedBody": "Microsoft Foundry 中的 Claude 现已正式发布，托管于 Azure。\n\nAzure 客户可获得 Claude Opus 4.8 和 Claude Haiku 4.5，并可停用 Azure 身份验证、计费和承诺功能。https://t.co/4Rz7fa9Bxm",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2071653958905467027",
-      "publishedAt": "2026-06-29T17:56:07.000Z",
-      "score": 144.38,
-      "engagement": {
-        "likes": 4094,
-        "retweets": 250,
-        "replies": 266
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2071740419030053227",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "Codex 使用限制将在接下来的一个小时内完全重置，我们将进行积分返还……",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Codex usage limits will be fully reset again in the next hour and we will credit one additional reset into your bank…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Codex usage limits will be fully reset again in the next hour and we will credit on…",
-      "originalBody": "Codex usage limits will be fully reset again in the next hour and we will credit one additional reset into your bank for your own usage over the next 24 hours.\n\nWe investigated reports that Codex usage was being consumed faster than expected. There wasn't one central issue, but a few smaller problems compounded for some users.   \n\nHere's what we found and changed: \n- Actual usage: Auto-review had become more proactive, another change was triggering more subagent work, and background suggestions could run twice or retry too frequently after failures. We reverted the changes and fixed suggestion scheduling, duplicate generation, and retry behavior. This should reduce unnecessary background token consumption while preserving the work users explicitly request. \n- Usage reporting: Auto-review was incorrectly appearing as GPT‑5.4 usage, and failed or rate-limited requests were still shown as turns. Auto-review now appears as its own category, and only successful requests count toward the turn graphs. Rate-limited requests were never charged, but they were being displayed incorrectly. \n- Immediate relief: We reset usage limits while rolling out the fixes, then shipped hotfixes across the CLI, desktop app, and usage backend. \n- What to expect: New usage data should be clearer and actual consumption should be lower. Historical charts may still show auto-review under GPT‑5.4 because older turn data was not relabeled. Features that intentionally perform more work; such as /goal, subagents, and higher reasoning levels will still naturally use more capacity.  \n\nAll fixes are now deployed, and we've added more detailed monitoring so we can detect background-usage regressions sooner. We'll continue watching the results closely.\n\nThank you for building and doing all sorts of things with Codex.",
-      "translatedTitle": "Codex 使用限制将在接下来的一个小时内完全重置，我们将进行积分返还……",
-      "translatedBody": "Codex 使用限制将在接下来的一个小时内完全重置，我们将额外向您的账户充值一次重置额度，用于您未来 24 小时内的使用。\n\n我们调查了有关 Codex 使用量消耗速度超出预期的报告。问题并非出在单一的单一因素上，而是几个小问题叠加在一起，导致部分用户受到影响。\n\n以下是我们发现并做出的调整：\n\n- 实际使用情况：自动审核变得更加主动，另一项更改触发了更多子代理的工作，后台建议可能会运行两次或在失败后重试过于频繁。我们撤销了这些更改，并修复了建议调度、重复生成和重试行为。这应该可以减少不必要的后台令牌消耗，同时保留用户明确请求的工作。\n\n- 使用情况报告：自动审核错误地显示为 GPT-5.4 使用量，并且失败或受速率限制的请求仍然显示为轮次。现在，自动审核显示为单独的类别，并且只有成功的请求才计入轮次图表。受速率限制的请求从未被收费，但它们的显示不正确。\n\n- 立即缓解：我们在部署修复程序的同时重置了使用限制，随后在命令行界面 (CLI)、桌面应用程序和使用情况后端发布了热修复程序。\n\n- 预期结果：新的使用数据应该更清晰，实际消耗量应该更低。由于旧的轮次数据未重新标记，历史图表可能仍会显示 GPT-5.4 下的自动审核数据。一些有意执行更多工作的功能（例如 /goal、子代理和更高推理级别）仍然会自然地占用更多资源。\n\n所有修复程序现已部署完毕，我们还添加了更详细的监控，以便更快地检测到后台使用情况的回归。我们将继续密切关注结果。\n\n感谢您使用 Codex 进行各种构建和开发工作。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2071740419030053227",
-      "publishedAt": "2026-06-29T23:39:41.000Z",
-      "score": 121.54,
-      "engagement": {
-        "likes": 5860,
-        "retweets": 348,
-        "replies": 664
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2071634789669777716",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "好的，背景是这样的：这是周一早上9点的非实验室工作坊，还有一个竞争对手@Ope…",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：ok for context this is non-lab workshops at 9am on a monday theres a competing @OpenAI workshop going on next door bu…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "ok for context this is non-lab workshops at 9am on a monday theres a competing @Ope…",
-      "originalBody": "ok for context this is non-lab workshops at 9am on a monday\n\ntheres a competing @OpenAI workshop going on next door but here are the @snyksec , @Atlassian, @neo4j, @arizeai, @Akamai, @togethercompute rooms concurrently. PEOPLE ARE HUNGRY FOR THIS.\n\nhttps://t.co/qWZMfhe1OW https://t.co/pqTWTlFvqQ",
-      "translatedTitle": "好的，背景是这样的：这是周一早上9点的非实验室工作坊，还有一个竞争对手@Ope…",
-      "translatedBody": "好的，先说明一下背景：这是周一早上9点的非实验室工作坊。\n\n隔壁也有@OpenAI 的工作坊，但这里同时有@snyksec、@Atlassian、@neo4j、@arizeai、@Akamai 和 @togethercompute 的工作坊。大家都很渴望参加。\n\nhttps://t.co/qWZMfhe1OW https://t.co/pqTWTlFvqQ",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2071634789669777716",
-      "publishedAt": "2026-06-29T16:39:57.000Z",
-      "score": 113.94,
-      "engagement": {
-        "likes": 9,
-        "retweets": 0,
-        "replies": 3
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2071670108033073365",
-      "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "“写作的市场价值已经大幅上涨”（据 Anthropic 的一位项目经理称）好的写作/…",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：\"The market value of writing has gone way up\" (per a PM at Anthropic) Good writing/clear articulation is required for…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "\"The market value of writing has gone way up\" (per a PM at Anthropic) Good writing/…",
-      "originalBody": "\"The market value of writing has gone way up\" (per a PM at Anthropic)\n\nGood writing/clear articulation is required for both building a product (being able to steer models effectively) and building an audience\n\nWriting well has historically been undervalued in tech. Time to change that",
-      "translatedTitle": "“写作的市场价值已经大幅上涨”（据 Anthropic 的一位项目经理称）好的写作/…",
-      "translatedBody": "“写作的市场价值已经大幅提升”（Anthropic 的一位产品经理如是说）。\n\n优秀的写作能力/清晰的表达能力对于产品开发（能够有效引导模型）和用户群体建设都至关重要。\n\n在科技行业，优秀的写作能力一直以来都被低估了。是时候改变这种现状了。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2071670108033073365",
-      "publishedAt": "2026-06-29T19:00:18.000Z",
-      "score": 78.2,
-      "engagement": {
-        "likes": 179,
-        "retweets": 16,
-        "replies": 8
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2071775583072375214",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "这触及了人工智能领域核心辩论之一的本质。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：This gets to the core of one of the central debates in AI. If a closed stack is always perpetually at the frontier by…",
+      "title": "Sonnet 5 在推理、工具使用、编码等方面相比 Sonnet 4.6 有了显著的改进……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Sonnet 5 is a substantial improvement over Sonnet 4.6 on reasoning, tool use, coding, and knowledge work. Its perform…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "This gets to the core of one of the central debates in AI.",
-      "originalBody": "This gets to the core of one of the central debates in AI. \n\nIf a closed stack is always perpetually at the frontier by a wide margin, then being vertically integrated, and gate keeping in the US can work. Because you always have control over who gets access to the best technology, and it will be in high enough demand that it always favors you.\n\nIf, however, open weights AI can remain a close second to frontier intelligence, then the equation reverses. With a highly regulated approach, you’ll own the frontier market still, but the vast majority of tokens used will go to an alternative stack. That stack will include the model and the underlying hardware that runs it, in the limit. And that stack will be controlled and monetized by someone else. \n\nDepending on your belief on how close to the frontier open weights can remain -and similarly what percentage of tokens will go through the frontier vs. everything else- your opinion will be different on how to regulate and control AI.",
-      "translatedTitle": "这触及了人工智能领域核心辩论之一的本质。",
-      "translatedBody": "这触及了人工智能领域核心辩论之一的本质。\n\n如果一个封闭的协议栈始终遥遥领先于其他技术，那么在美国，垂直整合和把关策略就能奏效。因为你始终可以控制谁能获得最先进的技术，而且这些技术需求量足够大，最终总是对你有利。\n\n然而，如果开放权重人工智能能够紧随前沿智能之后，那么情况就完全相反了。通过高度监管，你仍然可以掌控前沿市场，但绝大多数代币将流向另一个协议栈。这个协议栈最终将包含模型及其底层硬件。而这个协议栈将由其他人控制并从中获利。\n\n你对开放权重人工智能能够与前沿智能保持多近的距离的看法——以及你认为有多少代币会流向前沿智能，又有多少代币会流向其他智能——将决定你对如何监管和控制人工智能的看法。",
+      "originalTitle": "Sonnet 5 is a substantial improvement over Sonnet 4.6 on reasoning, tool use, codin…",
+      "originalBody": "Sonnet 5 is a substantial improvement over Sonnet 4.6 on reasoning, tool use, coding, and knowledge work.\n\nIts performance is close to Opus 4.8, at lower prices. https://t.co/VOISbk14Lk",
+      "translatedTitle": "Sonnet 5 在推理、工具使用、编码等方面相比 Sonnet 4.6 有了显著的改进……",
+      "translatedBody": "Sonnet 5 在推理、工具使用、编码和知识处理方面相比 Sonnet 4.6 有了显著提升。\n\n它的性能接近 Opus 4.8，但价格更低。https://t.co/VOISbk14Lk",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2071775583072375214",
-      "publishedAt": "2026-06-30T01:59:25.000Z",
-      "score": 77.05,
+      "sourceUrl": "https://x.com/claudeai/status/2072017452335087996",
+      "publishedAt": "2026-06-30T18:00:31.000Z",
+      "score": 194.88,
       "engagement": {
-        "likes": 109,
-        "retweets": 13,
-        "replies": 29
+        "likes": 4607,
+        "retweets": 339,
+        "replies": 142
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -185,26 +51,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2071647677591466098",
+      "id": "2072017455833100494",
       "type": "tweet",
-      "builder": "Boris Cherny",
-      "title": "在下一版本的 Claude Code 中：子代理默认在后台运行，因此……",
-      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：In the next version of Claude Code: subagents run in the background by default, so you can keep talking to Claude whi…",
+      "builder": "Claude",
+      "title": "早期体验合作伙伴发现 Sonnet 5 可以完成以前 Sonnet 版本无法完成的复杂任务……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Early access partners found Sonnet 5 finishes complex tasks where previous Sonnets stopped short, checks its own outp…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "In the next version of Claude Code: subagents run in the background by default, so…",
-      "originalBody": "In the next version of Claude Code: subagents run in the background by default, so you can keep talking to Claude while your subagents work\n\nIf you want your agent to run in the foreground, just tell Claude",
-      "translatedTitle": "在下一版本的 Claude Code 中：子代理默认在后台运行，因此……",
-      "translatedBody": "在下一版本的 Claude Code 中：子代理默认在后台运行，因此您可以在子代理工作的同时继续与 Claude 对话。\n\n如果您希望代理在前台运行，只需告诉 Claude 即可。",
+      "originalTitle": "Early access partners found Sonnet 5 finishes complex tasks where previous Sonnets…",
+      "originalBody": "Early access partners found Sonnet 5 finishes complex tasks where previous Sonnets stopped short, checks its own output without being asked, and does all its agentic work at an attractive price point.",
+      "translatedTitle": "早期体验合作伙伴发现 Sonnet 5 可以完成以前 Sonnet 版本无法完成的复杂任务……",
+      "translatedBody": "早期体验合作伙伴发现，Sonnet 5 可以完成以前 Sonnet 无法完成的复杂任务，无需请求即可检查自己的输出，并且以极具吸引力的价格完成所有代理工作。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/bcherny/status/2071647677591466098",
-      "publishedAt": "2026-06-29T17:31:10.000Z",
-      "score": 72.43,
+      "sourceUrl": "https://x.com/claudeai/status/2072017455833100494",
+      "publishedAt": "2026-06-30T18:00:32.000Z",
+      "score": 165.51,
       "engagement": {
-        "likes": 7657,
-        "retweets": 307,
-        "replies": 457
+        "likes": 2227,
+        "retweets": 46,
+        "replies": 36
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -212,28 +78,162 @@
       "sourceType": "x"
     },
     {
-      "id": "2071637885154148785",
+      "id": "2071966055308607765",
       "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "人们往往低估了像GLM这样的大权重开放模型的兴起将会带来哪些影响……",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：What’s underappreciated is that the rise of strong open-weight models like GLM will actually strengthen Google’s posi…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "What’s underappreciated is that the rise of strong open-weight models like GLM will…",
-      "originalBody": "What’s underappreciated is that the rise of strong open-weight models like GLM will actually strengthen Google’s position.\n\nmore companies will now start experimenting with fine tuning open-weight models such as GLM and the value will accrue to the infra. \n\nenterprises want the flexibility to run and fine-tune open models on a managed platform with enterprise-grade reliability, security, and support. And Google Cloud is well positioned there.\n\nalso don’t forget Google owns much of the compute stack.",
-      "translatedTitle": "人们往往低估了像GLM这样的大权重开放模型的兴起将会带来哪些影响……",
-      "translatedBody": "人们往往低估了像 GLM 这样强大的开放权重模型的兴起实际上会巩固谷歌的地位。\n\n越来越多的公司将开始尝试对 GLM 等开放权重模型进行微调，这将为基础设施带来价值。\n\n企业希望能够在具有企业级可靠性、安全性和支持的托管平台上灵活地运行和微调开放模型。而谷歌云在这方面拥有得天独厚的优势。\n\n此外，别忘了谷歌拥有大部分计算资源。",
+      "builder": "Guillermo Rauch",
+      "title": "Vercel 服务现在您可以将以下服务部署在同一位置，例如：Python 后端 API、ExpressJS 服务……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Vercel Services You can now collocate e.g.: a Python backend API, an ExpressJS server, and a React SPA in one Vercel…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Vercel Services You can now collocate e.g.: a Python backend API, an ExpressJS serv…",
+      "originalBody": "Vercel Services\n\nYou can now collocate e.g.: a Python backend API, an ExpressJS server, and a React SPA in one Vercel project.\n\ntl:dr;\n▪️ You can run all locally with 𝚟𝚌 𝚍𝚎𝚟 \n▪️ Deploy and rollback all at once\n▪️ Observe, monitor, debug together\n▪️ Internal networking",
+      "translatedTitle": "Vercel 服务现在您可以将以下服务部署在同一位置，例如：Python 后端 API、ExpressJS 服务……",
+      "translatedBody": "Vercel 服务\n\n现在，您可以在同一个 Vercel 项目中部署 Python 后端 API、ExpressJS 服务器和 React 单页应用 (SPA)。\n\n简而言之：\n\n▪️ 您可以使用 𝚟𝚌 𝚍𝚎𝚟 在本地运行所有组件\n\n▪️ 一次性部署和回滚所有组件\n\n▪️ 集中观察、监控和调试\n\n▪️ 内部网络",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2071637885154148785",
-      "publishedAt": "2026-06-29T16:52:15.000Z",
-      "score": 72.22,
+      "sourceUrl": "https://x.com/rauchg/status/2071966055308607765",
+      "publishedAt": "2026-06-30T14:36:17.000Z",
+      "score": 162.05,
       "engagement": {
-        "likes": 51,
-        "retweets": 5,
-        "replies": 6
+        "likes": 1046,
+        "retweets": 31,
+        "replies": 76
       },
       "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2072048730581405800",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "AIEWF首场海报展示日非常成功，感谢@heathercmiller和@…",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：very successful first poster sessions day at AIEWF, thanks to @heathercmiller and @ACM_President for the support!! to…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "very successful first poster sessions day at AIEWF, thanks to @heathercmiller and @…",
+      "originalBody": "very successful first poster sessions day at AIEWF, thanks to @heathercmiller and @ACM_President for the support!!\n\ntomorrow: Poaster sessions! submit your hottest tweets to @vibhuuuus for printing!\n\nspotted: left shark https://t.co/nv2I2l00Oe https://t.co/F7Ax9r5UK6",
+      "translatedTitle": "AIEWF首场海报展示日非常成功，感谢@heathercmiller和@…",
+      "translatedBody": "AIEWF首场海报展示日圆满成功！感谢@heathercmiller 和 @ACM_President 的支持！\n\n明天：海报展示日！快把你们最精彩的推文发给 @vibhuuuus，我们会打印出来！\n\n发现：左侧鲨鱼 https://t.co/nv2I2l00Oe https://t.co/F7Ax9r5UK6",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2072048730581405800",
+      "publishedAt": "2026-06-30T20:04:48.000Z",
+      "score": 146.42,
+      "engagement": {
+        "likes": 40,
+        "retweets": 4,
+        "replies": 8
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2072017457057853480",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "Sonnet 5 现在是免费版和专业版的默认设置，也适用于 Max、Team 和 Enterprise 版本……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Sonnet 5 is now the default on Free and Pro, and available to Max, Team, and Enterprise users. It's live across all C…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Sonnet 5 is now the default on Free and Pro, and available to Max, Team, and Enterp…",
+      "originalBody": "Sonnet 5 is now the default on Free and Pro, and available to Max, Team, and Enterprise users.\n\nIt's live across all Claude apps and the Claude Platform today, with introductory pricing through August 31: https://t.co/4nNWO80Er7",
+      "translatedTitle": "Sonnet 5 现在是免费版和专业版的默认设置，也适用于 Max、Team 和 Enterprise 版本……",
+      "translatedBody": "Sonnet 5 现已成为免费版和专业版用户的默认设置，并面向 Max 版、团队版和企业版用户开放。\n\n它已于今日在所有 Claude 应用和 Claude 平台上线，并提供优惠价格，截止日期为 8 月 31 日：https://t.co/4nNWO80Er7",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2072017457057853480",
+      "publishedAt": "2026-06-30T18:00:32.000Z",
+      "score": 140.44,
+      "engagement": {
+        "likes": 2060,
+        "retweets": 82,
+        "replies": 79
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2072123264843886709",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "晚宴上，一位科技公司高管正在转述公司对@vercel的反馈，然后他……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：At dinner, tech executive is relaying his company’s @vercel feedback, and then his 12-year-old son’s @vercel feedback…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "At dinner, tech executive is relaying his company’s @vercel feedback, and then his…",
+      "originalBody": "At dinner, tech executive is relaying his company’s @vercel feedback, and then his 12-year-old son’s @vercel feedback 😁 \n\nVercel is for everyone.",
+      "translatedTitle": "晚宴上，一位科技公司高管正在转述公司对@vercel的反馈，然后他……",
+      "translatedBody": "晚宴上，一位科技公司高管正在分享他公司使用 @vercel 的反馈，然后又分享了他 12 岁儿子使用 @vercel 的反馈 😁\n\nVercel 适合所有人。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2072123264843886709",
+      "publishedAt": "2026-07-01T01:00:59.000Z",
+      "score": 133.39,
+      "engagement": {
+        "likes": 540,
+        "retweets": 2,
+        "replies": 41
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2072046374045249671",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "我们一直在使用 Box AI Complex Work Eval 对 Anthropic 的 Claude Sonnet 5 进行评估……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：We've been running Anthropic's Claude Sonnet 5 through the Box AI Complex Work Eval, our agentic benchmark that puts…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "We've been running Anthropic's Claude Sonnet 5 through the Box AI Complex Work Eval…",
+      "originalBody": "We've been running Anthropic's Claude Sonnet 5 through the Box AI Complex Work Eval, our agentic benchmark that puts models through real enterprise document work end-to-end.\n\nSonnet 5 holds frontier-class quality on complex multi-step work and pulls ahead of Sonnet 4.6 in several core enterprise domains like Energy (+4.7pp), Retail (+4.4pp), and Professional Services (+2.6pp), and other spaces where unstructured data is heavily complex.\n\nHere are a few examples of wins compared to Sonnet 4.6 to get a sense of some of the more advanced reasoning capabilities in Sonnet 5:\n\n* Financing due diligence: It computed the company's liquidity and leverage ratios from the raw balance sheet, and caught that the source report's own stated debt-to-equity figure understated the leverage, flagging all three loan covenants as violated, not just the ones the document admitted.\n\n* Overhaul cost analysis: It scoped \"total cost\" to the company's own KPI definitions, correctly separating out Lost Production Cost because the guidance said to track it separately rather than naively summing every number on the sheet. It also caught and handled a broken reference cell in the spreadsheet.\n\n* SKU revenue analysis: On segmented sales data, it computed each product's contribution against the correct subcategory denominator, sidestepping the easy mistake of dividing by the category total, and flagged why no Pet-category SKU cracked the top 9.\n\nSonnet 5 will be available in the Box AI Studio shortly for customers to build custom agents with.",
+      "translatedTitle": "我们一直在使用 Box AI Complex Work Eval 对 Anthropic 的 Claude Sonnet 5 进行评估……",
+      "translatedBody": "我们一直在使用 Box AI Complex Work Eval 对 Anthropic 的 Claude Sonnet 5 进行测试。Box AI Complex Work Eval 是我们开发的智能体基准测试，它能让模型完成端到端的真实企业文档工作。\n\nSonnet 5 在复杂的多步骤工作中展现出前沿水平，并在能源（+4.7个百分点）、零售（+4.4个百分点）和专业服务（+2.6个百分点）等多个核心企业领域以及其他非结构化数据高度复杂的领域超越了 Sonnet 4.6。\n\n以下是一些与 Sonnet 4.6 相比的优势示例，以帮助您了解 Sonnet 5 的一些更高级的推理能力：\n\n* 融资尽职调查：它根据原始资产负债表计算了公司的流动性和杠杆率，并发现原始报告中披露的债务权益比率低估了杠杆率，从而标记出所有三项贷款契约均被违反，而不仅仅是文件中承认的那些。\n\n* 全面检修成本分析：它根据公司自身的KPI定义界定了“总成本”，并正确地将生产损失成本单独列出，因为指南要求单独跟踪该成本，而不是简单地将表格中的所有数字相加。它还发现并处理了电子表格中一个失效的引用单元格。\n\n* SKU收入分析：基于细分销售数据，它计算了每个产品相对于正确子类别分母的贡献，避免了除以类别总额的常见错误，并指出了为什么没有宠物类SKU进入前9名。\n\nSonnet 5即将上线Box AI Studio，供客户构建自定义代理。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2072046374045249671",
+      "publishedAt": "2026-06-30T19:55:26.000Z",
+      "score": 102.15,
+      "engagement": {
+        "likes": 137,
+        "retweets": 6,
+        "replies": 22
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2072172275017879829",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "Fable 的情况似乎正在好转，GPT-5.6 也很有可能……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Things seem to be ending up in a better spot with Fable, and presumably GPT-5.6 next. What we have now is the initial…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Things seem to be ending up in a better spot with Fable, and presumably GPT-5.6 nex…",
+      "originalBody": "Things seem to be ending up in a better spot with Fable, and presumably GPT-5.6 next. What we have now is the initial precedent for what frontier model releases (or at least those that have significant coding and cyber capabilities) could look like going forward. This would presumably apply to bio and other categories of risk that have been identified by AI safety groups. \n\nFrom the Anthropic post:\n\n“3. A shared industry framework. Although we have reached a constructive resolution, these events have made clear that the industry needs a consistent way to assess and fix potential “jailbreaks” of AI models (techniques that bypass a model’s safeguards).2 A shared standard for judging the severity of a given jailbreak would help AI developers triage new findings as they arise, launch highly-capable models with greater safety, and communicate the level of risk consistently to government and industry partners. Together with Amazon, Microsoft, Google, and other Glasswing partners, we’ve started to develop such a framework, and we outline it below.\n\n4. Deeper government collaboration. We’re also strengthening our level of collaboration with the US government on new pre-release testing, information sharing, and research collaboration. We describe this deeper collaboration in the final section.”\n\nIt’s been a messy process to get here, but at least there’s some semblance of a framework that could be practical. The only note of caution here would be that there’s a lot of subjectivity that goes into various risks and their actual levels of exploitability in practice. We’re likely going to be living with a framework that requires heavy judgment and back and forth between labs and the government for major releases.\n\nThe best we can hope for is that this is a relatively efficient process, and hopefully has ways of being sped up for incremental version updates in models. It would be a bad outcome if every release after this level of threshold of capability required the same review process, and we don’t get the same rate of breakthroughs we’ve been seeing.",
+      "translatedTitle": "Fable 的情况似乎正在好转，GPT-5.6 也很有可能……",
+      "translatedBody": "看来Fable的进展正在好转，GPT-5.6也即将到来。我们现在看到的，是未来前沿模型发布（或者至少是那些具备强大编码和网络安全能力的模型）的初步范例。这应该也适用于人工智能安全组织已确定的生物安全和其他风险类别。\n\n来自 Anthropic 的声明：\n\n“3. 共享的行业框架。尽管我们已达成建设性的解决方案，但这些事件清楚地表明，业界需要一种一致的方式来评估和修复人工智能模型潜在的“越狱”（绕过模型安全机制的技术）。<sup>2</sup> 一个用于判断特定越狱严重程度的共享标准将有助于人工智能开发者在发现新问题时进行分类，以更高的安全性发布功能强大的模型，并与政府和行业合作伙伴持续沟通风险等级。我们已与亚马逊、微软、谷歌和其他 Glasswing 合作伙伴共同着手开发这样一个框架，并在下文中概述。\n\n4. 更深入的政府合作。我们也在加强与美国政府在新版本发布前测试、信息共享和研究合作方面的合作。我们将在最后一节中详细介绍这种更深入的合作。”\n\n走到今天这一步并非易事，但至少我们已经有了一个初步的、可能具有实用性的框架。这里唯一需要注意的是，各种风险及其在实践中实际可利用程度都存在很大的主观性。我们很可能需要在一个框架下进行大量判断，并且实验室和政府之间需要就重大版本发布进行反复沟通。\n\n我们所能期望的最好结果是，这是一个相对高效的流程，并且希望有办法加快模型增量版本更新的速度。如果达到这一能力阈值之后，每次发布都需要相同的审查流程，而我们又无法获得目前所看到的突破性进展，那将是一个糟糕的结果。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2072172275017879829",
+      "publishedAt": "2026-07-01T04:15:44.000Z",
+      "score": 98.61,
+      "engagement": {
+        "likes": 58,
+        "retweets": 3,
+        "replies": 15
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
         "Foundation Models",
         "Product Ships"
       ],
@@ -241,9 +241,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-06-30T07:36:47.736Z",
-    "totalCandidates": 32,
-    "textQualifiedCandidates": 15,
+    "upstreamGeneratedAt": "2026-07-01T07:49:10.368Z",
+    "totalCandidates": 38,
+    "textQualifiedCandidates": 14,
     "selectedTweets": 8
   }
 }
