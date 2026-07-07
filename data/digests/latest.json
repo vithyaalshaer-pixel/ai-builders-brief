@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-06",
-  "generatedAt": "2026-07-06T03:59:00.525Z",
+  "date": "2026-07-07",
+  "generatedAt": "2026-07-07T03:50:20.376Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-07-06",
+  "title": "AI Builders Daily | 2026-07-07",
   "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 28 条候选动态里，筛出 10 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 25 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,161 +13,145 @@
       "label": "Coding Agents"
     },
     {
+      "slug": "foundation-models",
+      "label": "Foundation Models"
+    },
+    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2073635910512726444",
+      "id": "2073791666553844074",
       "type": "tweet",
       "builder": "Sam Altman",
-      "title": "感谢那些创造了美国理念的人们，感谢所有为之建设美国的人们……",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：grateful to the people that created the idea of america, everyone who built it over the past 250 years, and the peopl…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "grateful to the people that created the idea of america, everyone who built it over…",
-      "originalBody": "grateful to the people that created the idea of america, everyone who built it over the past 250 years, and the people who will carry it forward for the next 250.\n\nmost impressive social experiment in history.",
-      "translatedTitle": "感谢那些创造了美国理念的人们，感谢所有为之建设美国的人们……",
-      "translatedBody": "感谢那些缔造美国理念的人们，感谢过去250年来所有为之奋斗的人们，也感谢那些将在未来250年里继续发扬美国精神的人们。\n\n历史上最令人叹为观止的社会实验。",
+      "title": "我们的大孩子第一次把两个词连在一起，我大概……",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i…",
+      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "our older kid put two words together for the first time and i am approximately as a…",
+      "originalBody": "our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i am by GPT-5.6 discovering new math",
+      "translatedTitle": "我们的大孩子第一次把两个词连在一起，我大概……",
+      "translatedBody": "我们的大孩子第一次把两个词放在一起，我对他的这项认知成就感到无比惊讶，就像我对 GPT-5.6 发现新的数学概念感到惊讶一样。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2073635910512726444",
-      "publishedAt": "2026-07-05T05:11:42.000Z",
-      "score": 168.86,
+      "sourceUrl": "https://x.com/sama/status/2073791666553844074",
+      "publishedAt": "2026-07-05T15:30:37.000Z",
+      "score": 149.52,
       "engagement": {
-        "likes": 2831,
-        "retweets": 121,
-        "replies": 337
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2073563586270781674",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "🏁 我制作了代币💰消费竞赛的动画，数据来自Vercel AI Gateway的终生使用情况，这……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：🏁 I animated the token 💰 spend race, from ~lifetime Vercel AI Gateway usage, which aggregates trillions of tokens f…",
-      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "🏁 I animated the token 💰 spend race, from ~lifetime Vercel AI Gateway usage, whic…",
-      "originalBody": "🏁 I animated the token 💰 spend race, from ~lifetime Vercel AI Gateway usage, which aggregates trillions of tokens from millions of developers a month.\n\nFascinating to see the fluctuations among the labs, Anthropic's dominance, and the rise of open weight AI. https://t.co/iX8oRA4SBP",
-      "translatedTitle": "🏁 我制作了代币💰消费竞赛的动画，数据来自Vercel AI Gateway的终生使用情况，这……",
-      "translatedBody": "🏁 我制作了 Vercel AI Gateway 代币💰消费竞赛的动画，数据来自 Vercel AI Gateway 的终生使用量，该平台每月汇集数百万开发者数万亿个代币。\n\n观察各个实验室之间的波动、Anthropic 的主导地位以及开源 AI 的崛起，真是令人着迷。https://t.co/iX8oRA4SBP",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2073563586270781674",
-      "publishedAt": "2026-07-05T00:24:18.000Z",
-      "score": 135.64,
-      "engagement": {
-        "likes": 769,
-        "retweets": 34,
-        "replies": 64
+        "likes": 11071,
+        "retweets": 294,
+        "replies": 1144
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2073630312249327918",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "顺便说一句 @dakshgup 我真的非常非常想加入剧组，但是实在是档期冲突太多了……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：btw @dakshgup i REALLY REALLY wanted to join the crew but just got too doublebooked to do it :/ here is me in my hip…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "btw @dakshgup i REALLY REALLY wanted to join the crew but just got too doublebooked…",
-      "originalBody": "btw @dakshgup i REALLY REALLY wanted to join the crew but just got too doublebooked to do it :/\n\nhere is me in my hip hop dance crew in 2003 (i am bottom left) https://t.co/ODR1yLGQGW",
-      "translatedTitle": "顺便说一句 @dakshgup 我真的非常非常想加入剧组，但是实在是档期冲突太多了……",
-      "translatedBody": "顺便说一句 @dakshgup 我真的非常非常想加入你们舞团，但是实在是档期冲突，去不了了 :/\n\n这是我2003年和我的嘻哈舞团的合影（我在左下角）https://t.co/ODR1yLGQGW",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2073630312249327918",
-      "publishedAt": "2026-07-05T04:49:27.000Z",
-      "score": 113.79,
-      "engagement": {
-        "likes": 8,
-        "retweets": 0,
-        "replies": 2
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2073551549494596079",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "你觉得Codex至今仍无法做好哪些方面，最令人惊讶？",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验：What is something that you feel is surprising that Codex still can't do well and we should have gotten right a while…",
-      "whyItMatters": "Thibault Sottiaux 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "What is something that you feel is surprising that Codex still can't do well and we…",
-      "originalBody": "What is something that you feel is surprising that Codex still can't do well and we should have gotten right a while ago?",
-      "translatedTitle": "你觉得Codex至今仍无法做好哪些方面，最令人惊讶？",
-      "translatedBody": "你觉得Codex至今仍未能做好哪些我们本应早就做好的事情，这让你感到惊讶吗？",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2073551549494596079",
-      "publishedAt": "2026-07-04T23:36:28.000Z",
-      "score": 44.19,
-      "engagement": {
-        "likes": 1804,
-        "retweets": 29,
-        "replies": 1969
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2073410299680428445",
+      "id": "2073920326304460847",
       "type": "tweet",
       "builder": "Nan Yu",
-      "title": "捕捉虫子的最好方法就是使用该产品，看看能否将其破坏。",
-      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：The best way to catch bugs is to use the product and see if you can break it. You’re not going to find most bugs by d…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "The best way to catch bugs is to use the product and see if you can break it.",
-      "originalBody": "The best way to catch bugs is to use the product and see if you can break it. \n\nYou’re not going to find most bugs by dead reckoning the code. \n\nYou’re reviewing the code itself for architecture and API design… to control the increase in technical debt",
-      "translatedTitle": "捕捉虫子的最好方法就是使用该产品，看看能否将其破坏。",
-      "translatedBody": "发现 bug 的最佳方法是使用产品，看看能否将其破坏。\n\n你不可能通过盲目地检查代码来发现大多数 bug。\n\n你审查代码本身是为了架构和 API 设计……从而控制技术债务的增长。",
+      "title": "用“实时战略游戏”模式来管理代理人显然是一条死路。",
+      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：The “real-time strategy game” model of managing agents is clearly a dead end. AI that’s ancient by current standards…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "The “real-time strategy game” model of managing agents is clearly a dead end.",
+      "originalBody": "The “real-time strategy game” model of managing agents is clearly a dead end. \n\nAI that’s ancient by current standards already beats >99% of human players and out-micros them to an extreme degree",
+      "translatedTitle": "用“实时战略游戏”模式来管理代理人显然是一条死路。",
+      "translatedBody": "用“即时战略游戏”模式来管理智能体显然是条死路。\n\n即使按照现在的标准来看，人工智能技术已经相当先进，但它仍然能够击败超过99%的人类玩家，并且在微操方面远胜于他们。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thenanyu/status/2073410299680428445",
-      "publishedAt": "2026-07-04T14:15:12.000Z",
-      "score": 42.98,
+      "sourceUrl": "https://x.com/thenanyu/status/2073920326304460847",
+      "publishedAt": "2026-07-06T00:01:52.000Z",
+      "score": 94.95,
       "engagement": {
-        "likes": 24,
+        "likes": 31,
         "retweets": 1,
-        "replies": 3
+        "replies": 8
       },
       "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2073558419412500564",
+      "id": "2073903310982218088",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "我敢肯定，瑞恩和他那些堕落的朋友们都在抗议卢里的Y…",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Guarantee you Ryan and all his degenerate buddies were protesting against Lurie’s YIMBY Family Zoning plans We want t…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Guarantee you Ryan and all his degenerate buddies were protesting against Lurie’s Y…",
-      "originalBody": "Guarantee you Ryan and all his degenerate buddies were protesting against Lurie’s YIMBY Family Zoning plans \n\nWe want to build housing and make the city safe\n\nThey want to destroy housing, jobs and make the city unsafe \n\nMake it make sense! You can’t.",
-      "translatedTitle": "我敢肯定，瑞恩和他那些堕落的朋友们都在抗议卢里的Y…",
-      "translatedBody": "我敢肯定，瑞恩和他那些堕落的同伙肯定在抗议卢里的“YIMBY家庭分区计划”。\n\n我们想建房，让城市安全。\n\n他们想毁掉住房，毁掉工作，让城市不安全。\n\n这说得通吗？根本说不通。",
+      "builder": "Nikunj Kothari",
+      "title": "还在等那位创始人，他非得先试用一下产品，才会跟风投聊……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Still waiting on that one founder who gates a VC chat until they have played with the product and come with at least…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Still waiting on that one founder who gates a VC chat until they have played with t…",
+      "originalBody": "Still waiting on that one founder who gates a VC chat until they have played with the product and come with at least two pieces of feedback..\n\nBlows my mind that people go on Zoom and chat for 30 mins on a parroted deck for literally the entire day - where it could have been a significantly more productive conversation if you just did a product brainstorm instead. Or even better just spend the entire time getting to know each other. \n\nAm I just weird? Like how do you (both founders while fundraising and VCs generally) do this all day? What alpha do you get from hearing the same story again? It’s just more efficient for both sides to upload their personal “prompts” to Claude at this point to do this digitally 😂",
+      "translatedTitle": "还在等那位创始人，他非得先试用一下产品，才会跟风投聊……",
+      "translatedBody": "还在等那位创始人，他/她会要求风投体验过产品并至少提供两条反馈后才允许进行视频会议……\n\n我简直无法理解，为什么有人会整天在 Zoom 上对着一个鹦鹉学舌的演示文稿聊 30 分钟——如果换成产品头脑风暴，效率肯定会高得多。或者更好的是，把所有时间都用来互相了解。\n\n难道只有我这么奇怪吗？你们（无论是正在融资的创始人还是普通的风投）是怎么做到整天这么做的？一遍又一遍地听同样的故事能获得什么有价值的信息？现在双方直接把各自的“提示”上传到 Claude 上进行线上沟通岂不是更高效？😂",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2073558419412500564",
-      "publishedAt": "2026-07-05T00:03:46.000Z",
-      "score": 42.73,
+      "sourceUrl": "https://x.com/nikunj/status/2073903310982218088",
+      "publishedAt": "2026-07-05T22:54:15.000Z",
+      "score": 75.68,
       "engagement": {
-        "likes": 23,
+        "likes": 113,
         "retweets": 0,
-        "replies": 4
+        "replies": 16
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2073786264059625897",
+      "type": "tweet",
+      "builder": "Amanda Askell",
+      "title": "从医生那里套取概率信息，是人生中一场不必要的“boss战”。",
+      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Extracting a probability from a doctor is one of life's unnecessary boss battles. Even if you beg them for an interva…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "Extracting a probability from a doctor is one of life's unnecessary boss battles.",
+      "originalBody": "Extracting a probability from a doctor is one of life's unnecessary boss battles. Even if you beg them for an interval-valued subjective probability, and at that point you're basically asking for their hunch. I don't know if they get sued for giving out information or something.",
+      "translatedTitle": "从医生那里套取概率信息，是人生中一场不必要的“boss战”。",
+      "translatedBody": "从医生那里套取概率简直是人生中一场不必要的“打boss战”。就算你苦苦哀求他们给出一个区间值的主观概率，那也只是在问他们的直觉而已。我不知道他们会不会因为泄露信息而被起诉。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/AmandaAskell/status/2073786264059625897",
+      "publishedAt": "2026-07-05T15:09:09.000Z",
+      "score": 63.63,
+      "engagement": {
+        "likes": 1382,
+        "retweets": 38,
+        "replies": 131
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2073806626965049686",
+      "type": "tweet",
+      "builder": "Cat Wu",
+      "title": "您最常用的 Claude 代码、工作流程和工件有哪些用例？",
+      "summary": "Cat Wu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：what are your top claude code + workflows + artifacts use cases? one of my new favorites is for sourcing candidates:…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "what are your top claude code + workflows + artifacts use cases?",
+      "originalBody": "what are your top claude code + workflows + artifacts use cases?\n\none of my new favorites is for sourcing candidates:\n- tell cc about the role and backgrounds i’m looking for\n- ask cc to kick off a dynamic workflow to find 100 candidates, and include linkedin, twitter, blog, podcasts, and one-line pitch for each\n- ask cc to make an artifact and email it to me. then, i lock my laptop and head out for the day\n- i review the list on the go once cc is done!",
+      "translatedTitle": "您最常用的 Claude 代码、工作流程和工件有哪些用例？",
+      "translatedBody": "您最常用的 Claude Code、工作流和工件有哪些？\n\n我最近最喜欢的一个用法是寻找候选人：\n\n- 告诉 Claude Code 职位要求和背景\n\n- 让 Claude Code 启动一个动态工作流，找到 100 位候选人，包括他们的 LinkedIn、Twitter、博客、播客以及每位候选人的一句话自我介绍\n\n- 让 Claude Code 创建一个工件并通过电子邮件发送给我。然后，我锁上笔记本电脑，出门上班\n\n- Claude Code 完成后，我会在路上查看候选人列表！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/_catwu/status/2073806626965049686",
+      "publishedAt": "2026-07-05T16:30:03.000Z",
+      "score": 59.42,
+      "engagement": {
+        "likes": 555,
+        "retweets": 22,
+        "replies": 92
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -175,60 +159,91 @@
       "sourceType": "x"
     },
     {
-      "id": "2073554978053005607",
+      "id": "2073881439700168925",
       "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "与Sol的一段傻乎乎但又让我捧腹大笑的互动----------------- 🫡🫡🫡🫡🫡🫡🫡🫡�…",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验：A silly, but made me laugh interaction with Sol ----------------- 🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡 🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡…",
-      "whyItMatters": "Thibault Sottiaux 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "A silly, but made me laugh interaction with Sol ----------------- 🫡🫡🫡🫡🫡🫡🫡🫡\ud83e…",
-      "originalBody": "A silly, but made me laugh interaction with Sol\n\n-----------------\n\n🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡\n🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡\n🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡\n\n> 🫡 Salute received, loud and clear. Carry on!\n\n* 12\n\n> 39 × 12 = 468 🫡\n\n- 800\n\n> 468 − 800 = −332 🫡\n\n?\n\n> There were 39 🫡 emojis.\n> (39 × 12) − 800 = 468 − 800 = −332.\n\nhow can you have negative emojis\n\n> You can’t physically. −332 🫡 means you’re short 332 salutes or ... owe 332 salutes.\n> Actual emojis remaining: 0 🫡, with a 332-salute debt.\n\n🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡\n🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡\n🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡\n\n> Payment received: 39 🫡\n> Remaining salute debt: 293 🫡\n\nhahaha\n\n> The salute economy is ruthless. 🫡📉",
-      "translatedTitle": "与Sol的一段傻乎乎但又让我捧腹大笑的互动----------------- 🫡🫡🫡🫡🫡🫡🫡🫡�…",
-      "translatedBody": "与Sol的一次滑稽但又让我捧腹大笑的互动\n\n-----------------\n\n🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡\n\n🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡\n\n🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡\n\n> 🫡 敬礼已收到，清晰响亮。继续前进！\n\n* 12\n\n> 39 × 12 = 468 🫡\n\n- 800\n\n> 468 − 800 = −332 🫡\n\n？\n\n> 总共有 39 个 🫡 表情符号。\n\n> (39 × 12) − 800 = 468 − 800 = −332。\n\n怎么会有负数的表情符号呢？\n\n> 理论上不可能。−332 🫡 表示你还差 332 个敬礼，或者……欠了 332 个敬礼。\n\n> 实际剩余的表情符号：0 个 🫡，欠 332 个敬礼。\n\n🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡\n\n🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡\n\n🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡🫡\n\n> 已收到款项：39 🫡\n\n> 剩余敬礼欠款：293 🫡\n\n哈哈哈\n\n> 敬礼经济真是残酷。🫡📉",
+      "builder": "Garry Tan",
+      "title": "所以，制约人类财富的真正因素从来都不是资源。",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：So the real constraint on human wealth was never resources. It was good ideas for how to serve one another, and the l…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "So the real constraint on human wealth was never resources.",
+      "originalBody": "So the real constraint on human wealth was never resources. It was good ideas for how to serve one another, and the leverage to act on them. We just deleted the leverage constraint for everybody. \n\nNow it's only the ideas. Go have them, and then build them. It's your time.",
+      "translatedTitle": "所以，制约人类财富的真正因素从来都不是资源。",
+      "translatedBody": "所以，人类财富的真正制约因素从来都不是资源，而是如何服务他人的好想法，以及将这些想法付诸行动的杠杆作用。我们只是为所有人消除了杠杆作用的制约因素。\n\n现在只剩下想法了。去构思，然后付诸实践。现在是你们的时代。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2073554978053005607",
-      "publishedAt": "2026-07-04T23:50:06.000Z",
-      "score": 37.39,
+      "sourceUrl": "https://x.com/garrytan/status/2073881439700168925",
+      "publishedAt": "2026-07-05T21:27:20.000Z",
+      "score": 47.32,
       "engagement": {
-        "likes": 1082,
-        "retweets": 24,
-        "replies": 116
+        "likes": 51,
+        "retweets": 5,
+        "replies": 7
       },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
       "sourceType": "x"
     },
     {
-      "id": "2073543980109733924",
+      "id": "2073930836551032858",
       "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "比赛很艰难，但法国队最终赢得了比赛。",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验：Tough game but France got it done. Between Argentina and this game today, refereeing is becoming a major issue in thi…",
-      "whyItMatters": "Matt Turck 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Tough game but France got it done.",
-      "originalBody": "Tough game but France got it done.  Between Argentina and this game today, refereeing is becoming a major issue in this tournament.  3 yellows for France and zero for Paraguay who played like thugs?\n\nAlso, France, stop passing the ball to Rabiot for long-range shots lol",
-      "translatedTitle": "比赛很艰难，但法国队最终赢得了比赛。",
-      "translatedBody": "比赛很艰难，但法国最终还是赢了。从阿根廷到今天的这场比赛，裁判的判罚已经成为本届赛事的一大问题。法国队吃到3张黄牌，而踢得像流氓一样的巴拉圭队却一张黄牌都没有？\n\n还有，法国队，别再把球传给拉比奥让他远射了，哈哈。",
+      "builder": "Peter Yang",
+      "title": "我非常兴奋，很快就能和大家分享我播客的这些新节目了。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I'm really excited to share these upcoming episodes for my podcast soon. One small ask: My birthday is on Thursday, J…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I'm really excited to share these upcoming episodes for my podcast soon.",
+      "originalBody": "I'm really excited to share these upcoming episodes for my podcast soon.\n\nOne small ask: My birthday is on Thursday, July 9, and it would be amazing to finally hit 100K YouTube subscribers by then.\n\nI’m at 98.5K now, so pretty close :)\n\n📌 If you’re looking forward to these episodes, consider subscribing here: https://t.co/eOPREwafQV\n\nI appreciate your support!",
+      "translatedTitle": "我非常兴奋，很快就能和大家分享我播客的这些新节目了。",
+      "translatedBody": "我非常激动地宣布，我的播客即将推出几期新节目！\n\n还有一个小小的请求：我的生日是7月9日星期四，如果在那之前我的YouTube频道订阅人数能突破10万，那就太棒了！\n\n我现在有9.85万订阅，离目标很近了 :)\n\n📌 如果您期待这些新节目，欢迎点击这里订阅：https://t.co/eOPREwafQV\n\n感谢您的支持！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2073543980109733924",
-      "publishedAt": "2026-07-04T23:06:24.000Z",
-      "score": 33.65,
+      "sourceUrl": "https://x.com/petergyang/status/2073930836551032858",
+      "publishedAt": "2026-07-06T00:43:37.000Z",
+      "score": 46.59,
       "engagement": {
-        "likes": 529,
-        "retweets": 36,
-        "replies": 23
+        "likes": 40,
+        "retweets": 5,
+        "replies": 8
       },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2073881438123110512",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "我现在在大阪，很明显：日本已经对天花板进行了实验。",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I'm in Osaka now, and it's clear: Japan already ran the experiment on the ceiling. Thirty years of zero growth and it…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I'm in Osaka now, and it's clear: Japan already ran the experiment on the ceiling.",
+      "originalBody": "I'm in Osaka now, and it's clear: Japan already ran the experiment on the ceiling. Thirty years of zero growth and it built the best trains, service, and craft on earth. When you can't compete on more, you compete on better. Better AND more at the same time.",
+      "translatedTitle": "我现在在大阪，很明显：日本已经对天花板进行了实验。",
+      "translatedBody": "我现在身在大阪，一切都很明了：日本已经完成了天花板实验。三十年零增长，却打造了世界上最好的列车、服务和工艺。当无法在数量上竞争时，就靠质量取胜。而且要同时做到更好和更多。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2073881438123110512",
+      "publishedAt": "2026-07-05T21:27:20.000Z",
+      "score": 45.44,
+      "engagement": {
+        "likes": 39,
+        "retweets": 3,
+        "replies": 3
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-07-05T07:26:19.496Z",
-    "totalCandidates": 28,
-    "textQualifiedCandidates": 10,
+    "upstreamGeneratedAt": "2026-07-06T07:52:35.228Z",
+    "totalCandidates": 25,
+    "textQualifiedCandidates": 11,
     "selectedTweets": 8
   }
 }
