@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-09",
-  "generatedAt": "2026-07-09T03:41:25.483Z",
+  "date": "2026-07-10",
+  "generatedAt": "2026-07-10T03:43:13.559Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-07-09",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 31 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-07-10",
+  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 40 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,81 +23,83 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2074630835878453601",
+      "id": "2074919183947808881",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "这个文件系统真漂亮。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The filesystem is beautiful. Want your https://t.co/99eEa13mZ3 agent to have GitHub powers? Define 𝚝𝚘𝚘𝚕𝚜/𝚐𝚒𝚝\ud835…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "The filesystem is beautiful.",
-      "originalBody": "The filesystem is beautiful. Want your https://t.co/99eEa13mZ3 agent to have GitHub powers?\n\nDefine 𝚝𝚘𝚘𝚕𝚜/𝚐𝚒𝚝𝚑𝚞𝚋.𝚝𝚜 and export 𝚌𝚛𝚎𝚊𝚝𝚎𝙶𝚒𝚝𝚑𝚞𝚋𝚃𝚘𝚘𝚕𝚜().\n\nEve exists to shape an open ecosystem of pluggable models, skills, channels, and tools like this ↓ https://t.co/3fsag2HwnM",
-      "translatedTitle": "这个文件系统真漂亮。",
-      "translatedBody": "文件系统真棒！想让你的 https://t.co/99eEa13mZ3 代理拥有 GitHub 权限吗？\n\n定义 𝚝𝚘𝚘𝚕𝚜/𝚐𝚒𝚝𝚑𝚞𝚋.𝚝𝚜 并导出 𝚌𝚛𝚎𝚊𝚝𝚎𝙶𝚒𝚝𝚑𝚞𝚋𝚃𝚘𝚘𝚕𝚜()。\n\nEve 的存在是为了构建一个开放的生态系统，其中包含可插拔的模型、技能、渠道和工具，例如 ↓ https://t.co/3fsag2HwnM",
+      "builder": "Swyx",
+      "title": "大多数经纪公司都不愿承认使用中国模特，因为他们需要……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：most agent labs are shy about acknowledging chinese model use because they need to sell to gov/defense cog team did t…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "most agent labs are shy about acknowledging chinese model use because they need to…",
+      "originalBody": "most agent labs are shy about acknowledging chinese model use because they need to sell to gov/defense\n\ncog team did the hard part to productionize:\n1. build a multilingual propaganda & censorship eval \n2. successfully correct for it in posttraining\n3. serve at 1000 tok/s cheaply https://t.co/Av85Bh4zUf https://t.co/w59YVAWtTr",
+      "translatedTitle": "大多数经纪公司都不愿承认使用中国模特，因为他们需要……",
+      "translatedBody": "大多数智能体实验室都不愿承认使用了中国模型，因为他们需要向政府/国防部门推销产品。\n\nCog 团队完成了生产化过程中最困难的部分：\n\n1. 构建多语言宣传与审查评估系统\n\n2. 在训练后阶段成功修正了审查问题\n\n3. 以低成本实现 1000 TOK/s 的吞吐量 https://t.co/Av85Bh4zUf https://t.co/w59YVAWtTr",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2074630835878453601",
-      "publishedAt": "2026-07-07T23:05:10.000Z",
-      "score": 179.66,
+      "sourceUrl": "https://x.com/swyx/status/2074919183947808881",
+      "publishedAt": "2026-07-08T18:10:58.000Z",
+      "score": 200.7,
       "engagement": {
-        "likes": 243,
-        "retweets": 12,
-        "replies": 19
+        "likes": 118,
+        "retweets": 3,
+        "replies": 9
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models"
+        "Foundation Models",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2074548243971604641",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "和以前一样，你可以在 Claude Fable 5 上使用最多 50% 的每周使用限额。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：As before, you can use up to 50% of your weekly usage limit on Claude Fable 5. After that, you can keep using Fable 5…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "As before, you can use up to 50% of your weekly usage limit on Claude Fable 5.",
-      "originalBody": "As before, you can use up to 50% of your weekly usage limit on Claude Fable 5. After that, you can keep using Fable 5 with usage credits, or switch to another model to keep working within your remaining limits.\n\nRead more: https://t.co/aNtorRFPnV",
-      "translatedTitle": "和以前一样，你可以在 Claude Fable 5 上使用最多 50% 的每周使用限额。",
-      "translatedBody": "和以前一样，您在 Claude Fable 5 上最多可以使用每周使用限额的 50%。之后，您可以使用剩余的使用额度继续使用 Fable 5，或者切换到其他模式以在剩余限额内继续游戏。\n\n了解更多：https://t.co/aNtorRFPnV",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2074548243971604641",
-      "publishedAt": "2026-07-07T17:36:59.000Z",
-      "score": 167.15,
-      "engagement": {
-        "likes": 2349,
-        "retweets": 213,
-        "replies": 320
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2074523653488947338",
+      "id": "2074874713143460150",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "欢迎 @bekacru 加入 Vercel。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Welcome @bekacru to Vercel. It's a privilege to join forces with Bereket and Better Auth to further our Open SDK visi…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Welcome @bekacru to Vercel.",
-      "originalBody": "Welcome @bekacru to Vercel. It's a privilege to join forces with Bereket and Better Auth to further our Open SDK vision. \n\nDevelopers deserve better auth, to serve humans and agents, built in the open and with taste. That's what Bereket has accomplished. Congrats! 🇪🇹🇺🇸 https://t.co/LWhzUBMysp",
-      "translatedTitle": "欢迎 @bekacru 加入 Vercel。",
-      "translatedBody": "欢迎 @bekacru 加入 Vercel！我们很荣幸能与 Bereket 和 Better Auth 携手，共同推进我们的 Open SDK 愿景。\n\n开发者值得拥有更优质的身份验证系统，更好地服务于用户和智能代理，并且该系统应开源且设计精良。Bereket 正是做到了这一点。恭喜！🇪🇹🇺🇸 https://t.co/LWhzUBMysp",
+      "title": "代理堆栈所有部件咔哒一声组装在一起的美妙声音。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The blissful sound of all the pieces of the agent stack clicking together. ht @nishimiya. This will power my personal…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "The blissful sound of all the pieces of the agent stack clicking together.",
+      "originalBody": "The blissful sound of all the pieces of the agent stack clicking together. ht @nishimiya. This will power my personal productivity agents! https://t.co/BRenj3pXog",
+      "translatedTitle": "代理堆栈所有部件咔哒一声组装在一起的美妙声音。",
+      "translatedBody": "代理堆栈所有组件咔哒一声完美契合，真是令人愉悦。感谢 @nishimiya。这将为我的个人效率代理提供强大动力！https://t.co/BRenj3pXog",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2074523653488947338",
-      "publishedAt": "2026-07-07T15:59:16.000Z",
-      "score": 161.64,
+      "sourceUrl": "https://x.com/rauchg/status/2074874713143460150",
+      "publishedAt": "2026-07-08T15:14:15.000Z",
+      "score": 178.63,
       "engagement": {
-        "likes": 955,
-        "retweets": 43,
-        "replies": 59
+        "likes": 196,
+        "retweets": 5,
+        "replies": 24
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2074953099748450346",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "@theo 的主题演讲中，我喜欢的一个细节是，在一个克劳德式斜纹细长色彩的世界里……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：one detail i enjoyed about @theo's keynote is in a world of claudeslopped thin color border \"professional\" looking sl…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "one detail i enjoyed about @theo's keynote is in a world of claudeslopped thin colo…",
+      "originalBody": "one detail i enjoyed about @theo's keynote is in a world of claudeslopped thin color border \"professional\" looking slides, his went for the hand drawn @excalidraw /@tldraw look which immediately conveys humanity, thoughtfulness, parsimonious concision over badly rewarded verbosity.\n\nfable could never",
+      "translatedTitle": "@theo 的主题演讲中，我喜欢的一个细节是，在一个克劳德式斜纹细长色彩的世界里……",
+      "translatedBody": "@theo 的主题演讲中，我最欣赏的一点是，在如今充斥着克劳德式斜纹细边框“专业”幻灯片的时代，他却选择了手绘风格的 @excalidraw / @tldraw 式幻灯片，这种风格立刻传递出一种人性化、深思熟虑和简洁明了的理念，而非冗长乏味却收效甚微的废话。\n\n寓言故事永远无法企及。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2074953099748450346",
+      "publishedAt": "2026-07-08T20:25:44.000Z",
+      "score": 149.45,
+      "engagement": {
+        "likes": 69,
+        "retweets": 3,
+        "replies": 22
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -105,140 +107,135 @@
       "sourceType": "x"
     },
     {
-      "id": "2074719479377109312",
+      "id": "2075073587015516228",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "刚刚结束与二十多位企业IT领导者的会议，讨论人工智能……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Just coming off of meetings with a couple dozen enterprise IT leaders discussing AI agents. Here are a few of the com…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Just coming off of meetings with a couple dozen enterprise IT leaders discussing AI…",
-      "originalBody": "Just coming off of meetings with a couple dozen enterprise IT leaders discussing AI agents. Here are a few of the common themes that stand out:\n\n* Lots of conversation that you have to solve an operating model challenge to get the full benefits of AI. Most companies have orgs that have always operated in siloes; but agents are most effectively when they are tied to a process, which often cuts across these siloes. So the big question is how do you start to deploy centrally managed agents that can work across organizational boundaries. Who manages these agents? How do they get deployed and adopted? \n\n* Data fragmentation remains a major issue for most organizations. As long as data remains highly fragmented and not in standard formats, or data is not available to the right people and agents, enterprises are dealing with issues around being able to get answers from agents that are accurate or that conform to their business practices. This cuts across both systems with structured data (product metrics or revenue figures) and unstructured data (product roadmap or customer contracts).\n\n* Clear sense that companies need to figure out what their core data moats are going to be in the future. If everyone has access to roughly the same superintelligence from the various models, then the context that you feed the models becomes proprietary value in the future. Capturing this data and getting it into a format that agents can use becomes very important.\n\n* Everyone is trying to figure out the right metrics to manage to for AI adoption. General consensus that tokens are not the right metric per se, and people leaning more toward business outcomes (in an ideal world). For business outcomes (like more revenue or more shipped product), though, you have to get close to each individual workflow to figure out if it was successfully transformed with AI so it’s harder to manage top down.\n\n* Growing view that enterprises are going to live in a multi-model world. Lots of interest (though early in actual adoption) in layers that can route workloads to different models (frontside or open weights) for cost or performance reasons. Also enterprises are trying to figure out what things do you give to the models directly vs. what do you separate as horizontal systems and context so you can swap any system in and out. \n\n* Talent for driving AI adoption and implementation still remains a major issue and topic. Many view it as something you necessarily have to train for internally due to a shortage of talent being trained on this in the outside. As an aside, this feels like it remains a huge opportunity for those that get very good at deploying and management agents in an enterprise since most companies are looking for these skills.\n\n* The best use-cases for AI tend to be those that fundamentally change the work being done instead of just replacing an existing process and doing it more efficiently. Companies are working through their versions of this individually because it’s different per industry, but this often remains both the most exciting and higher upside uses of AI.\n\nMany more topics discussed recently, but overall it’s clear that there’s a ton of change going on with much more to come.",
-      "translatedTitle": "刚刚结束与二十多位企业IT领导者的会议，讨论人工智能……",
-      "translatedBody": "刚刚结束与数十位企业 IT 领导者的会议，讨论人工智能代理。以下是一些突出的共同主题：\n\n* 大家普遍认为，要充分发挥人工智能的优势，必须解决运营模式方面的挑战。大多数公司的组织架构一直以来都是各自为政的；但只有将代理与流程绑定，才能发挥最大效用，而流程往往能够打破这些壁垒。因此，关键问题在于如何部署能够跨组织边界工作的集中管理代理。谁来管理这些代理？如何部署和采用它们？\n\n* 数据碎片化仍然是大多数组织面临的主要问题。只要数据高度碎片化且格式不统一，或者数据无法被合适的人员和代理访问，企业就难以从代理那里获得准确或符合其业务实践的答案。这既包括结构化数据（产品指标或收入数据），也包括非结构化数据（产品路线图或客户合同）。\n\n* 企业显然需要弄清楚未来自身的核心数据护城河是什么。如果每个人都能从各种模型中获得大致相同的超级智能，那么输入模型的上下文信息未来将成为专有价值。因此，捕获这些数据并将其转换为智能体可以使用的格式至关重要。\n\n* 大家都在努力寻找合适的指标来衡量人工智能的采用情况。普遍认为代币本身并非合适的指标，人们更倾向于关注业务成果（理想情况下）。然而，对于业务成果（例如更高的收入或更多的产品交付），必须深入了解每个工作流程才能确定其是否成功地通过人工智能进行了改造，因此自上而下的管理方式较为困难。\n\n* 人们越来越倾向于认为企业将生活在一个多模型的世界中。出于成本或性能方面的考虑，能够将工作负载路由到不同模型（前端或开放权重）的层级结构引起了广泛关注（尽管实际应用尚处于早期阶段）。企业也在努力思考哪些数据应该直接提供给模型，哪些数据应该作为横向系统和上下文分离出来，以便能够随时替换任何系统。\n\n* 推动人工智能应用和实施的人才仍然是一个重要问题和话题。许多人认为，由于外部缺乏这方面的专业人才，企业必须进行内部培训。顺便一提，对于那些擅长在企业中部署和管理人工智能代理的人来说，这仍然是一个巨大的机遇，因为大多数公司都在寻找这类技能人才。\n\n* 人工智能的最佳应用案例往往是那些能够从根本上改变现有工作方式的案例，而不仅仅是替换现有流程并提高效率。由于不同行业的具体情况不同，各公司都在各自探索不同的应用方式，但这通常仍然是人工智能最令人兴奋且最具发展潜力的应用。\n\n最近还讨论了许多其他话题，但总的来说，很明显，人工智能领域正在发生巨大的变化，而且未来还将有更多变化。",
+      "title": "最新推出的AI模型在处理复杂知识方面表现得极其出色……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The latest AI models being dropped are getting insanely good handling complex knowledge worker tasks, and especially…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "The latest AI models being dropped are getting insanely good handling complex knowl…",
+      "originalBody": "The latest AI models being dropped are getting insanely good handling complex knowledge worker tasks, and especially dealing with sophisticated domains of work like legal, professional services, healthcare, and more. Grok 4.5 is another great entry here, especially on cost + performance. \n\nAs models get much better at coding, math, reasoning, and are trained on a variety of key verticals, we’re going to see more leaps in what you can do with enterprise data and documents.",
+      "translatedTitle": "最新推出的AI模型在处理复杂知识方面表现得极其出色……",
+      "translatedBody": "最新推出的AI模型在处理复杂的知识工作者任务方面表现极其出色，尤其是在法律、专业服务、医疗保健等复杂领域。Grok 4.5是其中的佼佼者，性价比极高。\n\n随着模型在编码、数学和推理能力方面不断提升，并在各种关键垂直领域进行训练，我们将看到企业数据和文档处理能力的飞跃式发展。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2074719479377109312",
-      "publishedAt": "2026-07-08T04:57:24.000Z",
-      "score": 108.83,
+      "sourceUrl": "https://x.com/levie/status/2075073587015516228",
+      "publishedAt": "2026-07-09T04:24:30.000Z",
+      "score": 74.79,
       "engagement": {
-        "likes": 359,
-        "retweets": 39,
-        "replies": 53
+        "likes": 68,
+        "retweets": 6,
+        "replies": 14
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
+        "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2074528241990394178",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "只有一小部分有用数据在公开网络上可供所有模型使用……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：A small percentage of useful data is on the open web available to all models for training or for agents to operate wi…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "A small percentage of useful data is on the open web available to all models for tr…",
-      "originalBody": "A small percentage of useful data is on the open web available to all models for training or for agents to operate with. Most of it lives inside of organizations and often is in legacy systems, in people’s heads, or is fragmented across the enterprise. \n\nIt’s the marketing plans, product roadmaps, development practices, contracts, financial data, strategies, and general corporate knowledge that every company operates off of. \n\nWhether it’s for training a model or used as context for agents, this data will increasingly be more valuable over time. The ability to get the right data to agents to operate on, securely, will be a defining characteristic of how companies operate and compete in the future. \n\nEffective use of AI will in the economy will largely come down to the companies that are able to have agents best understand their business and make the right decisions on their behalf. Data actually is the new oil.",
-      "translatedTitle": "只有一小部分有用数据在公开网络上可供所有模型使用……",
-      "translatedBody": "只有一小部分有用数据存在于开放的网络上，可供所有模型用于训练或供智能体使用。大部分数据都存在于企业内部，通常存在于遗留系统、员工的脑海中，或分散在企业各处。\n\n这些数据包括市场营销计划、产品路线图、开发实践、合同、财务数据、战略以及所有公司赖以运营的通用企业知识。\n\n无论是用于训练模型还是作为智能体的背景信息，这些数据的价值都会随着时间的推移而不断提升。能否安全地将正确的数据提供给智能体进行操作，将成为未来企业运营和竞争的关键特征。\n\n人工智能在经济中的有效应用，很大程度上取决于哪些公司能够让智能体更好地理解其业务，并代表其做出正确的决策。数据，实际上就是新的石油。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2074528241990394178",
-      "publishedAt": "2026-07-07T16:17:30.000Z",
-      "score": 102.52,
-      "engagement": {
-        "likes": 121,
-        "retweets": 17,
-        "replies": 27
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2074658481760821390",
-      "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "我曾与 Brendan 和 Mercor 合作过，可以证实他们非常出色。",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：having worked with Brendan and mercor, can confirm they are excellent. also having worked in ai models for enterprise…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "having worked with Brendan and mercor, can confirm they are excellent.",
-      "originalBody": "having worked with Brendan and mercor, can confirm they are excellent.\n\nalso having worked in ai models for enterprise, can confirm the opportunity around data and evals for enterprise is massssive. https://t.co/39clGIUHmM",
-      "translatedTitle": "我曾与 Brendan 和 Mercor 合作过，可以证实他们非常出色。",
-      "translatedBody": "我曾与 Brendan 和 Mercor 合作过，可以证实他们非常出色。\n\n此外，我也曾在企业级人工智能模型领域工作过，可以证实企业数据和评估方面的机会非常巨大。https://t.co/39clGIUHmM",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2074658481760821390",
-      "publishedAt": "2026-07-08T00:55:01.000Z",
-      "score": 71.91,
-      "engagement": {
-        "likes": 57,
-        "retweets": 3,
-        "replies": 2
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2074734468854899191",
-      "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "真的。",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：true. let’s unpack this..people think data and evals are low skill, grunt work that you can just buy and stuff into m…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "true.",
-      "originalBody": "true. let’s unpack this..people think data and evals are low skill, grunt work that you can just buy and stuff into models. \n\nin practice, the model lifecycle looks something like model strategy -> evals -> pre/post training/rl aligned to evals -> GTM.\n\nlike any product strategy, you need strong opinions up front but it is 100x harder because of the allure of building an LLM that is great at everything. \n\nthe next challenge is staying focused on the target eval sets throughout the model build through challenges with the latest architecture, regressions, competing data contributions and the latest competitor news.\n\nyou then make choices between multiple checkpoints trading off on target evals, regression evals and early customer feedback.\n\nso yes, it begins with an opinion expressed through evals and if you execute well, you land somewhere near your target.",
-      "translatedTitle": "真的。",
-      "translatedBody": "没错。我们来仔细分析一下……人们认为数据和评估是低技能的、繁琐的工作，可以花钱买来直接塞进模型里。\n\n实际上，模型生命周期大致如下：模型策略 -> 评估 -> 与评估结果一致的训练前/后强化 -> 上市。\n\n就像任何产品策略一样，你需要在初期就形成明确的观点，但由于构建一个面面俱到的生命周期模型（LLM）的诱惑，难度要高出百倍。\n\n下一个挑战是在整个模型构建过程中，始终专注于目标评估数据集，同时还要应对最新架构、回归测试、竞争对手的数据贡献以及最新的竞争对手动态带来的挑战。\n\n然后，你需要在多个检查点之间做出选择，权衡目标评估、回归评估和早期客户反馈。\n\n所以，没错，一切都始于通过评估表达的观点，如果你执行得当，最终就能接近目标。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2074734468854899191",
-      "publishedAt": "2026-07-08T05:56:58.000Z",
-      "score": 65.21,
-      "engagement": {
-        "likes": 11,
-        "retweets": 0,
-        "replies": 0
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2074739318103629979",
+      "id": "2075046949896736835",
       "type": "tweet",
       "builder": "Peter Steinberger",
-      "title": "“我们是Anthropic的大客户，但他们至今仍未告知我们……”",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：\"We’re a very large customer of Anthropic and they still have yet to tell us about the lawsuit. I learned about it fr…",
+      "title": "我被OpenAI聘用，而不是OpenClaw。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：OpenAI hired me, not OpenClaw. The OpenClaw Foundation is independent, with sponsors rather than owners - and, for th…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "\"We’re a very large customer of Anthropic and they still have yet to tell us about…",
-      "originalBody": "\"We’re a very large customer of Anthropic and they still have yet to tell us about the lawsuit. I learned about it from a reporter, not our “partner.” \" https://t.co/O9swsh4U6v",
-      "translatedTitle": "“我们是Anthropic的大客户，但他们至今仍未告知我们……”",
-      "translatedBody": "“我们是Anthropologie的大客户，但他们至今仍未告知我们有关诉讼的事。我是从记者那里得知此事的，而不是从我们的‘合作伙伴’那里。” https://t.co/O9swsh4U6v",
+      "originalTitle": "OpenAI hired me, not OpenClaw.",
+      "originalBody": "OpenAI hired me, not OpenClaw.\nThe OpenClaw Foundation is independent, with sponsors rather than owners - and, for the first time, a full-time team keeping the claw alive and stable. 🦞\n\nCouldn’t have done it without Dave and the team. Kudos! https://t.co/u0ZXGwydxw",
+      "translatedTitle": "我被OpenAI聘用，而不是OpenClaw。",
+      "translatedBody": "OpenAI 雇佣了我，而不是 OpenClaw。\n\nOpenClaw 基金会是独立的，由赞助商而非所有者运营——而且，它首次拥有了一支全职团队，负责维护 OpenClaw 的稳定运行。🦞\n\n没有 Dave 和他的团队，这一切都不可能实现。致敬！https://t.co/u0ZXGwydxw",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2074739318103629979",
-      "publishedAt": "2026-07-08T06:16:14.000Z",
-      "score": 56.97,
+      "sourceUrl": "https://x.com/steipete/status/2075046949896736835",
+      "publishedAt": "2026-07-09T02:38:40.000Z",
+      "score": 63.77,
       "engagement": {
-        "likes": 200,
-        "retweets": 14,
-        "replies": 35
+        "likes": 1518,
+        "retweets": 47,
+        "replies": 58
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2074993112217461020",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "这应该会是你们软件工程模型的一次重大更新：重写可以……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：this should be a huge update in your model of software engineering: rewrites can be good, cheap and fast of course mo…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "this should be a huge update in your model of software engineering: rewrites can be…",
+      "originalBody": "this should be a huge update in your model of software engineering: rewrites can be good, cheap and fast\n\nof course most apps are not as testable and verifiable as Bun, but the models will continue to get better at filling those gaps https://t.co/LjygnPM31O",
+      "translatedTitle": "这应该会是你们软件工程模型的一次重大更新：重写可以……",
+      "translatedBody": "这应该会给你的软件工程模型带来一次重大更新：重写可以既高效又经济。\n\n当然，大多数应用不像 Bun 那样易于测试和验证，但这些模型会不断改进，以弥补这些不足。https://t.co/LjygnPM31O",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2074993112217461020",
+      "publishedAt": "2026-07-08T23:04:44.000Z",
+      "score": 60.19,
+      "engagement": {
+        "likes": 762,
+        "retweets": 21,
+        "replies": 34
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2074925531519468012",
+      "type": "tweet",
+      "builder": "Cat Wu",
+      "title": "明天上午10点（太平洋时间），我将直播讲解我们如何从单机起步……",
+      "summary": "Cat Wu 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Tomorrow at 10am PT I'm hosting a live walkthrough of how we progressed from single-player Claude Code to multi-playe…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Tomorrow at 10am PT I'm hosting a live walkthrough of how we progressed from single…",
+      "originalBody": "Tomorrow at 10am PT I'm hosting a live walkthrough of how we progressed from single-player Claude Code to multi-player Claude Tag. Then, we're going deep on how Claude Tag actually works.\n\nAI used to finish your sentence. Then, it wrote entire features. Now, Claude Tag can monitor your channels, do proactive work for you, the whole team can steer it, and it remembers what you told it last week.\n\nRegister: https://t.co/D8Lz61BXn4",
+      "translatedTitle": "明天上午10点（太平洋时间），我将直播讲解我们如何从单机起步……",
+      "translatedBody": "明天上午 10 点（太平洋时间），我将直播演示我们如何从单人游戏 Claude Code 过渡到多人游戏 Claude Tag。之后，我们将深入探讨 Claude Tag 的实际运作原理。\n\n人工智能最初只能帮你补全句子。后来，它甚至能编写完整的功能。现在，Claude Tag 可以监控你的频道，为你主动执行任务，整个团队都可以操控它，而且它还能记住你上周告诉它的内容。\n\n注册链接：https://t.co/D8Lz61BXn4",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/_catwu/status/2074925531519468012",
+      "publishedAt": "2026-07-08T18:36:11.000Z",
+      "score": 58.41,
+      "engagement": {
+        "likes": 481,
+        "retweets": 33,
+        "replies": 40
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2074979504741929018",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我终于可以谈谈这件事了。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I can finally talk about this. I've been playing with GTA 6 for about a month now. It's pretty great, arguably even b…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I can finally talk about this.",
+      "originalBody": "I can finally talk about this.\n\nI've been playing with GTA 6 for about a month now.\n\nIt's pretty great, arguably even better than GTA 5.",
+      "translatedTitle": "我终于可以谈谈这件事了。",
+      "translatedBody": "我终于可以聊聊这个了。\n\n我已经玩 GTA 6 大概一个月了。\n\n它真的很棒，甚至可以说比 GTA 5 还要好。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2074979504741929018",
+      "publishedAt": "2026-07-08T22:10:39.000Z",
+      "score": 57.39,
+      "engagement": {
+        "likes": 418,
+        "retweets": 6,
+        "replies": 46
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -247,8 +244,8 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-07-08T07:08:54.259Z",
-    "totalCandidates": 31,
+    "upstreamGeneratedAt": "2026-07-09T07:28:29.483Z",
+    "totalCandidates": 40,
     "textQualifiedCandidates": 18,
     "selectedTweets": 8
   }
