@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-12",
-  "generatedAt": "2026-07-12T03:22:53.291Z",
+  "date": "2026-07-13",
+  "generatedAt": "2026-07-13T03:25:55.977Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-07-12",
+  "title": "AI Builders Daily | 2026-07-13",
   "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 19 条候选动态里，筛出 10 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 15 条候选动态里，筛出 7 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,108 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2076036901824532530",
+      "id": "2075983427019612242",
       "type": "tweet",
       "builder": "Sam Altman",
-      "title": "至少到目前为止，我相当肯定人工智能总体上创造了就业机会。",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：so far at least, i'm pretty sure AI has been net job-creating. this was not what i expected--although i was much less…",
-      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "so far at least, i'm pretty sure AI has been net job-creating.",
-      "originalBody": "so far at least, i'm pretty sure AI has been net job-creating.\n\nthis was not what i expected--although i was much less pessimistic than others, i thought by this level of capability we'd have seen some impact.\n\nit is possible this direction keeps going!",
-      "translatedTitle": "至少到目前为止，我相当肯定人工智能总体上创造了就业机会。",
-      "translatedBody": "至少目前来看，我相当肯定人工智能总体上创造了就业机会。\n\n这出乎我的意料——虽然我比其他人乐观得多，但我认为以人工智能目前的水平，我们应该已经看到一些影响了。\n\n看来这种发展趋势还会继续下去！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2076036901824532530",
-      "publishedAt": "2026-07-11T20:12:22.000Z",
-      "score": 164.74,
-      "engagement": {
-        "likes": 7437,
-        "retweets": 280,
-        "replies": 1223
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2075963779599466894",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "如果你正在考虑将人工智能应用于企业，那么这篇文章很值得一看。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：This is a great post if youre thinking about applied AI in the enterprise. The headline of this post is about what co…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "This is a great post if youre thinking about applied AI in the enterprise.",
-      "originalBody": "This is a great post if youre thinking about applied AI in the enterprise. The headline of this post is about what companies have huge upside from AI, but the deepest nuggets are about what AI transformation looks like in an organization.\n\nIt’s fundamentally about changing the underlying workflow or business process. As we move from chat tools to agents, those agents actually have to be deployed against workflows, which usually span multiple functions in an org. This is a different way of deploying AI than solely rolling it out to end users. It takes much more work upfront, but the results are the things that actually drive significant ROI. \n\n“Software asks the employee to adopt a tool, but infrastructure changes the operating layer underneath the employee. The employee should still know what happened, and the process owner should still be able to pause the workflow, change a rule, approve an exception, or pull a person back in when needed. But the value should not depend on someone remembering to use the AI every day.”\n\nThe winners of this will be the platforms that can be deployed for specific workflows and business processes with a deep domain expertise. The playbook will often heavily require FDE support, change management, getting data well organized, be able to have comprehensive evals for the workflows, and much more to get right.",
-      "translatedTitle": "如果你正在考虑将人工智能应用于企业，那么这篇文章很值得一看。",
-      "translatedBody": "如果您正在思考如何在企业中应用人工智能，那么这篇文章绝对值得一读。文章标题虽然着重介绍了哪些公司能从人工智能中获益匪浅，但其核心内容却深入探讨了人工智能转型在组织中的具体体现。\n\n从根本上来说，转型在于改变底层的工作流程或业务流程。随着我们从聊天工具转向智能客服，这些客服实际上需要部署到工作流程中，而工作流程通常涵盖组织内的多个职能部门。这与仅仅将人工智能推广给最终用户的方式截然不同。虽然前期需要投入更多精力，但最终的成果才是真正带来显著投资回报率的关键所在。\n\n“软件要求员工使用工具，而基础设施则改变了员工底层的操作层面。员工仍然需要了解发生了什么，流程负责人仍然需要能够暂停工作流程、更改规则、批准例外情况，或在需要时召回相关人员。但人工智能的价值不应取决于员工是否每天都记得使用它。”\n\n最终的赢家将是那些能够针对特定工作流程和业务流程部署，并拥有深厚领域专业知识的平台。要做好剧本，通常需要 FDE 的大力支持、变更管理、数据整理、对工作流程进行全面评估等等。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2075963779599466894",
-      "publishedAt": "2026-07-11T15:21:49.000Z",
-      "score": 121.31,
-      "engagement": {
-        "likes": 510,
-        "retweets": 76,
-        "replies": 42
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2076047290083733539",
-      "type": "tweet",
-      "builder": "Aditya Agarwal",
-      "title": "人工智能领域的一切都在飞速发展。",
-      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Everything in AI moves so fast. We are going to get here: - Run all the agents in the cloud - Choose any model (front…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Everything in AI moves so fast.",
-      "originalBody": "Everything in AI moves so fast.\n\nWe are going to get here:\n- Run all the agents in the cloud\n- Choose any model (frontier, OSS, Chinese, American)\n- Choose any harness\n- Have full tracing\n- Have recursive improvement loops\n\nI know it will be there but can it happen already?",
-      "translatedTitle": "人工智能领域的一切都在飞速发展。",
-      "translatedBody": "人工智能领域的发展日新月异。\n\n我们将实现以下目标：\n\n- 在云端运行所有智能体\n\n- 选择任意模型（前沿模型、开源模型、中国模型、美国模型）\n\n- 选择任意框架\n\n- 实现完整的追踪\n\n- 实现递归改进循环\n\n我知道这一切终将实现，但它能现在就实现吗？",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/adityaag/status/2076047290083733539",
-      "publishedAt": "2026-07-11T20:53:39.000Z",
-      "score": 92.33,
-      "engagement": {
-        "likes": 80,
-        "retweets": 6,
-        "replies": 16
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2076021263945039876",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "当你一天内增长的量超过过去两周的总和时，你就知道这是一个好模型。",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：You know it's a good model when you grow more in 1 day than last two weeks combined. Install the desktop app from htt…",
+      "title": "有很多基准测试表明，5.6 sol 是世界上最好的模型……",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable wa…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "You know it's a good model when you grow more in 1 day than last two weeks combined.",
-      "originalBody": "You know it's a good model when you grow more in 1 day than last two weeks combined.\n\nInstall the desktop app from https://t.co/K5PquKnV4q and give it a go! https://t.co/WyQwrT98Xo",
-      "translatedTitle": "当你一天内增长的量超过过去两周的总和时，你就知道这是一个好模型。",
-      "translatedBody": "当你一天内的增长量超过过去两周的总和时，你就知道这绝对是一个好模型。\n\n从 https://t.co/K5PquKnV4q 安装桌面应用，试试看！https://t.co/WyQwrT98Xo",
+      "originalTitle": "there are a lot of benchmarks that suggest 5.6 sol is the best model in the world r…",
+      "originalBody": "there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again",
+      "translatedTitle": "有很多基准测试表明，5.6 sol 是世界上最好的模型……",
+      "translatedBody": "很多基准测试都表明，5.6 sol 是目前世界上最好的模型，但最可靠的判断方法是：埃隆又开始对我着迷了。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2076021263945039876",
-      "publishedAt": "2026-07-11T19:10:14.000Z",
-      "score": 83.32,
+      "sourceUrl": "https://x.com/sama/status/2075983427019612242",
+      "publishedAt": "2026-07-11T16:39:53.000Z",
+      "score": 182.26,
       "engagement": {
-        "likes": 2785,
-        "retweets": 75,
-        "replies": 375
+        "likes": 49330,
+        "retweets": 2330,
+        "replies": 3404
       },
       "matchedFocusAreas": [
         "Foundation Models"
@@ -132,26 +50,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2075999617666445714",
+      "id": "2076155833428431012",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我本周末新项目的流程：-> 使用 Fable 构建带有 des 的 plan.html…",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：My process for a new project this weekend: -> Use Fable to build plan.html with design guidelines -> Use Claude Desig…",
+      "builder": "Swyx",
+      "title": "如果你只了解杰文斯悖论主要是关于软件需求的时代……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：if you only learned about jevons paradox primarily wrt software demand in the age of agentic engineering, you may not…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "My process for a new project this weekend: -> Use Fable to build plan.html with des…",
-      "originalBody": "My process for a new project this weekend:\n\n-> Use Fable to build plan.html with design guidelines\n-> Use Claude Design to make components + screens\n-> Get gpt 5.6 to build",
-      "translatedTitle": "我本周末新项目的流程：-> 使用 Fable 构建带有 des 的 plan.html…",
-      "translatedBody": "我本周末新项目的流程如下：\n\n-> 使用 Fable 构建包含设计指南的 plan.html 文件\n\n-> 使用 Claude Design 创建组件和页面\n\n-> 使用 gpt 5.6 进行构建",
+      "originalTitle": "if you only learned about jevons paradox primarily wrt software demand in the age o…",
+      "originalBody": "if you only learned about jevons paradox primarily wrt software demand in the age of agentic engineering, you may not have fully internalized jevons parodox’s impact under the conditions of:\n\n- humans who can wield coding agents well*\n- coding agents breaking containment to all other knowledge work\n\nas the efficiency of labor goes up/unit cost of knowledge work goes broadly down, the demand for total work and better knowledge goes up, not down.\n\nwhat happened to coding isnt the exception; it’s the herald.\n\n*aka AI Engineers",
+      "translatedTitle": "如果你只了解杰文斯悖论主要是关于软件需求的时代……",
+      "translatedBody": "如果你只了解了杰文斯悖论在智能体工程时代对软件需求的影响，那么你可能还没有完全理解在以下情况下杰文斯悖论的影响：\n\n- 能够熟练运用编码智能体的人类*\n\n- 编码智能体突破了对所有其他知识工作的限制\n\n随着劳动效率的提高/知识工作的单位成本普遍下降，对总工作量和更高质量知识的需求反而会增加，而不是减少。\n\n编码领域发生的变化并非个例，而是先兆。\n\n*即人工智能工程师",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2075999617666445714",
-      "publishedAt": "2026-07-11T17:44:13.000Z",
-      "score": 66.53,
+      "sourceUrl": "https://x.com/swyx/status/2076155833428431012",
+      "publishedAt": "2026-07-12T04:04:58.000Z",
+      "score": 153.37,
       "engagement": {
-        "likes": 144,
-        "retweets": 3,
-        "replies": 22
+        "likes": 143,
+        "retweets": 9,
+        "replies": 28
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -159,26 +77,82 @@
       "sourceType": "x"
     },
     {
-      "id": "2075930909669515753",
+      "id": "2076119366647894371",
       "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "“建设者”和“创造者”之间的界限正在模糊。现在是建设的最佳时机……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：The line between \"builder\" and \"creator\" is blurring This is the best time for builders to create content and for cre…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "The line between \"builder\" and \"creator\" is blurring This is the best time for buil…",
-      "originalBody": "The line between \"builder\" and \"creator\" is blurring\n\nThis is the best time for builders to create content and for creators to build products",
-      "translatedTitle": "“建设者”和“创造者”之间的界限正在模糊。现在是建设的最佳时机……",
-      "translatedBody": "“建设者”和“创造者”之间的界限正在变得模糊。\n\n现在是建设者创作内容、创造者打造产品的最佳时机。",
+      "builder": "Thibault Sottiaux",
+      "title": "如果你还没勇气安装 Codex 应用，你可以继续待在……",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "If you aren't yet bold enough to install the Codex app, you can stay in the presenc…",
+      "originalBody": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done.\n\nStep 1: Install CLIProxyAPI\nStep 2: Connect\nStep 3: Define following alias and enjoy claudex\n\n```\nalias claudex='CLAUDE_CODE_SUBAGENT_MODEL=gpt-5.6-sol \\\nCLAUDE_CODE_ALWAYS_ENABLE_EFFORT=1 \\\nCLAUDE_CODE_MAX_TOOL_USE_CONCURRENCY=3 \\\nENABLE_TOOL_SEARCH=false \\\nclaude --model gpt-5.6-sol'\n```\n\nIf this gets blocked, I owe you a reset.",
+      "translatedTitle": "如果你还没勇气安装 Codex 应用，你可以继续待在……",
+      "translatedBody": "如果你还没胆量安装 Codex 应用，你可以待在你的橙色螃蟹旁边，然后把它指向 GPT 5.6 Sol。只需 5 分钟。感谢 Theo 解释了其中一种方法。\n\n步骤 1：安装 CLIProxyAPI\n\n步骤 2：连接\n\n步骤 3：定义以下别名，然后就可以使用 claudex 了\n\n```\n\nalias claudex='CLAUDE_CODE_SUBAGENT_MODEL=gpt-5.6-sol \\\nCLAUDE_CODE_ALWAYS_ENABLE_EFFORT=1 \\\n\nCLAUDE_CODE_MAX_TOOL_USE_CONCURRENCY=3 \\\n\nENABLE_TOOL_SEARCH=false \\\n\nclaude --model gpt-5.6-sol'\n\n```\n\n如果这招行不通，我欠你一次重置。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2075930909669515753",
-      "publishedAt": "2026-07-11T13:11:12.000Z",
-      "score": 64.81,
+      "sourceUrl": "https://x.com/thsottiaux/status/2076119366647894371",
+      "publishedAt": "2026-07-12T01:40:04.000Z",
+      "score": 94.21,
       "engagement": {
-        "likes": 230,
-        "retweets": 9,
-        "replies": 45
+        "likes": 3871,
+        "retweets": 243,
+        "replies": 315
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2076116544980214164",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "人工智能原本应该取代的工作，如今却出现了与预期相反的情况……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The job that AI was supposed to replace is experiencing the opposite of the expected outcome. Software job postings a…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "The job that AI was supposed to replace is experiencing the opposite of the expecte…",
+      "originalBody": "The job that AI was supposed to replace is experiencing the opposite of the expected outcome. Software job postings are outpacing other fields.\n\nWhy is that? If you lower the cost of production of something that has lots of use cases, people want more things produced. We’ve seen this play out in the industrial world constantly, and now we’re finally seeing it in knowledge work.\n\nBecause software now is much lower to cost per unit, people want way more of it. So we start to use software for all new things and people and companies light up more software projects than ever before. \n\nBut because the job itself is not fully automated (and likely won’t be for as far out as we can see), you still need people that understand these systems to maintain the code, decide what to build, run it over the long run, update it, and more. That all requires people to do work. \n\nThe same thing is going to happen in many other fields as well as we bring down the cost of production of previously extremely scarce areas of work. Agents will cause more abundance than replacement.",
+      "translatedTitle": "人工智能原本应该取代的工作，如今却出现了与预期相反的情况……",
+      "translatedBody": "人工智能原本应该取代的工作，如今却出现了截然相反的结果。软件行业的招聘需求量超过了其他领域。\n\n这是为什么呢？如果降低一种用途广泛的产品的生产成本，人们就会想要生产更多。我们在工业领域已经不断看到这种现象，现在，我们终于在知识型工作领域也看到了同样的趋势。\n\n由于软件的单位成本大幅降低，人们对软件的需求也随之激增。因此，我们开始将软件应用于各种新事物，个人和公司启动的软件项目数量也比以往任何时候都多。\n\n但是，由于这项工作本身并没有完全自动化（而且在可预见的未来，这种情况可能也不会改变），我们仍然需要了解这些系统的人员来维护代码、决定开发什么、长期运行、更新等等。所有这些都需要人来完成。\n\n随着我们降低以往极其稀缺的工作领域的生产成本，同样的情况也会在许多其他领域发生。人工智能带来的将是人才的富足，而不是人才的取代。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2076116544980214164",
+      "publishedAt": "2026-07-12T01:28:51.000Z",
+      "score": 79.38,
+      "engagement": {
+        "likes": 193,
+        "retweets": 20,
+        "replies": 31
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2076145711922696371",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "你曾多次抱怨速度慢、代码粗糙、前端质量差……",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：At different times you complained about speed, code slop, frontend quality, ... With each release we improve and GPT…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "At different times you complained about speed, code slop, frontend quality, ...",
+      "originalBody": "At different times you complained about speed, code slop, frontend quality, ... With each release we improve and GPT 5.6 Sol is  \n\n✅Fast and token efficient\n✅Hardcore at back-end dev\n✅Great at front-end\n✅Does not use useEffect everywhere \n\nWhat is next?",
+      "translatedTitle": "你曾多次抱怨速度慢、代码粗糙、前端质量差……",
+      "translatedBody": "您曾多次抱怨速度、代码质量、前端体验等等……我们每次发布都会进行改进，GPT 5.6 Sol 现已：\n\n✅速度快，令牌效率高\n\n✅后端开发能力强\n\n✅前端体验出色\n\n✅不会到处使用 useEffect\n\n接下来会怎样？",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2076145711922696371",
+      "publishedAt": "2026-07-12T03:24:45.000Z",
+      "score": 68.06,
+      "engagement": {
+        "likes": 2557,
+        "retweets": 55,
+        "replies": 805
       },
       "matchedFocusAreas": [
         "Product Ships"
@@ -186,60 +160,62 @@
       "sourceType": "x"
     },
     {
-      "id": "2076054439140720719",
+      "id": "2075944103867830352",
       "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "我们办公室新贴了一张海报，展示了 Codex 使用限制重置如何影响 p…",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验：New poster for our office that shows how resets of the Codex usage limits affects part of our systems. Data is beauti…",
-      "whyItMatters": "Thibault Sottiaux 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "New poster for our office that shows how resets of the Codex usage limits affects p…",
-      "originalBody": "New poster for our office that shows how resets of the Codex usage limits affects part of our systems. Data is beautiful. https://t.co/84DCX4XfbF",
-      "translatedTitle": "我们办公室新贴了一张海报，展示了 Codex 使用限制重置如何影响 p…",
-      "translatedBody": "我们办公室新贴了一张海报，展示了 Codex 使用限制重置对我们部分系统的影响。数据真奇妙。https://t.co/84DCX4XfbF",
+      "builder": "Garry Tan",
+      "title": "如果你想再次推动加州建筑业蓬勃发展，你需要重新……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If you want to supercharge building in California again, you're going to need to repeal and reform CEQA Millions of u…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "If you want to supercharge building in California again, you're going to need to re…",
+      "originalBody": "If you want to supercharge building in California again, you're going to need to repeal and reform CEQA\n\nMillions of units of housing are blocked every year using CEQA. Housing should be built by-right, and not require the level of review it does today. https://t.co/TE4s7Dz7jD",
+      "translatedTitle": "如果你想再次推动加州建筑业蓬勃发展，你需要重新……",
+      "translatedBody": "如果你想再次推动加州住房建设，就必须废除并改革《加州环境质量法案》（CEQA）。\n\n每年有数百万套住房因CEQA而受阻。住房建设应该无需审批，而应该遵循现行的审查标准。https://t.co/TE4s7Dz7jD",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2076054439140720719",
-      "publishedAt": "2026-07-11T21:22:04.000Z",
-      "score": 59.66,
+      "sourceUrl": "https://x.com/garrytan/status/2075944103867830352",
+      "publishedAt": "2026-07-11T14:03:38.000Z",
+      "score": 54.56,
       "engagement": {
-        "likes": 2488,
-        "retweets": 69,
-        "replies": 228
+        "likes": 219,
+        "retweets": 15,
+        "replies": 27
       },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
       "sourceType": "x"
     },
     {
-      "id": "2075961345351307739",
+      "id": "2076141940484010189",
       "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "如果您之前使用过 Codex，则需要做两件事：1.",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验：If you were using Codex before, two things to do 1. Keep using Codex. It is for you 2. Tell your friends and family a…",
-      "whyItMatters": "Thibault Sottiaux 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "If you were using Codex before, two things to do 1.",
-      "originalBody": "If you were using Codex before, two things to do\n\n1. Keep using Codex. It is for you\n2. Tell your friends and family about ChatGPT Work who you always wanted to show Codex but they’re not as technical and don’t work with code every day\n\nand tell me how it goes",
-      "translatedTitle": "如果您之前使用过 Codex，则需要做两件事：1.",
-      "translatedBody": "如果你之前用过 Codex，有两件事要做：\n\n1. 继续使用 Codex。它很适合你。\n\n2. 把你一直想推荐 Codex 但不太懂技术、不经常接触代码的朋友和家人介绍一下 ChatGPT Work。\n\n然后告诉我你的使用体验。",
+      "builder": "Matt Turck",
+      "title": "阿根廷队与世界排名第64位的球队苦战，险些被世界排名第……的球队淘汰。",
+      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验：Argentina struggled against the world's #64, almost got eliminated by the world's #26, and they're now in extra time…",
+      "whyItMatters": "Matt Turck 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Argentina struggled against the world's #64, almost got eliminated by the world's #…",
+      "originalBody": "Argentina struggled against the world's #64, almost got eliminated by the world's #26, and they're now in extra time against the world's #19 which is down to 10 players.",
+      "translatedTitle": "阿根廷队与世界排名第64位的球队苦战，险些被世界排名第……的球队淘汰。",
+      "translatedBody": "阿根廷队与世界排名第 64 的球队苦战，险些被世界排名第 26 的球队淘汰，现在他们正与世界排名第 19 的球队进行加时赛，而这支球队目前只剩下 10 名球员。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2075961345351307739",
-      "publishedAt": "2026-07-11T15:12:08.000Z",
-      "score": 56.24,
+      "sourceUrl": "https://x.com/mattturck/status/2076141940484010189",
+      "publishedAt": "2026-07-12T03:09:46.000Z",
+      "score": 45.3,
       "engagement": {
-        "likes": 3713,
-        "retweets": 107,
-        "replies": 737
+        "likes": 4966,
+        "retweets": 418,
+        "replies": 105
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-07-12T01:19:30.460Z",
-    "totalCandidates": 19,
-    "textQualifiedCandidates": 10,
-    "selectedTweets": 8
+    "upstreamGeneratedAt": "2026-07-12T07:09:00.834Z",
+    "totalCandidates": 15,
+    "textQualifiedCandidates": 7,
+    "selectedTweets": 7
   }
 }
