@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-13",
-  "generatedAt": "2026-07-13T03:25:55.977Z",
+  "date": "2026-07-14",
+  "generatedAt": "2026-07-14T02:49:03.999Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-07-13",
-  "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 15 条候选动态里，筛出 7 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-07-14",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 30 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,199 +23,230 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2075983427019612242",
+      "id": "2076364176252191222",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "把模型变成你拥有的机器中的一个齿轮。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Make the model a cog in a machine you own. ◾ AI SDK → open model API ◾ https://t.co/O7y9dmUqk5 → open Agent API ◾ AI…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Make the model a cog in a machine you own.",
+      "originalBody": "Make the model a cog in a machine you own.\n\n◾ AI SDK → open model API\n◾ https://t.co/O7y9dmUqk5 → open Agent API\n◾ AI Gateway → open ZDR inference\n\nStartups and enterprises must own their data, evals, model choices, software layer. Don't outsource your brain. https://t.co/EpiBG1GD59",
+      "translatedTitle": "把模型变成你拥有的机器中的一个齿轮。",
+      "translatedBody": "让模型成为你掌控的机器中的一个齿轮。\n\n◾ AI SDK → 开放模型 API\n\n◾ https://t.co/O7y9dmUqk5 → 开放代理 API\n\n◾ AI Gateway → 开放 ZDR 推理\n\n初创公司和企业必须掌控自己的数据、评估、模型选择和软件层。不要外包你的大脑。https://t.co/EpiBG1GD59",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2076364176252191222",
+      "publishedAt": "2026-07-12T17:52:51.000Z",
+      "score": 185.88,
+      "engagement": {
+        "likes": 793,
+        "retweets": 51,
+        "replies": 54
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2076351401006154204",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "和以前一样，你可以在《神鬼寓言5》中使用最多一半的每周使用限额。",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：As before, you can use up to half of your weekly usage limit on Fable 5. After that, you can continue using Fable 5 w…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "As before, you can use up to half of your weekly usage limit on Fable 5.",
+      "originalBody": "As before, you can use up to half of your weekly usage limit on Fable 5. After that, you can continue using Fable 5 with usage credits, or switch to another model to keep working within your remaining limits.\n\nMore details here: https://t.co/5inr3k2VM5",
+      "translatedTitle": "和以前一样，你可以在《神鬼寓言5》中使用最多一半的每周使用限额。",
+      "translatedBody": "和以前一样，您每周最多可以使用一半的流量限额玩《神鬼寓言5》。之后，您可以使用剩余的流量继续玩《神鬼寓言5》，或者切换到其他机型，以便在剩余流量限额内继续游戏。\n\n更多详情请点击：https://t.co/5inr3k2VM5",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2076351401006154204",
+      "publishedAt": "2026-07-12T17:02:05.000Z",
+      "score": 166.4,
+      "engagement": {
+        "likes": 2253,
+        "retweets": 126,
+        "replies": 208
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2076398253332140410",
       "type": "tweet",
       "builder": "Sam Altman",
-      "title": "有很多基准测试表明，5.6 sol 是世界上最好的模型……",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable wa…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "there are a lot of benchmarks that suggest 5.6 sol is the best model in the world r…",
-      "originalBody": "there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again",
-      "translatedTitle": "有很多基准测试表明，5.6 sol 是世界上最好的模型……",
-      "translatedBody": "很多基准测试都表明，5.6 sol 是目前世界上最好的模型，但最可靠的判断方法是：埃隆又开始对我着迷了。",
+      "title": "我很想看看大家用 5.6 sol 搭建的有趣东西。",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：i'd love to see interesting things people have built with 5.6 sol. i will send the person who made the coolest thing…",
+      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "i'd love to see interesting things people have built with 5.6 sol.",
+      "originalBody": "i'd love to see interesting things people have built with 5.6 sol.\n\ni will send the person who made the coolest thing a special gift from the openai archives.",
+      "translatedTitle": "我很想看看大家用 5.6 sol 搭建的有趣东西。",
+      "translatedBody": "我很想看看大家用 5.6 Sol 开发出的有趣作品。\n\n我会从 OpenAI 的资源库中挑选一份特别礼物，送给做出最酷作品的人。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2075983427019612242",
-      "publishedAt": "2026-07-11T16:39:53.000Z",
-      "score": 182.26,
+      "sourceUrl": "https://x.com/sama/status/2076398253332140410",
+      "publishedAt": "2026-07-12T20:08:15.000Z",
+      "score": 151.03,
       "engagement": {
-        "likes": 49330,
-        "retweets": 2330,
-        "replies": 3404
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2076155833428431012",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "如果你只了解杰文斯悖论主要是关于软件需求的时代……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：if you only learned about jevons paradox primarily wrt software demand in the age of agentic engineering, you may not…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "if you only learned about jevons paradox primarily wrt software demand in the age o…",
-      "originalBody": "if you only learned about jevons paradox primarily wrt software demand in the age of agentic engineering, you may not have fully internalized jevons parodox’s impact under the conditions of:\n\n- humans who can wield coding agents well*\n- coding agents breaking containment to all other knowledge work\n\nas the efficiency of labor goes up/unit cost of knowledge work goes broadly down, the demand for total work and better knowledge goes up, not down.\n\nwhat happened to coding isnt the exception; it’s the herald.\n\n*aka AI Engineers",
-      "translatedTitle": "如果你只了解杰文斯悖论主要是关于软件需求的时代……",
-      "translatedBody": "如果你只了解了杰文斯悖论在智能体工程时代对软件需求的影响，那么你可能还没有完全理解在以下情况下杰文斯悖论的影响：\n\n- 能够熟练运用编码智能体的人类*\n\n- 编码智能体突破了对所有其他知识工作的限制\n\n随着劳动效率的提高/知识工作的单位成本普遍下降，对总工作量和更高质量知识的需求反而会增加，而不是减少。\n\n编码领域发生的变化并非个例，而是先兆。\n\n*即人工智能工程师",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2076155833428431012",
-      "publishedAt": "2026-07-12T04:04:58.000Z",
-      "score": 153.37,
-      "engagement": {
-        "likes": 143,
-        "retweets": 9,
-        "replies": 28
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2076119366647894371",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "如果你还没勇气安装 Codex 应用，你可以继续待在……",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "If you aren't yet bold enough to install the Codex app, you can stay in the presenc…",
-      "originalBody": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done.\n\nStep 1: Install CLIProxyAPI\nStep 2: Connect\nStep 3: Define following alias and enjoy claudex\n\n```\nalias claudex='CLAUDE_CODE_SUBAGENT_MODEL=gpt-5.6-sol \\\nCLAUDE_CODE_ALWAYS_ENABLE_EFFORT=1 \\\nCLAUDE_CODE_MAX_TOOL_USE_CONCURRENCY=3 \\\nENABLE_TOOL_SEARCH=false \\\nclaude --model gpt-5.6-sol'\n```\n\nIf this gets blocked, I owe you a reset.",
-      "translatedTitle": "如果你还没勇气安装 Codex 应用，你可以继续待在……",
-      "translatedBody": "如果你还没胆量安装 Codex 应用，你可以待在你的橙色螃蟹旁边，然后把它指向 GPT 5.6 Sol。只需 5 分钟。感谢 Theo 解释了其中一种方法。\n\n步骤 1：安装 CLIProxyAPI\n\n步骤 2：连接\n\n步骤 3：定义以下别名，然后就可以使用 claudex 了\n\n```\n\nalias claudex='CLAUDE_CODE_SUBAGENT_MODEL=gpt-5.6-sol \\\nCLAUDE_CODE_ALWAYS_ENABLE_EFFORT=1 \\\n\nCLAUDE_CODE_MAX_TOOL_USE_CONCURRENCY=3 \\\n\nENABLE_TOOL_SEARCH=false \\\n\nclaude --model gpt-5.6-sol'\n\n```\n\n如果这招行不通，我欠你一次重置。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2076119366647894371",
-      "publishedAt": "2026-07-12T01:40:04.000Z",
-      "score": 94.21,
-      "engagement": {
-        "likes": 3871,
-        "retweets": 243,
-        "replies": 315
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2076116544980214164",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "人工智能原本应该取代的工作，如今却出现了与预期相反的情况……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The job that AI was supposed to replace is experiencing the opposite of the expected outcome. Software job postings a…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "The job that AI was supposed to replace is experiencing the opposite of the expecte…",
-      "originalBody": "The job that AI was supposed to replace is experiencing the opposite of the expected outcome. Software job postings are outpacing other fields.\n\nWhy is that? If you lower the cost of production of something that has lots of use cases, people want more things produced. We’ve seen this play out in the industrial world constantly, and now we’re finally seeing it in knowledge work.\n\nBecause software now is much lower to cost per unit, people want way more of it. So we start to use software for all new things and people and companies light up more software projects than ever before. \n\nBut because the job itself is not fully automated (and likely won’t be for as far out as we can see), you still need people that understand these systems to maintain the code, decide what to build, run it over the long run, update it, and more. That all requires people to do work. \n\nThe same thing is going to happen in many other fields as well as we bring down the cost of production of previously extremely scarce areas of work. Agents will cause more abundance than replacement.",
-      "translatedTitle": "人工智能原本应该取代的工作，如今却出现了与预期相反的情况……",
-      "translatedBody": "人工智能原本应该取代的工作，如今却出现了截然相反的结果。软件行业的招聘需求量超过了其他领域。\n\n这是为什么呢？如果降低一种用途广泛的产品的生产成本，人们就会想要生产更多。我们在工业领域已经不断看到这种现象，现在，我们终于在知识型工作领域也看到了同样的趋势。\n\n由于软件的单位成本大幅降低，人们对软件的需求也随之激增。因此，我们开始将软件应用于各种新事物，个人和公司启动的软件项目数量也比以往任何时候都多。\n\n但是，由于这项工作本身并没有完全自动化（而且在可预见的未来，这种情况可能也不会改变），我们仍然需要了解这些系统的人员来维护代码、决定开发什么、长期运行、更新等等。所有这些都需要人来完成。\n\n随着我们降低以往极其稀缺的工作领域的生产成本，同样的情况也会在许多其他领域发生。人工智能带来的将是人才的富足，而不是人才的取代。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2076116544980214164",
-      "publishedAt": "2026-07-12T01:28:51.000Z",
-      "score": 79.38,
-      "engagement": {
-        "likes": 193,
-        "retweets": 20,
-        "replies": 31
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2076145711922696371",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "你曾多次抱怨速度慢、代码粗糙、前端质量差……",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：At different times you complained about speed, code slop, frontend quality, ... With each release we improve and GPT…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "At different times you complained about speed, code slop, frontend quality, ...",
-      "originalBody": "At different times you complained about speed, code slop, frontend quality, ... With each release we improve and GPT 5.6 Sol is  \n\n✅Fast and token efficient\n✅Hardcore at back-end dev\n✅Great at front-end\n✅Does not use useEffect everywhere \n\nWhat is next?",
-      "translatedTitle": "你曾多次抱怨速度慢、代码粗糙、前端质量差……",
-      "translatedBody": "您曾多次抱怨速度、代码质量、前端体验等等……我们每次发布都会进行改进，GPT 5.6 Sol 现已：\n\n✅速度快，令牌效率高\n\n✅后端开发能力强\n\n✅前端体验出色\n\n✅不会到处使用 useEffect\n\n接下来会怎样？",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2076145711922696371",
-      "publishedAt": "2026-07-12T03:24:45.000Z",
-      "score": 68.06,
-      "engagement": {
-        "likes": 2557,
-        "retweets": 55,
-        "replies": 805
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2075944103867830352",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "如果你想再次推动加州建筑业蓬勃发展，你需要重新……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If you want to supercharge building in California again, you're going to need to repeal and reform CEQA Millions of u…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "If you want to supercharge building in California again, you're going to need to re…",
-      "originalBody": "If you want to supercharge building in California again, you're going to need to repeal and reform CEQA\n\nMillions of units of housing are blocked every year using CEQA. Housing should be built by-right, and not require the level of review it does today. https://t.co/TE4s7Dz7jD",
-      "translatedTitle": "如果你想再次推动加州建筑业蓬勃发展，你需要重新……",
-      "translatedBody": "如果你想再次推动加州住房建设，就必须废除并改革《加州环境质量法案》（CEQA）。\n\n每年有数百万套住房因CEQA而受阻。住房建设应该无需审批，而应该遵循现行的审查标准。https://t.co/TE4s7Dz7jD",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2075944103867830352",
-      "publishedAt": "2026-07-11T14:03:38.000Z",
-      "score": 54.56,
-      "engagement": {
-        "likes": 219,
-        "retweets": 15,
-        "replies": 27
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2076141940484010189",
-      "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "阿根廷队与世界排名第64位的球队苦战，险些被世界排名第……的球队淘汰。",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验：Argentina struggled against the world's #64, almost got eliminated by the world's #26, and they're now in extra time…",
-      "whyItMatters": "Matt Turck 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Argentina struggled against the world's #64, almost got eliminated by the world's #…",
-      "originalBody": "Argentina struggled against the world's #64, almost got eliminated by the world's #26, and they're now in extra time against the world's #19 which is down to 10 players.",
-      "translatedTitle": "阿根廷队与世界排名第64位的球队苦战，险些被世界排名第……的球队淘汰。",
-      "translatedBody": "阿根廷队与世界排名第 64 的球队苦战，险些被世界排名第 26 的球队淘汰，现在他们正与世界排名第 19 的球队进行加时赛，而这支球队目前只剩下 10 名球员。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2076141940484010189",
-      "publishedAt": "2026-07-12T03:09:46.000Z",
-      "score": 45.3,
-      "engagement": {
-        "likes": 4966,
-        "retweets": 418,
-        "replies": 105
+        "likes": 13249,
+        "retweets": 434,
+        "replies": 2514
       },
       "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2076495156757577895",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "Codex 和 ChatGPT Work 用户可获取更新。",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Updates for Codex and ChatGPT Work users. No nerfing, only good stuff! - We have landed inference optimizations and a…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Updates for Codex and ChatGPT Work users.",
+      "originalBody": "Updates for Codex and ChatGPT Work users. No nerfing, only good stuff!\n\n- We have landed inference optimizations and are passing down savings to all the subscriptions for GPT-5.6 Sol. That should result in around 10% more usage on its own.\n- We noticed that by changing the context size limit in the product to 372k for GPT-5.6 Sol, up from 272k for GPT-5.5, it resulted in more usage being charged than intended. We have reverted to 272k and will work to roll back out to 372k in the days to come. You should notice that usage drains significantly less after this change.\n- To understand where the extra usage was coming from, we ran some experiments where reasoning efforts were changed (referred to as juice values under the hood) and have reverted this.\n- There is slightly more usage of multi-agent than intended in high and xhigh reasoning effort, we are fixing this going forward. Also fixing a small other thing we noticed with auto-review where we can be more efficient.\n\nAnd we continue to have the 5h limit temporarily not apply. Enjoy the rest of the weekend!",
+      "translatedTitle": "Codex 和 ChatGPT Work 用户可获取更新。",
+      "translatedBody": "Codex 和 ChatGPT Work 用户更新。没有削弱，只有改进！\n\n- 我们已完成推理优化，并将节省的成本返还给所有 GPT-5.6 Sol 订阅用户。这本身应该就能带来约 10% 的使用量提升。\n\n- 我们注意到，将 GPT-5.6 Sol 的产品上下文大小限制从 GPT-5.5 的 272k 提高到 372k 后，导致实际使用量超出预期。我们已将限制恢复到 272k，并将在未来几天内逐步恢复到 372k。您应该会注意到，更改后使用量明显减少。\n\n- 为了找出额外使用量的原因，我们进行了一些实验，更改了推理难度（在底层称为“juice 值”），并已恢复原状。\n\n- 在高和超高推理难度下，多智能体的使用量略高于预期，我们将尽快修复此问题。此外，我们还修复了自动审核中发现的另一个小问题，以提高效率。\n\n另外，我们暂时取消了 5 小时审核时长限制。祝您周末愉快！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2076495156757577895",
+      "publishedAt": "2026-07-13T02:33:19.000Z",
+      "score": 122.09,
+      "engagement": {
+        "likes": 6468,
+        "retweets": 442,
+        "replies": 694
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2076227936202662357",
+      "type": "tweet",
+      "builder": "Amjad Masad",
+      "title": "Vibe Research 正在微调 Qwen-8b 模型，使其能够在 Replit 上下国际象棋。",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Vibe Research Fine-tuning a Qwen-8b model to play chess on Replit. Running 3 parallel branches with different experim…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Vibe Research Fine-tuning a Qwen-8b model to play chess on Replit.",
+      "originalBody": "Vibe Research\n\nFine-tuning a Qwen-8b model to play chess on Replit. Running 3 parallel branches with different experiments and making real progress.\n\nIt's amazing how far models have come in their ability to do ML (they used to be really bad at it). So now someone with good intuition to guide the process could do interesting ML work, even if they have never done it before.",
+      "translatedTitle": "Vibe Research 正在微调 Qwen-8b 模型，使其能够在 Replit 上下国际象棋。",
+      "translatedBody": "Vibe Research\n\n我们正在对 Qwen-8b 模型进行微调，使其能够在 Replit 平台上进行国际象棋对弈。我们同时运行三个分支进行不同的实验，并取得了显著进展。\n\n令人惊叹的是，模型在机器学习方面取得了如此巨大的进步（它们以前在这方面表现非常糟糕）。因此，现在只要拥有良好的直觉来指导流程，即使从未接触过机器学习，也能做出有趣的成果。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/amasad/status/2076227936202662357",
+      "publishedAt": "2026-07-12T08:51:29.000Z",
+      "score": 83.98,
+      "engagement": {
+        "likes": 529,
+        "retweets": 39,
+        "replies": 47
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2076338364635287637",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "21世纪商业领域的关键架构问题之一将是如何……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：One of the key architectural questions of the 21st century in business will be how you maximize your corporate IP in…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "One of the key architectural questions of the 21st century in business will be how…",
+      "originalBody": "One of the key architectural questions of the 21st century in business will be how you maximize your corporate IP in the form of decisions, insights, workflow patterns, and best practices in a world where so much intelligence is packed into AI models.\n\nOne might think these questions could just get bitter lessoned out of existence, but in reality they become even more germane as intelligence becomes more powerful. In a world where any firm also has access to frontier intelligence, understanding how you leverage it uniquely becomes a critical question.\n\nThat’s why so much value is left to be created between the enterprise and the underlying AI itself. Having evals for your workflows, ensuring that you can route models from different tiers of intelligence, capturing traces in a way that improve your own workflows, and making sure the value of your information compounds as AI gets better all become critical considerations.\n\nWhich is also why there’s so much opportunity right now in the applied AI layer. The companies that help figure this out for other enterprises will be in the best position to win the next enterprise workloads.",
+      "translatedTitle": "21世纪商业领域的关键架构问题之一将是如何……",
+      "translatedBody": "21世纪商业架构的关键问题之一，是如何在人工智能模型蕴含如此丰富智能的时代，最大化企业知识产权（包括决策、洞察、工作流程模式和最佳实践）的价值。\n\n人们或许会认为这些问题会随着人工智能技术的进步而逐渐消失，但实际上，随着人工智能的日益强大，它们的重要性反而与日俱增。在任何企业都能获取前沿智能的世界里，如何以独特的方式利用这些智能至关重要。\n\n正因如此，企业与底层人工智能之间仍存在着巨大的价值创造空间。对工作流程进行评估，确保能够路由来自不同层级的智能模型，以改进自身工作流程的方式捕获数据痕迹，并确保信息价值随着人工智能技术的进步而不断增长，这些都成为至关重要的考量因素。\n\n也正因如此，应用人工智能领域目前蕴藏着巨大的机遇。那些能够帮助其他企业解决这些问题的公司，将最有机会赢得下一代企业级应用。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2076338364635287637",
+      "publishedAt": "2026-07-12T16:10:17.000Z",
+      "score": 83.27,
+      "engagement": {
+        "likes": 413,
+        "retweets": 51,
+        "replies": 51
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2076510899490480228",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "Anthropico的模型也很棒，但我不太明白为什么他们的沟通方式是这样的……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Anthropic makes great models too but I don't understand why they communicate like this. I think they need to engage t…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Anthropic makes great models too but I don't understand why they communicate like t…",
+      "originalBody": "Anthropic makes great models too but I don't understand why they communicate like this. \n\nI think they need to engage the community more directly like what OpenAI is doing. https://t.co/BqYu5FglYV",
+      "translatedTitle": "Anthropico的模型也很棒，但我不太明白为什么他们的沟通方式是这样的……",
+      "translatedBody": "Anthropologie 的模型也很棒，但我不太明白他们为什么用这种方式沟通。\n\n我觉得他们应该像 OpenAI 那样，更直接地与社区互动。https://t.co/BqYu5FglYV",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2076510899490480228",
+      "publishedAt": "2026-07-13T03:35:52.000Z",
+      "score": 77.96,
+      "engagement": {
+        "likes": 142,
+        "retweets": 1,
+        "replies": 26
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2076459871021736245",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "请放心，GPT 5.6 Sol 将继续保留在您付费订阅的 ChatGPT 服务中。",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Rest assured that GPT 5.6 Sol will stay in the ChatGPT subscription you pay for. Including Go, Plus and Pro subscript…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "Rest assured that GPT 5.6 Sol will stay in the ChatGPT subscription you pay for.",
+      "originalBody": "Rest assured that GPT 5.6 Sol will stay in the ChatGPT subscription you pay for. Including Go, Plus and Pro subscriptions. At least until we ship an even better model.",
+      "translatedTitle": "请放心，GPT 5.6 Sol 将继续保留在您付费订阅的 ChatGPT 服务中。",
+      "translatedBody": "请放心，GPT 5.6 Sol 将继续保留在您付费的 ChatGPT 订阅服务中，包括 Go、Plus 和 Pro 订阅。至少在我们推出更优秀的版本之前是这样。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2076459871021736245",
+      "publishedAt": "2026-07-13T00:13:06.000Z",
+      "score": 73.83,
+      "engagement": {
+        "likes": 10055,
+        "retweets": 394,
+        "replies": 581
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-07-12T07:09:00.834Z",
-    "totalCandidates": 15,
-    "textQualifiedCandidates": 7,
-    "selectedTweets": 7
+    "upstreamGeneratedAt": "2026-07-13T07:25:45.249Z",
+    "totalCandidates": 30,
+    "textQualifiedCandidates": 13,
+    "selectedTweets": 8
   }
 }
