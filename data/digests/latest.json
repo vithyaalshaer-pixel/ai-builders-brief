@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-19",
-  "generatedAt": "2026-07-19T03:19:12.690Z",
+  "date": "2026-07-20",
+  "generatedAt": "2026-07-20T03:32:54.855Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-07-19",
-  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 27 条候选动态里，筛出 14 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-07-20",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 23 条候选动态里，筛出 16 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,183 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2078302415804379218",
+      "id": "2078647648307880209",
       "type": "tweet",
-      "builder": "Claude",
-      "title": "自7月20日起，《克劳德寓言5》将包含在所有Max和Team Premium计划中……",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plan…",
-      "originalBody": "Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits.\n\nPro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit.\n\nDemand for Fable has been challenging to predict, which is why we rolled it out to subscription plans in stages, extending access several times as we secured additional capacity.",
-      "translatedTitle": "自7月20日起，《克劳德寓言5》将包含在所有Max和Team Premium计划中……",
-      "translatedBody": "自7月20日起，所有Max和Team Premium套餐用户均可免费畅玩《克劳德寓言5》，但使用次数限制为原套餐的50%。\n\nPro和Team Standard用户仍可通过使用额度继续畅玩《克劳德寓言5》，并将获得一次性100美元的额度奖励。\n\n《克劳德寓言5》的需求量难以预测，因此我们分阶段将其推广至订阅套餐，并在确保额外容量的同时多次延长其使用期限。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2078302415804379218",
-      "publishedAt": "2026-07-18T02:14:43.000Z",
-      "score": 155.21,
-      "engagement": {
-        "likes": 28134,
-        "retweets": 4023,
-        "replies": 2494
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2078302417100394737",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "我们知道这令人沮丧，我们希望让您更清楚地了解……",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：We know this has been frustrating, and we want to give you more certainty about what your plan includes. We are makin…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "We know this has been frustrating, and we want to give you more certainty about wha…",
-      "originalBody": "We know this has been frustrating, and we want to give you more certainty about what your plan includes. We are making access standard at 50% usage for the plans that use Fable most intensively.\n\nThank you for your patience over the past several weeks. We're continuing to invest in new capacity and will keep everyone updated as we do.",
-      "translatedTitle": "我们知道这令人沮丧，我们希望让您更清楚地了解……",
-      "translatedBody": "我们知道这让您感到沮丧，因此我们希望让您更清楚地了解您的套餐包含哪些内容。对于 Fable 使用量最大的套餐，我们将默认开放 50% 的使用权限。\n\n感谢您在过去几周的耐心等待。我们将继续投资增加容量，并会及时向大家通报最新进展。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2078302417100394737",
-      "publishedAt": "2026-07-18T02:14:43.000Z",
-      "score": 142.68,
-      "engagement": {
-        "likes": 3108,
-        "retweets": 121,
-        "replies": 169
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2078244735794413786",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "顺便说一下，如果你还没有将 {codex | claude | gemini | devin} 自动化设置为自动执行……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：btw if you havent set your {codex | claude | gemini | devin} automations to autoresearch how to improve your seo/aeo…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "btw if you havent set your {codex | claude | gemini | devin} automations to autores…",
-      "originalBody": "btw if you havent set your {codex | claude | gemini | devin} automations to autoresearch how to improve your seo/aeo every week you are really truly missing out on free, should-be-commoditizing-but-weirdly-untapped alpha",
-      "translatedTitle": "顺便说一下，如果你还没有将 {codex | claude | gemini | devin} 自动化设置为自动执行……",
-      "translatedBody": "顺便一提，如果你还没有设置 {codex | claude | gemini | devin} 自动化流程，让它每周自动研究如何改进你的 SEO/AEO，那你真的错过了很多免费的、本应商品化但却奇怪地未被开发的早期版本资源。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2078244735794413786",
-      "publishedAt": "2026-07-17T22:25:31.000Z",
-      "score": 136.7,
-      "engagement": {
-        "likes": 1019,
-        "retweets": 24,
-        "replies": 51
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2078293998398263587",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "只有当我们不再问这些层面的问题，而是开始讨论时，Alpha 才会消失……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：alpha only gone when we all stop asking these level of questions and start discussion about on-policy autoaeo (does c…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "alpha only gone when we all stop asking these level of questions and start discussi…",
-      "originalBody": "alpha only gone when we all stop asking these level of questions and start discussion about on-policy autoaeo (does claude optimizing your aeo disproportionately work on claude?) vs generalizable aeo\n\nhttps://t.co/GrymTTqz6O",
-      "translatedTitle": "只有当我们不再问这些层面的问题，而是开始讨论时，Alpha 才会消失……",
-      "translatedBody": "只有当我们不再问这些低层次的问题，而是开始讨论基于策略的自动AEO（例如，Claude优化你的AEO是否对Claude算法特别有效？）与通用AEO时，Alpha机制才会消失。\n\nhttps://t.co/GrymTTqz6O",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2078293998398263587",
-      "publishedAt": "2026-07-18T01:41:16.000Z",
-      "score": 114.92,
-      "engagement": {
-        "likes": 10,
-        "retweets": 1,
-        "replies": 3
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2078086930756202924",
-      "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "在公共平台上进行内容创作的小贴士：如果创作内容让你觉得额外工作量，那就把作品展示出来……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Tip for building in public: If making content feels like extra work, show the work already happening inside your prod…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Tip for building in public: If making content feels like extra work, show the work…",
-      "originalBody": "Tip for building in public:\n\nIf making content feels like extra work, show the work already happening inside your product. A tiny screen recording, the first version, or the user behavior that changed your design. The reasoning matters more than production value.",
-      "translatedTitle": "在公共平台上进行内容创作的小贴士：如果创作内容让你觉得额外工作量，那就把作品展示出来……",
-      "translatedBody": "公开展示产品的小贴士：\n\n如果制作内容让你觉得额外工作，那就展示产品内部正在进行的工作。比如一段简短的屏幕录像、第一个版本，或者用户行为如何改变了你的设计。背后的原因比产品本身的价值更重要。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2078086930756202924",
-      "publishedAt": "2026-07-17T11:58:27.000Z",
-      "score": 103.85,
-      "engagement": {
-        "likes": 206,
-        "retweets": 9,
-        "replies": 19
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2078139206946459853",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "这篇文章至关重要。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：This post is key. The cheaper AI gets, the more opportunity there is for the entire ecosystem - especially including…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "This post is key.",
-      "originalBody": "This post is key. The cheaper AI gets, the more opportunity there is for the entire ecosystem  - especially including end-customers - to benefit.\n\nEverything is bottlenecked by being able to successfully and cost effectively deploy AI in real workloads. Any time we can lower the cost of AI, the total usage goes up. When that happens, the value accrues to all layers of the stack, as noted.\n\nThe only modification is I think as AI gets more efficient, demand even for the frontier closed models can go up too. You often need the strongest model possible for the orchestration of a task, then you can farm out work to cheaper or more tuned models for the bulk of tokens. \n\nThis efficiency gain can ironically lead to even more frontier spend in the process because you can cost effectively deploy AI against more tasks. The thing at most risk is margins, which is fair, and in general it seems that intelligence eventually should converge with the margins of the infrastructure stack.\n\nAnyway, super fun times to see competition play out to drive down the cost of AI.",
-      "translatedTitle": "这篇文章至关重要。",
-      "translatedBody": "这篇文章至关重要。人工智能成本越低，整个生态系统（尤其是终端用户）受益的机会就越多。\n\n一切的瓶颈在于能否成功且经济高效地将人工智能部署到实际工作负载中。任何时候我们能够降低人工智能的成本，其总使用量都会增加。正如前面提到的，当这种情况发生时，价值将惠及整个技术栈的各个层面。\n\n我认为唯一需要改进的是，随着人工智能效率的提高，即使是对前沿封闭模型的需求也会增加。通常，你需要尽可能强大的模型来编排任务，然后将大部分工作外包给成本更低或经过优化的模型，从而获得大部分代币。\n\n讽刺的是，这种效率的提升可能会导致前沿模型的使用量进一步增加，因为你可以经济高效地将人工智能部署到更多任务上。最大的风险在于利润率，这很合理，而且总的来说，人工智能最终应该会与基础设施栈的利润率趋于一致。\n\n总之，看到各方为了降低人工智能成本而展开竞争，真是令人兴奋。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2078139206946459853",
-      "publishedAt": "2026-07-17T15:26:11.000Z",
-      "score": 82.08,
-      "engagement": {
-        "likes": 331,
-        "retweets": 36,
-        "replies": 45
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2078189833445654714",
-      "type": "tweet",
-      "builder": "Thariq",
-      "title": "构建原型，包括模型、模式、数据模型、概念验证等。",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：building prototypes of mockups, schemas, data models, proof of concepts, etc. is the best way to avoid spending tons…",
+      "builder": "Guillermo Rauch",
+      "title": "根据内部评估：▪️ Kimi K3 在网络安全领域处于顶尖水平。坊间传闻……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Based on internal evals: ▪️ Kimi K3 is top-tier at cybersecurity There is chatter on X that Moonshot benchmark-overfi…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "building prototypes of mockups, schemas, data models, proof of concepts, etc.",
-      "originalBody": "building prototypes of mockups, schemas, data models, proof of concepts, etc. is the best way to avoid spending tons of tokens before realizing you don't want the output https://t.co/BjYeXC7zfk",
-      "translatedTitle": "构建原型，包括模型、模式、数据模型、概念验证等。",
-      "translatedBody": "构建原型（例如模型、架构、数据模型、概念验证等）是避免在意识到自己不需要最终输出结果之前浪费大量代币的最佳方法。https://t.co/BjYeXC7zfk",
+      "originalTitle": "Based on internal evals: ▪️ Kimi K3 is top-tier at cybersecurity There is chatter o…",
+      "originalBody": "Based on internal evals:\n\n▪️ Kimi K3 is top-tier at cybersecurity\nThere is chatter on X that Moonshot benchmark-overfit. These are stealth evals. Model has raw IQ.\n\n▪️ Sol is a leap ahead in cyber capability\nAt a significantly higher cost, but quite remarkable still.\n\n▪️ Fable refuses everything\nWe couldn’t get it to complete the run at all. What’s interesting is that Sol in comparison was much more open to helping with defensive cyber hardening\n\nTL;DR: frontier, open-weight cybersecurity capability is here. Try it on https://t.co/HedSpZpo1a for defensive purposes.",
+      "translatedTitle": "根据内部评估：▪️ Kimi K3 在网络安全领域处于顶尖水平。坊间传闻……",
+      "translatedBody": "基于内部评估：\n\n▪️ Kimi K3 在网络安全领域处于顶尖水平\n\nX 论坛上有传言说 Moonshot 基准测试存在过拟合问题。这些是秘密评估。该模型拥有极高的智能。\n\n▪️ Sol 在网络安全能力方面遥遥领先\n\n虽然成本更高，但仍然非常出色。\n\n▪️ Fable 拒绝所有测试\n\n我们根本无法让它完成测试。有趣的是，相比之下，Sol 在帮助进行防御性网络加固方面要开放得多。\n\n总结：前沿的、开放的网络安全能力已经到来。在 https://t.co/HedSpZpo1a 上进行防御性测试。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2078189833445654714",
-      "publishedAt": "2026-07-17T18:47:21.000Z",
-      "score": 59.76,
+      "sourceUrl": "https://x.com/rauchg/status/2078647648307880209",
+      "publishedAt": "2026-07-19T01:06:33.000Z",
+      "score": 165.08,
       "engagement": {
-        "likes": 634,
-        "retweets": 32,
-        "replies": 59
+        "likes": 1856,
+        "retweets": 116,
+        "replies": 65
       },
       "matchedFocusAreas": [
         "Foundation Models"
@@ -207,26 +50,190 @@
       "sourceType": "x"
     },
     {
-      "id": "2078318731785359634",
+      "id": "2078548458714406959",
       "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "看着 Codex 使用浏览器和电脑打开 Chr… 既令人惊叹又令人痛心。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：It's both amazing and painful to watch codex use browser + computer use to open Chrome, go to my PR, tap on comment a…",
+      "builder": "Guillermo Rauch",
+      "title": "“AGI”这个词已经过时了。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The term \"AGI\" has aged very poorly. AI can't possibly me more different from human intelligence. It's *far better* t…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "It's both amazing and painful to watch codex use browser + computer use to open Chr…",
-      "originalBody": "It's both amazing and painful to watch codex use browser + computer use to open Chrome, go to my PR, tap on comment and wrangle with the macOS picker - all TO UPLOAD AN IMAGE. GitHub has no API doesn't stop anyone.\n\nI let my codex run in VMs so they don't steal app focus. https://t.co/Dd5KzNs6E5",
-      "translatedTitle": "看着 Codex 使用浏览器和电脑打开 Chr… 既令人惊叹又令人痛心。",
-      "translatedBody": "看着 Codex 用浏览器和电脑打开 Chrome，找到我的 PR，点击评论，然后费劲地在 macOS 的图片选择器里瞎折腾——就为了上传一张图片——真是既让人惊叹又让人抓狂。GitHub 没有 API 也阻止不了任何人。\n\n我让我的 Codex 运行在虚拟机里，这样它就不会抢占应用程序的焦点了。https://t.co/Dd5KzNs6E5",
+      "originalTitle": "The term \"AGI\" has aged very poorly.",
+      "originalBody": "The term \"AGI\" has aged very poorly. AI can't possibly me more different from human intelligence. It's *far better* than human intelligence, for most economically-relevant tasks.\n\nBut that doesn't make AIs better than humanity. There are wonderful things humans can do that these superintelligences (the better term) can't. \n\nFor one, we care-for and care-about other humans in a powerful and inherent way, that we then teach machines to emulate. We must keep that as the top priority in everything we do. We have to be as pro-human-life as it gets.\n\nAIs can replace tasks you do, but they can't replace the proverbial you. This is why they horribly suck at writing! Even when given a corpus of your writing and 200 Skills and 50 subagents running in gRaPh LoOps, they produce robotic prose… because they are robots. \n\nI know one definitive way that people can become irrelevant. They stop being themselves: lose their identity, delegate all their writing, their unique thoughts, the creative ways in which they can use the machines. Opting out of 'weighing in'.\n\nI think we're safe though. There's nothing more distasteful right now than AI replies in social media or (🟢 T H I S    T H I N G ) in landing pages. Quality and humanity will prevail.",
+      "translatedTitle": "“AGI”这个词已经过时了。",
+      "translatedBody": "“通用人工智能”（AGI）这个词已经过时了。人工智能与人类智能的差别再大不过了。在大多数与经济相关的任务中，它比人类智能*好得多*。\n\n但这并不意味着人工智能比人类更优秀。人类能做到一些这些超级智能（更准确的说法）做不到的了不起的事情。\n\n首先，我们以一种强大而内在的方式关心和爱护他人，然后我们教会机器去模仿这种情感。我们必须把这一点放在一切工作的首位。我们必须尽可能地维护人类的生命。\n\n人工智能可以取代你做的工作，但它们无法取代你这个人。这就是为什么它们写作能力如此糟糕！即使给你一个包含你写作内容的语料库，以及200种技能和50个以图形循环方式运行的子智能体，它们写出来的也只是机械的文字……因为它们是机器人。\n\n我知道人类最终会变得无关紧要的一个确切方法。他们不再做自己：失去自我，放弃写作、独特的思考以及运用机器的创造性方式。他们选择退出“参与讨论”。\n\n不过，我认为我们很安全。现在最令人反感的莫过于社交媒体上的AI回复，或是落地页上的（🟢这玩意儿）。品质和人性终将胜出。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2078318731785359634",
-      "publishedAt": "2026-07-18T03:19:33.000Z",
-      "score": 56.33,
+      "sourceUrl": "https://x.com/rauchg/status/2078548458714406959",
+      "publishedAt": "2026-07-18T18:32:24.000Z",
+      "score": 159.79,
       "engagement": {
-        "likes": 317,
-        "retweets": 9,
-        "replies": 48
+        "likes": 577,
+        "retweets": 39,
+        "replies": 91
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2078628617987518855",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "那些贬低欧洲的人忽略了一点：他们其实拥有一些顶尖的人工智能工程师……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：people hating on europe miss that they actually have some of the top ai engineers in the world if you actually to eli…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "people hating on europe miss that they actually have some of the top ai engineers i…",
+      "originalBody": "people hating on europe miss that they actually have some of the top ai engineers in the world if you actually to elicit the right ones. \n\nwe're basically running the most competitive global arena for ai talent (as measured by talks and workshops), will be v interesting to see how this goes as WF enters the eval window",
+      "translatedTitle": "那些贬低欧洲的人忽略了一点：他们其实拥有一些顶尖的人工智能工程师……",
+      "translatedBody": "那些贬低欧洲的人忽略了一点：如果你能真正找到合适的人才，欧洲其实拥有世界上一些顶尖的人工智能工程师。\n\n我们基本上打造了全球最具竞争力的人工智能人才聚集地（以演讲和研讨会的数量衡量），随着WF进入评估阶段，看看事态会如何发展，将会非常有趣。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2078628617987518855",
+      "publishedAt": "2026-07-18T23:50:56.000Z",
+      "score": 148.3,
+      "engagement": {
+        "likes": 53,
+        "retweets": 1,
+        "replies": 21
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2078567715544121815",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "如果你认为人工智能生态系统的价值只会惠及少数几家公司……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：If you thought the value of the AI ecosystem was going to only accrue to a few companies, the past few months have re…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "If you thought the value of the AI ecosystem was going to only accrue to a few comp…",
+      "originalBody": "If you thought the value of the AI ecosystem was going to only accrue to a few companies, the past few months have represented a turning point in what the future of AI might look like. \n\nIt's clear that there's going to be incredible innovation and growth coming out of the frontier AI labs, and they will continue to push the limits of what model progress looks like. They have the scale of compute, large revenue streams and customer bases, incredible researchers, large data pipelines, and more, to continue to stay at the forefront.\n\nAnd at the same time, there’s an amazing ecosystem starting to play out to diffuse AI into the real world, taking on a variety of approaches that build on top of these frontier models or offer alternative visions that can credibly work as well. \n\nHere are just a few of the categories that seem to be working right now: \n\n* There’s an ecosystem of companies that will help enterprises and applied AI companies develop their own models tuned for specific use cases, and run the inference for them. This can drive additional performance gains and cost effective approaches to getting AI into workloads across different domains. \n\n* Applied AI companies that are delivering the end-user experience and business process tools necessary to actually driving enterprise adoption - including legal, IT, security, HR, customer support, coding, and more. These companies can work with any model and act as a routing layer, and deeply understand the enterprise workflow, can drive change management, actually get to the data necessary to work with, and more. \n\n* New labs are emerging that go deep in particular domains that are either not the focus areas of frontier labs or require a deep level of vertical expertise to stay ahead. Life sciences, financial services, healthcare, and more all have labs that will be able to bring completely new approaches to large enterprises across the economy.\n\n* There’s all new infrastructure emerging to run models and agents effectively, protect and govern how they operate, store and secure the data they work with, and help enterprises orchestrate their activities. Multiple layers of this stack all are being built up right now that will help drive enterprise adoption.  \n\n* New services firms that can actually drive the change management in enterprises necessary to the diffusion of AI. There will be hundreds or even thousands of new firms that emerge in lines of business or specific industries that can enable agents to be adopted.\n\nI’m probably even missing a few categories, but this is what an incredible healthy technology ecosystem looks like. \n\nWay too early to call the winning architectures, and in reality it’s going to be a heterogenous environment as all other tech markets have become. Very exciting.",
+      "translatedTitle": "如果你认为人工智能生态系统的价值只会惠及少数几家公司……",
+      "translatedBody": "如果你认为人工智能生态系统的价值只会流向少数几家公司，那么过去几个月已经改变了你对人工智能未来发展方向的认知。\n\n显而易见，前沿人工智能实验室将涌现出令人瞩目的创新和增长，它们将不断突破模型发展的极限。它们拥有强大的计算能力、庞大的收入来源和客户群、杰出的研究人员、庞大的数据管道等等，足以使其始终保持领先地位。\n\n与此同时，一个令人惊叹的生态系统正在形成，致力于将人工智能推广到现实世界。该生态系统采用多种方法，既有基于这些前沿模型构建的，也有提供同样可行的替代方案。\n\n以下列举几个目前看来行之有效的领域：\n\n* 一个由众多公司组成的生态系统，将帮助企业和应用人工智能公司开发针对特定用例优化的模型，并为其运行推理。这可以进一步提升性能，并以更具成本效益的方式将人工智能融入不同领域的工作负载。\n\n* 应用型人工智能公司正在提供最终用户体验和业务流程工具，以真正推动企业采用人工智能技术——涵盖法律、IT、安全、人力资源、客户支持、编码等领域。这些公司可以处理任何模型，并充当路由层，深入了解企业工作流程，推动变革管理，获取所需的数据等等。\n\n* 一些新兴实验室正在深入研究特定领域，这些领域要么并非前沿实验室的重点，要么需要深厚的垂直行业专业知识才能保持领先地位。生命科学、金融服务、医疗保健等领域都拥有这样的实验室，它们能够为整个经济领域的大型企业带来全新的方法。\n\n* 全新的基础设施正在涌现，用于高效运行模型和代理，保护和管理它们的运行方式，存储和保护它们处理的数据，并帮助企业协调其活动。目前，该技术栈的多个层级正在构建中，这将有助于推动企业采用人工智能技术。\n\n* 能够真正推动企业变革管理的新型服务公司，这些变革管理对于人工智能的普及至关重要。未来，各个业务领域或特定行业将涌现出成百上千家新公司，它们能够帮助企业采用人工智能代理。\n\n我可能遗漏了一些类别，但这展现了一个健康且前景广阔的技术生态系统。\n\n现在就断言哪种架构会胜出还为时过早，而且实际上，正如其他所有技术市场一样，人工智能生态系统将会呈现出多元化的特点。这令人无比兴奋。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2078567715544121815",
+      "publishedAt": "2026-07-18T19:48:55.000Z",
+      "score": 82.3,
+      "engagement": {
+        "likes": 327,
+        "retweets": 43,
+        "replies": 52
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2078702412085498087",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "我刚才在 ChatGPT Work 里口述的内容 > 好的，我收到了很多私信，我……",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：What I just dictated into ChatGPT Work > Okay, so I received a lot of DMs for, I did a call out for ChatGPT Work, bas…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "What I just dictated into ChatGPT Work > Okay, so I received a lot of DMs for, I di…",
+      "originalBody": "What I just dictated into ChatGPT Work\n\n> Okay, so I received a lot of DMs for, I did a call out for ChatGPT Work, basically early access beta group. I want you to go through all my DMs on Twitter and then just take all of them that mention ChatGPT Work. It's like a lot of them, thousands, and put them all in a spreadsheet. What I want in the spreadsheet is the name, I want the link to the the DM, so I can go back to it quickly. I want the post that they did, but remove any new lines, so it's just in a single cell. And then I want a column which is basically your assessment of what they're doing, right? So for example, if it's like sales, put sales, if it's marketing, put marketing, if it's design, put design. Come up with your own taxonomy for how to classify their work. I expect the taxonomy to have like, you know, roughly 8 to 12 labels maybe, total. And then also put a rating for, like, they normally have to describe what they're currently doing with ChatGPT Work, use that to put a rating in the fifth column on how sophisticated their workflow already is. We're gonna be selecting a cohort of different people of different levels of sophistication, so we're gonna be like taking, you know, maybe like a couple dozens from like, a high level of sophistication, we're gonna take in the middle of a cohort, and then like low level of sophistication, so we have good representation and can test new features and get good feedback from a diverse group at different levels of adoption. So create that spreadsheet, go through all my DMs. Good luck!",
+      "translatedTitle": "我刚才在 ChatGPT Work 里口述的内容 > 好的，我收到了很多私信，我……",
+      "translatedBody": "我刚才口述的内容是写给 ChatGPT Work 的\n\n> 好的，我收到了很多关于 ChatGPT Work 的私信，我之前发过一个招募信息，基本上就是招募早期测试用户。我希望你能查看我在 Twitter 上收到的所有私信，然后把所有提到 ChatGPT Work 的私信都整理到一个电子表格里。数量很多，大概有几千条。表格里需要包含姓名、私信链接（方便我快速找到）、他们发布的内容（但请去掉换行符，确保每条内容都在一个单元格里）。然后我需要一列，用来记录你对他们工作的评价，对吧？比如，如果是销售相关的，就写“销售”；如果是市场营销相关的，就写“市场营销”；如果是设计相关的，就写“设计”。你需要自己建立一个分类体系来对他们的工作进行分类。我希望这个分类体系大概包含 8 到 12 个标签。然后，还要给他们的工作流程成熟度打分，比如，他们通常需要描述自己目前使用 ChatGPT Work 的情况，我们可以用这些信息在第五列中给他们的工作流程成熟度打分。我们会选择不同成熟度水平的用户群体，比如从成熟度较高的用户中挑选几十个，从中等成熟度的用户中挑选一些，再从成熟度较低的用户中挑选一些，这样就能保证样本的代表性，方便我们测试新功能，并从不同使用水平的用户群体中获得反馈。所以，创建好这个表格，然后查看我所有的私信。祝你好运！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2078702412085498087",
+      "publishedAt": "2026-07-19T04:44:10.000Z",
+      "score": 78.77,
+      "engagement": {
+        "likes": 136,
+        "retweets": 1,
+        "replies": 40
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2078697631019303273",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "ChatGPT 的工作内容包括：✅ 创建和托管网站 ✅ 为您管理电子邮件 ✅ S…",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：ChatGPT Work is for ✅ Creating and hosting sites ✅ Managing your emails for you ✅ Summarizing mountains of documents…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "ChatGPT Work is for ✅ Creating and hosting sites ✅ Managing your emails for you ✅ S…",
+      "originalBody": "ChatGPT Work is for\n\n✅ Creating and hosting sites\n✅ Managing your emails for you\n✅ Summarizing mountains of documents\n✅ Creating top-notch docs, sheet and slides\n\nAlready in your mobile app or on https://t.co/WtXdTqu9lT, included in Plus, Pro, Business and Enterprise plans",
+      "translatedTitle": "ChatGPT 的工作内容包括：✅ 创建和托管网站 ✅ 为您管理电子邮件 ✅ S…",
+      "translatedBody": "ChatGPT Work 的功能包括：\n\n✅ 创建和托管网站\n\n✅ 管理您的电子邮件\n\n✅ 汇总海量文档\n\n✅ 创建高质量的文档、表格和幻灯片\n\n这些功能已集成到您的移动应用或访问 https://t.co/WtXdTqu9lT，包含在 Plus、Pro、Business 和 Enterprise 套餐中。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2078697631019303273",
+      "publishedAt": "2026-07-19T04:25:10.000Z",
+      "score": 65.49,
+      "engagement": {
+        "likes": 1465,
+        "retweets": 68,
+        "replies": 266
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2078481578779685245",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "很明显，把关模式无法大规模应用。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：It’s fairly obvious that gate keeping models will not work at scale. Competing in AI is too economically and strategi…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "It’s fairly obvious that gate keeping models will not work at scale.",
+      "originalBody": "It’s fairly obvious that gate keeping models will not work at scale. \n\nCompeting in AI is too economically and strategically important for China at this point, and we’ve now crossed the rubicon where it’s clear that they can compete at near frontier levels. If this were even just 1 month ago and we saw kimi k3 our brains would be broken.\n\nThe solution to this isn’t to get more locked down and slow your own ecosystem. If that happens, you can guarantee that America loses the global battle (or just fights with more and more regulation to mixed success).\n\nThe solution is to -safely- ensure that you keep a high rate of progress and drive diffusion of the technology, build out infrastructure, enable US OSS, and more.",
+      "translatedTitle": "很明显，把关模式无法大规模应用。",
+      "translatedBody": "很明显，守门人模式无法大规模奏效。\n\n在人工智能领域，中国目前的经济和战略地位都至关重要，我们已经跨越了卢比孔河，他们显然已经具备了接近前沿水平的竞争力。如果这发生在一个月前，我们看到Kimi K3，肯定会震惊不已。\n\n解决之道并非加强管控，放慢自身生态系统的发展速度。如果这样做，美国必败无疑（或者只能通过不断加强监管勉强维持，收效甚微）。\n\n真正的解决方案是——稳妥地——确保自身保持高速发展，推动技术扩散，完善基础设施，支持美国开源软件（OSS）等等。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2078481578779685245",
+      "publishedAt": "2026-07-18T14:06:39.000Z",
+      "score": 57.71,
+      "engagement": {
+        "likes": 366,
+        "retweets": 39,
+        "replies": 58
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2078638568784994686",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我和我8岁的女儿一起搭建了一个@ChatGPTapp网站，帮助她学习乘法……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：My 8-year-old and I built a @ChatGPTapp Site to help her learn the multiplication tables. She loves animals, so we: →…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "My 8-year-old and I built a @ChatGPTapp Site to help her learn the multiplication t…",
+      "originalBody": "My 8-year-old and I built a @ChatGPTapp Site to help her learn the multiplication tables.\n\nShe loves animals, so we:\n\n→ Used ChatGPT Images to generate the UI and characters\n→ Added some awesome music\n→ Even added a timed boss level\n\n📌 Play it here: https://t.co/sN7YBohW5R https://t.co/jEzmQjgBUe https://t.co/ghLmCVRmkk",
+      "translatedTitle": "我和我8岁的女儿一起搭建了一个@ChatGPTapp网站，帮助她学习乘法……",
+      "translatedBody": "我和我8岁的女儿一起搭建了一个@ChatGPTapp网站，帮助她学习乘法表。\n\n她很喜欢动物，所以我们：\n\n→ 使用ChatGPT图片生成用户界面和角色\n\n→ 添加了一些很棒的音乐\n\n→ 甚至还添加了一个限时挑战关卡\n\n📌 点击这里体验：https://t.co/sN7YBohW5R https://t.co/jEzmQjgBUe https://t.co/ghLmCVRmkk",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2078638568784994686",
+      "publishedAt": "2026-07-19T00:30:28.000Z",
+      "score": 54.17,
+      "engagement": {
+        "likes": 221,
+        "retweets": 8,
+        "replies": 21
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -235,9 +242,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-07-18T06:57:24.723Z",
-    "totalCandidates": 27,
-    "textQualifiedCandidates": 14,
+    "upstreamGeneratedAt": "2026-07-19T07:08:51.057Z",
+    "totalCandidates": 23,
+    "textQualifiedCandidates": 16,
     "selectedTweets": 8
   }
 }
