@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-20",
-  "generatedAt": "2026-07-20T03:32:54.855Z",
+  "date": "2026-07-21",
+  "generatedAt": "2026-07-21T03:13:55.230Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-07-20",
+  "title": "AI Builders Daily | 2026-07-21",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 23 条候选动态里，筛出 16 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 29 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,115 +15,30 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
-    },
-    {
-      "slug": "product-ships",
-      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2078647648307880209",
+      "id": "2078912929714356698",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "根据内部评估：▪️ Kimi K3 在网络安全领域处于顶尖水平。坊间传闻……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Based on internal evals: ▪️ Kimi K3 is top-tier at cybersecurity There is chatter on X that Moonshot benchmark-overfi…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "Based on internal evals: ▪️ Kimi K3 is top-tier at cybersecurity There is chatter o…",
-      "originalBody": "Based on internal evals:\n\n▪️ Kimi K3 is top-tier at cybersecurity\nThere is chatter on X that Moonshot benchmark-overfit. These are stealth evals. Model has raw IQ.\n\n▪️ Sol is a leap ahead in cyber capability\nAt a significantly higher cost, but quite remarkable still.\n\n▪️ Fable refuses everything\nWe couldn’t get it to complete the run at all. What’s interesting is that Sol in comparison was much more open to helping with defensive cyber hardening\n\nTL;DR: frontier, open-weight cybersecurity capability is here. Try it on https://t.co/HedSpZpo1a for defensive purposes.",
-      "translatedTitle": "根据内部评估：▪️ Kimi K3 在网络安全领域处于顶尖水平。坊间传闻……",
-      "translatedBody": "基于内部评估：\n\n▪️ Kimi K3 在网络安全领域处于顶尖水平\n\nX 论坛上有传言说 Moonshot 基准测试存在过拟合问题。这些是秘密评估。该模型拥有极高的智能。\n\n▪️ Sol 在网络安全能力方面遥遥领先\n\n虽然成本更高，但仍然非常出色。\n\n▪️ Fable 拒绝所有测试\n\n我们根本无法让它完成测试。有趣的是，相比之下，Sol 在帮助进行防御性网络加固方面要开放得多。\n\n总结：前沿的、开放的网络安全能力已经到来。在 https://t.co/HedSpZpo1a 上进行防御性测试。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2078647648307880209",
-      "publishedAt": "2026-07-19T01:06:33.000Z",
-      "score": 165.08,
-      "engagement": {
-        "likes": 1856,
-        "retweets": 116,
-        "replies": 65
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2078548458714406959",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "“AGI”这个词已经过时了。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The term \"AGI\" has aged very poorly. AI can't possibly me more different from human intelligence. It's *far better* t…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The term \"AGI\" has aged very poorly.",
-      "originalBody": "The term \"AGI\" has aged very poorly. AI can't possibly me more different from human intelligence. It's *far better* than human intelligence, for most economically-relevant tasks.\n\nBut that doesn't make AIs better than humanity. There are wonderful things humans can do that these superintelligences (the better term) can't. \n\nFor one, we care-for and care-about other humans in a powerful and inherent way, that we then teach machines to emulate. We must keep that as the top priority in everything we do. We have to be as pro-human-life as it gets.\n\nAIs can replace tasks you do, but they can't replace the proverbial you. This is why they horribly suck at writing! Even when given a corpus of your writing and 200 Skills and 50 subagents running in gRaPh LoOps, they produce robotic prose… because they are robots. \n\nI know one definitive way that people can become irrelevant. They stop being themselves: lose their identity, delegate all their writing, their unique thoughts, the creative ways in which they can use the machines. Opting out of 'weighing in'.\n\nI think we're safe though. There's nothing more distasteful right now than AI replies in social media or (🟢 T H I S    T H I N G ) in landing pages. Quality and humanity will prevail.",
-      "translatedTitle": "“AGI”这个词已经过时了。",
-      "translatedBody": "“通用人工智能”（AGI）这个词已经过时了。人工智能与人类智能的差别再大不过了。在大多数与经济相关的任务中，它比人类智能*好得多*。\n\n但这并不意味着人工智能比人类更优秀。人类能做到一些这些超级智能（更准确的说法）做不到的了不起的事情。\n\n首先，我们以一种强大而内在的方式关心和爱护他人，然后我们教会机器去模仿这种情感。我们必须把这一点放在一切工作的首位。我们必须尽可能地维护人类的生命。\n\n人工智能可以取代你做的工作，但它们无法取代你这个人。这就是为什么它们写作能力如此糟糕！即使给你一个包含你写作内容的语料库，以及200种技能和50个以图形循环方式运行的子智能体，它们写出来的也只是机械的文字……因为它们是机器人。\n\n我知道人类最终会变得无关紧要的一个确切方法。他们不再做自己：失去自我，放弃写作、独特的思考以及运用机器的创造性方式。他们选择退出“参与讨论”。\n\n不过，我认为我们很安全。现在最令人反感的莫过于社交媒体上的AI回复，或是落地页上的（🟢这玩意儿）。品质和人性终将胜出。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2078548458714406959",
-      "publishedAt": "2026-07-18T18:32:24.000Z",
-      "score": 159.79,
-      "engagement": {
-        "likes": 577,
-        "retweets": 39,
-        "replies": 91
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2078628617987518855",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "那些贬低欧洲的人忽略了一点：他们其实拥有一些顶尖的人工智能工程师……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：people hating on europe miss that they actually have some of the top ai engineers in the world if you actually to eli…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "people hating on europe miss that they actually have some of the top ai engineers i…",
-      "originalBody": "people hating on europe miss that they actually have some of the top ai engineers in the world if you actually to elicit the right ones. \n\nwe're basically running the most competitive global arena for ai talent (as measured by talks and workshops), will be v interesting to see how this goes as WF enters the eval window",
-      "translatedTitle": "那些贬低欧洲的人忽略了一点：他们其实拥有一些顶尖的人工智能工程师……",
-      "translatedBody": "那些贬低欧洲的人忽略了一点：如果你能真正找到合适的人才，欧洲其实拥有世界上一些顶尖的人工智能工程师。\n\n我们基本上打造了全球最具竞争力的人工智能人才聚集地（以演讲和研讨会的数量衡量），随着WF进入评估阶段，看看事态会如何发展，将会非常有趣。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2078628617987518855",
-      "publishedAt": "2026-07-18T23:50:56.000Z",
-      "score": 148.3,
-      "engagement": {
-        "likes": 53,
-        "retweets": 1,
-        "replies": 21
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2078567715544121815",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "如果你认为人工智能生态系统的价值只会惠及少数几家公司……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：If you thought the value of the AI ecosystem was going to only accrue to a few companies, the past few months have re…",
+      "title": "顺便说一句，我非常看好网络安全，认为它是衡量……的最佳基准之一。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Incidentally, I’m very bullish on cybersecurity as one of the best benchmarks for superintelligence. The “IQ test” of…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "If you thought the value of the AI ecosystem was going to only accrue to a few comp…",
-      "originalBody": "If you thought the value of the AI ecosystem was going to only accrue to a few companies, the past few months have represented a turning point in what the future of AI might look like. \n\nIt's clear that there's going to be incredible innovation and growth coming out of the frontier AI labs, and they will continue to push the limits of what model progress looks like. They have the scale of compute, large revenue streams and customer bases, incredible researchers, large data pipelines, and more, to continue to stay at the forefront.\n\nAnd at the same time, there’s an amazing ecosystem starting to play out to diffuse AI into the real world, taking on a variety of approaches that build on top of these frontier models or offer alternative visions that can credibly work as well. \n\nHere are just a few of the categories that seem to be working right now: \n\n* There’s an ecosystem of companies that will help enterprises and applied AI companies develop their own models tuned for specific use cases, and run the inference for them. This can drive additional performance gains and cost effective approaches to getting AI into workloads across different domains. \n\n* Applied AI companies that are delivering the end-user experience and business process tools necessary to actually driving enterprise adoption - including legal, IT, security, HR, customer support, coding, and more. These companies can work with any model and act as a routing layer, and deeply understand the enterprise workflow, can drive change management, actually get to the data necessary to work with, and more. \n\n* New labs are emerging that go deep in particular domains that are either not the focus areas of frontier labs or require a deep level of vertical expertise to stay ahead. Life sciences, financial services, healthcare, and more all have labs that will be able to bring completely new approaches to large enterprises across the economy.\n\n* There’s all new infrastructure emerging to run models and agents effectively, protect and govern how they operate, store and secure the data they work with, and help enterprises orchestrate their activities. Multiple layers of this stack all are being built up right now that will help drive enterprise adoption.  \n\n* New services firms that can actually drive the change management in enterprises necessary to the diffusion of AI. There will be hundreds or even thousands of new firms that emerge in lines of business or specific industries that can enable agents to be adopted.\n\nI’m probably even missing a few categories, but this is what an incredible healthy technology ecosystem looks like. \n\nWay too early to call the winning architectures, and in reality it’s going to be a heterogenous environment as all other tech markets have become. Very exciting.",
-      "translatedTitle": "如果你认为人工智能生态系统的价值只会惠及少数几家公司……",
-      "translatedBody": "如果你认为人工智能生态系统的价值只会流向少数几家公司，那么过去几个月已经改变了你对人工智能未来发展方向的认知。\n\n显而易见，前沿人工智能实验室将涌现出令人瞩目的创新和增长，它们将不断突破模型发展的极限。它们拥有强大的计算能力、庞大的收入来源和客户群、杰出的研究人员、庞大的数据管道等等，足以使其始终保持领先地位。\n\n与此同时，一个令人惊叹的生态系统正在形成，致力于将人工智能推广到现实世界。该生态系统采用多种方法，既有基于这些前沿模型构建的，也有提供同样可行的替代方案。\n\n以下列举几个目前看来行之有效的领域：\n\n* 一个由众多公司组成的生态系统，将帮助企业和应用人工智能公司开发针对特定用例优化的模型，并为其运行推理。这可以进一步提升性能，并以更具成本效益的方式将人工智能融入不同领域的工作负载。\n\n* 应用型人工智能公司正在提供最终用户体验和业务流程工具，以真正推动企业采用人工智能技术——涵盖法律、IT、安全、人力资源、客户支持、编码等领域。这些公司可以处理任何模型，并充当路由层，深入了解企业工作流程，推动变革管理，获取所需的数据等等。\n\n* 一些新兴实验室正在深入研究特定领域，这些领域要么并非前沿实验室的重点，要么需要深厚的垂直行业专业知识才能保持领先地位。生命科学、金融服务、医疗保健等领域都拥有这样的实验室，它们能够为整个经济领域的大型企业带来全新的方法。\n\n* 全新的基础设施正在涌现，用于高效运行模型和代理，保护和管理它们的运行方式，存储和保护它们处理的数据，并帮助企业协调其活动。目前，该技术栈的多个层级正在构建中，这将有助于推动企业采用人工智能技术。\n\n* 能够真正推动企业变革管理的新型服务公司，这些变革管理对于人工智能的普及至关重要。未来，各个业务领域或特定行业将涌现出成百上千家新公司，它们能够帮助企业采用人工智能代理。\n\n我可能遗漏了一些类别，但这展现了一个健康且前景广阔的技术生态系统。\n\n现在就断言哪种架构会胜出还为时过早，而且实际上，正如其他所有技术市场一样，人工智能生态系统将会呈现出多元化的特点。这令人无比兴奋。",
+      "originalTitle": "Incidentally, I’m very bullish on cybersecurity as one of the best benchmarks for s…",
+      "originalBody": "Incidentally, I’m very bullish on cybersecurity as one of the best benchmarks for superintelligence. The “IQ test” of software engineering.\n\nThe best engineers I’ve worked with in my career have usually had a deep background or interest in security.\n\nIt’s actually easy for a model to “one-shot an XYZ clone” and impress people on X. But that’s not a good test.\n\nFinding, patching, reversing, and exploiting require a cognitive skill that transcends programming languages, runtimes, frameworks… It demands true reasoning power from the model and “corner thinking”. Very, very few humans excel at this, let alone in ordinary day-to-day software writing.\n\nSeeing Kimi K3 do so well here bodes well for open models.",
+      "translatedTitle": "顺便说一句，我非常看好网络安全，认为它是衡量……的最佳基准之一。",
+      "translatedBody": "顺便一提，我非常看好网络安全，认为它是衡量超级智能的最佳标杆之一，堪称软件工程界的“智商测试”。\n\n我职业生涯中合作过的最优秀的工程师通常都拥有深厚的安全背景或对安全领域有着浓厚的兴趣。\n\n实际上，模型很容易就能“一击摧毁XYZ克隆程序”，并在X领域给人留下深刻印象。但这并非一个好的测试。\n\n发现、修补、逆向工程和利用漏洞需要超越编程语言、运行时环境和框架的认知能力……它要求模型具备真正的推理能力和“跳出固有思维”的能力。极少有人能做到这一点，更不用说在日常软件编写中了。\n\n看到Kimi K3在这方面表现出色，预示着开源模型的前景一片光明。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2078567715544121815",
-      "publishedAt": "2026-07-18T19:48:55.000Z",
-      "score": 82.3,
+      "sourceUrl": "https://x.com/rauchg/status/2078912929714356698",
+      "publishedAt": "2026-07-19T18:40:41.000Z",
+      "score": 174.68,
       "engagement": {
-        "likes": 327,
-        "retweets": 43,
-        "replies": 52
+        "likes": 82,
+        "retweets": 8,
+        "replies": 10
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -132,54 +47,107 @@
       "sourceType": "x"
     },
     {
-      "id": "2078702412085498087",
+      "id": "2078975602028106050",
       "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "我刚才在 ChatGPT Work 里口述的内容 > 好的，我收到了很多私信，我……",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：What I just dictated into ChatGPT Work > Okay, so I received a lot of DMs for, I did a call out for ChatGPT Work, bas…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "What I just dictated into ChatGPT Work > Okay, so I received a lot of DMs for, I di…",
-      "originalBody": "What I just dictated into ChatGPT Work\n\n> Okay, so I received a lot of DMs for, I did a call out for ChatGPT Work, basically early access beta group. I want you to go through all my DMs on Twitter and then just take all of them that mention ChatGPT Work. It's like a lot of them, thousands, and put them all in a spreadsheet. What I want in the spreadsheet is the name, I want the link to the the DM, so I can go back to it quickly. I want the post that they did, but remove any new lines, so it's just in a single cell. And then I want a column which is basically your assessment of what they're doing, right? So for example, if it's like sales, put sales, if it's marketing, put marketing, if it's design, put design. Come up with your own taxonomy for how to classify their work. I expect the taxonomy to have like, you know, roughly 8 to 12 labels maybe, total. And then also put a rating for, like, they normally have to describe what they're currently doing with ChatGPT Work, use that to put a rating in the fifth column on how sophisticated their workflow already is. We're gonna be selecting a cohort of different people of different levels of sophistication, so we're gonna be like taking, you know, maybe like a couple dozens from like, a high level of sophistication, we're gonna take in the middle of a cohort, and then like low level of sophistication, so we have good representation and can test new features and get good feedback from a diverse group at different levels of adoption. So create that spreadsheet, go through all my DMs. Good luck!",
-      "translatedTitle": "我刚才在 ChatGPT Work 里口述的内容 > 好的，我收到了很多私信，我……",
-      "translatedBody": "我刚才口述的内容是写给 ChatGPT Work 的\n\n> 好的，我收到了很多关于 ChatGPT Work 的私信，我之前发过一个招募信息，基本上就是招募早期测试用户。我希望你能查看我在 Twitter 上收到的所有私信，然后把所有提到 ChatGPT Work 的私信都整理到一个电子表格里。数量很多，大概有几千条。表格里需要包含姓名、私信链接（方便我快速找到）、他们发布的内容（但请去掉换行符，确保每条内容都在一个单元格里）。然后我需要一列，用来记录你对他们工作的评价，对吧？比如，如果是销售相关的，就写“销售”；如果是市场营销相关的，就写“市场营销”；如果是设计相关的，就写“设计”。你需要自己建立一个分类体系来对他们的工作进行分类。我希望这个分类体系大概包含 8 到 12 个标签。然后，还要给他们的工作流程成熟度打分，比如，他们通常需要描述自己目前使用 ChatGPT Work 的情况，我们可以用这些信息在第五列中给他们的工作流程成熟度打分。我们会选择不同成熟度水平的用户群体，比如从成熟度较高的用户中挑选几十个，从中等成熟度的用户中挑选一些，再从成熟度较低的用户中挑选一些，这样就能保证样本的代表性，方便我们测试新功能，并从不同使用水平的用户群体中获得反馈。所以，创建好这个表格，然后查看我所有的私信。祝你好运！",
+      "builder": "Guillermo Rauch",
+      "title": "感谢阿根廷🇦🇷再次全力以赴。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Thankful to 🇦🇷 Argentina for once again giving it all. Grit, passion, talent, faith. To Messi for proving he’s the…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Thankful to 🇦🇷 Argentina for once again giving it all.",
+      "originalBody": "Thankful to 🇦🇷 Argentina for once again giving it all. Grit, passion, talent, faith. To Messi for proving he’s the best ever. And to America 🇺🇸 for hosting such a wonderful event. Enhorabuena tíos 🇪🇸!",
+      "translatedTitle": "感谢阿根廷🇦🇷再次全力以赴。",
+      "translatedBody": "感谢阿根廷🇦🇷再次全力以赴。他们的毅力、激情、天赋和信念令人敬佩。感谢梅西证明他是史上最佳。也感谢美国🇺🇸举办了如此精彩的赛事。祝贺阿根廷🇪🇸！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2078702412085498087",
-      "publishedAt": "2026-07-19T04:44:10.000Z",
-      "score": 78.77,
+      "sourceUrl": "https://x.com/rauchg/status/2078975602028106050",
+      "publishedAt": "2026-07-19T22:49:43.000Z",
+      "score": 138.33,
       "engagement": {
-        "likes": 136,
-        "retweets": 1,
+        "likes": 1380,
+        "retweets": 23,
+        "replies": 91
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2078864191683969212",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "如果你想了解人工智能的扩散，这篇文章很不错。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Good post if you’re trying to understand AI diffusion. Progress driven by AI will ultimately be rate limited by its i…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Good post if you’re trying to understand AI diffusion.",
+      "originalBody": "Good post if you’re trying to understand AI diffusion. Progress driven by AI will ultimately be rate limited by its interaction with the real world. \n\nThe reason coding, for instance, has been adopted so quickly is you can write a near infinite amount of code, test it, and run it -and it can add value- without anyone in the outside world ever having to do anything differently. A single person, from a computer, can just make something work end-to-end differently.\n\nThis is not true for life sciences, where new drug development eventually needs to be tested for years. Doing a sale, which requires going back and forth with a prospect. Or even a contract, which has to be negotiated on the other side by your counterparty. \n\n“An AI will hand you a genuinely clever design for a jet turbine blade. It might be far more likely to work than anything your engineers came up with. It'll still probably fail, because that's the base rate at the edge of what anyone knows. The only way to find out is to build the blade and try to break it.\n\nThat's the real limit on learning, and it doesn't care how smart you are. Coming up with ideas was never the hard part. The hard part is how fast reality answers them.”\n\nIncidentally, this is why you need an applied AI that actually takes intelligence and makes it useful within the workflows of existing industries. Model outputs -alone- are not enough in most cases. You need to actually change the underlying workflows, and you need systems to deal with the realities of the real world feedback loops that are in these industries.\n\nThis is why there’s so much opportunity in the applied AI layer.",
+      "translatedTitle": "如果你想了解人工智能的扩散，这篇文章很不错。",
+      "translatedBody": "如果你想了解人工智能的普及，这篇文章很有帮助。人工智能驱动的进步最终会受到其与现实世界互动方式的限制。\n\n例如，编程之所以能如此迅速地被接受，是因为你可以编写几乎无限量的代码，进行测试和运行——而且它还能创造价值——而外部世界的任何人无需做出任何改变。一个人，通过电脑，就能让整个流程以不同的方式运行。\n\n但生命科学领域并非如此，新药研发最终需要数年的测试。销售也需要与潜在客户反复沟通。即使是合同，也需要对方进行谈判。\n\n“人工智能会给你提供一个非常巧妙的喷气式涡轮叶片设计方案。它可能比你的工程师想出的任何方案都更有可能成功。但它仍然很可能失败，因为这是人类认知极限的基准概率。唯一的验证方法就是制造出叶片并尝试将其破坏。\n\n这才是学习的真正极限，它并不关心你有多聪明。提出想法从来都不是难点。难点在于现实如何快速地回应这些想法。”\n\n顺便一提，这就是为什么你需要一种应用型人工智能，它能够将智能转化为现有行业工作流程中的实用功能。在大多数情况下，仅仅依靠模型输出是不够的。你需要真正改变底层工作流程，并且需要系统来应对这些行业中真实存在的反馈循环。\n\n这就是为什么应用型人工智能领域蕴藏着如此多的机会。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2078864191683969212",
+      "publishedAt": "2026-07-19T15:27:01.000Z",
+      "score": 81.19,
+      "engagement": {
+        "likes": 280,
+        "retweets": 34,
+        "replies": 32
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2078968158006939716",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "很多人误以为人工智能成本下降后，用于人工智能的支出也会减少……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：A lot of people make the mistake of thinking that when AI costs drop, that spend on AI drops with it. Usually the opp…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "A lot of people make the mistake of thinking that when AI costs drop, that spend on…",
+      "originalBody": "A lot of people make the mistake of thinking that when AI costs drop, that spend on AI drops with it. Usually the opposite happens. \n\nWhen you make AI cheaper, it will get consumed more. Because now you can afford to use for a wider of tasks than you did before. You start to write more code. You review more code for bugs and security. You run agents on large data sets you couldn’t process before. And so on.\n\nThus, for the foreseeable future, anything that lowers the cost of tokens will drive up inference demand.\n\nThis also gives you some insight also into why even open source business models work in AI. No one is running these models on their devices; they’re running them in infra. Great time to be one of those providers.",
+      "translatedTitle": "很多人误以为人工智能成本下降后，用于人工智能的支出也会减少……",
+      "translatedBody": "很多人误以为人工智能成本下降，对人工智能的投入也会随之减少。但通常情况恰恰相反。\n\n人工智能成本降低后，其应用范围反而会更广。因为现在你可以用它来处理比以前更广泛的任务。你会编写更多代码，审查更多代码中的漏洞和安全问题，并在以前无法处理的大型数据集上运行智能体等等。\n\n因此，在可预见的未来，任何降低代币成本的措施都会推高推理需求。\n\n这也解释了为什么即使是开源商业模式也能在人工智能领域取得成功。没有人会在自己的设备上运行这些模型，而是在基础设施中运行。对于这些基础设施提供商来说，现在正是好时机。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2078968158006939716",
+      "publishedAt": "2026-07-19T22:20:08.000Z",
+      "score": 80.32,
+      "engagement": {
+        "likes": 235,
+        "retweets": 20,
         "replies": 40
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Product Ships"
+        "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2078697631019303273",
+      "id": "2078803803659452624",
       "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "ChatGPT 的工作内容包括：✅ 创建和托管网站 ✅ 为您管理电子邮件 ✅ S…",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：ChatGPT Work is for ✅ Creating and hosting sites ✅ Managing your emails for you ✅ Summarizing mountains of documents…",
+      "builder": "Garry Tan",
+      "title": "Markdown 文件是通用的，可以保存数千年之久，这并不奇怪……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Markdown files are universal and will survive millennia Unsurprisingly they are a fantastic data format when the inte…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "ChatGPT Work is for ✅ Creating and hosting sites ✅ Managing your emails for you ✅ S…",
-      "originalBody": "ChatGPT Work is for\n\n✅ Creating and hosting sites\n✅ Managing your emails for you\n✅ Summarizing mountains of documents\n✅ Creating top-notch docs, sheet and slides\n\nAlready in your mobile app or on https://t.co/WtXdTqu9lT, included in Plus, Pro, Business and Enterprise plans",
-      "translatedTitle": "ChatGPT 的工作内容包括：✅ 创建和托管网站 ✅ 为您管理电子邮件 ✅ S…",
-      "translatedBody": "ChatGPT Work 的功能包括：\n\n✅ 创建和托管网站\n\n✅ 管理您的电子邮件\n\n✅ 汇总海量文档\n\n✅ 创建高质量的文档、表格和幻灯片\n\n这些功能已集成到您的移动应用或访问 https://t.co/WtXdTqu9lT，包含在 Plus、Pro、Business 和 Enterprise 套餐中。",
+      "originalTitle": "Markdown files are universal and will survive millennia Unsurprisingly they are a f…",
+      "originalBody": "Markdown files are universal and will survive millennia\n\nUnsurprisingly they are a fantastic data format when the intelligence stack is in flux at this extreme pace https://t.co/yV6nhMnekU",
+      "translatedTitle": "Markdown 文件是通用的，可以保存数千年之久，这并不奇怪……",
+      "translatedBody": "Markdown 文件是通用的，可以保存数千年。\n\n毫不奇怪，在信息技术栈以如此惊人的速度变化时，它们是一种绝佳的数据格式。https://t.co/yV6nhMnekU",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2078697631019303273",
-      "publishedAt": "2026-07-19T04:25:10.000Z",
-      "score": 65.49,
+      "sourceUrl": "https://x.com/garrytan/status/2078803803659452624",
+      "publishedAt": "2026-07-19T11:27:03.000Z",
+      "score": 60.45,
       "engagement": {
-        "likes": 1465,
-        "retweets": 68,
-        "replies": 266
+        "likes": 668,
+        "retweets": 54,
+        "replies": 82
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -187,26 +155,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2078481578779685245",
+      "id": "2078992778449850769",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "很明显，把关模式无法大规模应用。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：It’s fairly obvious that gate keeping models will not work at scale. Competing in AI is too economically and strategi…",
+      "title": "在一个拥有众多实力强劲的开源替代方案的世界里……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：In a world where there are strong open source alternatives that are only just behind the frontier models, you make yo…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "It’s fairly obvious that gate keeping models will not work at scale.",
-      "originalBody": "It’s fairly obvious that gate keeping models will not work at scale. \n\nCompeting in AI is too economically and strategically important for China at this point, and we’ve now crossed the rubicon where it’s clear that they can compete at near frontier levels. If this were even just 1 month ago and we saw kimi k3 our brains would be broken.\n\nThe solution to this isn’t to get more locked down and slow your own ecosystem. If that happens, you can guarantee that America loses the global battle (or just fights with more and more regulation to mixed success).\n\nThe solution is to -safely- ensure that you keep a high rate of progress and drive diffusion of the technology, build out infrastructure, enable US OSS, and more.",
-      "translatedTitle": "很明显，把关模式无法大规模应用。",
-      "translatedBody": "很明显，守门人模式无法大规模奏效。\n\n在人工智能领域，中国目前的经济和战略地位都至关重要，我们已经跨越了卢比孔河，他们显然已经具备了接近前沿水平的竞争力。如果这发生在一个月前，我们看到Kimi K3，肯定会震惊不已。\n\n解决之道并非加强管控，放慢自身生态系统的发展速度。如果这样做，美国必败无疑（或者只能通过不断加强监管勉强维持，收效甚微）。\n\n真正的解决方案是——稳妥地——确保自身保持高速发展，推动技术扩散，完善基础设施，支持美国开源软件（OSS）等等。",
+      "originalTitle": "In a world where there are strong open source alternatives that are only just behin…",
+      "originalBody": "In a world where there are strong open source alternatives that are only just behind the frontier models, you make yourself less secure and competitive by gatekeeping access to frontier model capabilities.\n\nIf you play this out, even if America could fully ban access to open source models, other ecosystems wouldn't have that ban and they'd have a leg up on access to those models. They could use them against us -or just use them to better defend themselves- and our own companies wouldn't be able to keep up.\n\nThe calculus of what you do about AI regulation simply must change to account for the fact that open weights models are far stronger than many expected.",
+      "translatedTitle": "在一个拥有众多实力强劲的开源替代方案的世界里……",
+      "translatedBody": "在一个开源替代方案实力仅次于前沿模型的世界里，如果你限制对前沿模型功能的访问，就会降低自身的安全性和竞争力。\n\n试想一下，即使美国能够完全禁止访问开源模型，其他生态系统也不会有这样的限制，它们在获取这些模型方面将占据优势。它们可以利用这些模型来对付我们——或者仅仅是为了更好地保护自己——而我们自己的公司将无法与之匹敌。\n\n你必须改变对人工智能监管的考量，以适应开源权重模型远超许多人预期的这一事实。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2078481578779685245",
-      "publishedAt": "2026-07-18T14:06:39.000Z",
-      "score": 57.71,
+      "sourceUrl": "https://x.com/levie/status/2078992778449850769",
+      "publishedAt": "2026-07-19T23:57:58.000Z",
+      "score": 54.91,
       "engagement": {
-        "likes": 366,
-        "retweets": 39,
-        "replies": 58
+        "likes": 232,
+        "retweets": 24,
+        "replies": 20
       },
       "matchedFocusAreas": [
         "Foundation Models"
@@ -214,26 +182,53 @@
       "sourceType": "x"
     },
     {
-      "id": "2078638568784994686",
+      "id": "2078830510177128481",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我和我8岁的女儿一起搭建了一个@ChatGPTapp网站，帮助她学习乘法……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：My 8-year-old and I built a @ChatGPTapp Site to help her learn the multiplication tables. She loves animals, so we: →…",
+      "builder": "Zara Zhang",
+      "title": "每当有人问我“我刚开始在社交媒体上发布内容……”",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Whenever someone asks me \"I'm just getting started with posting content on social media; what should I talk about?\" M…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "My 8-year-old and I built a @ChatGPTapp Site to help her learn the multiplication t…",
-      "originalBody": "My 8-year-old and I built a @ChatGPTapp Site to help her learn the multiplication tables.\n\nShe loves animals, so we:\n\n→ Used ChatGPT Images to generate the UI and characters\n→ Added some awesome music\n→ Even added a timed boss level\n\n📌 Play it here: https://t.co/sN7YBohW5R https://t.co/jEzmQjgBUe https://t.co/ghLmCVRmkk",
-      "translatedTitle": "我和我8岁的女儿一起搭建了一个@ChatGPTapp网站，帮助她学习乘法……",
-      "translatedBody": "我和我8岁的女儿一起搭建了一个@ChatGPTapp网站，帮助她学习乘法表。\n\n她很喜欢动物，所以我们：\n\n→ 使用ChatGPT图片生成用户界面和角色\n\n→ 添加了一些很棒的音乐\n\n→ 甚至还添加了一个限时挑战关卡\n\n📌 点击这里体验：https://t.co/sN7YBohW5R https://t.co/jEzmQjgBUe https://t.co/ghLmCVRmkk",
+      "originalTitle": "Whenever someone asks me \"I'm just getting started with posting content on social m…",
+      "originalBody": "Whenever someone asks me \"I'm just getting started with posting content on social media; what should I talk about?\"\n\nMy answer is: What are the top 3 questions that you get asked most frequently by friends/acquaintances/colleagues? Turn those answers into videos/posts. Just say it like how you said it to them in real life. That is your positioning.\n\nIf you have repeatedly said something for >3 times, it's worth turning into a video\n\nOne of my initial motivations for posting on social media was because I was tired of repeating myself in real life",
+      "translatedTitle": "每当有人问我“我刚开始在社交媒体上发布内容……”",
+      "translatedBody": "每当有人问我“我刚开始在社交媒体上发内容，应该写些什么呢？”\n\n我的回答是：朋友/熟人/同事最常问你的三个问题是什么？把这些答案做成视频/帖子。就像你在现实生活中跟他们说的那样。这就是你的定位。\n\n如果你已经重复说过某件事超过三次，那就值得把它做成视频。\n\n我最初开始在社交媒体上发帖的动机之一，就是因为我厌倦了在现实生活中重复同样的话。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2078638568784994686",
-      "publishedAt": "2026-07-19T00:30:28.000Z",
-      "score": 54.17,
+      "sourceUrl": "https://x.com/zarazhangrui/status/2078830510177128481",
+      "publishedAt": "2026-07-19T13:13:11.000Z",
+      "score": 53.5,
       "engagement": {
-        "likes": 221,
-        "retweets": 8,
-        "replies": 21
+        "likes": 201,
+        "retweets": 7,
+        "replies": 14
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2078835308905578660",
+      "type": "tweet",
+      "builder": "Zara Zhang",
+      "title": "我们需要逐渐接受代码/软件现在可以被随意丢弃的观念。例如……",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We need to get used to the idea that code/software can now be disposable Some examples (all are discarded after usage…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "We need to get used to the idea that code/software can now be disposable Some examp…",
+      "originalBody": "We need to get used to the idea that code/software can now be disposable\n\nSome examples (all are discarded after usage):\n1. Creating design playgrounds/modals for yourself to fine-tune the look and feel of a design\n2. Creating HTML pages to help you understand the code\n3. Spinning up a throwaway dashboard to inspect something once",
+      "translatedTitle": "我们需要逐渐接受代码/软件现在可以被随意丢弃的观念。例如……",
+      "translatedBody": "我们需要逐渐接受代码/软件可以一次性使用的理念。\n\n以下是一些示例（所有示例在使用后都会被丢弃）：\n\n1. 创建设计环境/模态框，以便微调设计的外观和风格。\n\n2. 创建 HTML 页面，帮助理解代码。\n\n3. 搭建一个临时仪表盘，用于一次性检查某些内容。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/zarazhangrui/status/2078835308905578660",
+      "publishedAt": "2026-07-19T13:32:15.000Z",
+      "score": 53,
+      "engagement": {
+        "likes": 145,
+        "retweets": 13,
+        "replies": 29
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -242,9 +237,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-07-19T07:08:51.057Z",
-    "totalCandidates": 23,
-    "textQualifiedCandidates": 16,
+    "upstreamGeneratedAt": "2026-07-20T07:22:43.172Z",
+    "totalCandidates": 29,
+    "textQualifiedCandidates": 18,
     "selectedTweets": 8
   }
 }
