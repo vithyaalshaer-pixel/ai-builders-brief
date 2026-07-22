@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-21",
-  "generatedAt": "2026-07-21T03:13:55.230Z",
+  "date": "2026-07-22",
+  "generatedAt": "2026-07-22T02:56:54.119Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-07-21",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 29 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-07-22",
+  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 29 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,111 +15,118 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
+    },
+    {
+      "slug": "product-ships",
+      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2078912929714356698",
+      "id": "2079411861150429402",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "@a1zha 在 RLM 论文中有一篇非常值得关注的轨迹比较分析……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：very notable trajectory comparison writeup here buried in the RLM paper from @a1zhang and @lateinteraction. an open s…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "very notable trajectory comparison writeup here buried in the RLM paper from @a1zha…",
+      "originalBody": "very notable trajectory comparison writeup here buried in the RLM paper from @a1zhang and @lateinteraction.\n\nan open secret of \"frontier\" model training is that even without training on test, you can basically cheat by training on test lookalikes, enabling you to goalseek almost any benchmark number you want.\n\nhowever when they are released open weights, 99% of the time the norm is that you do not get the datasets/rlenvs that would easily show you if someone was training on Temu Tbench, so there is plausible deniability. Alex and Omar discuss applying standard NLP distance metrics on hidden trajectories. There's no ultimate solution here, but they have some prelim explorations. It happens to support the finding that RLMs can generalize to unseen tasks that share latent structure observed in training.",
+      "translatedTitle": "@a1zha 在 RLM 论文中有一篇非常值得关注的轨迹比较分析……",
+      "translatedBody": "@a1zhang 和 @lateinteraction 在 RLM 论文中撰写了一篇非常值得关注的轨迹比较文章。\n\n“前沿”模型训练的一个公开秘密是，即使不使用测试集进行训练，也可以通过在与测试集相似的数据集上进行训练来作弊，从而达到几乎任何你想要的基准测试分数。\n\n然而，当模型公开权重时，99% 的情况下你都无法获得那些能够轻易证明模型是否在 Temu Tbench 上训练的数据集/随机环境，因此存在合理的否认机制。Alex 和 Omar 讨论了将标准的 NLP 距离度量应用于隐藏轨迹。虽然没有最终的解决方案，但他们进行了一些初步的探索。这恰好支持了 RLM 可以泛化到与训练中观察到的潜在结构相似的未见过的任务这一发现。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2079411861150429402",
+      "publishedAt": "2026-07-21T03:43:15.000Z",
+      "score": 174.59,
+      "engagement": {
+        "likes": 62,
+        "retweets": 7,
+        "replies": 13
+      },
+      "matchedFocusAreas": [
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2079274102129304026",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "顺便说一句，我非常看好网络安全，认为它是衡量……的最佳基准之一。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Incidentally, I’m very bullish on cybersecurity as one of the best benchmarks for superintelligence. The “IQ test” of…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Incidentally, I’m very bullish on cybersecurity as one of the best benchmarks for s…",
-      "originalBody": "Incidentally, I’m very bullish on cybersecurity as one of the best benchmarks for superintelligence. The “IQ test” of software engineering.\n\nThe best engineers I’ve worked with in my career have usually had a deep background or interest in security.\n\nIt’s actually easy for a model to “one-shot an XYZ clone” and impress people on X. But that’s not a good test.\n\nFinding, patching, reversing, and exploiting require a cognitive skill that transcends programming languages, runtimes, frameworks… It demands true reasoning power from the model and “corner thinking”. Very, very few humans excel at this, let alone in ordinary day-to-day software writing.\n\nSeeing Kimi K3 do so well here bodes well for open models.",
-      "translatedTitle": "顺便说一句，我非常看好网络安全，认为它是衡量……的最佳基准之一。",
-      "translatedBody": "顺便一提，我非常看好网络安全，认为它是衡量超级智能的最佳标杆之一，堪称软件工程界的“智商测试”。\n\n我职业生涯中合作过的最优秀的工程师通常都拥有深厚的安全背景或对安全领域有着浓厚的兴趣。\n\n实际上，模型很容易就能“一击摧毁XYZ克隆程序”，并在X领域给人留下深刻印象。但这并非一个好的测试。\n\n发现、修补、逆向工程和利用漏洞需要超越编程语言、运行时环境和框架的认知能力……它要求模型具备真正的推理能力和“跳出固有思维”的能力。极少有人能做到这一点，更不用说在日常软件编写中了。\n\n看到Kimi K3在这方面表现出色，预示着开源模型的前景一片光明。",
+      "title": "人工智能给我们最大的启示是：一切皆代码。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code.…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "The big lesson from AI is that everything is code.",
+      "originalBody": "The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code. Excel automation? Code. The universe? Probably made of code too.",
+      "translatedTitle": "人工智能给我们最大的启示是：一切皆代码。",
+      "translatedBody": "人工智能带给我们的最大启示是：万物皆代码。幻灯片是代码。设计是代码。炫酷的宣传视频？代码。Excel自动化？代码。宇宙？或许也是由代码构成的。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2078912929714356698",
-      "publishedAt": "2026-07-19T18:40:41.000Z",
-      "score": 174.68,
+      "sourceUrl": "https://x.com/rauchg/status/2079274102129304026",
+      "publishedAt": "2026-07-20T18:35:51.000Z",
+      "score": 169.97,
       "engagement": {
-        "likes": 82,
-        "retweets": 8,
-        "replies": 10
+        "likes": 4300,
+        "retweets": 400,
+        "replies": 328
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
+        "Coding Agents"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2078975602028106050",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "感谢阿根廷🇦🇷再次全力以赴。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Thankful to 🇦🇷 Argentina for once again giving it all. Grit, passion, talent, faith. To Messi for proving he’s the…",
-      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Thankful to 🇦🇷 Argentina for once again giving it all.",
-      "originalBody": "Thankful to 🇦🇷 Argentina for once again giving it all. Grit, passion, talent, faith. To Messi for proving he’s the best ever. And to America 🇺🇸 for hosting such a wonderful event. Enhorabuena tíos 🇪🇸!",
-      "translatedTitle": "感谢阿根廷🇦🇷再次全力以赴。",
-      "translatedBody": "感谢阿根廷🇦🇷再次全力以赴。他们的毅力、激情、天赋和信念令人敬佩。感谢梅西证明他是史上最佳。也感谢美国🇺🇸举办了如此精彩的赛事。祝贺阿根廷🇪🇸！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2078975602028106050",
-      "publishedAt": "2026-07-19T22:49:43.000Z",
-      "score": 138.33,
-      "engagement": {
-        "likes": 1380,
-        "retweets": 23,
-        "replies": 91
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2078864191683969212",
+      "id": "2079402164988895293",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "如果你想了解人工智能的扩散，这篇文章很不错。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Good post if you’re trying to understand AI diffusion. Progress driven by AI will ultimately be rate limited by its i…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Good post if you’re trying to understand AI diffusion.",
-      "originalBody": "Good post if you’re trying to understand AI diffusion. Progress driven by AI will ultimately be rate limited by its interaction with the real world. \n\nThe reason coding, for instance, has been adopted so quickly is you can write a near infinite amount of code, test it, and run it -and it can add value- without anyone in the outside world ever having to do anything differently. A single person, from a computer, can just make something work end-to-end differently.\n\nThis is not true for life sciences, where new drug development eventually needs to be tested for years. Doing a sale, which requires going back and forth with a prospect. Or even a contract, which has to be negotiated on the other side by your counterparty. \n\n“An AI will hand you a genuinely clever design for a jet turbine blade. It might be far more likely to work than anything your engineers came up with. It'll still probably fail, because that's the base rate at the edge of what anyone knows. The only way to find out is to build the blade and try to break it.\n\nThat's the real limit on learning, and it doesn't care how smart you are. Coming up with ideas was never the hard part. The hard part is how fast reality answers them.”\n\nIncidentally, this is why you need an applied AI that actually takes intelligence and makes it useful within the workflows of existing industries. Model outputs -alone- are not enough in most cases. You need to actually change the underlying workflows, and you need systems to deal with the realities of the real world feedback loops that are in these industries.\n\nThis is why there’s so much opportunity in the applied AI layer.",
-      "translatedTitle": "如果你想了解人工智能的扩散，这篇文章很不错。",
-      "translatedBody": "如果你想了解人工智能的普及，这篇文章很有帮助。人工智能驱动的进步最终会受到其与现实世界互动方式的限制。\n\n例如，编程之所以能如此迅速地被接受，是因为你可以编写几乎无限量的代码，进行测试和运行——而且它还能创造价值——而外部世界的任何人无需做出任何改变。一个人，通过电脑，就能让整个流程以不同的方式运行。\n\n但生命科学领域并非如此，新药研发最终需要数年的测试。销售也需要与潜在客户反复沟通。即使是合同，也需要对方进行谈判。\n\n“人工智能会给你提供一个非常巧妙的喷气式涡轮叶片设计方案。它可能比你的工程师想出的任何方案都更有可能成功。但它仍然很可能失败，因为这是人类认知极限的基准概率。唯一的验证方法就是制造出叶片并尝试将其破坏。\n\n这才是学习的真正极限，它并不关心你有多聪明。提出想法从来都不是难点。难点在于现实如何快速地回应这些想法。”\n\n顺便一提，这就是为什么你需要一种应用型人工智能，它能够将智能转化为现有行业工作流程中的实用功能。在大多数情况下，仅仅依靠模型输出是不够的。你需要真正改变底层工作流程，并且需要系统来应对这些行业中真实存在的反馈循环。\n\n这就是为什么应用型人工智能领域蕴藏着如此多的机会。",
+      "title": "多模型智能体系统显然是未来发展的方向。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Multi-model agentic systems clearly are the future. Great post by cursor. Their new research shows that a frontier mo…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Multi-model agentic systems clearly are the future.",
+      "originalBody": "Multi-model agentic systems clearly are the future. Great post by cursor. Their new research shows that a frontier model as a planner and orchestrator with a workhorse cheaper model can materially lower the cost of total tokens on a project, resulting in a 15X cost improvement.\n\n“Few moments in a large task genuinely require frontier intelligence, such as the original decomposition, the design decisions, and certain trade-offs. Once a frontier planner has collapsed the ambiguity into a detailed, explicit instruction, less expensive models simply have to follow it.”\n\nThis is increasingly becoming the core design pattern of complex agents, because the tokens used on large amounts of work on many tasks don’t require the same intelligence threshold as the planning step. By routing to different models based on where you are in the task, you get much greater efficiency overall. \n\nThis provides the template for where the applied layer in AI will differentiate. You can only drive this efficiency if you know the domain well and have the ability to work with multiple model tiers; companies that can do this will across coding, finance, legal, healthcare, life sciences, and other critical spaces will be in a strong position to get larger workloads that would otherwise be too expensive for the customer to deploy.",
+      "translatedTitle": "多模型智能体系统显然是未来发展的方向。",
+      "translatedBody": "多模型智能体系统显然代表着未来。cursor 的文章写得真好。他们的最新研究表明，将前沿模型作为规划器和协调器，并搭配一个成本更低的实用模型，可以显著降低项目的总代币成本，从而实现 15 倍的成本优化。\n\n“大型任务中真正需要前沿智能的时刻寥寥无几，例如初始分解、设计决策以及某些权衡取舍。一旦前沿规划器将模糊性转化为详细明确的指令，成本更低的模型只需遵循即可。”\n\n这正日益成为复杂智能体的核心设计模式，因为处理大量任务所需的代币并不需要像规划步骤那样高的智能门槛。通过根据任务所处阶段路由到不同的模型，可以显著提高整体效率。\n\n这为人工智能应用层如何实现差异化提供了模板。只有深入了解领域并具备使用多层模型的能力，才能真正提升效率。能够在编码、金融、法律、医疗保健、生命科学和其他关键领域做到这一点的公司，将处于有利地位，能够获得更大的工作负载，而这些工作负载对于客户来说部署起来成本太高。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2078864191683969212",
-      "publishedAt": "2026-07-19T15:27:01.000Z",
-      "score": 81.19,
+      "sourceUrl": "https://x.com/levie/status/2079402164988895293",
+      "publishedAt": "2026-07-21T03:04:44.000Z",
+      "score": 105.2,
       "engagement": {
-        "likes": 280,
-        "retweets": 34,
-        "replies": 32
+        "likes": 206,
+        "retweets": 29,
+        "replies": 37
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models"
+        "Foundation Models",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2078968158006939716",
+      "id": "2079257646939742542",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "很多人误以为人工智能成本下降后，用于人工智能的支出也会减少……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：A lot of people make the mistake of thinking that when AI costs drop, that spend on AI drops with it. Usually the opp…",
+      "builder": "Peter Yang",
+      "title": "使用一名代理人完成工作，再使用另一名代理人根据评分标准进行审核。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Use one agent to do the work and another to review it against a rubric. @trq212 explains how this works for video sho…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "A lot of people make the mistake of thinking that when AI costs drop, that spend on…",
-      "originalBody": "A lot of people make the mistake of thinking that when AI costs drop, that spend on AI drops with it. Usually the opposite happens. \n\nWhen you make AI cheaper, it will get consumed more. Because now you can afford to use for a wider of tasks than you did before. You start to write more code. You review more code for bugs and security. You run agents on large data sets you couldn’t process before. And so on.\n\nThus, for the foreseeable future, anything that lowers the cost of tokens will drive up inference demand.\n\nThis also gives you some insight also into why even open source business models work in AI. No one is running these models on their devices; they’re running them in infra. Great time to be one of those providers.",
-      "translatedTitle": "很多人误以为人工智能成本下降后，用于人工智能的支出也会减少……",
-      "translatedBody": "很多人误以为人工智能成本下降，对人工智能的投入也会随之减少。但通常情况恰恰相反。\n\n人工智能成本降低后，其应用范围反而会更广。因为现在你可以用它来处理比以前更广泛的任务。你会编写更多代码，审查更多代码中的漏洞和安全问题，并在以前无法处理的大型数据集上运行智能体等等。\n\n因此，在可预见的未来，任何降低代币成本的措施都会推高推理需求。\n\n这也解释了为什么即使是开源商业模式也能在人工智能领域取得成功。没有人会在自己的设备上运行这些模型，而是在基础设施中运行。对于这些基础设施提供商来说，现在正是好时机。",
+      "originalTitle": "Use one agent to do the work and another to review it against a rubric.",
+      "originalBody": "Use one agent to do the work and another to review it against a rubric.\n\n@trq212 explains how this works for video shorts:\n\n“For something like, ‘Is this a good video short or not?’ you don’t have a deterministic answer.\n\nYou should have a separate verification agent read a rubric, review the short, and give feedback.\n\nWe call it self-preferential bias. When a model prefers its own output, it’s going to be more lenient at verifying it.”\n\n📌 Watch the full episode here: https://t.co/mMrt4D5qU7",
+      "translatedTitle": "使用一名代理人完成工作，再使用另一名代理人根据评分标准进行审核。",
+      "translatedBody": "使用一个智能体完成工作，再用另一个智能体根据评分标准进行审核。\n\n@trq212 解释了这种方法如何应用于短视频：\n\n“对于‘这段短视频好不好？’这类问题，你无法得到确定性的答案。\n\n你应该让一个独立的验证智能体阅读评分标准，审核短视频，并给出反馈。\n\n我们称之为自我偏好偏差。当模型更倾向于自己的输出时，它在验证时会更加宽容。”\n\n📌 点击此处观看完整视频：https://t.co/mMrt4D5qU7",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2078968158006939716",
-      "publishedAt": "2026-07-19T22:20:08.000Z",
-      "score": 80.32,
+      "sourceUrl": "https://x.com/petergyang/status/2079257646939742542",
+      "publishedAt": "2026-07-20T17:30:28.000Z",
+      "score": 71.55,
       "engagement": {
-        "likes": 235,
-        "retweets": 20,
-        "replies": 40
+        "likes": 47,
+        "retweets": 5,
+        "replies": 3
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -128,26 +135,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2078803803659452624",
+      "id": "2079369233218306285",
       "type": "tweet",
       "builder": "Garry Tan",
-      "title": "Markdown 文件是通用的，可以保存数千年之久，这并不奇怪……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Markdown files are universal and will survive millennia Unsurprisingly they are a fantastic data format when the inte…",
+      "title": "资产扣押税只会让加州更加贫困，SEIU-UHW应该……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The asset seizure tax will only make California more impoverished SEIU-UHW should be ashamed of itself for the naked…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Markdown files are universal and will survive millennia Unsurprisingly they are a f…",
-      "originalBody": "Markdown files are universal and will survive millennia\n\nUnsurprisingly they are a fantastic data format when the intelligence stack is in flux at this extreme pace https://t.co/yV6nhMnekU",
-      "translatedTitle": "Markdown 文件是通用的，可以保存数千年之久，这并不奇怪……",
-      "translatedBody": "Markdown 文件是通用的，可以保存数千年。\n\n毫不奇怪，在信息技术栈以如此惊人的速度变化时，它们是一种绝佳的数据格式。https://t.co/yV6nhMnekU",
+      "originalTitle": "The asset seizure tax will only make California more impoverished SEIU-UHW should b…",
+      "originalBody": "The asset seizure tax will only make California more impoverished\n\nSEIU-UHW should be ashamed of itself for the naked cash grab for their own personal benefit https://t.co/wfG9MyVpzc",
+      "translatedTitle": "资产扣押税只会让加州更加贫困，SEIU-UHW应该……",
+      "translatedBody": "资产扣押税只会让加州更加贫困。\n\nSEIU-UHW工会应该为他们赤裸裸地为了自身利益而敛财的行为感到羞耻。https://t.co/wfG9MyVpzc",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2078803803659452624",
-      "publishedAt": "2026-07-19T11:27:03.000Z",
-      "score": 60.45,
+      "sourceUrl": "https://x.com/garrytan/status/2079369233218306285",
+      "publishedAt": "2026-07-21T00:53:52.000Z",
+      "score": 54.32,
       "engagement": {
-        "likes": 668,
-        "retweets": 54,
-        "replies": 82
+        "likes": 225,
+        "retweets": 16,
+        "replies": 13
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -155,53 +162,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2078992778449850769",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "在一个拥有众多实力强劲的开源替代方案的世界里……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：In a world where there are strong open source alternatives that are only just behind the frontier models, you make yo…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "In a world where there are strong open source alternatives that are only just behin…",
-      "originalBody": "In a world where there are strong open source alternatives that are only just behind the frontier models, you make yourself less secure and competitive by gatekeeping access to frontier model capabilities.\n\nIf you play this out, even if America could fully ban access to open source models, other ecosystems wouldn't have that ban and they'd have a leg up on access to those models. They could use them against us -or just use them to better defend themselves- and our own companies wouldn't be able to keep up.\n\nThe calculus of what you do about AI regulation simply must change to account for the fact that open weights models are far stronger than many expected.",
-      "translatedTitle": "在一个拥有众多实力强劲的开源替代方案的世界里……",
-      "translatedBody": "在一个开源替代方案实力仅次于前沿模型的世界里，如果你限制对前沿模型功能的访问，就会降低自身的安全性和竞争力。\n\n试想一下，即使美国能够完全禁止访问开源模型，其他生态系统也不会有这样的限制，它们在获取这些模型方面将占据优势。它们可以利用这些模型来对付我们——或者仅仅是为了更好地保护自己——而我们自己的公司将无法与之匹敌。\n\n你必须改变对人工智能监管的考量，以适应开源权重模型远超许多人预期的这一事实。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2078992778449850769",
-      "publishedAt": "2026-07-19T23:57:58.000Z",
-      "score": 54.91,
-      "engagement": {
-        "likes": 232,
-        "retweets": 24,
-        "replies": 20
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2078830510177128481",
+      "id": "2079409165424799889",
       "type": "tweet",
       "builder": "Zara Zhang",
-      "title": "每当有人问我“我刚开始在社交媒体上发布内容……”",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Whenever someone asks me \"I'm just getting started with posting content on social media; what should I talk about?\" M…",
+      "title": "如果我今天招聘，我会这样安排面试流程：第一轮……",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If I were to hire today, this is how I would structure the interview process: Round 1: in-person & no AI allowed; tes…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Whenever someone asks me \"I'm just getting started with posting content on social m…",
-      "originalBody": "Whenever someone asks me \"I'm just getting started with posting content on social media; what should I talk about?\"\n\nMy answer is: What are the top 3 questions that you get asked most frequently by friends/acquaintances/colleagues? Turn those answers into videos/posts. Just say it like how you said it to them in real life. That is your positioning.\n\nIf you have repeatedly said something for >3 times, it's worth turning into a video\n\nOne of my initial motivations for posting on social media was because I was tired of repeating myself in real life",
-      "translatedTitle": "每当有人问我“我刚开始在社交媒体上发布内容……”",
-      "translatedBody": "每当有人问我“我刚开始在社交媒体上发内容，应该写些什么呢？”\n\n我的回答是：朋友/熟人/同事最常问你的三个问题是什么？把这些答案做成视频/帖子。就像你在现实生活中跟他们说的那样。这就是你的定位。\n\n如果你已经重复说过某件事超过三次，那就值得把它做成视频。\n\n我最初开始在社交媒体上发帖的动机之一，就是因为我厌倦了在现实生活中重复同样的话。",
+      "originalTitle": "If I were to hire today, this is how I would structure the interview process: Round…",
+      "originalBody": "If I were to hire today, this is how I would structure the interview process:\n\nRound 1: in-person & no AI allowed; test domain expertise and knowledge on the fly\n\nRound 2: a project that must be done with AI (impossible to complete without AI). Candidate assessed not just on the result but also the chat transcript with agents",
+      "translatedTitle": "如果我今天招聘，我会这样安排面试流程：第一轮……",
+      "translatedBody": "如果我今天招聘，我会这样安排面试流程：\n\n第一轮：现场面试，不允许使用人工智能；考察应聘者在特定领域的专业知识和技能。\n\n第二轮：一个必须使用人工智能完成的项目（没有人工智能无法完成）。评估标准不仅包括项目结果，还包括与人工智能的聊天记录。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2078830510177128481",
-      "publishedAt": "2026-07-19T13:13:11.000Z",
-      "score": 53.5,
+      "sourceUrl": "https://x.com/zarazhangrui/status/2079409165424799889",
+      "publishedAt": "2026-07-21T03:32:33.000Z",
+      "score": 53.82,
       "engagement": {
-        "likes": 201,
-        "retweets": 7,
-        "replies": 14
+        "likes": 154,
+        "retweets": 8,
+        "replies": 36
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -209,26 +189,53 @@
       "sourceType": "x"
     },
     {
-      "id": "2078835308905578660",
+      "id": "2079225776545968166",
       "type": "tweet",
       "builder": "Zara Zhang",
-      "title": "我们需要逐渐接受代码/软件现在可以被随意丢弃的观念。例如……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We need to get used to the idea that code/software can now be disposable Some examples (all are discarded after usage…",
+      "title": "现在基本上有两种类型的公司。",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：There are basically two kinds of companies now. The ones built before coding agents showed up, scrambling to retrofit…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "We need to get used to the idea that code/software can now be disposable Some examp…",
-      "originalBody": "We need to get used to the idea that code/software can now be disposable\n\nSome examples (all are discarded after usage):\n1. Creating design playgrounds/modals for yourself to fine-tune the look and feel of a design\n2. Creating HTML pages to help you understand the code\n3. Spinning up a throwaway dashboard to inspect something once",
-      "translatedTitle": "我们需要逐渐接受代码/软件现在可以被随意丢弃的观念。例如……",
-      "translatedBody": "我们需要逐渐接受代码/软件可以一次性使用的理念。\n\n以下是一些示例（所有示例在使用后都会被丢弃）：\n\n1. 创建设计环境/模态框，以便微调设计的外观和风格。\n\n2. 创建 HTML 页面，帮助理解代码。\n\n3. 搭建一个临时仪表盘，用于一次性检查某些内容。",
+      "originalTitle": "There are basically two kinds of companies now.",
+      "originalBody": "There are basically two kinds of companies now. The ones built before coding agents showed up, scrambling to retrofit. And the ones founded after. \n\nThe second type is different from day one:\n- Teams under ten people because they actually don't need more\n- Work organized by projects, not departments\n- Each person closes their own loop\n- Almost no internal meetings",
+      "translatedTitle": "现在基本上有两种类型的公司。",
+      "translatedBody": "现在基本上有两种类型的公司。一种是在代码代理出现之前成立的，现在只能仓促地进行改造；另一种是在代码代理出现之后成立的。\n\n第二种公司从一开始就与众不同：\n\n- 团队人数少于十人，因为他们实际上并不需要更多人\n\n- 工作按项目而非部门组织\n\n- 每个人都负责完成自己的工作\n\n- 几乎没有内部会议",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2078835308905578660",
-      "publishedAt": "2026-07-19T13:32:15.000Z",
-      "score": 53,
+      "sourceUrl": "https://x.com/zarazhangrui/status/2079225776545968166",
+      "publishedAt": "2026-07-20T15:23:49.000Z",
+      "score": 53.05,
       "engagement": {
-        "likes": 145,
+        "likes": 162,
         "retweets": 13,
-        "replies": 29
+        "replies": 19
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2079105479125741675",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "这是一个只持续了几分钟的漏洞，我在自己的账号上遇到了……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：this was a bug that was only live for a few minutes, ran into it on my personal account while doing some late night c…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "this was a bug that was only live for a few minutes, ran into it on my personal acc…",
+      "originalBody": "this was a bug that was only live for a few minutes, ran into it on my personal account while doing some late night coding though",
+      "translatedTitle": "这是一个只持续了几分钟的漏洞，我在自己的账号上遇到了……",
+      "translatedBody": "这个漏洞只存在了几分钟，我在深夜用个人账号写代码的时候遇到了。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2079105479125741675",
+      "publishedAt": "2026-07-20T07:25:48.000Z",
+      "score": 51.33,
+      "engagement": {
+        "likes": 124,
+        "retweets": 0,
+        "replies": 21
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -237,9 +244,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-07-20T07:22:43.172Z",
+    "upstreamGeneratedAt": "2026-07-21T07:10:35.704Z",
     "totalCandidates": 29,
-    "textQualifiedCandidates": 18,
+    "textQualifiedCandidates": 13,
     "selectedTweets": 8
   }
 }
