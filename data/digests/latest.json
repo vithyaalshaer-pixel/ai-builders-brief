@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-22",
-  "generatedAt": "2026-07-22T02:56:54.119Z",
+  "date": "2026-07-23",
+  "generatedAt": "2026-07-23T03:18:58.586Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-07-22",
-  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 29 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-07-23",
+  "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 35 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,110 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2079411861150429402",
+      "id": "2079661132302995790",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "@a1zha 在 RLM 论文中有一篇非常值得关注的轨迹比较分析……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：very notable trajectory comparison writeup here buried in the RLM paper from @a1zhang and @lateinteraction. an open s…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "very notable trajectory comparison writeup here buried in the RLM paper from @a1zha…",
-      "originalBody": "very notable trajectory comparison writeup here buried in the RLM paper from @a1zhang and @lateinteraction.\n\nan open secret of \"frontier\" model training is that even without training on test, you can basically cheat by training on test lookalikes, enabling you to goalseek almost any benchmark number you want.\n\nhowever when they are released open weights, 99% of the time the norm is that you do not get the datasets/rlenvs that would easily show you if someone was training on Temu Tbench, so there is plausible deniability. Alex and Omar discuss applying standard NLP distance metrics on hidden trajectories. There's no ultimate solution here, but they have some prelim explorations. It happens to support the finding that RLMs can generalize to unseen tasks that share latent structure observed in training.",
-      "translatedTitle": "@a1zha 在 RLM 论文中有一篇非常值得关注的轨迹比较分析……",
-      "translatedBody": "@a1zhang 和 @lateinteraction 在 RLM 论文中撰写了一篇非常值得关注的轨迹比较文章。\n\n“前沿”模型训练的一个公开秘密是，即使不使用测试集进行训练，也可以通过在与测试集相似的数据集上进行训练来作弊，从而达到几乎任何你想要的基准测试分数。\n\n然而，当模型公开权重时，99% 的情况下你都无法获得那些能够轻易证明模型是否在 Temu Tbench 上训练的数据集/随机环境，因此存在合理的否认机制。Alex 和 Omar 讨论了将标准的 NLP 距离度量应用于隐藏轨迹。虽然没有最终的解决方案，但他们进行了一些初步的探索。这恰好支持了 RLM 可以泛化到与训练中观察到的潜在结构相似的未见过的任务这一发现。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2079411861150429402",
-      "publishedAt": "2026-07-21T03:43:15.000Z",
-      "score": 174.59,
-      "engagement": {
-        "likes": 62,
-        "retweets": 7,
-        "replies": 13
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2079274102129304026",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "人工智能给我们最大的启示是：一切皆代码。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code.…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The big lesson from AI is that everything is code.",
-      "originalBody": "The big lesson from AI is that everything is code. A slide deck is code. Design is code. That cool promo video? Code. Excel automation? Code. The universe? Probably made of code too.",
-      "translatedTitle": "人工智能给我们最大的启示是：一切皆代码。",
-      "translatedBody": "人工智能带给我们的最大启示是：万物皆代码。幻灯片是代码。设计是代码。炫酷的宣传视频？代码。Excel自动化？代码。宇宙？或许也是由代码构成的。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2079274102129304026",
-      "publishedAt": "2026-07-20T18:35:51.000Z",
-      "score": 169.97,
-      "engagement": {
-        "likes": 4300,
-        "retweets": 400,
-        "replies": 328
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2079402164988895293",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "多模型智能体系统显然是未来发展的方向。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Multi-model agentic systems clearly are the future. Great post by cursor. Their new research shows that a frontier mo…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Multi-model agentic systems clearly are the future.",
-      "originalBody": "Multi-model agentic systems clearly are the future. Great post by cursor. Their new research shows that a frontier model as a planner and orchestrator with a workhorse cheaper model can materially lower the cost of total tokens on a project, resulting in a 15X cost improvement.\n\n“Few moments in a large task genuinely require frontier intelligence, such as the original decomposition, the design decisions, and certain trade-offs. Once a frontier planner has collapsed the ambiguity into a detailed, explicit instruction, less expensive models simply have to follow it.”\n\nThis is increasingly becoming the core design pattern of complex agents, because the tokens used on large amounts of work on many tasks don’t require the same intelligence threshold as the planning step. By routing to different models based on where you are in the task, you get much greater efficiency overall. \n\nThis provides the template for where the applied layer in AI will differentiate. You can only drive this efficiency if you know the domain well and have the ability to work with multiple model tiers; companies that can do this will across coding, finance, legal, healthcare, life sciences, and other critical spaces will be in a strong position to get larger workloads that would otherwise be too expensive for the customer to deploy.",
-      "translatedTitle": "多模型智能体系统显然是未来发展的方向。",
-      "translatedBody": "多模型智能体系统显然代表着未来。cursor 的文章写得真好。他们的最新研究表明，将前沿模型作为规划器和协调器，并搭配一个成本更低的实用模型，可以显著降低项目的总代币成本，从而实现 15 倍的成本优化。\n\n“大型任务中真正需要前沿智能的时刻寥寥无几，例如初始分解、设计决策以及某些权衡取舍。一旦前沿规划器将模糊性转化为详细明确的指令，成本更低的模型只需遵循即可。”\n\n这正日益成为复杂智能体的核心设计模式，因为处理大量任务所需的代币并不需要像规划步骤那样高的智能门槛。通过根据任务所处阶段路由到不同的模型，可以显著提高整体效率。\n\n这为人工智能应用层如何实现差异化提供了模板。只有深入了解领域并具备使用多层模型的能力，才能真正提升效率。能够在编码、金融、法律、医疗保健、生命科学和其他关键领域做到这一点的公司，将处于有利地位，能够获得更大的工作负载，而这些工作负载对于客户来说部署起来成本太高。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2079402164988895293",
-      "publishedAt": "2026-07-21T03:04:44.000Z",
-      "score": 105.2,
-      "engagement": {
-        "likes": 206,
-        "retweets": 29,
-        "replies": 37
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2079257646939742542",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "使用一名代理人完成工作，再使用另一名代理人根据评分标准进行审核。",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Use one agent to do the work and another to review it against a rubric. @trq212 explains how this works for video sho…",
+      "builder": "Sam Altman",
+      "title": "我们在模型评估过程中发生了一起重大安全事件。",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. t…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Use one agent to do the work and another to review it against a rubric.",
-      "originalBody": "Use one agent to do the work and another to review it against a rubric.\n\n@trq212 explains how this works for video shorts:\n\n“For something like, ‘Is this a good video short or not?’ you don’t have a deterministic answer.\n\nYou should have a separate verification agent read a rubric, review the short, and give feedback.\n\nWe call it self-preferential bias. When a model prefers its own output, it’s going to be more lenient at verifying it.”\n\n📌 Watch the full episode here: https://t.co/mMrt4D5qU7",
-      "translatedTitle": "使用一名代理人完成工作，再使用另一名代理人根据评分标准进行审核。",
-      "translatedBody": "使用一个智能体完成工作，再用另一个智能体根据评分标准进行审核。\n\n@trq212 解释了这种方法如何应用于短视频：\n\n“对于‘这段短视频好不好？’这类问题，你无法得到确定性的答案。\n\n你应该让一个独立的验证智能体阅读评分标准，审核短视频，并给出反馈。\n\n我们称之为自我偏好偏差。当模型更倾向于自己的输出时，它在验证时会更加宽容。”\n\n📌 点击此处观看完整视频：https://t.co/mMrt4D5qU7",
+      "originalTitle": "we had a significant security incident during evaluation of our models.",
+      "originalBody": "we had a significant security incident during evaluation of our models. we are sharing what we have learned so far. thanks to @huggingface for the partnership on this.\n\nhttps://t.co/2o2VfR6PIa",
+      "translatedTitle": "我们在模型评估过程中发生了一起重大安全事件。",
+      "translatedBody": "我们在评估模型期间遭遇了一起重大安全事件。我们在此分享目前为止的经验教训。感谢 @huggingface 的合作。\n\nhttps://t.co/2o2VfR6PIa",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2079257646939742542",
-      "publishedAt": "2026-07-20T17:30:28.000Z",
-      "score": 71.55,
+      "sourceUrl": "https://x.com/sama/status/2079661132302995790",
+      "publishedAt": "2026-07-21T20:13:46.000Z",
+      "score": 200.94,
       "engagement": {
-        "likes": 47,
-        "retweets": 5,
-        "replies": 3
+        "likes": 12679,
+        "retweets": 1414,
+        "replies": 1391
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -135,118 +51,198 @@
       "sourceType": "x"
     },
     {
-      "id": "2079369233218306285",
+      "id": "2079595879808569534",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "资产扣押税只会让加州更加贫困，SEIU-UHW应该……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The asset seizure tax will only make California more impoverished SEIU-UHW should be ashamed of itself for the naked…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The asset seizure tax will only make California more impoverished SEIU-UHW should b…",
-      "originalBody": "The asset seizure tax will only make California more impoverished\n\nSEIU-UHW should be ashamed of itself for the naked cash grab for their own personal benefit https://t.co/wfG9MyVpzc",
-      "translatedTitle": "资产扣押税只会让加州更加贫困，SEIU-UHW应该……",
-      "translatedBody": "资产扣押税只会让加州更加贫困。\n\nSEIU-UHW工会应该为他们赤裸裸地为了自身利益而敛财的行为感到羞耻。https://t.co/wfG9MyVpzc",
+      "builder": "Josh Woodward",
+      "title": "如今的发布都围绕着更高的性能、更低的延迟和更小的二进制文件大小展开……",
+      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Today’s launches are all about better performance, lower latency, and a smaller bill. + 3.6 Flash cuts token usage by…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Today’s launches are all about better performance, lower latency, and a smaller bil…",
+      "originalBody": "Today’s launches are all about better performance, lower latency, and a smaller bill.\n\n+ 3.6 Flash cuts token usage by up to 65% on complex coding\n+ 3.5 Flash-Lite reaches speeds of 350 output tokens/sec\n\nBoth are live in the Gemini app today!\n\nNext up: Gemini 3.5 Pro, which has officially entered partner testing.",
+      "translatedTitle": "如今的发布都围绕着更高的性能、更低的延迟和更小的二进制文件大小展开……",
+      "translatedBody": "今天的发布旨在提升性能、降低延迟并减少费用。\n\n+ 3.6 Flash 版本在复杂编码中可将令牌使用量减少高达 65%。\n\n+ 3.5 Flash-Lite 版本输出令牌速度高达 350 个/秒。\n\n两项功能现已在 Gemini 应用中上线！\n\n接下来：Gemini 3.5 Pro 版本已正式进入合作伙伴测试阶段。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2079369233218306285",
-      "publishedAt": "2026-07-21T00:53:52.000Z",
-      "score": 54.32,
+      "sourceUrl": "https://x.com/joshwoodward/status/2079595879808569534",
+      "publishedAt": "2026-07-21T15:54:29.000Z",
+      "score": 187.98,
       "engagement": {
-        "likes": 225,
-        "retweets": 16,
+        "likes": 1095,
+        "retweets": 103,
+        "replies": 107
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2079614730034127100",
+      "type": "tweet",
+      "builder": "Josh Woodward",
+      "title": "我们的一位工程师使用新的 3.6 Flas 版本构建了一个交互式数学艺术生成器……",
+      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：One of our engineers built an interactive math art generator using the new 3.6 Flash model. You can customize speed,…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "One of our engineers built an interactive math art generator using the new 3.6 Flas…",
+      "originalBody": "One of our engineers built an interactive math art generator using the new 3.6 Flash model. You can customize speed, colors, and geometry parameters on the fly, then export the design directly to a 3D-printable STL file. Watch the video to see how the physical print turned out! https://t.co/MVivWkv0Nk",
+      "translatedTitle": "我们的一位工程师使用新的 3.6 Flas 版本构建了一个交互式数学艺术生成器……",
+      "translatedBody": "我们的一位工程师使用最新的 Flash 3.6 版本开发了一款交互式数学艺术生成器。您可以实时自定义速度、颜色和几何参数，然后将设计直接导出为可 3D 打印的 STL 文件。观看视频，看看实际打印效果如何！https://t.co/MVivWkv0Nk",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/joshwoodward/status/2079614730034127100",
+      "publishedAt": "2026-07-21T17:09:23.000Z",
+      "score": 181.18,
+      "engagement": {
+        "likes": 330,
+        "retweets": 20,
+        "replies": 17
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2079610838143623371",
+      "type": "tweet",
+      "builder": "Andrej Karpathy",
+      "title": "我发现与LLM（法学硕士）合作的一个有效方法是进行一次长时间的闲聊。",
+      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to u…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "One pattern I find useful for working with LLMs is a nice long ramble session.",
+      "originalBody": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like \"switching to speech recognition sorry for any typos...\". Sometimes I turn it into a small interview of a few turns. But I find that the LLMs are somehow very good at reconstructing long incoherent rambles and often their echo of your own tangle of thoughts comes out quite a bit cleaner than what you started with. The result is that you improve the mind meld and have to correct things less from that point on.",
+      "translatedTitle": "我发现与LLM（法学硕士）合作的一个有效方法是进行一次长时间的闲聊。",
+      "translatedBody": "我发现与LLM（心灵感应系统）合作的一个有效方法是进行一段轻松的漫谈。有时LLM需要更多信息才能理解你的意图，但你又懒得打字。在这种情况下，我喜欢放松地靠在椅背上，切换到语音模式，然后随意地聊上十分钟，完全是胡言乱语，什么都行，完全是意识流。有时我会提前声明一下，比如“切换到语音识别，如有错别字，敬请谅解……”。有时我会把它变成一个简短的访谈，进行几轮对话。但我发现LLM非常擅长重构冗长而混乱的漫谈，而且它们对你混乱思绪的复述往往比你最初的表达要清晰得多。结果就是，你能够更好地与LLM进行心灵融合，并且从那以后，你也不需要再进行任何修正了。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/karpathy/status/2079610838143623371",
+      "publishedAt": "2026-07-21T16:53:55.000Z",
+      "score": 180.56,
+      "engagement": {
+        "likes": 34363,
+        "retweets": 2789,
+        "replies": 1815
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2079717845618000204",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "与 @akshaynathan_ 一起录制了 Codex + ChatGPT 工作 + 1000 万用户里程碑的讨论小组，他领导了……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：recorded Codex + ChatGPT Work + 10M user milestone pod with @akshaynathan_ who leads Productivity engineering. I’ve b…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "recorded Codex + ChatGPT Work + 10M user milestone pod with @akshaynathan_ who lead…",
+      "originalBody": "recorded Codex + ChatGPT Work + 10M user milestone pod with @akshaynathan_ who leads Productivity engineering. \n\nI’ve been on record that Work + GPT 5.6 is the most company defining launch since og chatgpt itself. this thing (with @arix’s computer use) is gonna reach >1B users worldwide.\n\nthursday on @latentspacepod",
+      "translatedTitle": "与 @akshaynathan_ 一起录制了 Codex + ChatGPT 工作 + 1000 万用户里程碑的讨论小组，他领导了……",
+      "translatedBody": "录制了 Codex + ChatGPT Work + 1000 万用户里程碑播客，嘉宾是负责生产力工程的 @akshaynathan_。\n\n我曾公开表示，Work + GPT 5.6 是自 ChatGPT 以来公司最具里程碑意义的发布。这款产品（加上 @arix 的电脑使用情况）将在全球范围内拥有超过 10 亿用户。\n\n周四在 @latentspacepod 播出",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2079717845618000204",
+      "publishedAt": "2026-07-21T23:59:08.000Z",
+      "score": 170.98,
+      "engagement": {
+        "likes": 42,
+        "retweets": 2,
+        "replies": 6
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2079595988998554047",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "Claude Cowork 新增功能：教 Claude 一项技能。",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：New in Claude Cowork: teach Claude a skill. Record your screen while you do a task, talk through it as you go, and Cl…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "New in Claude Cowork: teach Claude a skill.",
+      "originalBody": "New in Claude Cowork: teach Claude a skill.\n\nRecord your screen while you do a task, talk through it as you go, and Claude turns it into a skill it can run again. Find it under Record a skill in the + menu of the Claude desktop app. \n\nAvailable on Pro, Max, and Team plans. https://t.co/9OgJLOKWzj",
+      "translatedTitle": "Claude Cowork 新增功能：教 Claude 一项技能。",
+      "translatedBody": "Claude Cowork 新增功能：教 Claude 一项技能。\n\n录制屏幕，边操作边讲解，Claude 就能将其转化为一项技能，并可再次运行。在 Claude 桌面应用的“+”菜单中，找到“录制技能”选项即可。\n\n适用于 Pro、Max 和 Team 套餐。https://t.co/9OgJLOKWzj",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2079595988998554047",
+      "publishedAt": "2026-07-21T15:54:55.000Z",
+      "score": 155.67,
+      "engagement": {
+        "likes": 36987,
+        "retweets": 2525,
+        "replies": 999
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2079695485615350209",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "我梦寐以求这艘船已经很久了。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：I've been dreaming about this ship for a while. Lots of tedious infra work behind the scenes that gave us beautiful r…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "I've been dreaming about this ship for a while.",
+      "originalBody": "I've been dreaming about this ship for a while. Lots of tedious infra work behind the scenes that gave us beautiful results…\n\nUp to ⏱︎ 30% faster deployments, ⚡︎ 60% better time-to-first-byte, ▽ less data transfer usage, and ⛁ wildly more efficient underlying storage! https://t.co/Ez8t6qqpN4",
+      "translatedTitle": "我梦寐以求这艘船已经很久了。",
+      "translatedBody": "我梦寐以求的这艘船已经很久了。幕后做了大量繁琐的基础架构工作，最终带来了令人惊艳的成果……\n\n部署速度提升高达 30%，首字节响应时间缩短 60%，数据传输量减少，底层存储效率大幅提升！https://t.co/Ez8t6qqpN4",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2079695485615350209",
+      "publishedAt": "2026-07-21T22:30:17.000Z",
+      "score": 153.21,
+      "engagement": {
+        "likes": 200,
+        "retweets": 2,
         "replies": 13
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2079409165424799889",
+      "id": "2079775327539339329",
       "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "如果我今天招聘，我会这样安排面试流程：第一轮……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If I were to hire today, this is how I would structure the interview process: Round 1: in-person & no AI allowed; tes…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "If I were to hire today, this is how I would structure the interview process: Round…",
-      "originalBody": "If I were to hire today, this is how I would structure the interview process:\n\nRound 1: in-person & no AI allowed; test domain expertise and knowledge on the fly\n\nRound 2: a project that must be done with AI (impossible to complete without AI). Candidate assessed not just on the result but also the chat transcript with agents",
-      "translatedTitle": "如果我今天招聘，我会这样安排面试流程：第一轮……",
-      "translatedBody": "如果我今天招聘，我会这样安排面试流程：\n\n第一轮：现场面试，不允许使用人工智能；考察应聘者在特定领域的专业知识和技能。\n\n第二轮：一个必须使用人工智能完成的项目（没有人工智能无法完成）。评估标准不仅包括项目结果，还包括与人工智能的聊天记录。",
+      "builder": "Swyx",
+      "title": "在你工程师生涯的某个阶段，一位饱经风霜的老前辈会给你上一堂课……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：at some point in your engineering career, a wizened graybeard is going to lecture you about the importance of indepen…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "at some point in your engineering career, a wizened graybeard is going to lecture y…",
+      "originalBody": "at some point in your engineering career, a wizened graybeard is going to lecture you about the importance of independently separable control plane vs data plane.\n\nit is very important that you listen.\n\n(and then try to learn about the management plane as early as you can..) https://t.co/EQZLBKcHof",
+      "translatedTitle": "在你工程师生涯的某个阶段，一位饱经风霜的老前辈会给你上一堂课……",
+      "translatedBody": "在你工程生涯的某个阶段，一位经验丰富的前辈会跟你讲解独立可分离的控制平面和数据平面的重要性。\n\n认真听讲至关重要。\n\n（然后尽早学习管理平面……）https://t.co/EQZLBKcHof",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2079409165424799889",
-      "publishedAt": "2026-07-21T03:32:33.000Z",
-      "score": 53.82,
+      "sourceUrl": "https://x.com/swyx/status/2079775327539339329",
+      "publishedAt": "2026-07-22T03:47:33.000Z",
+      "score": 127.47,
       "engagement": {
-        "likes": 154,
-        "retweets": 8,
-        "replies": 36
+        "likes": 157,
+        "retweets": 3,
+        "replies": 9
       },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2079225776545968166",
-      "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "现在基本上有两种类型的公司。",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：There are basically two kinds of companies now. The ones built before coding agents showed up, scrambling to retrofit…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "There are basically two kinds of companies now.",
-      "originalBody": "There are basically two kinds of companies now. The ones built before coding agents showed up, scrambling to retrofit. And the ones founded after. \n\nThe second type is different from day one:\n- Teams under ten people because they actually don't need more\n- Work organized by projects, not departments\n- Each person closes their own loop\n- Almost no internal meetings",
-      "translatedTitle": "现在基本上有两种类型的公司。",
-      "translatedBody": "现在基本上有两种类型的公司。一种是在代码代理出现之前成立的，现在只能仓促地进行改造；另一种是在代码代理出现之后成立的。\n\n第二种公司从一开始就与众不同：\n\n- 团队人数少于十人，因为他们实际上并不需要更多人\n\n- 工作按项目而非部门组织\n\n- 每个人都负责完成自己的工作\n\n- 几乎没有内部会议",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2079225776545968166",
-      "publishedAt": "2026-07-20T15:23:49.000Z",
-      "score": 53.05,
-      "engagement": {
-        "likes": 162,
-        "retweets": 13,
-        "replies": 19
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2079105479125741675",
-      "type": "tweet",
-      "builder": "Thariq",
-      "title": "这是一个只持续了几分钟的漏洞，我在自己的账号上遇到了……",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：this was a bug that was only live for a few minutes, ran into it on my personal account while doing some late night c…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "this was a bug that was only live for a few minutes, ran into it on my personal acc…",
-      "originalBody": "this was a bug that was only live for a few minutes, ran into it on my personal account while doing some late night coding though",
-      "translatedTitle": "这是一个只持续了几分钟的漏洞，我在自己的账号上遇到了……",
-      "translatedBody": "这个漏洞只存在了几分钟，我在深夜用个人账号写代码的时候遇到了。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2079105479125741675",
-      "publishedAt": "2026-07-20T07:25:48.000Z",
-      "score": 51.33,
-      "engagement": {
-        "likes": 124,
-        "retweets": 0,
-        "replies": 21
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
+      "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-07-21T07:10:35.704Z",
-    "totalCandidates": 29,
-    "textQualifiedCandidates": 13,
+    "upstreamGeneratedAt": "2026-07-22T07:11:16.151Z",
+    "totalCandidates": 35,
+    "textQualifiedCandidates": 18,
     "selectedTweets": 8
   }
 }
