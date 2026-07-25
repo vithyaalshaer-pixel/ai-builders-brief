@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-24",
-  "generatedAt": "2026-07-24T03:12:53.283Z",
+  "date": "2026-07-25",
+  "generatedAt": "2026-07-25T02:57:21.562Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-07-24",
-  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 35 条候选动态里，筛出 14 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-07-25",
+  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 27 条候选动态里，筛出 15 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,184 +15,34 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
+    },
+    {
+      "slug": "product-ships",
+      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2079990597973057691",
+      "id": "2080387171723137440",
       "type": "tweet",
-      "builder": "Claude",
-      "title": "Claude Code 的 Claude Security 插件现已推出测试版。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：The Claude Security plugin for Claude Code is now available in beta. Scan your changes for vulnerabilities before you…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "The Claude Security plugin for Claude Code is now available in beta.",
-      "originalBody": "The Claude Security plugin for Claude Code is now available in beta. \n\nScan your changes for vulnerabilities before you commit, or run a full scan across your codebase, all from your terminal on the Claude inference you already run. https://t.co/tEM7Tz7f1o",
-      "translatedTitle": "Claude Code 的 Claude Security 插件现已推出测试版。",
-      "translatedBody": "适用于 Claude Code 的 Claude Security 插件现已推出 Beta 版。\n\n在提交更改之前扫描漏洞，或对整个代码库进行全面扫描，所有操作均可在已运行的 Claude 推理的终端中完成。https://t.co/tEM7Tz7f1o",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2079990597973057691",
-      "publishedAt": "2026-07-22T18:02:57.000Z",
-      "score": 175.36,
-      "engagement": {
-        "likes": 12836,
-        "retweets": 1113,
-        "replies": 434
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2080005193337377146",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "Shopify 和 Vercel 就像一枚硬币的两面。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Shopify + Vercel are two sides of the same coin. A congregation: entrepreneur-first, developer-led, web-obsessed. So…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Shopify + Vercel are two sides of the same coin.",
-      "originalBody": "Shopify + Vercel are two sides of the same coin. A congregation: entrepreneur-first, developer-led, web-obsessed. So excited to bring our infrastructure for apps and agents to millions of businesses together https://t.co/46AmZCvSuq",
-      "translatedTitle": "Shopify 和 Vercel 就像一枚硬币的两面。",
-      "translatedBody": "Shopify 和 Vercel 就像一枚硬币的两面。我们汇聚了众多企业：以创业者为先，以开发者为主导，对互联网充满热情。我们非常激动地将我们的应用和代理商基础设施带给数百万家企业。https://t.co/46AmZCvSuq",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2080005193337377146",
-      "publishedAt": "2026-07-22T19:00:57.000Z",
-      "score": 154.45,
-      "engagement": {
-        "likes": 219,
-        "retweets": 15,
-        "replies": 23
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2080098518535110913",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "Fable 刚刚发现 Turbopack / Next.js 的内存效率提升了 15-30%，而且……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Fable just found a 15-30% memory efficiency improvement in Turbopack / Next.js, nearly autonomously. @tobi asked me t…",
-      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Fable just found a 15-30% memory efficiency improvement in Turbopack / Next.js, nea…",
-      "originalBody": "Fable just found a 15-30% memory efficiency improvement in Turbopack / Next.js, nearly autonomously.\n\n@tobi asked me today: what have been your “holy s***” moments with AI?\n\nMy answer was: it’s every single week. And it’s accelerating. In fact, “WTFs/day” might just be my favorite metric for AI progress.\n\nIt’s one thing to read benchmarks or stories online. It’s another to watch these machines pull engineering feats every day. \n\n3 days ago? Sol helped us find novel vulnerabilities in some of the most audited code in the world. Today? Fable helps us ship this large optimization of a very complex Rust codebase. I just saw some results of work we’ve done to shrink binaries by 10-20x. List goes on.",
-      "translatedTitle": "Fable 刚刚发现 Turbopack / Next.js 的内存效率提升了 15-30%，而且……",
-      "translatedBody": "Fable 几乎完全自主地在 Turbopack / Next.js 中发现了 15-30% 的内存效率提升。\n\n@tobi 今天问我：你用 AI 时遇到过哪些“卧槽”时刻？\n\n我的回答是：几乎每周都有。而且这种现象还在不断加剧。事实上，“每天的 WTF 次数”可能是我衡量 AI 进展最喜欢的指标。\n\n在网上阅读基准测试或相关报道是一回事，亲眼见证这些机器每天完成工程壮举又是另一回事。\n\n三天前？Sol 帮助我们在一些全球审计最严格的代码中发现了新的漏洞。今天？Fable 帮助我们发布了对一个非常复杂的 Rust 代码库的大规模优化。我刚刚看到了我们通过优化将二进制文件大小缩小了 10-20 倍所取得的成果。这样的例子不胜枚举。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2080098518535110913",
-      "publishedAt": "2026-07-23T01:11:47.000Z",
-      "score": 140.47,
-      "engagement": {
-        "likes": 2098,
-        "retweets": 75,
-        "replies": 73
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2079979810881728759",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "要启用它，请打开连接器菜单，然后在其中找到“人类经济指数”……",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：To turn it on, open the connectors menu and find the Anthropic Economic Index in the directory. It works in any conve…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "To turn it on, open the connectors menu and find the Anthropic Economic Index in th…",
-      "originalBody": "To turn it on, open the connectors menu and find the Anthropic Economic Index in the directory. It works in any conversation, and the full datasets remain free to download on our website.\n\nRead more: https://t.co/qlgxtntOh5",
-      "translatedTitle": "要启用它，请打开连接器菜单，然后在其中找到“人类经济指数”……",
-      "translatedBody": "要启用它，请打开连接器菜单，并在目录中找到“人类经济指数”。它适用于任何对话，完整的数据集仍然可以从我们的网站免费下载。\n\n了解更多：https://t.co/qlgxtntOh5",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2079979810881728759",
-      "publishedAt": "2026-07-22T17:20:05.000Z",
-      "score": 131.86,
-      "engagement": {
-        "likes": 396,
-        "retweets": 17,
-        "replies": 14
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2080118274973679683",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "我一直觉得写一篇名为《最后的提示》的科幻短篇小说会很酷……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Keep thinking it’d be cool to write a short sci-fi story called “The last prompt.” But then I remember Isaac Asimov d…",
-      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Keep thinking it’d be cool to write a short sci-fi story called “The last prompt.”…",
-      "originalBody": "Keep thinking it’d be cool to write a short sci-fi story called “The last prompt.”\n\nBut then I remember Isaac Asimov did it already and it’s wonderful. In 1956.\n\nhttps://t.co/yWV11RToQQ https://t.co/kBSpCHb42r",
-      "translatedTitle": "我一直觉得写一篇名为《最后的提示》的科幻短篇小说会很酷……",
-      "translatedBody": "我一直想写一篇名为《最后的提示》的科幻短篇小说，感觉会很酷。\n\n但后来我想起来，艾萨克·阿西莫夫早在1956年就写过一篇了，而且非常精彩。\n\nhttps://t.co/yWV11RToQQ https://t.co/kBSpCHb42r",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2080118274973679683",
-      "publishedAt": "2026-07-23T02:30:18.000Z",
-      "score": 126.37,
-      "engagement": {
-        "likes": 117,
-        "retweets": 7,
-        "replies": 17
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2079997285778493777",
-      "type": "tweet",
-      "builder": "Josh Woodward",
-      "title": "加入使用 Flow 进行创意工作的行列，现在即可获得 50 个免费积分……",
-      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验：Join the rush of people using Flow for creative work, you can now get 50 free credits every day until Aug 31! https:/…",
-      "whyItMatters": "Josh Woodward 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Join the rush of people using Flow for creative work, you can now get 50 free credi…",
-      "originalBody": "Join the rush of people using Flow for creative work, you can now get 50 free credits every day until Aug 31! https://t.co/ETF1syNCbD",
-      "translatedTitle": "加入使用 Flow 进行创意工作的行列，现在即可获得 50 个免费积分……",
-      "translatedBody": "加入使用 Flow 进行创意工作的行列吧！即日起至 8 月 31 日，每天可免费领取 50 个积分！https://t.co/ETF1syNCbD",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/joshwoodward/status/2079997285778493777",
-      "publishedAt": "2026-07-22T18:29:32.000Z",
-      "score": 126.18,
-      "engagement": {
-        "likes": 124,
-        "retweets": 6,
-        "replies": 10
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2080156917373214900",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "安特罗皮克经济部主管的这篇文章写得很好。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Very good post from the Head of Economics at Anthropic. They’re finding that jobs have been less negatively impacted…",
+      "builder": "Swyx",
+      "title": "我觉得大家对@poolsideai的一点了解不够，那就是他们与众不同的……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：one thing i think people dont appreciate enough about @poolsideai is their unusual degree of openness — not only have…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Very good post from the Head of Economics at Anthropic.",
-      "originalBody": "Very good post from the Head of Economics at Anthropic. They’re finding that jobs have been less negatively impacted by AI than expected, as we continue to see time and time again in the data.\n\nThe reason for this is that AI - at least so far - still requires people to operate to produce value in most cases. Most jobs can’t be fully automated with AI, only certain tasks in those jobs. And when you automate specific tasks, you actually can get even more output from those jobs, raising the demand (or at least maintaining it) in many cases.\n\n“So far, AI is both skill-biased and labor-augmenting. It complements domain expertise. It relies on humans in the loop to direct and evaluate the most complex work. And it rewards AI proficiency. Model capabilities are improving fast, but remain stubbornly jagged. To fill in the pockets of the jagged frontier, expert oversight is needed to steer incredibly capable AI systems, and to recover when they falter.”\n\nI suspect that we continue to see this in a number of critical areas of work. It’s clearly happening in software engineering, where software produced is being multiplied, all of which still requires developers to manage the work agents are doing. Software engineers are needed in a wide variety of industries now and companies of all sizes can now light up software projects that would have been impractical before.\n\nBut there will be plenty of other domains of work where demand remains strong in a world where agents can accelerate the output of that job. Jevons paradox is alive and well.",
-      "translatedTitle": "安特罗皮克经济部主管的这篇文章写得很好。",
-      "translatedBody": "Anthropic 首席经济学家的这篇文章写得很好。他们发现，人工智能对就业的负面影响比预期要小，这一点我们从数据中也反复看到。\n\n原因在于，至少目前来看，人工智能在大多数情况下仍然需要人来操作才能创造价值。大多数工作无法完全用人工智能自动化，只能自动化其中的某些特定任务。而当特定任务实现自动化时，实际上可以从这些工作中获得更高的产出，从而在很多情况下提高（或至少维持）需求。\n\n“到目前为止，人工智能既依赖技能，又能增强劳动能力。它补充了领域专业知识。它依赖于人类参与来指导和评估最复杂的工作。而且它奖励人工智能的熟练程度。模型能力正在快速提升，但仍然存在明显的缺陷。为了填补这一缺陷，需要专家监督来引导功能强大的人工智能系统，并在它们出现故障时进行补救。”\n\n我怀疑我们会在许多关键领域持续看到这种情况。软件工程领域尤其如此，软件产量呈倍增式增长，而所有这些仍然需要开发人员来管理代理所做的工作。如今，各行各业都需要软件工程师，各种规模的公司现在都能启动以前难以实现的软件项目。\n\n但在代理能够加速工作产出的世界里，许多其他领域的软件工程师需求依然强劲。杰文斯悖论依然存在。",
+      "originalTitle": "one thing i think people dont appreciate enough about @poolsideai is their unusual…",
+      "originalBody": "one thing i think people dont appreciate enough about @poolsideai is their unusual degree of openness — not only have they shipped an excellent Small model that somehow beat @thinkymachines at coding, but most people (like @eliebakouch) have been shouting out their excellent papers, but also they're among a rare few to actually expose their full eval dataset as well - beautifully published, with across 6 public benchmarks  with 4 runs each and hundreds of turns per run. you can satisfy for yourself if they rewardhack. brilliant.",
+      "translatedTitle": "我觉得大家对@poolsideai的一点了解不够，那就是他们与众不同的……",
+      "translatedBody": "我觉得大家对@poolsideai 的一点了解不够，那就是他们非凡的开放性——他们不仅发布了一个非常优秀的Small模型，在编码方面甚至超越了@thinkymachines，而且大多数人（比如@eliebakouch）都在大力推荐他们优秀的论文。此外，他们还是极少数公开完整评估数据集的公司之一——数据集发布得非常精美，包含6个公开基准测试，每个测试运行4次，每次运行数百轮。如果他们启用奖励机制，你可以自己验证一下。太棒了！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2080156917373214900",
-      "publishedAt": "2026-07-23T05:03:51.000Z",
-      "score": 79.59,
+      "sourceUrl": "https://x.com/swyx/status/2080387171723137440",
+      "publishedAt": "2026-07-23T20:18:48.000Z",
+      "score": 175.94,
       "engagement": {
-        "likes": 116,
-        "retweets": 26,
-        "replies": 24
+        "likes": 104,
+        "retweets": 14,
+        "replies": 8
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -201,37 +51,201 @@
       "sourceType": "x"
     },
     {
-      "id": "2080103288834510939",
+      "id": "2080376094939603366",
       "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "有时我只是描述我的问题，而不具体说明解决方案/规范。模型……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Sometimes I just describe my problem without specifying a solution/spec The model often pleasantly surprises me with…",
+      "builder": "Claude",
+      "title": "语音模式现在可在 Claude 的更高级型号上运行，并可访问您已使用的工具……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Voice mode now runs on Claude's more capable models and reaches the tools you've connected mid-conversation. Talk thr…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "Sometimes I just describe my problem without specifying a solution/spec The model o…",
-      "originalBody": "Sometimes I just describe my problem without specifying a solution/spec\n\nThe model often pleasantly surprises me with a better solution that I could have thought of\n\nThick context, thin prompt https://t.co/JbSYNqREt2",
-      "translatedTitle": "有时我只是描述我的问题，而不具体说明解决方案/规范。模型……",
-      "translatedBody": "有时我只是描述问题，并不具体说明解决方案或规范。\n\n但这个模型常常能给我带来惊喜，提供比我预想的更好的解决方案。\n\n内容丰富，提示简洁 https://t.co/JbSYNqREt2",
+      "originalTitle": "Voice mode now runs on Claude's more capable models and reaches the tools you've co…",
+      "originalBody": "Voice mode now runs on Claude's more capable models and reaches the tools you've connected mid-conversation.\n\nTalk through the hard problems out loud, in many more languages. https://t.co/k0CWAGjLdK",
+      "translatedTitle": "语音模式现在可在 Claude 的更高级型号上运行，并可访问您已使用的工具……",
+      "translatedBody": "语音模式现已支持 Claude 的高端机型，并可在对话过程中连接到您已连接的工具。\n\n用更多语言大声讨论难题。https://t.co/k0CWAGjLdK",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2080103288834510939",
-      "publishedAt": "2026-07-23T01:30:45.000Z",
-      "score": 47.87,
+      "sourceUrl": "https://x.com/claudeai/status/2080376094939603366",
+      "publishedAt": "2026-07-23T19:34:47.000Z",
+      "score": 173.46,
       "engagement": {
-        "likes": 62,
-        "retweets": 2,
-        "replies": 9
+        "likes": 8895,
+        "retweets": 590,
+        "replies": 567
       },
       "matchedFocusAreas": [
         "Foundation Models"
       ],
       "sourceType": "x"
+    },
+    {
+      "id": "2080376096873177300",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "语音对话现在更多地使用了聊天中使用的模型，包括 Claude O…",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Voice conversations now use more of the models you have in chat, including Claude Opus and Sonnet. Claude can also re…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "Voice conversations now use more of the models you have in chat, including Claude O…",
+      "originalBody": "Voice conversations now use more of the models you have in chat, including Claude Opus and Sonnet. Claude can also reach the tools you've connected mid-conversation, like your email and calendar. https://t.co/452G2ZZY1d",
+      "translatedTitle": "语音对话现在更多地使用了聊天中使用的模型，包括 Claude O…",
+      "translatedBody": "语音对话现在可以使用更多聊天软件中的模型，包括 Claude Opus 和 Sonnet。Claude 还可以访问您在对话过程中连接的工具，例如您的电子邮件和日历。https://t.co/452G2ZZY1d",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2080376096873177300",
+      "publishedAt": "2026-07-23T19:34:47.000Z",
+      "score": 160.48,
+      "engagement": {
+        "likes": 793,
+        "retweets": 35,
+        "replies": 27
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2080500752183960017",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "顺便说一下，过去一个月左右我一直在内部测试一个 Agentic GitHub 克隆版本，它的表现相当不错……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：btw ive been dogfooding an agentic github clone over the past month or so and its gotten quite quite enjoyable to use…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "btw ive been dogfooding an agentic github clone over the past month or so and its g…",
+      "originalBody": "btw ive been dogfooding an agentic github clone over the past month or so and its gotten quite quite enjoyable to use. even complete with built in CI/CD thanks to workers for platforms!\n\nthere's 3 more ideas i have to implement (not shown here) before this goes live. but if you're looking to hack on this with me it's a really good time to join swyx inc and influence the roadmap",
+      "translatedTitle": "顺便说一下，过去一个月左右我一直在内部测试一个 Agentic GitHub 克隆版本，它的表现相当不错……",
+      "translatedBody": "顺便一提，过去一个月左右我一直在试用 Agentic 的 GitHub 克隆版本，感觉非常棒。多亏了 Workers for Platforms，它甚至还内置了 CI/CD！\n\n在正式上线之前，我还有 3 个想法需要实现（这里没有列出）。如果你想和我一起开发这个项目，现在加入 Swyx Inc. 并参与产品路线图规划正是好时机。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2080500752183960017",
+      "publishedAt": "2026-07-24T03:50:07.000Z",
+      "score": 147.3,
+      "engagement": {
+        "likes": 42,
+        "retweets": 0,
+        "replies": 12
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2080376099268169943",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "所有套餐均支持更多语言，包括西班牙语、法语……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Voice mode also supports more languages, on every plan, including Spanish, French, Hindi, and Japanese. The update is…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Voice mode also supports more languages, on every plan, including Spanish, French,…",
+      "originalBody": "Voice mode also supports more languages, on every plan, including Spanish, French, Hindi, and Japanese.\n\nThe update is rolling out today in public beta on mobile, desktop, and web. Download the mobile app and tap the sound wave to start a conversation: https://t.co/hwPB3zlk0w",
+      "translatedTitle": "所有套餐均支持更多语言，包括西班牙语、法语……",
+      "translatedBody": "语音模式现已支持更多语言，包括西班牙语、法语、印地语和日语，所有套餐均已包含。\n\n该更新今日起在移动端、桌面端和网页端推出公开测试版。下载移动应用，点击声波图标即可开始对话：https://t.co/hwPB3zlk0w",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2080376099268169943",
+      "publishedAt": "2026-07-23T19:34:48.000Z",
+      "score": 134.73,
+      "engagement": {
+        "likes": 659,
+        "retweets": 31,
+        "replies": 41
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2080333707483725876",
+      "type": "tweet",
+      "builder": "Matt Turck",
+      "title": "我与@cerebras 的首席执行官@andrewdfeldman 的对话。",
+      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：My conversation with @andrewdfeldman, CEO of @cerebras. We started from \"what is a wafer?\" and built up to why the en…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "My conversation with @andrewdfeldman, CEO of @cerebras.",
+      "originalBody": "My conversation with @andrewdfeldman, CEO of @cerebras.  We started from \"what is a wafer?\" and built up to why the entire chip industry is reorganizing around inference speed.\n\n00:00 Cold open & Intro\n01:31 Why speed became the AI bottleneck\n02:32 Tokens per second per user, explained\n03:16 AI’s broadband moment and the Netflix analogy\n04:35 The AI chip landscape: GPUs, TPUs, Trainium, ASICs\n06:36 What is an ASIC? \n08:08 Nvidia, Groq, and the fast inference war\n09:16 OpenAI, Broadcom, and specialized silicon\n12:10 China, power, and sovereign AI infrastructure\n15:05 Is the AI infrastructure boom a bubble?\n18:56 The hidden bottlenecks: HBM, CoWoS, and 3nm\n22:57 Why agents are creating CPU demand\n25:36 Andrew’s path from SeaMicro to Cerebras\n26:13 Why Cerebras bet on AI in 2016\n31:14 SRAM vs. HBM: why inference is a memory problem\n33:19 What wafer-scale computing actually means\n34:28 The deep-tech “Everest” problem\n36:07 The moment the first Cerebras system worked\n36:49 Ringing the bell and surviving deep tech\n39:08 How a giant chip handles failure\n41:22 Why GPUs struggle with decode\n42:17 Prefill vs. decode explained\n44:01 The “100 HD movies” problem in AI inference\n45:04 How fast inference changes RL and training 48:08 Reasoning models and why they cost more compute\n50:08 Verification, guardrails, and small models checking big models\n52:37 Multimodal AI and the path to video\n53:51 Cerebras’ business model: hardware, cloud, API\n55:14 OpenAI’s 750MW inference deal\n55:36 Why data centers are measured in megawatts\n58:01 AWS Trainium + Cerebras decode\n59:29 Fast tokens as a cloud product\n01:00:52 Is CUDA still a moat?\n01:03:53 How TSMC helped Cerebras build the giant chip\n01:07:41 Why nobody cared in 2020\n01:08:15 Why chip supply chains are hard to diversify\n01:09:54 Why today’s AI models will be the worst you ever use\n01:10:38 What fast AI could do to SaaS",
+      "translatedTitle": "我与@cerebras 的首席执行官@andrewdfeldman 的对话。",
+      "translatedBody": "我与@cerebras 的首席执行官@andrewdfeldman 的对话。我们从“什么是晶圆？”开始，逐步深入探讨了为什么整个芯片行业都在围绕推理速度进行重组。\n\n00:00 开场白和介绍\n\n01:31 为什么速度成为人工智能的瓶颈\n\n02:32 解释每用户每秒令牌数\n\n03:16 人工智能的宽带时刻以及 Netflix 的类比\n\n04:35 人工智能芯片格局：GPU、TPU、Trainium、ASIC\n\n06:36 什么是 ASIC？\n\n08:08 英伟达、Groq 和快速推理之争\n\n09:16 OpenAI、博通和专用硅片\n\n12:10 中国、权力和自主人工智能基础设施\n\n15:05 人工智能基础设施的繁荣是泡沫吗？\n\n18:56 隐藏的瓶颈：HBM、CoWoS 和 3nm\n\n22:57 为什么智能体会造成 CPU 需求激增\n\n25:36 Andrew 从 SeaMicro 到 Cerebras 的职业道路\n\n26:13 为什么 Cerebras 在 2016 年押注人工智能\n\n31:14 SRAM 与 HBM：为什么推理是一个内存问题\n\n33:19 晶圆级计算的真正含义\n\n34:28 深科技领域的“珠穆朗玛峰”难题\n\n36:07 第一个 Cerebras 系统成功运行的时刻\n\n36:49 敲响警钟，在深科技领域生存下来\n\n39:08 巨型芯片如何处理故障\n\n41:22 为什么 GPU 难以进行解码\n\n42:17 预填充与解码的解释\n\n44:01 人工智能推理中的“100 部高清电影”难题\n\n45:04 推理速度如何改变强化学习和训练 48:08 推理模型及其成本更高的原因计算\n\n50:08 验证、防护措施以及小模型检查大模型\n\n52:37 多模态人工智能与视频之路\n\n53:51 Cerebras 的商业模式：硬件、云、API\n\n55:14 OpenAI 的 750MW 推理交易\n\n55:36 为什么数据中心以兆瓦 (MW) 为单位计量\n\n58:01 AWS Trainium + Cerebras 解码\n\n59:29 快速令牌作为云产品\n\n01:00:52 CUDA 仍然是护城河吗？\n\n01:03:53 台积电如何帮助 Cerebras 打造巨型芯片\n\n01:07:41 为什么 2020 年无人问津\n\n01:08:15 为什么芯片供应链难以多元化\n\n01:09:54 为什么今天的 AI 模型将是你用过的最糟糕的模型\n\n01:10:38 快速 AI 能给 SaaS 带来什么？",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/mattturck/status/2080333707483725876",
+      "publishedAt": "2026-07-23T16:46:21.000Z",
+      "score": 96.47,
+      "engagement": {
+        "likes": 35,
+        "retweets": 9,
+        "replies": 5
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2080371567221944657",
+      "type": "tweet",
+      "builder": "Amjad Masad",
+      "title": "Viktor 利用 Replit 颠覆了传统的代理模式，赚了很多钱。",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Viktor was able to disrupt the agency model and make a lot of money by using Replit. Then he figured: Why not automat…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Viktor was able to disrupt the agency model and make a lot of money by using Replit.",
+      "originalBody": "Viktor was able to disrupt the agency model and make a lot of money by using Replit.\n\nThen he figured: Why not automate the entire thing, not just the coding part?\n\nThe Agency: It's merely an agent loop...\n\nSo he asked our team for an MCP, and we built one and he's now built his autonomous agency.",
+      "translatedTitle": "Viktor 利用 Replit 颠覆了传统的代理模式，赚了很多钱。",
+      "translatedBody": "Viktor 利用 Replit 颠覆了传统的代理模式，赚得盆满钵满。\n\n然后他想到：为什么不把整个流程都自动化，而不仅仅是编码部分呢？\n\n代理机构：其实就是一个代理循环……\n\n于是他向我们的团队申请了一个 MCP（管理控制程序），我们帮他搭建了一个，现在他已经拥有了自己的自主代理机构。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/amasad/status/2080371567221944657",
+      "publishedAt": "2026-07-23T19:16:47.000Z",
+      "score": 80.43,
+      "engagement": {
+        "likes": 284,
+        "retweets": 15,
+        "replies": 19
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2080471989060559336",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "看待人工智能的最佳方式是将其视为现有领域的一种力量倍增器……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The best way to think about AI is as a force multiplier for the fields you already know about (or for the rate at whi…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "The best way to think about AI is as a force multiplier for the fields you already…",
+      "originalBody": "The best way to think about AI is as a force multiplier for the fields you already know about (or for the rate at which you want to learn about a new one). The 3rd category -no existing judgment, no interest in developing it- will basically produce slop and won’t drive that much economically productive activity. \n\nWhat will happen is that the experts will get better and better at their craft and be able to do so much more. Because they can wield these tools in ways that actually drive high quality output, veer agents in the right direction when they go off, and actually incorporate the work into something useful.\n\nThe expert engineer with agents will do far more productive work, precisely because they know how to steer the agent properly. The designer will product far better outcomes using AI than someone without an eye for design. And so on.\n\nAs a result of this dynamic, specialization will continue to be important, if not even more so as the tools get more powerful. Because the expectation of the market gets to be much higher. Getting good at any craft will continue to be necessary in the future.",
+      "translatedTitle": "看待人工智能的最佳方式是将其视为现有领域的一种力量倍增器……",
+      "translatedBody": "理解人工智能的最佳方式是将其视为你已知领域（或你想学习新领域的速度）的倍增器。第三类——既没有现有判断力，也没有发展人工智能的兴趣——基本上只会产生粗制滥造的产品，不会推动多少经济生产活动。\n\n未来，专家们将精进技艺，能力大幅提升。因为他们能够以有效的方式运用这些工具，从而产出高质量的成果，在智能体偏离正轨时将其引导回正轨，并将工作成果转化为有用的产品。\n\n拥有智能体的专家工程师将完成更多高效的工作，正是因为他们懂得如何正确引导智能体。设计师利用人工智能创造出的成果将远胜于那些缺乏设计眼光的人。诸如此类。\n\n在这种动态变化下，专业化将继续保持重要性，甚至随着工具功能的增强而变得更加重要。因为市场期望值会越来越高。未来，精通任何技能都将是必要的。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2080471989060559336",
+      "publishedAt": "2026-07-24T01:55:50.000Z",
+      "score": 78.27,
+      "engagement": {
+        "likes": 154,
+        "retweets": 18,
+        "replies": 24
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-07-23T07:09:39.150Z",
-    "totalCandidates": 35,
-    "textQualifiedCandidates": 14,
+    "upstreamGeneratedAt": "2026-07-24T07:10:08.109Z",
+    "totalCandidates": 27,
+    "textQualifiedCandidates": 15,
     "selectedTweets": 8
   }
 }
