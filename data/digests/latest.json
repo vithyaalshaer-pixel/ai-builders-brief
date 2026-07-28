@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-27",
-  "generatedAt": "2026-07-27T03:33:44.346Z",
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-28T02:49:53.244Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-07-27",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 30 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-07-28",
+  "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 21 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,82 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2081123293340520642",
+      "id": "2081396796174282900",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "软件工厂就是产品。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The (software) factory is the product. Your product is only as good as the agents you set up to autonomously maintain…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "The (software) factory is the product.",
-      "originalBody": "The (software) factory is the product. Your product is only as good as the agents you set up to autonomously maintain it.\n\nThis is what @elonmusk figured out about Tesla, and it's now true for the software world. https://t.co/8Jj6JH6FAZ",
-      "translatedTitle": "软件工厂就是产品。",
-      "translatedBody": "软件工厂就是产品。你的产品质量取决于你设置的用于自主维护它的代理的质量。\n\n这是埃隆·马斯克 (@elonmusk) 对特斯拉的领悟，现在也适用于软件领域。https://t.co/8Jj6JH6FAZ",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2081123293340520642",
-      "publishedAt": "2026-07-25T21:03:53.000Z",
-      "score": 187.2,
-      "engagement": {
-        "likes": 1050,
-        "retweets": 66,
-        "replies": 51
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2081103993917649134",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "我最初对代理 CLI 和文件系统进行了所有研究。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I started doing all my research with agent CLIs and the filesystem. A 📁 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑/ folder, an 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "I started doing all my research with agent CLIs and the filesystem.",
-      "originalBody": "I started doing all my research with agent CLIs and the filesystem. A 📁 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑/ folder, an 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 describing the format I like and best practices. Then launch my agent and ask a question.\n\nNo fancy apps, knowledge graphs, UIs. The agent can be asked to find and correlate knowledge from previous sessions. Scales to infinity. The folder can be synced via iCloud, git, etc.\n\nIf I want to share some outcome, I can ask the agent to render a cool HTML report and deploy it to Vercel. The \"software\" that powers this is English in 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍.",
-      "translatedTitle": "我最初对代理 CLI 和文件系统进行了所有研究。",
-      "translatedBody": "我最初使用代理命令行界面 (CLI) 和文件系统进行研究。我创建了一个 📁 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑/ 文件夹，以及一个 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 文件，其中描述了我喜欢的格式和最佳实践。然后启动我的代理并提出问题。\n\n无需花哨的应用程序、知识图谱或用户界面。代理可以查找并关联先前会话中的知识。可扩展至无限规模。该文件夹可以通过 iCloud、Git 等进行同步。\n\n如果我想分享一些结果，我可以要求代理生成一个漂亮的 HTML 报告并将其部署到 Vercel。驱动这一切的“软件”是 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 文件中的英文代码。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2081103993917649134",
-      "publishedAt": "2026-07-25T19:47:11.000Z",
-      "score": 185.47,
-      "engagement": {
-        "likes": 772,
-        "retweets": 27,
-        "replies": 51
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2081149743368122723",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "https://t.co/O7y9dmUqk5 比我们构建的任何其他框架都更具基础性。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：https://t.co/O7y9dmUqk5 is more fundamental than any other framework we’ve built. It’s the genesis of your company. W…",
+      "builder": "Sam Altman",
+      "title": "chatgpt 的作品非常出色，“作品”一词不足以形容它的成就。",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：chatgpt work is remarkable, and \"work\" undersells it. from my phone i sent: \"use all my chat history to figure out id…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "https://t.co/O7y9dmUqk5 is more fundamental than any other framework we’ve built.",
-      "originalBody": "https://t.co/O7y9dmUqk5 is more fundamental than any other framework we’ve built.\n\nIt’s the genesis of your company. When you have a new idea, don’t think: “I’ll go to an agent and ad-hoc prompt.”\n\nThink: how can I build the factory that will start, maintain and grow my idea https://t.co/CUMmOK087j",
-      "translatedTitle": "https://t.co/O7y9dmUqk5 比我们构建的任何其他框架都更具基础性。",
-      "translatedBody": "https://t.co/O7y9dmUqk5 比我们构建的任何其他框架都更加基础。\n\n它是你公司的起源。当你有了新想法时，不要想：“我去找个代理商，随便提个建议就行了。”\n\n想想：我该如何构建一个能够启动、维护和发展我的想法的平台 https://t.co/CUMmOK087j",
+      "originalTitle": "chatgpt work is remarkable, and \"work\" undersells it.",
+      "originalBody": "chatgpt work is remarkable, and \"work\" undersells it.\n\nfrom my phone i sent:\n\n\"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in each place and decide where to go, and then after we get to group agreement make reservations. draft an email in my gmail i can send out to my friends when the site is ready.\"\n\nit...just worked.",
+      "translatedTitle": "chatgpt 的作品非常出色，“作品”一词不足以形容它的成就。",
+      "translatedBody": "chatgpt 的工作效率简直惊人，“工作”二字都无法形容它的效果。\n\n我用手机发送了以下内容：\n\n“利用我所有的聊天记录，为和 8 个朋友的长周末旅行想出一些好点子，规划出三个最佳方案，然后创建一个功能齐全的网站，让我们 9 个人可以在上面协调每个地方的行程安排，最终决定去哪里。达成共识后，再在我的 Gmail 里写一封邮件，等网站上线后发给朋友们。”\n\n它……真的奏效了。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2081149743368122723",
-      "publishedAt": "2026-07-25T22:48:59.000Z",
-      "score": 159.22,
+      "sourceUrl": "https://x.com/sama/status/2081396796174282900",
+      "publishedAt": "2026-07-26T15:10:41.000Z",
+      "score": 175.98,
       "engagement": {
-        "likes": 604,
-        "retweets": 27,
-        "replies": 34
+        "likes": 14718,
+        "retweets": 471,
+        "replies": 1368
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -106,109 +50,105 @@
       "sourceType": "x"
     },
     {
-      "id": "2081169373784633552",
+      "id": "2081517519303737559",
       "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "今天一整天都在运行 Codex，进行大规模并行质量保证测试，为下一个版本做准备。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Been running codex all day to do massive parallel QA in prep of the next release. Sol got insanely good at really und…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Been running codex all day to do massive parallel QA in prep of the next release.",
-      "originalBody": "Been running codex all day to do massive parallel QA in prep of the next release. Sol got insanely good at really understanding intent and is finding complex behavior issues.\n\nIn the past such workflow did fell apart at compaction boundaries and/or the model started cheating. https://t.co/5xnKD6nAKh",
-      "translatedTitle": "今天一整天都在运行 Codex，进行大规模并行质量保证测试，为下一个版本做准备。",
-      "translatedBody": "今天一整天都在运行 Codex，进行大规模并行 QA，为下一个版本做准备。Sol 对理解意图的能力突飞猛进，能够发现复杂的行为问题。\n\n过去，这种工作流程在压缩边界处会崩溃，或者模型开始作弊。https://t.co/5xnKD6nAKh",
+      "builder": "Guillermo Rauch",
+      "title": "我用 𝚜𝚌𝚛𝚌𝚎𝚕 CLI TypeScript 编译了 𝚟𝚎𝚛𝚒𝚙𝚝𝚌 到 native。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：I compiled 𝚟𝚎𝚛𝚌𝚎𝚕 CLI TypeScript to native with 𝚜𝚌𝚛𝚒𝚙𝚝𝚌. Incredible. ✓ Resulting binary size: 1.28mb ✓ S…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "I compiled 𝚟𝚎𝚛𝚌𝚎𝚕 CLI TypeScript to native with 𝚜𝚌𝚛𝚒𝚙𝚝𝚌.",
+      "originalBody": "I compiled 𝚟𝚎𝚛𝚌𝚎𝚕 CLI TypeScript to native with 𝚜𝚌𝚛𝚒𝚙𝚝𝚌. Incredible.\n\n✓ Resulting binary size: 1.28mb \n✓ Startup overhead: 1.5ms (mean)\n✓ Compiles in 2.94s (mean)\n✓ Uses 𝚗𝚘𝚍𝚎:𝚑𝚝𝚝𝚙𝚜, 𝚗𝚘𝚍𝚎:𝚏𝚜, 𝚗𝚘𝚍𝚎:𝚙𝚊𝚝𝚑, 𝚗𝚘𝚍𝚎:𝚘𝚜, 𝚗𝚘𝚍𝚎:𝚌𝚛𝚢𝚙𝚝𝚘\n✓ Highly readable TypeScript\n✓ Code translated by GLM 5.2 Fast\n✓ Deploys like a charm!\n\nNo embedded v8 / QuickJS, fully static.",
+      "translatedTitle": "我用 𝚜𝚌𝚛𝚌𝚎𝚕 CLI TypeScript 编译了 𝚟𝚎𝚛𝚒𝚙𝚝𝚌 到 native。",
+      "translatedBody": "我用 𝚟𝚎𝚛𝚌𝚎𝚕 CLI TypeScript 编译成了原生代码，太棒了！\n\n✓ 生成的二进制文件大小：1.28MB\n\n✓ 启动开销：1.5毫秒（平均）\n\n✓ 编译时间：2.94秒（平均）\n\n✓ 使用 𝚗𝚘𝚍𝚎:𝚑𝚝𝚝𝚙𝚜、𝚗𝚘𝚍𝚎:𝚏𝚜、𝚗𝚘𝚍𝚎:𝚙𝚊𝚝𝚑、𝚗𝚘𝚍𝚎:𝚘𝚜 和 𝚗𝚘𝚍𝚎:𝚌𝚛𝚢𝚙𝚝𝚘\n\n✓ 代码可读性极佳\n\n✓ 使用 GLM 5.2 快速转换\n\n✓ 部署便捷太棒了！\n\n没有嵌入 V8/QuickJS，完全静态。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2081169373784633552",
-      "publishedAt": "2026-07-26T00:06:59.000Z",
-      "score": 110.62,
+      "sourceUrl": "https://x.com/rauchg/status/2081517519303737559",
+      "publishedAt": "2026-07-26T23:10:23.000Z",
+      "score": 159.09,
       "engagement": {
-        "likes": 747,
-        "retweets": 29,
-        "replies": 83
+        "likes": 577,
+        "retweets": 28,
+        "replies": 39
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2081546513885622760",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "Vercel 很荣幸地与 Open Weights 和美国人工智能领导层共同签署了这封信。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Vercel proudly co-signs the Open Weights and American AI Leadership letter. Open source, data, protocols & research e…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Vercel proudly co-signs the Open Weights and American AI Leadership letter.",
+      "originalBody": "Vercel proudly co-signs the Open Weights and American AI Leadership letter. \n\nOpen source, data, protocols & research enable the technological wonders we enjoy every day, enriching our lives and our world.\n\nOpen weights are the logical next frontier: https://t.co/SMeMS2lINu https://t.co/JeQwc1YvtL",
+      "translatedTitle": "Vercel 很荣幸地与 Open Weights 和美国人工智能领导层共同签署了这封信。",
+      "translatedBody": "Vercel 非常荣幸地联署了“开放权重”和“美国人工智能领导力”这封信。\n\n开源软件、数据、协议和研究成就了我们每天享受的科技奇迹，丰富了我们的生活，也造福了我们的世界。\n\n开放权重是合乎逻辑的下一个发展方向：https://t.co/SMeMS2lINu https://t.co/JeQwc1YvtL",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2081546513885622760",
+      "publishedAt": "2026-07-27T01:05:36.000Z",
+      "score": 138.04,
+      "engagement": {
+        "likes": 1291,
+        "retweets": 65,
+        "replies": 38
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2081491621162668207",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "人工智能在现实世界中的普及应用仍然蕴藏着巨大的机遇。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：There’s still so much opportunity in the diffusion of AI into the real world. Most enterprises are going to need a to…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "There’s still so much opportunity in the diffusion of AI into the real world.",
+      "originalBody": "There’s still so much opportunity in the diffusion of AI into the real world. Most enterprises are going to need a ton of support to be able to apply the model breakthroughs to their workflows.\n\nIntelligence alone is not enough to transform most processes because you need to bridge that intelligence with real world feedback loops. That requires connecting to various enterprise systems, getting the right data to the AI, enabling humans to make decisions at different steps in a process through the right UX, having workflows that improve the underlying data and models over time, dealing with regulatory and compliance challenges, and more. \n\nThe way you implement AI agents for doing client onboarding in a bank is entirely different from contract review in a legal team. In life sciences, financial services, legal, manufacturing, and many other critical industries, AI is only valuable if it makes contact with the real world in a contextual way. \n\nThe way that interaction is going to happen is through an applied AI layer. Some of that will come from the labs directly, but lots of the opportunity will necessarily come from independent companies that can go deep in each industry.\n\nAnd counter to some beliefs, this need isn’t reduced even as AI model capability improves over time. In fact, the better the models get, the more ambitious you can be in the workflows you can automate, which generally requires even more of this applied layer. Tons of opportunity right now.",
+      "translatedTitle": "人工智能在现实世界中的普及应用仍然蕴藏着巨大的机遇。",
+      "translatedBody": "人工智能在现实世界中的普及应用仍然蕴藏着巨大的机遇。大多数企业需要大量的支持才能将模型突破应用于自身的工作流程。\n\n仅仅依靠智能不足以变革大多数流程，因为还需要将智能与现实世界的反馈循环连接起来。这需要连接各种企业系统，将正确的数据提供给人工智能，通过合适的用户体验使人们能够在流程的不同步骤中做出决策，建立能够随着时间推移不断改进底层数据和模型的工作流程，应对监管和合规方面的挑战等等。\n\n在银行中，使用人工智能代理进行客户注册的方式与在法律团队中进行合同审查的方式截然不同。在生命科学、金融服务、法律、制造业以及许多其他关键行业，人工智能只有以情境化的方式与现实世界互动才能发挥其价值。\n\n这种互动将通过应用型人工智能层来实现。其中一些将直接来自实验室，但许多机会必然来自能够深入各个行业的独立公司。\n\n与某些观点相反，即使人工智能模型的能力随着时间推移而不断提升，这种需求也不会减少。事实上，模型越好，你就能实现越宏大的自动化工作流程，而这通常需要更多应用层的支持。目前蕴藏着巨大的机遇。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2081491621162668207",
+      "publishedAt": "2026-07-26T21:27:29.000Z",
+      "score": 82.29,
+      "engagement": {
+        "likes": 321,
+        "retweets": 41,
+        "replies": 58
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
+        "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2081086837263937543",
+      "id": "2081412243388788988",
       "type": "tweet",
-      "builder": "Amjad Masad",
-      "title": "刚刚部署了一个新的国际象棋引擎；我们预计 Elo 等级分将接近 1200 分。",
-      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：Just deployed a new chess engine; we're closing in on an estimated 1200 Elo. The goal is to get it to 2000+, while ke…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "Just deployed a new chess engine; we're closing in on an estimated 1200 Elo.",
-      "originalBody": "Just deployed a new chess engine; we're closing in on an estimated 1200 Elo. \n\nThe goal is to get it to 2000+, while keeping the constraints:\n\n1. One small finetuned LLM (no custom pretraining or architecture)\n2. The model has to produce the moves with no chess engine assistance\n\nIf you relax these constraints, it gets much easier.",
-      "translatedTitle": "刚刚部署了一个新的国际象棋引擎；我们预计 Elo 等级分将接近 1200 分。",
-      "translatedBody": "刚刚部署了一个新的国际象棋引擎；我们预计它的 Elo 等级分将接近 1200 分。\n\n目标是在满足以下限制条件的情况下，将其提升到 2000 分以上：\n\n1. 使用一个经过微调的小型 LLM 模型（不使用自定义预训练或架构）\n\n2. 模型必须在没有任何国际象棋引擎辅助的情况下独立生成走法\n\n如果放宽这些限制条件，难度会大大降低。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/amasad/status/2081086837263937543",
-      "publishedAt": "2026-07-25T18:39:01.000Z",
-      "score": 78.36,
-      "engagement": {
-        "likes": 168,
-        "retweets": 7,
-        "replies": 32
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2081169376317932017",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "使用真实 API 密钥对 OpenClaw 进行完整的端到端 QA 测试。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：\"Do a full end-to-end QA test of OpenClaw with live API keys. Use 12 subagents to split up functionality, spin up dev…",
+      "builder": "Dan Shipper",
+      "title": "我休假一周，专心撰写关于《法典》起源的权威历史（如……）。",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：i am taking the week off to write the definitive history of how codex happened (as told by deep interviews with insid…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "\"Do a full end-to-end QA test of OpenClaw with live API keys.",
-      "originalBody": "\"Do a full end-to-end QA test of OpenClaw with live API keys. Use 12 subagents to split up functionality, spin up dev gateways with different ports, and use some to stress test. Orchestrate, use worktrees and create PRs autonomously. Set a goal to find 200 bugs. Fix the root cause each time, no band-aids. Refactors are okay, unless they touch the plugin SDK boundary. Write a test report in my desktop folder as markdown and keep updating that.\"",
-      "translatedTitle": "使用真实 API 密钥对 OpenClaw 进行完整的端到端 QA 测试。",
-      "translatedBody": "使用真实 API 密钥对 OpenClaw 进行完整的端到端 QA 测试。使用 12 个子代理来划分功能，启动具有不同端口的开发网关，并使用部分网关进行压力测试。协调工作，使用工作树，并自主创建 PR。设定目标，找出 200 个 bug。每次都要修复根本原因，不要敷衍了事。可以进行重构，但不能涉及插件 SDK 的边界。将测试报告以 Markdown 格式保存在我的桌面文件夹中，并持续更新。",
+      "originalTitle": "i am taking the week off to write the definitive history of how codex happened (as…",
+      "originalBody": "i am taking the week off to write the definitive history of how codex happened (as told by deep interviews with insiders @openai) \n\npublishing on @every in a few weeks\n\ni will be dropping breadcrumbs and learnings as i go :)",
+      "translatedTitle": "我休假一周，专心撰写关于《法典》起源的权威历史（如……）。",
+      "translatedBody": "我这周休假，专心撰写 Codex 的终极历史（基于对 OpenAI 内部人士的深度访谈）。\n\n几周后将在 @every 上发布。\n\n我会随时分享写作过程中的点滴和心得体会 :)",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2081169376317932017",
-      "publishedAt": "2026-07-26T00:07:00.000Z",
-      "score": 53.89,
+      "sourceUrl": "https://x.com/danshipper/status/2081412243388788988",
+      "publishedAt": "2026-07-26T16:12:04.000Z",
+      "score": 54.39,
       "engagement": {
-        "likes": 202,
-        "retweets": 12,
-        "replies": 19
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2081029209993154980",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "Jason 是 OpenAI 的 DevEx 工程师，他撰写了关于如何使用 DevEx 的官方指南……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Jason is a DevEx engineer at OpenAI who wrote the official guidebook on how to use Codex for work. In tomorrow’s epis…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Jason is a DevEx engineer at OpenAI who wrote the official guidebook on how to use…",
-      "originalBody": "Jason is a DevEx engineer at OpenAI who wrote the official guidebook on how to use Codex for work.\n\nIn tomorrow’s episode, he showed me his complete Codex work system, including how to:\n\n→ Run a chief of staff across Slack and email\n→ Turn past sessions into new skills and workflows\n→ Build sites to learn anything, like the drums\n\n📌 Subscribe to get the full episode tomorrow: https://t.co/NSTj7ijxE0",
-      "translatedTitle": "Jason 是 OpenAI 的 DevEx 工程师，他撰写了关于如何使用 DevEx 的官方指南……",
-      "translatedBody": "Jason 是 OpenAI 的 DevEx 工程师，他撰写了官方的 Codex 使用指南。\n\n在明天的节目中，他将向我展示他完整的 Codex 工作系统，包括如何：\n\n→ 通过 Slack 和电子邮件管理幕僚长\n\n→ 将过去的课程转化为新的技能和工作流程\n\n→ 构建学习网站，学习任何内容，例如打鼓\n\n📌 订阅即可在明天收听完整节目：https://t.co/NSTj7ijxE0",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2081029209993154980",
-      "publishedAt": "2026-07-25T14:50:01.000Z",
-      "score": 52.33,
-      "engagement": {
-        "likes": 146,
-        "retweets": 10,
+        "likes": 246,
+        "retweets": 6,
         "replies": 15
       },
       "matchedFocusAreas": [
@@ -217,34 +157,90 @@
       "sourceType": "x"
     },
     {
-      "id": "2081017328137916426",
+      "id": "2081576172656456076",
       "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "没人会承认这一点，但你只有在以下情况下才能做这种事：a) CEO 拥有……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验：No one will admit this but you can only do this sort of thing if a) the CEO has complete control of the company (prof…",
-      "whyItMatters": "Nikunj Kothari 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "No one will admit this but you can only do this sort of thing if a) the CEO has com…",
-      "originalBody": "No one will admit this but you can only do this sort of thing if a) the CEO has complete control of the company (profitable, no board and VC that I know of) and b) you are as ambitious and crazy as @DavidSHolz\n\nOtherwise imagine telling your broader team a generative media company is acquiring an astrology app. Let’s not even get into their scanners. It’ll be fascinating to see what the future holds! \n\nPS: for a second, I genuinely thought they were acquiring the real estate platform 😅",
-      "translatedTitle": "没人会承认这一点，但你只有在以下情况下才能做这种事：a) CEO 拥有……",
-      "translatedBody": "没人会承认这一点，但你只有在以下两种情况下才能做这种事：a) CEO 对公司拥有完全控制权（公司盈利，据我所知没有董事会和风险投资），b) 你像 @DavidSHolz 一样雄心勃勃、疯狂无比。\n\n否则，想象一下，你告诉你的团队，一家生成媒体公司要收购一款占星应用。我们甚至还没讨论他们的扫描仪呢。未来会怎样，真是令人期待！\n\nPS：有一瞬间，我真的以为他们要收购的是房地产平台😅",
+      "builder": "Amjad Masad",
+      "title": "一位前 Anthropico 员工透露了一个有趣的信息：黑客更喜欢使用大规模……",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Interesting drop from former Anthropic employee: Hackers prefer to use massively subsidized labs AI subscriptions for…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "Interesting drop from former Anthropic employee: Hackers prefer to use massively su…",
+      "originalBody": "Interesting drop from former Anthropic employee: Hackers prefer to use massively subsidized labs AI subscriptions for attacks as opposed to open models. https://t.co/gSVw9tv346 https://t.co/e6nOCeo0Mj",
+      "translatedTitle": "一位前 Anthropico 员工透露了一个有趣的信息：黑客更喜欢使用大规模……",
+      "translatedBody": "一位前 Anthropico 员工透露了一个有趣的信息：黑客更倾向于使用获得巨额补贴的实验室人工智能订阅服务进行攻击，而不是使用开放模型。https://t.co/gSVw9tv346 https://t.co/e6nOCeo0Mj",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2081017328137916426",
-      "publishedAt": "2026-07-25T14:02:49.000Z",
-      "score": 25.95,
+      "sourceUrl": "https://x.com/amasad/status/2081576172656456076",
+      "publishedAt": "2026-07-27T03:03:28.000Z",
+      "score": 53.7,
       "engagement": {
-        "likes": 115,
-        "retweets": 8,
-        "replies": 9
+        "likes": 189,
+        "retweets": 14,
+        "replies": 12
       },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2081555286817648738",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "现在我身在加拿大，和那些没有人工智能恐惧症的人们交谈，他们最关心的问题是……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Now that I'm in Canada and talk to folks who don't have AI psychosis the number one concern is not running out of tok…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Now that I'm in Canada and talk to folks who don't have AI psychosis the number one…",
+      "originalBody": "Now that I'm in Canada and talk to folks who don't have AI psychosis the number one concern is not running out of tokens it's \"do I trust ChatGPT enough to share my Gmail, Calendar, Google Workspace, Microsoft Office, etc.\"",
+      "translatedTitle": "现在我身在加拿大，和那些没有人工智能恐惧症的人们交谈，他们最关心的问题是……",
+      "translatedBody": "现在我身在加拿大，和那些没有人工智能恐慌症的人交谈，他们最关心的不是代币用完，而是“我是否足够信任 ChatGPT，可以分享我的 Gmail、日历、Google Workspace、Microsoft Office 等”。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2081555286817648738",
+      "publishedAt": "2026-07-27T01:40:28.000Z",
+      "score": 48.54,
+      "engagement": {
+        "likes": 69,
+        "retweets": 1,
+        "replies": 13
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2081627109299310684",
+      "type": "tweet",
+      "builder": "Zara Zhang",
+      "title": "人工智能教程如此之多的原因是：聊天产品越通用，……",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：The reason there are so many AI tutorials: the more general a chat product is, the harder it is to use. People face a…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "The reason there are so many AI tutorials: the more general a chat product is, the…",
+      "originalBody": "The reason there are so many AI tutorials: the more general a chat product is, the harder it is to use. People face a blank box and freeze, because they genuinely don't know what to ask for",
+      "translatedTitle": "人工智能教程如此之多的原因是：聊天产品越通用，……",
+      "translatedBody": "人工智能教程如此之多的原因是：聊天产品的功能越通用，使用起来就越难。人们面对空白的对话框会不知所措，因为他们真的不知道该问什么。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/zarazhangrui/status/2081627109299310684",
+      "publishedAt": "2026-07-27T06:25:52.000Z",
+      "score": 45.48,
+      "engagement": {
+        "likes": 17,
+        "retweets": 0,
+        "replies": 5
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-07-26T07:10:56.474Z",
-    "totalCandidates": 30,
+    "upstreamGeneratedAt": "2026-07-27T07:26:55.001Z",
+    "totalCandidates": 21,
     "textQualifiedCandidates": 11,
     "selectedTweets": 8
   }
