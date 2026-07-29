@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-28",
-  "generatedAt": "2026-07-28T02:49:53.244Z",
+  "date": "2026-07-29",
+  "generatedAt": "2026-07-29T02:56:37.420Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-07-28",
-  "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 21 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-07-29",
+  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 29 条候选动态里，筛出 15 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,105 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2081396796174282900",
+      "id": "2081890955070980416",
       "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "chatgpt 的作品非常出色，“作品”一词不足以形容它的成就。",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：chatgpt work is remarkable, and \"work\" undersells it. from my phone i sent: \"use all my chat history to figure out id…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "chatgpt work is remarkable, and \"work\" undersells it.",
-      "originalBody": "chatgpt work is remarkable, and \"work\" undersells it.\n\nfrom my phone i sent:\n\n\"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in each place and decide where to go, and then after we get to group agreement make reservations. draft an email in my gmail i can send out to my friends when the site is ready.\"\n\nit...just worked.",
-      "translatedTitle": "chatgpt 的作品非常出色，“作品”一词不足以形容它的成就。",
-      "translatedBody": "chatgpt 的工作效率简直惊人，“工作”二字都无法形容它的效果。\n\n我用手机发送了以下内容：\n\n“利用我所有的聊天记录，为和 8 个朋友的长周末旅行想出一些好点子，规划出三个最佳方案，然后创建一个功能齐全的网站，让我们 9 个人可以在上面协调每个地方的行程安排，最终决定去哪里。达成共识后，再在我的 Gmail 里写一封邮件，等网站上线后发给朋友们。”\n\n它……真的奏效了。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2081396796174282900",
-      "publishedAt": "2026-07-26T15:10:41.000Z",
-      "score": 175.98,
-      "engagement": {
-        "likes": 14718,
-        "retweets": 471,
-        "replies": 1368
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2081517519303737559",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "我用 𝚜𝚌𝚛𝚌𝚎𝚕 CLI TypeScript 编译了 𝚟𝚎𝚛𝚒𝚙𝚝𝚌 到 native。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：I compiled 𝚟𝚎𝚛𝚌𝚎𝚕 CLI TypeScript to native with 𝚜𝚌𝚛𝚒𝚙𝚝𝚌. Incredible. ✓ Resulting binary size: 1.28mb ✓ S…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "I compiled 𝚟𝚎𝚛𝚌𝚎𝚕 CLI TypeScript to native with 𝚜𝚌𝚛𝚒𝚙𝚝𝚌.",
-      "originalBody": "I compiled 𝚟𝚎𝚛𝚌𝚎𝚕 CLI TypeScript to native with 𝚜𝚌𝚛𝚒𝚙𝚝𝚌. Incredible.\n\n✓ Resulting binary size: 1.28mb \n✓ Startup overhead: 1.5ms (mean)\n✓ Compiles in 2.94s (mean)\n✓ Uses 𝚗𝚘𝚍𝚎:𝚑𝚝𝚝𝚙𝚜, 𝚗𝚘𝚍𝚎:𝚏𝚜, 𝚗𝚘𝚍𝚎:𝚙𝚊𝚝𝚑, 𝚗𝚘𝚍𝚎:𝚘𝚜, 𝚗𝚘𝚍𝚎:𝚌𝚛𝚢𝚙𝚝𝚘\n✓ Highly readable TypeScript\n✓ Code translated by GLM 5.2 Fast\n✓ Deploys like a charm!\n\nNo embedded v8 / QuickJS, fully static.",
-      "translatedTitle": "我用 𝚜𝚌𝚛𝚌𝚎𝚕 CLI TypeScript 编译了 𝚟𝚎𝚛𝚒𝚙𝚝𝚌 到 native。",
-      "translatedBody": "我用 𝚟𝚎𝚛𝚌𝚎𝚕 CLI TypeScript 编译成了原生代码，太棒了！\n\n✓ 生成的二进制文件大小：1.28MB\n\n✓ 启动开销：1.5毫秒（平均）\n\n✓ 编译时间：2.94秒（平均）\n\n✓ 使用 𝚗𝚘𝚍𝚎:𝚑𝚝𝚝𝚙𝚜、𝚗𝚘𝚍𝚎:𝚏𝚜、𝚗𝚘𝚍𝚎:𝚙𝚊𝚝𝚑、𝚗𝚘𝚍𝚎:𝚘𝚜 和 𝚗𝚘𝚍𝚎:𝚌𝚛𝚢𝚙𝚝𝚘\n\n✓ 代码可读性极佳\n\n✓ 使用 GLM 5.2 快速转换\n\n✓ 部署便捷太棒了！\n\n没有嵌入 V8/QuickJS，完全静态。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2081517519303737559",
-      "publishedAt": "2026-07-26T23:10:23.000Z",
-      "score": 159.09,
-      "engagement": {
-        "likes": 577,
-        "retweets": 28,
-        "replies": 39
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2081546513885622760",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "Vercel 很荣幸地与 Open Weights 和美国人工智能领导层共同签署了这封信。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Vercel proudly co-signs the Open Weights and American AI Leadership letter. Open source, data, protocols & research e…",
-      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Vercel proudly co-signs the Open Weights and American AI Leadership letter.",
-      "originalBody": "Vercel proudly co-signs the Open Weights and American AI Leadership letter. \n\nOpen source, data, protocols & research enable the technological wonders we enjoy every day, enriching our lives and our world.\n\nOpen weights are the logical next frontier: https://t.co/SMeMS2lINu https://t.co/JeQwc1YvtL",
-      "translatedTitle": "Vercel 很荣幸地与 Open Weights 和美国人工智能领导层共同签署了这封信。",
-      "translatedBody": "Vercel 非常荣幸地联署了“开放权重”和“美国人工智能领导力”这封信。\n\n开源软件、数据、协议和研究成就了我们每天享受的科技奇迹，丰富了我们的生活，也造福了我们的世界。\n\n开放权重是合乎逻辑的下一个发展方向：https://t.co/SMeMS2lINu https://t.co/JeQwc1YvtL",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2081546513885622760",
-      "publishedAt": "2026-07-27T01:05:36.000Z",
-      "score": 138.04,
-      "engagement": {
-        "likes": 1291,
-        "retweets": 65,
-        "replies": 38
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2081491621162668207",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "人工智能在现实世界中的普及应用仍然蕴藏着巨大的机遇。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：There’s still so much opportunity in the diffusion of AI into the real world. Most enterprises are going to need a to…",
+      "builder": "Swyx",
+      "title": "作为代理实验室论文的先驱，该论文获得了评估/路由/交互性方面的成果……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：as the progenitor of the agent lab thesis which got the evals/routing/interactivity/ROI focus right i gotta say the b…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "There’s still so much opportunity in the diffusion of AI into the real world.",
-      "originalBody": "There’s still so much opportunity in the diffusion of AI into the real world. Most enterprises are going to need a ton of support to be able to apply the model breakthroughs to their workflows.\n\nIntelligence alone is not enough to transform most processes because you need to bridge that intelligence with real world feedback loops. That requires connecting to various enterprise systems, getting the right data to the AI, enabling humans to make decisions at different steps in a process through the right UX, having workflows that improve the underlying data and models over time, dealing with regulatory and compliance challenges, and more. \n\nThe way you implement AI agents for doing client onboarding in a bank is entirely different from contract review in a legal team. In life sciences, financial services, legal, manufacturing, and many other critical industries, AI is only valuable if it makes contact with the real world in a contextual way. \n\nThe way that interaction is going to happen is through an applied AI layer. Some of that will come from the labs directly, but lots of the opportunity will necessarily come from independent companies that can go deep in each industry.\n\nAnd counter to some beliefs, this need isn’t reduced even as AI model capability improves over time. In fact, the better the models get, the more ambitious you can be in the workflows you can automate, which generally requires even more of this applied layer. Tons of opportunity right now.",
-      "translatedTitle": "人工智能在现实世界中的普及应用仍然蕴藏着巨大的机遇。",
-      "translatedBody": "人工智能在现实世界中的普及应用仍然蕴藏着巨大的机遇。大多数企业需要大量的支持才能将模型突破应用于自身的工作流程。\n\n仅仅依靠智能不足以变革大多数流程，因为还需要将智能与现实世界的反馈循环连接起来。这需要连接各种企业系统，将正确的数据提供给人工智能，通过合适的用户体验使人们能够在流程的不同步骤中做出决策，建立能够随着时间推移不断改进底层数据和模型的工作流程，应对监管和合规方面的挑战等等。\n\n在银行中，使用人工智能代理进行客户注册的方式与在法律团队中进行合同审查的方式截然不同。在生命科学、金融服务、法律、制造业以及许多其他关键行业，人工智能只有以情境化的方式与现实世界互动才能发挥其价值。\n\n这种互动将通过应用型人工智能层来实现。其中一些将直接来自实验室，但许多机会必然来自能够深入各个行业的独立公司。\n\n与某些观点相反，即使人工智能模型的能力随着时间推移而不断提升，这种需求也不会减少。事实上，模型越好，你就能实现越宏大的自动化工作流程，而这通常需要更多应用层的支持。目前蕴藏着巨大的机遇。",
+      "originalTitle": "as the progenitor of the agent lab thesis which got the evals/routing/interactivity…",
+      "originalBody": "as the progenitor of the agent lab thesis which got the evals/routing/interactivity/ROI focus right\n\n i gotta say the biggest argument against myself is that Claude Code got accidentally \"open sourced\" this year and approximately ~nothing happened to either it or its competitors' roadmaps",
+      "translatedTitle": "作为代理实验室论文的先驱，该论文获得了评估/路由/交互性方面的成果……",
+      "translatedBody": "作为代理实验室理论的先驱，我正确地把握了评估、路由、交互和投资回报率这几个关键点。\n\n我必须说，对我最大的质疑是，Claude Code 今年意外地“开源”了，但它及其竞争对手的路线图几乎没有受到任何影响。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2081491621162668207",
-      "publishedAt": "2026-07-26T21:27:29.000Z",
-      "score": 82.29,
+      "sourceUrl": "https://x.com/swyx/status/2081890955070980416",
+      "publishedAt": "2026-07-27T23:54:18.000Z",
+      "score": 173.3,
       "engagement": {
-        "likes": 321,
-        "retweets": 41,
-        "replies": 58
+        "likes": 55,
+        "retweets": 3,
+        "replies": 17
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -130,53 +51,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2081412243388788988",
+      "id": "2081852481517318560",
       "type": "tweet",
-      "builder": "Dan Shipper",
-      "title": "我休假一周，专心撰写关于《法典》起源的权威历史（如……）。",
-      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：i am taking the week off to write the definitive history of how codex happened (as told by deep interviews with insid…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "i am taking the week off to write the definitive history of how codex happened (as…",
-      "originalBody": "i am taking the week off to write the definitive history of how codex happened (as told by deep interviews with insiders @openai) \n\npublishing on @every in a few weeks\n\ni will be dropping breadcrumbs and learnings as i go :)",
-      "translatedTitle": "我休假一周，专心撰写关于《法典》起源的权威历史（如……）。",
-      "translatedBody": "我这周休假，专心撰写 Codex 的终极历史（基于对 OpenAI 内部人士的深度访谈）。\n\n几周后将在 @every 上发布。\n\n我会随时分享写作过程中的点滴和心得体会 :)",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/danshipper/status/2081412243388788988",
-      "publishedAt": "2026-07-26T16:12:04.000Z",
-      "score": 54.39,
-      "engagement": {
-        "likes": 246,
-        "retweets": 6,
-        "replies": 15
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2081576172656456076",
-      "type": "tweet",
-      "builder": "Amjad Masad",
-      "title": "一位前 Anthropico 员工透露了一个有趣的信息：黑客更喜欢使用大规模……",
-      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Interesting drop from former Anthropic employee: Hackers prefer to use massively subsidized labs AI subscriptions for…",
+      "builder": "Guillermo Rauch",
+      "title": "在我们最新的基准测试中，Grok 4.5 表现最佳……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：In our latest https://t.co/p9AoezbuGt benchmarks, Grok 4.5 has emerged as the best cybersecurity AI model on price-pe…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "Interesting drop from former Anthropic employee: Hackers prefer to use massively su…",
-      "originalBody": "Interesting drop from former Anthropic employee: Hackers prefer to use massively subsidized labs AI subscriptions for attacks as opposed to open models. https://t.co/gSVw9tv346 https://t.co/e6nOCeo0Mj",
-      "translatedTitle": "一位前 Anthropico 员工透露了一个有趣的信息：黑客更喜欢使用大规模……",
-      "translatedBody": "一位前 Anthropico 员工透露了一个有趣的信息：黑客更倾向于使用获得巨额补贴的实验室人工智能订阅服务进行攻击，而不是使用开放模型。https://t.co/gSVw9tv346 https://t.co/e6nOCeo0Mj",
+      "originalTitle": "In our latest https://t.co/p9AoezbuGt benchmarks, Grok 4.5 has emerged as the best…",
+      "originalBody": "In our latest https://t.co/p9AoezbuGt benchmarks, Grok 4.5 has emerged as the best cybersecurity AI model on price-performance.\n\nIt's 10x cheaper than Sol, 5.7x cheaper than Opus 5, and 2.2x cheaper than Kimi K3, yet at Kimi-like perf.\n\nSol remains the frontier, ahead of Opus 5. https://t.co/kcSDIqnXsN",
+      "translatedTitle": "在我们最新的基准测试中，Grok 4.5 表现最佳……",
+      "translatedBody": "在我们最新的基准测试中（https://t.co/p9AoezbuGt），Grok 4.5 凭借其卓越的性价比，成为网络安全 AI 模型中的佼佼者。\n\n它的价格比 Sol 低 10 倍，比 Opus 5 低 5.7 倍，比 Kimi K3 低 2.2 倍，但性能却与 Kimi 不相上下。\n\nSol 依然保持领先地位，领先于 Opus 5（https://t.co/kcSDIqnXsN）。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/amasad/status/2081576172656456076",
-      "publishedAt": "2026-07-27T03:03:28.000Z",
-      "score": 53.7,
+      "sourceUrl": "https://x.com/rauchg/status/2081852481517318560",
+      "publishedAt": "2026-07-27T21:21:25.000Z",
+      "score": 159.65,
       "engagement": {
-        "likes": 189,
-        "retweets": 14,
-        "replies": 12
+        "likes": 622,
+        "retweets": 40,
+        "replies": 46
       },
       "matchedFocusAreas": [
         "Foundation Models"
@@ -184,26 +78,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2081555286817648738",
+      "id": "2081842439304995169",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "现在我身在加拿大，和那些没有人工智能恐惧症的人们交谈，他们最关心的问题是……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Now that I'm in Canada and talk to folks who don't have AI psychosis the number one concern is not running out of tok…",
+      "builder": "Guillermo Rauch",
+      "title": "Kimi 的论文强调了为代理人设定合适的安全边界的重要性……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Kimi's paper underlines the importance of the right security boundary for agents to run in. tl:DR: container-level is…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Now that I'm in Canada and talk to folks who don't have AI psychosis the number one…",
-      "originalBody": "Now that I'm in Canada and talk to folks who don't have AI psychosis the number one concern is not running out of tokens it's \"do I trust ChatGPT enough to share my Gmail, Calendar, Google Workspace, Microsoft Office, etc.\"",
-      "translatedTitle": "现在我身在加拿大，和那些没有人工智能恐惧症的人们交谈，他们最关心的问题是……",
-      "translatedBody": "现在我身在加拿大，和那些没有人工智能恐慌症的人交谈，他们最关心的不是代币用完，而是“我是否足够信任 ChatGPT，可以分享我的 Gmail、日历、Google Workspace、Microsoft Office 等”。",
+      "originalTitle": "Kimi's paper underlines the importance of the right security boundary for agents to…",
+      "originalBody": "Kimi's paper underlines the importance of the right security boundary for agents to run in.\n\ntl:DR: container-level isolation is not enough. In their experiments, agents crashed the underlying machine (via kernel panics).\n\nFirecracker microVMs (as in Vercel Sandbox) are safe. https://t.co/wvbdBo5Ng8 https://t.co/OFCWYaiKw7",
+      "translatedTitle": "Kimi 的论文强调了为代理人设定合适的安全边界的重要性……",
+      "translatedBody": "Kimi 的论文强调了为代理程序设置合适的安全边界的重要性。\n\n简而言之：容器级隔离是不够的。在他们的实验中，代理程序导致底层机器崩溃（内核崩溃）。\n\nFirecracker 微型虚拟机（例如 Vercel Sandbox）是安全的。https://t.co/wvbdBo5Ng8 https://t.co/OFCWYaiKw7",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2081555286817648738",
-      "publishedAt": "2026-07-27T01:40:28.000Z",
-      "score": 48.54,
+      "sourceUrl": "https://x.com/rauchg/status/2081842439304995169",
+      "publishedAt": "2026-07-27T20:41:30.000Z",
+      "score": 156.15,
       "engagement": {
-        "likes": 69,
-        "retweets": 1,
-        "replies": 13
+        "likes": 295,
+        "retweets": 22,
+        "replies": 36
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -211,26 +105,136 @@
       "sourceType": "x"
     },
     {
-      "id": "2081627109299310684",
+      "id": "2081904230768816487",
       "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "人工智能教程如此之多的原因是：聊天产品越通用，……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：The reason there are so many AI tutorials: the more general a chat product is, the harder it is to use. People face a…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "The reason there are so many AI tutorials: the more general a chat product is, the…",
-      "originalBody": "The reason there are so many AI tutorials: the more general a chat product is, the harder it is to use. People face a blank box and freeze, because they genuinely don't know what to ask for",
-      "translatedTitle": "人工智能教程如此之多的原因是：聊天产品越通用，……",
-      "translatedBody": "人工智能教程如此之多的原因是：聊天产品的功能越通用，使用起来就越难。人们面对空白的对话框会不知所措，因为他们真的不知道该问什么。",
+      "builder": "Swyx",
+      "title": "顺便一提，以美元计入每个输入/输出代币的成本指标，在很久以前就已不再适用……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：incidentally, $ per input/output tokens died as a relevant cost measure sometime last year if you haven’t updated you…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "incidentally, $ per input/output tokens died as a relevant cost measure sometime la…",
+      "originalBody": "incidentally, $ per input/output tokens died as a relevant cost measure sometime last year\n\nif you haven’t updated your x axes to $/task per @ArtificialAnlys then idk if you can be taken seriously anymore these days https://t.co/EJPJiNwT8I",
+      "translatedTitle": "顺便一提，以美元计入每个输入/输出代币的成本指标，在很久以前就已不再适用……",
+      "translatedBody": "顺便一提，以每个输入/输出代币的价格作为衡量成本的指标，早在去年就过时了。\n\n如果你还没把 x 轴更新成 @ArtificialAnlys 的每任务成本，那我觉得你现在还能被认真对待吗？https://t.co/EJPJiNwT8I",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2081627109299310684",
-      "publishedAt": "2026-07-27T06:25:52.000Z",
-      "score": 45.48,
+      "sourceUrl": "https://x.com/swyx/status/2081904230768816487",
+      "publishedAt": "2026-07-28T00:47:03.000Z",
+      "score": 151.08,
       "engagement": {
-        "likes": 17,
+        "likes": 94,
+        "retweets": 6,
+        "replies": 28
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2081775399097549083",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我问了@jxnlco（OpenAI 的 DevEx）：“Codex 为你做过的最疯狂的事是什么？” H…",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I asked @jxnlco (DevEx at OpenAI): “What’s the craziest thing Codex did for you?” Here’s his answer: “I was on a bike…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "I asked @jxnlco (DevEx at OpenAI): “What’s the craziest thing Codex did for you?” H…",
+      "originalBody": "I asked @jxnlco (DevEx at OpenAI): “What’s the craziest thing Codex did for you?”\n\nHere’s his answer:\n\n“I was on a bike ride when a coworker asked me to fix a launch video. So I connected remotely from my phone and asked Codex to use computer use to edit the video, export it, and post it back to Slack.\n\nTwenty minutes later, there was a new video in the Slack thread. Then I told Codex:\n\n‘Every 30 minutes, check the thread for feedback and export V2, V3, V4.’\n\nBy the time I got home, the launch video was greenlit.”\n\nCodex had handled the revisions by repeatedly checking Slack for feedback.\n\n📌 Watch the full episode here: https://t.co/DulNtYvqGD",
+      "translatedTitle": "我问了@jxnlco（OpenAI 的 DevEx）：“Codex 为你做过的最疯狂的事是什么？” H…",
+      "translatedBody": "我问了 @jxnlco（OpenAI 的 DevEx）：“Codex 为你做过的最疯狂的事是什么？”\n\n以下是他的回答：\n\n“当时我正在骑车，一位同事让我修改一个发布视频。于是我通过手机远程连接，让 Codex 使用电脑编辑视频，导出后再发布到 Slack。\n\n二十分钟后，Slack 聊天群里出现了一个新的视频。然后我告诉 Codex：\n\n“每隔 30 分钟查看聊天群的反馈，并导出 V2、V3、V4 版本。”\n\n等我回到家时，发布视频已经通过审核了。”\n\nCodex 通过不断查看 Slack 上的反馈来处理修改。\n\n📌 点击此处观看完整视频：https://t.co/DulNtYvqGD",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2081775399097549083",
+      "publishedAt": "2026-07-27T16:15:07.000Z",
+      "score": 81.2,
+      "engagement": {
+        "likes": 338,
+        "retweets": 16,
+        "replies": 18
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2081979033261412537",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "更新。",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Update. I have decided to take a break from x to recharge a bit. See you back tomorrow for more ChatGPT and Codex fun…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Update.",
+      "originalBody": "Update. I have decided to take a break from x to recharge a bit. See you back tomorrow for more ChatGPT and Codex fun. It's going to be a fun week.",
+      "translatedTitle": "更新。",
+      "translatedBody": "更新：我决定暂时放下 x 的工作，休息一下。明天见，继续和大家分享 ChatGPT 和 Codex 的乐趣。这周一定会很精彩。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2081979033261412537",
+      "publishedAt": "2026-07-28T05:44:17.000Z",
+      "score": 70.82,
+      "engagement": {
+        "likes": 3199,
+        "retweets": 59,
+        "replies": 357
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2081781952437486052",
+      "type": "tweet",
+      "builder": "Madhu Guru",
+      "title": "大多数产品评审会议都很烦人，因为它们组织得很糟糕。",
+      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Most product review meetings are annoying because they’re poorly run. The best product reviews compress months of lea…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Most product review meetings are annoying because they’re poorly run.",
+      "originalBody": "Most product review meetings are annoying because they’re poorly run.\n\nThe best product reviews compress months of learnings into an hour by simulating the market reaction to your ideas. \n\nThat only works if the people in the room deeply understand the space, have great product sense, strong opinions, and are often right.\n\nToo many product reviews have drifted toward status updates, leadership visibility, and cross-functional alignment.\n\nWhen that happens, people naturally resent them because it feels more like overhead and less like learning.",
+      "translatedTitle": "大多数产品评审会议都很烦人，因为它们组织得很糟糕。",
+      "translatedBody": "大多数产品评审会议之所以令人厌烦，是因为它们组织得很糟糕。\n\n最好的产品评审会议能将数月的学习成果浓缩到一个小时内，通过模拟市场对你的想法的反应来实现。\n\n但这只有在参会人员对领域有深刻的理解、具备敏锐的产品洞察力、拥有鲜明的观点，并且往往是正确的情况下才能奏效。\n\n太多的产品评审会议已经沦为进度汇报、领导层展示和跨部门协作的平台。\n\n当这种情况发生时，人们自然会对此感到不满，因为这感觉更像是增加负担，而不是真正地学习。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/realmadhuguru/status/2081781952437486052",
+      "publishedAt": "2026-07-27T16:41:09.000Z",
+      "score": 69.42,
+      "engagement": {
+        "likes": 36,
         "retweets": 0,
-        "replies": 5
+        "replies": 3
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2081930301752942703",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "人工智能就业前景黯淡的说法并未像某些人预测的那样出现。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：The negative AI jobs outcome just continues to not be happening as some predicted. A large portion of enterprises I t…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "The negative AI jobs outcome just continues to not be happening as some predicted.",
+      "originalBody": "The negative AI jobs outcome just continues to not be happening as some predicted. A large portion of enterprises I talk with -across industries- are still hiring, just with a tilt in the kind of roles they’re going after.\n\nThey’re finding that AI is letting them do more, and Jevons paradox is actually playing out. They’re hiring engineers to go after problems they couldn’t tackle before. They’re hiring in sales because they can go deeper in client relationships now with the help of AI. They’re hiring in internal FDEs to help them deploy AI. And so on.\n\nAnyone using AI merely to cut costs eventually just gets outcompeted by companies that use AI to better serve their customers and drive more breakthroughs in their business. \n\nCould this trend change at some point? Sure. But for now this appears to be the trajectory we’re on.",
+      "translatedTitle": "人工智能就业前景黯淡的说法并未像某些人预测的那样出现。",
+      "translatedBody": "人工智能就业前景黯淡的说法并未像某些人预测的那样出现。我接触过的大部分企业——涵盖各个行业——仍在招聘，只是招聘的岗位类型有所调整。\n\n他们发现人工智能让他们能够做更多的事情，杰文斯悖论也正在上演。他们招聘工程师来解决以前无法解决的问题。他们招聘销售人员，因为借助人工智能，他们现在可以更深入地了解客户关系。他们招聘内部的现场工程师来帮助他们部署人工智能。等等。\n\n任何仅仅为了降低成本而使用人工智能的企业，最终都会被那些利用人工智能更好地服务客户并推动业务突破的公司所超越。\n\n这种趋势会在未来发生改变吗？当然会。但就目前而言，这似乎就是我们正走在的发展道路上。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2081930301752942703",
+      "publishedAt": "2026-07-28T02:30:38.000Z",
+      "score": 55.26,
+      "engagement": {
+        "likes": 219,
+        "retweets": 27,
+        "replies": 39
       },
       "matchedFocusAreas": [
         "Product Ships"
@@ -239,9 +243,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-07-27T07:26:55.001Z",
-    "totalCandidates": 21,
-    "textQualifiedCandidates": 11,
+    "upstreamGeneratedAt": "2026-07-28T07:11:51.765Z",
+    "totalCandidates": 29,
+    "textQualifiedCandidates": 15,
     "selectedTweets": 8
   }
 }
