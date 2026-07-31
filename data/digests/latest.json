@@ -1,10 +1,10 @@
 {
-  "date": "2026-07-30",
-  "generatedAt": "2026-07-30T02:41:49.475Z",
+  "date": "2026-07-31",
+  "generatedAt": "2026-07-31T03:23:50.704Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-07-30",
-  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 23 条候选动态里，筛出 9 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-07-31",
+  "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 32 条候选动态里，筛出 20 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,227 +23,229 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2082199414656127010",
+      "id": "2082628413769003269",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "关于招聘：目前人工智能原生独立开发者/球员兼教练的市场行情非常火爆……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：re: hiring right now it's a huge bull market for AI-native IC's/player-coaches it's a huge bear market for \"heads of…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "re: hiring right now it's a huge bull market for AI-native IC's/player-coaches it's…",
-      "originalBody": "re: hiring right now\n\nit's a huge bull market for AI-native IC's/player-coaches\nit's a huge bear market for \"heads of X\" managers\n\nnever seen such furious bifurcation. to oversimplify: 1 year experience managing 10 agents > 10 years experience managing 10-100 people",
-      "translatedTitle": "关于招聘：目前人工智能原生独立开发者/球员兼教练的市场行情非常火爆……",
-      "translatedBody": "关于目前的招聘情况\n\n对于人工智能原生工程师/球员兼教练来说，现在是牛市\n\n而对于“X部门主管”这类经理来说，则是熊市\n\n从未见过如此剧烈的分化。简单来说：1年管理10名员工的经验 > 10年管理10-100人的经验",
+      "builder": "Sam Altman",
+      "title": "我对此感到非常兴奋。",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：so excited for this. very close to models that will significantly accelerate scientific discovery; the best way to do…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "so excited for this.",
+      "originalBody": "so excited for this.\n\nvery close to models that will significantly accelerate scientific discovery; the best way to do this is for us to empower scientists, not to try to figure out everything ourselves.\n\nwe all deserve the benefits. https://t.co/nzfHpb96re",
+      "translatedTitle": "我对此感到非常兴奋。",
+      "translatedBody": "对此我感到非常兴奋。\n\n这非常接近能够显著加速科学发现的模型；实现这一目标的最佳途径是赋能科学家，而不是试图独自解决所有问题。\n\n我们都应该从中受益。https://t.co/nzfHpb96re",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2082199414656127010",
-      "publishedAt": "2026-07-28T20:20:00.000Z",
-      "score": 160.31,
+      "sourceUrl": "https://x.com/sama/status/2082628413769003269",
+      "publishedAt": "2026-07-30T00:44:41.000Z",
+      "score": 168.41,
       "engagement": {
-        "likes": 721,
-        "retweets": 25,
-        "replies": 69
+        "likes": 3117,
+        "retweets": 190,
+        "replies": 432
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2082617801362313527",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "今天我尝试注册@docusign，但遇到了一个我无法通过的验证码……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：today i tried to sign up for @docusign and was presented a captcha that i could not solve this is an $11B company tha…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "today i tried to sign up for @docusign and was presented a captcha that i could not…",
+      "originalBody": "today i tried to sign up for @docusign and was presented a captcha that i could not solve\n\nthis is an $11B company that everyone hates\n\npeople who say \"make something people want\" dont have the full picture https://t.co/DHT1CcVMbk https://t.co/j7J7irkwIB",
+      "translatedTitle": "今天我尝试注册@docusign，但遇到了一个我无法通过的验证码……",
+      "translatedBody": "今天我尝试注册 @docusign，结果遇到了一个验证码，我没能解决。\n\n这是一家市值 110 亿美元的公司，但人人都讨厌它。\n\n那些说“做人们想要的东西”的人根本不了解全部情况。https://t.co/DHT1CcVMbk https://t.co/j7J7irkwIB",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2082617801362313527",
+      "publishedAt": "2026-07-30T00:02:31.000Z",
+      "score": 120.59,
+      "engagement": {
+        "likes": 24,
+        "retweets": 0,
+        "replies": 18
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2082642205811106158",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "人工智能极大地提高了我的工作效率，但我开始意识到其中存在三个阴暗面……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：AI has been great for my productivity, but I’m starting to recognize three dark patterns: 1. Becoming too lazy to rea…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "AI has been great for my productivity, but I’m starting to recognize three dark pat…",
+      "originalBody": "AI has been great for my productivity, but I’m starting to recognize three dark patterns:\n\n1. Becoming too lazy to read anything\n\nIt's too easy to just read AI summaries over the original piece or let agents go wild changing my files without reviewing what they did.\n\n2. Getting distracted by agents while I’m out\n\nIt’s too easy to open ChatGPT or Claude on my phone while I’m out to give feedback my agents and feel “productive,” even when I’m supposed to be watching my kids or doing literally anything else.\n\n3. Preferring to talk to the agent vs. a human\n\nThis is a new pattern with ChatGPT Voice, I sometimes find myself preferring to brainstorm with the agent instead of the actual human in the room.",
+      "translatedTitle": "人工智能极大地提高了我的工作效率，但我开始意识到其中存在三个阴暗面……",
+      "translatedBody": "人工智能极大地提升了我的工作效率，但我开始意识到三种不良习惯：\n\n1. 变得懒惰，不愿阅读任何内容\n\n我很容易只看人工智能生成的摘要，而忽略原文，或者任由智能体随意修改我的文件而不进行审核。\n\n2. 外出时容易被智能体分散注意力\n\n外出时很容易打开手机上的 ChatGPT 或 Claude 来给智能体提供反馈，从而感觉自己“很高效”，即使我应该在照顾孩子或做其他任何事情。\n\n3. 更倾向于与智能体而非真人交流\n\n这是使用 ChatGPT Voice 后出现的新现象，我有时发现自己更愿意与智能体进行头脑风暴，而不是与房间里的真人交流。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2082642205811106158",
+      "publishedAt": "2026-07-30T01:39:30.000Z",
+      "score": 79.76,
+      "engagement": {
+        "likes": 201,
+        "retweets": 8,
+        "replies": 56
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2082658870523248967",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "Dwarkesh 的帖子发人深省。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Thought provoking post by Dwarkesh. In general - as AI gets more powerful - we should expect on the margin that infer…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Thought provoking post by Dwarkesh.",
+      "originalBody": "Thought provoking post by Dwarkesh. In general - as AI gets more powerful - we should expect on the margin that inference goes toward the most economically useful task, and everything else gets priced out. \n\nThis in theory in a very scarce environment would cause the cost of inference to skyrocket because those tasks would be far more valuable than today. \n\nBut I don’t think it plays out in the way that’s laid out just simply due to market forces competing for inference demand as a way of continuing to drive down prices until capacity can catch up.\n\nThere are too many model providers and infra players that want these workloads to cause the effect that’s proposed here. But will see!",
+      "translatedTitle": "Dwarkesh 的帖子发人深省。",
+      "translatedBody": "Dwarkesh 的帖子引人深思。总的来说，随着人工智能能力的提升，我们应该预期推理任务会优先用于最具经济价值的任务，而其他任务则会因成本过高而被淘汰。\n\n理论上，在资源极其稀缺的环境下，推理成本会飙升，因为这些任务的价值将远高于现在。\n\n但我认为实际情况并非如此，原因很简单，市场力量会竞相争夺推理需求，从而持续压低价格，直到产能跟上需求为止。\n\n有太多的模型提供商和基础设施厂商都希望获得这些工作负载，因此不太可能出现这里所设想的情况。让我们拭目以待！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2082658870523248967",
+      "publishedAt": "2026-07-30T02:45:43.000Z",
+      "score": 77.18,
+      "engagement": {
+        "likes": 133,
+        "retweets": 10,
+        "replies": 20
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2082480369543065855",
+      "type": "tweet",
+      "builder": "Nan Yu",
+      "title": "很喜欢这个观点——你现在用的哪些产品，换用起来会觉得特别糟糕？",
+      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Love this POV -- what products do you use which would absolutely suck to switch to an alternative, besides apple prod…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Love this POV -- what products do you use which would absolutely suck to switch to…",
+      "originalBody": "Love this POV -- what products do you use which would absolutely suck to switch to an alternative, besides apple products?\n\nWhen I think about it, a couple of mundane examples come to mind. 3M post-it notes, and Expo whiteboard markers are unmatched. The alternatives are garbage https://t.co/DbY8Ltyg3F",
+      "translatedTitle": "很喜欢这个观点——你现在用的哪些产品，换用起来会觉得特别糟糕？",
+      "translatedBody": "很喜欢这个观点——除了苹果产品之外，你还有哪些产品如果换成其他品牌就觉得糟透了？\n\n仔细想想，我脑海里浮现出几个很普通的例子。3M 便利贴和 Expo 白板笔简直无可匹敌。其他替代品都是垃圾。https://t.co/DbY8Ltyg3F",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thenanyu/status/2082480369543065855",
+      "publishedAt": "2026-07-29T14:56:25.000Z",
+      "score": 72.43,
+      "engagement": {
+        "likes": 49,
+        "retweets": 3,
+        "replies": 12
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2082579428090192192",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "Claude Design 中我最喜欢的功能之一很简单：它总是会提出澄清问题……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：One of my favorite features in Claude Design is a simple one: It always asks clarifying questions before creating any…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "One of my favorite features in Claude Design is a simple one: It always asks clarif…",
+      "originalBody": "One of my favorite features in Claude Design is a simple one:\n\nIt always asks clarifying questions before creating anything.\n\nI’ve found these questions consistently help me think through my design requirements with AI. I’m surprised other AI design tools haven’t copied this yet.\n\n📌 Here’s how I use Claude Design to prototype: https://t.co/DYtxQdhytA",
+      "translatedTitle": "Claude Design 中我最喜欢的功能之一很简单：它总是会提出澄清问题……",
+      "translatedBody": "Claude Design 中我最喜欢的功能之一非常简单：\n\n它会在创建任何内容之前提出一些澄清性问题。\n\n我发现这些问题总能帮助我更好地思考如何利用 AI 实现我的设计需求。我很惊讶其他 AI 设计工具竟然还没有借鉴这一点。\n\n📌 以下是我如何使用 Claude Design 进行原型设计：https://t.co/DYtxQdhytA",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2082579428090192192",
+      "publishedAt": "2026-07-29T21:30:02.000Z",
+      "score": 70.34,
+      "engagement": {
+        "likes": 34,
+        "retweets": 2,
+        "replies": 7
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2082608994275725650",
+      "type": "tweet",
+      "builder": "Dan Shipper",
+      "title": "写得太好了，坏人显然会试图利用模型做一些事情，比如……",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：incredibly good write up bad actors will obviously try to use models to do stuff like this on purpose in the future.…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "incredibly good write up bad actors will obviously try to use models to do stuff li…",
+      "originalBody": "incredibly good write up \n\nbad actors will obviously try to use models to do stuff like this on purpose in the future. \n\non the bright side:\n\n- OpenAI’s safety classifiers were turned off, the model was explicitly directed to do exploits\n- HG’s AI actually surfaced the attack automatically (though not with a high enough criticality) \n\nWill obviously require any company dealing with sensitive customer data to have automated agentic defense systems, massive opportunity and seems effective",
+      "translatedTitle": "写得太好了，坏人显然会试图利用模型做一些事情，比如……",
+      "translatedBody": "写得真好！\n\n显然，未来不法分子会故意利用模型进行类似攻击。\n\n好的一面是：\n\n- OpenAI 的安全分类器被关闭，模型被明确指示进行漏洞利用。\n\n- HG 的 AI 实际上自动发现了攻击（尽管严重性不够高）。\n\n显然，任何处理敏感客户数据的公司都需要配备自动化代理防御系统，这是一个巨大的机遇，而且似乎行之有效。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/danshipper/status/2082608994275725650",
+      "publishedAt": "2026-07-29T23:27:31.000Z",
+      "score": 69.54,
+      "engagement": {
+        "likes": 27,
+        "retweets": 2,
+        "replies": 7
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2082617409408762124",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "哈哈，难道Anthropologie公司里没人停下来想一想为什么这些数字看起来这么……",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：lol did nobody at Anthropic stop for a second and wonder why the numbers looked this absurd before posting the “victo…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "lol did nobody at Anthropic stop for a second and wonder why the numbers looked thi…",
+      "originalBody": "lol did nobody at Anthropic stop for a second and wonder why the numbers looked this absurd before posting the “victory”-tweet?\nhttps://t.co/DPdPc04YZT https://t.co/ObXC5D8g4v",
+      "translatedTitle": "哈哈，难道Anthropologie公司里没人停下来想一想为什么这些数字看起来这么……",
+      "translatedBody": "哈哈，Anthropologie 的人难道就没人停下来想一想，为什么数据这么离谱就发那条“胜利”推文了吗？\n\nhttps://t.co/DPdPc04YZT https://t.co/ObXC5D8g4v",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2082617409408762124",
+      "publishedAt": "2026-07-30T00:00:58.000Z",
+      "score": 67.19,
+      "engagement": {
+        "likes": 2884,
+        "retweets": 70,
+        "replies": 169
       },
       "matchedFocusAreas": [
         "Coding Agents"
       ],
       "sourceType": "x"
-    },
-    {
-      "id": "2082317452755751098",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "太阳系的各位朋友们，你们好！",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Hello people of Sol! I've reset usage limits for all ChatGPT Work and Codex users. Together with that, a quick update…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Hello people of Sol!",
-      "originalBody": "Hello people of Sol! I've reset usage limits for all ChatGPT Work and Codex users. Together with that, a quick update on GPT-5.6 Sol usage limits.\n\nOver the past few weeks, many of you have told us that Sol was using your Codex limits faster than expected. To be clear, we have not reduced usage on any subscription plans.\n\nWe’ve been digging into what was happening and have landed several improvements. As a result, we expect your usage to last around 18% longer during typical use of Sol. Some of you should already see significantly larger improvements from today. Tomorrow, we’ll also restore the five-hour limit that we temporarily paused while investigating.\n\nHere’s what we found:\n- GPT-5.6 Sol is much more willing to work for longer, make additional tool calls, and coordinate complex workflows across tools and subagents. That makes it better at solving hard problems, but some tasks were using far more than we intended.\n- Sol also works harder at the same reasoning effort than previous models. High on Sol can use more tokens than High did on GPT-5.5.\n- Programmatic tool calling, also referred to as code mode, gives Sol much more flexibility to run tool calls in parallel or continue working while waiting. But it also led to more responses per turn, more cached input tokens, and higher usage than expected.\n- This was particularly noticeable when Sol was waiting for tool calls to finish or running many web searches. We’ve improved how we handle both cases and are continuing to make code mode more efficient.\n- The impact was also very uneven. The median user actually found Sol quite token efficient, while some power users working on harder tasks saw their usage drain much faster. We were very focused on average and median usage before launch and missed some cases where the long tail could use significantly more usage.\n\nSol is a significant step forward in what Codex can do, but capability and efficiency do not always improve at the same pace, and some issues only become clear once people are using the model at real-world scale. We should have recognized this sooner and been more upfront about it.\n\nYou keep pushing the frontier and we’ll keep improving efficiency and sharing updates as we go.",
-      "translatedTitle": "太阳系的各位朋友们，你们好！",
-      "translatedBody": "Sol 的各位用户大家好！我已经重置了所有 ChatGPT Work 和 Codex 用户的使用限制。同时，也想就 GPT-5.6 Sol 的使用限制做一个简要更新。\n\n过去几周，许多用户反馈 Sol 消耗 Codex 配额的速度超出预期。需要说明的是，我们并未降低任何订阅计划的使用量。\n\n我们一直在深入调查问题所在，并进行了一些改进。因此，我们预计 Sol 的正常使用时长将延长约 18%。部分用户应该已经从今天开始感受到显著的提升。明天，我们还将恢复之前因调查而暂时暂停的五小时使用限制。\n\n以下是我们的发现：\n\n- GPT-5.6 Sol 更愿意长时间工作，调用更多工具，并协调跨工具和子代理的复杂工作流程。这使其更擅长解决难题，但某些任务的使用量远超预期。\n\n- 与之前的模型相比，Sol 在相同的推理工作量下也更加努力。 Sol 的 High 版本比 GPT-5.5 的 High 版本可以使用更多的 token。\n\n- 程序化工具调用（也称为代码模式）赋予 Sol 更大的灵活性，使其能够并行运行工具调用或在等待期间继续工作。但这同时也导致了每次迭代的响应数量更多、缓存的输入 token 数量更多，以及比预期更高的使用率。\n\n- 当 Sol 等待工具调用完成或运行大量网络搜索时，这一点尤为明显。我们已经改进了对这两种情况的处理方式，并正在持续提升代码模式的效率。\n\n- 这种影响也非常不均衡。普通用户实际上发现 Sol 的 token 使用效率相当高，而一些处理更复杂任务的高级用户则发现他们的使用量消耗得更快。在发布之前，我们过于关注平均和中位数的使用量，而忽略了一些长尾用户可能需要更多使用量的情况。\n\nSol 是 Codex 功能的一个重大进步，但能力和效率的提升速度并不总是同步的，有些问题只有在用户实际大规模使用该模型后才会显现出来。我们应该更早地意识到这一点，并更加坦诚地说明。\n\n你们不断开拓创新，我们也会不断提高效率，并随时分享最新进展。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2082317452755751098",
-      "publishedAt": "2026-07-29T04:09:02.000Z",
-      "score": 127.14,
-      "engagement": {
-        "likes": 11970,
-        "retweets": 800,
-        "replies": 2121
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2082323512069685575",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "尽管我也很喜欢 Codex 这个产品，但这些都是对它的合理批评！",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：These are all valid criticisms of Codex, even though I love the product too! I actually had no idea that Sol Pro even…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "These are all valid criticisms of Codex, even though I love the product too!",
-      "originalBody": "These are all valid criticisms of Codex, even though I love the product too!\n\nI actually had no idea that Sol Pro even existed - is this better than Sol High? Why isn’t it available in Codex? https://t.co/nrPsjAgfk1 https://t.co/nFmz6awv7d",
-      "translatedTitle": "尽管我也很喜欢 Codex 这个产品，但这些都是对它的合理批评！",
-      "translatedBody": "这些都是对 Codex 的合理批评，尽管我也很喜欢这款产品！\n\n我之前根本不知道 Sol Pro 的存在——它比 Sol High 好吗？为什么 Codex 没有 Sol Pro 呢？https://t.co/nrPsjAgfk1 https://t.co/nFmz6awv7d",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2082323512069685575",
-      "publishedAt": "2026-07-29T04:33:07.000Z",
-      "score": 73.15,
-      "engagement": {
-        "likes": 34,
-        "retweets": 1,
-        "replies": 15
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2082241164850364555",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "更多开源好物。",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：More opensource goodness. We have just released a CLI and TypeScript SDK for finding, validating, and fixing security…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "More opensource goodness.",
-      "originalBody": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities in your code. Scan repositories, review changes, track findings over time, and run security checks in CI.\n\nhttps://t.co/nkfTbw8p7b",
-      "translatedTitle": "更多开源好物。",
-      "translatedBody": "更多开源利器！我们刚刚发布了用于查找、验证和修复代码中安全漏洞的 CLI 和 TypeScript SDK。扫描代码仓库、审查变更、跟踪漏洞变化，并在持续集成 (CI) 中运行安全检查。\n\nhttps://t.co/nkfTbw8p7b",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2082241164850364555",
-      "publishedAt": "2026-07-28T23:05:54.000Z",
-      "score": 71.31,
-      "engagement": {
-        "likes": 5812,
-        "retweets": 451,
-        "replies": 343
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2082254840655405293",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我厌倦了用IMDb给电影和电视剧评分，而Letterboxd又不支持……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I got tired of using IMDb to rate movies and TV shows, and Letterboxd doesn’t support video games. So I built Tastema…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "I got tired of using IMDb to rate movies and TV shows, and Letterboxd doesn’t suppo…",
-      "originalBody": "I got tired of using IMDb to rate movies and TV shows, and Letterboxd doesn’t support video games.\n\nSo I built Tastemaker to let anyone curate their favorite movies, TV shows, and games all in one beautiful profile.\n\nYou can use it to:\n\n→ Rate and review your favorites\n→ Create and share lists\n→ Discover what to watch or play next\n\nBecause of API limits, I’m launching this as a limited release for the first 100 profiles only.\n\n📌 Claim your free profile now: https://t.co/HLkDespYE8",
-      "translatedTitle": "我厌倦了用IMDb给电影和电视剧评分，而Letterboxd又不支持……",
-      "translatedBody": "我厌倦了用 IMDb 给电影和电视剧评分，而 Letterboxd 又不支持电子游戏。\n\n所以我开发了 Tastemaker，让每个人都能在一个美观的个人资料中整理自己喜欢的电影、电视剧和游戏。\n\n你可以用它来：\n\n→ 为你喜爱的作品评分和评论\n\n→ 创建和分享列表\n\n→ 发现接下来想看或玩的内容\n\n由于 API 的限制，我仅限前 100 个免费用户使用。\n\n📌 立即领取你的免费个人资料：https://t.co/HLkDespYE8",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2082254840655405293",
-      "publishedAt": "2026-07-29T00:00:15.000Z",
-      "score": 71.29,
-      "engagement": {
-        "likes": 48,
-        "retweets": 0,
-        "replies": 7
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2082254852600873376",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我还开发了 Tastemaker，看看能否将一个粗略的想法变成一个有用的产品……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I also built Tastemaker to see if I could turn a rough idea into a useful product with Claude Design and Claude Code.…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "I also built Tastemaker to see if I could turn a rough idea into a useful product w…",
-      "originalBody": "I also built Tastemaker to see if I could turn a rough idea into a useful product with Claude Design and Claude Code.\n\nI made a video walking through my full process, including:\n\n1. Creating a design.md and HTML spec\n2. Prototyping screens in Claude Design\n3. Building and iterating with Claude Code\n\n📌 Subscribe to get the full tutorial tomorrow: https://t.co/NSTj7ijxE0",
-      "translatedTitle": "我还开发了 Tastemaker，看看能否将一个粗略的想法变成一个有用的产品……",
-      "translatedBody": "我还开发了 Tastemaker，看看能否用 Claude Design 和 Claude Code 将一个粗略的想法变成一个实用的产品。\n\n我制作了一个视频，详细展示了我的整个开发过程，包括：\n\n1. 创建 design.md 和 HTML 规范\n\n2. 在 Claude Design 中制作屏幕原型\n\n3. 使用 Claude Code 进行构建和迭代\n\n📌 订阅即可在明天观看完整教程：https://t.co/NSTj7ijxE0",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2082254852600873376",
-      "publishedAt": "2026-07-29T00:00:17.000Z",
-      "score": 60.84,
-      "engagement": {
-        "likes": 4,
-        "retweets": 0,
-        "replies": 2
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2082130836485259530",
-      "type": "tweet",
-      "builder": "Dan Shipper",
-      "title": "我今天上午在沙发上写了一部关于法典的权威历史，它源自……",
-      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验：i spent the morning writing the definitive history of codex on my couch it comes from hours of in-depth interviews wi…",
-      "whyItMatters": "Dan Shipper 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "i spent the morning writing the definitive history of codex on my couch it comes fr…",
-      "originalBody": "i spent the morning writing the definitive history of codex on my couch \n\nit comes from hours of in-depth interviews with the team including @thsottiaux, @ajambrosino, and @gdb \n\nmy hands didn’t touch the keyboard or mouse once …i did the whole thing, including organizing the interviews, building a timeline, writing, editing, and revising via ChatGPT for Work’s voice mode \n\nabsolutely goated for creative work. \n\nwhole piece will be published on @every in a few weeks",
-      "translatedTitle": "我今天上午在沙发上写了一部关于法典的权威历史，它源自……",
-      "translatedBody": "我今天上午窝在沙发上，花了好几个小时写完了 Codex 的权威历史。\n\n这篇历史文章源于我与团队成员（包括 @thsottiaux、@ajambrosino 和 @gdb）长达数小时的深度访谈。\n\n我的手一次都没碰过键盘或鼠标……所有工作都是我一手包办的，包括整理访谈、构建时间线、撰写、编辑和修改，全程都通过 ChatGPT for Work 的语音模式完成。\n\n简直是创作的巅峰。\n\n全文将在几周后发布在 @every 上。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/danshipper/status/2082130836485259530",
-      "publishedAt": "2026-07-28T15:47:30.000Z",
-      "score": 28.24,
-      "engagement": {
-        "likes": 178,
-        "retweets": 9,
-        "replies": 19
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2082214798935326833",
-      "type": "tweet",
-      "builder": "Aditya Agarwal",
-      "title": "十年前……当我经历失去孩子的痛苦旅程，迷失在迷茫之中时……",
-      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验：A decade ago…as I was going through my own Minus One journey and was lost in the fog of uncertainty, I got 2 pieces o…",
-      "whyItMatters": "Aditya Agarwal 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "A decade ago…as I was going through my own Minus One journey and was lost in the fo…",
-      "originalBody": "A decade ago…as I was going through my own Minus One journey and was lost in the fog of uncertainty, I got 2 pieces of deep personal insight:\n\n1/ I want to build new things in the world\n2/ I want to work with brilliant and intense people\n\nOn days such as this both feel abundant. https://t.co/muLvlHqTp1",
-      "translatedTitle": "十年前……当我经历失去孩子的痛苦旅程，迷失在迷茫之中时……",
-      "translatedBody": "十年前……当我经历人生低谷，迷失在迷茫之中时，我获得了两条深刻的个人感悟：\n\n1/ 我想在这个世界上创造新的事物\n\n2/ 我想与才华横溢、充满激情的人共事\n\n在这样的日子里，这两条感悟都显得格外珍贵。https://t.co/muLvlHqTp1",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/adityaag/status/2082214798935326833",
-      "publishedAt": "2026-07-28T21:21:08.000Z",
-      "score": 25.47,
-      "engagement": {
-        "likes": 107,
-        "retweets": 7,
-        "replies": 7
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-07-29T07:13:14.146Z",
-    "totalCandidates": 23,
-    "textQualifiedCandidates": 9,
+    "upstreamGeneratedAt": "2026-07-30T07:11:33.639Z",
+    "totalCandidates": 32,
+    "textQualifiedCandidates": 20,
     "selectedTweets": 8
   }
 }
