@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-02",
-  "generatedAt": "2026-08-02T03:22:13.108Z",
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-03T03:23:45.609Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-08-02",
+  "title": "AI Builders Daily | 2026-08-03",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 31 条候选动态里，筛出 19 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 30 条候选动态里，筛出 14 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,26 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2083319868766699699",
+      "id": "2083684679362965605",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "AI Gateway 为企业提供关键基础设施，使 AI 成为一项高效的投资：…",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：AI Gateway gives companies the critical infra to make AI a productive investment: 🆕 Budgets per key/team/project ◾ F…",
+      "title": "基于 https://t.co/99eEa13mZ3 和 @nextjs 构建的开源代理 CRM。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Open source agentic CRM built on https://t.co/99eEa13mZ3 and @nextjs. Model-agnostic, self-hostable or serverlessly-d…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "AI Gateway gives companies the critical infra to make AI a productive investment: \ud83c…",
-      "originalBody": "AI Gateway gives companies the critical infra to make AI a productive investment:\n🆕 Budgets per key/team/project\n◾ Failover for maximum uptime\n◾ Model and provider choice\n◾ Realtime observability\n\nIf you're still in a 'token-maxing' fever dream, it's time to wake up 😁 https://t.co/sj6V64DqIP",
-      "translatedTitle": "AI Gateway 为企业提供关键基础设施，使 AI 成为一项高效的投资：…",
-      "translatedBody": "AI Gateway 为企业提供关键基础设施，使 AI 成为一项高效的投资：\n\n🆕 按密钥/团队/项目分配预算\n\n◾ 故障转移，确保最大程度的正常运行时间\n\n◾ 可选择模型和提供商\n\n◾ 实时可观测性\n\n如果您还在沉迷于“代币最大化”的幻想中，是时候醒醒了😁 https://t.co/sj6V64DqIP",
+      "originalTitle": "Open source agentic CRM built on https://t.co/99eEa13mZ3 and @nextjs.",
+      "originalBody": "Open source agentic CRM built on https://t.co/99eEa13mZ3 and @nextjs.\n\nModel-agnostic, self-hostable or serverlessly-deployed, multi-channel, and headless. \n\nThis is the way. https://t.co/gzM0dftbsV",
+      "translatedTitle": "基于 https://t.co/99eEa13mZ3 和 @nextjs 构建的开源代理 CRM。",
+      "translatedBody": "基于 https://t.co/99eEa13mZ3 和 @nextjs 构建的开源代理型 CRM。\n\n它与模型无关，可自托管或无服务器部署，支持多渠道，并且是无头架构。\n\n这就是未来的方向。https://t.co/gzM0dftbsV",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2083319868766699699",
-      "publishedAt": "2026-07-31T22:32:17.000Z",
-      "score": 201.55,
+      "sourceUrl": "https://x.com/rauchg/status/2083684679362965605",
+      "publishedAt": "2026-08-01T22:41:55.000Z",
+      "score": 211.04,
       "engagement": {
-        "likes": 119,
-        "retweets": 5,
-        "replies": 22
+        "likes": 861,
+        "retweets": 50,
+        "replies": 31
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -52,26 +52,163 @@
       "sourceType": "x"
     },
     {
-      "id": "2083208578526314513",
+      "id": "2083749667410727319",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "随着软件项目向智能体软件工厂转型，这将成为常态。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：This will be the norm as software projects transition to agentic software factories. Issue → Agent → PR → Release 🔁…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "This will be the norm as software projects transition to agentic software factories.",
-      "originalBody": "This will be the norm as software projects transition to agentic software factories.\n\nIssue → Agent → PR → Release 🔁\n\nThe job of the author / maintainer is to work on the loop that yields the highest quality product and sets the criteria for what should be worked on. https://t.co/7A0YaXYJYn",
-      "translatedTitle": "随着软件项目向智能体软件工厂转型，这将成为常态。",
-      "translatedBody": "随着软件项目向智能软件工厂转型，这将成为常态。\n\n问题 → 代理 → 公关 → 发布 🔁\n\n作者/维护者的职责是优化流程，确保最终产品达到最高质量，并设定后续工作的标准。https://t.co/7A0YaXYJYn",
+      "builder": "Andrej Karpathy",
+      "title": "我们开始离开那种通过例如以下方式测试LLM的领域：",
+      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "We're starting to leave the territory where you'd test an LLM by e.g.",
+      "originalBody": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all.\n\nI also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from \"no one would ever do this\" to \"sure, why not, it's ~free\". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand.\n\nLast thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking.",
+      "translatedTitle": "我们开始离开那种通过例如以下方式测试LLM的领域：",
+      "translatedBody": "我们现在开始偏离那种通过例如“创建一个骑自行车的鹈鹕的 SVG”来测试 LLM 的领域了。为了更全面地了解它，我很好奇如果我给 Opus 5 提供《指环王》的第一段文字、100 万代币预算（约 10 美元），并要求它渲染三个 JavaScript 版本，它会怎么做。Opus 运行了大约 2 个小时，编写了 5500 行代码（程序化地）渲染了这个故事。虽然有点粗糙，但很有趣。但 LLM 需要将各种多边形资源放置在 (x, y, z) 坐标系中并进行协调，还要编写代码来实现动画效果，而且它最终还能完成这些工作，这确实令人难以置信。\n\n我也很喜欢这类例子，因为正常人根本不会花时间去写这么定制化的东西，但LLM（游戏开发者）却拥有无穷的精力和耐心，所以这说明我们的想法是从“没人会这么做”到“当然可以，反正也免费”。可能还有很多这样的例子。但我很兴奋能创造出高度定制化的世界，你可以想象把玩家放到其中，比如让他们以旁观NPC或角色的身份参与《指环王》的故事，等等。就像一个可以随时体验的限时版《侠盗猎车手》X。\n\n最后一点是，世界/游戏领域暴露了LLM的一个弱点：他们无法轻松地审核自己的作品，因为他们无法高效地原生感知视频或在视频中玩游戏。比如，Opus 5不得不非常缓慢且费力地在不同的时间点截取屏幕截图，结果几次出错，导致画面出现了很多瑕疵。这是一个原始能力（多模式、游戏玩法）的例子，我认为它仍然相当不足。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2083208578526314513",
-      "publishedAt": "2026-07-31T15:10:03.000Z",
-      "score": 187.36,
+      "sourceUrl": "https://x.com/karpathy/status/2083749667410727319",
+      "publishedAt": "2026-08-02T03:00:09.000Z",
+      "score": 199.01,
       "engagement": {
-        "likes": 1096,
-        "retweets": 56,
-        "replies": 59
+        "likes": 9895,
+        "retweets": 674,
+        "replies": 595
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2083664853256843437",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "最近学校有人问我3岁的孩子：“你爸爸是做什么工作的？”他……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：They recently asked my 3-year-old at school: “what does your daddy do for work?” He answered: he exercises. That’s wh…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "They recently asked my 3-year-old at school: “what does your daddy do for work?” He…",
+      "originalBody": "They recently asked my 3-year-old at school: “what does your daddy do for work?” He answered: he exercises. That’s what he sees. \n\nIt’s not just you who’s a byproduct of your habits, it’s your children and grandchildren too.",
+      "translatedTitle": "最近学校有人问我3岁的孩子：“你爸爸是做什么工作的？”他……",
+      "translatedBody": "最近，学校老师问我三岁的儿子：“你爸爸是做什么工作的？”他回答说：“他锻炼身体。”他看到的就是这样。\n\n你的习惯不仅会影响你，还会影响你的孩子和孙子孙女。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2083664853256843437",
+      "publishedAt": "2026-08-01T21:23:08.000Z",
+      "score": 160.64,
+      "engagement": {
+        "likes": 831,
+        "retweets": 12,
+        "replies": 51
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2083753582160191988",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "作为组织者，我的一大烦恼就是很少有机会参加自己组织的会议。",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：one of my curses as organizer is i rarely get to attend the conference i run. so i basically 24/7 watch back talks wi…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "one of my curses as organizer is i rarely get to attend the conference i run.",
+      "originalBody": "one of my curses as organizer is i rarely get to attend the conference i run. so i basically 24/7 watch back talks with everyone else after the show\n\nthis one was VERY well paced and argued: fighting slop with slop — @vaibcode, Boundary https://t.co/vRckyyntm6 \n\n@btaylor asked for an ai native programming language on our pod. as a PL fan I’m really glad someone is rethinking how code runs from first principles. Being slop-tolerant is 100x more valuable than being anti- slop",
+      "translatedTitle": "作为组织者，我的一大烦恼就是很少有机会参加自己组织的会议。",
+      "translatedBody": "作为组织者，我的一大烦恼就是很少有机会参加自己组织的会议。所以基本上，我只能在会后和大家一起24小时不间断地观看回放。\n\n这次的演讲节奏把握得非常好，论证也很充分：以牙还牙——@vaibcode，Boundary https://t.co/vRckyyntm6\n\n@btaylor 在我们的播客节目中提出了一个关于人工智能原生编程语言的问题。作为编程语言的爱好者，我很高兴有人从根本上重新思考代码的运行方式。容忍代码中的瑕疵比反对代码中的瑕疵要重要得多。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2083753582160191988",
+      "publishedAt": "2026-08-02T03:15:42.000Z",
+      "score": 122.71,
+      "engagement": {
+        "likes": 53,
+        "retweets": 3,
+        "replies": 12
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2083589132660711452",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "我们将看到人工智能在我们个人生活中所做的事情与人类行为之间的差异越来越大……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：We’re going to see an increasing divergence between what AI does in our personal lives and in daily productivity vs.…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "We’re going to see an increasing divergence between what AI does in our personal li…",
+      "originalBody": "We’re going to see an increasing divergence between what AI does in our personal lives and in daily productivity vs. what it can do in very deep domains like math, science, legal, coding and more.\n\nUp to some threshold, capability was evenly felt across all domains because the models were just becoming mildly useful in general. Now, the deep domain work is about to go vertical. \n\nMost people won’t actually notice these benefits in their day to day life directly (indirectly they certainly will over time), but the experts in these fields will. And there’s no inherent ceiling to what capabilities are needed, unlike in the consumer space where needs can get met relatively straightforwardly.\n\nThis will often lead to a capability overhang, though, as many of these performance gains need to be applied to data sets and workflows in an applied way for that area of work. But this is ultimately how you get breakthroughs in life sciences, real world automation, new cyber capabilities, and more.",
+      "translatedTitle": "我们将看到人工智能在我们个人生活中所做的事情与人类行为之间的差异越来越大……",
+      "translatedBody": "我们将看到人工智能在个人生活和日常生产力方面的作用，与它在数学、科学、法律、编程等深奥领域所能发挥的作用之间，出现越来越大的差异。\n\n在达到某个阈值之前，人工智能的能力在所有领域都得到了均衡的体现，因为这些模型在总体上才刚刚开始具备一定的实用性。如今，深奥领域的应用即将垂直化。\n\n大多数人可能不会直接感受到这些益处（随着时间的推移，他们肯定会间接感受到），但这些领域的专家会。而且，与消费领域不同，深奥领域所需的能力没有固有的上限，消费领域的需求可以相对直接地得到满足。\n\n然而，这往往会导致能力过剩，因为许多性能提升需要以应用的方式应用于特定领域的数据集和工作流程。但归根结底，这正是我们在生命科学、现实世界自动化、新型网络安全能力等领域取得突破的根本途径。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2083589132660711452",
+      "publishedAt": "2026-08-01T16:22:15.000Z",
+      "score": 107.27,
+      "engagement": {
+        "likes": 347,
+        "retweets": 32,
+        "replies": 51
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2083755374994415904",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我今晚心情不错，所以就直说了吧：我认为 Opus 4.6 就是 Opus 模式……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I'm feeling spicy tonight so let me just say it: I think Opus 4.6 was the Opus model with the best personality and wr…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "I'm feeling spicy tonight so let me just say it: I think Opus 4.6 was the Opus mode…",
+      "originalBody": "I'm feeling spicy tonight so let me just say it:\n\nI think Opus 4.6 was the Opus model with the best personality and writing style.\n\nSomething's off with Opus 5 - it tends to give me overly long replies, use Claude-speak way too much (e.g., \"here's the honest truth\"), and is too judgemental. \n\nOpus used to be a joy to talk to like a trusted friend. Not so much anymore.",
+      "translatedTitle": "我今晚心情不错，所以就直说了吧：我认为 Opus 4.6 就是 Opus 模式……",
+      "translatedBody": "今晚我心情不错，就直说了吧：\n\n我觉得 Opus 4.6 是 Opus 系列里个性和写作风格最好的。\n\nOpus 5 有点不对劲——它回复的内容总是太长，说话也太像克劳德（Claude）的风格（比如，“实话实说”），而且太爱评判别人了。\n\n以前和 Opus 聊天就像和一位值得信赖的朋友聊天一样愉快。现在却不是这样了。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2083755374994415904",
+      "publishedAt": "2026-08-02T03:22:50.000Z",
+      "score": 86.19,
+      "engagement": {
+        "likes": 751,
+        "retweets": 19,
+        "replies": 165
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2083722999430050281",
+      "type": "tweet",
+      "builder": "Nan Yu",
+      "title": "你应该能够为你提出的问题和开源仓库质押代币。",
+      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：You should be able to pledge tokens for issues that you open and open source repos. Write a spec in the issue with a…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "You should be able to pledge tokens for issues that you open and open source repos.",
+      "originalBody": "You should be able to pledge tokens for issues that you open and open source repos. \n\nWrite a spec in the issue with a pledge. If the maintainer accepts, GitHub passes the issue verbatim to a cloud coding agent at the requester’s expense. \n\nNo more slop PRs",
+      "translatedTitle": "你应该能够为你提出的问题和开源仓库质押代币。",
+      "translatedBody": "你应该能够为你创建的问题和开源仓库提供代币质押。\n\n在问题中编写包含质押的规范说明。如果维护者接受，GitHub 会将该问题原封不动地交给云端编码代理，费用由请求者承担。\n\n告别杂乱无章的 PR",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thenanyu/status/2083722999430050281",
+      "publishedAt": "2026-08-02T01:14:11.000Z",
+      "score": 70.23,
+      "engagement": {
+        "likes": 28,
+        "retweets": 0,
+        "replies": 13
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -80,171 +217,37 @@
       "sourceType": "x"
     },
     {
-      "id": "2083294839186260385",
+      "id": "2083684825333105107",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "注意到“氛围编码”一词的贬义含义已经完全消失了……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：noticed that the perjorative connotation around \"vibe coding\" has completely disappeared since ~everyone, from nontec…",
+      "builder": "Garry Tan",
+      "title": "2026年最令人关注的趋势转变是OpenAI有望成为真正的开放平台……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform Note the marked difference: intel…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "noticed that the perjorative connotation around \"vibe coding\" has completely disapp…",
-      "originalBody": "noticed that the perjorative connotation around \"vibe coding\" has completely disappeared since ~everyone, from nontechnical to supertechnical, is now doing it",
-      "translatedTitle": "注意到“氛围编码”一词的贬义含义已经完全消失了……",
-      "translatedBody": "我注意到，“氛围编码”一词的贬义含义已经完全消失了，因为现在从非技术人员到超级技术人员，每个人都在使用它。",
+      "originalTitle": "Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform…",
+      "originalBody": "Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform \n\nNote the marked difference: intelligence on tap as a utility vs signaling it is optimal to integrate all the way up full stack https://t.co/EmMKE4NggP",
+      "translatedTitle": "2026年最令人关注的趋势转变是OpenAI有望成为真正的开放平台……",
+      "translatedBody": "2026 年最引人注目的趋势转变是 OpenAI 似乎真的要成为开放平台了。\n\n请注意其中的显著区别：一方面，OpenAI 将智能作为一种实用工具随时可用；另一方面，OpenAI 则强调将其全面集成到整个技术栈中才是最佳选择。https://t.co/EmMKE4NggP",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2083294839186260385",
-      "publishedAt": "2026-07-31T20:52:50.000Z",
-      "score": 151.95,
+      "sourceUrl": "https://x.com/garrytan/status/2083684825333105107",
+      "publishedAt": "2026-08-01T22:42:30.000Z",
+      "score": 55.76,
       "engagement": {
-        "likes": 97,
-        "retweets": 6,
-        "replies": 44
+        "likes": 278,
+        "retweets": 9,
+        "replies": 46
       },
       "matchedFocusAreas": [
         "Coding Agents"
       ],
       "sourceType": "x"
-    },
-    {
-      "id": "2083221585792762171",
-      "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "昨晚我听到一个 ChatGP 的很棒的应用案例：连接你的家庭日历……",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：cool use case of chatgpt work i heard last night: connect your family calendars and explain your kids' interests. eve…",
-      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "cool use case of chatgpt work i heard last night: connect your family calendars and…",
-      "originalBody": "cool use case of chatgpt work i heard last night:\n\nconnect your family calendars and explain your kids' interests.\n\nevery morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc.",
-      "translatedTitle": "昨晚我听到一个 ChatGP 的很棒的应用案例：连接你的家庭日历……",
-      "translatedBody": "昨晚听到一个 ChatGP 的超棒用例：\n\n连接你家的日历，并解释你孩子的兴趣爱好。\n\n每天早上送孩子上学的路上，让它自动生成一个播客，内容可以是当天下午某个孩子的足球比赛、另一个孩子即将到来的生日、一些新闻等等。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2083221585792762171",
-      "publishedAt": "2026-07-31T16:01:45.000Z",
-      "score": 148.84,
-      "engagement": {
-        "likes": 8045,
-        "retweets": 240,
-        "replies": 2143
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2083439562437673053",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "在人工智能领域的领导者中，我似乎属于少数派，因为我仍然在积极使用 /lo…",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：among ai leaders i seem to be in the minority in that i am STILL actively using /loop and /goal.... ... and i think a…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "among ai leaders i seem to be in the minority in that i am STILL actively using /lo…",
-      "originalBody": "among ai leaders i seem to be in the minority in that i am STILL actively using /loop and /goal....\n\n... and i think all of u guys who stopped using it are wrong - not wrong forever, just giving up on it too early in the g5.6/c5 era\n\nnow you use it when:\n1) you want the right mix of steerability and autonomy\n2) you want open ended \"loop that generates loops\" type end state without deeply specifying path to get there\n\nheres an example of when having a goal on saved my ass in a very long action-reasonining turn",
-      "translatedTitle": "在人工智能领域的领导者中，我似乎属于少数派，因为我仍然在积极使用 /lo…",
-      "translatedBody": "在人工智能领导者中，我似乎是少数派，因为我仍然在积极使用 /loop 和 /goal 命令……\n\n……我认为所有停止使用它们的人都错了——并非永远错了，只是在 G5.6/C5 时代过早放弃了。\n\n现在，你应该在以下情况下使用它们：\n\n1) 你想要适度的可控性和自主性；\n\n2) 你想要一个开放式的“循环生成循环”类型的最终状态，而无需详细指定到达该状态的路径。\n\n这里有一个例子，说明在一次漫长的行动推理过程中，设置目标值是如何救了我一命的。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2083439562437673053",
-      "publishedAt": "2026-08-01T06:27:54.000Z",
-      "score": 119.2,
-      "engagement": {
-        "likes": 10,
-        "retweets": 1,
-        "replies": 6
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2083369880599015713",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "队列曾经是实现方式，但5.5版本之后模型不再出错，你可以直接……",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Queue was the way but with 5.5 the model doesn’t get confused anymore, you can just throw stuff at it while it works…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Queue was the way but with 5.5 the model doesn’t get confused anymore, you can just…",
-      "originalBody": "Queue was the way but with 5.5 the model doesn’t get confused anymore, you can just throw stuff at it while it works and it will diligently process whatever you throw at it. https://t.co/tGqdxVEjev",
-      "translatedTitle": "队列曾经是实现方式，但5.5版本之后模型不再出错，你可以直接……",
-      "translatedBody": "队列曾经是处理数据的方式，但5.5版本之后，模型不再混乱，你可以直接往里发送数据，它会认真地处理你发送的所有内容。https://t.co/tGqdxVEjev",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2083369880599015713",
-      "publishedAt": "2026-08-01T01:51:01.000Z",
-      "score": 78.64,
-      "engagement": {
-        "likes": 183,
-        "retweets": 5,
-        "replies": 33
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2083389460679373135",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "不知道这些具体数字是否适用于所有任务，但方向是这样的……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：No idea if these specific numbers generalize across tasks, but directionally it’s clear that the harness is going to…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "No idea if these specific numbers generalize across tasks, but directionally it’s c…",
-      "originalBody": "No idea if these specific numbers generalize across tasks, but directionally it’s clear that the harness is going to become the most important variable -right next to model capability- in the AI stack. \n\nThe ability for harnesses to break down work in the most efficient way and route to the right model at the right time is going to be a huge variable for maximizing accuracy and reducing costs.\n\nWe’re actually still incredibly early in this journey. The harness didn’t matter that much when tasks only took hundreds of thousands or millions of tokens. But as we have tasks that take tens of millions and hundreds of millions of tokens, this becomes a major variable. Huge opportunity ahead.",
-      "translatedTitle": "不知道这些具体数字是否适用于所有任务，但方向是这样的……",
-      "translatedBody": "尚不清楚这些具体数字是否适用于所有任务，但从方向来看，很明显，在人工智能技术栈中，除了模型能力之外，框架将成为最重要的变量。\n\n框架能否以最高效的方式分解任务，并在正确的时间路由到正确的模型，将是最大化准确率和降低成本的关键因素。\n\n实际上，我们仍处于这一领域的早期阶段。当任务仅需数十万或数百万个令牌时，框架的重要性并不突出。但随着任务需要数千万甚至数亿个令牌，框架的重要性就凸显出来了。未来蕴藏着巨大的机遇。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2083389460679373135",
-      "publishedAt": "2026-08-01T03:08:49.000Z",
-      "score": 75.35,
-      "engagement": {
-        "likes": 89,
-        "retweets": 10,
-        "replies": 13
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2083230295206121807",
-      "type": "tweet",
-      "builder": "Nan Yu",
-      "title": "Linear 中最常见的循环是以下循环的某种变体（Issue > Agent > PR…）",
-      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The most common loop written in Linear is some variant this one (Issue > Agent > PR > Release) ~30% of our bugs make…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "The most common loop written in Linear is some variant this one (Issue > Agent > PR…",
-      "originalBody": "The most common loop written in Linear is some variant this one (Issue > Agent > PR > Release) \n\n~30% of our bugs make it all the way through this flow.\n\nBut there are some nuances to doing it -- The instructions should ask the agent to extensively research the root cause of the issue and to use Datadog and Sentry MCPs to gather more evidence.\n\nIt should only attempt to provide a fix if there's high certainty, otherwise you end up burning a lot of tokens.\n\nIf it thinks that more evidence would help it during its research, like asking the reporter to provide repro steps, etc, it should leave a comment on the issue requesting it.\n\nAgents need to be told to following good practices, just like people!",
-      "translatedTitle": "Linear 中最常见的循环是以下循环的某种变体（Issue > Agent > PR…）",
-      "translatedBody": "最常见的 Linear 循环是以下这种形式的某种变体：问题 > 代理 > PR > 发布\n\n大约 30% 的 bug 会完整地经过这个流程。\n\n但其中有一些细微之处——指令应该要求代理深入研究问题的根本原因，并使用 Datadog 和 Sentry MCP 来收集更多证据。\n\n只有在高度确定的情况下，代理才应该尝试提供修复方案，否则最终会浪费大量代币。\n\n如果代理认为在研究过程中需要更多证据，例如要求报告者提供重现步骤等，则应该在问题中留言请求。\n\n代理也需要像人一样遵循最佳实践！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thenanyu/status/2083230295206121807",
-      "publishedAt": "2026-07-31T16:36:21.000Z",
-      "score": 74.43,
-      "engagement": {
-        "likes": 96,
-        "retweets": 2,
-        "replies": 5
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-08-01T07:07:44.614Z",
-    "totalCandidates": 31,
-    "textQualifiedCandidates": 19,
+    "upstreamGeneratedAt": "2026-08-02T07:09:46.620Z",
+    "totalCandidates": 30,
+    "textQualifiedCandidates": 14,
     "selectedTweets": 8
   }
 }
