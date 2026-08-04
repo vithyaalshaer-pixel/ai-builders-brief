@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-03",
-  "generatedAt": "2026-08-03T03:23:45.609Z",
+  "date": "2026-08-04",
+  "generatedAt": "2026-08-04T02:53:04.625Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-08-03",
+  "title": "AI Builders Daily | 2026-08-04",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 30 条候选动态里，筛出 14 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 26 条候选动态里，筛出 15 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,192 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2083684679362965605",
+      "id": "2084060157085143512",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "基于 https://t.co/99eEa13mZ3 和 @nextjs 构建的开源代理 CRM。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Open source agentic CRM built on https://t.co/99eEa13mZ3 and @nextjs. Model-agnostic, self-hostable or serverlessly-d…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Open source agentic CRM built on https://t.co/99eEa13mZ3 and @nextjs.",
-      "originalBody": "Open source agentic CRM built on https://t.co/99eEa13mZ3 and @nextjs.\n\nModel-agnostic, self-hostable or serverlessly-deployed, multi-channel, and headless. \n\nThis is the way. https://t.co/gzM0dftbsV",
-      "translatedTitle": "基于 https://t.co/99eEa13mZ3 和 @nextjs 构建的开源代理 CRM。",
-      "translatedBody": "基于 https://t.co/99eEa13mZ3 和 @nextjs 构建的开源代理型 CRM。\n\n它与模型无关，可自托管或无服务器部署，支持多渠道，并且是无头架构。\n\n这就是未来的方向。https://t.co/gzM0dftbsV",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2083684679362965605",
-      "publishedAt": "2026-08-01T22:41:55.000Z",
-      "score": 211.04,
-      "engagement": {
-        "likes": 861,
-        "retweets": 50,
-        "replies": 31
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2083749667410727319",
-      "type": "tweet",
-      "builder": "Andrej Karpathy",
-      "title": "我们开始离开那种通过例如以下方式测试LLM的领域：",
-      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "We're starting to leave the territory where you'd test an LLM by e.g.",
-      "originalBody": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all.\n\nI also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from \"no one would ever do this\" to \"sure, why not, it's ~free\". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand.\n\nLast thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking.",
-      "translatedTitle": "我们开始离开那种通过例如以下方式测试LLM的领域：",
-      "translatedBody": "我们现在开始偏离那种通过例如“创建一个骑自行车的鹈鹕的 SVG”来测试 LLM 的领域了。为了更全面地了解它，我很好奇如果我给 Opus 5 提供《指环王》的第一段文字、100 万代币预算（约 10 美元），并要求它渲染三个 JavaScript 版本，它会怎么做。Opus 运行了大约 2 个小时，编写了 5500 行代码（程序化地）渲染了这个故事。虽然有点粗糙，但很有趣。但 LLM 需要将各种多边形资源放置在 (x, y, z) 坐标系中并进行协调，还要编写代码来实现动画效果，而且它最终还能完成这些工作，这确实令人难以置信。\n\n我也很喜欢这类例子，因为正常人根本不会花时间去写这么定制化的东西，但LLM（游戏开发者）却拥有无穷的精力和耐心，所以这说明我们的想法是从“没人会这么做”到“当然可以，反正也免费”。可能还有很多这样的例子。但我很兴奋能创造出高度定制化的世界，你可以想象把玩家放到其中，比如让他们以旁观NPC或角色的身份参与《指环王》的故事，等等。就像一个可以随时体验的限时版《侠盗猎车手》X。\n\n最后一点是，世界/游戏领域暴露了LLM的一个弱点：他们无法轻松地审核自己的作品，因为他们无法高效地原生感知视频或在视频中玩游戏。比如，Opus 5不得不非常缓慢且费力地在不同的时间点截取屏幕截图，结果几次出错，导致画面出现了很多瑕疵。这是一个原始能力（多模式、游戏玩法）的例子，我认为它仍然相当不足。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/karpathy/status/2083749667410727319",
-      "publishedAt": "2026-08-02T03:00:09.000Z",
-      "score": 199.01,
-      "engagement": {
-        "likes": 9895,
-        "retweets": 674,
-        "replies": 595
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2083664853256843437",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "最近学校有人问我3岁的孩子：“你爸爸是做什么工作的？”他……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：They recently asked my 3-year-old at school: “what does your daddy do for work?” He answered: he exercises. That’s wh…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "They recently asked my 3-year-old at school: “what does your daddy do for work?” He…",
-      "originalBody": "They recently asked my 3-year-old at school: “what does your daddy do for work?” He answered: he exercises. That’s what he sees. \n\nIt’s not just you who’s a byproduct of your habits, it’s your children and grandchildren too.",
-      "translatedTitle": "最近学校有人问我3岁的孩子：“你爸爸是做什么工作的？”他……",
-      "translatedBody": "最近，学校老师问我三岁的儿子：“你爸爸是做什么工作的？”他回答说：“他锻炼身体。”他看到的就是这样。\n\n你的习惯不仅会影响你，还会影响你的孩子和孙子孙女。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2083664853256843437",
-      "publishedAt": "2026-08-01T21:23:08.000Z",
-      "score": 160.64,
-      "engagement": {
-        "likes": 831,
-        "retweets": 12,
-        "replies": 51
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2083753582160191988",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "作为组织者，我的一大烦恼就是很少有机会参加自己组织的会议。",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：one of my curses as organizer is i rarely get to attend the conference i run. so i basically 24/7 watch back talks wi…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "one of my curses as organizer is i rarely get to attend the conference i run.",
-      "originalBody": "one of my curses as organizer is i rarely get to attend the conference i run. so i basically 24/7 watch back talks with everyone else after the show\n\nthis one was VERY well paced and argued: fighting slop with slop — @vaibcode, Boundary https://t.co/vRckyyntm6 \n\n@btaylor asked for an ai native programming language on our pod. as a PL fan I’m really glad someone is rethinking how code runs from first principles. Being slop-tolerant is 100x more valuable than being anti- slop",
-      "translatedTitle": "作为组织者，我的一大烦恼就是很少有机会参加自己组织的会议。",
-      "translatedBody": "作为组织者，我的一大烦恼就是很少有机会参加自己组织的会议。所以基本上，我只能在会后和大家一起24小时不间断地观看回放。\n\n这次的演讲节奏把握得非常好，论证也很充分：以牙还牙——@vaibcode，Boundary https://t.co/vRckyyntm6\n\n@btaylor 在我们的播客节目中提出了一个关于人工智能原生编程语言的问题。作为编程语言的爱好者，我很高兴有人从根本上重新思考代码的运行方式。容忍代码中的瑕疵比反对代码中的瑕疵要重要得多。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2083753582160191988",
-      "publishedAt": "2026-08-02T03:15:42.000Z",
-      "score": 122.71,
-      "engagement": {
-        "likes": 53,
-        "retweets": 3,
-        "replies": 12
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2083589132660711452",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "我们将看到人工智能在我们个人生活中所做的事情与人类行为之间的差异越来越大……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：We’re going to see an increasing divergence between what AI does in our personal lives and in daily productivity vs.…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "We’re going to see an increasing divergence between what AI does in our personal li…",
-      "originalBody": "We’re going to see an increasing divergence between what AI does in our personal lives and in daily productivity vs. what it can do in very deep domains like math, science, legal, coding and more.\n\nUp to some threshold, capability was evenly felt across all domains because the models were just becoming mildly useful in general. Now, the deep domain work is about to go vertical. \n\nMost people won’t actually notice these benefits in their day to day life directly (indirectly they certainly will over time), but the experts in these fields will. And there’s no inherent ceiling to what capabilities are needed, unlike in the consumer space where needs can get met relatively straightforwardly.\n\nThis will often lead to a capability overhang, though, as many of these performance gains need to be applied to data sets and workflows in an applied way for that area of work. But this is ultimately how you get breakthroughs in life sciences, real world automation, new cyber capabilities, and more.",
-      "translatedTitle": "我们将看到人工智能在我们个人生活中所做的事情与人类行为之间的差异越来越大……",
-      "translatedBody": "我们将看到人工智能在个人生活和日常生产力方面的作用，与它在数学、科学、法律、编程等深奥领域所能发挥的作用之间，出现越来越大的差异。\n\n在达到某个阈值之前，人工智能的能力在所有领域都得到了均衡的体现，因为这些模型在总体上才刚刚开始具备一定的实用性。如今，深奥领域的应用即将垂直化。\n\n大多数人可能不会直接感受到这些益处（随着时间的推移，他们肯定会间接感受到），但这些领域的专家会。而且，与消费领域不同，深奥领域所需的能力没有固有的上限，消费领域的需求可以相对直接地得到满足。\n\n然而，这往往会导致能力过剩，因为许多性能提升需要以应用的方式应用于特定领域的数据集和工作流程。但归根结底，这正是我们在生命科学、现实世界自动化、新型网络安全能力等领域取得突破的根本途径。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2083589132660711452",
-      "publishedAt": "2026-08-01T16:22:15.000Z",
-      "score": 107.27,
-      "engagement": {
-        "likes": 347,
-        "retweets": 32,
-        "replies": 51
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2083755374994415904",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我今晚心情不错，所以就直说了吧：我认为 Opus 4.6 就是 Opus 模式……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I'm feeling spicy tonight so let me just say it: I think Opus 4.6 was the Opus model with the best personality and wr…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "I'm feeling spicy tonight so let me just say it: I think Opus 4.6 was the Opus mode…",
-      "originalBody": "I'm feeling spicy tonight so let me just say it:\n\nI think Opus 4.6 was the Opus model with the best personality and writing style.\n\nSomething's off with Opus 5 - it tends to give me overly long replies, use Claude-speak way too much (e.g., \"here's the honest truth\"), and is too judgemental. \n\nOpus used to be a joy to talk to like a trusted friend. Not so much anymore.",
-      "translatedTitle": "我今晚心情不错，所以就直说了吧：我认为 Opus 4.6 就是 Opus 模式……",
-      "translatedBody": "今晚我心情不错，就直说了吧：\n\n我觉得 Opus 4.6 是 Opus 系列里个性和写作风格最好的。\n\nOpus 5 有点不对劲——它回复的内容总是太长，说话也太像克劳德（Claude）的风格（比如，“实话实说”），而且太爱评判别人了。\n\n以前和 Opus 聊天就像和一位值得信赖的朋友聊天一样愉快。现在却不是这样了。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2083755374994415904",
-      "publishedAt": "2026-08-02T03:22:50.000Z",
-      "score": 86.19,
-      "engagement": {
-        "likes": 751,
-        "retweets": 19,
-        "replies": 165
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2083722999430050281",
-      "type": "tweet",
-      "builder": "Nan Yu",
-      "title": "你应该能够为你提出的问题和开源仓库质押代币。",
-      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：You should be able to pledge tokens for issues that you open and open source repos. Write a spec in the issue with a…",
+      "title": "PS：我们显然已经有经纪人一段时间了。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：PS: we've obviously had agents for a while. In fact, we had too many. Teams and individuals at Vercel started buildin…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "You should be able to pledge tokens for issues that you open and open source repos.",
-      "originalBody": "You should be able to pledge tokens for issues that you open and open source repos. \n\nWrite a spec in the issue with a pledge. If the maintainer accepts, GitHub passes the issue verbatim to a cloud coding agent at the requester’s expense. \n\nNo more slop PRs",
-      "translatedTitle": "你应该能够为你提出的问题和开源仓库质押代币。",
-      "translatedBody": "你应该能够为你创建的问题和开源仓库提供代币质押。\n\n在问题中编写包含质押的规范说明。如果维护者接受，GitHub 会将该问题原封不动地交给云端编码代理，费用由请求者承担。\n\n告别杂乱无章的 PR",
+      "originalTitle": "PS: we've obviously had agents for a while.",
+      "originalBody": "PS: we've obviously had agents for a while. In fact, we had too many. Teams and individuals at Vercel started building and deploying agents. Dozens of them.\n\nUsing a web analogy, that'd be like every agent having its own domain name. Not a good UX. I just want ${company}⁠.com!\n\n@𝚟 solved that problem for us. It's both an agent and a router. It has sub-agents, skills, and it knows how to delegate work to other agents.\n\nAnother analogy is that it's a bit like a \"monolith\" or \"monorepo\", but you have the escape hatch of \"proxying\" to another agent over the network when needed. Again, not unlike how routing on the internet evolved at scale.\n\nAnd yes, there's also the occasional purpose-built agent that people address directly. The analogy would be subdomain.⁠company.⁠com. Some agents deserve their own \"front doors\", but I don't think there should be too many.\n\nAnd when in doubt, just @𝚟.",
+      "translatedTitle": "PS：我们显然已经有经纪人一段时间了。",
+      "translatedBody": "PS：我们显然已经部署代理一段时间了。事实上，数量太多了。Vercel 的团队和个人开始构建和部署代理，数量多达几十个。\n\n用 Web 类比来说，这就像每个代理都有自己的域名。用户体验很差。我只想访问 ${company}⁠.com！\n\n@𝚟 帮我们解决了这个问题。它既是代理又是路由器。它拥有子代理、技能，并且知道如何将任务委派给其他代理。\n\n另一个类比是，它有点像“单体架构”或“单体仓库”，但必要时可以通过网络“代理”到另一个代理。这与互联网大规模路由的演进方式非常相似。\n\n当然，偶尔也会有一些专门构建的代理，供用户直接访问。这就像 subdomain.⁠company.⁠com 一样。有些代理值得拥有自己的“入口”，但我认为不应该太多。\n\n如果拿不定主意，就@𝚟。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thenanyu/status/2083722999430050281",
-      "publishedAt": "2026-08-02T01:14:11.000Z",
-      "score": 70.23,
+      "sourceUrl": "https://x.com/rauchg/status/2084060157085143512",
+      "publishedAt": "2026-08-02T23:33:56.000Z",
+      "score": 172.36,
       "engagement": {
-        "likes": 28,
+        "likes": 66,
         "retweets": 0,
-        "replies": 13
+        "replies": 4
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -217,37 +51,199 @@
       "sourceType": "x"
     },
     {
-      "id": "2083684825333105107",
+      "id": "2084042561690456157",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "2026年最令人关注的趋势转变是OpenAI有望成为真正的开放平台……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform Note the marked difference: intel…",
+      "builder": "Guillermo Rauch",
+      "title": "我们开发了一个名为 @𝚟 的代理，它为我们公司的内部运营提供支持。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We built an agent that powers our company's internal operations called @𝚟. Every day-to-day job at Vercel now involv…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform…",
-      "originalBody": "Most interesting 2026 vibe shift is OpenAI actually looking to be the open platform \n\nNote the marked difference: intelligence on tap as a utility vs signaling it is optimal to integrate all the way up full stack https://t.co/EmMKE4NggP",
-      "translatedTitle": "2026年最令人关注的趋势转变是OpenAI有望成为真正的开放平台……",
-      "translatedBody": "2026 年最引人注目的趋势转变是 OpenAI 似乎真的要成为开放平台了。\n\n请注意其中的显著区别：一方面，OpenAI 将智能作为一种实用工具随时可用；另一方面，OpenAI 则强调将其全面集成到整个技术栈中才是最佳选择。https://t.co/EmMKE4NggP",
+      "originalTitle": "We built an agent that powers our company's internal operations called @𝚟.",
+      "originalBody": "We built an agent that powers our company's internal operations called @𝚟.\n\nEvery day-to-day job at Vercel now involves @𝚟. It's growing exponentially both in daily interactions and token use.\n\nOne can extrapolate to the day AI agents run entire companies from here. It's an expert in finance, comms, docs, marketing, engineering, business analytics. It's seeded by the skills we gave it and we update, but it's also constantly improving.\n\nIt already keeps memories and personalized workflows and schedules on a per-user basis. For example, I knew skills⁠.sh hit 1M skills and I shared this on these forums because I asked @𝚟 to periodically check and remind me.\n\nIt's powered by and is also the basis for the design of @evedev_. We built this, it works fantastically well, we think every company should have it.\n\nBefore you @ me, I know you could also do this by picking your 'BigAI slack integration' du jour. But that's not your agent, that's their agent. If agents become the foundation of (and even synonymous with) modern companies, you being in complete control, from source → runtime → data → token, seems like a pretty big deal to me.",
+      "translatedTitle": "我们开发了一个名为 @𝚟 的代理，它为我们公司的内部运营提供支持。",
+      "translatedBody": "我们开发了一个名为 @𝚟 的智能体，它为公司的内部运营提供支持。\n\n现在，Vercel 的每一项日常工作都离不开 @𝚟。它的日常交互量和代币使用量都在呈指数级增长。\n\n我们可以预见，未来有一天，人工智能智能体将能够运营整个公司。@𝚟 精通财务、沟通、文档、市场营销、工程和商业分析。它拥有我们赋予的技能，我们会不断更新，但它也在持续改进。\n\n它已经能够为每个用户保存记忆、个性化工作流程和日程安排。例如，我知道 skills⁠.sh 的技能数量达到了 100 万，我之所以在论坛上分享这个消息，是因为我让 @𝚟 定期检查并提醒我。\n\n@𝚟 由 @evedev_ 提供支持，同时也是 @evedev_ 设计的基础。我们开发了它，它运行得非常出色，我们认为每家公司都应该拥有它。\n\n在你@我之前，我知道你也可以通过选择当下流行的“BigAI Slack集成”来实现这一点。但那不是你的代理，那是他们的代理。如果代理成为现代公司的基础（甚至等同于现代公司），那么你能够完全掌控从源头到运行时到数据再到令牌的整个过程，在我看来意义非凡。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2083684825333105107",
-      "publishedAt": "2026-08-01T22:42:30.000Z",
-      "score": 55.76,
+      "sourceUrl": "https://x.com/rauchg/status/2084042561690456157",
+      "publishedAt": "2026-08-02T22:24:01.000Z",
+      "score": 163.12,
       "engagement": {
-        "likes": 278,
-        "retweets": 9,
-        "replies": 46
+        "likes": 1233,
+        "retweets": 47,
+        "replies": 116
       },
       "matchedFocusAreas": [
         "Coding Agents"
       ],
       "sourceType": "x"
+    },
+    {
+      "id": "2083948654377996480",
+      "type": "tweet",
+      "builder": "Andrej Karpathy",
+      "title": "@simonw 分享了更多关于鹈鹕骑自行车测试的信息：https://t.co/OXmtODyTKj 我上传了…",
+      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：More on the pelican on the bicycle test from @simonw: https://t.co/OXmtODyTKj I uploaded the source here so it's play…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "More on the pelican on the bicycle test from @simonw: https://t.co/OXmtODyTKj I upl…",
+      "originalBody": "More on the pelican on the bicycle test from @simonw:\nhttps://t.co/OXmtODyTKj\n\nI uploaded the source here so it's playable in the browser, forkable etc.\nhttps://t.co/w3Nctc888d\n\nLook out for GTA Hobbiton dropping before GTA VI :)",
+      "translatedTitle": "@simonw 分享了更多关于鹈鹕骑自行车测试的信息：https://t.co/OXmtODyTKj 我上传了…",
+      "translatedBody": "@simonw 分享了更多关于鹈鹕骑自行车测试的内容：\n\nhttps://t.co/OXmtODyTKj\n\n我已将源代码上传至此处，因此可以在浏览器中运行，也可以进行 fork 等操作。\n\nhttps://t.co/w3Nctc888d\n\n敬请期待 GTA Hobbiton 在 GTA VI 之前发布 :)",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/karpathy/status/2083948654377996480",
+      "publishedAt": "2026-08-02T16:10:51.000Z",
+      "score": 157.15,
+      "engagement": {
+        "likes": 392,
+        "retweets": 14,
+        "replies": 38
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2083969120270450911",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "单就人工智能而言，它就很酷。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：AI alone is cool. But mastery + creativity + AI hits on a whole different level. Don't let anyone discourage you from…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "AI alone is cool.",
+      "originalBody": "AI alone is cool. But mastery + creativity + AI hits on a whole different level. Don't let anyone discourage you from pursuing excellence and craft. Keep studying the blade.",
+      "translatedTitle": "单就人工智能而言，它就很酷。",
+      "translatedBody": "人工智能本身就很酷，但精湛技艺+创造力+人工智能，则能达到完全不同的境界。不要让任何人阻碍你追求卓越和精湛技艺。继续钻研刀法吧。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2083969120270450911",
+      "publishedAt": "2026-08-02T17:32:11.000Z",
+      "score": 144.05,
+      "engagement": {
+        "likes": 3662,
+        "retweets": 359,
+        "replies": 202
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2084156733027701164",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "为了准备我们的电脑使用小组，打算存储一份 Codex Cua 的运行列表，哇，好激动……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：in prep for our computer use pod, gonna store a running list of codex cua wow moments. here it is dealing with suppor…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "in prep for our computer use pod, gonna store a running list of codex cua wow momen…",
+      "originalBody": "in prep for our computer use pod, gonna store a running list of codex cua wow moments. \n\n here it is dealing with support chat for me to escalate for faster resolution\n\nthese humans have no idea they are talking to a bot\n\nsupport guy tried to say its our fault, bot replied with complete receipts lmao",
+      "translatedTitle": "为了准备我们的电脑使用小组，打算存储一份 Codex Cua 的运行列表，哇，好激动……",
+      "translatedBody": "为了准备我们的电脑使用小组，我打算记录一下我在 Codex Cua 上遇到的精彩瞬间。\n\n现在我正在和客服聊天，希望能尽快升级问题解决。\n\n这些人根本不知道自己是在跟机器人说话。\n\n客服人员试图把责任推卸给我们，结果机器人回复了我完整的收据，哈哈哈哈。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2084156733027701164",
+      "publishedAt": "2026-08-03T05:57:41.000Z",
+      "score": 138.22,
+      "engagement": {
+        "likes": 3,
+        "retweets": 0,
+        "replies": 2
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2084171901451268599",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "我还没完整地见过这家伙的整个过程，但这地方绝对能把你吞噬殆尽……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：haven't seen a full cycle of this guy but this place absolutely can chew you up and wastes 10 yrs of your life making…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "haven't seen a full cycle of this guy but this place absolutely can chew you up and…",
+      "originalBody": "haven't seen a full cycle of this guy but this place absolutely can chew you up and wastes 10 yrs of your life making you feel like you are doing something when you are not\n\nhttps://t.co/u5gJ2pYin3",
+      "translatedTitle": "我还没完整地见过这家伙的整个过程，但这地方绝对能把你吞噬殆尽……",
+      "translatedBody": "我还没完整地体验过这个人的整个过程，但这地方绝对能把你榨干，浪费你十年光阴，让你感觉自己好像在做某件事，其实什么都没做。\n\nhttps://t.co/u5gJ2pYin3",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2084171901451268599",
+      "publishedAt": "2026-08-03T06:57:58.000Z",
+      "score": 111.92,
+      "engagement": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2083873335998333227",
+      "type": "tweet",
+      "builder": "Nikunj Kothari",
+      "title": "我们生活在一个多么疯狂的世界啊！",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：What a wild world we’re living through. I wrote about the Series A squeeze recently. Here’s what else I’m seeing from…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "What a wild world we’re living through.",
+      "originalBody": "What a wild world we’re living through. I wrote about the Series A squeeze recently. Here’s what else I’m seeing from my seat on the investing side..\n\n1) VC has effectively fully become vibes capital. The market reality at the early-mid stage is completely divorced from fundamentals. I can go longer with even a resemblance of a straight face predict what happens to a company when they go to fund raise. \n\nSome rounds are insanely wild with nothing to show, some rounds that seem like a sure shot are struggling to raise the capital they need. If you’re the “in vogue sector”, you’ll be just fine. This has been happening for some while but it’s fully banana town now. And unlike most who think a correction happens I think this continues for 12-18 months (dry powder, AI tailwind) minimum. The most common phrase in VC land right now is “you gotta play the game on the field”. This is a spiral that continues to keep the volatility and prices high. \n\n2) Whereas on the public markets it’s also equally bananas. It used to be in the meme stock era that you’d see daily swings of >5% (+\\-). But now even trillion dollar stocks are not immune to swinging that much based on vibes and model releases. Memory and the KOSPI index are recent examples and this will happen to other sectors soon. Rotations are getting faster and faster.\n\nIn the long run, the same fundamentals of building a great company with control of your own destiny (profitable, clean cap table etc) will end up just working out fine. But in the short term, in this vortex of hyper competition where capital is needed as a weapon, you should make sure you understand what’s going on before you dip your toes in the capital markets. \n\nNo matter what it’ll be interesting to see how this shakes out when we look back in this era. Obligatory happy to chat if helpful!",
+      "translatedTitle": "我们生活在一个多么疯狂的世界啊！",
+      "translatedBody": "我们正经历着一个多么疯狂的世界啊！我最近写了一篇关于A轮融资挤压的文章。以下是我作为投资者观察到的其他一些现象……\n\n1）风投实际上已经完全沦为情绪资本。早期到中期阶段的市场现实与基本面完全脱节。我甚至可以面不改色地预测一家公司在融资时的走向。\n\n有些融资轮数疯狂至极，却毫无实际成果；有些看似稳操胜券的融资轮数却苦苦挣扎，难以筹集到所需的资金。如果你身处“热门行业”，那就万事大吉。这种情况已经持续了一段时间，但现在彻底失控了。与大多数人认为市场会出现回调不同，我认为这种情况至少会持续12-18个月（资金充裕，人工智能也带来了利好）。目前风投圈最流行的说法是“你必须在场上玩游戏”。这种螺旋式上升将持续推高市场波动性和价格。\n\n2）然而，公开市场的情况同样疯狂。过去，在“梗股”时代，股价每日波动超过5%（正负值）是司空见惯的。但如今，即使是市值万亿美元的股票也无法避免受市场情绪和模型发布的影响而出现如此大的波动。记忆和韩国综合股价指数（KOSPI）就是近期的例子，这种情况很快也会发生在其他行业。市场轮动的速度越来越快。\n\n从长远来看，打造一家能够掌控自身命运的伟大公司（盈利、股权结构清晰等等）的基本原则最终会奏效。但在短期内，在这个竞争异常激烈的漩涡中，资本被当作武器，因此在涉足资本市场之前，务必确保自己了解市场动态。\n\n无论如何，当我们回顾这个时代时，看看最终结果如何，将会非常有趣。如果对您有所帮助，我很乐意交流！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/nikunj/status/2083873335998333227",
+      "publishedAt": "2026-08-02T11:11:34.000Z",
+      "score": 106.87,
+      "engagement": {
+        "likes": 372,
+        "retweets": 21,
+        "replies": 25
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2084038453831020916",
+      "type": "tweet",
+      "builder": "Dan Shipper",
+      "title": "当你体验到语言模型完成过去需要你全程参与的任务时……",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：when you experience a language model doing a task that used to require you at every step and now doesn't, it's a giga…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "when you experience a language model doing a task that used to require you at every…",
+      "originalBody": "when you experience a language model doing a task that used to require you at every step and now doesn't, it's a gigantic agency rupture. \n\nwe tend to equate ourselves with our tasks, our outputs, and a rupture of this kind is akin to the loss of your identity and sense of self. \n\nyou are no longer required, and you had no say in the matter. it's a kind of death.\n\nhowever, agency ruptures with AI seem to follow a predictable pattern:\n\n- Initial agency rupture. Here you see the AI doing what you used to do, and you see only the AI. In your perception of reality the AI is highlighted, and the human work around getting the AI to do the thing, is invisible. you can see this in the way we use language: \"AI solved XYZ Erdos Problem\" is another way to say we're in the initial rupture phase.\n\n- Seeing human scaffolding. After a little bit of experience with the model and its new capibility—programming, writing, math, etc—we start to see the edges of what's possible with the model. Here, instead of just seeing the AI doing the task, we start to see the scaffolding required by you and other humans on either end to make sure the model does its work. At this stage, the scaffolding can feel like a secondary part of the work, but it is work nonetheless. We begin to say things like, \"The AI is prompting me\", or \"My job is just to babysit Claude.\" \n\n- Agency reconstruction. After a long enough time with the model at its current level of capability, we start to reconstruct a new sense of agency that centers our own role in the work being done, and makes the model's contribution mostly invisible. It is now a tool, it fast-forwards you through the boring or repetitive parts of the work, and what used to seem like scaffolding now seems like the actual work itself—the interesting part. You've had enough experience with the scaffolding to see its nuances, and how hard it is to get the model to reliably output high quality work. (As part of this, your conception of what quality work is changes—the floor is raised, and so is the ceiling.)\n\nYou can tell you're at this point because you stop saying \"The AI did this\" and just say, \"I did this\" and the fact that you used AI is implied. For example, it would be weird for me to talk to someone @every and ask them if the AI built the most recent feature of a product. Of course it did! But we're so used to the capability that it becomes invisible, and we re-center ourselves and our own conception of agency.\n\nMy theory is that the ability to metabolize agency ruptures and turn them into playfulness, and curiosity is a good leading indicator for whether you're a person who likes and excels in the new AI economy or not.  \n\nEach time capabilities jump, you get new ruptures for existing fields touched by AI. And you get new ruptures for naive populations (like mathemeticians) who until recently hadn't been affected.\n\nif you know what the cycle looks like, it makes it much easier to ride it without freaking out. i think most people @every are naturally good at this",
+      "translatedTitle": "当你体验到语言模型完成过去需要你全程参与的任务时……",
+      "translatedBody": "当你体验到语言模型完成一项过去需要你全程参与的任务，而现在却无需你参与时，这是一种巨大的自主权断裂。\n\n我们倾向于将自身等同于任务和产出，而这种断裂类似于身份认同和自我意识的丧失。\n\n你不再被需要，你对此事也毫无发言权。这就像一种死亡。\n\n然而，人工智能带来的自主权断裂似乎遵循着某种可预测的模式：\n\n- 初始自主权断裂。此时，你看到人工智能在做你过去做的事情，而你眼中只有人工智能。在你对现实的感知中，人工智能被凸显出来，而人类为了使人工智能完成任务所做的工作则被忽略了。你可以从我们使用语言的方式中看出这一点：“人工智能解决了XYZ埃尔德什问题”就是我们处于初始断裂阶段的另一种说法。\n\n- 看到人类的辅助工作。在对模型及其新功能（例如编程、写作、数学等）有了一定的了解之后，我们开始看到模型能力的极限。此时，我们不再仅仅看到人工智能在执行任务，而是开始意识到为了确保模型顺利运行，我们和其他人在两端都需要提供辅助支持。在这个阶段，这些辅助支持可能感觉像是工作的次要部分，但它仍然是工作。我们开始说“人工智能在提示我”，或者“我的工作只是照看克劳德”。\n\n——主体性重建。在模型达到当前能力水平并持续使用足够长的时间后，我们开始重建一种新的主体性，这种主体性将我们自身在工作中的角色置于中心，并使模型的贡献几乎变得隐形。它现在是一种工具，可以帮助我们快速跳过工作中枯燥或重复的部分，而曾经看似辅助支持的工作现在却变成了真正的工作本身——有趣的部分。你对这套框架已经足够熟悉，能够洞察其中的细微差别，也明白要让模型稳定输出高质量成果有多么困难。（在此过程中，你对高质量成果的理解也会发生改变——标准提高了，上限也提高了。）\n\n当你不再说“这是人工智能做的”，而是直接说“这是我做的”，并且人工智能的使用就已不言而喻时，你便能意识到自己已经达到了这个阶段。例如，如果我问@every的某个人，人工智能是否开发了产品的最新功能，那会显得很奇怪。当然是人工智能做的！但我们已经如此习惯于这种能力，以至于它变得隐形，我们重新审视自身以及我们对自主性的理解。\n\n我的理论是，能否消化自主性断裂并将其转化为玩乐精神和好奇心，是判断你是否喜欢并擅长在新人工智能经济中发展的重要指标。\n\n每次能力飞跃，人工智能所触及的现有领域都会出现新的断裂。而且，一些原本对经济周期一无所知的群体（比如数学家）也会受到新的冲击，他们直到最近才开始受到影响。\n\n如果你了解经济周期的规律，就能更轻松地应对它，而不会惊慌失措。我认为大多数人天生就擅长这一点。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/danshipper/status/2084038453831020916",
+      "publishedAt": "2026-08-02T22:07:41.000Z",
+      "score": 104.19,
+      "engagement": {
+        "likes": 192,
+        "retweets": 17,
+        "replies": 29
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-08-02T07:09:46.620Z",
-    "totalCandidates": 30,
-    "textQualifiedCandidates": 14,
+    "upstreamGeneratedAt": "2026-08-03T07:26:16.835Z",
+    "totalCandidates": 26,
+    "textQualifiedCandidates": 15,
     "selectedTweets": 8
   }
 }
