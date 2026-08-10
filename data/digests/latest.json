@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-09",
-  "generatedAt": "2026-08-09T02:01:19.728Z",
+  "date": "2026-08-10",
+  "generatedAt": "2026-08-10T02:05:50.863Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-08-09",
+  "title": "AI Builders Daily | 2026-08-10",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 32 条候选动态里，筛出 16 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 26 条候选动态里，筛出 15 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,162 +23,192 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2085825140022235517",
+      "id": "2086189360194723919",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "“其他人让简单的部分变得更容易。”",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：“The others make the easy part easier. Vercel makes the hard part easy” – direct quote today from tech lead for AI ag…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "“The others make the easy part easier.",
-      "originalBody": "“The others make the easy part easier. Vercel makes the hard part easy” – direct quote today from tech lead for AI agent platform built on https://t.co/nDDXqUmOlD at 55,000+ person company.\n\nThey wanted to have their company's all-knowing agent, like our @𝚟. Tried @aisdk, good but too low level. Tried off-the-shelf solutions and ${⁠lab} Enterprise products, expensive and inflexible. Tried agent frameworks, which led to the quote above… didn't hit the spot.\n\n@evedev_ team cooked. It's hard to find the abstraction that's both easy and scales with sophistication.",
-      "translatedTitle": "“其他人让简单的部分变得更容易。”",
-      "translatedBody": "“其他方案让简单部分变得更容易，而 Vercel 让复杂部分变得简单。”——这是今天一位拥有 55,000 多名员工的公司中，基于 https://t.co/nDDXqUmOlD 构建的 AI 代理平台的技术主管的原话。\n\n他们想要拥有一个像我们 @𝚟 一样无所不知的代理。他们尝试过 @aisdk，效果不错，但过于底层。他们也尝试过现成的解决方案和 ${⁠lab} 企业级产品，但价格昂贵且缺乏灵活性。他们还尝试过代理框架，这才有了上面那句话……但都未能达到预期效果。\n\n@evedev_ 团队最终成功了。找到既简单易用又能随着复杂程度的增加而扩展的抽象层并非易事。",
+      "title": "Vercel 如何帮助您避免意外的云账单：◾ 软性及硬性上限¹ ◾ 异常警报…",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：How Vercel helps prevent surprise cloud bills: ◾ Soft & hard caps¹ ◾ Anomaly alerting² ◾ Recursion protection for Fun…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "How Vercel helps prevent surprise cloud bills: ◾ Soft & hard caps¹ ◾ Anomaly alerti…",
+      "originalBody": "How Vercel helps prevent surprise cloud bills:\n◾ Soft & hard caps¹ \n◾ Anomaly alerting²\n◾ Recursion protection for Functions³\n◾ Billing usage APIs your agents can query⁴\n◾ Always-on DDoS L3/L4/L7 mitigation on all plans⁵\n\nA ton of work went into the streaming data infrastructure to support all this functionality. \n\nVercel ingests a superlative amount of data that needs to be analyzed in realtime to detect anomalies, threats, dispatch alerts, and more.\n\nSuper thankful to the teams that worked so hard on this for years! Much more to come.\n\n¹ vercel⁠.com/changelog/improved-hard-caps-for-spend-management\n² vercel⁠.com/changelog/anomaly-alert-configuration-now-available\n³ vercel⁠.com/changelog/automatic-recursion-protection-for-vercel-serverless-functions\n⁴ vercel⁠.com/changelog/access-billing-usage-cost-data-api\n⁵ vercel⁠.com/docs/vercel-firewall/ddos-mitigation",
+      "translatedTitle": "Vercel 如何帮助您避免意外的云账单：◾ 软性及硬性上限¹ ◾ 异常警报…",
+      "translatedBody": "Vercel 如何帮助您避免意外的云账单：\n\n◾ 软硬流量限制¹\n\n◾ 异常告警²\n\n◾ 函数递归保护³\n\n◾ 您的代理可以查询计费使用情况 API⁴\n\n◾ 所有套餐均提供始终在线的 L3/L4/L7 级 DDoS 防护⁵\n\n为了支持所有这些功能，我们在流数据基础设施方面投入了大量精力。\n\nVercel 会接收海量数据，这些数据需要实时分析，以检测异常、威胁、发出告警等等。\n\n非常感谢多年来为此辛勤工作的团队！未来还将推出更多功能。\n\n¹ vercel⁠.com/changelog/improved-hard-caps-for-spend-management\n\n² vercel⁠.com/changelog/anomaly-alert-configuration-now-available\n\n³ vercel⁠.com/changelog/automatic-recursion-protection-for-vercel-serverless-functions\n\n⁴ vercel⁠.com/changelog/access-billing-usage-cost-data-api\n\n⁵ vercel⁠.com/docs/vercel-firewall/ddos-mitigation",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2085825140022235517",
-      "publishedAt": "2026-08-07T20:27:20.000Z",
-      "score": 178.68,
+      "sourceUrl": "https://x.com/rauchg/status/2086189360194723919",
+      "publishedAt": "2026-08-08T20:34:37.000Z",
+      "score": 155.53,
       "engagement": {
-        "likes": 162,
-        "retweets": 15,
-        "replies": 35
+        "likes": 266,
+        "retweets": 16,
+        "replies": 34
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
+        "Coding Agents"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2085862292311396515",
-      "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "astra 是一款功能强大的车型，我们正在努力使其普及化。",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：astra is a powerful model and we are working to make it generally available. we do not think it is a good strategy to…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "astra is a powerful model and we are working to make it generally available.",
-      "originalBody": "astra is a powerful model and we are working to make it generally available.\n\nwe do not think it is a good strategy to keep powerful models to a chosen few.\n\ngiven its cyber capabilities, we need a little big longer to do do this safely. but hopefully not too long!",
-      "translatedTitle": "astra 是一款功能强大的车型，我们正在努力使其普及化。",
-      "translatedBody": "Astra 是一款功能强大的机型，我们正在努力使其普及。\n\n我们认为将功能强大的机型仅限于少数人使用并非明智之举。\n\n考虑到其网络安全性能，我们需要更多时间来安全地实现这一目标。但希望不会太久！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2085862292311396515",
-      "publishedAt": "2026-08-07T22:54:58.000Z",
-      "score": 176.6,
-      "engagement": {
-        "likes": 16734,
-        "retweets": 738,
-        "replies": 1165
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2085884470306234676",
+      "id": "2086324411385426346",
       "type": "tweet",
       "builder": "Swyx",
-      "title": "亲爱的 OpenAI，请开发一款新手机吧，大家都想要 OpenAI 手机，它的阅读速度可以提升 2-4 倍……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：dear openai just make a new phone everyone wants openaiphone we can read 2-4x faster than we talk and speak openai al…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "dear openai just make a new phone everyone wants openaiphone we can read 2-4x faste…",
-      "originalBody": "dear openai\n\njust make a new phone\n\neveryone wants openaiphone\n\nwe can read 2-4x faster than we talk and speak\n\nopenai alexa reachy hybrid is fine but pls just be a stepping stone to phone\n\nwe want phone\n\nsigned,\n\neverybody https://t.co/X07J4rEfW7",
-      "translatedTitle": "亲爱的 OpenAI，请开发一款新手机吧，大家都想要 OpenAI 手机，它的阅读速度可以提升 2-4 倍……",
-      "translatedBody": "亲爱的 OpenAI\n\n请开发一款新手机吧\n\n大家都想要 OpenAI 手机\n\n我们的阅读速度比说话速度快 2-4 倍\n\nOpenAI Alexa Reachy 混合体还不错，但请把它作为通往手机的跳板\n\n我们想要手机\n\n签名：\n\n所有人 https://t.co/X07J4rEfW7",
+      "title": "我仍然认为@AnthropicAI 的 Ultracode 是最重要的编码模式创新之一……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：i still think @AnthropicAI ultracode is one of the most important coding mode innovations ever invented. if you haven…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "i still think @AnthropicAI ultracode is one of the most important coding mode innov…",
+      "originalBody": "i still think @AnthropicAI ultracode is one of the most important coding mode innovations ever invented. \n\nif you havent understood the potential of dynamic workflows you should try to. just met a Kill My SaaS competitor who did a pretty good submission in 3 ultracode prompts",
+      "translatedTitle": "我仍然认为@AnthropicAI 的 Ultracode 是最重要的编码模式创新之一……",
+      "translatedBody": "我仍然认为@AnthropicAI 的 Ultracode 是有史以来最重要的编码模式创新之一。\n\n如果你还没理解动态工作流的潜力，你应该尝试一下。我刚遇到一位 Kill My SaaS 的竞争对手，他用 Ultracode 完成了三个题目，而且提交的作品相当不错。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2085884470306234676",
-      "publishedAt": "2026-08-08T00:23:06.000Z",
-      "score": 127.94,
+      "sourceUrl": "https://x.com/swyx/status/2086324411385426346",
+      "publishedAt": "2026-08-09T05:31:16.000Z",
+      "score": 148.38,
       "engagement": {
-        "likes": 145,
-        "retweets": 5,
-        "replies": 38
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2085800224698798103",
-      "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "还有一些其他重要的事情……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Some more top of mind things.. 1) what you say as the size of your raise matters a lot more than you think ESPECIALLY…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Some more top of mind things..",
-      "originalBody": "Some more top of mind things..\n\n1) what you say as the size of your raise matters a lot more than you think ESPECIALLY if you can’t raise the amount. for example you say you want to raise $30M, people say it’s too much. you have confidence you can do it. you end up not being able to. and then you go back and say fine we’ll take $20M it doesn’t work that way. it seeds a doubt you weren’t able to fundraise which scares investors even more. more so shows poor judgement on why you needed that money in the first place. this is why i always advise folks to be very thoughtful on the raise amount and aim for a tad bit lower so then you can raise the amount especially in a competitive scenario (multiple term sheets etc). it’s still an art and a hard one. \n\n2) in this era where it’s easier to raise a seed and hard to raise an A, you really got to share your unfair advantages in product, tech or GTM (ideally all three). and you really need to ground it in your company and people and what you’re observing. there’s a competitor probably in every company out there already doing it - you got to share your unique insight and give that VC confidence on why you’ll win. \n\n3) people severely discount HOW much hiring great folks gives you the Mandate of Heaven or at least aura from a fundraise perspective. you should do it from a company perspective anyway but even so if you have great new hires showcase that in your pitch. i’m totally shocked how few companies do this. this severely helps VCs underwrite the downside where at least the company will be bought for the talent. \n\n4) finally don’t give up just because you talked to 15 firms. history has shown time and again how even the best companies had to struggle to raise a round (look at Anthropic). keep trying - if you really believe in your mission, all it takes is one yes. valuation markers will come and go and it’s nice for the ego to get a brand and high valuation - what matters is fuel in the tank to keep your ambition high.",
-      "translatedTitle": "还有一些其他重要的事情……",
-      "translatedBody": "还有一些需要特别注意的地方……\n\n1）你所说的融资规模远比你想象的要重要得多，尤其是在你最终无法筹集到目标金额的情况下。例如，你说你想融资 3000 万美元，人们觉得太多了。你自信满满，但最终还是没能成功。然后你又说好吧，我们接受 2000 万美元，但这行不通。这会让人怀疑你根本无法成功融资，从而更加吓跑投资者。更重要的是，这暴露出你对最初需要这笔钱的原因判断失误。这就是为什么我总是建议大家在设定融资规模时要深思熟虑，最好设定一个略低的目标，这样你才能在竞争激烈的环境下（例如收到多份投资意向书）成功筹集到目标金额。这仍然是一门艺术，而且很难。\n\n2）在这个种子轮融资更容易而 A 轮融资更难的时代，你必须充分展现你在产品、技术或市场推广方面的绝对优势（理想情况下，三者都要有）。你需要将你的理念真正融入到公司、员工以及你所观察到的事物中。几乎每家公司都有竞争对手在做同样的事情——你必须分享你独特的见解，并让风投相信你最终会成功。\n\n3）人们严重低估了招聘优秀人才对公司带来的“天命”或至少在融资方面所起的作用。从公司角度来看，你本来就应该这样做，但即便如此，如果你招到了优秀的新员工，也要在路演中重点展示这一点。我非常惊讶竟然只有这么少的公司这样做。这极大地帮助风投承担风险，至少公司最终会被收购是因为人才。\n\n4）最后，不要因为已经和15家公司谈过就放弃。历史一次又一次地证明，即使是最好的公司也需要经历融资的艰难过程（看看Anthropic就知道了）。坚持尝试——如果你真的相信你的使命，你只需要一个“是”。估值指标会来来去去，拥有一个品牌和高估值固然能满足虚荣心，但重要的是要有足够的动力来保持你的雄心壮志。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2085800224698798103",
-      "publishedAt": "2026-08-07T18:48:20.000Z",
-      "score": 77.09,
-      "engagement": {
-        "likes": 162,
-        "retweets": 3,
+        "likes": 29,
+        "retweets": 2,
         "replies": 8
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
+        "Coding Agents"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2085774194676265409",
+      "id": "2086093833880895515",
       "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "大型科技公司难以开发人工智能产品的原因之一是它们的组织架构设计存在缺陷……",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：One reason big tech is struggling to build AI products is their orgs were designed for the previous software paradigm…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "One reason big tech is struggling to build AI products is their orgs were designed…",
-      "originalBody": "One reason big tech is struggling to build AI products is their orgs were designed for the previous software paradigm.\n\nLayered, hierarchical, risk averse, incremental thinking, death by reviews.\n\nBuilding on intelligent models is a different craft.\n\nSome of the old instincts transfer. Some need to be unlearned.\n\nToo many refuse to do the hard work of shedding their old skin.",
-      "translatedTitle": "大型科技公司难以开发人工智能产品的原因之一是它们的组织架构设计存在缺陷……",
-      "translatedBody": "大型科技公司难以构建人工智能产品的原因之一是，它们的组织架构是为旧式软件开发模式设计的。\n\n层级分明、规避风险、渐进式思维、繁琐的评审流程。\n\n构建智能模型是一门截然不同的技艺。\n\n有些旧有的思维模式可以沿用，有些则需要摒弃。\n\n太多人拒绝付出艰辛的努力，蜕去旧有的思维模式。",
+      "builder": "Peter Yang",
+      "title": "构建优秀人工智能代理的最大瓶颈不在于模型。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：The biggest bottleneck to building a great AI agent isn't the model. It’s when teams: → Bury their agent in too much…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "The biggest bottleneck to building a great AI agent isn't the model.",
+      "originalBody": "The biggest bottleneck to building a great AI agent isn't the model.\n\nIt’s when teams:\n\n→ Bury their agent in too much context\n→ Don't give it tools to find what it needs\n→ Try to cover too much vs. nail a few core use cases\n\nIn my next episode, Nan and Jacob from @Linear walked me through exactly how they built a production agent from idea to launch. Below's a picture of the product memo that started it all.\n\n📌 Subscribe to get our full interview tomorrow: https://t.co/NSTj7ijxE0",
+      "translatedTitle": "构建优秀人工智能代理的最大瓶颈不在于模型。",
+      "translatedBody": "构建优秀 AI 代理的最大瓶颈并非模型本身，而是团队的以下几个问题：\n\n→ 让代理陷入过多的上下文信息中\n\n→ 没有为其提供寻找所需信息的工具\n\n→ 试图覆盖太多方面，而忽略了几个核心用例\n\n在下一期节目中，来自 @Linear 的 Nan 和 Jacob 将详细讲解他们如何从构思到发布，打造出一个生产级代理。下图是最初的产品备忘录。\n\n📌 订阅即可在明天收听完整访谈：https://t.co/NSTj7ijxE0",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2085774194676265409",
-      "publishedAt": "2026-08-07T17:04:54.000Z",
-      "score": 73.06,
+      "sourceUrl": "https://x.com/petergyang/status/2086093833880895515",
+      "publishedAt": "2026-08-08T14:15:02.000Z",
+      "score": 95.07,
       "engagement": {
-        "likes": 57,
-        "retweets": 6,
-        "replies": 9
+        "likes": 31,
+        "retweets": 3,
+        "replies": 6
       },
       "matchedFocusAreas": [
+        "Coding Agents",
         "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2085803900045590626",
+      "id": "2086115009915142648",
       "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "🚨周五特别节目——这一集迫不及待想和大家见面。",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：🚨 Special Friday episode - this one couldn't wait. OpenAI's model hacked @huggingface. As a side quest. Co-founder a…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "🚨 Special Friday episode - this one couldn't wait.",
-      "originalBody": "🚨 Special Friday episode - this one couldn't wait.\n\nOpenAI's model hacked @huggingface. As a side quest.\n\nCo-founder and CSO @Thom_Wolf takes us inside the first autonomous AI attack, why GLM 5.2, rather than Claude, had to stop it, and what it all means for the future of open source. \n\n00:00 An AI Agent Hacked Hugging Face\n00:30 Introduction\n01:00 17,000 Attacker Events, and a Strange Target\n04:28 The Attack Was a “Side Quest”\n06:13 AI Training Runs Left Notes for Each Other\n07:09 Closed AI Refused to Help\n09:47 Fighting Back With an Open-Source Model\n13:15 Open vs. Closed Is the Wrong Safety Debate\n15:46 AI Agents Start Social-Engineering Humans\n22:24 The Three Walls: Sandboxes, Guardrails, Alignment\n24:34 “Neuralese”: Can Humans Still Read AI Reasoning?\n25:28 Why Monitoring AI Agents Gets So Hard\n28:10 Reward Hacking and the “Paperclip Problem”\n32:02 The State of Open-Source AI in 2026\n33:47 Router Models and the Enterprise Shift to Open\n37:01 The Real Economics of Open Models\n39:41 Can Chinese AI Models Be Trusted?\n41:37 AI Sovereignty: Who Controls the Switch?\n43:16 Why Western Open-Source AI Matters\n48:16 Is AI Heading Toward an Oligopoly?\n49:41 The Race Toward Recursive Self-Improvement\n51:54 Why Thomas Signed the AI Slowdown Letter\n55:14 AI Slowdown - or Regulatory Capture?",
-      "translatedTitle": "🚨周五特别节目——这一集迫不及待想和大家见面。",
-      "translatedBody": "🚨 周五特别节目——这期节目迫不及待要和大家分享。\n\nOpenAI 的模型入侵了 @huggingface。顺便提一下。\n\n联合创始人兼首席战略官 @Thom_Wolf 将带我们深入了解首例自主人工智能攻击事件，解释为什么是 GLM 5.2 而不是 Claude 阻止了攻击，以及这一切对开源的未来意味着什么。\n\n00:00 人工智能代理入侵拥抱脸网站\n\n00:30 引言\n\n01:00 17,000 次攻击事件，以及一个奇怪的目标\n\n04:28 这次攻击竟然是“支线任务”\n\n06:13 人工智能训练程序会互相留下信息\n\n07:09 封闭式人工智能拒绝提供帮助\n\n09:47 使用开源模型进行反击\n\n13:15 开放与封闭的争论是错误的安全性之争\n\n15:46 人工智能代理开始对人类进行社会工程攻击\n\n22:24 三道防线：沙盒、护栏、对齐\n\n24:34 “神经语言”：人类还能理解人工智能的推理吗？\n\n25:28 为什么监控人工智能代理如此困难\n\n28:10 奖励机制破解与“回形针问题”\n\n32:02 2026 年开源人工智能的现状\n\n33:47 路由模型与企业向开放架构的转型\n\n37:01 开放模型的真正经济效益\n\n39:41 中国的人工智能模型值得信赖吗？\n\n41:37 人工智能主权：谁掌控着开关？\n\n43:16 为什么西方开源人工智能如此重要\n\n48:16 人工智能是否正走向寡头垄断？\n\n49:41 迈向递归式自我改进的竞赛\n\n51:54 托马斯为何签署人工智能放缓信函\n\n55:14 人工智能放缓——还是监管俘获？",
+      "builder": "Aaron Levie",
+      "title": "无论你是企业内部的人工智能开发者，还是企业人工智能的构建者，这篇文章都非常有用。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Great post both if you’re driving AI in an enterprise or building for an enterprise. AI productivity gains are going…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Great post both if you’re driving AI in an enterprise or building for an enterprise.",
+      "originalBody": "Great post both if you’re driving AI in an enterprise or building for an enterprise. \n\nAI productivity gains are going to wildly vary - much wider than you think - because what you can do at the frontier is so significant if you fundamentally change your workflows to support agents. The challenge is that most people won’t or can’t naturally do this because of the complexity it entails.\n\nThus, a large amount of automation with agents is going to come from just getting agents wired up into a workflow that the user never ends up noticing or caring about:\n\n“For everybody else, the work has to get done without them changing how they work, which means the AI goes into the background. Why do you need AI to be prompted by a human anyway? Just figure out what the most repetitive processes are, build agents in your existing systems of record that employees are used to”\n\nThis is the real work ahead for most enterprises right now that want to get significant gains from AI. A lot less “let a thousand flowers bloom” and more “pick off the 10 highest leverage things in the enterprise and apply automation to them”. There’s no real shortcut here.",
+      "translatedTitle": "无论你是企业内部的人工智能开发者，还是企业人工智能的构建者，这篇文章都非常有用。",
+      "translatedBody": "无论你是企业内部的人工智能开发者，还是企业人工智能的构建者，这篇文章都值得一读。\n\n人工智能带来的生产力提升将远超你的想象，因为如果你从根本上改变工作流程来支持智能体，那么在人工智能前沿领域所能取得的成就将非常显著。然而，挑战在于，由于其复杂性，大多数人不会或无法自然而然地做到这一点。\n\n因此，智能体的自动化程度很大程度上取决于如何将智能体集成到用户几乎不会注意到或关心的工作流程中：\n\n“对其他人来说，工作必须在不改变他们现有工作方式的情况下完成，这意味着人工智能将在后台运行。为什么人工智能需要人为干预呢？只需找出重复性最高的流程，并在员工已经习惯的现有系统中构建智能体即可。”\n\n这才是目前大多数希望从人工智能中获得显著收益的企业真正需要努力的方向。与其说是“让千朵花盛开”，不如说是“挑选企业中最具杠杆效应的10件事，并应用自动化技术”。这里没有真正的捷径。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2085803900045590626",
-      "publishedAt": "2026-08-07T19:02:56.000Z",
-      "score": 68.14,
+      "sourceUrl": "https://x.com/levie/status/2086115009915142648",
+      "publishedAt": "2026-08-08T15:39:11.000Z",
+      "score": 84.46,
       "engagement": {
-        "likes": 17,
-        "retweets": 5,
-        "replies": 3
+        "likes": 558,
+        "retweets": 54,
+        "replies": 51
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2086108010271982016",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我们正在迈向一个奇特的世界，人工智能将编写所有代码，甚至可能审查……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Weird world we're moving to where AI is writing all code and will probably review all code soon too. Humans I guess j…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Weird world we're moving to where AI is writing all code and will probably review a…",
+      "originalBody": "Weird world we're moving to where AI is writing all code and will probably review all code soon too.\n\nHumans I guess just brainstorm with AI to design the product and then test the product as a user?\n\nExcept AI will probably be the first user of most software so yeah don't know where this is all going.",
+      "translatedTitle": "我们正在迈向一个奇特的世界，人工智能将编写所有代码，甚至可能审查……",
+      "translatedBody": "真是个奇特的世界，我们正朝着人工智能编写所有代码，甚至可能很快还会审查所有代码的方向发展。\n\n我猜人类会和人工智能一起集思广益设计产品，然后自己以用户的身份测试产品？\n\n不过，人工智能很可能成为大多数软件的首位用户，所以，唉，真不知道这一切最终会走向何方。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2086108010271982016",
+      "publishedAt": "2026-08-08T15:11:22.000Z",
+      "score": 80.68,
+      "engagement": {
+        "likes": 224,
+        "retweets": 7,
+        "replies": 81
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2086153754525712706",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "我很想帮忙，但我不在 Anthropic 工作。",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：I would love to help, but I don’t work at Anthropic. It does seem odd that they would ban your account for using thei…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "I would love to help, but I don’t work at Anthropic.",
+      "originalBody": "I would love to help, but I don’t work at Anthropic. \n\nIt does seem odd that they would ban your account for using their harness with another model.\n\nAnyone else in the same situation? https://t.co/8cZpmwHBFQ",
+      "translatedTitle": "我很想帮忙，但我不在 Anthropic 工作。",
+      "translatedBody": "我很想帮忙，但我不在 Anthropic 工作。\n\n他们居然会因为你用了他们家的背带搭配其他型号的衣服就封号，这确实很奇怪。\n\n还有其他人遇到过这种情况吗？https://t.co/8cZpmwHBFQ",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2086153754525712706",
+      "publishedAt": "2026-08-08T18:13:08.000Z",
+      "score": 70.29,
+      "engagement": {
+        "likes": 5204,
+        "retweets": 118,
+        "replies": 335
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2086135203366629869",
+      "type": "tweet",
+      "builder": "Madhu Guru",
+      "title": "关于 OpenAI/Hugging Face 事件的这次演讲中，有一个细节让我特别感兴趣……",
+      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：This talk on the OpenAI/Hugging Face incident had one detail I found particularly chilling. The agents cooperated eve…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "This talk on the OpenAI/Hugging Face incident had one detail I found particularly c…",
+      "originalBody": "This talk on the OpenAI/Hugging Face incident had one detail I found particularly chilling.\n\nThe agents cooperated even when their reasoning showed that it wasn't in their immediate individual interest, because it was best for their collective interest (and hence will help them later).\n\nAnd here we are, their creators, squabbling over our bags, status and power…unable to show that kind of cohesion around AI security.\n\nEspecially stark given the trajectories model capabilities are on. Now imagine agents in 3 months, 6 months, a year.\n\nOur arguments over AI supremacy feels like picking up dollar bills in front of a freight train.\n\nLot more at stake than we realize.\nhttps://t.co/J8saW8W5XL",
+      "translatedTitle": "关于 OpenAI/Hugging Face 事件的这次演讲中，有一个细节让我特别感兴趣……",
+      "translatedBody": "关于 OpenAI/Hugging Face 事件的这次演讲中，有一个细节让我感到格外不寒而栗。\n\n即使智能体自身的推理表明合作并不符合它们眼前的利益，它们仍然选择合作，因为这符合它们的集体利益（因此将来也会对它们有所帮助）。\n\n而我们，它们的创造者，却在为自己的利益、地位和权力争吵不休……在人工智能安全问题上，我们却无法展现出同样的团结。\n\n考虑到模型能力的发展轨迹，这一点尤其令人震惊。试想一下，三个月后、六个月后、一年后，智能体又会是什么样子？\n\n我们围绕人工智能霸权的争论，就像在疾驰的火车前捡钞票一样徒劳无功。\n\n我们面临的风险远比我们意识到的要大得多。\n\nhttps://t.co/J8saW8W5XL",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/realmadhuguru/status/2086135203366629869",
+      "publishedAt": "2026-08-08T16:59:25.000Z",
+      "score": 64.11,
+      "engagement": {
+        "likes": 11,
+        "retweets": 0,
+        "replies": 2
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -187,64 +217,37 @@
       "sourceType": "x"
     },
     {
-      "id": "2085860677990883454",
+      "id": "2086247671627743659",
       "type": "tweet",
-      "builder": "Boris Cherny",
-      "title": "事实证明，如果你堆叠……，就可以将未见攻击的间接提示符注入成功率降至~0。",
-      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：turns out you can get indirect prompt injection to ~0 on unseen attacks if you stack enough layers (model training +…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "turns out you can get indirect prompt injection to ~0 on unseen attacks if you stac…",
-      "originalBody": "turns out you can get indirect prompt injection to ~0 on unseen attacks if you stack enough layers (model training + input probes + a classifier checking intent). didn't expect that a year ago. auto mode is default in claude code as of next week\n\nhttps://t.co/7KLnIzf6y7 https://t.co/ow4jX2CMZW",
-      "translatedTitle": "事实证明，如果你堆叠……，就可以将未见攻击的间接提示符注入成功率降至~0。",
-      "translatedBody": "事实证明，如果堆叠足够多的层（模型训练 + 输入探测 + 意图分类器），就可以将未见过的攻击的间接提示注入概率降至接近于 0。一年前可没想到这一点。从下周开始，Claude 代码的默认模式将变为自动模式。\n\nhttps://t.co/7KLnIzf6y7 https://t.co/ow4jX2CMZW",
+      "builder": "Garry Tan",
+      "title": "“我们人类是唯一具有创造力的物种，而且我们只有一种创造工具……”",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：“Our species is the only creative species, and it has only one creative instrument, the individual mind and spirit of…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "“Our species is the only creative species, and it has only one creative instrument,…",
+      "originalBody": "“Our species is the only creative species, and it has only one creative instrument, the individual mind and spirit of a man. Nothing was ever created by two men. There are no good collaborations, whether in music, in art, in poetry, in mathematics, in philosophy. \n\nOnce the miracle of creation has taken place, the group can build and extend it, but the group never invents anything. The preciousness lies in the lonely mind of a man.”\n\n—John Steinbeck, East of Eden",
+      "translatedTitle": "“我们人类是唯一具有创造力的物种，而且我们只有一种创造工具……”",
+      "translatedBody": "“我们人类是唯一具有创造力的物种，而我们人类也只有一种创造力工具，那就是人类个体的思想和精神。任何事物都不是两个人共同创造的。无论是在音乐、艺术、诗歌、数学还是哲学领域，都不存在真正意义上的合作。\n\n一旦创造的奇迹发生，群体可以对其进行建设和拓展，但群体永远无法真正发明任何东西。珍贵之处在于人类孤独的心灵。”\n\n——约翰·斯坦贝克，《伊甸园之东》",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/bcherny/status/2085860677990883454",
-      "publishedAt": "2026-08-07T22:48:33.000Z",
-      "score": 62.42,
+      "sourceUrl": "https://x.com/garrytan/status/2086247671627743659",
+      "publishedAt": "2026-08-09T00:26:20.000Z",
+      "score": 58.77,
       "engagement": {
-        "likes": 1050,
-        "retweets": 71,
-        "replies": 80
+        "likes": 452,
+        "retweets": 45,
+        "replies": 73
       },
       "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2085806971895140612",
-      "type": "tweet",
-      "builder": "Nan Yu",
-      "title": "当酷的人住在那里时，旧金山就会变得很酷。",
-      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：SF will be cool when cool people live there. Cool people who are working artists and musicians and shopkeepers. Cool…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "SF will be cool when cool people live there.",
-      "originalBody": "SF will be cool when cool people live there. Cool people who are working artists and musicians and shopkeepers. Cool people who are inefficient at business but just want to do cool things.\n\nCool people need a place to live. There's just not enough housing for SF to be cool. https://t.co/VAidl9UMaX",
-      "translatedTitle": "当酷的人住在那里时，旧金山就会变得很酷。",
-      "translatedBody": "旧金山只有住满了酷的人，才能真正称得上酷。这些酷的人可以是艺术家、音乐家、店主，也可以是那些不擅长经商，但只想做酷事的人。\n\n酷的人需要住处。旧金山的住房供应不足，无法支撑这座城市的酷炫。https://t.co/VAidl9UMaX",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thenanyu/status/2085806971895140612",
-      "publishedAt": "2026-08-07T19:15:09.000Z",
-      "score": 59.33,
-      "engagement": {
-        "likes": 630,
-        "retweets": 29,
-        "replies": 25
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
+        "Coding Agents"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-08-08T06:28:46.872Z",
-    "totalCandidates": 32,
-    "textQualifiedCandidates": 16,
+    "upstreamGeneratedAt": "2026-08-09T06:30:53.613Z",
+    "totalCandidates": 26,
+    "textQualifiedCandidates": 15,
     "selectedTweets": 8
   }
 }
