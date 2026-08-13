@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-12",
-  "generatedAt": "2026-08-12T02:16:05.934Z",
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-13T02:19:50.861Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-08-12",
+  "title": "AI Builders Daily | 2026-08-13",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 38 条候选动态里，筛出 22 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 35 条候选动态里，筛出 16 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,108 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2086946535716393209",
+      "id": "2087339038781161858",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "Vercel Sandbox 隔离了①计算和②网络。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Vercel Sandbox isolates both ① compute and ② network. Kimi's paper shows container-based isolation is not enough for…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Vercel Sandbox isolates both ① compute and ② network.",
-      "originalBody": "Vercel Sandbox isolates both ① compute and ② network.\n\nKimi's paper shows container-based isolation is not enough for frontier models. Vercel Sandbox uses strong microVM isolation to address ①.\n\nOpenAI's escape was on ② the network path to Artifactory. Our egress firewall is now free so everyone can constrain misbehaving agents' network activity further.\n\n¹ \"in our early experiments with traditional container-based sandbox runtimes, we observed several kernel\npanics and deadlocks caused by unintended agent operations.\" \n🔗 github⁠.com/MoonshotAI/Kimi-K3/blob/master/k3_tech_report.pdf\n\n² \"to gain Internet access, the models identified and exploited a previously unknown zero-day vulnerability in Artifactory⁠, a package registry cache proxy\"\n🔗 openai⁠.com/index/hugging-face-model-evaluation-security-incident/",
-      "translatedTitle": "Vercel Sandbox 隔离了①计算和②网络。",
-      "translatedBody": "Vercel Sandbox 隔离了 ① 计算和 ② 网络。\n\nKimi 的论文表明，基于容器的隔离对于前沿模型而言是不够的。Vercel Sandbox 使用强大的微虚拟机隔离来解决 ① 问题。\n\nOpenAI 的突破在于 ② 通往 Artifactory 的网络路径。我们的出口防火墙现在已开放，因此每个人都可以进一步限制行为异常的代理的网络活动。\n\n¹ “在我们早期使用传统基于容器的沙箱运行时进行的实验中，我们观察到一些由意外代理操作引起的内核崩溃和死锁。”\n\n🔗 github⁠.com/MoonshotAI/Kimi-K3/blob/master/k3_tech_report.pdf\n\n² “为了获得互联网访问权限，这些模型识别并利用了 Artifactory（一个软件包注册表缓存代理）中一个先前未知的零日漏洞。”\n\n🔗 openai⁠.com/index/hugging-face-model-evaluation-security-incident/",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2086946535716393209",
-      "publishedAt": "2026-08-10T22:43:22.000Z",
-      "score": 178.03,
-      "engagement": {
-        "likes": 160,
-        "retweets": 9,
-        "replies": 25
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2086891169217122586",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "我们将把 Claude Sonnet 5 的优惠价格永久保留。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：We're making Claude Sonnet 5's introductory pricing permanent. We launched Sonnet 5 in June at $2 per million input t…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "We're making Claude Sonnet 5's introductory pricing permanent.",
-      "originalBody": "We're making Claude Sonnet 5's introductory pricing permanent.\n\nWe launched Sonnet 5 in June at $2 per million input tokens and $10 per million output tokens through August 31, and that price will remain unchanged. https://t.co/9IpRB4Y4ZD",
-      "translatedTitle": "我们将把 Claude Sonnet 5 的优惠价格永久保留。",
-      "translatedBody": "我们将把 Claude Sonnet 5 的优惠定价永久化。\n\n我们于 6 月推出了 Sonnet 5，定价为每百万枚输入代币 2 美元，每百万枚输出代币 10 美元，有效期至 8 月 31 日，该价格将保持不变。https://t.co/9IpRB4Y4ZD",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2086891169217122586",
-      "publishedAt": "2026-08-10T19:03:21.000Z",
-      "score": 173.58,
-      "engagement": {
-        "likes": 8642,
-        "retweets": 499,
-        "replies": 1017
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2087045848022843451",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "gpt luna max vs claude fable ultracode 发送“请构建一个基本忠实的 g… 克隆版",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：gpt luna max vs claude fable ultracode sent \"pls build a mostly faithful clone of grok imagine with open models via f…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "gpt luna max vs claude fable ultracode sent \"pls build a mostly faithful clone of g…",
-      "originalBody": "gpt luna max vs claude fable ultracode \n\nsent \"pls build a mostly faithful clone of grok imagine with open models via fal\"\n\ni woke up to these two and assumed fable was left and luna was right\n\ni was wrong... it was the other way!!\n\nobjectively, fable did the better visual clone. but luna somehow understood intent better and created the more USABLE clone given my open model bent.",
-      "translatedTitle": "gpt luna max vs claude fable ultracode 发送“请构建一个基本忠实的 g… 克隆版",
-      "translatedBody": "gpt luna max vs claude fable ultracode\n\n发送“请用 fal 构建一个尽可能忠实于 grok imagine 的克隆版本，使用开放模型”\n\n我醒来后看到这两个版本，以为左边是 fable，右边是 luna\n\n我错了……结果正好相反！！\n\n客观来说，fable 的视觉效果更好。但 luna 似乎更能理解我的意图，并且考虑到我使用开放模型的倾向，它创建了一个更实用的克隆版本。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2087045848022843451",
-      "publishedAt": "2026-08-11T05:18:00.000Z",
-      "score": 149.62,
-      "engagement": {
-        "likes": 35,
-        "retweets": 0,
-        "replies": 18
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2087017780617126075",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "顺便一提，pdb 环境有一个实验性的 AFS 克隆支持，它基本上可以做到所有其他功能……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：btw pdb envs have an experimental AFS clone support that basically does what all of you are suggesting but runtime ag…",
+      "title": "@aisdk 的发展速度令人惊叹。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The growth of @aisdk has been astonishing. ~80.5M downloads every 30 days, and growing faster than all AI labs SDKs.…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "btw pdb envs have an experimental AFS clone support that basically does what all of…",
-      "originalBody": "btw pdb envs have an experimental AFS clone support that basically does what all of you are suggesting but runtime agnostic and language agnostic\n\nhttps://t.co/SiFupvsIm8\n\nwe shall replace git by making every single command \"agent native\"",
-      "translatedTitle": "顺便一提，pdb 环境有一个实验性的 AFS 克隆支持，它基本上可以做到所有其他功能……",
-      "translatedBody": "顺便一提，pdb 环境有一个实验性的 AFS 克隆支持，它基本上实现了你们建议的功能，而且与运行时和语言无关。\n\nhttps://t.co/SiFupvsIm8\n\n我们将通过让每个命令都成为“原生代理”来取代 Git。",
+      "originalTitle": "The growth of @aisdk has been astonishing.",
+      "originalBody": "The growth of @aisdk has been astonishing. ~80.5M downloads every 30 days, and growing faster than all AI labs SDKs. Most importantly: open and provider-agnostic. https://t.co/EZxyu94gk0 https://t.co/sdVZTZhsCP",
+      "translatedTitle": "@aisdk 的发展速度令人惊叹。",
+      "translatedBody": "@aisdk 的增长令人惊叹。每月下载量约为 8050 万次，增长速度超过了所有 AI 实验室 SDK。最重要的是：开放且与提供商无关。https://t.co/EZxyu94gk0 https://t.co/sdVZTZhsCP",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2087017780617126075",
-      "publishedAt": "2026-08-11T03:26:28.000Z",
-      "score": 139.93,
+      "sourceUrl": "https://x.com/rauchg/status/2087339038781161858",
+      "publishedAt": "2026-08-12T00:43:02.000Z",
+      "score": 155.62,
       "engagement": {
-        "likes": 11,
-        "retweets": 1,
-        "replies": 0
+        "likes": 289,
+        "retweets": 16,
+        "replies": 23
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -132,121 +50,201 @@
       "sourceType": "x"
     },
     {
-      "id": "2086965425968148806",
+      "id": "2087223963525284091",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "这款工具在网络安全防御工作中变得如此重要，以至于它已经成为……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：This tool has become so valuable for cybersecurity defensive work, that it’s become a verb within Vercel. “Did you de…",
-      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "This tool has become so valuable for cybersecurity defensive work, that it’s become…",
-      "originalBody": "This tool has become so valuable for cybersecurity defensive work, that it’s become a verb within Vercel.\n\n“Did you deepsec it?”\n“@𝚟 can you deepsec”\n“/𝚍𝚎𝚎𝚙𝚜𝚎𝚌”\n\nIt’s a bit like /𝚝𝚑𝚎𝚛𝚖𝚘-𝚗𝚞𝚌𝚕𝚎𝚊𝚛-𝚌𝚘𝚍𝚎-𝚚𝚞𝚊𝚕𝚒𝚝𝚢-𝚛𝚎𝚟𝚒𝚎𝚠 but for the security of your code. Must have in your software factory.",
-      "translatedTitle": "这款工具在网络安全防御工作中变得如此重要，以至于它已经成为……",
-      "translatedBody": "这个工具在网络安全防御工作中变得如此重要，以至于它在 Vercel 中变成了一个动词。\n\n“你进行过深度安全测试吗？”\n\n“@𝚟 你能进行深度安全测试吗？”\n\n“/深度安全”\n\n它有点像 /深度安全测试-深度安全-深度安全-深度安全-深度安全，但用于代码安全。软件工厂必备。",
+      "builder": "Josh Woodward",
+      "title": "🌏谨代表 Gemini 全体团队，感谢您使用 Gemini 服务。无论您是在网页上使用 Gemini，……",
+      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：🌏On behalf of the whole Gemini team, thank you Whether you use Gemini on the Web, Android, iOS, or inside Chrome, we…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "🌏On behalf of the whole Gemini team, thank you Whether you use Gemini on the Web,…",
+      "originalBody": "🌏On behalf of the whole Gemini team, thank you\nWhether you use Gemini on the Web, Android, iOS, or inside Chrome, we’ll keep listening to your feedback as we keep building for the next billion!",
+      "translatedTitle": "🌏谨代表 Gemini 全体团队，感谢您使用 Gemini 服务。无论您是在网页上使用 Gemini，……",
+      "translatedBody": "🌏谨代表 Gemini 团队，感谢您的支持！\n\n无论您是在网页、安卓、iOS 还是 Chrome 浏览器中使用 Gemini，我们都会持续倾听您的反馈，不断改进，为下一个十亿用户做好准备！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2086965425968148806",
-      "publishedAt": "2026-08-10T23:58:26.000Z",
-      "score": 131.3,
+      "sourceUrl": "https://x.com/joshwoodward/status/2087223963525284091",
+      "publishedAt": "2026-08-11T17:05:46.000Z",
+      "score": 149.2,
       "engagement": {
-        "likes": 348,
-        "retweets": 15,
-        "replies": 18
+        "likes": 91,
+        "retweets": 3,
+        "replies": 4
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2087223960807330234",
+      "type": "tweet",
+      "builder": "Josh Woodward",
+      "title": "🤖安卓用户喜欢Gemini + Gemini可以自动执行40多个热门应用的操作 +…",
+      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：🤖Android users love Gemini + Gemini can automate actions across 40+ popular apps + Great for booking rides, reservin…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "🤖Android users love Gemini + Gemini can automate actions across 40+ popular apps +…",
+      "originalBody": "🤖Android users love Gemini\n+ Gemini can automate actions across 40+ popular apps\n+ Great for booking rides, reserving tables, and more\n+ More updates coming tomorrow at @madebygoogle!",
+      "translatedTitle": "🤖安卓用户喜欢Gemini + Gemini可以自动执行40多个热门应用的操作 +…",
+      "translatedBody": "🤖安卓用户都爱Gemini\n\n+ Gemini可以自动执行40多个热门应用的操作\n\n+ 非常适合预订车辆、预订餐位等等\n\n+ 明天@madebygoogle 将发布更多更新！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/joshwoodward/status/2087223960807330234",
+      "publishedAt": "2026-08-11T17:05:45.000Z",
+      "score": 146.51,
+      "engagement": {
+        "likes": 50,
+        "retweets": 4,
+        "replies": 2
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2087223962229186577",
+      "type": "tweet",
+      "builder": "Josh Woodward",
+      "title": "🍎苹果用户正在转向Gemini + iOS和macOS平台拥有超过1亿活跃用户……",
+      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验：🍎Apple users are turning to Gemini + Over 100M+ active users on iOS + macOS power users prompt ~2x more frequently t…",
+      "whyItMatters": "Josh Woodward 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "🍎Apple users are turning to Gemini + Over 100M+ active users on iOS + macOS power…",
+      "originalBody": "🍎Apple users are turning to Gemini\n+ Over 100M+ active users on iOS\n+ macOS power users prompt ~2x more frequently than other surfaces",
+      "translatedTitle": "🍎苹果用户正在转向Gemini + iOS和macOS平台拥有超过1亿活跃用户……",
+      "translatedBody": "🍎苹果用户正在转向 Gemini\n\n+ iOS 平台活跃用户超过 1 亿\n\n+ macOS 高级用户提示频率约为其他 Surface 的两倍",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/joshwoodward/status/2087223962229186577",
+      "publishedAt": "2026-08-11T17:05:45.000Z",
+      "score": 122.71,
+      "engagement": {
+        "likes": 66,
+        "retweets": 4,
+        "replies": 2
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2087009941806797206",
+      "id": "2087284684103537011",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "如果你三个月前告诉别人，一家美国公司发布了一款带有前脸的模型……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：If you told someone 3 months ago that a model released by a US company with frontier-class capability would be availa…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "If you told someone 3 months ago that a model released by a US company with frontie…",
-      "originalBody": "If you told someone 3 months ago that a model released by a US company with frontier-class capability would be available as open weights they wouldn’t believe it. \n\nThis is very important because it opens up AI adoption in a range of scenarios that weren’t viable before. Models can be deployed on prem or in the cloud on private infra, which means use-cases in highly regulated domains can be opened up.\n\nYou can also now post-train a frontier class model on specific vertical use-cases that need extra levels of performance for their tasks, like in legal, healthcare, and other spaces. You also ensure sovereignty in case any models ever get pulled from the marketplace, which gives users more confidence in deploying in certain mission critical areas.\n\nAll of this is great news for the applied AI layer, because this is where you can route work to different model families based on the task at hand. Great time to building at the harness layer given the options available now.\n\nAnd closed frontier models will still be heavily used both due to simplicity and because you tend to need a mix of capability level for any hard problem, but having open weights in the mix helps defray costs and provides more flexibility. Great news all around.",
-      "translatedTitle": "如果你三个月前告诉别人，一家美国公司发布了一款带有前脸的模型……",
-      "translatedBody": "三个月前，如果你告诉别人一家美国公司发布的具有前沿能力的模型将以开放权重的形式提供，他们肯定不会相信。\n\n这一点至关重要，因为它将人工智能的应用拓展到之前无法实现的诸多场景。模型可以部署在本地或云端的私有基础设施上，这意味着在高度监管的领域，应用场景也将得以扩展。\n\n现在，你还可以针对特定垂直领域的应用场景，例如法律、医疗保健等，对前沿模型进行后训练，以满足其更高性能的需求。此外，即使模型被下架，也能确保其所有权，这让用户更有信心在某些关键任务领域进行部署。\n\n所有这些对于应用层人工智能来说都是好消息，因为在这个层面上，你可以根据当前任务将工作分配给不同的模型系列。鉴于目前可用的选项，现在正是构建应用层人工智能的绝佳时机。\n\n封闭边界模型仍将被广泛使用，这既是因为其简单易用，也是因为解决任何复杂问题通常都需要多种能力水平的组合。但引入开放权重有助于降低成本并提供更大的灵活性。总而言之，这都是好消息。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2087009941806797206",
-      "publishedAt": "2026-08-11T02:55:19.000Z",
-      "score": 104.79,
-      "engagement": {
-        "likes": 204,
-        "retweets": 18,
-        "replies": 18
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2086824976800436676",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我从 @thenanyu 和 @delashum（来自 @Linear）那里学到的关于如何构建……的 5 个最重要的经验",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：My 5 biggest takeaways from @thenanyu and @delashum from @Linear on how to build a great production agent end to end:…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "My 5 biggest takeaways from @thenanyu and @delashum from @Linear on how to build a…",
-      "originalBody": "My 5 biggest takeaways from @thenanyu and @delashum from @Linear on how to build a great production agent end to end:\n\n1. The first step is to map the actual workflow.\n\nIdentify where work starts, which systems hold context, what actions complete the job, what “done” means, and where a person needs to review. For example, if work starts in Slack, make Slack the on-ramp instead of forcing users to use a separate chatbot.\n\n2. Give agents tools to find context instead of stuffing context into the prompt.\n\nFrom Jacob: “Give it as little instruction as possible. Give it the tools to load context. Don’t give it context.” Start small, then let the agent pull only the instructions and data it needs for the current task.\n\n3. Start with one frequent job, then expand based on real usage.\n\nLinear’s first production workflow turned sales notes and Slack discussions into issues. The team launched it quietly, watched how people used it, and built the next workflows based on real user behavior instead of a grand spec that covered all possible use cases.\n\n4. Start with the strongest model until the workflow works.\n\nJacob: “We tend to throw the biggest model on it until we know that it’s working well.” Once you have clear success criteria and evals, test smaller models on narrow jobs. Cost optimization should come after a quality baseline.\n\n5. Turn every real failure into either an eval or a product task.\n\nLinear created two feedback loops from real usage. If the agent had the right tools but behaved badly, the team added that exact case to its evals. If the agent lacked the required tool, it reported the gap so the system could add it to an existing issue for the team to investigate.\n\n📌 Watch the full episode for the complete walkthrough: https://t.co/wmw8vvjvv0",
-      "translatedTitle": "我从 @thenanyu 和 @delashum（来自 @Linear）那里学到的关于如何构建……的 5 个最重要的经验",
-      "translatedBody": "我从 @thenanyu 和 @delashum（来自 @Linear）那里学到了构建一个优秀的端到端生产代理的 5 个最重要的经验：\n\n1. 第一步是绘制实际工作流程图。\n\n明确工作从哪里开始，哪些系统存储上下文信息，哪些操作可以完成任务，“完成”的定义是什么，以及需要在哪里进行审核。例如，如果工作从 Slack 开始，就应该让 Slack 作为入口，而不是强制用户使用单独的聊天机器人。\n\n2. 为代理提供查找上下文的工具，而不是将上下文信息直接塞进提示中。\n\n正如 Jacob 所说：“尽可能少地提供指令。提供加载上下文的工具。不要直接提供上下文。” 从小处着手，然后让代理只提取当前任务所需的指令和数据。\n\n3. 从一个常用任务开始，然后根据实际使用情况逐步扩展。\n\nLinear 的第一个生产工作流程将销售笔记和 Slack 讨论转化为问题。团队悄悄地推出了这款产品，观察用户的使用情况，并根据真实的用户行为而非涵盖所有可能用例的庞大规范来构建后续的工作流程。\n\n4. 从最强大的模型开始，直到工作流程运行良好。\n\nJacob 说：“我们倾向于先使用最大的模型，直到确定它运行良好为止。” 一旦有了明确的成功标准和评估方法，就可以在更具体的任务上测试较小的模型。成本优化应该在质量基准确定之后进行。\n\n5. 将每一次实际失败都转化为评估或产品任务。\n\nLinear 根据实际使用情况创建了两个反馈循环。如果代理拥有合适的工具但表现不佳，团队会将该案例添加到评估中。如果代理缺少所需的工具，它会报告这一缺陷，以便系统将其添加到现有问题中，供团队调查。\n\n📌 观看完整视频，了解完整演示：https://t.co/wmw8vvjvv0",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2086824976800436676",
-      "publishedAt": "2026-08-10T14:40:20.000Z",
-      "score": 96.02,
-      "engagement": {
-        "likes": 43,
-        "retweets": 4,
-        "replies": 3
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2086802472950239618",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "Meta 发布 Muse Spark 1.2 作为公开版本是一件*非常*重大的事情。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Meta releasing Muse Spark 1.2 as open weights is a *very* big deal. America now finally has its response to the open…",
+      "builder": "Boris Cherny",
+      "title": "LLM 仍然会产生错误，但这些错误与以前产生的错误不同。",
+      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：LLMs still produce bugs, but those bugs are different than what they used to be. It’s less off-by-ones and more about…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Meta releasing Muse Spark 1.2 as open weights is a *very* big deal.",
-      "originalBody": "Meta releasing Muse Spark 1.2 as open weights is a *very* big deal. America now finally has its response to the open weights AI race. \n\nThis will continue to help drive down the cost of intelligence, it allows companies to run models as they see fit, as well as allows them to post train their own models for specific use-cases to get better performance gains in their domain. And provides a realistic option for those previously closed off from OSS models.\n\nThis is broadly net positive for AI - even frontier closed models - because it helps drive further diffusion of AI. Big moment in the AI race.",
-      "translatedTitle": "Meta 发布 Muse Spark 1.2 作为公开版本是一件*非常*重大的事情。",
-      "translatedBody": "Meta 以开源权重发布 Muse Spark 1.2 是一件*非常*重大的事情。美国终于对开源权重 AI 竞赛做出了回应。\n\n这将继续有助于降低人工智能的成本，使公司能够根据自身需求运行模型，并允许他们针对特定用例进行模型后训练，从而在各自领域获得更好的性能提升。同时，这也为那些之前无法使用开源模型的人提供了一个切实可行的选择。\n\n这对 AI 来说总体上是积极的——即使是对那些前沿的封闭模型而言——因为它有助于推动 AI 的进一步普及。这是 AI 竞赛中的一个重要时刻。",
+      "originalTitle": "LLMs still produce bugs, but those bugs are different than what they used to be.",
+      "originalBody": "LLMs still produce bugs, but those bugs are different than what they used to be. It’s less off-by-ones and more about system design, ui usability, missing broader context. Some kinds of coding has been solved, but not all.\n\nWhile models continue to improve, adversarial code review has been an incredibly powerful tool to catch many of these kinds of bugs.\n\nIt can be as simple as a one line prompt - “use a dynamic workflow to adversarial test every edge case in an iOS simulator”, or use Claude’s built in /code-review (or /code-review low, /code-review medium, etc.)",
+      "translatedTitle": "LLM 仍然会产生错误，但这些错误与以前产生的错误不同。",
+      "translatedBody": "LLM（层级模型）仍然会产生 bug，但这些 bug 与以往有所不同。它们不再是简单的“离谱错误”，而是更多地与系统设计、用户界面可用性以及缺乏更广泛的上下文信息有关。某些类型的编码问题已经得到解决，但并非所有问题都已解决。\n\n虽然模型仍在不断改进，但对抗性代码审查一直是捕获此类 bug 的极其强大的工具。\n\n它可以像一行提示一样简单——“使用动态工作流在 iOS 模拟器中对抗测试每个边界情况”，或者使用 Claude 内置的 `/code-review` 命令（或 `/code-review low`、`/code-review medium` 等）。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2086802472950239618",
-      "publishedAt": "2026-08-10T13:10:55.000Z",
-      "score": 86.59,
+      "sourceUrl": "https://x.com/bcherny/status/2087284684103537011",
+      "publishedAt": "2026-08-11T21:07:03.000Z",
+      "score": 91.63,
       "engagement": {
-        "likes": 887,
-        "retweets": 73,
-        "replies": 57
+        "likes": 2447,
+        "retweets": 127,
+        "replies": 161
       },
       "matchedFocusAreas": [
         "Coding Agents",
         "Foundation Models"
       ],
       "sourceType": "x"
+    },
+    {
+      "id": "2087258090169414008",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "这是遵守欧盟人工智能法案的一部分，其他实验室也在添加类似的水印……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：This is part of working with the EU AI Act, other labs are adding similar watermarking. It’s hard to identify AI-gene…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "This is part of working with the EU AI Act, other labs are adding similar watermark…",
+      "originalBody": "This is part of working with the EU AI Act, other labs are adding similar watermarking.\n\nIt’s hard to identify AI-generated text, and this gives people better tools to do that.  We’ll also be a shipping text detection API that you can use yourself. https://t.co/OZtG0fNsqc",
+      "translatedTitle": "这是遵守欧盟人工智能法案的一部分，其他实验室也在添加类似的水印……",
+      "translatedBody": "这是配合欧盟人工智能法案的一部分工作，其他实验室也在添加类似的水印功能。\n\n识别人工智能生成的文本一直很困难，而这项技术为人们提供了更好的工具。我们还将发布一个文本检测 API，供您自行使用。https://t.co/OZtG0fNsqc",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2087258090169414008",
+      "publishedAt": "2026-08-11T19:21:22.000Z",
+      "score": 88.88,
+      "engagement": {
+        "likes": 946,
+        "retweets": 46,
+        "replies": 466
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2087385493684335064",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "这篇帖子很好地阐述了如何思考FDE（全域元素扩展）。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Good post on how to think about FDEs. The key is that FDEs are real and not going away for AI any time soon. The reas…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Good post on how to think about FDEs.",
+      "originalBody": "Good post on how to think about FDEs. The key is that FDEs are real and not going away for AI any time soon.\n\nThe reason this is happening now at a scale that has never been seen before is because AI is fundamentally about adding a non-deterministic, rapidly changing system to workflows that largely have never been automated before. This looks very little like implementing traditional software.\n\n“If you're building an AI agent for accounting in 2026, there is no established workflow, because literally nobody has ever used one of these. Nobody knows what the user journey looks like — not you, and importantly, not your customer either. They can't tell you what they want, because the thing they'd want doesn't have a shape yet.”\n\nSoftware has largely always been deterministic and once implemented effectively worked the same for customers. This meant the upfront implementation work was *relatively* uniform across similar customers, and the system wasn’t regularly being upgraded in fundamental ways. \n\nAI agents are entirely different on nearly every dimension. The customer’s business process has to change to work with agents, there is heavy -necessary- customization to get agents to work in the customers end-state process, evals need to be run constantly, the AI models are constantly changing and updates need to keep getting incorporated, the underlying harness and broader system are often changing due to customer feedback, and much more. \n\nThis is real work for the customer, systems integrators, and the applied AI vendors. Even as AI capabilities improve dramatically, this work remains (or even gets more complicated) given enterprises will just throw increasingly more complex processes at agents. Great time to be an FDE.",
+      "translatedTitle": "这篇帖子很好地阐述了如何思考FDE（全域元素扩展）。",
+      "translatedBody": "这篇关于如何思考功能性决策环境（FDE）的文章写得很好。关键在于，FDE 是真实存在的，而且在人工智能领域短期内不会消失。\n\nFDE 如今以前所未有的规模出现，原因在于人工智能的本质是将一个非确定性、快速变化的系统添加到以前从未实现过自动化的工作流程中。这与传统软件的实施截然不同。\n\n“如果你要在 2026 年构建一个用于会计的 AI 代理，那么根本不存在既定的工作流程，因为实际上没有人使用过这类产品。没有人知道用户的使用流程是什么样的——你不知道，更重要的是，你的客户也不知道。他们无法告诉你他们想要什么，因为他们想要的东西甚至还没有成型。”\n\n软件在很大程度上一直是确定性的，一旦实施，对每个客户来说都能有效地运行。这意味着前期实施工作在类似的客户之间是*相对*统一的，而且系统不会定期进行根本性的升级。\n\n而 AI 代理几乎在所有方面都截然不同。为了与智能代理协同工作，客户的业务流程必须做出改变；为了让智能代理在客户的最终流程中发挥作用，需要进行大量的（必要的）定制；需要持续进行评估；人工智能模型也在不断变化，更新需要不断整合；底层框架和更广泛的系统也经常因为客户反馈而发生变化，等等。\n\n这对客户、系统集成商和应用人工智能供应商来说都是实实在在的工作。即使人工智能能力显著提升，这项工作依然存在（甚至会变得更加复杂），因为企业会不断地将越来越复杂的流程交给智能代理。对于功能开发工程师 (FDE) 来说，这是一个绝佳的时代。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2087385493684335064",
+      "publishedAt": "2026-08-12T03:47:38.000Z",
+      "score": 77.1,
+      "engagement": {
+        "likes": 88,
+        "retweets": 9,
+        "replies": 20
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2087355597851390220",
+      "type": "tweet",
+      "builder": "Madhu Guru",
+      "title": "讲故事时间……",
+      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：story time.. in 2023 (my previous role) I remember the first time some customers volunteered their prompt logs to us.…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "story time..",
+      "originalBody": "story time..\n\nin 2023 (my previous role) I remember the first time some customers volunteered their prompt logs to us. \n\nWe were surprised by the number of “build me an app for X” prompts.\n\nfelt wildly ambitious at the time. models were barely graduating from code completion to generating a useful block of code.\n\nBut it was a great signal of what people actually wanted, and shaped a lot of our vision: systems that could design, build and deploy an app end to end from a simple ask.\n\nPretty wild that 3 yrs later we’re basically there.",
+      "translatedTitle": "讲故事时间……",
+      "translatedBody": "讲个故事……\n\n2023 年（我之前的职位），我记得第一次有客户主动向我们提供他们的提示日志。\n\n我们惊讶地发现“为 X 构建一个应用”这样的提示数量之多。\n\n当时我们觉得这简直是异想天开。当时的模型还只是勉强从代码补全过渡到生成可用的代码块。\n\n但这很好地表明了用户的真实需求，并塑造了我们的愿景：能够根据简单的请求，设计、构建和部署端到端的应用系统。\n\n三年后，我们基本上已经实现了这个目标，真是令人难以置信。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/realmadhuguru/status/2087355597851390220",
+      "publishedAt": "2026-08-12T01:48:50.000Z",
+      "score": 64.92,
+      "engagement": {
+        "likes": 15,
+        "retweets": 0,
+        "replies": 1
+      },
+      "matchedFocusAreas": [
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-08-11T06:34:38.754Z",
-    "totalCandidates": 38,
-    "textQualifiedCandidates": 22,
+    "upstreamGeneratedAt": "2026-08-12T06:46:19.292Z",
+    "totalCandidates": 35,
+    "textQualifiedCandidates": 16,
     "selectedTweets": 8
   }
 }
