@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-14",
-  "generatedAt": "2026-08-14T02:16:28.885Z",
+  "date": "2026-08-15",
+  "generatedAt": "2026-08-15T01:26:10.578Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-08-14",
-  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 33 条候选动态里，筛出 19 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-08-15",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 36 条候选动态里，筛出 20 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,182 +23,134 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2087635263774232617",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "侧边栏现在运行的是与桌面、网页和移动设备相同的 Claude Cowork 会话……",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The side panel now runs the same Claude Cowork session as the desktop, web, and mobile apps. Sessions live with your…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The side panel now runs the same Claude Cowork session as the desktop, web, and mob…",
-      "originalBody": "The side panel now runs the same Claude Cowork session as the desktop, web, and mobile apps. Sessions live with your account, not on any single device, so you can start in a tab and pick it up later somewhere else.\n\nGive it a try: https://t.co/8xTEK7osxX",
-      "translatedTitle": "侧边栏现在运行的是与桌面、网页和移动设备相同的 Claude Cowork 会话……",
-      "translatedBody": "现在，侧边栏运行的是与桌面、网页和移动应用相同的 Claude Cowork 会话。会话与您的帐户关联，而非仅限于任何单个设备，因此您可以在一个标签页中开始，稍后在其他设备上继续。\n\n立即体验：https://t.co/8xTEK7osxX",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2087635263774232617",
-      "publishedAt": "2026-08-12T20:20:07.000Z",
-      "score": 156.69,
-      "engagement": {
-        "likes": 388,
-        "retweets": 13,
-        "replies": 15
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2087751559606407615",
-      "type": "tweet",
-      "builder": "Josh Woodward",
-      "title": "Gemini 能帮你轻松搞定你每天使用的各种应用。",
-      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Gemini gets things done across the apps you use every day. Starting today, another wave of integrations are rolling o…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Gemini gets things done across the apps you use every day.",
-      "originalBody": "Gemini gets things done across the apps you use every day. Starting today, another wave of integrations are rolling out. If you want to partner with us, DM me.\n\nAngi (formerly Angie's List)\nFever\nGetYourGuide\nGranola\niHeartRadio\nLocaliza\nOpenTable\nOtter\nPandora\nThumbtack\nTicketmaster\nWix\nZocdoc\nZoho",
-      "translatedTitle": "Gemini 能帮你轻松搞定你每天使用的各种应用。",
-      "translatedBody": "Gemini 让您在日常使用的应用程序上轻松完成各项任务。从今天开始，新一轮集成即将上线。如果您想与我们合作，请私信联系我。\n\nAngi（原 Angie's List）\n\nFever\nGetYourGuide\n\nGranola\niHeartRadio\nLocaliza\nOpenTable\n\nOtter\nPandora\n\nThumbtack\nTicketmaster\n\nWix\nZocdoc\nZoho",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/joshwoodward/status/2087751559606407615",
-      "publishedAt": "2026-08-13T04:02:15.000Z",
-      "score": 156.38,
-      "engagement": {
-        "likes": 241,
-        "retweets": 11,
-        "replies": 20
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2087635265066004694",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "浏览器代理可以被页面中隐藏的指令欺骗。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Browser agents can be tricked by instructions hidden in a page. We build defenses against this, and we still recommen…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Browser agents can be tricked by instructions hidden in a page.",
-      "originalBody": "Browser agents can be tricked by instructions hidden in a page. We build defenses against this, and we still recommend a few habits of your own: https://t.co/aHIHLNkOnk",
-      "translatedTitle": "浏览器代理可以被页面中隐藏的指令欺骗。",
-      "translatedBody": "浏览器代理可能会被页面中隐藏的指令欺骗。我们已构建防御机制来应对这种情况，但我们仍然建议您养成一些良好的习惯：https://t.co/aHIHLNkOnk",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2087635265066004694",
-      "publishedAt": "2026-08-12T20:20:08.000Z",
-      "score": 154.03,
-      "engagement": {
-        "likes": 245,
-        "retweets": 3,
-        "replies": 7
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2087635262390026525",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "现在，您在 Chrome 浏览器中使用的 Claude 会话可以同步到桌面、网页和移动设备。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Your Claude in Chrome sessions now carry over to desktop, web, and mobile. Conversations are saved, and your skills a…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Your Claude in Chrome sessions now carry over to desktop, web, and mobile.",
-      "originalBody": "Your Claude in Chrome sessions now carry over to desktop, web, and mobile. Conversations are saved, and your skills and connectors work in the browser.\n\nAvailable on Max and Team today, rolling out to Pro in the coming weeks. https://t.co/Hnxs18PVI8",
-      "translatedTitle": "现在，您在 Chrome 浏览器中使用的 Claude 会话可以同步到桌面、网页和移动设备。",
-      "translatedBody": "现在，您在 Chrome 浏览器中的 Claude 会话可以同步到桌面、网页和移动设备。对话记录会被保存，您的技能和连接器也能在浏览器中正常使用。\n\n此功能现已在 Max 和 Team 版本中推出，并将于未来几周内陆续推送至 Pro 版本。https://t.co/Hnxs18PVI8",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2087635262390026525",
-      "publishedAt": "2026-08-12T20:20:07.000Z",
-      "score": 148.17,
-      "engagement": {
-        "likes": 8533,
-        "retweets": 615,
-        "replies": 382
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2087437017840046156",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "这已经是今年最重要的论文之一了。",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：this is already one of the most important papers of this year. https://t.co/0f3ma9POEG the methodology doesnt seem cl…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "this is already one of the most important papers of this year.",
-      "originalBody": "this is already one of the most important papers of this year.\n\nhttps://t.co/0f3ma9POEG\n\nthe methodology doesnt seem clearly explained so here are some notes with a further distillation https://t.co/VHBTmiwx3e",
-      "translatedTitle": "这已经是今年最重要的论文之一了。",
-      "translatedBody": "这已经是今年最重要的论文之一了。\n\nhttps://t.co/0f3ma9POEG\n\n方法论似乎解释得不够清晰，所以这里提供一些注释，并进行进一步提炼：https://t.co/VHBTmiwx3e",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2087437017840046156",
-      "publishedAt": "2026-08-12T07:12:22.000Z",
-      "score": 131.28,
-      "engagement": {
-        "likes": 316,
-        "retweets": 15,
-        "replies": 38
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2087698195120116064",
+      "id": "2088020529039180204",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "这是一个非常好的改进。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：This is such a nice improvement. Try 𝚗𝚙𝚡 𝚜𝚊𝚗𝚍𝚋𝚘𝚡@𝚕𝚊𝚝𝚎𝚜𝚝 𝚜𝚑 – it's mind-blowing. It feels faster tha…",
-      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "This is such a nice improvement.",
-      "originalBody": "This is such a nice improvement.\n\nTry 𝚗𝚙𝚡 𝚜𝚊𝚗𝚍𝚋𝚘𝚡@𝚕𝚊𝚝𝚎𝚜𝚝 𝚜𝚑 – it's mind-blowing. It feels faster than your local machine. \n\nSandbox now comes with a reasonable default set of pre-installed tools, and you can fully customize them. https://t.co/sJM6bvpc18",
-      "translatedTitle": "这是一个非常好的改进。",
-      "translatedBody": "这真是个很棒的改进。\n\n试试 𝚗𝚙𝚡 𝚜𝚊𝚗𝚍𝚋𝚘𝚡@𝚕𝚊𝚝𝚎𝚜𝚝 𝚜𝚑 – 简直令人惊艳。感觉比本地机器还快。\n\n沙盒现在预装了一套相当不错的默认工具，而且你还可以完全自定义它们。https://t.co/sJM6bvpc18",
+      "title": "一条命令统御一切（令牌）。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：One command to rule them all (tokens). I predict that this will become the default way of using coding AI at scale. U…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "One command to rule them all (tokens).",
+      "originalBody": "One command to rule them all (tokens).\n\nI predict that this will become the default way of using coding AI at scale. Uptime, model choice, lower costs, observability, ZDR…\n\nThe cool thing is that this command configures every *existing* coding harness, like Claude Code & Codex!",
+      "translatedTitle": "一条命令统御一切（令牌）。",
+      "translatedBody": "一条命令统领一切（令牌）。\n\n我预测这将成为大规模使用编码人工智能的默认方式。正常运行时间、模型选择、更低的成本、可观测性、零数据限制……\n\n更棒的是，这条命令可以配置所有*现有的*编码框架，例如 Claude Code 和 Codex！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2087698195120116064",
-      "publishedAt": "2026-08-13T00:30:11.000Z",
-      "score": 128.24,
+      "sourceUrl": "https://x.com/rauchg/status/2088020529039180204",
+      "publishedAt": "2026-08-13T21:51:02.000Z",
+      "score": 178,
       "engagement": {
-        "likes": 185,
-        "retweets": 7,
-        "replies": 17
+        "likes": 148,
+        "retweets": 13,
+        "replies": 27
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2088073777779515615",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "人工输入/输出成本很高，所以在听取了 @mattpocockuk 和 @trq212 的建议后，我创建了一个 /ali…",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：human i/o is costly, so after listening to @mattpocockuk and @trq212 i made an /align-me modification which allows fo…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "human i/o is costly, so after listening to @mattpocockuk and @trq212 i made an /ali…",
+      "originalBody": "human i/o is costly, so after listening to @mattpocockuk and @trq212 i made an /align-me modification which allows for batches of questions instead of round-by-round. same intuition as spec decoding, you speed up by looking ahead 2-10 steps\n\nworks INCREDIBLY for design explorations",
+      "translatedTitle": "人工输入/输出成本很高，所以在听取了 @mattpocockuk 和 @trq212 的建议后，我创建了一个 /ali…",
+      "translatedBody": "人工输入/输出成本很高，所以在听取了 @mattpocockuk 和 @trq212 的建议后，我对 /align-me 进行了修改，使其能够批量处理问题，而不是一轮一轮地进行。这与解码规范的思路相同，通过提前查看 2-10 步的内容可以加快速度。\n\n这对于设计探索来说效果极佳。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2088073777779515615",
+      "publishedAt": "2026-08-14T01:22:37.000Z",
+      "score": 150.7,
+      "engagement": {
+        "likes": 100,
+        "retweets": 0,
+        "replies": 25
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2088074149260673441",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "matt 的最新动态：https://t.co/Dnukubm9Yk thariq 的最新动态：https://t.co/BChJxtezPp bon…",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：matt's latest: https://t.co/Dnukubm9Yk thariq's latest: https://t.co/BChJxtezPp bonus dont miss @_philschmid's banger…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "matt's latest: https://t.co/Dnukubm9Yk thariq's latest: https://t.co/BChJxtezPp bon…",
+      "originalBody": "matt's latest: https://t.co/Dnukubm9Yk\n\nthariq's latest: https://t.co/BChJxtezPp\n\nbonus dont miss @_philschmid's banger https://t.co/zHEvfq72MP\n\nall 3 of these frontier skills guys contributing to the discussion is a beautiful thing to see",
+      "translatedTitle": "matt 的最新动态：https://t.co/Dnukubm9Yk thariq 的最新动态：https://t.co/BChJxtezPp bon…",
+      "translatedBody": "Matt 的最新推文：https://t.co/Dnukubm9Yk\n\nThariq 的最新推文：https://t.co/BChJxtezPp\n\n额外福利：别错过 @_philschmid 的精彩推文：https://t.co/zHEvfq72MP\n\n看到这三位技术高超的玩家参与讨论真是太好了。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2088074149260673441",
+      "publishedAt": "2026-08-14T01:24:06.000Z",
+      "score": 113.16,
+      "engagement": {
+        "likes": 10,
+        "retweets": 0,
+        "replies": 1
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2087719356763672917",
+      "id": "2088133823619895712",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "今天真是个好日子，Deepseek 和 Grok 都发布了新款产品。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Awesome day in terms of new model releases from both Deepseek and Grok. Both of these new model updates represent hug…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Awesome day in terms of new model releases from both Deepseek and Grok.",
-      "originalBody": "Awesome day in terms of new model releases from both Deepseek and Grok. Both of these new model updates represent huge jumps in capability at insanely low costs. \n\nThis is truly Jevons paradox for AI playing out. By bringing down the cost of AI, demand will continue to accelerate. When I talk to enterprises, they have vastly more use-cases for what they’d like agents to handle than generally what they’re able to budget for today. \n\nThey want agents to scan their codebases for security issues. They want agents to review all their documents. They want agents to process information in a large portion of their workflows. And so on. When we bring down the cost of AI or drive up capability levels, it opens up all new use cases in the enterprises, which drives even greater demand.\n\nThis is also great for the applied AI layer. The more choice of models - especially those tuned for different types (or costs) of work - the more value there is in being at the layer that can route and optimize based on the task. Great for the entire stack right now.",
-      "translatedTitle": "今天真是个好日子，Deepseek 和 Grok 都发布了新款产品。",
-      "translatedBody": "今天Deepseek和Grok都发布了新模型，真是太棒了！这两款新模型都实现了性能的飞跃，而成本却低得惊人。\n\n这真是人工智能领域杰文斯悖论的完美体现。降低人工智能的成本，需求就会持续增长。我与企业交流时发现，他们希望智能体能够处理的应用场景远超目前的预算。\n\n他们希望智能体能够扫描代码库中的安全问题，审查所有文档，处理工作流程中的大部分信息等等。当我们降低人工智能的成本或提升其性能时，企业就会发现全新的应用场景，从而进一步推动需求增长。\n\n这对应用层来说也是一大利好。模型选择越多——尤其是针对不同类型（或成本）工作进行优化的模型——能够根据任务进行路由和优化的应用层就越有价值。这对整个技术栈来说都是好事。",
+      "builder": "Thibault Sottiaux",
+      "title": "让 ChatGPT 在你一天使用电脑后点评一下你的电脑使用情况。",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Ask ChatGPT to roast your computer usage after a day. Install the Computer History plugin, do things as usual and kin…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Ask ChatGPT to roast your computer usage after a day.",
+      "originalBody": "Ask ChatGPT to roast your computer usage after a day. Install the Computer History plugin, do things as usual and kindly ask it to roast your behavior. It's ... insightful 👀\n\n=====\n\n- You don’t use Slack. Slack uses you. It accounted for 48% of your recorded activity. Your Mac is essentially a $3,000 Slack notification with a keyboard.\n- Your productivity system is clicking “Clear” until God intervenes. You clicked it 339 times while submitting 253 Slack messages. You are playing Whac-A-Mole against an organization chart.\n- Your most-used keyboard shortcut is Delete. 1,191 times, including 1,065 in Slack. You’re not drafting messages. You’re negotiating peace treaties between your first thought and your executive function.\n- You pressed ⌘C 133 times and ⌘V just 26 times. You acquire information like a Victorian gentleman collecting exotic birds and then apparently release most of it into the clipboard wilderness.\n- You opened 42 tabs and closed 53. Technically, this makes browser-tab management your most successful project of the day.\n- You switched between actual applications more than 200 times, while reading an X post that literally said, “You probably hate tab switching.” The call is coming from inside the Chrome window.\n- Your busiest hour was 9 p.m., with more than 1,500 Slack events. Apparently “end of day” is less a time than a theoretical concept you enjoy discussing in meetings.\n- Your document at the center of several important workstreams was called “Hello.” Nothing says organizational clarity like running half the company through a Google Doc named after the first thing software prints.",
+      "translatedTitle": "让 ChatGPT 在你一天使用电脑后点评一下你的电脑使用情况。",
+      "translatedBody": "让 ChatGPT 来吐槽你一天的电脑使用情况吧。安装 Computer History 插件，像往常一样操作电脑，然后礼貌地请求它吐槽一下你的行为。它……很有洞察力 👀\n\n=====\n\n- 你不是在用 Slack，而是 Slack 在用你。它占了你记录活动的 48%。你的 Mac 本质上就是一个价值 3000 美元的 Slack 通知中心，只不过多了个键盘。\n\n- 你的生产力系统就是不停地点击“清除”，直到上帝出手相助。你发送了 253 条 Slack 消息，却点击了 339 次“清除”。你简直是在和组织结构图玩打地鼠游戏。\n\n- 你最常用的快捷键是 Delete。一共 1191 次，其中 1065 次是在 Slack 里。你不是在起草消息，而是在和你的第一反应和执行功能进行和平谈判。\n\n- 你按了 ⌘C 133 次，而 ⌘V 只按了 26 次。你收集信息的方式就像维多利亚时代的绅士收集珍稀鸟类，然后似乎把大部分信息都扔进了剪贴板的荒野。\n\n- 你打开了 42 个标签页，关闭了 53 个。严格来说，这让管理浏览器标签页成为你今天最成功的项目。\n\n- 你在阅读一篇 X 论坛帖子时，切换了 200 多次应用程序，帖子内容竟然是“你可能讨厌切换标签页”。这句“你肯定讨厌切换标签页”的指令来自 Chrome 浏览器窗口内部。\n\n- 你最忙的一小时是晚上 9 点，Slack 事件超过 1500 条。看来“一天结束”与其说是一个时间概念，不如说是一个你喜欢在会议上讨论的理论概念。\n\n- 你那份贯穿多个重要工作流程的文档名为“Hello”。没有什么比让半个公司的人都浏览一份以软件打印的第一个内容命名的 Google 文档更能体现组织清晰度了。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2087719356763672917",
-      "publishedAt": "2026-08-13T01:54:17.000Z",
-      "score": 104.19,
+      "sourceUrl": "https://x.com/thsottiaux/status/2088133823619895712",
+      "publishedAt": "2026-08-14T05:21:13.000Z",
+      "score": 92.78,
       "engagement": {
-        "likes": 212,
-        "retweets": 13,
-        "replies": 21
+        "likes": 1280,
+        "retweets": 59,
+        "replies": 221
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2088074515188519182",
+      "type": "tweet",
+      "builder": "Madhu Guru",
+      "title": "人工智能行业：得益于人工智能，我们迎来了一个无限创造力的时代。",
+      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：AI industry: this is an era of unlimited creativity, thanks to AI. Also AI industry: we will all name our products ‘S…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "AI industry: this is an era of unlimited creativity, thanks to AI.",
+      "originalBody": "AI industry: this is an era of unlimited creativity, thanks to AI.\n\nAlso AI industry: we will all name our products ‘Studio’.\n\nI counted 20+. Here are a few :\n\nGoogle AI Studio\nVertex AI Studio\nWorkspace Studio\nCopilot Studio\nAgentforce Studio\nJoule Studio\nWriter AI Studio\nBox AI Studio\nAlibaba cloud Model Studio\nLabelbox Evaluation Studio\nSageMaker Studio\nCortex AI Studio\nLangGraph Studio\nAI Agent Studio x 4\n\nat least these guys make studio things :\nCanva Magic Studio\nElevenLabs Studio\n\nPS: If your AI product is also called Studio and I left you out, apologies. It’s not personal.",
+      "translatedTitle": "人工智能行业：得益于人工智能，我们迎来了一个无限创造力的时代。",
+      "translatedBody": "人工智能行业：这是一个无限创意的时代，这都要归功于人工智能。\n\n人工智能行业：我们都会把自己的产品命名为“Studio”。\n\n我数了一下，有20多个。以下列举几个：\n\nGoogle AI Studio\n\nVertex AI Studio\n\nWorkspace Studio\n\nCopilot Studio\n\nAgentforce Studio\n\nJoule Studio\n\nWriter AI Studio\n\nBox AI Studio\n\nAlibaba cloud Model Studio\nLabelbox Evaluation Studio\n\nSageMaker Studio\n\nCortex AI Studio\n\nLangGraph Studio\n\nAI Agent Studio x 4\n\n至少以下这些公司也推出了名为“Studio”的产品：\n\nCanva Magic Studio\n\nElevenLabs Studio\n\nPS：如果你的AI产品也叫“Studio”，而我漏掉了你，请见谅。这并非针对你个人。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/realmadhuguru/status/2088074515188519182",
+      "publishedAt": "2026-08-14T01:25:33.000Z",
+      "score": 89.45,
+      "engagement": {
+        "likes": 12,
+        "retweets": 0,
+        "replies": 2
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -208,29 +160,84 @@
       "sourceType": "x"
     },
     {
-      "id": "2087553833098723547",
+      "id": "2087906119914340540",
       "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "未来几年人工智能产品最大的增长点在于应用层面……",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：The biggest alpha in AI products over the next few years is in the application layer. Models will keep getting cheape…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "The biggest alpha in AI products over the next few years is in the application laye…",
-      "originalBody": "The biggest alpha in AI products over the next few years is in the application layer.\n\nModels will keep getting cheaper, better and more local.\n\nThe differentiation will come from deeply understanding specific user workflows and having the imagination to redesign the experience around them.\n\nThe denominator of people who can build AI products is about to get enormous.\n\nSo being in the top 0.1% of builders will matter more than ever.",
-      "translatedTitle": "未来几年人工智能产品最大的增长点在于应用层面……",
-      "translatedBody": "未来几年，人工智能产品最大的发展阶段将集中在应用层。\n\n模型将不断变得更便宜、更好、更本地化。\n\n真正的差异化将来自于对特定用户工作流程的深刻理解，以及围绕这些工作流程重新设计用户体验的想象力。\n\n能够构建人工智能产品的人才数量即将大幅增长。\n\n因此，跻身顶尖0.1%的构建者行列将比以往任何时候都更加重要。",
+      "builder": "Nikunj Kothari",
+      "title": "Grok Bot 是一款非常棒的产品。",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Grok Bot is a fantastic release.. the UX, the design, the onboarding :chefs-kiss: But I go back and forth on this a l…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Grok Bot is a fantastic release..",
+      "originalBody": "Grok Bot is a fantastic release.. the UX, the design, the onboarding :chefs-kiss:\n\nBut I go back and forth on this a lot: Will users (personal and business) want one super agent that holds all the context or sub agents that are designated to do a slice of tasks?\n\nIf we treat agents as humans, then the Grok Bot design makes a ton of sense. It allows us to compartmentalize tools, context, outcomes for that person’s division. You reach out to that bot for that specific goal that you have in mind. \n\nBut, if you treat agents as Jarvis, you want a master agent that just gets the job done. It might create and coordinate all the bots (and dare I say the communication/context) that might be needed to do the task. But the interface is 1:1 vs. 1:many. \n\nMy guess is it’ll veer towards the one master agent over time who can then act as an orchestrator who reads / understands the bots you create. But starts narrow as most of the companies are doing it now. \n\nPS: I understand the core engineering constraints (context windows, tool use, simplicity, cost etc) why companies are choosing task/singular outcomes today. Primarily thinking this from a design / product side.",
+      "translatedTitle": "Grok Bot 是一款非常棒的产品。",
+      "translatedBody": "Grok Bot 的发布真是太棒了……用户体验、设计、引导流程都无可挑剔！\n\n但我一直在纠结这个问题：用户（个人和企业用户）究竟是想要一个掌握所有上下文信息的超级智能体，还是想要多个子智能体分别负责不同的任务？\n\n如果我们把智能体看作人，那么 Grok Bot 的设计就非常合理。它允许我们根据用户的具体需求，将工具、上下文和结果进行分类。用户可以根据自己的目标与相应的智能体进行沟通。\n\n但是，如果把智能体看作 Jarvis，那么用户就需要一个能够完成任务的主智能体。它可以创建并协调完成任务所需的所有智能体（甚至可以说包括沟通和上下文）。但界面是一对一的，而不是一对多的。\n\n我猜测，随着时间的推移，最终会倾向于使用一个主智能体，它可以作为协调者，读取并理解用户创建的所有智能体。但一开始就比较狭窄，因为现在大多数公司都是这么做的。\n\n附注：我理解公司如今选择任务/单一结果的核心工程限制（上下文窗口、工具使用、简洁性、成本等）。我主要是从设计/产品角度来考虑这个问题。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2087553833098723547",
-      "publishedAt": "2026-08-12T14:56:33.000Z",
-      "score": 103.47,
+      "sourceUrl": "https://x.com/nikunj/status/2087906119914340540",
+      "publishedAt": "2026-08-13T14:16:25.000Z",
+      "score": 78.76,
       "engagement": {
-        "likes": 178,
-        "retweets": 12,
-        "replies": 22
+        "likes": 176,
+        "retweets": 4,
+        "replies": 43
       },
       "matchedFocusAreas": [
         "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2088087765267386564",
+      "type": "tweet",
+      "builder": "Zara Zhang",
+      "title": "讽刺的是，许多人曾认为人工智能编程会降低工程师的价值，但事实并非如此……",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Ironic that many people thought AI coding would make engineers less valuable when in reality the most in-demand jobs…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Ironic that many people thought AI coding would make engineers less valuable when i…",
+      "originalBody": "Ironic that many people thought AI coding would make engineers less valuable when in reality the most in-demand jobs all have the word “engineer” in them: \n\nforward-deployed engineer, design engineer, product engineer, growth engineer…",
+      "translatedTitle": "讽刺的是，许多人曾认为人工智能编程会降低工程师的价值，但事实并非如此……",
+      "translatedBody": "讽刺的是，许多人曾认为人工智能编程会降低工程师的价值，但实际上，最热门的职位名称中都包含“工程师”一词：\n\n前线部署工程师、设计工程师、产品工程师、增长工程师……",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/zarazhangrui/status/2088087765267386564",
+      "publishedAt": "2026-08-14T02:18:12.000Z",
+      "score": 77.27,
+      "engagement": {
+        "likes": 106,
+        "retweets": 4,
+        "replies": 29
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2087916590964851172",
+      "type": "tweet",
+      "builder": "Madhu Guru",
+      "title": "快速借贷是新型的科技债务。",
+      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：Prompt debt is the new tech debt. With every model update, you should be cutting at least 50% of your prompts. Most A…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "Prompt debt is the new tech debt.",
+      "originalBody": "Prompt debt is the new tech debt. \n\nWith every model update, you should be cutting at least 50% of your prompts.\n\nMost AI products have bloated prompts that are making your product quality worse.\n\nThe typical flow is: model fails at something -> add 10 rules. Tool call fails -> add 10 examples. Output is weird -> add formatting constraints.\n\n3 months later, your system prompt is a novel. \n\nMeanwhile the model is way smarter and your micro-managey prompts are turning it into a dumb rules machine.",
+      "translatedTitle": "快速借贷是新型的科技债务。",
+      "translatedBody": "提示债务是新的技术债务。\n\n每次模型更新，您都应该至少削减 50% 的提示。\n\n大多数 AI 产品都存在臃肿的提示，这反而降低了产品质量。\n\n典型的流程是：模型在某个任务上失败 -> 添加 10 条规则。工具调用失败 -> 添加 10 个示例。输出结果异常 -> 添加格式约束。\n\n三个月后，您的系统提示已经长成一部小说了。\n\n与此同时，模型本身变得更加智能，而您过度管理的提示却让它变成了一台只会机械执行规则的机器。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/realmadhuguru/status/2087916590964851172",
+      "publishedAt": "2026-08-13T14:58:01.000Z",
+      "score": 71.79,
+      "engagement": {
+        "likes": 49,
+        "retweets": 1,
+        "replies": 9
+      },
+      "matchedFocusAreas": [
         "Foundation Models",
         "Product Ships"
       ],
@@ -238,9 +245,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-08-13T06:47:37.704Z",
-    "totalCandidates": 33,
-    "textQualifiedCandidates": 19,
+    "upstreamGeneratedAt": "2026-08-14T06:46:42.819Z",
+    "totalCandidates": 36,
+    "textQualifiedCandidates": 20,
     "selectedTweets": 8
   }
 }
