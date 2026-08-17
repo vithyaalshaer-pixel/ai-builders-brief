@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-16",
-  "generatedAt": "2026-08-16T01:37:35.844Z",
+  "date": "2026-08-17",
+  "generatedAt": "2026-08-17T01:35:21.069Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-08-16",
-  "summary": "今天最值得看的是 Josh Woodward 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 32 条候选动态里，筛出 20 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-08-17",
+  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 23 条候选动态里，筛出 14 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,189 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2088261701028503965",
-      "type": "tweet",
-      "builder": "Josh Woodward",
-      "title": "Pomelli 是我们在 Google Labs 进行的一项实验，越来越受到小型企业的欢迎……",
-      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Pomelli is our Google Labs experiment popular with a growing number of small businesses. Why? It's one of the easiest…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Pomelli is our Google Labs experiment popular with a growing number of small busine…",
-      "originalBody": "Pomelli is our Google Labs experiment popular with a growing number of small businesses. Why? It's one of the easiest ways to make your products look good in any setting.\n\nWith this launch, turn those amazing photoshoots into short videos or gifs with that same ease! https://t.co/cH3AAkQgsL",
-      "translatedTitle": "Pomelli 是我们在 Google Labs 进行的一项实验，越来越受到小型企业的欢迎……",
-      "translatedBody": "Pomelli 是 Google Labs 的一项实验性产品，深受越来越多小型企业的喜爱。为什么？因为它能以最简单的方式让您的产品在任何环境下都呈现出最佳效果。\n\n此次发布后，您还可以轻松地将精彩的摄影作品转换成短视频或 GIF 动图！https://t.co/cH3AAkQgsL",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/joshwoodward/status/2088261701028503965",
-      "publishedAt": "2026-08-14T13:49:22.000Z",
-      "score": 178.17,
-      "engagement": {
-        "likes": 182,
-        "retweets": 13,
-        "replies": 9
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2088381680478540096",
+      "id": "2088755688361378082",
       "type": "tweet",
       "builder": "Swyx",
-      "title": "@databricks 的“IPO 就像熔岩”融资之所以成为梗，原因如下，但并非讽刺……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：the reason @databricks \"ipo is lava\" fundraises are a meme is this but unironically the M in their $188B series M sta…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "the reason @databricks \"ipo is lava\" fundraises are a meme is this but unironically…",
-      "originalBody": "the reason @databricks \"ipo is lava\" fundraises are a meme is this but unironically\n\nthe M in their $188B series M stands for \"we are going to kill so many meetings\" https://t.co/sQsoPICYzT https://t.co/JAE86kHe2f",
-      "translatedTitle": "@databricks 的“IPO 就像熔岩”融资之所以成为梗，原因如下，但并非讽刺……",
-      "translatedBody": "@databricks 的“IPO 就像熔岩”融资之所以成为梗，原因如下（但并非讽刺）：\n\n他们 1880 亿美元融资中的“M”代表“我们要取消很多会议”。https://t.co/sQsoPICYzT https://t.co/JAE86kHe2f",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2088381680478540096",
-      "publishedAt": "2026-08-14T21:46:07.000Z",
-      "score": 124.86,
-      "engagement": {
-        "likes": 91,
-        "retweets": 1,
-        "replies": 16
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2088322211241447801",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "AIE NYC CFP 第一轮录取结果将于今日最终确定。",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：AIE NYC CFP wave 1 acceptances are being finalized today. last day to get in for wave 1! https://t.co/ldei0UywCk our…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "AIE NYC CFP wave 1 acceptances are being finalized today.",
-      "originalBody": "AIE NYC CFP wave 1 acceptances are being finalized today. last day to get in for wave 1!\n\nhttps://t.co/ldei0UywCk\n\nour NYC event last year was the most successful summit we've ever had. excited to head back to 🗽 bigger and better than ever - note the special requirements for our mainstage finance keynotes",
-      "translatedTitle": "AIE NYC CFP 第一轮录取结果将于今日最终确定。",
-      "translatedBody": "AIE NYC CFP 第一轮录取结果将于今日最终确定。第一轮申请截止日期临近！\n\nhttps://t.co/ldei0UywCk\n\n我们去年在纽约举办的活动是我们迄今为止最成功的峰会。我们非常兴奋能够重返纽约，规模更大、内容更精彩——请注意主舞台金融主题演讲的特殊要求。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2088322211241447801",
-      "publishedAt": "2026-08-14T17:49:48.000Z",
-      "score": 120.12,
-      "engagement": {
-        "likes": 31,
-        "retweets": 1,
-        "replies": 9
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2088476232933577124",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "结果令人惊喜。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Amazing outcome. Cursor executed the applied AI strategy flawlessly. Most people completely underestimated the market…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Amazing outcome.",
-      "originalBody": "Amazing outcome. Cursor executed the applied AI strategy flawlessly. \n\nMost people completely underestimated the market size in AI coding. The biggest developer tool exits in history were on the order of low billions of dollars. And it was already assumed to be a heavily competitive and somewhat saturated space when they really got going.\n\nMultiple mental models shattered near instantly. The market sizes for agentic coding was far larger than most realized. There was actually tons and tons of room to innovate between the user and the underlying model, and even on the model itself.\n\nCursor provided out the applied AI playbook by figuring out the right product shape for agentic coding work, acting as a neutral layer between models and the workflows, post training models for the areas that make most sense to drive down costs or improve performance, building out the right infra stack for the relevant workflows, building out a strong category-aligned GTM motion, and more.\n\nGreat set of lessons for anyone doing applied AI right now. We’re going to see a lot more of these.",
-      "translatedTitle": "结果令人惊喜。",
-      "translatedBody": "成果令人惊叹。Cursor完美地执行了应用人工智能战略。\n\n大多数人完全低估了人工智能编码的市场规模。历史上最大的开发者工具退出案例也只有几十亿美元。而且，在人工智能真正起步之前，人们普遍认为这是一个竞争激烈且略显饱和的领域。\n\n许多固有的认知几乎瞬间崩塌。智能编码的市场规模远超大多数人的想象。实际上，在用户和底层模型之间，甚至在模型本身，都存在着巨大的创新空间。\n\nCursor通过以下方式为应用人工智能提供了成功案例：为智能编码工作找到合适的产品形态；充当模型和工作流程之间的中立层；在最能降低成本或提升性能的领域进行模型训练后优化；为相关工作流程构建合适的架构；制定强有力的、与产品类别相符的市场推广策略等等。\n\n对于任何从事应用人工智能的人来说，这都是一套宝贵的经验。我们将会看到更多类似的案例。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2088476232933577124",
-      "publishedAt": "2026-08-15T04:01:50.000Z",
-      "score": 105.33,
-      "engagement": {
-        "likes": 165,
-        "retweets": 6,
-        "replies": 23
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2088261100202868768",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我很好奇 X 是如何对抗 AI 缺陷的，所以我查看了它的开源算法。",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I was curious how X is fighting AI slop, so I looked at its open-source algorithm. It has a behavioral model called T…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "I was curious how X is fighting AI slop, so I looked at its open-source algorithm.",
-      "originalBody": "I was curious how X is fighting AI slop, so I looked at its open-source algorithm.\n\nIt has a behavioral model called TweetSpamBot that analyzes up to 512 recent account actions, looking at signals like posting bursts, quote-post behavior, timing, and normal browsing or dwell between actions.\n\nThe model is trained to recognize patterns such as:\n\n→ TWEET_CREATE_BURST\n→ QUOTE_TWEET_SPAMMER\n→ CONTENT_AMPLIFIER\n\nA high score on the above can feed into an account challenge but doesn't seem to downrank the slop posts themselves.\n\nI think the gap here is that the model doesn’t read the actual post content.\n\nSo a sophisticated AI content mill can still post slop all day long:\n\n1. Find viral posts\n2. Quote tweet with the same template each time: hook → numbers → backstory → takeaway\n3. Repeat 10+ times a day across unrelated topics\n\nIf @X doesn't want to become like LinkedIn, I think it should consider looking at accounts that repeatedly turn unrelated viral posts into the same templated quote tweet slop at high volume.\n\nRight now the guardrails above are too easy to bypass.",
-      "translatedTitle": "我很好奇 X 是如何对抗 AI 缺陷的，所以我查看了它的开源算法。",
-      "translatedBody": "我很好奇 X 是如何对抗 AI 垃圾信息的，所以我研究了它的开源算法。\n\n它有一个名为 TweetSpamBot 的行为模型，可以分析多达 512 条近期账户操作，关注诸如发帖爆发、引用转发行为、发布时间以及正常浏览或操作间停留时间等信号。\n\n该模型经过训练，可以识别以下模式：\n\n→ 推文爆发\n\n→ 引用推文垃圾信息\n\n→ 内容放大\n\n上述模式的高分可以用于账户挑战，但似乎并不会降低垃圾信息本身的排名。\n\n我认为问题在于，该模型并没有读取实际的帖子内容。\n\n所以，即使是技术高超的AI内容工厂也能整天发布垃圾内容：\n\n1. 找到爆款帖子\n\n2. 每次都用相同的模板转发推文：引子 → 数据 → 背景故事 → 要点\n\n3. 每天在不相关的话题上重复10次以上\n\n如果@X不想变成像LinkedIn那样，我认为它应该关注那些反复大量地将不相关的爆款帖子转换成相同模板的垃圾转发推文的账号。\n\n目前，上述的防护措施太容易被绕过。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2088261100202868768",
-      "publishedAt": "2026-08-14T13:46:58.000Z",
-      "score": 70.01,
-      "engagement": {
-        "likes": 35,
-        "retweets": 0,
-        "replies": 7
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2088278730808426900",
-      "type": "tweet",
-      "builder": "Nan Yu",
-      "title": "如果你相信你的同事很聪明，那么他们的想法就不是凭空产生的。",
-      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：If you believe your colleagues are smart, their ideas didn't come from nowhere. There's something motivating them tha…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "If you believe your colleagues are smart, their ideas didn't come from nowhere.",
-      "originalBody": "If you believe your colleagues are smart, their ideas didn't come from nowhere. There's something motivating them that gets to a real problem, or is likely interesting to think about.\n\nSome of the most interesting things we've shipped are fusions of multiple ideas or several derivatives away from the original concept.",
-      "translatedTitle": "如果你相信你的同事很聪明，那么他们的想法就不是凭空产生的。",
-      "translatedBody": "如果你相信你的同事很聪明，那么他们的想法绝非凭空而来。他们背后肯定有某种驱动力，能够直击实际问题，或者至少是值得深思的。\n\n我们推出的一些最有趣的产品，往往是多种想法的融合，或是围绕最初概念衍生出的多个分支。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thenanyu/status/2088278730808426900",
-      "publishedAt": "2026-08-14T14:57:02.000Z",
-      "score": 65.99,
-      "engagement": {
-        "likes": 16,
-        "retweets": 0,
-        "replies": 3
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2088383794013470812",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "史蒂夫·乔布斯路过时说，字体城市名称还不错，但是“至少应该叫……”",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：\"Steve Jobs walked by and said the font city names weren't bad, but 'at least call them world-class cities.' That's h…",
+      "title": "如果你没有身处科技泡沫之中，那么一般来说，我总是会感到惊讶……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：in case you’re not living in the tech bubble, as a general rule i’ve been surprised by how infrequently top tier folk…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "\"Steve Jobs walked by and said the font city names weren't bad, but 'at least call…",
-      "originalBody": "\"Steve Jobs walked by and said the font city names weren't bad, but 'at least call them world-class cities.'\n\nThat's how Paoli and Wynwood became New York and Geneva.\" https://t.co/U9PPNUwkJE",
-      "translatedTitle": "史蒂夫·乔布斯路过时说，字体城市名称还不错，但是“至少应该叫……”",
-      "translatedBody": "“史蒂夫·乔布斯路过时说，这些城市名称虽然不错，但‘至少应该叫它们世界级城市吧。’\n\n就这样，帕奥利和温伍德变成了纽约和日内瓦。” https://t.co/U9PPNUwkJE",
+      "originalTitle": "in case you’re not living in the tech bubble, as a general rule i’ve been surprised…",
+      "originalBody": "in case you’re not living in the tech bubble, as a general rule i’ve been surprised by how infrequently top tier folks actually meet/know each other. as an outsider i might have assumed that everyone is in secret illuminati group chats. those exist, but are very much short lived exceptions rather than the rule. what you see of the major headlines is pretty much what they also see. i guess one way to interpret this is also simply that most effort is still on doing the work rather than working the narrative or the gossip. and that, to me at least, is genuinely quite reassuring, this far in to my career.",
+      "translatedTitle": "如果你没有身处科技泡沫之中，那么一般来说，我总是会感到惊讶……",
+      "translatedBody": "如果你不身处科技泡沫之中，那么我通常会惊讶于顶尖人士之间真正见面/认识的频率之低。作为局外人，我或许会以为每个人都在秘密的“光明会”群聊里。这类群聊确实存在，但只是昙花一现的例外，而非普遍现象。你看到的主流媒体头条新闻，他们看到的也基本相同。我想，对此的一种解读是，他们仍然把精力放在工作本身，而不是塑造舆论或散播八卦。至少对我而言，在我职业生涯的这个阶段，这确实令人感到安心。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2088383794013470812",
-      "publishedAt": "2026-08-14T21:54:31.000Z",
-      "score": 51.89,
+      "sourceUrl": "https://x.com/swyx/status/2088755688361378082",
+      "publishedAt": "2026-08-15T22:32:17.000Z",
+      "score": 154.2,
       "engagement": {
-        "likes": 138,
-        "retweets": 7,
-        "replies": 14
+        "likes": 233,
+        "retweets": 5,
+        "replies": 18
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -213,37 +50,201 @@
       "sourceType": "x"
     },
     {
-      "id": "2088307370787328223",
+      "id": "2088757738037989755",
       "type": "tweet",
-      "builder": "Google Labs",
-      "title": "在实验室里，我们总是在不断尝试🧪——从我们成功完成的实验到那些……",
-      "summary": "Google Labs 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：In the Lab, we’re always tinkering 🧪– from the experiments we graduate to the ones still brewing, we bring the best…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "In the Lab, we’re always tinkering 🧪– from the experiments we graduate to the ones…",
-      "originalBody": "In the Lab, we’re always tinkering 🧪– from the experiments we graduate to the ones still brewing, we bring the best of our AI models to all kinds of users. Try out these two (if you haven't already!):\n\n@PomellibyGoogle - build captivating marketing campaigns tailored to your brand and your business at scale\n\n@FlowbyGoogle - craft visual stories that channel your imagination and draw the attention of your audience",
-      "translatedTitle": "在实验室里，我们总是在不断尝试🧪——从我们成功完成的实验到那些……",
-      "translatedBody": "在实验室里，我们一直在不断探索和改进🧪——从已经成功完成的实验到仍在酝酿中的项目，我们致力于将最优秀的AI模型带给各类用户。不妨试试以下两个（如果您还没试过的话！）：\n\n@PomellibyGoogle - 大规模打造引人入胜、量身定制的品牌和业务营销活动\n\n@FlowbyGoogle - 创作视觉故事，激发您的想象力，吸引受众的注意力",
+      "builder": "Guillermo Rauch",
+      "title": "我认为人们没有意识到 React 的成功很大程度上要归功于 @shadcn。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：I think people don’t realize how much of the success of React is actually @shadcn. I once referred to React as the ac…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "I think people don’t realize how much of the success of React is actually @shadcn.",
+      "originalBody": "I think people don’t realize how much of the success of React is actually @shadcn.\n\nI once referred to React as the actual “LEGO brick for adults.” But in reality it was more the description of the geometry of the bricks. The spec.\n\nShadcn is what people actually wanted from React. Reusable high quality components that also tunable. It’s a pseudo-library. There’s code but it’s actually meant to be digested into your context window and remixed.",
+      "translatedTitle": "我认为人们没有意识到 React 的成功很大程度上要归功于 @shadcn。",
+      "translatedBody": "我认为人们并没有意识到 React 的成功很大程度上要归功于 @shadcn。\n\n我曾经把 React 比作“成人版的乐高积木”。但实际上，我指的是积木的几何形状，也就是规范。\n\nShadcn 正是人们真正想要的 React 组件：可复用的高质量组件，并且可进行微调。它是一个伪库，虽然包含代码，但其设计初衷是让用户能够将其整合到上下文窗口中并进行重新组合。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/GoogleLabs/status/2088307370787328223",
-      "publishedAt": "2026-08-14T16:50:50.000Z",
-      "score": 50.86,
+      "sourceUrl": "https://x.com/rauchg/status/2088757738037989755",
+      "publishedAt": "2026-08-15T22:40:26.000Z",
+      "score": 137.15,
       "engagement": {
-        "likes": 110,
+        "likes": 1072,
+        "retweets": 27,
+        "replies": 80
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2088866513008873560",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "关于代币及其价格。",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：On tokens and prices per token. I said I’d write more about this, so here goes: an OpenAI token != another model’s to…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "On tokens and prices per token.",
+      "originalBody": "On tokens and prices per token.\n\nI said I’d write more about this, so here goes: an OpenAI token != another model’s token. We compare AI prices in dollars per million tokens as if a token were a standardized unit, like a gram or a kilowatt-hour. It isn’t. Different models use and produce the exact same text using different numbers of tokens, which means a lower price per token does not necessarily mean a lower bill.\n\nImagine two identical pizzas. One is cut into 8 slices at $2 each. The other is cut into 16 slices at $1.25 each. The second place advertises cheaper slices, but the whole pizza costs $20 instead of $16. Bummer ... your stomach doesn't actually care about the number of slices you just ate.\n\nI know you are hungry now, but back to tokens. In one small comparison spanning English, technical, multilingual, and numerical text, the tokenizer we use for GPT-5.6 Sol used 766 tokens versus an estimated 1,170 for Claude Opus 5. That's a very significant difference of about 34.5% fewer tokens. You can get the same exact text, but pay for all those extra tokens. The price per token doesn't really tell this story.\n\nEven correcting for tokenizer differences misses the bigger point. What actually matters is price per successful outcome, and for that you can use benchmarks as a starting point, but really you have to try it and measure on your own use cases.\n\nThat's all. May the tokens flow.",
+      "translatedTitle": "关于代币及其价格。",
+      "translatedBody": "关于代币和每个代币的价格。\n\n我说过我会详细写写这个，所以现在就来谈谈：OpenAI 代币 ≠ 其他模型的代币。我们用每百万个代币的价格来比较 AI 的价格，就好像代币是一个标准化的单位，比如克或千瓦时。但事实并非如此。不同的模型使用不同的代币数量来生成完全相同的文本，这意味着每个代币的价格更低并不一定意味着最终价格更低。\n\n想象一下两个一模一样的披萨。一个切成 8 块，每块 2 美元。另一个切成 16 块，每块 1.25 美元。第二个店的广告宣传每块披萨更便宜，但整个披萨的价格是 20 美元而不是 16 美元。真倒霉……你的胃其实并不在意你吃了多少块。\n\n我知道你现在饿了，但我们还是回到代币的话题吧。在一项涵盖英语、技术文本、多语言文本和数字文本的小型对比中，我们用于 GPT-5.6 Sol 的分词器使用了 766 个词元，而 Claude Opus 5 估计使用了 1170 个词元。这相差约 34.5%，差异非常显著。您可以获得完全相同的文本，但却要为所有这些额外的词元付费。每个词元的价格并不能真正反映这一点。\n\n即使校正了分词器之间的差异，也忽略了更重要的问题。真正重要的是每次成功结果的成本，虽然您可以参考基准测试作为参考，但实际上您必须尝试并根据自己的用例进行评估。\n\n以上就是全部内容。愿词元源源不断。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2088866513008873560",
+      "publishedAt": "2026-08-16T05:52:40.000Z",
+      "score": 92.66,
+      "engagement": {
+        "likes": 1006,
+        "retweets": 74,
+        "replies": 280
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2088661047913914847",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "白丸时间线清理器：进步和富足看起来像是创纪录的产量……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Whitepill timeline cleanser: Progress and abundance looks like record production of crops, year on year, progressing…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Whitepill timeline cleanser: Progress and abundance looks like record production of…",
+      "originalBody": "Whitepill timeline cleanser: \n\nProgress and abundance looks like record production of crops, year on year, progressing upwards and to the right. This is the output of markets and technology working together for millenia. \n\nhttps://t.co/LXe01sF5G4 https://t.co/VZct22uHUF",
+      "translatedTitle": "白丸时间线清理器：进步和富足看起来像是创纪录的产量……",
+      "translatedBody": "白丸时间线清理：\n\n进步和富足看起来就像农作物产量逐年创纪录，稳步上升。这是市场和技术数千年来共同作用的成果。\n\nhttps://t.co/LXe01sF5G4 https://t.co/VZct22uHUF",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2088661047913914847",
+      "publishedAt": "2026-08-15T16:16:13.000Z",
+      "score": 76.89,
+      "engagement": {
+        "likes": 117,
         "retweets": 10,
+        "replies": 24
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2088867492907327573",
+      "type": "tweet",
+      "builder": "Amjad Masad",
+      "title": "认为“人工智能在结构上集中了权力”的论点，是因为它目前是计算机……",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The argument that “AI structurally centralizes power” because it’s currently compute hungry ignores 125 years of supe…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "The argument that “AI structurally centralizes power” because it’s currently comput…",
+      "originalBody": "The argument that “AI structurally centralizes power” because it’s currently compute hungry ignores 125 years of super exponential growth in compute price-performance. \n\nImprovement in algorithms and continued hardware efficiency gains     means there is no reason to assume AGI-level capabilities will always require a data center to run.\n\nScaling laws are not laws of physics. They’re simply empirical relationships observed for particular architectures, objectives, datasets etc. Change any one of those factors and you get a different scaling curve. \n\nIf the brain is any guide, true AGI will likely be very efficient. In fact, current scaling laws might a bug and not a feature. It shows how inefficiency of the ML algorithms we discovered so far.",
+      "translatedTitle": "认为“人工智能在结构上集中了权力”的论点，是因为它目前是计算机……",
+      "translatedBody": "认为人工智能目前计算资源消耗巨大，导致“权力结构性集中化”的论点忽略了过去125年来计算性价比的超指数级增长。\n\n算法的改进和硬件效率的持续提升意味着，我们没有理由假设通用人工智能（AGI）级别的能力始终需要数据中心才能运行。\n\n扩展规律并非物理定律，它们只是针对特定架构、目标、数据集等观察到的经验关系。改变其中任何一个因素，都会得到不同的扩展曲线。\n\n如果以人脑为例，真正的通用人工智能很可能非常高效。事实上，当前的扩展规律或许并非优势，而是一个缺陷。它揭示了我们迄今为止发现的机器学习算法的低效之处。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/amasad/status/2088867492907327573",
+      "publishedAt": "2026-08-16T05:56:34.000Z",
+      "score": 73.58,
+      "engagement": {
+        "likes": 21,
+        "retweets": 3,
         "replies": 8
       },
       "matchedFocusAreas": [
-        "Foundation Models"
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2088810666958196988",
+      "type": "tweet",
+      "builder": "Nan Yu",
+      "title": "这也是我的梦想。",
+      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：This is also my dream. I want to sit in a park all day and record content with the homies… and have a fleet of agents…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "This is also my dream.",
+      "originalBody": "This is also my dream. I want to sit in a park all day and record content with the homies… and have a fleet of agents turn that content into actions and working software. https://t.co/V9SzxqFEnL",
+      "translatedTitle": "这也是我的梦想。",
+      "translatedBody": "这也是我的梦想。我想整天坐在公园里，和兄弟们一起录制视频……然后让一群代理人把这些视频转化为实际行动和可用的软件。https://t.co/V9SzxqFEnL",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thenanyu/status/2088810666958196988",
+      "publishedAt": "2026-08-16T02:10:45.000Z",
+      "score": 68.05,
+      "engagement": {
+        "likes": 18,
+        "retweets": 1,
+        "replies": 5
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2088773343629750535",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我是 Grok Bot 的粉丝，但 @X 才是它应该拥有的排名第一的差异化数据源……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I am a fan of Grok Bot but @X is the #1 differentiated data source that it should have access to and it doesn't seem…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I am a fan of Grok Bot but @X is the #1 differentiated data source that it should h…",
+      "originalBody": "I am a fan of Grok Bot but @X is the #1 differentiated data source that it should  have access to and it doesn't seem to work? \n\nThe connector doesn't work and I can't even login to X on the cloud computer. \n\nAm I doing something wrong? https://t.co/O5OI9OhETb",
+      "translatedTitle": "我是 Grok Bot 的粉丝，但 @X 才是它应该拥有的排名第一的差异化数据源……",
+      "translatedBody": "我是 Grok Bot 的忠实用户，但 @X 是它应该能够访问的最重要的差异化数据源，然而它似乎无法正常工作？\n\n连接器无法工作，我甚至无法登录云端服务器上的 X。\n\n是我操作有误吗？https://t.co/O5OI9OhETb",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2088773343629750535",
+      "publishedAt": "2026-08-15T23:42:27.000Z",
+      "score": 52.36,
+      "engagement": {
+        "likes": 137,
+        "retweets": 3,
+        "replies": 31
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2088626815166464507",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "明天，我非常兴奋地和@rileybrown分享一期新节目，内容是他如何使用……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Tomorrow, I’m really excited to share a new episode with @rileybrown on how he uses Codex to run his entire content b…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Tomorrow, I’m really excited to share a new episode with @rileybrown on how he uses…",
+      "originalBody": "Tomorrow, I’m really excited to share a new episode with @rileybrown on how he uses Codex to run his entire content business.\n\nI particularly loved watching him demo how he creates YouTube thumbnails with AI:\n\n1. He uses Codex to find 100 top-performing thumbnails in his niche and add them to a Paper canvas.\n\n2. He uses Paper to mix and match those thumbnails with photos of himself until he creates something he’s happy with.\n\nHonestly, you have to watch the workflow to see how crazy it is.\n\n📌 Subscribe to get the full episode tomorrow: https://t.co/NSTj7ijxE0",
+      "translatedTitle": "明天，我非常兴奋地和@rileybrown分享一期新节目，内容是他如何使用……",
+      "translatedBody": "明天，我非常兴奋地和大家分享一期新节目，嘉宾是 @rileybrown，他会讲解如何使用 Codex 来运营他的整个内容业务。\n\n我特别喜欢看他演示如何用 AI 制作 YouTube 视频缩略图：\n\n1. 他用 Codex 找到他所在领域 100 个表现最佳的缩略图，并将它们添加到 Paper 画布中。\n\n2. 他用 Paper 将这些缩略图与自己的照片进行混搭，直到找到满意的效果。\n\n说真的，你一定要看看他的工作流程，才能体会到这有多神奇。\n\n📌 订阅即可在明天收听完整节目：https://t.co/NSTj7ijxE0",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2088626815166464507",
+      "publishedAt": "2026-08-15T14:00:12.000Z",
+      "score": 50.06,
+      "engagement": {
+        "likes": 94,
+        "retweets": 7,
+        "replies": 9
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-08-15T06:27:33.693Z",
-    "totalCandidates": 32,
-    "textQualifiedCandidates": 20,
+    "upstreamGeneratedAt": "2026-08-16T06:27:46.023Z",
+    "totalCandidates": 23,
+    "textQualifiedCandidates": 14,
     "selectedTweets": 8
   }
 }
