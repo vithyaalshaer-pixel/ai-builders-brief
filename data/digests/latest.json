@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-20",
-  "generatedAt": "2026-08-20T01:25:55.435Z",
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-21T01:36:14.281Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-08-20",
-  "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 32 条候选动态里，筛出 20 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-08-21",
+  "summary": "今天最值得看的是 Josh Woodward 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 30 条候选动态里，筛出 17 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,82 +23,53 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2089787807611195475",
+      "id": "2090166806401228912",
       "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "我们暂停了一些前沿强化学习训练，以确保我们能够满足相应的要求……",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitorin…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "We have paused some frontier RL training to ensure that we can meet the appropriate…",
-      "originalBody": "We have paused some frontier RL training to ensure that we can meet the appropriate alignment, security and monitoring standards for the new level of capabilities in front of us. Model progress is now extremely rapid, and we always said we would take action if we felt that model capabilities were outstripping the pace of safety and alignment.\n\nWe care very deeply about AI safety. We believe the entire field will have to coordinate on shared safety standards, but will act unilaterally in the meantime.\n\nWe expect confidence in safety to increasingly set the pace of AI progress. We are optimistic about the alignment work we are doing, and we remain committed to making frontier capabilities widely available.\n\nhttps://t.co/51kvKfbfrO",
-      "translatedTitle": "我们暂停了一些前沿强化学习训练，以确保我们能够满足相应的要求……",
-      "translatedBody": "我们已暂停部分前沿强化学习训练，以确保我们能够满足当前新能力水平所需的相应一致性、安全性和监控标准。模型发展目前极其迅速，我们始终强调，如果模型能力的发展速度超过了安全性和一致性的提升速度，我们将采取行动。\n\n我们高度重视人工智能安全。我们相信整个领域最终都需要就共同的安全标准进行协调，但在此期间，我们将采取单边行动。\n\n我们预计，对安全性的信心将日益成为人工智能发展速度的主要驱动力。我们对正在进行的一致性工作充满信心，并将继续致力于让前沿能力得到广泛应用。\n\nhttps://t.co/51kvKfbfrO",
+      "builder": "Josh Woodward",
+      "title": "大学生的优惠活动又回来了！",
+      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：University student plans are back! We've gone global with this one. Over 140 countries will get higher limits, more s…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "University student plans are back!",
+      "originalBody": "University student plans are back!\n\nWe've gone global with this one. Over 140 countries will get higher limits, more storage, and new features like our dedicated student hub. It also comes with Notebook, Flow, and more. Sign up today ⬇️ https://t.co/Af43OUufrd",
+      "translatedTitle": "大学生的优惠活动又回来了！",
+      "translatedBody": "大学生套餐回归啦！\n\n这次我们面向全球用户推出。超过 140 个国家/地区的用户将享受更高的流量限额、更大的存储空间以及全新功能，例如我们专属的学生中心。此外，套餐还包含 Notebook、Flow 等更多功能。立即注册 ⬇️ https://t.co/Af43OUufrd",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2089787807611195475",
-      "publishedAt": "2026-08-18T18:53:34.000Z",
-      "score": 198.63,
+      "sourceUrl": "https://x.com/joshwoodward/status/2090166806401228912",
+      "publishedAt": "2026-08-19T19:59:34.000Z",
+      "score": 163.01,
       "engagement": {
-        "likes": 8100,
-        "retweets": 613,
-        "replies": 1303
+        "likes": 1224,
+        "retweets": 91,
+        "replies": 42
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2089831055373316274",
+      "id": "2090255740384751664",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "我一直用 https://t.co/OL0LzGtvAw 作为我的日常浏览器，但它是一条单行道……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I’ve been using https://t.co/OL0LzGtvAw as my daily driver and it’s a one-way street. It’s 10-20x smaller than the ma…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "I’ve been using https://t.co/OL0LzGtvAw as my daily driver and it’s a one-way stree…",
-      "originalBody": "I’ve been using https://t.co/OL0LzGtvAw as my daily driver and it’s a one-way street.\n\nIt’s 10-20x smaller than the major coding CLIs. It starts up instantaneously. It feels more like using 𝚣𝚜𝚑 than an IDE in your terminal. It’s embeddable anywhere, even your browser via WebAssembly.\n\nAnd of course it’s open source and model-agnostic. It’s experimental, but give it a shot and let us know how it goes!",
-      "translatedTitle": "我一直用 https://t.co/OL0LzGtvAw 作为我的日常浏览器，但它是一条单行道……",
-      "translatedBody": "我一直把 https://t.co/OL0LzGtvAw 作为日常主力工具，而且用过之后就完全离不开它了。\n\n它比主流的编码命令行工具小 10 到 20 倍。启动速度极快。感觉更像是直接在终端里使用 𝚣𝚜𝚑，而不是 IDE。它还可以嵌入到任何地方，甚至可以通过 WebAssembly 嵌入到你的浏览器中。\n\n当然，它是开源的，而且与模型无关。目前它还处于实验阶段，但不妨试用一下，然后告诉我们你的使用体验！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2089831055373316274",
-      "publishedAt": "2026-08-18T21:45:25.000Z",
-      "score": 186.09,
-      "engagement": {
-        "likes": 884,
-        "retweets": 25,
-        "replies": 55
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2089804717337817514",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "你的软件工厂应该采用单体仓库（monorepo）模式。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Your software factory should be a monorepo. All your company context (design, marketing, sales, engineering, support……",
+      "title": "https://t.co/OL0LzGtvAw 文件大小为 6.3mb。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：https://t.co/OL0LzGtvAw is 6.3mb. It starts up in 10µs¹. It's a Zig-compiled static ELF binary, or an even smaller 𝚕…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Your software factory should be a monorepo.",
-      "originalBody": "Your software factory should be a monorepo. All your company context (design, marketing, sales, engineering, support…) in one place for agents to build upon https://t.co/MRPrmkSAPd",
-      "translatedTitle": "你的软件工厂应该采用单体仓库（monorepo）模式。",
-      "translatedBody": "你的软件工厂应该采用单体仓库模式。将公司所有相关内容（设计、市场营销、销售、工程、支持……）集中在一个地方，供代理商在此基础上进行开发。https://t.co/MRPrmkSAPd",
+      "originalTitle": "https://t.co/OL0LzGtvAw is 6.3mb.",
+      "originalBody": "https://t.co/OL0LzGtvAw is 6.3mb. It starts up in 10µs¹. It's a Zig-compiled static ELF binary, or an even smaller 𝚕𝚒𝚋𝚏𝚡.𝚠𝚊𝚜𝚖² \n\nAI will make most infrastructure natively optimized. Case in point: fx can literally finish tasks faster than other agents can boot.\n\nFast is a one-way street.\n\n¹ that's microseconds\n² fun fact: the wasm build is actually *smaller*. A lot of binary weight comes from the TLS/HTTP stack. In WebAssembly, fx delegates 𝚏𝚎𝚝𝚌𝚑() to the JS runtime instead. You can try this on https://t.co/me7se5dvip",
+      "translatedTitle": "https://t.co/OL0LzGtvAw 文件大小为 6.3mb。",
+      "translatedBody": "https://t.co/OL0LzGtvAw 大小为 6.3MB，启动仅需 10µs¹。它是一个 Zig 编译的静态 ELF 二进制文件，或者更小的 𝚕𝚒𝚋𝚏𝚡.𝚠𝚊𝚜𝚖²。\n\n人工智能将使大多数基础设施实现原生优化。例如：fx 完成任务的速度甚至比其他代理启动的速度还要快。\n\n速度是一条单行道。\n\n¹ 单位是微秒。\n\n² 有趣的是：wasm 构建实际上更小。很多二进制文件的大小都来自 TLS/HTTP 协议栈。在 WebAssembly 中，fx 将 𝚏𝚎𝚝𝚌𝚑() 委托给 JS 运行时。您可以在 https://t.co/me7se5dvip 上尝试一下。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2089804717337817514",
-      "publishedAt": "2026-08-18T20:00:45.000Z",
-      "score": 166.09,
+      "sourceUrl": "https://x.com/rauchg/status/2090255740384751664",
+      "publishedAt": "2026-08-20T01:52:58.000Z",
+      "score": 159.37,
       "engagement": {
-        "likes": 2289,
-        "retweets": 104,
-        "replies": 104
+        "likes": 537,
+        "retweets": 37,
+        "replies": 54
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -106,26 +77,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2089747453004468339",
+      "id": "2090314794456785263",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "我们将投入 100 万美元，公开验证 Vercel Sandbox 的安全性。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：We are putting $1M towards verifying the security of Vercel Sandbox, in the open. You're free to test any model in th…",
+      "builder": "Swyx",
+      "title": "哈哈哈哈哈哈，不懂技术的人真是太菜了，简直被烤焦了……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：HAHAHAHAHAHA non technical people are so incredibly cooked they are burnt thru can u imagine covering ai with zero co…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "We are putting $1M towards verifying the security of Vercel Sandbox, in the open.",
-      "originalBody": "We are putting $1M towards verifying the security of Vercel Sandbox, in the open. You're free to test any model in the world to try and find an escape.\n\nI'm looking forward to bringing transparency to what frontier models can and cannot do in terms of real-world guardrail exploitability.\n\nIf escapes are discovered, we'll be ready to patch, iterate, and share our findings with the broader community to strengthen global cybersecurity.",
-      "translatedTitle": "我们将投入 100 万美元，公开验证 Vercel Sandbox 的安全性。",
-      "translatedBody": "我们将投入 100 万美元用于公开验证 Vercel Sandbox 的安全性。您可以自由测试世界上任何模型，尝试寻找逃逸漏洞。\n\n我期待着让前沿模型在实际应用中能够以及无法突破哪些安全防护措施，从而提高其透明度。\n\n如果发现逃逸漏洞，我们将立即修复漏洞、迭代更新，并将我们的发现与更广泛的社区分享，以加强全球网络安全。",
+      "originalTitle": "HAHAHAHAHAHA non technical people are so incredibly cooked they are burnt thru can…",
+      "originalBody": "HAHAHAHAHAHA\n\nnon technical people are so incredibly cooked they are burnt thru\n\ncan u imagine covering ai with zero context, zero reasoning, zero internal world model. it must be so delightfully joyful, everything is so amazing, face value is all you need,\n\nwhat a time to be alive",
+      "translatedTitle": "哈哈哈哈哈哈，不懂技术的人真是太菜了，简直被烤焦了……",
+      "translatedBody": "哈哈哈哈哈哈\n\n非技术人员真是被搞得焦头烂额，完全懵了。\n\n你能想象吗？完全不了解背景、不理解逻辑、不了解内部世界模型的人居然去研究人工智能。那一定无比快乐，一切都那么美好，表面现象就足够了。\n\n真是个好时代啊！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2089747453004468339",
-      "publishedAt": "2026-08-18T16:13:13.000Z",
-      "score": 163.49,
+      "sourceUrl": "https://x.com/swyx/status/2090314794456785263",
+      "publishedAt": "2026-08-20T05:47:37.000Z",
+      "score": 155.92,
       "engagement": {
-        "likes": 1386,
-        "retweets": 67,
-        "replies": 61
+        "likes": 128,
+        "retweets": 5,
+        "replies": 20
       },
       "matchedFocusAreas": [
         "Foundation Models"
@@ -133,117 +104,147 @@
       "sourceType": "x"
     },
     {
-      "id": "2089806039088517356",
+      "id": "2090242427944833047",
       "type": "tweet",
-      "builder": "Claude",
-      "title": "克劳德现在可以在 Gmail 中发送电子邮件，并在 Google 云端硬盘中管理文件。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thread, and it drafts…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Claude can now send emails in Gmail and manage files in Google Drive.",
-      "originalBody": "Claude can now send emails in Gmail and manage files in Google Drive.\n\nAsk Claude to reply to a thread, and it drafts and sends the response. You control when it needs your approval.\n\nConnect Gmail or Google Drive from the connectors menu to try. Available on all paid plans. https://t.co/cFZEjh3MgB",
-      "translatedTitle": "克劳德现在可以在 Gmail 中发送电子邮件，并在 Google 云端硬盘中管理文件。",
-      "translatedBody": "Claude 现在可以发送 Gmail 邮件并管理 Google 云端硬盘中的文件。\n\n您可以让 Claude 回复邮件，它会自动起草并发送回复。您可以控制何时需要您批准。\n\n从连接器菜单连接 Gmail 或 Google 云端硬盘即可试用。适用于所有付费套餐。https://t.co/cFZEjh3MgB",
+      "builder": "Madhu Guru",
+      "title": "如何才能做好评估工作——第三部分。",
+      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：The best way to get good at evals - Part 3. Let’s talk failure modes taxonomy - that’s the first thing you should bui…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "The best way to get good at evals - Part 3.",
+      "originalBody": "The best way to get good at evals - Part 3. \n\nLet’s talk failure modes taxonomy - that’s the first thing you should build once you have v1 of your evals.\n\nStart with your production traces - study the last 500 or 1,000 interactions and look at the failures. Cluster them and name the clusters.\n\nGet specific - “bad answer” isn’t a useful cluster name. \n\nSpecific failures - wrong document retrieved / right document but irrelevant section / failed to ground to context and hallucinated /  failed to punt on answer and instead made stuff up / question ambiguous  and made poor assumptions rather than asking clarifying questions etc.\n\nThose are very different problems.\n\nOnce you can name the failure precisely, you can build eval tests specifically designed to catch it.\n\nYou now have the bridge from evals to an improvement flywheel. More tomorrow…",
+      "translatedTitle": "如何才能做好评估工作——第三部分。",
+      "translatedBody": "提升评估能力的最佳方法 - 第三部分\n\n我们来谈谈故障模式分类——这是你完成评估第一版后应该做的第一件事。\n\n从生产环境的跟踪记录入手——研究最近 500 到 1000 次交互，找出故障。对故障进行聚类并命名。\n\n要具体——“错误的答案”并不是一个有效的聚类名称。\n\n具体的故障示例——例如：检索到错误的文档/检索到正确的文档但章节不相关/未能结合上下文进行推断/未能放弃答案而是编造内容/问题含糊不清，并做出错误的假设而不是提出澄清问题等等。\n\n这些都是截然不同的问题。\n\n一旦你能准确地命名故障，你就可以构建专门用于捕获故障的评估测试。\n\n现在，你已经搭建了从评估到改进循环的桥梁。明天继续……",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2089806039088517356",
-      "publishedAt": "2026-08-18T20:06:01.000Z",
-      "score": 147.3,
+      "sourceUrl": "https://x.com/realmadhuguru/status/2090242427944833047",
+      "publishedAt": "2026-08-20T01:00:04.000Z",
+      "score": 72.5,
       "engagement": {
-        "likes": 7255,
-        "retweets": 467,
-        "replies": 373
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2089798658225266806",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "我们一直在对 @aiDotEngineer 的 YouTube 视频缩略图进行大量的 A/B 测试。",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：we've been doing a lot of a/b testing of @aiDotEngineer youtube thumbnails. i always hated that it is such an opaque…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "we've been doing a lot of a/b testing of @aiDotEngineer youtube thumbnails.",
-      "originalBody": "we've been doing a lot of a/b testing of @aiDotEngineer  youtube thumbnails. i always hated that it is such an opaque process.\n\nopen sourcing/crowdsourcing our learnings today!\nhttps://t.co/J9SYClIF7z\n\ndoing this in hopes that people can share their experience or learn from ours. at the end of the day we just want to get good educational content to rise above the noise online. please lmk what you think",
-      "translatedTitle": "我们一直在对 @aiDotEngineer 的 YouTube 视频缩略图进行大量的 A/B 测试。",
-      "translatedBody": "我们一直在对 @aiDotEngineer 的 YouTube 视频缩略图进行大量的 A/B 测试。我一直很讨厌这个过程如此不透明。\n\n今天我们将开源/众包我们的学习成果！\n\nhttps://t.co/J9SYClIF7z\n\n这样做是希望大家能够分享自己的经验，或者从我们的经验中学习。归根结底，我们只是想制作出优质的教育内容，让它在网络信息洪流中脱颖而出。请告诉我你的想法。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2089798658225266806",
-      "publishedAt": "2026-08-18T19:36:41.000Z",
-      "score": 127.69,
-      "engagement": {
-        "likes": 143,
-        "retweets": 4,
-        "replies": 34
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2089921630650925170",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "正如我们在众多案例研究中所看到的，事实证明，价值的数量……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：As we’re seeing in case study after case study, it turns out that the amount of value that can be created between the…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "As we’re seeing in case study after case study, it turns out that the amount of val…",
-      "originalBody": "As we’re seeing in case study after case study, it turns out that the amount of value that can be created between the AI model and the ultimate end-user workflow is far larger than many people assumed or realized. \n\nModel capability is obviously doing a lot of heavy lifting in agentic products, but there’s still a lot more work to diffuse AI into the enterprise.\n\n1. Getting agents to work well (and alongside people) in mission critical workflows tends to need to be represented differently depending on the business process. Sometimes it’s a chat experience. Other times it’s a background agent running in a deterministic workflow. And dozens of other variants. This is a mix of needing a harness that’s tuned to specific domains of work, but also making it show up in the right product experience.\n\n2. Different workflows connect into entirely different enterprise systems and need access to very different data. Working with that data -whether it’s life sciences, financial, legal, etc.- requires contextual approaches, understanding of the data, having the right user experience for data interaction, and more.\n\n3. The need for domain-specific change management remains critical in most verticals. The way you talk and implement technology at a bank is very different from a law firm. Having the right talent with a singular mission ends up being extremely useful for something as complex as process reengineering.\n\n4. The ability to work with a variety of models means you can tune the workflows to different cost and performance levels. And you can eventually post train models for specific tasks to tailor the outcomes and eke out gains that aren’t coming otherwise in frontier models.\n\n5. Evals! AI is basically not useful if it can’t be evaluated. Domain-specific evals that let you dramatically improve the performance of your harness for specific workflows just has a crazy long tail given how many tasks there are in the economy. Nearly impossible for one system to be tuned for all of them.\n\n6. Lots of verticals and domains require pricing models that reflect relevant abstractions on top of tokens alone. The ability to price in ways that work for your industry’s consumption model ends up mattering in a variety of spaces. \n\nThis just touches on some of the things that go into the applied AI layer. But it all adds up to being a huge surface area for being able to sustainably innovate and differentiate.",
-      "translatedTitle": "正如我们在众多案例研究中所看到的，事实证明，价值的数量……",
-      "translatedBody": "正如我们在众多案例研究中所看到的，人工智能模型与最终用户工作流程之间所能创造的价值远超许多人的预期或认识。\n\n模型能力显然在智能体产品中发挥着重要作用，但要将人工智能推广到企业中，仍有许多工作要做。\n\n1. 让智能体在关键任务工作流程中高效运行（并与用户协同工作）往往需要根据业务流程的不同而有所区别。有时是聊天体验，有时是在确定性工作流程中运行的后台智能体，还有其他数十种变体。这既需要一个针对特定工作领域进行优化的框架，也需要确保它以合适的产品体验呈现。\n\n2. 不同的工作流程连接到完全不同的企业系统，需要访问截然不同的数据。处理这些数据——无论是生命科学、金融、法律等领域——都需要结合具体情况，理解数据，提供合适的用户体验，以及更多其他因素。\n\n3. 在大多数垂直行业，针对特定领域的变革管理仍然至关重要。银行的技术沟通和实施方式与律师事务所截然不同。拥有目标明确的优秀人才，对于流程重组这样复杂的工作来说至关重要。\n\n4. 能够使用各种模型意味着您可以根据不同的成本和性能水平调整工作流程。最终，您可以针对特定任务发布训练模型，从而定制结果，并获得前沿模型无法带来的收益。\n\n5. 评估！如果人工智能无法评估，它基本上就毫无用处。针对特定领域的评估能够显著提升特定工作流程的性能，但考虑到经济中任务的数量之多，这方面的评估工作量极其庞大。几乎不可能让一个系统针对所有任务进行优化。\n\n6. 许多垂直行业和领域需要基于代币之外的相关抽象概念来构建定价模型。能够根据行业消费模式制定合适的定价策略，在各个领域都至关重要。\n\n以上仅触及了应用人工智能层面的一些内容。但所有这些加起来，构成了一个巨大的领域，使我们能够持续创新并实现差异化。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2089921630650925170",
-      "publishedAt": "2026-08-19T03:45:20.000Z",
-      "score": 106.24,
-      "engagement": {
-        "likes": 182,
-        "retweets": 19,
-        "replies": 24
+        "likes": 62,
+        "retweets": 3,
+        "replies": 4
       },
       "matchedFocusAreas": [
-        "Coding Agents",
         "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2089891927659585918",
+      "id": "2090254727175115032",
       "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "你好！",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Hi! Recapping some changes we have rolled out over the last couple of weeks that have further reduced the risk associ…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Hi!",
-      "originalBody": "Hi!\n\nRecapping some changes we have rolled out over the last couple of weeks that have further reduced the risk associated to potentially destructive actions being performed by Codex during its work. \n\nA few weeks ago, we started investigating a small number of reports where GPT-5.6 in Codex took destructive actions outside what the user asked for. The most serious pattern we found was a command meant to clean up temporary work that could instead delete the user files. This should obviously not happen. \n\nHere’s what we found:\n- Codex sometimes creates temporary folders while working and cleans them up afterward. In rare cases, GPT-5.6 got that cleanup wrong. One pattern involved reusing a system environment variable like $HOME for temporary work. A malformed cleanup command could then point at the actual home directory instead of the temporary folder. \n- There were cases where the model tried to delete or overwrite a temporary path without checking what was already there.\n\nWe’ve added protections at several layers:\n- Codex is now explicitly instructed to check deletion targets before acting, create fresh temporary directories, avoid repurposing system environment variables, prefer recoverable actions, and stop when the scope is unclear.\n- We strengthened the execution checks that identify high-risk deletion commands and escalate them for review. If a command is rejected, the model is directed to take a safer approach.\n- We made Full access harder to enable accidentally, added clearer warnings, and further restricted especially risky permission combinations.\n- We updated Auto-review to better identify destructive actions.\n- We built targeted evaluations that replay the failures we observed. We’re also adding reinforcement-learning tasks and graders focused on these risks, and filtering destructive actions from training data.\n\nIn those replay evaluations, the changes substantially reduced the behavior while preserving Codex’s ability to complete normal coding work. \n\nTwo things to do on your end:\n- Keep the Codex app up to date. We are always improving safety, performance and many other things.\n- Use one of the sandbox modes: \"Ask for approval\" or \"Approve for me\". Only use Full access for environments you trust and can recover.\n\nThanks and happy Codexing out there!",
-      "translatedTitle": "你好！",
-      "translatedBody": "您好！\n\n回顾一下过去几周我们推出的一些变更，这些变更进一步降低了 Codex 在运行过程中执行潜在破坏性操作的风险。\n\n几周前，我们开始调查少量报告，这些报告指出 Codex 中的 GPT-5.6 执行了用户未授权的破坏性操作。我们发现的最严重的模式是，一个本应清理临时文件的命令却误删了用户文件。这显然是不应该发生的。\n\n以下是我们发现的情况：\n\n- Codex 有时会在运行过程中创建临时文件夹，并在之后进行清理。在极少数情况下，GPT-5.6 的清理操作出现了错误。一种模式是，它重用了类似 $HOME 的系统环境变量来存放临时文件。这样一来，错误的清理命令可能会指向实际的用户主目录，而不是临时文件夹。\n\n- 还有一些案例中，模型试图删除或覆盖临时路径，而没有检查该路径上已有的内容。\n\n我们已在多个层面增加了保护措施：\n\n- 现在，Codex 已被明确指示在执行删除操作前检查目标，创建新的临时目录，避免重新利用系统环境变量，优先执行可恢复的操作，并在范围不明确时停止操作。\n\n- 我们加强了执行检查，以识别高风险的删除命令并将其上报审核。如果命令被拒绝，模型将被引导采取更安全的方法。\n\n- 我们提高了意外启用“完全访问权限”的难度，添加了更清晰的警告，并进一步限制了风险较高的权限组合。\n\n- 我们更新了自动审核功能，以更好地识别破坏性操作。\n\n- 我们构建了针对性评估，用于重现我们观察到的失败行为。我们还添加了专注于这些风险的强化学习任务和评分器，并从训练数据中过滤掉破坏性操作。\n\n在这些重现评估中，这些更改显著减少了此类行为，同时保留了 Codex 完成正常编码工作的能力。\n\n您需要做的两件事：\n\n- 保持 Codex 应用更新。我们一直在改进安全性、性能以及其他诸多方面。 - 请使用沙盒模式之一：“请求批准”或“代我批准”。仅对您信任且可恢复的环境使用完全访问权限。\n\n感谢您的帮助，祝您 Codex 使用愉快！",
+      "builder": "Aditya Agarwal",
+      "title": "有人问这意味着什么。",
+      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Some have asked what this means. It’s simple: Work on things that truly matter. Not just good product or business ide…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Some have asked what this means.",
+      "originalBody": "Some have asked what this means.\n\nIt’s simple: Work on things that truly matter.\n\nNot just good product or business ideas.\n\nThings that matter. Make a dent in the universe. https://t.co/Oe5lhZdZRN",
+      "translatedTitle": "有人问这意味着什么。",
+      "translatedBody": "有人问这是什么意思。\n\n很简单：去做真正重要的事情。\n\n不仅仅是好的产品或商业创意。\n\n而是真正有意义的事情。去改变世界。https://t.co/Oe5lhZdZRN",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2089891927659585918",
-      "publishedAt": "2026-08-19T01:47:18.000Z",
-      "score": 96.04,
+      "sourceUrl": "https://x.com/adityaag/status/2090254727175115032",
+      "publishedAt": "2026-08-20T01:48:56.000Z",
+      "score": 71.05,
       "engagement": {
-        "likes": 4731,
-        "retweets": 196,
-        "replies": 857
+        "likes": 49,
+        "retweets": 0,
+        "replies": 3
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models"
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2090173536010957128",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "今天，我们将预览私人安全处理系统，该系统旨在让我们能够继续提供……",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Today we’re previewing Private Safety Processing, designed to let us keep offering Zero Data Retention while improvin…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Today we’re previewing Private Safety Processing, designed to let us keep offering…",
+      "originalBody": "Today we’re previewing Private Safety Processing, designed to let us keep offering Zero Data Retention while improving our safeguards. Even when benefiting from frontier intelligence, customers shouldn’t have to give up control of sensitive data.\n\nFor ZDR deployments, content stays on infrastructure the customer controls. Automated systems look for patterns across related interactions and return limited safety signals, without exposing the underlying prompts or responses to OpenAI employees (even me!).\n\nWe’re also developing an OpenAI-hosted option encrypted with customer-controlled keys. We’re testing this with early customers now and plan to begin rolling it out in September.",
+      "translatedTitle": "今天，我们将预览私人安全处理系统，该系统旨在让我们能够继续提供……",
+      "translatedBody": "今天，我们将预览“私有安全处理”功能，该功能旨在让我们在继续提供零数据保留 (ZDR) 服务的同时，提升安全防护水平。即使受益于前沿智能技术，客户也不应该放弃对敏感数据的控制权。\n\n对于 ZDR 部署，内容将保留在客户控制的基础设施上。自动化系统会查找相关交互中的模式，并返回有限的安全信号，而不会向 OpenAI 员工（包括我！）暴露底层提示或响应。\n\n我们还在开发一个由 OpenAI 托管、使用客户控制的密钥进行加密的选项。我们目前正在与早期客户进行测试，并计划于 9 月开始推广。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2090173536010957128",
+      "publishedAt": "2026-08-19T20:26:19.000Z",
+      "score": 66.27,
+      "engagement": {
+        "likes": 2091,
+        "retweets": 79,
+        "replies": 334
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2090278256306229675",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "在人工智能时代，人们常常会争论是应该成为专家还是通才。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：There tends to be a debate between being an expert or generalist in the era of AI. So far, the experts appear to have…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "There tends to be a debate between being an expert or generalist in the era of AI.",
+      "originalBody": "There tends to be a debate between being an expert or generalist in the era of AI. So far, the experts appear to have the upper hand, and that’s not slowing down.\n\nAI makes it 10X easier to get started with any kind of task. Coding, legal work, research, financial analysis, and so on. But having the right judgment for how to direct the agent onto the right work, how to veer it to course correct it, being able to review or test the output, and having the right sense of what “good” looks like all requires a high degree of skill depending on the field.\n\nThat skill can be developed far faster due to AI for anyone interested, which is amazing for uplifting anyone in their career. But there’s no replacement to needing judgment and many of the core skills that go into most domains of work. \n\nAnd if anything, AI will be a technology that exacerbates differences in skill levels because the experts have far more leverage than ever before. Net net: don’t give up on being an expert at something.",
+      "translatedTitle": "在人工智能时代，人们常常会争论是应该成为专家还是通才。",
+      "translatedBody": "在人工智能时代，专家和通才之间的争论一直存在。目前来看，专家似乎占据了上风，而且这种趋势仍在持续。\n\n人工智能让任何任务的入门都变得容易十倍，例如编程、法律工作、研究、财务分析等等。但是，如何正确判断如何引导人工智能完成正确的工作，如何纠正其错误方向，如何审查或测试输出结果，以及对“好”的标准有正确的认识，所有这些都需要高超的技能，具体技能水平取决于所处领域。\n\n对于任何有兴趣的人来说，人工智能都能极大地加快技能的培养速度，这对于提升个人职业发展大有裨益。但是，判断力以及大多数工作领域所需的许多核心技能是无法被取代的。\n\n而且，人工智能很可能会加剧技能水平的差距，因为专家比以往任何时候都拥有更大的话语权。总而言之：不要放弃成为某个领域的专家。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2090278256306229675",
+      "publishedAt": "2026-08-20T03:22:26.000Z",
+      "score": 55.9,
+      "engagement": {
+        "likes": 191,
+        "retweets": 13,
+        "replies": 33
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2090134946598039646",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "那些核心竞争力并非软件的公司，也需要一款可靠的、预先开发的软件……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：companies whose core competency is not software need software to be a reliable, predictable process but I think build…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "companies whose core competency is not software need software to be a reliable, pre…",
+      "originalBody": "companies whose core competency is not software need software to be a reliable, predictable process\n\nbut I think building net new software products will continue to be an unreliable and risky, but profitable business",
+      "translatedTitle": "那些核心竞争力并非软件的公司，也需要一款可靠的、预先开发的软件……",
+      "translatedBody": "那些核心竞争力并非软件的公司，需要软件流程可靠且可预测。\n\n但我认为，开发全新的软件产品仍然是一项不可靠且充满风险，但利润丰厚的业务。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2090134946598039646",
+      "publishedAt": "2026-08-19T17:52:58.000Z",
+      "score": 50.43,
+      "engagement": {
+        "likes": 114,
+        "retweets": 3,
+        "replies": 7
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-08-19T07:05:10.221Z",
-    "totalCandidates": 32,
-    "textQualifiedCandidates": 20,
+    "upstreamGeneratedAt": "2026-08-20T07:06:19.935Z",
+    "totalCandidates": 30,
+    "textQualifiedCandidates": 17,
     "selectedTweets": 8
   }
 }
