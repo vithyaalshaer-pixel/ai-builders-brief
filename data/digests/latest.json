@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-21",
-  "generatedAt": "2026-08-21T01:36:14.281Z",
+  "date": "2026-08-22",
+  "generatedAt": "2026-08-22T01:25:09.298Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-08-21",
-  "summary": "今天最值得看的是 Josh Woodward 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 30 条候选动态里，筛出 17 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-08-22",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 31 条候选动态里，筛出 16 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,26 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2090166806401228912",
+      "id": "2090470175674179695",
       "type": "tweet",
-      "builder": "Josh Woodward",
-      "title": "大学生的优惠活动又回来了！",
-      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：University student plans are back! We've gone global with this one. Over 140 countries will get higher limits, more s…",
+      "builder": "Guillermo Rauch",
+      "title": "Bun 追求简单、快捷、开放的理念与 Vercel 的价值观以及我们的思考方式完美契合……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Bun’s pursuit of simple, fast & open is the perfect match for Vercel and how we think about the world. Congrats @jarr…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "University student plans are back!",
-      "originalBody": "University student plans are back!\n\nWe've gone global with this one. Over 140 countries will get higher limits, more storage, and new features like our dedicated student hub. It also comes with Notebook, Flow, and more. Sign up today ⬇️ https://t.co/Af43OUufrd",
-      "translatedTitle": "大学生的优惠活动又回来了！",
-      "translatedBody": "大学生套餐回归啦！\n\n这次我们面向全球用户推出。超过 140 个国家/地区的用户将享受更高的流量限额、更大的存储空间以及全新功能，例如我们专属的学生中心。此外，套餐还包含 Notebook、Flow 等更多功能。立即注册 ⬇️ https://t.co/Af43OUufrd",
+      "originalTitle": "Bun’s pursuit of simple, fast & open is the perfect match for Vercel and how we thi…",
+      "originalBody": "Bun’s pursuit of simple, fast & open is the perfect match for Vercel and how we think about the world.\n\nCongrats @jarredsumner on shipping! https://t.co/cAJehCfYKN",
+      "translatedTitle": "Bun 追求简单、快捷、开放的理念与 Vercel 的价值观以及我们的思考方式完美契合……",
+      "translatedBody": "Bun 追求简洁、快速和开放的理念与 Vercel 以及我们对世界的思考方式完美契合。\n\n恭喜 @jarredsumner 的产品发布！https://t.co/cAJehCfYKN",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/joshwoodward/status/2090166806401228912",
-      "publishedAt": "2026-08-19T19:59:34.000Z",
-      "score": 163.01,
+      "sourceUrl": "https://x.com/rauchg/status/2090470175674179695",
+      "publishedAt": "2026-08-20T16:05:03.000Z",
+      "score": 157.41,
       "engagement": {
-        "likes": 1224,
-        "retweets": 91,
-        "replies": 42
+        "likes": 463,
+        "retweets": 10,
+        "replies": 12
       },
       "matchedFocusAreas": [
         "Product Ships"
@@ -50,53 +50,53 @@
       "sourceType": "x"
     },
     {
-      "id": "2090255740384751664",
+      "id": "2090550020496040266",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "https://t.co/OL0LzGtvAw 文件大小为 6.3mb。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：https://t.co/OL0LzGtvAw is 6.3mb. It starts up in 10µs¹. It's a Zig-compiled static ELF binary, or an even smaller 𝚕…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "https://t.co/OL0LzGtvAw is 6.3mb.",
-      "originalBody": "https://t.co/OL0LzGtvAw is 6.3mb. It starts up in 10µs¹. It's a Zig-compiled static ELF binary, or an even smaller 𝚕𝚒𝚋𝚏𝚡.𝚠𝚊𝚜𝚖² \n\nAI will make most infrastructure natively optimized. Case in point: fx can literally finish tasks faster than other agents can boot.\n\nFast is a one-way street.\n\n¹ that's microseconds\n² fun fact: the wasm build is actually *smaller*. A lot of binary weight comes from the TLS/HTTP stack. In WebAssembly, fx delegates 𝚏𝚎𝚝𝚌𝚑() to the JS runtime instead. You can try this on https://t.co/me7se5dvip",
-      "translatedTitle": "https://t.co/OL0LzGtvAw 文件大小为 6.3mb。",
-      "translatedBody": "https://t.co/OL0LzGtvAw 大小为 6.3MB，启动仅需 10µs¹。它是一个 Zig 编译的静态 ELF 二进制文件，或者更小的 𝚕𝚒𝚋𝚏𝚡.𝚠𝚊𝚜𝚖²。\n\n人工智能将使大多数基础设施实现原生优化。例如：fx 完成任务的速度甚至比其他代理启动的速度还要快。\n\n速度是一条单行道。\n\n¹ 单位是微秒。\n\n² 有趣的是：wasm 构建实际上更小。很多二进制文件的大小都来自 TLS/HTTP 协议栈。在 WebAssembly 中，fx 将 𝚏𝚎𝚝𝚌𝚑() 委托给 JS 运行时。您可以在 https://t.co/me7se5dvip 上尝试一下。",
+      "builder": "Swyx",
+      "title": "按总观看次数计算，Matt 现在是 @aidotengineer 历史上观看次数最多的演讲者，而且……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：by total views, matt’s now the top @aidotengineer speaker in our brief history, and arguably one of the best skills e…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "by total views, matt’s now the top @aidotengineer speaker in our brief history, and…",
+      "originalBody": "by total views, matt’s now the top @aidotengineer speaker in our brief history, and arguably one of the best skills experts in the world — his /grill-me has reached all echelons up to @satyanadella (with some variations…)\n\n/wayfinder is @mattpocockuk’s /grill-me for /grill-me, when you are just navigating the fog of war and don’t yet know what you dont yet know, and need to orchestrate research and other grill sessions to get there. super glad to have @ricmac help launch our new Skills coverage with his course launch this week!\n\n👇exclusive interview, quick read",
+      "translatedTitle": "按总观看次数计算，Matt 现在是 @aidotengineer 历史上观看次数最多的演讲者，而且……",
+      "translatedBody": "按总观看次数计算，Matt 现在是 @aidotengineer 历史上最热门的演讲者，而且可以说是世界上最优秀的技能专家之一——他的 /grill-me 内容已经传遍各个领域，甚至包括 @satyanadella（当然也有一些变体……）。\n\n/wayfinder 是 @mattpocockuk 为 /grill-me 打造的 /grill-me 内容，专为那些在迷雾中摸索、尚未意识到自身知识盲点，需要精心策划研究和其他问答环节才能找到答案的人而设计。非常高兴 @ricmac 本周推出他的课程，助力我们推出全新的技能报道！\n\n👇独家专访，快速阅读",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2090255740384751664",
-      "publishedAt": "2026-08-20T01:52:58.000Z",
-      "score": 159.37,
+      "sourceUrl": "https://x.com/swyx/status/2090550020496040266",
+      "publishedAt": "2026-08-20T21:22:20.000Z",
+      "score": 149.88,
       "engagement": {
-        "likes": 537,
-        "retweets": 37,
-        "replies": 54
+        "likes": 87,
+        "retweets": 7,
+        "replies": 11
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2090314794456785263",
+      "id": "2090577677916807429",
       "type": "tweet",
       "builder": "Swyx",
-      "title": "哈哈哈哈哈哈，不懂技术的人真是太菜了，简直被烤焦了……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：HAHAHAHAHAHA non technical people are so incredibly cooked they are burnt thru can u imagine covering ai with zero co…",
+      "title": "很自豪我和 @vibhuuuus 以及 @eisokant 一起录制了最新一期播客，讨论了为什么 NVIDIA 如此……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：proud that @vibhuuuus and i did the most recent pod with @eisokant on why NVIDIA just paid him $6B to buy the incredi…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "HAHAHAHAHAHA non technical people are so incredibly cooked they are burnt thru can…",
-      "originalBody": "HAHAHAHAHAHA\n\nnon technical people are so incredibly cooked they are burnt thru\n\ncan u imagine covering ai with zero context, zero reasoning, zero internal world model. it must be so delightfully joyful, everything is so amazing, face value is all you need,\n\nwhat a time to be alive",
-      "translatedTitle": "哈哈哈哈哈哈，不懂技术的人真是太菜了，简直被烤焦了……",
-      "translatedBody": "哈哈哈哈哈哈\n\n非技术人员真是被搞得焦头烂额，完全懵了。\n\n你能想象吗？完全不了解背景、不理解逻辑、不了解内部世界模型的人居然去研究人工智能。那一定无比快乐，一切都那么美好，表面现象就足够了。\n\n真是个好时代啊！",
+      "originalTitle": "proud that @vibhuuuus and i did the most recent pod with @eisokant on why NVIDIA ju…",
+      "originalBody": "proud that @vibhuuuus and i did the most recent pod with @eisokant on why NVIDIA just paid him $6B to buy the incredible model factory that is pumping out Thinky-beating models (actually not exaggeration, look at the numbers)\n\ntune in / subscribe / whatever https://t.co/EsgyFnhAIy \n\nonly on @latentspacepod",
+      "translatedTitle": "很自豪我和 @vibhuuuus 以及 @eisokant 一起录制了最新一期播客，讨论了为什么 NVIDIA 如此……",
+      "translatedBody": "我很自豪地宣布，我和 @vibhuuuus 一起录制了最新一期播客，嘉宾是 @eisokant，内容是关于 NVIDIA 为何斥资 60 亿美元收购他那家令人惊叹的模型工厂，这家工厂生产的模型性能远超 Thinky（真的一点都不夸张，看看数据就知道了）。\n\n收听/订阅/随便什么都行 https://t.co/EsgyFnhAIy\n\n仅在 @latentspacepod 播出",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2090314794456785263",
-      "publishedAt": "2026-08-20T05:47:37.000Z",
-      "score": 155.92,
+      "sourceUrl": "https://x.com/swyx/status/2090577677916807429",
+      "publishedAt": "2026-08-20T23:12:14.000Z",
+      "score": 148.95,
       "engagement": {
-        "likes": 128,
-        "retweets": 5,
-        "replies": 20
+        "likes": 60,
+        "retweets": 7,
+        "replies": 16
       },
       "matchedFocusAreas": [
         "Foundation Models"
@@ -104,54 +104,84 @@
       "sourceType": "x"
     },
     {
-      "id": "2090242427944833047",
+      "id": "2090589731927282021",
       "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "如何才能做好评估工作——第三部分。",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：The best way to get good at evals - Part 3. Let’s talk failure modes taxonomy - that’s the first thing you should bui…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "The best way to get good at evals - Part 3.",
-      "originalBody": "The best way to get good at evals - Part 3. \n\nLet’s talk failure modes taxonomy - that’s the first thing you should build once you have v1 of your evals.\n\nStart with your production traces - study the last 500 or 1,000 interactions and look at the failures. Cluster them and name the clusters.\n\nGet specific - “bad answer” isn’t a useful cluster name. \n\nSpecific failures - wrong document retrieved / right document but irrelevant section / failed to ground to context and hallucinated /  failed to punt on answer and instead made stuff up / question ambiguous  and made poor assumptions rather than asking clarifying questions etc.\n\nThose are very different problems.\n\nOnce you can name the failure precisely, you can build eval tests specifically designed to catch it.\n\nYou now have the bridge from evals to an improvement flywheel. More tomorrow…",
-      "translatedTitle": "如何才能做好评估工作——第三部分。",
-      "translatedBody": "提升评估能力的最佳方法 - 第三部分\n\n我们来谈谈故障模式分类——这是你完成评估第一版后应该做的第一件事。\n\n从生产环境的跟踪记录入手——研究最近 500 到 1000 次交互，找出故障。对故障进行聚类并命名。\n\n要具体——“错误的答案”并不是一个有效的聚类名称。\n\n具体的故障示例——例如：检索到错误的文档/检索到正确的文档但章节不相关/未能结合上下文进行推断/未能放弃答案而是编造内容/问题含糊不清，并做出错误的假设而不是提出澄清问题等等。\n\n这些都是截然不同的问题。\n\n一旦你能准确地命名故障，你就可以构建专门用于捕获故障的评估测试。\n\n现在，你已经搭建了从评估到改进循环的桥梁。明天继续……",
+      "builder": "Peter Yang",
+      "title": "我正在回温哥华和妈妈团聚的路上，但想抽出一点时间……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：I'm on my way back to Vancouver to be with my mom but wanted to take a moment to celebrate crossing 100K subs on YouT…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "I'm on my way back to Vancouver to be with my mom but wanted to take a moment to ce…",
+      "originalBody": "I'm on my way back to Vancouver to be with my mom but wanted to take a moment to celebrate crossing 100K subs on YouTube.\n\nExcited to share a lot more practical interviews soon to answer your most burning AI questions:\n\n1. @HamelHusain and @sh_reya (AI evals experts) on how today's AI models have changed evals completely\n\n2. @amoljain_ (Head of Product Engineering at Replit) on which vibe-coded apps have actually become real businesses\n\n3. @ebloch (Product Lead at OpenAI) on how ChatGPT Finance can help you save both time and money\n\n4. @poteto and Roman (SpaceXAI) on how the Grok Bot team uses Grok @bot\n\n📌 Subscribe to get the episodes soon:\nhttps://t.co/NSTj7ijxE0",
+      "translatedTitle": "我正在回温哥华和妈妈团聚的路上，但想抽出一点时间……",
+      "translatedBody": "我正在回温哥华和妈妈团聚的路上，但想先庆祝一下我的 YouTube 频道订阅人数突破 10 万啦！\n\n很快就会分享更多实用访谈，解答大家最关心的 AI 问题：\n\n1. @HamelHusain 和 @sh_reya（AI 评估专家）将探讨如今的 AI 模型如何彻底改变了评估方式\n\n2. @amoljain_（Replit 产品工程主管）将分享哪些基于 Vibe Code 的应用程序已经成功转型为真正的商业项目\n\n3. @ebloch（OpenAI 产品负责人）将分享 ChatGPT Finance 如何帮助您节省时间和金钱\n\n4. @poteto 和 Roman（SpaceXAI）将分享 Grok Bot 团队如何使用 Grok Bot\n\n📌 订阅即可第一时间收听最新节目：\n\nhttps://t.co/NSTj7ijxE0",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2090242427944833047",
-      "publishedAt": "2026-08-20T01:00:04.000Z",
-      "score": 72.5,
+      "sourceUrl": "https://x.com/petergyang/status/2090589731927282021",
+      "publishedAt": "2026-08-21T00:00:08.000Z",
+      "score": 105.66,
       "engagement": {
-        "likes": 62,
-        "retweets": 3,
-        "replies": 4
+        "likes": 265,
+        "retweets": 6,
+        "replies": 54
       },
       "matchedFocusAreas": [
+        "Coding Agents",
         "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2090254727175115032",
+      "id": "2090595384905113939",
       "type": "tweet",
-      "builder": "Aditya Agarwal",
-      "title": "有人问这意味着什么。",
-      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Some have asked what this means. It’s simple: Work on things that truly matter. Not just good product or business ide…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Some have asked what this means.",
-      "originalBody": "Some have asked what this means.\n\nIt’s simple: Work on things that truly matter.\n\nNot just good product or business ideas.\n\nThings that matter. Make a dent in the universe. https://t.co/Oe5lhZdZRN",
-      "translatedTitle": "有人问这意味着什么。",
-      "translatedBody": "有人问这是什么意思。\n\n很简单：去做真正重要的事情。\n\n不仅仅是好的产品或商业创意。\n\n而是真正有意义的事情。去改变世界。https://t.co/Oe5lhZdZRN",
+      "builder": "Madhu Guru",
+      "title": "如何构建优秀的评估体系 - 第 4 部分 企业在构建评估体系方面举步维艰的原因……",
+      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：How to build great evals - part 4 The reason enterprises struggle with building decent AI systems is the lack of an e…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "How to build great evals - part 4 The reason enterprises struggle with building dec…",
+      "originalBody": "How to build great evals - part 4\n\nThe reason enterprises struggle with building decent AI systems is the lack of an eval strategy.\n\nYou need a laddered eval strategy, for your unique use cases,\nwith multiple evals on the cost/realism spectrum.\n\nHere are the key kinds of evals you need:\n\nHill-climb long evals : this pushes the frontier of your product and you need to continually refresh this to improve quality and expand your feature base.\n\nRegression evals : Did we break the product of today while hill climbing?\n\nSmoke test evals: safety and the absolute basics that just can’t go wrong. Not necessarily hard questions, but important to not get wrong. Eg product identity.\n\nLaunch evals: often close to an online test with real-ish traffic. Less control, but the most realistic.\n\nMore in tomorrow’s post! \n\nShare with your teammates who will benefit!",
+      "translatedTitle": "如何构建优秀的评估体系 - 第 4 部分 企业在构建评估体系方面举步维艰的原因……",
+      "translatedBody": "如何构建优秀的评估流程 - 第四部分\n\n企业难以构建完善的人工智能系统的原因在于缺乏评估策略。\n\n你需要一个阶梯式的评估策略，针对你独特的用例，\n\n并根据成本和实际应用程度进行多轮评估。\n\n以下是你需要的关键评估类型：\n\n爬山式长期评估：这种评估会不断拓展产品的功能边界，你需要持续更新评估流程以提升质量并扩展功能。\n\n回归测试评估：在爬山测试过程中，我们是否破坏了当前的产品？\n\n冒烟测试评估：确保安全性和绝对不会出错的基本功能。这类测试的问题不一定很难，但至关重要，例如产品定位。\n\n发布评估：通常类似于使用真实流量的在线测试。虽然控制性较差，但却是最贴近实际应用的评估方式。\n\n更多内容，敬请期待明天的文章！\n\n分享给你的团队成员，让他们也能从中受益！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/adityaag/status/2090254727175115032",
-      "publishedAt": "2026-08-20T01:48:56.000Z",
-      "score": 71.05,
+      "sourceUrl": "https://x.com/realmadhuguru/status/2090595384905113939",
+      "publishedAt": "2026-08-21T00:22:35.000Z",
+      "score": 101.53,
       "engagement": {
-        "likes": 49,
-        "retweets": 0,
-        "replies": 3
+        "likes": 137,
+        "retweets": 7,
+        "replies": 7
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2090569474139439335",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "我们正在为使用您基础设施的企业推出全新的 Fable 安全防护措施……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：we're launching new Fable safeguards for enterprises that work on your infrastructure so you have control over where…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "we're launching new Fable safeguards for enterprises that work on your infrastructu…",
+      "originalBody": "we're launching new Fable safeguards for enterprises that work on your infrastructure so you have control over where your data lives & who has access to it\n\nwe've been developing it alongside ~100 companies for a bit and hoping to roll it out more broadly in the fall https://t.co/ZJF2q8NKcC",
+      "translatedTitle": "我们正在为使用您基础设施的企业推出全新的 Fable 安全防护措施……",
+      "translatedBody": "我们即将推出面向企业的全新 Fable 安全防护方案，该方案基于您的基础设施，让您可以掌控数据存储位置以及访问权限。\n\n我们已与约 100 家公司合作开发了一段时间，并希望在秋季更广泛地推广该方案。https://t.co/ZJF2q8NKcC",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2090569474139439335",
+      "publishedAt": "2026-08-20T22:39:38.000Z",
+      "score": 83.75,
+      "engagement": {
+        "likes": 543,
+        "retweets": 15,
+        "replies": 50
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -160,91 +190,65 @@
       "sourceType": "x"
     },
     {
-      "id": "2090173536010957128",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "今天，我们将预览私人安全处理系统，该系统旨在让我们能够继续提供……",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Today we’re previewing Private Safety Processing, designed to let us keep offering Zero Data Retention while improvin…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Today we’re previewing Private Safety Processing, designed to let us keep offering…",
-      "originalBody": "Today we’re previewing Private Safety Processing, designed to let us keep offering Zero Data Retention while improving our safeguards. Even when benefiting from frontier intelligence, customers shouldn’t have to give up control of sensitive data.\n\nFor ZDR deployments, content stays on infrastructure the customer controls. Automated systems look for patterns across related interactions and return limited safety signals, without exposing the underlying prompts or responses to OpenAI employees (even me!).\n\nWe’re also developing an OpenAI-hosted option encrypted with customer-controlled keys. We’re testing this with early customers now and plan to begin rolling it out in September.",
-      "translatedTitle": "今天，我们将预览私人安全处理系统，该系统旨在让我们能够继续提供……",
-      "translatedBody": "今天，我们将预览“私有安全处理”功能，该功能旨在让我们在继续提供零数据保留 (ZDR) 服务的同时，提升安全防护水平。即使受益于前沿智能技术，客户也不应该放弃对敏感数据的控制权。\n\n对于 ZDR 部署，内容将保留在客户控制的基础设施上。自动化系统会查找相关交互中的模式，并返回有限的安全信号，而不会向 OpenAI 员工（包括我！）暴露底层提示或响应。\n\n我们还在开发一个由 OpenAI 托管、使用客户控制的密钥进行加密的选项。我们目前正在与早期客户进行测试，并计划于 9 月开始推广。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2090173536010957128",
-      "publishedAt": "2026-08-19T20:26:19.000Z",
-      "score": 66.27,
-      "engagement": {
-        "likes": 2091,
-        "retweets": 79,
-        "replies": 334
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2090278256306229675",
+      "id": "2090664811185205722",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "在人工智能时代，人们常常会争论是应该成为专家还是通才。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：There tends to be a debate between being an expert or generalist in the era of AI. So far, the experts appear to have…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "There tends to be a debate between being an expert or generalist in the era of AI.",
-      "originalBody": "There tends to be a debate between being an expert or generalist in the era of AI. So far, the experts appear to have the upper hand, and that’s not slowing down.\n\nAI makes it 10X easier to get started with any kind of task. Coding, legal work, research, financial analysis, and so on. But having the right judgment for how to direct the agent onto the right work, how to veer it to course correct it, being able to review or test the output, and having the right sense of what “good” looks like all requires a high degree of skill depending on the field.\n\nThat skill can be developed far faster due to AI for anyone interested, which is amazing for uplifting anyone in their career. But there’s no replacement to needing judgment and many of the core skills that go into most domains of work. \n\nAnd if anything, AI will be a technology that exacerbates differences in skill levels because the experts have far more leverage than ever before. Net net: don’t give up on being an expert at something.",
-      "translatedTitle": "在人工智能时代，人们常常会争论是应该成为专家还是通才。",
-      "translatedBody": "在人工智能时代，专家和通才之间的争论一直存在。目前来看，专家似乎占据了上风，而且这种趋势仍在持续。\n\n人工智能让任何任务的入门都变得容易十倍，例如编程、法律工作、研究、财务分析等等。但是，如何正确判断如何引导人工智能完成正确的工作，如何纠正其错误方向，如何审查或测试输出结果，以及对“好”的标准有正确的认识，所有这些都需要高超的技能，具体技能水平取决于所处领域。\n\n对于任何有兴趣的人来说，人工智能都能极大地加快技能的培养速度，这对于提升个人职业发展大有裨益。但是，判断力以及大多数工作领域所需的许多核心技能是无法被取代的。\n\n而且，人工智能很可能会加剧技能水平的差距，因为专家比以往任何时候都拥有更大的话语权。总而言之：不要放弃成为某个领域的专家。",
+      "title": "这篇文章很棒，它探讨了应用人工智能用例中后训练是如何进行的，以及如何降低成本……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Great post on what post training looks like for applied AI use-cases to bring down costs and improve accuracy on cert…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Great post on what post training looks like for applied AI use-cases to bring down…",
+      "originalBody": "Great post on what post training looks like for applied AI use-cases to bring down costs and improve accuracy on certain tasks. This will increasingly be an approach that companies that can get closer to the underlying workflow in an enterprise will take.\n\nThe key is that once you understand a domain well enough and have enough volume on a set of similar tasks, it can start to make sense to purpose design models just for that work.\n\n“In post-training, we incentivized efficient tool use and reasoning through reward shaping, preferring trajectories that would reduce tokens consumed at inference-time given equivalent performance. This allowed us to co-optimize for both cost and quality, gaining significant performance while keeping cost stable.”\n\nNow, this won’t make sense in every domain, as general purpose frontier closed or open models will be good enough out of the box -or necessary- for the work at hand. But once you have deep enough vertical expertise, and either the costs are too high to do at scale *or* you have a unique enough task type not being trained on otherwise, this will make a ton of sense. \n\nVery compelling value proposition for being an applied AI company, and awesome to see multiple paths to winning in the market right now.",
+      "translatedTitle": "这篇文章很棒，它探讨了应用人工智能用例中后训练是如何进行的，以及如何降低成本……",
+      "translatedBody": "这篇文章精彩地阐述了在应用型人工智能用例中，后训练如何降低成本并提高特定任务的准确率。对于那些能够深入了解企业底层工作流程的公司来说，这种方法将日益普及。\n\n关键在于，一旦你对某个领域足够了解，并且拥有足够多的类似任务数据，那么专门针对该任务设计模型就变得有意义了。\n\n“在后训练阶段，我们通过奖励机制激励高效的工具使用和推理，优先选择在同等性能下减少推理时消耗的令牌的路径。这使我们能够同时优化成本和质量，在保持成本稳定的同时显著提升性能。”\n\n当然，这种方法并非适用于所有领域，因为通用的前沿封闭或开放模型可能已经足够好用，甚至对于当前工作来说是必要的。但是，一旦你拥有足够深厚的垂直领域专业知识，并且要么大规模实施的成本过高，要么你遇到的任务类型足够独特，目前还没有其他模型进行过训练，那么这种方法就非常有意义了。\n\n对于一家应用人工智能公司而言，这极具吸引力的价值主张，而且很高兴看到目前市场上有多种制胜途径。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2090278256306229675",
-      "publishedAt": "2026-08-20T03:22:26.000Z",
-      "score": 55.9,
+      "sourceUrl": "https://x.com/levie/status/2090664811185205722",
+      "publishedAt": "2026-08-21T04:58:28.000Z",
+      "score": 76.19,
       "engagement": {
-        "likes": 191,
-        "retweets": 13,
-        "replies": 33
+        "likes": 57,
+        "retweets": 5,
+        "replies": 6
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2090134946598039646",
+      "id": "2090537902912815536",
       "type": "tweet",
-      "builder": "Thariq",
-      "title": "那些核心竞争力并非软件的公司，也需要一款可靠的、预先开发的软件……",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：companies whose core competency is not software need software to be a reliable, predictable process but I think build…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "companies whose core competency is not software need software to be a reliable, pre…",
-      "originalBody": "companies whose core competency is not software need software to be a reliable, predictable process\n\nbut I think building net new software products will continue to be an unreliable and risky, but profitable business",
-      "translatedTitle": "那些核心竞争力并非软件的公司，也需要一款可靠的、预先开发的软件……",
-      "translatedBody": "那些核心竞争力并非软件的公司，需要软件流程可靠且可预测。\n\n但我认为，开发全新的软件产品仍然是一项不可靠且充满风险，但利润丰厚的业务。",
+      "builder": "Boris Cherny",
+      "title": "我们已经和客户一起研究这个问题一段时间了。",
+      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：We've been working on this with customers for a while. Mythos-class models require additional safety measures and ent…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "We've been working on this with customers for a while.",
+      "originalBody": "We've been working on this with customers for a while. Mythos-class models require additional safety measures and enterprises need to meet their own privacy and compliance rules. Customers can own and control their own data and Anthropic retains none. It’s coming this fall. https://t.co/vH8CMhxhdB",
+      "translatedTitle": "我们已经和客户一起研究这个问题一段时间了。",
+      "translatedBody": "我们与客户就此合作已有一段时间。Mythos 级模型需要额外的安全措施，企业也需要满足自身的隐私和合规要求。客户可以拥有并控制自己的数据，Anthropic 不会保留任何数据。该功能将于今年秋季推出。https://t.co/vH8CMhxhdB",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2090134946598039646",
-      "publishedAt": "2026-08-19T17:52:58.000Z",
-      "score": 50.43,
+      "sourceUrl": "https://x.com/bcherny/status/2090537902912815536",
+      "publishedAt": "2026-08-20T20:34:11.000Z",
+      "score": 64.8,
       "engagement": {
-        "likes": 114,
-        "retweets": 3,
-        "replies": 7
+        "likes": 1671,
+        "retweets": 95,
+        "replies": 140
       },
       "matchedFocusAreas": [
-        "Product Ships"
+        "Foundation Models"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-08-20T07:06:19.935Z",
-    "totalCandidates": 30,
-    "textQualifiedCandidates": 17,
+    "upstreamGeneratedAt": "2026-08-21T07:07:46.815Z",
+    "totalCandidates": 31,
+    "textQualifiedCandidates": 16,
     "selectedTweets": 8
   }
 }
