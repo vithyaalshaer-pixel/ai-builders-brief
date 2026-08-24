@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-23",
-  "generatedAt": "2026-08-23T01:39:08.628Z",
+  "date": "2026-08-24",
+  "generatedAt": "2026-08-24T01:37:33.438Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-08-23",
-  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 34 条候选动态里，筛出 16 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-08-24",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 19 条候选动态里，筛出 10 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,54 +23,135 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2090852316328902930",
+      "id": "2091338152791474331",
       "type": "tweet",
-      "builder": "Claude",
-      "title": "Point Claude Security 在 GitHub 代码库中运行，Mythos 扫描漏洞以进行追踪……",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Point Claude Security at a GitHub repo and Mythos scans for vulnerabilities tracing data across files and reasoning a…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Point Claude Security at a GitHub repo and Mythos scans for vulnerabilities tracing…",
-      "originalBody": "Point Claude Security at a GitHub repo and Mythos scans for vulnerabilities tracing data across files and reasoning about how components interact. Each finding comes back with a CWE category, confidence and severity ratings, and a suggested fix.",
-      "translatedTitle": "Point Claude Security 在 GitHub 代码库中运行，Mythos 扫描漏洞以进行追踪……",
-      "translatedBody": "Point Claude Security 连接到 GitHub 代码库，Mythos 会扫描漏洞，追踪跨文件的数据并分析组件之间的交互方式。每个发现的漏洞都会返回一个 CWE 类别、置信度和严重性评级，以及一个建议的修复方案。",
+      "builder": "Guillermo Rauch",
+      "title": "人工智能可以做很多奇妙的事情，实现很多愿望，但我们只有一个地球……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：AI can do many wonderful things and grant many wishes, but we have only one earth, one California, one Patagonia, one…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "AI can do many wonderful things and grant many wishes, but we have only one earth,…",
+      "originalBody": "AI can do many wonderful things and grant many wishes, but we have only one earth, one California, one Patagonia, one Mendoza. USA and Argentina are two of the freest countries that also happen to have the most glorious land and geography. I'm very long 🇺🇸🇦🇷. We're so early.",
+      "translatedTitle": "人工智能可以做很多奇妙的事情，实现很多愿望，但我们只有一个地球……",
+      "translatedBody": "人工智能可以做很多奇妙的事情，实现很多愿望，但我们只有一个地球，只有一个加利福尼亚，只有一个巴塔哥尼亚，只有一个门多萨。美国和阿根廷是世界上最自由的两个国家，它们也恰好拥有最壮丽的土地和地理环境。我非常支持美国🇺🇸🇦🇷。我们还处于早期阶段。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2090852316328902930",
-      "publishedAt": "2026-08-21T17:23:33.000Z",
-      "score": 182.11,
+      "sourceUrl": "https://x.com/rauchg/status/2091338152791474331",
+      "publishedAt": "2026-08-23T01:34:05.000Z",
+      "score": 135.07,
       "engagement": {
-        "likes": 417,
-        "retweets": 19,
-        "replies": 12
+        "likes": 735,
+        "retweets": 30,
+        "replies": 27
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2091359223368315050",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "人工智能的普及速度远比大多数人意识到的更受良好评估机制的限制。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for ever…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "AI diffusion is far more rate limited by having good evals than most realize.",
+      "originalBody": "AI diffusion is far more rate limited by having good evals than most realize. The kind of evals that you see for every model release are incredibly helpful, but only tell you the shape of general AI progress and the relative capability level of models.\n\nThe far bigger space over time are evals on all the major workflows that enterprises do, down to the specifics of an individual company. \n\nThis will be a huge space over time because you can’t automate what you can’t assess the progress on. Enterprises will not be able to go just on vibes.",
+      "translatedTitle": "人工智能的普及速度远比大多数人意识到的更受良好评估机制的限制。",
+      "translatedBody": "人工智能的普及速度远比大多数人意识到的更受有效评估机制的限制。虽然每次模型发布都会有评估报告，这些报告固然非常有用，但它们只能反映人工智能整体发展趋势以及模型的相对能力水平。\n\n随着时间的推移，更广阔的评估空间在于对企业所有主要工作流程（细化到单个公司的具体情况）的评估。\n\n这方面的评估空间将非常巨大，因为无法评估进展就无法实现自动化。企业不能再仅仅依靠直觉行事了。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2091359223368315050",
+      "publishedAt": "2026-08-23T02:57:49.000Z",
+      "score": 103.96,
+      "engagement": {
+        "likes": 138,
+        "retweets": 12,
+        "replies": 25
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models"
+        "Foundation Models",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2090852320128938319",
+      "id": "2091278653435072523",
       "type": "tweet",
-      "builder": "Claude",
-      "title": "这是让更多防御者具备前沿作战能力的几个步骤之一：我们正在努力……",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：It's one of several steps to bring frontier capability to more defenders: we’re working with partners to integrate My…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "It's one of several steps to bring frontier capability to more defenders: we’re wor…",
-      "originalBody": "It's one of several steps to bring frontier capability to more defenders: we’re working with partners to integrate Mythos 5 into their security products and services, our new Defender Advantage Fund provides $35M in credits for open-source security, and we’re expanding our Cyber Verification Program in the coming weeks. Read more: https://t.co/xgu4d9yrwm",
-      "translatedTitle": "这是让更多防御者具备前沿作战能力的几个步骤之一：我们正在努力……",
-      "translatedBody": "这是我们为更多安全卫士提供前沿安全能力而采取的几项举措之一：我们正与合作伙伴携手，将 Mythos 5 集成到他们的安全产品和服务中；我们新设立的“安全卫士优势基金”将提供 3500 万美元的开源安全支持；此外，我们还将在未来几周内扩展我们的网络验证计划。了解更多：https://t.co/xgu4d9yrwm",
+      "builder": "Madhu Guru",
+      "title": "如何构建优秀的评估模型 - 第 6 部分 评估模型中的爬山算法其实就是……",
+      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：How to build great evals - part 6 Hill climbing on evals is just a fancy way of saying: pick a dimension that matters…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "How to build great evals - part 6 Hill climbing on evals is just a fancy way of say…",
+      "originalBody": "How to build great evals - part 6\n\nHill climbing on evals is just a fancy way of saying: pick a dimension that matters and optimize for it.\n\nThis could be improving the quality of existing features based on your latest production data on high value user journeys, expanding to adjacent use cases, lowering cost or latency.\n\nThe actual work boils down to better harnesses and model selection through methods like prompt eng, context eng, memory, post training, deterministic old school code etc.\n\nYour failure mode taxonomy (from part 3) is a good compass for where your product struggles and needs some love.\n\nE.g. maybe tool calling failures are your most common problem. You dig in and notice you stuff 20 tools in context, when each task really only needs 3-5. hill climbing here involves context eng to give it the right tools at the right stage and iterate until you get it to good.\n\nOr take the cost reduction goal..\nI’ve written about how I advise launching your product with the best model first. Get the quality as high as you can. Once you know users love the experience, hill climb to get similar quality with a smaller, cheaper, faster model. Same methods - harness, models.\n\nThe important thing is to have evals that tell you whether you are actually moving in the right direction.\n\nMore tomorrow. \n\nSend this to your teammates!\n\nDrop your questions in the comments and I will answer in future posts.",
+      "translatedTitle": "如何构建优秀的评估模型 - 第 6 部分 评估模型中的爬山算法其实就是……",
+      "translatedBody": "如何构建优秀的评估——第六部分\n\n评估中的“爬山法”其实就是：选择一个重要的维度并针对它进行优化。\n\n这可能包括：基于最新的高价值用户旅程的生产数据来改进现有功能的质量；扩展到相邻的用例；降低成本或延迟。\n\n实际工作归根结底在于通过诸如提示工程、上下文工程、内存优化、训练后优化、确定性传统代码等方法来更好地利用资源和选择模型。\n\n您在第三部分中提到的故障模式分类法可以很好地帮助您找到产品存在的问题以及需要改进的地方。\n\n例如，工具调用失败可能是您最常见的问题。您深入研究后发现，您在上下文中塞入了 20 个工具，而每个任务实际上只需要 3-5 个。这里的“爬山法”需要运用上下文工程，在正确的阶段提供正确的工具，并不断迭代直到达到理想状态。\n\n或者以降低成本为目标……\n\n我曾撰文建议，应该首先使用最佳模型发布产品。尽可能提升产品质量。一旦确定用户喜欢这种体验，就可以逐步改进，用更小巧、更便宜、更快的型号实现类似的质量。方法相同——测试框架、模型。\n\n重要的是要有评估数据，告诉你是否真的在朝着正确的方向前进。\n\n明天见。\n\n转发给你的队友！\n\n在评论区留下你的问题，我会在以后的文章中解答。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2090852320128938319",
-      "publishedAt": "2026-08-21T17:23:33.000Z",
-      "score": 178.19,
+      "sourceUrl": "https://x.com/realmadhuguru/status/2091278653435072523",
+      "publishedAt": "2026-08-22T21:37:39.000Z",
+      "score": 76.96,
       "engagement": {
-        "likes": 212,
-        "retweets": 3,
-        "replies": 3
+        "likes": 143,
+        "retweets": 8,
+        "replies": 11
+      },
+      "matchedFocusAreas": [
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2091407991736332689",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "关于食品法典中速率限制的最新信息。",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Update on rate limits in Codex. We’ve found (a) some inefficiencies when using images in long sessions with multiple…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Update on rate limits in Codex.",
+      "originalBody": "Update on rate limits in Codex. \n\nWe’ve found (a) some inefficiencies when using images in long sessions with multiple compactions (b) high p95+ usage for Computer History (c) a feature that was meant to generate conversation titles that was draining a bit more usage than intended. And we have a tiger team combing through everything and shipping fixes tomorrow. We also found a novel approach to drive efficiency up significantly that is completely unrelated and we will be working on next week.\n\nAs part of some of the fixes tomorrow, we will also do a full reset of the usage for all paid subscriptions.\n\nSee you then.",
+      "translatedTitle": "关于食品法典中速率限制的最新信息。",
+      "translatedBody": "Codex 速率限制更新。\n\n我们发现：(a) 在长时间会话中使用图片并进行多次压缩时，效率会降低；(b) “计算机历史记录”的 p95+ 使用率较高；(c) 一个旨在生成对话标题的功能消耗的资源略高于预期。我们已安排专人仔细排查所有问题，并将于明日发布修复程序。此外，我们还发现了一种与上述问题完全无关的、能够显著提升效率的新方法，我们将在下周着手研究。\n\n作为明日修复工作的一部分，我们还将对所有付费订阅的资源使用情况进行全面重置。\n\n明天见。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2091407991736332689",
+      "publishedAt": "2026-08-23T06:11:36.000Z",
+      "score": 69.13,
+      "engagement": {
+        "likes": 1382,
+        "retweets": 113,
+        "replies": 248
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2091187611507499321",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "看来现在可以通过以下方式删除外部数据（例如我的 36 条 Gmail 记录）……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Looks like you can now delete external data (like my 36 Gmail records) if you go to https://t.co/iZVklVswyI and scrol…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Looks like you can now delete external data (like my 36 Gmail records) if you go to…",
+      "originalBody": "Looks like you can now delete external data (like my 36 Gmail records) if you go to https://t.co/iZVklVswyI and scroll down to Data Privacy.\n\nKudos to the Instinct team for listening and shipping this quickly. \n\nI will always say it like it is, especially when it comes to privacy & trust.",
+      "translatedTitle": "看来现在可以通过以下方式删除外部数据（例如我的 36 条 Gmail 记录）……",
+      "translatedBody": "现在看来，您可以删除外部数据（例如我的 36 条 Gmail 记录），只需访问 https://t.co/iZVklVswyI 并向下滚动至“数据隐私”部分即可。\n\n感谢 Instinct 团队倾听用户意见并迅速推出此功能。\n\n我一向直言不讳，尤其是在隐私和信任方面。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2091187611507499321",
+      "publishedAt": "2026-08-22T15:35:53.000Z",
+      "score": 64.28,
+      "engagement": {
+        "likes": 13,
+        "retweets": 0,
+        "replies": 1
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -79,105 +160,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2090852318527033804",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "建议的补丁程序可在 Claude Code 网页版中打开，使用您团队已有的模型……",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Suggested patches open in Claude Code on the web, using the models your team already uses. These updates are part of…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "Suggested patches open in Claude Code on the web, using the models your team alread…",
-      "originalBody": "Suggested patches open in Claude Code on the web, using the models your team already uses. These updates are part of our work to give defenders greater access to Mythos results without requiring direct access to the model: the model runs behind the scan and returns findings only. Scans are billed as standard token usage under your existing plan.",
-      "translatedTitle": "建议的补丁程序可在 Claude Code 网页版中打开，使用您团队已有的模型……",
-      "translatedBody": "建议的补丁程序会在网页版 Claude Code 中打开，并使用您团队已在使用的模型。这些更新是我们工作的一部分，旨在让防御者无需直接访问模型即可更便捷地获取 Mythos 的分析结果：模型在扫描后台运行，仅返回分析结果。扫描费用将按您现有套餐中的标准令牌使用量计费。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2090852318527033804",
-      "publishedAt": "2026-08-21T17:23:33.000Z",
-      "score": 154.42,
-      "engagement": {
-        "likes": 261,
-        "retweets": 6,
-        "replies": 6
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2090948945753076141",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "我认为很容易把“模拟是一种新的规模规律”当作营销手段……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：I think its easy to say \"Simulation is a new scaling law\" and treat it as marketing hyperbole, but midway along this…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "I think its easy to say \"Simulation is a new scaling law\" and treat it as marketing…",
-      "originalBody": "I think its easy to say \"Simulation is a new scaling law\" and treat it as marketing hyperbole, but midway along this interview you can hear me go from somewhat shitposting to very very serious. \n\nI am 2 years late to this but finally understand why @karpathy and @drfeifei backed @joon_s_pk @msbernst @percyliang et al - Smallville at the time had zero commercial applications, but if you take RSI seriously, from models automating increasingly large parts of ML research and AI engineering, the last* barrier is simulating humans and human feedback, and Simile is obviously the team to do this and already finding PMF at Fortune 100s even at this early stage.\n\nI've never been so happy to be so wrong.\n\n*or second last ! :) more soon on the Science pod",
-      "translatedTitle": "我认为很容易把“模拟是一种新的规模规律”当作营销手段……",
-      "translatedBody": "我觉得很容易把“模拟是新的规模法则”当作营销夸张的说法，但在这段采访进行到一半的时候，你会听到我从有点胡扯变成了非常非常认真。\n\n我迟到了两年，但终于明白为什么 @karpathy 和 @drfeifei 会支持 @joon_s_pk、@msbernst、@percyliang 等人——当时的 Smallville 没有任何商业应用，但如果你认真对待 RSI，就会发现，从模型自动化越来越多的机器学习研究和人工智能工程，最后一个*障碍就是模拟人类和人类反馈，而 Simile 显然是能够做到这一点的团队，即使在早期阶段，他们也已经在财富 100 强企业中找到了产品市场契合度 (PMF)。\n\n我从未如此高兴自己错了。\n\n*或者倒数第二个！:) 更多内容敬请期待 Science pod。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2090948945753076141",
-      "publishedAt": "2026-08-21T23:47:31.000Z",
-      "score": 150.72,
-      "engagement": {
-        "likes": 111,
-        "retweets": 6,
-        "replies": 10
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2090858571613470919",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "这一切发生得太不可思议了。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：This was wild to watch unfold. We ran 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 in a loop against https://t.co/bnjggVrBDj until it got to 1…",
-      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "This was wild to watch unfold.",
-      "originalBody": "This was wild to watch unfold. We ran 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 in a loop against https://t.co/bnjggVrBDj until it got to 100/100.\n\nIt made us close quite a few gaps. We worked hard to make sure the criteria is high quality and worth your time & tokens. https://t.co/cpZMKv6XVN",
-      "translatedTitle": "这一切发生得太不可思议了。",
-      "translatedBody": "整个过程真是令人兴奋。我们让 𝚒𝚜-𝚊𝚐𝚎𝚗𝚝𝚒𝚌 与 https://t.co/bnjggVrBDj 进行循环测试，直到结果达到 100/100。\n\n这让我们缩小了不少差距。我们努力确保评判标准高质量，值得您投入时间和代币。https://t.co/cpZMKv6XVN",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2090858571613470919",
-      "publishedAt": "2026-08-21T17:48:24.000Z",
-      "score": 138.63,
-      "engagement": {
-        "likes": 1418,
-        "retweets": 52,
-        "replies": 88
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2090936583814025417",
+      "id": "2091331251211059468",
       "type": "tweet",
       "builder": "Peter Yang",
-      "title": "嘿，Instinct，未经我许可就索引并保留我的邮件是不合适的……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Hey Instinct, it's not cool to index and retain my emails without my permission and not let me delete them from your…",
+      "title": "如果您重视隐私：1.",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If you care about your privacy: 1. Go to https://t.co/yICN6WAe9R in Chrome 2. Run this prompt in Codex or Claude Code…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Hey Instinct, it's not cool to index and retain my emails without my permission and…",
-      "originalBody": "Hey Instinct, it's not cool to index and retain my emails without my permission and not let me delete them from your records? \n\nI can't recommend this to anyone until this is figured out. Thanks @clairevo for spotting this. https://t.co/J2qhYVqwxN",
-      "translatedTitle": "嘿，Instinct，未经我许可就索引并保留我的邮件是不合适的……",
-      "translatedBody": "嘿 Instinct，未经我许可就索引并保留我的邮件，还不让我从你们的记录中删除，这难道不合理吗？\n\n在问题解决之前，我无法向任何人推荐你们的产品。感谢 @clairevo 指出这个问题。https://t.co/J2qhYVqwxN",
+      "originalTitle": "If you care about your privacy: 1.",
+      "originalBody": "If you care about your privacy:\n\n1. Go to https://t.co/yICN6WAe9R in Chrome\n2. Run this prompt in Codex or Claude Code and tell it there's an open tab in your browser\n3. Then pick the ones you want to remove and tell AI to do it\n\nJust disconnected half the apps that should no longer have my Google info.",
+      "translatedTitle": "如果您重视隐私：1.",
+      "translatedBody": "如果您重视隐私：\n\n1. 在 Chrome 浏览器中访问 https://t.co/yICN6WAe9R\n\n2. 在 Codex 或 Claude Code 中运行此提示，并告知它您的浏览器中有一个打开的标签页\n\n3. 然后选择您想要移除的应用，并指示 AI 执行操作\n\n刚刚断开了一半不应该再获取我 Google 信息的应用的连接。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2090936583814025417",
-      "publishedAt": "2026-08-21T22:58:23.000Z",
-      "score": 54.2,
+      "sourceUrl": "https://x.com/petergyang/status/2091331251211059468",
+      "publishedAt": "2026-08-23T01:06:40.000Z",
+      "score": 57.63,
       "engagement": {
-        "likes": 200,
-        "retweets": 8,
-        "replies": 36
+        "likes": 447,
+        "retweets": 23,
+        "replies": 20
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -185,64 +187,62 @@
       "sourceType": "x"
     },
     {
-      "id": "2090890394880155888",
+      "id": "2091239339204415969",
       "type": "tweet",
-      "builder": "Thariq",
-      "title": "我喜欢用它来解释问题和深入分析问题，例如：",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I like to use this for explainers and diving into a problem, e.g. /eli5 how does this module work /eli5 why did we ma…",
+      "builder": "Peter Yang",
+      "title": "我正在开发一项新的人工智能技能。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I’m working on a new AI skill. It’s called /fuck-cancer Goal is to help patients and their family navigate this whole…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I like to use this for explainers and diving into a problem, e.g.",
-      "originalBody": "I like to use this for explainers and diving into a problem, e.g.\n\n/eli5 how does this module work\n\n/eli5 why did we make this tradeoff\n\n/eli5 what caused this incident",
-      "translatedTitle": "我喜欢用它来解释问题和深入分析问题，例如：",
-      "translatedBody": "我喜欢用它来解释问题或深入探讨某个问题，例如：\n\n/eli5 这个模块是如何工作的？\n\n/eli5 我们为什么要做出这样的权衡？\n\n/eli5 这次事件的起因是什么？",
+      "originalTitle": "I’m working on a new AI skill.",
+      "originalBody": "I’m working on a new AI skill. \n\nIt’s called /fuck-cancer\n\nGoal is to help patients and their family navigate this whole process and stay informed. \n\nWhat should I include in it?",
+      "translatedTitle": "我正在开发一项新的人工智能技能。",
+      "translatedBody": "我正在开发一项新的人工智能技能。\n\n它的名字叫/fuck-cancer（去他妈的癌症）。\n\n目标是帮助患者及其家人了解整个治疗过程并及时获取信息。\n\n我应该在技能中包含哪些内容？",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2090890394880155888",
-      "publishedAt": "2026-08-21T19:54:51.000Z",
-      "score": 53.01,
+      "sourceUrl": "https://x.com/petergyang/status/2091239339204415969",
+      "publishedAt": "2026-08-22T19:01:26.000Z",
+      "score": 53.93,
       "engagement": {
-        "likes": 195,
+        "likes": 188,
+        "retweets": 5,
+        "replies": 39
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2091381756012511244",
+      "type": "tweet",
+      "builder": "Nikunj Kothari",
+      "title": "孩子们，我不知道你们都听了些什么建议，但是激怒投资者然后……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验：Kids, I don't know what advice you are getting, but ragebaiting investors and then sending them SAFE docs to just wir…",
+      "whyItMatters": "Nikunj Kothari 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Kids, I don't know what advice you are getting, but ragebaiting investors and then…",
+      "originalBody": "Kids, I don't know what advice you are getting, but ragebaiting investors and then sending them SAFE docs to just wire you money is NOT how investing works.. https://t.co/MSXm6S85Vd",
+      "translatedTitle": "孩子们，我不知道你们都听了些什么建议，但是激怒投资者然后……",
+      "translatedBody": "孩子们，我不知道你们都听了些什么建议，但激怒投资者，然后给他们发SAFE文件让他们直接汇款，这根本不是投资的正确方式…… https://t.co/MSXm6S85Vd",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/nikunj/status/2091381756012511244",
+      "publishedAt": "2026-08-23T04:27:21.000Z",
+      "score": 35.1,
+      "engagement": {
+        "likes": 370,
         "retweets": 4,
-        "replies": 8
+        "replies": 73
       },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2090898421108605078",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "我有幸与一位业内人士一起在伯克利举行的智能人工智能峰会上发言……",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I had the pleasure of speaking at the Agentic AI Summit in Berkeley alongside an incredible bunch of folks. My talk w…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I had the pleasure of speaking at the Agentic AI Summit in Berkeley alongside an in…",
-      "originalBody": "I had the pleasure of speaking at the Agentic AI Summit in Berkeley alongside an incredible bunch of folks. My talk was about \"No Doors for Agents\" https://t.co/2drgrK1pia https://t.co/NkLTNOaFdT",
-      "translatedTitle": "我有幸与一位业内人士一起在伯克利举行的智能人工智能峰会上发言……",
-      "translatedBody": "我有幸与一群杰出人士一起在伯克利举行的Agentic AI峰会上发言。我的演讲主题是“智能体无门”（No Doors for Agents）。https://t.co/2drgrK1pia https://t.co/NkLTNOaFdT",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2090898421108605078",
-      "publishedAt": "2026-08-21T20:26:45.000Z",
-      "score": 52.9,
-      "engagement": {
-        "likes": 166,
-        "retweets": 11,
-        "replies": 15
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
+      "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-08-22T06:27:29.601Z",
-    "totalCandidates": 34,
-    "textQualifiedCandidates": 16,
+    "upstreamGeneratedAt": "2026-08-23T06:27:32.823Z",
+    "totalCandidates": 19,
+    "textQualifiedCandidates": 10,
     "selectedTweets": 8
   }
 }
