@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-26",
-  "generatedAt": "2026-08-26T01:36:56.777Z",
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-27T08:26:14.958Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-08-26",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 29 条候选动态里，筛出 16 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-08-27",
+  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 32 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,26 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2091957823945216474",
+      "id": "2092299704864284888",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "如果你的终端出现“错误状态”，例如输出乱码，你就运行 𝚛𝚎𝚜…",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If your terminal ever gets into a 'bad state', like garbled outputs, you run 𝚛𝚎𝚜𝚎𝚝. I noticed it was… oddly slow…",
+      "builder": "Claude",
+      "title": "Claude 现在在聊天记录和 Claude Cowork 中只有一个记忆，而你决定它里面包含什么……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Claude now has one memory across chat and Claude Cowork, and you decide what's in it. Hand Cowork a task and it start…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "If your terminal ever gets into a 'bad state', like garbled outputs, you run 𝚛𝚎𝚜…",
-      "originalBody": "If your terminal ever gets into a 'bad state', like garbled outputs, you run 𝚛𝚎𝚜𝚎𝚝. I noticed it was… oddly slow.\n\nTurns out in 1979 3BSD's 𝚝𝚜𝚎𝚝 had a 𝚜𝚕𝚎𝚎𝚙(𝟷) to let mechanical printer-and-ink terminals 'settle down' 😂\n\nI asked 𝚏𝚡 to write me a faster alternative in Zig. It takes 1ms instead of 1s. It was really cool to dive deeper into 𝚗𝚌𝚞𝚛𝚜𝚎𝚜, 𝚝𝚜𝚎𝚝, 𝚝𝚎𝚛𝚖𝚒𝚗𝚏𝚘, and the myriad ways in which your terminal can get… cursed.\n\nIt's legit fascinating how far back our technology stack goes, and how enduring good system design is, even with the occasional 'spider webs' you can find.\n\nCheck out https://t.co/7EH0lothku for a fun explainer (and some alternative solutions.)\n\nps: once you start using 𝚏𝚡, you'll notice slowness like this everywhere :D",
-      "translatedTitle": "如果你的终端出现“错误状态”，例如输出乱码，你就运行 𝚛𝚎𝚜…",
-      "translatedBody": "如果你的终端出现“异常状态”，比如输出乱码，你就运行 𝚛𝚎𝚜𝚎𝚝。我注意到它……慢得离谱。\n\n原来，1979 年 3BSD 的 𝚝𝚜𝚎𝚝 有一个 𝚜𝚕𝚎𝚎𝚙(𝟷) 机制，是为了让机械式打印机和墨水终端“稳定下来”😂\n\n我请 𝚏𝚡 用 Zig 写了一个更快的替代方案。它只需要 1 毫秒而不是 1 秒。深入研究 𝚗𝚌𝚞𝚛𝚜𝚎𝚜、𝚝𝚜𝚎𝚝、𝚝𝚎𝚛𝚖𝚒𝚗𝚏𝚘 以及终端可能遭遇的各种“诅咒”的方式，真是太酷了。\n\n我们的技术栈历史如此悠久，优秀的系统设计如此经久不衰，即使偶尔会遇到一些“蛛网”般的问题，也依然如此，这真的令人着迷。\n\n访问 https://t.co/7EH0lothku 查看有趣的解释（以及一些替代方案）。\n\n附：一旦你开始使用 𝚏𝚡，你就会注意到到处都是这种卡顿现象 :D",
+      "originalTitle": "Claude now has one memory across chat and Claude Cowork, and you decide what's in i…",
+      "originalBody": "Claude now has one memory across chat and Claude Cowork, and you decide what's in it.\n\nHand Cowork a task and it starts from what Claude already knows from your chats: the project you talked through, your manager's preferences, or the client from last quarter. https://t.co/ViKapsT8K6",
+      "translatedTitle": "Claude 现在在聊天记录和 Claude Cowork 中只有一个记忆，而你决定它里面包含什么……",
+      "translatedBody": "Claude 现在整合了聊天记录和 Claude Cowork 的所有信息，并将它们存储在同一个记忆库中，您可以自行决定其中的内容。\n\n向 Cowork 提交任务后，Claude 会从您之前的聊天记录中获取信息：例如您讨论过的项目、您经理的偏好，或者上个季度的客户信息。https://t.co/ViKapsT8K6",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2091957823945216474",
-      "publishedAt": "2026-08-24T18:36:26.000Z",
-      "score": 158.53,
+      "sourceUrl": "https://x.com/claudeai/status/2092299704864284888",
+      "publishedAt": "2026-08-25T17:14:57.000Z",
+      "score": 171.9,
       "engagement": {
-        "likes": 514,
-        "retweets": 21,
-        "replies": 44
+        "likes": 6846,
+        "retweets": 399,
+        "replies": 302
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -50,51 +50,159 @@
       "sourceType": "x"
     },
     {
-      "id": "2092081554814320677",
+      "id": "2092382653161107534",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "它速度更快、价格更低、功能更强大，而且……体积更小。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：It's faster, cheaper, more capable, and… smaller. As software evolves, it tends to get slower, more bloated, buggier,…",
-      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "It's faster, cheaper, more capable, and… smaller.",
-      "originalBody": "It's faster, cheaper, more capable, and… smaller.\n\nAs software evolves, it tends to get slower, more bloated, buggier, and bigger. \n\nhttps://t.co/3Z4NESzNKd is architected from the outset to prevent this. https://t.co/w00UuR0URa",
-      "translatedTitle": "它速度更快、价格更低、功能更强大，而且……体积更小。",
-      "translatedBody": "它速度更快、价格更低、功能更强大，而且……体积更小。\n\n随着软件的演进，它往往会变得更慢、更臃肿、漏洞更多、体积更大。\n\nhttps://t.co/3Z4NESzNKd 从一开始就被设计成可以避免这种情况。https://t.co/w00UuR0URa",
+      "title": "我们正在推出 Run SDK：用于动态代码模式执行的安全 𝚎𝚟𝚊𝚕。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We're introducing Run SDK: secure 𝚎𝚟𝚊𝚕 for dynamic Code Mode execution. When agents write code, you don't always…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "We're introducing Run SDK: secure 𝚎𝚟𝚊𝚕 for dynamic Code Mode execution.",
+      "originalBody": "We're introducing Run SDK: secure 𝚎𝚟𝚊𝚕 for dynamic Code Mode execution.\n\nWhen agents write code, you don't always need a full sandbox. You can 𝚛𝚞𝚗 their code in a lightweight QuickJS secure context. Faster and more cost-efficient.\n\n𝚗𝚙𝚖 𝚒 𝚛𝚞𝚗\nhttps://t.co/br24j8Qp4r https://t.co/ZLqpkwqTT5 https://t.co/6ElyxieLme",
+      "translatedTitle": "我们正在推出 Run SDK：用于动态代码模式执行的安全 𝚎𝚟𝚊𝚕。",
+      "translatedBody": "我们推出 Run SDK：用于动态代码模式执行的安全环境。\n\n代理编写代码时，您并不总是需要完整的沙箱。您可以在轻量级的 QuickJS 安全环境中运行他们的代码。速度更快，成本更低。\n\n点击此处\nhttps://t.co/br24j8Qp4r https://t.co/ZLqpkwqTT5 https://t.co/6ElyxieLme",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2092081554814320677",
-      "publishedAt": "2026-08-25T02:48:06.000Z",
-      "score": 129.92,
+      "sourceUrl": "https://x.com/rauchg/status/2092382653161107534",
+      "publishedAt": "2026-08-25T22:44:33.000Z",
+      "score": 157.54,
       "engagement": {
-        "likes": 210,
-        "retweets": 5,
-        "replies": 18
+        "likes": 419,
+        "retweets": 19,
+        "replies": 38
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2092299710002319742",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "有些人认为某些话题很敏感，比如健康或宗教信仰，所以最好不要写进回忆录……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Topics some consider sensitive, like health or religious beliefs, stay out of memory unless you turn them on in Setti…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Topics some consider sensitive, like health or religious beliefs, stay out of memor…",
+      "originalBody": "Topics some consider sensitive, like health or religious beliefs, stay out of memory unless you turn them on in Settings.\n\nMemory is on by default on Free, Pro, and Max plans. Review yours anytime in Settings > Memory.\n\nRead more: https://t.co/2y4B3am1RX",
+      "translatedTitle": "有些人认为某些话题很敏感，比如健康或宗教信仰，所以最好不要写进回忆录……",
+      "translatedBody": "某些敏感话题，例如健康或宗教信仰，除非您在“设置”中启用，否则不会被占用内存。\n\n免费版、专业版和高级版套餐默认启用内存功能。您可以随时在“设置”>“内存”中查看您的设置。\n\n了解更多：https://t.co/2y4B3am1RX",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2092299710002319742",
+      "publishedAt": "2026-08-25T17:14:58.000Z",
+      "score": 156.64,
+      "engagement": {
+        "likes": 394,
+        "retweets": 4,
+        "replies": 20
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2092352411839193234",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "构建代理程序时最困难的问题是与服务和数据的安全连接。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The hardest problem in building agents is secure connectivity to services and data. Excited for Vercel Connect to be…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "The hardest problem in building agents is secure connectivity to services and data.",
+      "originalBody": "The hardest problem in building agents is secure connectivity to services and data.\n\nExcited for Vercel Connect to be GA. Run e.g: 𝚟𝚎𝚛𝚌𝚎𝚕 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚌𝚛𝚎𝚊𝚝𝚎 𝚗𝚘𝚝𝚒𝚘𝚗, then get an MCP client you can query on behalf of the authenticated user. https://t.co/UrQxaEDfHx",
+      "translatedTitle": "构建代理程序时最困难的问题是与服务和数据的安全连接。",
+      "translatedBody": "构建代理程序最棘手的问题在于如何安全地连接到服务和数据。\n\n非常期待 Vercel Connect 正式发布。例如，运行以下命令：`𝚟𝚎𝚛𝚌𝚎𝚕 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚌𝚛𝚎𝚊𝚝𝚎 𝚗𝚘𝚝𝚒𝚘𝚗`，即可获得一个 MCP 客户端，您可以代表已认证用户进行查询。https://t.co/UrQxaEDfHx",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2092352411839193234",
+      "publishedAt": "2026-08-25T20:44:23.000Z",
+      "score": 154.17,
+      "engagement": {
+        "likes": 214,
+        "retweets": 10,
+        "replies": 23
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2092492963435946494",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "友情提示：目前请勿使用代码库的“锁定使用”功能。",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：PSA: do not use codex \"locked use\" capabilities right now. it is currently relying on unstable mac features and has c…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "PSA: do not use codex \"locked use\" capabilities right now.",
+      "originalBody": "PSA: do not use codex \"locked use\" capabilities right now. it is currently relying on unstable mac features and has completely locked me out of my macos keychain twice this week. \n\nthx @_chenglou for linking to apple developer forums acknowledging this is a \"known bug\". just avoid. ofc, would be nice to do everything in cloud, but cloud isn't there yet.",
+      "translatedTitle": "友情提示：目前请勿使用代码库的“锁定使用”功能。",
+      "translatedBody": "友情提示：目前请勿使用 Codex 的“锁定使用”功能。它目前依赖于不稳定的 Mac 功能，本周已两次导致我完全无法访问 macOS 钥匙串。\n\n感谢 @_chenglou 提供的苹果开发者论坛链接，其中确认这是一个“已知 bug”。请尽量避免使用。当然，如果所有操作都能在云端完成就更好了，但云端目前还无法完全实现。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2092492963435946494",
+      "publishedAt": "2026-08-26T06:02:53.000Z",
+      "score": 140.99,
+      "engagement": {
+        "likes": 5,
+        "retweets": 1,
+        "replies": 9
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2092299707653439497",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "克劳德记住的所有内容都以主题列表的形式保存在“设置”中，您可以在那里……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Everything Claude remembers is saved as a list of topics in Settings, where you can read, edit, or delete each one. M…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Everything Claude remembers is saved as a list of topics in Settings, where you can…",
+      "originalBody": "Everything Claude remembers is saved as a list of topics in Settings, where you can read, edit, or delete each one.\n\nMemory also updates on its own as you chat, saving new details as they come up. You can also say \"remember this\" to save something specific. https://t.co/ExpQAHkyhu",
+      "translatedTitle": "克劳德记住的所有内容都以主题列表的形式保存在“设置”中，您可以在那里……",
+      "translatedBody": "克劳德记住的所有内容都会以主题列表的形式保存在“设置”中，您可以查看、编辑或删除每个主题。\n\n聊天过程中，记忆功能也会自动更新，保存出现的新细节。您还可以说“记住这个”来保存特定内容。https://t.co/ExpQAHkyhu",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2092299707653439497",
+      "publishedAt": "2026-08-25T17:14:58.000Z",
+      "score": 133.58,
+      "engagement": {
+        "likes": 549,
+        "retweets": 21,
+        "replies": 24
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2092087679240569126",
+      "id": "2092426017118028266",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "在人工智能时代，记录系统的重要性前所未有地凸显出来……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Systems of record have never been more important than in a world where you have AI agents that will do 100X more work…",
+      "builder": "Madhu Guru",
+      "title": "如何构建优秀的评估——第九部分：评估路线图问题 大多数评估失败的原因是……",
+      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：How to build great evals — Part 9 The Eval Roadmap Problem Most evals fail because teams treat them as static artifac…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Systems of record have never been more important than in a world where you have AI…",
-      "originalBody": "Systems of record have never been more important than in a world where you have AI agents that will do 100X more work on these platforms than people ever did. \n\nAgents will be querying the data in these systems, processing tasks, executing workflows, collaborating with human and agent users, and more. \n\nThus, the governance, reliability, security, access controls, and business logic remain critical more than ever — the OpenAI Hugging Face incident is just a small peek into what the future will look like with agents running around trying to execute on their goals.\n\nBut this only works for the systems of record that respond with the right product experiences, APIs, and business models to support agents on and off their platform executing in these systems.\n\nHuge moment of opportunity and disruption right now in all of software.",
-      "translatedTitle": "在人工智能时代，记录系统的重要性前所未有地凸显出来……",
-      "translatedBody": "在人工智能代理将在这些平台上完成比人类多百倍的工作量的世界里，记录系统的重要性前所未有。\n\n代理将查询这些系统中的数据、处理任务、执行工作流程、与人类用户和其他代理用户协作等等。\n\n因此，治理、可靠性、安全性、访问控制和业务逻辑比以往任何时候都更加关键——OpenAI Hugging Face事件只是未来代理在执行目标时运行的冰山一角。\n\n但这只有在记录系统能够提供合适的产品体验、API和业务模型，以支持代理在平台内外执行任务时才能奏效。\n\n软件行业正面临着巨大的机遇和变革。",
+      "originalTitle": "How to build great evals — Part 9 The Eval Roadmap Problem Most evals fail because…",
+      "originalBody": "How to build great evals — Part 9\n\nThe Eval Roadmap Problem \n\nMost evals fail because teams treat them as static artifacts while their users  expectations and behaviors have evolved.\n \nYour evals need a roadmap that evolves with your product and actual usage patterns.\n\nTake a financial research agent. Here is how use cases will evolve over time.\n\nEarly user: Summarize this 5-page earnings report.\n\n3 weeks later: review the last 5 earnings reports and explain their growth story.\n\n2 months later: Here are 15 filings, earnings transcripts and research reports. Build an investment thesis.\n\nEventually: Monitor my stock portfolio and tell send me alerts when something materially changes my thesis.\n\nEach stage requires different capabilities and hence different evals.\n\nYour evals should change with usage patterns:\n\nshort-context -> long-context\nsingle-turn QA -> multi-turn\npassage citations -> doc and line citations \nSimple QA -> complex synthesis\nreactive chat -> proactive agent\n\nIf your evals are stuck in week 1 while users are in week 3, it will show in your product and churn metrics.\n\nHere’s a practical way to build the roadmap:\n1/ Map the dimensions along which usage will evolve (eg # turns, document size, tool use, autonomy, journey coverage).\n2/ Prioritize the use cases and dimensions that matter most for your product.\n3/ Talk to your users, mine production traces to look for shifts.\n4/ Build P0 evals for the next stage of usage.\n5/ Run the evals, find failure modes (remember the taxonomy from Part 3), and hill-climb (from part 6).\n\nThe goal is to stay ahead of usage patterns. PM 101.\n\nDrop your questions and I will address in future posts.\n\nShare this with your teammates who think your evals are perfect.",
+      "translatedTitle": "如何构建优秀的评估——第九部分：评估路线图问题 大多数评估失败的原因是……",
+      "translatedBody": "如何构建优秀的评估——第九部分\n\n评估路线图难题\n\n大多数评估之所以失败，是因为团队将其视为静态的产物，而用户的期望和行为却在不断变化。\n\n您的评估需要一个能够随着产品和实际使用模式而演进的路线图。\n\n以金融研究代理为例。以下是用例随时间演变的过程：\n\n早期用户：总结这份 5 页的收益报告。\n\n3 周后：回顾最近 5 份收益报告，并阐述其增长故事。\n\n2 个月后：这里有 15 份文件、收益报告和研究报告。构建投资逻辑。\n\n最终：监控我的股票投资组合，并在发生重大变化时收到提醒。\n\n每个阶段都需要不同的能力，因此也需要不同的评估。\n\n您的评估应随使用模式而变化：\n\n短上下文 -> 长上下文\n\n单轮问答 -> 多轮问答\n\n段落引用 -> 文档和行引用\n\n简单问答 -> 复杂综合\n\n被动式聊天 -> 主动式客服\n\n如果您的评估仍停留在第一周，而用户已进入第三周，这将在您的产品和流失指标中有所体现。\n\n以下是构建产品路线图的实用方法：\n\n1/ 绘制使用模式演进的维度图（例如，轮数、文档大小、工具使用情况、自主性、旅程覆盖范围）。\n\n2/ 确定对您的产品最重要的用例和维度的优先级。\n\n3/ 与用户沟通，挖掘生产跟踪数据以寻找变化。\n\n4/ 为下一阶段的使用构建 P0 评估。\n\n5/ 运行评估，找出故障模式（回顾第三部分中的分类），并进行爬山式改进（参考第六部分）。\n\n目标是始终掌握用户使用习惯的先机。产品经理入门指南。\n\n欢迎提出问题，我会在后续文章中解答。\n\n请将此信息分享给那些认为你的评估无可挑剔的队友。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2092087679240569126",
-      "publishedAt": "2026-08-25T03:12:26.000Z",
-      "score": 108.55,
+      "sourceUrl": "https://x.com/realmadhuguru/status/2092426017118028266",
+      "publishedAt": "2026-08-26T01:36:52.000Z",
+      "score": 99.2,
       "engagement": {
-        "likes": 344,
-        "retweets": 24,
-        "replies": 45
+        "likes": 83,
+        "retweets": 4,
+        "replies": 8
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -104,147 +212,38 @@
       "sourceType": "x"
     },
     {
-      "id": "2091909170308296950",
+      "id": "2092466424694649066",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "人们尚未充分认识到，ZDR 承担了相当一部分责任……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：It’s not fully appreciated that ZDR is responsible for a substantial amount of the growth of AI, because it dramatica…",
+      "title": "这篇文章很好地阐述了大规模应用人工智能战略的现状。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Good post on what the applied AI strategy looks like at scale. It’s clear that there’s a wide gap between the AI mode…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "It’s not fully appreciated that ZDR is responsible for a substantial amount of the…",
-      "originalBody": "It’s not fully appreciated that ZDR is responsible for a substantial amount of the growth of AI, because it dramatically simplified the compliance process most companies deal with in handling data with subprocessors. The alternative path would have been a far slower adoption rate.\n\nFor the applied AI tools that are primarily responsible for driving AI growth, they generally have agreements in place with their customers to only offer models with ZDR to ensure that customers don’t have to inspect each model they turn on. Anything else is an exception process that takes far longer.\n\nAnd then inside enterprises directly, most companies have internal governance requirements that say they can only use ZDR models because they have no way of explicitly separating PII and other sensitive or confidential data they put in the context window across their enterprise.\n\nNow, all of this could change if the entire industry went this direction, but with one off models hold outs it would take years for these policies to change. Without ZDR, AI diffusion grinds to a halt.",
-      "translatedTitle": "人们尚未充分认识到，ZDR 承担了相当一部分责任……",
-      "translatedBody": "人们并未充分认识到零数据限制 (ZDR) 对人工智能 (AI) 的蓬勃发展起到了至关重要的作用，因为它极大地简化了大多数公司在与子处理器处理数据时所面临的合规流程。否则，ZDR 的普及速度将会慢得多。\n\n对于那些主要推动 AI 发展的应用型 AI 工具而言，它们通常与客户签订协议，只提供符合 ZDR 标准的模型，以确保客户无需对启用的每个模型进行审查。任何其他情况都需要经过漫长的例外流程。\n\n而在企业内部，大多数公司都有内部治理要求，规定他们只能使用符合 ZDR 标准的模型，因为他们无法明确区分企业范围内在上下文窗口中输入的个人身份信息 (PII) 和其他敏感或机密数据。\n\n如果整个行业都朝着这个方向发展，这一切都可能会改变，但由于个别模型仍坚持使用 ZDR，这些政策的改变可能需要数年时间。如果没有 ZDR，AI 的普及将停滞不前。",
+      "originalTitle": "Good post on what the applied AI strategy looks like at scale.",
+      "originalBody": "Good post on what the applied AI strategy looks like at scale. It’s clear that there’s a wide gap between the AI models and the underlying workflows of an enterprise, which leaves a ton of opportunity for applied AI companies.\n\n“The world doesn’t just want raw models and agents; it wants problems resolved and outcomes achieved. The premium will sit with the companies that can diffuse this intelligence through every aspect of civilization, converting raw tokens into real world outcomes, transforming industries, and creating economies in the process.”\n\nThis requires understanding the context, driving the change management, having a harness that can route to various models, connecting to the critical business systems in that vertical, solving the UX challenges of connecting users to agents in the right way in a workflow, understanding the evals in the space, and so on.  \n\nThat’s a ton of value that goes beyond just the model intelligence itself. And there’s a window of opportunity right now to build the defining companies that can bring intelligence to the critical domains in an enterprise.",
+      "translatedTitle": "这篇文章很好地阐述了大规模应用人工智能战略的现状。",
+      "translatedBody": "这篇文章很好地阐述了大规模应用人工智能战略的运作方式。显然，人工智能模型与企业底层工作流程之间存在着巨大的鸿沟，这为应用人工智能公司创造了巨大的机遇。\n\n“世界需要的不仅仅是原始模型和智能体；它需要的是问题得到解决，成果得以实现。能够将这种智能渗透到人类文明的各个方面，将原始模型转化为现实世界的成果，从而变革行业并创造经济的公司，将获得丰厚的回报。”\n\n这需要理解背景，推动变革管理，拥有能够路由到各种模型的平台，连接到该垂直领域的关键业务系统，解决在工作流程中以正确的方式将用户连接到智能体的用户体验挑战，了解该领域的评估等等。\n\n这其中蕴含着巨大的价值，远不止模型智能本身。现在正是打造能够将智能引入企业关键领域的标志性公司的良机。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2091909170308296950",
-      "publishedAt": "2026-08-24T15:23:06.000Z",
-      "score": 78.61,
+      "sourceUrl": "https://x.com/levie/status/2092466424694649066",
+      "publishedAt": "2026-08-26T04:17:26.000Z",
+      "score": 76.56,
       "engagement": {
-        "likes": 172,
-        "retweets": 18,
-        "replies": 22
+        "likes": 122,
+        "retweets": 6,
+        "replies": 19
       },
       "matchedFocusAreas": [
         "Coding Agents",
         "Foundation Models"
       ],
       "sourceType": "x"
-    },
-    {
-      "id": "2092058556707344708",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "明天我们将恢复 ChatGPT Work 等平台 Plus 账户 5 小时的使用时长限制……",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Tomorrow we will bring back the 5h limit for Plus accounts across ChatGPT Work and Codex. I had mentioned this a whil…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Tomorrow we will bring back the 5h limit for Plus accounts across ChatGPT Work and…",
-      "originalBody": "Tomorrow we will bring back the 5h limit for Plus accounts across ChatGPT Work and Codex. I had mentioned this a while ago, but then postponed it.\n\nThis is necessary as (a) the 5h limit allows us to smoothen the load on our compute, allowing to keep the plan generous in terms of weekly usage and (b) users on the Plus plan are relatively casual and new users, but then also just accidentally eat through their whole weeks usage and then are confused, making it not a great experience.\n\nWe are for the upcoming months keeping the 5h limit not enabled for Pro $100 and Pro $200 subscriptions.",
-      "translatedTitle": "明天我们将恢复 ChatGPT Work 等平台 Plus 账户 5 小时的使用时长限制……",
-      "translatedBody": "明天我们将恢复 ChatGPT Work 和 Codex 平台 Plus 账户的 5 小时使用时长限制。我之前提过这件事，但后来推迟了。\n\n这样做是必要的，原因有二：(a) 5 小时的限制可以减轻我们计算资源的负担，从而保证套餐的每周使用时长足够；(b) Plus 套餐的用户大多是休闲用户和新用户，他们经常会不小心用完一周的使用时长，导致用户感到困惑，影响用户体验。\n\n在接下来的几个月里，Pro $100 和 Pro $200 套餐仍将不启用 5 小时使用时长限制。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2092058556707344708",
-      "publishedAt": "2026-08-25T01:16:43.000Z",
-      "score": 74.85,
-      "engagement": {
-        "likes": 9223,
-        "retweets": 527,
-        "replies": 2664
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2092080901094248474",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "每当我需要登录新的网站/应用程序，或者使用被困住的代理时……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Whenever I have to login to a new website/app or even use an agent that's trapped in a website /app I usually just pr…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Whenever I have to login to a new website/app or even use an agent that's trapped i…",
-      "originalBody": "Whenever I have to login to a new website/app or even use an agent that's trapped in a website /app I usually just prefer to stop using the product (the only exception is entertainment or gaming).\n\nI can't be the only one.",
-      "translatedTitle": "每当我需要登录新的网站/应用程序，或者使用被困住的代理时……",
-      "translatedBody": "每当我需要登录新的网站/应用，或者使用被困在某个网站/应用里的客服时，我通常都会直接停止使用该产品（娱乐或游戏除外）。\n\n我肯定不是唯一一个这样想的人。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2092080901094248474",
-      "publishedAt": "2026-08-25T02:45:30.000Z",
-      "score": 71.37,
-      "engagement": {
-        "likes": 26,
-        "retweets": 1,
-        "replies": 13
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2092059517446156640",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "形成观点。",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Form a view. Turn it into an artifact or experiment. Put it in contact with reality. Read the result without self-dec…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Form a view.",
-      "originalBody": "Form a view.\nTurn it into an artifact or experiment.\nPut it in contact with reality.\nRead the result without self-deception.\nRevise and run again.",
-      "translatedTitle": "形成观点。",
-      "translatedBody": "形成观点。\n\n将其转化为实物或实验成果。\n\n使其与现实相联系。\n\n客观地解读结果。\n\n修改并再次尝试。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2092059517446156640",
-      "publishedAt": "2026-08-25T01:20:32.000Z",
-      "score": 58.07,
-      "engagement": {
-        "likes": 421,
-        "retweets": 34,
-        "replies": 53
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2091962601907638352",
-      "type": "tweet",
-      "builder": "Amjad Masad",
-      "title": "真的。",
-      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：True. Replit Agent completely replaced Claude CoWork in my day-to-day work. It's much more persistent and fastidious,…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "True.",
-      "originalBody": "True. Replit Agent completely replaced Claude CoWork in my day-to-day work. It's much more persistent and fastidious, and it uses code/software more effectively to complete tasks. https://t.co/QZ89DvogmZ",
-      "translatedTitle": "真的。",
-      "translatedBody": "没错。Replit Agent 已经完全取代了 Claude CoWork，成为我日常工作中不可或缺的一部分。它更加持久、细致，而且能更有效地利用代码/软件完成任务。https://t.co/QZ89DvogmZ",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/amasad/status/2091962601907638352",
-      "publishedAt": "2026-08-24T18:55:25.000Z",
-      "score": 53.06,
-      "engagement": {
-        "likes": 160,
-        "retweets": 9,
-        "replies": 26
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-08-25T06:28:05.928Z",
-    "totalCandidates": 29,
-    "textQualifiedCandidates": 16,
+    "upstreamGeneratedAt": "2026-08-26T06:28:20.473Z",
+    "totalCandidates": 32,
+    "textQualifiedCandidates": 18,
     "selectedTweets": 8
   }
 }
