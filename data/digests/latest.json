@@ -1,8 +1,8 @@
 {
-  "date": "2026-08-28",
-  "generatedAt": "2026-08-28T10:26:58.930Z",
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T06:27:19.876Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-08-28",
+  "title": "AI Builders Daily | 2026-08-29",
   "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
   "intro": "已从 29 条候选动态里，筛出 16 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
@@ -38,7 +38,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/claudeai/status/2093059087298601113",
       "publishedAt": "2026-08-27T19:32:28.000Z",
-      "score": 206.79,
+      "score": 197.7,
       "engagement": {
         "likes": 7576,
         "retweets": 680,
@@ -66,7 +66,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/rauchg/status/2093019310725951683",
       "publishedAt": "2026-08-27T16:54:24.000Z",
-      "score": 190.34,
+      "score": 183.88,
       "engagement": {
         "likes": 558,
         "retweets": 22,
@@ -94,7 +94,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/rauchg/status/2093119693846630842",
       "publishedAt": "2026-08-27T23:33:17.000Z",
-      "score": 166.25,
+      "score": 153.14,
       "engagement": {
         "likes": 183,
         "retweets": 6,
@@ -115,13 +115,13 @@
       "originalTitle": "this is a critically important moment for cyber defense with AI; there is not much…",
       "originalBody": "this is a critically important moment for cyber defense with AI; there is not much time to act.\n\nwe are happy if you want to work with us or any of our competitors or partners, but please take this moment seriously.\n\nonly an urgent and intense collective response will work.",
       "translatedTitle": "对于利用人工智能进行网络防御而言，这是一个至关重要的时刻；目前机会不多……",
-      "translatedBody": "对于人工智能在网络防御领域的应用而言，这是一个至关重要的时刻；我们行动的时间已经不多了。\n\n我们欢迎您与我们、我们的竞争对手或合作伙伴携手共进，但请务必认真对待这一时刻。\n\n唯有采取紧急而强有力的集体应对措施，才能奏效。",
+      "translatedBody": "对于人工智能在网络防御领域的应用而言，这是一个至关重要的时刻；留给我们行动的时间已经不多了。\n\n我们欢迎您与我们、我们的竞争对手或合作伙伴携手共进，但请务必认真对待这一时刻。\n\n唯有采取紧急而强有力的集体应对措施，才能奏效。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/sama/status/2093060670472241368",
       "publishedAt": "2026-08-27T19:38:45.000Z",
-      "score": 160.41,
+      "score": 151.22,
       "engagement": {
         "likes": 13560,
         "retweets": 1095,
@@ -146,7 +146,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/joshwoodward/status/2093070717508296923",
       "publishedAt": "2026-08-27T20:18:41.000Z",
-      "score": 141.56,
+      "score": 131.7,
       "engagement": {
         "likes": 360,
         "retweets": 25,
@@ -171,7 +171,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/levie/status/2093192697331011846",
       "publishedAt": "2026-08-28T04:23:23.000Z",
-      "score": 119.71,
+      "score": 101.77,
       "engagement": {
         "likes": 120,
         "retweets": 11,
@@ -200,7 +200,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/petergyang/status/2093126719888916616",
       "publishedAt": "2026-08-28T00:01:13.000Z",
-      "score": 99.13,
+      "score": 85.56,
       "engagement": {
         "likes": 646,
         "retweets": 28,
@@ -228,7 +228,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/garrytan/status/2093056910631293063",
       "publishedAt": "2026-08-27T19:23:49.000Z",
-      "score": 93.78,
+      "score": 84.83,
       "engagement": {
         "likes": 566,
         "retweets": 26,
