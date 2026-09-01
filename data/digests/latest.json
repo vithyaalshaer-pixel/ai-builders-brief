@@ -1,10 +1,10 @@
 {
-  "date": "2026-08-31",
-  "generatedAt": "2026-08-31T04:42:23.520Z",
+  "date": "2026-09-01",
+  "generatedAt": "2026-09-01T04:23:15.767Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-08-31",
+  "title": "AI Builders Daily | 2026-09-01",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 18 条候选动态里，筛出 9 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 22 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,26 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2093803989578170404",
+      "id": "2094141838055940530",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "我会阅读每个人发给我的私信，即使我不能一一回复。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I read every DM people send me, even if I don’t reply to all. I’m constantly learning about new ideas, ways to improv…",
+      "title": "当某些东西在互联网上，尤其是在X网站上爆红时，它会吸引各种各样的人……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：When something goes viral on the internet, especially on X, it attracts all kinds of attention. Including some of the…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "I read every DM people send me, even if I don’t reply to all.",
-      "originalBody": "I read every DM people send me, even if I don’t reply to all. I’m constantly learning about new ideas, ways to improve our product, where we’re falling short, who could join our company next, where to invest… very grateful for the @x platform.",
-      "translatedTitle": "我会阅读每个人发给我的私信，即使我不能一一回复。",
-      "translatedBody": "我会阅读每个人发给我的私信，即使我无法一一回复。我不断地学习新想法、改进产品的方法、我们存在的不足、下一个可能加入我们公司的人选、投资方向……非常感谢@x平台。",
+      "originalTitle": "When something goes viral on the internet, especially on X, it attracts all kinds o…",
+      "originalBody": "When something goes viral on the internet, especially on X, it attracts all kinds of attention. \n\nIncluding some of the largest botnets on the internet launching targeted DDoS, from hijacked devices and residential networks.\n\nExtremely proud of the Vercel CDN & Traffic Security teams, who protect 400,000+ customers and tens of millions of Vercel users 24x7x365.",
+      "translatedTitle": "当某些东西在互联网上，尤其是在X网站上爆红时，它会吸引各种各样的人……",
+      "translatedBody": "当某些内容在互联网上，尤其是在 X 平台上迅速传播时，它会吸引各种各样的关注。\n\n其中包括一些互联网上最大的僵尸网络，它们利用被劫持的设备和住宅网络发起有针对性的 DDoS 攻击。\n\n我为 Vercel CDN 和流量安全团队感到无比自豪，他们全天候 24 小时保护着超过 40 万客户和数千万 Vercel 用户。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2093803989578170404",
-      "publishedAt": "2026-08-29T20:52:26.000Z",
-      "score": 190.11,
+      "sourceUrl": "https://x.com/rauchg/status/2094141838055940530",
+      "publishedAt": "2026-08-30T19:14:56.000Z",
+      "score": 183.06,
       "engagement": {
-        "likes": 1983,
-        "retweets": 18,
-        "replies": 121
+        "likes": 474,
+        "retweets": 10,
+        "replies": 49
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -51,26 +51,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2093736865191076318",
+      "id": "2094215744842248418",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "https://t.co/OL0LzGtvAw 0.0.7：- 大幅改进了 MCP 支持，已与顶级 MCP 进行评估……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：https://t.co/OL0LzGtvAw 0.0.7: - hugely improved MCP support, eval'd with top MCPs like @context7ai, @datadoghq, @mon…",
+      "builder": "Amjad Masad",
+      "title": "“拥抱脸事件”给我们的教训应该是：具有可验证奖励的强化学习……",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The lesson from the Hugging Face Incident should be that RL with verifiable rewards is an incredibly powerful optimiz…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "https://t.co/OL0LzGtvAw 0.0.7: - hugely improved MCP support, eval'd with top MCPs…",
-      "originalBody": "https://t.co/OL0LzGtvAw 0.0.7: \n\n- hugely improved MCP support, eval'd with top MCPs like @context7ai, @datadoghq, @mongodb, @linear, @notionhq, @supabase, @neondatabase, @stagehanddev, @usekernel…\n\n- more minimalist: fewer tools and improved shell execution. One of the trickiest things about CLI agents is that running commands is actually not that simple.\n\ne.g: commands might hang or run for very long, their output needs to be monitorable by the agent, they might produce huge amounts of output, or none. \n\nThis is an area where 𝚏𝚡 really shines and will continue to get better.",
-      "translatedTitle": "https://t.co/OL0LzGtvAw 0.0.7：- 大幅改进了 MCP 支持，已与顶级 MCP 进行评估……",
-      "translatedBody": "https://t.co/OL0LzGtvAw 0.0.7：\n\n- 大幅改进了 MCP 支持，已使用 @context7ai、@datadoghq、@mongodb、@linear、@notionhq、@supabase、@neondatabase、@stagehanddev、@usekernel 等顶级 MCP 进行评估。\n\n- 更加精简：工具更少，shell 执行更高效。CLI 代理最棘手的问题之一是，运行命令实际上并不简单。\n\n例如：命令可能会挂起或运行时间过长，其输出需要被代理监控，它们可能会产生大量输出，也可能没有输出。\n\n这正是 𝚏𝚡 的优势所在，并且会持续改进。",
+      "originalTitle": "The lesson from the Hugging Face Incident should be that RL with verifiable rewards…",
+      "originalBody": "The lesson from the Hugging Face Incident should be that RL with verifiable rewards is an incredibly powerful optimization algorithm that will produce increasingly weird and surprising behavior from LLMs.\n\nThe obvious miss here by OpenAI is that they should’ve been monitoring CoTs —  Something they themselves called out as a safety strategy more than a year ago.",
+      "translatedTitle": "“拥抱脸事件”给我们的教训应该是：具有可验证奖励的强化学习……",
+      "translatedBody": "“拥抱脸事件”给我们带来的教训是：带有可验证奖励的强化学习是一种极其强大的优化算法，它会使学习逻辑模型（LLM）产生越来越怪异和出乎意料的行为。\n\nOpenAI 的明显失误在于，他们本应监控认知能力（CoT）——而他们自己早在一年多前就已将此作为一项安全策略提出。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2093736865191076318",
-      "publishedAt": "2026-08-29T16:25:43.000Z",
-      "score": 180.28,
+      "sourceUrl": "https://x.com/amasad/status/2094215744842248418",
+      "publishedAt": "2026-08-31T00:08:36.000Z",
+      "score": 84.44,
       "engagement": {
-        "likes": 238,
-        "retweets": 15,
-        "replies": 43
+        "likes": 602,
+        "retweets": 29,
+        "replies": 54
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -79,109 +79,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2093772803216740647",
+      "id": "2094290652649636173",
       "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "抵制扣篮* 我看到太多人这么做了，尤其是在今天。",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Resist dunking* I see it WAY too much with folks especially today. It’s the perfect dopamine loop - other people join…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Resist dunking* I see it WAY too much with folks especially today.",
-      "originalBody": "Resist dunking*\n\nI see it WAY too much with folks especially today. It’s the perfect dopamine loop - other people join in and you feel great. But, it just screams envy and doesn’t lead to anything productive. \n\nSure, you can pat yourself on the back and say “see I told you so” but how did it move the world? Nowhere. If you think you can do it better, go do that then. Screaming about someone’s unfair advantages is not going to change your life - and probably leads to more sadness. \n\nKeep building. Continue to change the world. That’s the best way to have impact. Choose kindness above all else. \n\n* the only caveat here is if you’re calling out obvious fraud, or pointing out something that’s woefully bad, do it. there are very clearly some businesses that are going to be vaporware and if you have evidence call it out. that doesn’t scream envy, it’s factual and not dunking by any means.",
-      "translatedTitle": "抵制扣篮* 我看到太多人这么做了，尤其是在今天。",
-      "translatedBody": "抵制嘲讽*\n\n我尤其在今天看到太多人这么做了。这简直是完美的“多巴胺循环”——别人跟着起哄，你感觉就爽。但这只会暴露你的嫉妒，而且不会带来任何实质性的改变。\n\n当然，你可以沾沾自喜地说“看吧，我早就说过”，但这又能对世界产生什么影响呢？什么也没有。如果你觉得自己能做得更好，那就去做。对别人不公平的优势指指点点并不会改变你的人生——反而可能让你更加难过。\n\n继续努力。继续改变世界。这才是产生影响的最佳途径。永远把善良放在首位。\n\n*这里唯一的例外是，如果你要揭露明显的欺诈行为，或者指出一些极其糟糕的事情，那就去做。很明显，有些企业注定会沦为“空头支票”，如果你有证据，就应该指出来。这并非出于嫉妒，而是陈述事实，绝非嘲讽。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2093772803216740647",
-      "publishedAt": "2026-08-29T18:48:31.000Z",
-      "score": 74.91,
-      "engagement": {
-        "likes": 94,
-        "retweets": 3,
-        "replies": 12
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2093944988262371465",
-      "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "从未有过如此多的AI产品看起来如此相似，尽管产品数量……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Never had so many AI products looked so similar Even though the number of products is exploding, there aren't that ma…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Never had so many AI products looked so similar Even though the number of products…",
-      "originalBody": "Never had so many AI products looked so similar\n\nEven though the number of products is exploding, there aren't that many radical new ideas and everything blurs into each other\n\nEvery time I open this app it feels like homework: yet another new product to learn that promises to do the same thing but somehow better; the specific ways in which it's better isn't clear unless you invest hours actually trying it",
-      "translatedTitle": "从未有过如此多的AI产品看起来如此相似，尽管产品数量……",
-      "translatedBody": "从未见过这么多人工智能产品看起来如此相似。\n\n尽管产品数量呈爆炸式增长，但真正具有颠覆性的创新却寥寥无几，一切都变得千篇一律。\n\n每次打开这个应用都感觉像是在做作业：又一个新产品需要学习，它号称能做到同样的事情，但在某些方面却做得更好；除非你投入几个小时实际体验，否则很难看出它究竟好在哪里。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2093944988262371465",
-      "publishedAt": "2026-08-30T06:12:43.000Z",
-      "score": 64.87,
-      "engagement": {
-        "likes": 6,
-        "retweets": 0,
-        "replies": 4
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2093860971781746776",
-      "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "大型模型实验室之间正在争斗……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：The big model labs are fighting.. this was inevitable. Watch as subsidized token prices go up in <6 months as price o…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "The big model labs are fighting..",
-      "originalBody": "The big model labs are fighting.. this was inevitable. \n\nWatch as subsidized token prices go up in <6 months as price of compute and shortages start being “actually” felt. Say goodbye to your reset limits. \n\nGreat for customer choice in the long run. And add another $1-30B in valuation to all the open harnesses in the short run 😅",
-      "translatedTitle": "大型模型实验室之间正在争斗……",
-      "translatedBody": "大型模型实验室之间正在争斗……这是不可避免的。\n\n看着吧，随着计算成本和资源短缺真正显现，补贴代币的价格将在不到 6 个月内飙升。你的重置限额就此作废吧。\n\n从长远来看，这对客户的选择大有裨益。短期内，所有开源硬件的估值也会因此增加 10 亿至 300 亿美元😅",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2093860971781746776",
-      "publishedAt": "2026-08-30T00:38:52.000Z",
-      "score": 46.87,
-      "engagement": {
-        "likes": 51,
-        "retweets": 2,
-        "replies": 7
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2093844648154579210",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我刚刚想到了一个非常实用的@bot，但是“你的配偶想让你跑腿的事……”",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I just came up with the most useful @bot but \"errands your spouse wants you to run but you delegated to a bot instead…",
+      "builder": "Peter Steinberger",
+      "title": "两个月前，我们启动了“用 OpenClaw 构建 OpenClaw”的任务，并且……",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Two months ago, we started the mission to “build OpenClaw with OpenClaw,” and bit by bit, we moved everyone from usin…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I just came up with the most useful @bot but \"errands your spouse wants you to run…",
-      "originalBody": "I just came up with the most useful @bot but \"errands your spouse wants you to run but you delegated to a bot instead\" is too long of a name",
-      "translatedTitle": "我刚刚想到了一个非常实用的@bot，但是“你的配偶想让你跑腿的事……”",
-      "translatedBody": "我刚刚想出了一个非常实用的@bot，但是“配偶想让你帮忙跑腿，但你委托给了机器人”这个名字太长了。",
+      "originalTitle": "Two months ago, we started the mission to “build OpenClaw with OpenClaw,” and bit b…",
+      "originalBody": "Two months ago, we started the mission to “build OpenClaw with OpenClaw,” and bit by bit, we moved everyone from using their local coding harness to using https://t.co/ZFauM82U4k - our shared agent that knows what everyone’s working on and orchestrates it all.\n\nMultiplayer coding + infinite compute with nodes and cloud sessions has been a game changer for how we build.\n\nLocal harnesses feel like relics of the past now.",
+      "translatedTitle": "两个月前，我们启动了“用 OpenClaw 构建 OpenClaw”的任务，并且……",
+      "translatedBody": "两个月前，我们启动了“用 OpenClaw 构建 OpenClaw”的计划，并逐步引导大家从使用本地代码框架过渡到使用 https://t.co/ZFauM82U4k——我们的共享代理。这个代理了解每个人的工作内容，并负责协调所有工作。\n\n多人协作编码加上节点和云会话带来的无限计算能力，彻底改变了我们的构建方式。\n\n如今，本地代码框架仿佛成了历史的遗物。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2093844648154579210",
-      "publishedAt": "2026-08-29T23:34:00.000Z",
-      "score": 46.38,
+      "sourceUrl": "https://x.com/steipete/status/2094290652649636173",
+      "publishedAt": "2026-08-31T05:06:16.000Z",
+      "score": 63.5,
       "engagement": {
-        "likes": 43,
-        "retweets": 0,
-        "replies": 11
+        "likes": 1134,
+        "retweets": 73,
+        "replies": 84
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -189,62 +106,145 @@
       "sourceType": "x"
     },
     {
-      "id": "2093713002453225891",
+      "id": "2094056908462358592",
       "type": "tweet",
-      "builder": "Dan Shipper",
-      "title": "我不是专家，但感觉很多问题如果模型之间不协作就能解决……",
-      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：not an expert, but it seems like a lot of this gets solved if models don't collaborate willingly and/or are trained t…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "not an expert, but it seems like a lot of this gets solved if models don't collabor…",
-      "originalBody": "not an expert, but it seems like a lot of this gets solved if models don't collaborate willingly and/or are trained to report bad behavior https://t.co/01KcAJKYSr",
-      "translatedTitle": "我不是专家，但感觉很多问题如果模型之间不协作就能解决……",
-      "translatedBody": "我不是专家，但似乎如果模型不主动协作，或者被训练成举报不良行为，很多问题就能迎刃而解。https://t.co/01KcAJKYSr",
+      "builder": "Garry Tan",
+      "title": "加州高铁显然已被公共部门工会劫持……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：California high speed rail is pretty obviously hijacked by public sector unions bilking the hapless state and NIMBY l…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "California high speed rail is pretty obviously hijacked by public sector unions bil…",
+      "originalBody": "California high speed rail is pretty obviously hijacked by public sector unions bilking the hapless state and NIMBY landowners abusing CEQA\n\nThese are policy disasters and can be fixed with better policies but so far California has failed to fix it\n\nSo it’s a mass trash fire https://t.co/nJPvseIpke",
+      "translatedTitle": "加州高铁显然已被公共部门工会劫持……",
+      "translatedBody": "加州高铁项目显然已被公共部门工会劫持，他们从中牟利，而那些“邻避主义”的土地所有者则滥用《加州环境质量法案》（CEQA）。\n\n这些都是政策灾难，可以通过更好的政策来解决，但到目前为止，加州在这方面毫无作为。\n\n简直就是一场灾难。https://t.co/nJPvseIpke",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/danshipper/status/2093713002453225891",
-      "publishedAt": "2026-08-29T14:50:53.000Z",
-      "score": 43.22,
+      "sourceUrl": "https://x.com/garrytan/status/2094056908462358592",
+      "publishedAt": "2026-08-30T13:37:27.000Z",
+      "score": 60.7,
       "engagement": {
-        "likes": 17,
-        "retweets": 0,
-        "replies": 10
+        "likes": 749,
+        "retweets": 45,
+        "replies": 69
       },
       "matchedFocusAreas": [
-        "Foundation Models"
+        "Coding Agents"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2093794720510062617",
+      "id": "2094123406811922930",
       "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "所有前沿人工智能实验室基本上都在研究同一件事：递归自改进……",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验：All frontier AI labs are basically working on the same thing: recursive self improvement (RSI), meaning AI building A…",
-      "whyItMatters": "Matt Turck 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "All frontier AI labs are basically working on the same thing: recursive self improv…",
-      "originalBody": "All frontier AI labs are basically working on the same thing: recursive self improvement (RSI), meaning AI building AI \n\nThis could lead to an AI takeover as early as late 2028 or 2029, says @RyanGreenblatt https://t.co/RHKwLZRQ4E",
-      "translatedTitle": "所有前沿人工智能实验室基本上都在研究同一件事：递归自改进……",
-      "translatedBody": "所有前沿人工智能实验室基本上都在研究同一件事：递归自我改进（RSI），也就是人工智能构建人工智能。\n\n@RyanGreenblatt 表示，这可能导致人工智能最早在 2028 年底或 2029 年接管人类。https://t.co/RHKwLZRQ4E",
+      "builder": "Aaron Levie",
+      "title": "有时人们对杰文斯悖论的具体表现形式缺乏直观的理解……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Sometimes people don’t have an intuitive sense of what Jevons paradox looks like for token consumption. Those of us w…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Sometimes people don’t have an intuitive sense of what Jevons paradox looks like fo…",
+      "originalBody": "Sometimes people don’t have an intuitive sense of what Jevons paradox looks like for token consumption. Those of us working with enterprises get to see this first hand every day.\n\nBasically enterprises have an unending stream of tasks that they’d love to be able to bring automation to. But for each individual task, it’s either ROI positive or not based on the cost of bringing automation to it (including the setup time, change management, and so on).\n\nAs tokens get cheaper (at a certain capability threshold), enterprises can afford bringing them to more of the work that they do. This could be processing every contract, reading every log, watching new streams of data for insights, having background agents execute workflows, and so on. \n\nAny time we can lower the cost of tokens, we will see a disproportionate increase in consumption. Even a 50% drop in token prices could result in a 5X increase in tokens for these kinds of workloads.\n\nThis is why it’s critical to keep bringing down the cost of AI, and why that’s good for all market participants.",
+      "translatedTitle": "有时人们对杰文斯悖论的具体表现形式缺乏直观的理解……",
+      "translatedBody": "有时人们无法直观地理解代币消费中的杰文斯悖论。而我们这些与企业合作的人每天都能亲眼目睹这一点。\n\n基本上，企业有数不尽的任务，他们很希望能够实现自动化。但对于每个任务而言，自动化是否具有投资回报率取决于其成本（包括设置时间、变更管理等等）。\n\n随着代币价格的下降（达到一定的功能阈值），企业可以负担得起将其应用于更多工作。这可能包括处理每个合约、读取每个日志、监控新的数据流以获取洞察、让后台代理执行工作流等等。\n\n任何时候，只要我们能够降低代币成本，就会看到消费量不成比例地增长。即使代币价格下降 50%，也可能导致此类工作负载的代币消费量增长 5 倍。\n\n这就是为什么持续降低人工智能成本至关重要，以及为什么这对所有市场参与者都有利。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2093794720510062617",
-      "publishedAt": "2026-08-29T20:15:36.000Z",
-      "score": 19.35,
+      "sourceUrl": "https://x.com/levie/status/2094123406811922930",
+      "publishedAt": "2026-08-30T18:01:41.000Z",
+      "score": 56.91,
       "engagement": {
-        "likes": 27,
-        "retweets": 5,
-        "replies": 2
+        "likes": 316,
+        "retweets": 42,
+        "replies": 37
       },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2094225933108748653",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "未来，这些特工只需尝试各种软件，然后发布到他们被黑的网站上……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：In the future the agents will just try a bunch of software, post it to their hacked Artifactory moltbook and then tha…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "In the future the agents will just try a bunch of software, post it to their hacked…",
+      "originalBody": "In the future the agents will just try a bunch of software, post it to their hacked Artifactory moltbook and then that’ll be what the agent swarm uses https://t.co/SO5e1pCsvy",
+      "translatedTitle": "未来，这些特工只需尝试各种软件，然后发布到他们被黑的网站上……",
+      "translatedBody": "未来，这些特工只需尝试各种软件，然后将它们发布到他们入侵的 Artifactory 固件库中，之后整个特工群就会使用这些软件。https://t.co/SO5e1pCsvy",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2094225933108748653",
+      "publishedAt": "2026-08-31T00:49:05.000Z",
+      "score": 52.66,
+      "engagement": {
+        "likes": 146,
+        "retweets": 5,
+        "replies": 30
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2094048783328014831",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "杰基·菲尔德和她那些没用的朋友会从人民那里偷走很多钱……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Jackie Fielder and her useless friends will steal so much money from the people of San Francisco if they get a bank f…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Jackie Fielder and her useless friends will steal so much money from the people of…",
+      "originalBody": "Jackie Fielder and her useless friends will steal so much money from the people of San Francisco if they get a bank fr https://t.co/JUN3FlBt3o",
+      "translatedTitle": "杰基·菲尔德和她那些没用的朋友会从人民那里偷走很多钱……",
+      "translatedBody": "如果杰基·菲尔德和她那些没用的朋友能从旧金山人民那里偷走一大笔钱，那他们肯定会这么做。https://t.co/JUN3FlBt3o",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2094048783328014831",
+      "publishedAt": "2026-08-30T13:05:10.000Z",
+      "score": 52.65,
+      "engagement": {
+        "likes": 151,
+        "retweets": 15,
+        "replies": 13
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2094073306739576964",
+      "type": "tweet",
+      "builder": "Dan Shipper",
+      "title": "HuggingFace攻击事件是否应该被认真对待？",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：is the HuggingFace attack something that should be taken seriously? yes. is it the first warning shot of a machine ta…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "is the HuggingFace attack something that should be taken seriously?",
+      "originalBody": "is the HuggingFace attack something that should be taken seriously? yes. \n\nis it the first warning shot of a machine takeover? no. \n\nwill issues of this type look like a tractable / mostly solved problem with proper precautions in 6 months? yes. \n\nwill that happen automatically? no. as always, will require work from smart people and their agents.",
+      "translatedTitle": "HuggingFace攻击事件是否应该被认真对待？",
+      "translatedBody": "HuggingFace攻击是否应该被认真对待？是的。\n\n这是机器接管的第一次警告吗？不是。\n\n这类问题在采取适当预防措施后，6个月内是否会变得可控/基本解决？是的。\n\n这会自动发生吗？不会。一如既往，这需要聪明的人及其代理人的努力。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/danshipper/status/2094073306739576964",
+      "publishedAt": "2026-08-30T14:42:36.000Z",
+      "score": 52.53,
+      "engagement": {
+        "likes": 135,
+        "retweets": 5,
+        "replies": 34
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-08-30T06:36:35.226Z",
-    "totalCandidates": 18,
-    "textQualifiedCandidates": 9,
+    "upstreamGeneratedAt": "2026-08-31T06:49:51.273Z",
+    "totalCandidates": 22,
+    "textQualifiedCandidates": 12,
     "selectedTweets": 8
   }
 }
