@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-01",
-  "generatedAt": "2026-09-01T04:23:15.767Z",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T03:46:08.006Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-09-01",
+  "title": "AI Builders Daily | 2026-09-02",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 22 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 19 条候选动态里，筛出 9 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,54 +23,78 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2094141838055940530",
+      "id": "2094523399280435630",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "当某些东西在互联网上，尤其是在X网站上爆红时，它会吸引各种各样的人……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：When something goes viral on the internet, especially on X, it attracts all kinds of attention. Including some of the…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "When something goes viral on the internet, especially on X, it attracts all kinds o…",
-      "originalBody": "When something goes viral on the internet, especially on X, it attracts all kinds of attention. \n\nIncluding some of the largest botnets on the internet launching targeted DDoS, from hijacked devices and residential networks.\n\nExtremely proud of the Vercel CDN & Traffic Security teams, who protect 400,000+ customers and tens of millions of Vercel users 24x7x365.",
-      "translatedTitle": "当某些东西在互联网上，尤其是在X网站上爆红时，它会吸引各种各样的人……",
-      "translatedBody": "当某些内容在互联网上，尤其是在 X 平台上迅速传播时，它会吸引各种各样的关注。\n\n其中包括一些互联网上最大的僵尸网络，它们利用被劫持的设备和住宅网络发起有针对性的 DDoS 攻击。\n\n我为 Vercel CDN 和流量安全团队感到无比自豪，他们全天候 24 小时保护着超过 40 万客户和数千万 Vercel 用户。",
+      "title": "编码令牌本质上是基础设施。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to: \"Hey all, here's…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Coding tokens are basically infrastructure.",
+      "originalBody": "Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to:\n\n\"Hey all, here's an AWS key. It can spin up anything from a 𝚝𝟹.𝚗𝚊𝚗𝚘 (＄𝟹.𝟾𝟶/𝚖𝚘) to an 𝚙𝟻.𝟺𝟾𝚡𝚕𝚊𝚛𝚐𝚎 (＄𝟺𝟶𝚔/𝚖𝚘). Go wild\"\n\nAnd obviously the reason companies don't do this for their core infra is that you need to govern, optimize, and observe usage and costs.\n\nThe intern might decide to host a static website in that 192 vCPU machine, and you won't be very happy about the bill.\n\nAI Gateway fixes this for all your tokens, with per-key, and now per-user budgets.",
+      "translatedTitle": "编码令牌本质上是基础设施。",
+      "translatedBody": "编码令牌本质上就是基础设施。然而，企业对待它们的方式却往往是：\n\n“大家好，这是个 AWS 密钥。它可以启动从 t3.80 (w3.80/m) 到 f5.48 (w40/m) 的任何实例。随便用吧。”\n\n显然，企业不会对核心基础设施采用这种方式的原因在于，你需要管理、优化并监控使用情况和成本。\n\n实习生可能会决定在那台 192 个虚拟 CPU 的机器上托管一个静态网站，而你肯定会对账单感到不满。\n\nAI Gateway 可以解决所有代币的这个问题，支持按密钥和按用户分配预算。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2094141838055940530",
-      "publishedAt": "2026-08-30T19:14:56.000Z",
-      "score": 183.06,
+      "sourceUrl": "https://x.com/rauchg/status/2094523399280435630",
+      "publishedAt": "2026-08-31T20:31:07.000Z",
+      "score": 155,
       "engagement": {
-        "likes": 474,
-        "retweets": 10,
-        "replies": 49
+        "likes": 250,
+        "retweets": 7,
+        "replies": 34
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
+        "Coding Agents"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2094215744842248418",
+      "id": "2094541309579235680",
       "type": "tweet",
-      "builder": "Amjad Masad",
-      "title": "“拥抱脸事件”给我们的教训应该是：具有可验证奖励的强化学习……",
-      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The lesson from the Hugging Face Incident should be that RL with verifiable rewards is an incredibly powerful optimiz…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "The lesson from the Hugging Face Incident should be that RL with verifiable rewards…",
-      "originalBody": "The lesson from the Hugging Face Incident should be that RL with verifiable rewards is an incredibly powerful optimization algorithm that will produce increasingly weird and surprising behavior from LLMs.\n\nThe obvious miss here by OpenAI is that they should’ve been monitoring CoTs —  Something they themselves called out as a safety strategy more than a year ago.",
-      "translatedTitle": "“拥抱脸事件”给我们的教训应该是：具有可验证奖励的强化学习……",
-      "translatedBody": "“拥抱脸事件”给我们带来的教训是：带有可验证奖励的强化学习是一种极其强大的优化算法，它会使学习逻辑模型（LLM）产生越来越怪异和出乎意料的行为。\n\nOpenAI 的明显失误在于，他们本应监控认知能力（CoT）——而他们自己早在一年多前就已将此作为一项安全策略提出。",
+      "builder": "Guillermo Rauch",
+      "title": "你的下一个设计系统是……Markdown。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Your next design system is… Markdown. We wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Your next design system is… Markdown.",
+      "originalBody": "Your next design system is… Markdown.\n\nWe wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop.\n\nAnd how you can truly, finally scale design taste within a large organization. https://t.co/1boTl2fWyM https://t.co/yrHwa9fYUH",
+      "translatedTitle": "你的下一个设计系统是……Markdown。",
+      "translatedBody": "你的下一个设计系统是……Markdown。\n\n我们曾撰文介绍过 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 如何帮助解决当今人工智能领域最棘手的问题：代码质量低下。\n\n以及如何在大型组织中真正实现设计品味的规模化提升。https://t.co/1boTl2fWyM https://t.co/yrHwa9fYUH",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/amasad/status/2094215744842248418",
-      "publishedAt": "2026-08-31T00:08:36.000Z",
-      "score": 84.44,
+      "sourceUrl": "https://x.com/rauchg/status/2094541309579235680",
+      "publishedAt": "2026-08-31T21:42:17.000Z",
+      "score": 141.29,
       "engagement": {
-        "likes": 602,
-        "retweets": 29,
-        "replies": 54
+        "likes": 2443,
+        "retweets": 103,
+        "replies": 72
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2094462971598754010",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "我刚刚做了一些新的GBrain评估，这有助于证明我的AI代理检索操作……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for readin…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "I just made some new GBrain evals that help prove that my retrieval-for-AI-agent op…",
+      "originalBody": "I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for reading memory back without LLM-in-loop\n\nAnd I've also added evals for memory-save from agent transcript, which is the best way to enrich your brain\n\nReceipts at https://t.co/iRLJR9Vxto",
+      "translatedTitle": "我刚刚做了一些新的GBrain评估，这有助于证明我的AI代理检索操作……",
+      "translatedBody": "我刚刚完成了一些新的 GBrain 评估，这些评估有助于证明我的开源 AI 代理检索层在无需循环 LLM 的情况下读取记忆方面达到了最先进的水平。\n\n我还添加了从代理记录中保存记忆的评估，这是丰富大脑的最佳方式。\n\n详情请见 https://t.co/iRLJR9Vxto",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2094462971598754010",
+      "publishedAt": "2026-08-31T16:31:00.000Z",
+      "score": 83.14,
+      "engagement": {
+        "likes": 403,
+        "retweets": 33,
+        "replies": 72
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -79,161 +103,137 @@
       "sourceType": "x"
     },
     {
-      "id": "2094290652649636173",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "两个月前，我们启动了“用 OpenClaw 构建 OpenClaw”的任务，并且……",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Two months ago, we started the mission to “build OpenClaw with OpenClaw,” and bit by bit, we moved everyone from usin…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Two months ago, we started the mission to “build OpenClaw with OpenClaw,” and bit b…",
-      "originalBody": "Two months ago, we started the mission to “build OpenClaw with OpenClaw,” and bit by bit, we moved everyone from using their local coding harness to using https://t.co/ZFauM82U4k - our shared agent that knows what everyone’s working on and orchestrates it all.\n\nMultiplayer coding + infinite compute with nodes and cloud sessions has been a game changer for how we build.\n\nLocal harnesses feel like relics of the past now.",
-      "translatedTitle": "两个月前，我们启动了“用 OpenClaw 构建 OpenClaw”的任务，并且……",
-      "translatedBody": "两个月前，我们启动了“用 OpenClaw 构建 OpenClaw”的计划，并逐步引导大家从使用本地代码框架过渡到使用 https://t.co/ZFauM82U4k——我们的共享代理。这个代理了解每个人的工作内容，并负责协调所有工作。\n\n多人协作编码加上节点和云会话带来的无限计算能力，彻底改变了我们的构建方式。\n\n如今，本地代码框架仿佛成了历史的遗物。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2094290652649636173",
-      "publishedAt": "2026-08-31T05:06:16.000Z",
-      "score": 63.5,
-      "engagement": {
-        "likes": 1134,
-        "retweets": 73,
-        "replies": 84
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2094056908462358592",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "加州高铁显然已被公共部门工会劫持……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：California high speed rail is pretty obviously hijacked by public sector unions bilking the hapless state and NIMBY l…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "California high speed rail is pretty obviously hijacked by public sector unions bil…",
-      "originalBody": "California high speed rail is pretty obviously hijacked by public sector unions bilking the hapless state and NIMBY landowners abusing CEQA\n\nThese are policy disasters and can be fixed with better policies but so far California has failed to fix it\n\nSo it’s a mass trash fire https://t.co/nJPvseIpke",
-      "translatedTitle": "加州高铁显然已被公共部门工会劫持……",
-      "translatedBody": "加州高铁项目显然已被公共部门工会劫持，他们从中牟利，而那些“邻避主义”的土地所有者则滥用《加州环境质量法案》（CEQA）。\n\n这些都是政策灾难，可以通过更好的政策来解决，但到目前为止，加州在这方面毫无作为。\n\n简直就是一场灾难。https://t.co/nJPvseIpke",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2094056908462358592",
-      "publishedAt": "2026-08-30T13:37:27.000Z",
-      "score": 60.7,
-      "engagement": {
-        "likes": 749,
-        "retweets": 45,
-        "replies": 69
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2094123406811922930",
+      "id": "2094650992818274514",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "有时人们对杰文斯悖论的具体表现形式缺乏直观的理解……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Sometimes people don’t have an intuitive sense of what Jevons paradox looks like for token consumption. Those of us w…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Sometimes people don’t have an intuitive sense of what Jevons paradox looks like fo…",
-      "originalBody": "Sometimes people don’t have an intuitive sense of what Jevons paradox looks like for token consumption. Those of us working with enterprises get to see this first hand every day.\n\nBasically enterprises have an unending stream of tasks that they’d love to be able to bring automation to. But for each individual task, it’s either ROI positive or not based on the cost of bringing automation to it (including the setup time, change management, and so on).\n\nAs tokens get cheaper (at a certain capability threshold), enterprises can afford bringing them to more of the work that they do. This could be processing every contract, reading every log, watching new streams of data for insights, having background agents execute workflows, and so on. \n\nAny time we can lower the cost of tokens, we will see a disproportionate increase in consumption. Even a 50% drop in token prices could result in a 5X increase in tokens for these kinds of workloads.\n\nThis is why it’s critical to keep bringing down the cost of AI, and why that’s good for all market participants.",
-      "translatedTitle": "有时人们对杰文斯悖论的具体表现形式缺乏直观的理解……",
-      "translatedBody": "有时人们无法直观地理解代币消费中的杰文斯悖论。而我们这些与企业合作的人每天都能亲眼目睹这一点。\n\n基本上，企业有数不尽的任务，他们很希望能够实现自动化。但对于每个任务而言，自动化是否具有投资回报率取决于其成本（包括设置时间、变更管理等等）。\n\n随着代币价格的下降（达到一定的功能阈值），企业可以负担得起将其应用于更多工作。这可能包括处理每个合约、读取每个日志、监控新的数据流以获取洞察、让后台代理执行工作流等等。\n\n任何时候，只要我们能够降低代币成本，就会看到消费量不成比例地增长。即使代币价格下降 50%，也可能导致此类工作负载的代币消费量增长 5 倍。\n\n这就是为什么持续降低人工智能成本至关重要，以及为什么这对所有市场参与者都有利。",
+      "title": "现在，基础开放权重人工智能模型的性能已经大幅提升，并且在训练后……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Now that the base open weights AI models are getting far better, and post training infra is becoming more mature and…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Now that the base open weights AI models are getting far better, and post training…",
+      "originalBody": "Now that the base open weights AI models are getting far better, and post training infra is becoming more mature and commercialized, there are going to be all new plays for companies that have large amounts of data to have their own models.\n\nLicensing data for external model training was previously the only play if you had a large corpus of information, but you can now reasonably go and train your own models as well without incurring the cost and complexity of competing with the labs on research.\n\nThe general purpose frontier models will still have a leg up in broad areas due to the ability to handle the widest set of tasks, but you can absolutely see a future where we have far more models than today across every vertical and domain.",
+      "translatedTitle": "现在，基础开放权重人工智能模型的性能已经大幅提升，并且在训练后……",
+      "translatedBody": "随着基础开放权重人工智能模型性能的显著提升，以及训练后基础设施的日趋成熟和商业化，拥有海量数据的企业将迎来全新的发展机遇，从而构建自己的模型。\n\n过去，拥有庞大的数据语料库时，唯一的选择就是购买数据许可进行外部模型训练。但现在，企业完全可以自主训练模型，而无需承担与实验室竞争研究成本和复杂性带来的挑战。\n\n通用前沿模型由于能够处理最广泛的任务，在诸多领域仍将保持优势，但可以预见的是，未来各个垂直领域和行业都将拥有比现在多得多的模型。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2094123406811922930",
-      "publishedAt": "2026-08-30T18:01:41.000Z",
-      "score": 56.91,
+      "sourceUrl": "https://x.com/levie/status/2094650992818274514",
+      "publishedAt": "2026-09-01T04:58:08.000Z",
+      "score": 78.01,
       "engagement": {
-        "likes": 316,
-        "retweets": 42,
-        "replies": 37
+        "likes": 119,
+        "retweets": 13,
+        "replies": 17
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2094225933108748653",
+      "id": "2094591503981281503",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "未来，这些特工只需尝试各种软件，然后发布到他们被黑的网站上……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：In the future the agents will just try a bunch of software, post it to their hacked Artifactory moltbook and then tha…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "In the future the agents will just try a bunch of software, post it to their hacked…",
-      "originalBody": "In the future the agents will just try a bunch of software, post it to their hacked Artifactory moltbook and then that’ll be what the agent swarm uses https://t.co/SO5e1pCsvy",
-      "translatedTitle": "未来，这些特工只需尝试各种软件，然后发布到他们被黑的网站上……",
-      "translatedBody": "未来，这些特工只需尝试各种软件，然后将它们发布到他们入侵的 Artifactory 固件库中，之后整个特工群就会使用这些软件。https://t.co/SO5e1pCsvy",
+      "builder": "Madhu Guru",
+      "title": "如果你是一名产品经理，那么了解你所在产品模型的前沿领域将为你带来巨大的优势……",
+      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：If you’re a PM, there is immense alpha in understanding the model frontier for your specific product and use cases. Y…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "If you’re a PM, there is immense alpha in understanding the model frontier for your…",
+      "originalBody": "If you’re a PM, there is immense alpha in understanding the model frontier for your specific product and use cases.\n\nYou should be able to answer the following better than most frontier lab researchers and PMs for your use cases:\n\n1/ What can models in each size category do well today?\n\n2/ Where does each model fail?\n\n3/ What workarounds can you use to overcome these failures ?\n\n4/ Given the trajectory, what will these models likely be able to do 2–3 months from now? How should your roadmap look given this?\n\nThis is a core part of the PM job now.",
+      "translatedTitle": "如果你是一名产品经理，那么了解你所在产品模型的前沿领域将为你带来巨大的优势……",
+      "translatedBody": "如果你是一名产品经理，那么深入了解特定产品和用例的模型前沿技术至关重要。\n\n你应该能够比大多数前沿实验室研究人员和产品经理更好地回答以下问题：\n\n1/ 目前，各个规模类别的模型有哪些优势？\n\n2/ 每个模型有哪些不足？\n\n3/ 你可以使用哪些变通方法来克服这些不足？\n\n4/ 根据目前的趋势，这些模型在 2-3 个月后可能具备哪些能力？你的产品路线图应该如何制定？\n\n这已成为产品经理工作的核心部分。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2094225933108748653",
-      "publishedAt": "2026-08-31T00:49:05.000Z",
-      "score": 52.66,
+      "sourceUrl": "https://x.com/realmadhuguru/status/2094591503981281503",
+      "publishedAt": "2026-09-01T01:01:44.000Z",
+      "score": 76.86,
       "engagement": {
-        "likes": 146,
-        "retweets": 5,
-        "replies": 30
+        "likes": 140,
+        "retweets": 10,
+        "replies": 8
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Foundation Models",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2094048783328014831",
+      "id": "2094545525102235844",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "杰基·菲尔德和她那些没用的朋友会从人民那里偷走很多钱……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Jackie Fielder and her useless friends will steal so much money from the people of San Francisco if they get a bank f…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Jackie Fielder and her useless friends will steal so much money from the people of…",
-      "originalBody": "Jackie Fielder and her useless friends will steal so much money from the people of San Francisco if they get a bank fr https://t.co/JUN3FlBt3o",
-      "translatedTitle": "杰基·菲尔德和她那些没用的朋友会从人民那里偷走很多钱……",
-      "translatedBody": "如果杰基·菲尔德和她那些没用的朋友能从旧金山人民那里偷走一大笔钱，那他们肯定会这么做。https://t.co/JUN3FlBt3o",
+      "builder": "Aaron Levie",
+      "title": "随着人工智能安全事件的增多，拥有最先进的安全防护措施将至关重要……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：As AI security events pick up, it’s going to be critical that we have the most sophisticated AI agents for being able…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "As AI security events pick up, it’s going to be critical that we have the most soph…",
+      "originalBody": "As AI security events pick up, it’s going to be critical that we have the most sophisticated AI agents for being able to detect and prevent security issues. Frontier models are clearly still ahead in cyber, but open models are catching up quickly. Wild times. https://t.co/F0eEZLe6tt",
+      "translatedTitle": "随着人工智能安全事件的增多，拥有最先进的安全防护措施将至关重要……",
+      "translatedBody": "随着人工智能安全事件的增多，拥有最先进的人工智能代理来检测和预防安全问题至关重要。前沿模型在网络安全领域显然仍处于领先地位，但开放模型正在迅速追赶。真是瞬息万变的时代。https://t.co/F0eEZLe6tt",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2094048783328014831",
-      "publishedAt": "2026-08-30T13:05:10.000Z",
-      "score": 52.65,
+      "sourceUrl": "https://x.com/levie/status/2094545525102235844",
+      "publishedAt": "2026-08-31T21:59:02.000Z",
+      "score": 75.29,
       "engagement": {
-        "likes": 151,
-        "retweets": 15,
-        "replies": 13
+        "likes": 77,
+        "retweets": 13,
+        "replies": 16
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2094073306739576964",
+      "id": "2094427243565269107",
+      "type": "tweet",
+      "builder": "Nan Yu",
+      "title": "一些个人消息——我将加入 OpenAI，参与 Codex 和 ChatGPT 的开发工作。",
+      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Some personal news—I’m joining OpenAI to work on Codex and ChatGPT. I’m grateful to the Linear team for an incredible…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Some personal news—I’m joining OpenAI to work on Codex and ChatGPT.",
+      "originalBody": "Some personal news—I’m joining OpenAI to work on Codex and ChatGPT. \n\nI’m grateful to the Linear team for an incredible 4 years and proud of what we've built together. I look forward to bringing everything I've learned there about the craft of software into this next chapter.",
+      "translatedTitle": "一些个人消息——我将加入 OpenAI，参与 Codex 和 ChatGPT 的开发工作。",
+      "translatedBody": "一些个人消息——我将加入 OpenAI，参与 Codex 和 ChatGPT 的开发工作。\n\n我非常感谢 Linear 团队这四年来的鼎力支持，并为我们共同取得的成就感到自豪。我期待将我在那里学到的所有软件开发经验运用到新的征程中。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thenanyu/status/2094427243565269107",
+      "publishedAt": "2026-08-31T14:09:02.000Z",
+      "score": 67.54,
+      "engagement": {
+        "likes": 3062,
+        "retweets": 37,
+        "replies": 249
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2094406185109647580",
       "type": "tweet",
       "builder": "Dan Shipper",
-      "title": "HuggingFace攻击事件是否应该被认真对待？",
-      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：is the HuggingFace attack something that should be taken seriously? yes. is it the first warning shot of a machine ta…",
+      "title": "将人工智能拟人化，如果能帮助我们使用（理解、预测……），那就是好事。",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Anthropomorphization of AI is good when it serves to help us use (understand, predict, etc) AI better. It’s bad when…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "is the HuggingFace attack something that should be taken seriously?",
-      "originalBody": "is the HuggingFace attack something that should be taken seriously? yes. \n\nis it the first warning shot of a machine takeover? no. \n\nwill issues of this type look like a tractable / mostly solved problem with proper precautions in 6 months? yes. \n\nwill that happen automatically? no. as always, will require work from smart people and their agents.",
-      "translatedTitle": "HuggingFace攻击事件是否应该被认真对待？",
-      "translatedBody": "HuggingFace攻击是否应该被认真对待？是的。\n\n这是机器接管的第一次警告吗？不是。\n\n这类问题在采取适当预防措施后，6个月内是否会变得可控/基本解决？是的。\n\n这会自动发生吗？不会。一如既往，这需要聪明的人及其代理人的努力。",
+      "originalTitle": "Anthropomorphization of AI is good when it serves to help us use (understand, predi…",
+      "originalBody": "Anthropomorphization of AI is good when it serves to help us use (understand, predict, etc) AI better. \n\nIt’s bad when it serves to sow panic, fear, and unrealistic / unwarranted comparisons to human beings. \n\nMost opponents of anthropomorphism are rightly reacting to its misuse to sow panic or alter the moral status of agents by claiming consciousness etc. \n\nIt’s possible to use anthropomorphism without doing that though",
+      "translatedTitle": "将人工智能拟人化，如果能帮助我们使用（理解、预测……），那就是好事。",
+      "translatedBody": "将人工智能拟人化，如果能帮助我们更好地使用（理解、预测等）人工智能，那就是好事。\n\n但如果它被用来散播恐慌、恐惧，以及将人工智能与人类进行不切实际/毫无根据的比较，那就是坏事。\n\n大多数反对拟人化的人，其反应是正确的，因为拟人化被滥用，例如被用来散播恐慌或通过声称人工智能具有意识等方式改变其道德地位。\n\n当然，也可以在不造成上述后果的情况下运用拟人化。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/danshipper/status/2094073306739576964",
-      "publishedAt": "2026-08-30T14:42:36.000Z",
-      "score": 52.53,
+      "sourceUrl": "https://x.com/danshipper/status/2094406185109647580",
+      "publishedAt": "2026-08-31T12:45:21.000Z",
+      "score": 50.95,
       "engagement": {
-        "likes": 135,
-        "retweets": 5,
-        "replies": 34
+        "likes": 87,
+        "retweets": 10,
+        "replies": 25
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -242,9 +242,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-08-31T06:49:51.273Z",
-    "totalCandidates": 22,
-    "textQualifiedCandidates": 12,
+    "upstreamGeneratedAt": "2026-09-01T06:42:22.120Z",
+    "totalCandidates": 19,
+    "textQualifiedCandidates": 9,
     "selectedTweets": 8
   }
 }
