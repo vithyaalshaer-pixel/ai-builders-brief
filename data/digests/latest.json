@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-02",
-  "generatedAt": "2026-09-02T03:46:08.006Z",
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T03:45:44.075Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-09-02",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 19 条候选动态里，筛出 9 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-09-03",
+  "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 38 条候选动态里，筛出 22 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,134 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2094523399280435630",
+      "id": "2094934592062959832",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "编码令牌本质上是基础设施。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to: \"Hey all, here's…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Coding tokens are basically infrastructure.",
-      "originalBody": "Coding tokens are basically infrastructure. Yet, the way companies have approached them amounts to:\n\n\"Hey all, here's an AWS key. It can spin up anything from a 𝚝𝟹.𝚗𝚊𝚗𝚘 (＄𝟹.𝟾𝟶/𝚖𝚘) to an 𝚙𝟻.𝟺𝟾𝚡𝚕𝚊𝚛𝚐𝚎 (＄𝟺𝟶𝚔/𝚖𝚘). Go wild\"\n\nAnd obviously the reason companies don't do this for their core infra is that you need to govern, optimize, and observe usage and costs.\n\nThe intern might decide to host a static website in that 192 vCPU machine, and you won't be very happy about the bill.\n\nAI Gateway fixes this for all your tokens, with per-key, and now per-user budgets.",
-      "translatedTitle": "编码令牌本质上是基础设施。",
-      "translatedBody": "编码令牌本质上就是基础设施。然而，企业对待它们的方式却往往是：\n\n“大家好，这是个 AWS 密钥。它可以启动从 t3.80 (w3.80/m) 到 f5.48 (w40/m) 的任何实例。随便用吧。”\n\n显然，企业不会对核心基础设施采用这种方式的原因在于，你需要管理、优化并监控使用情况和成本。\n\n实习生可能会决定在那台 192 个虚拟 CPU 的机器上托管一个静态网站，而你肯定会对账单感到不满。\n\nAI Gateway 可以解决所有代币的这个问题，支持按密钥和按用户分配预算。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2094523399280435630",
-      "publishedAt": "2026-08-31T20:31:07.000Z",
-      "score": 155,
-      "engagement": {
-        "likes": 250,
-        "retweets": 7,
-        "replies": 34
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2094541309579235680",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "你的下一个设计系统是……Markdown。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Your next design system is… Markdown. We wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI…",
-      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Your next design system is… Markdown.",
-      "originalBody": "Your next design system is… Markdown.\n\nWe wrote about how 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 is helping solve the hardest problem in AI today: slop.\n\nAnd how you can truly, finally scale design taste within a large organization. https://t.co/1boTl2fWyM https://t.co/yrHwa9fYUH",
-      "translatedTitle": "你的下一个设计系统是……Markdown。",
-      "translatedBody": "你的下一个设计系统是……Markdown。\n\n我们曾撰文介绍过 𝙳𝙴𝚂𝙸𝙶𝙽.𝚖𝚍 如何帮助解决当今人工智能领域最棘手的问题：代码质量低下。\n\n以及如何在大型组织中真正实现设计品味的规模化提升。https://t.co/1boTl2fWyM https://t.co/yrHwa9fYUH",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2094541309579235680",
-      "publishedAt": "2026-08-31T21:42:17.000Z",
-      "score": 141.29,
-      "engagement": {
-        "likes": 2443,
-        "retweets": 103,
-        "replies": 72
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2094462971598754010",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "我刚刚做了一些新的GBrain评估，这有助于证明我的AI代理检索操作……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for readin…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "I just made some new GBrain evals that help prove that my retrieval-for-AI-agent op…",
-      "originalBody": "I just made some new GBrain evals that help prove that my retrieval-for-AI-agent open source layer is SOTA for reading memory back without LLM-in-loop\n\nAnd I've also added evals for memory-save from agent transcript, which is the best way to enrich your brain\n\nReceipts at https://t.co/iRLJR9Vxto",
-      "translatedTitle": "我刚刚做了一些新的GBrain评估，这有助于证明我的AI代理检索操作……",
-      "translatedBody": "我刚刚完成了一些新的 GBrain 评估，这些评估有助于证明我的开源 AI 代理检索层在无需循环 LLM 的情况下读取记忆方面达到了最先进的水平。\n\n我还添加了从代理记录中保存记忆的评估，这是丰富大脑的最佳方式。\n\n详情请见 https://t.co/iRLJR9Vxto",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2094462971598754010",
-      "publishedAt": "2026-08-31T16:31:00.000Z",
-      "score": 83.14,
-      "engagement": {
-        "likes": 403,
-        "retweets": 33,
-        "replies": 72
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2094650992818274514",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "现在，基础开放权重人工智能模型的性能已经大幅提升，并且在训练后……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Now that the base open weights AI models are getting far better, and post training infra is becoming more mature and…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Now that the base open weights AI models are getting far better, and post training…",
-      "originalBody": "Now that the base open weights AI models are getting far better, and post training infra is becoming more mature and commercialized, there are going to be all new plays for companies that have large amounts of data to have their own models.\n\nLicensing data for external model training was previously the only play if you had a large corpus of information, but you can now reasonably go and train your own models as well without incurring the cost and complexity of competing with the labs on research.\n\nThe general purpose frontier models will still have a leg up in broad areas due to the ability to handle the widest set of tasks, but you can absolutely see a future where we have far more models than today across every vertical and domain.",
-      "translatedTitle": "现在，基础开放权重人工智能模型的性能已经大幅提升，并且在训练后……",
-      "translatedBody": "随着基础开放权重人工智能模型性能的显著提升，以及训练后基础设施的日趋成熟和商业化，拥有海量数据的企业将迎来全新的发展机遇，从而构建自己的模型。\n\n过去，拥有庞大的数据语料库时，唯一的选择就是购买数据许可进行外部模型训练。但现在，企业完全可以自主训练模型，而无需承担与实验室竞争研究成本和复杂性带来的挑战。\n\n通用前沿模型由于能够处理最广泛的任务，在诸多领域仍将保持优势，但可以预见的是，未来各个垂直领域和行业都将拥有比现在多得多的模型。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2094650992818274514",
-      "publishedAt": "2026-09-01T04:58:08.000Z",
-      "score": 78.01,
-      "engagement": {
-        "likes": 119,
-        "retweets": 13,
-        "replies": 17
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2094591503981281503",
-      "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "如果你是一名产品经理，那么了解你所在产品模型的前沿领域将为你带来巨大的优势……",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：If you’re a PM, there is immense alpha in understanding the model frontier for your specific product and use cases. Y…",
+      "builder": "Sam Altman",
+      "title": "整个夏天，我们都在全力推进安全方面的工作；这比……更重要。",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：Over the summer, we have been sprinting on safety priorities; it's more important than ever for capabilities and safe…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "If you’re a PM, there is immense alpha in understanding the model frontier for your…",
-      "originalBody": "If you’re a PM, there is immense alpha in understanding the model frontier for your specific product and use cases.\n\nYou should be able to answer the following better than most frontier lab researchers and PMs for your use cases:\n\n1/ What can models in each size category do well today?\n\n2/ Where does each model fail?\n\n3/ What workarounds can you use to overcome these failures ?\n\n4/ Given the trajectory, what will these models likely be able to do 2–3 months from now? How should your roadmap look given this?\n\nThis is a core part of the PM job now.",
-      "translatedTitle": "如果你是一名产品经理，那么了解你所在产品模型的前沿领域将为你带来巨大的优势……",
-      "translatedBody": "如果你是一名产品经理，那么深入了解特定产品和用例的模型前沿技术至关重要。\n\n你应该能够比大多数前沿实验室研究人员和产品经理更好地回答以下问题：\n\n1/ 目前，各个规模类别的模型有哪些优势？\n\n2/ 每个模型有哪些不足？\n\n3/ 你可以使用哪些变通方法来克服这些不足？\n\n4/ 根据目前的趋势，这些模型在 2-3 个月后可能具备哪些能力？你的产品路线图应该如何制定？\n\n这已成为产品经理工作的核心部分。",
+      "originalTitle": "Over the summer, we have been sprinting on safety priorities; it's more important t…",
+      "originalBody": "Over the summer, we have been sprinting on safety priorities; it's more important than ever for capabilities and safeguards to advance together. We have more to do but have made a lot of progress. We are also going to be launching our next model soon.\n\nThere is an obvious tension here: on one hand, Astra is very good and we are excited to see what people will build with it. We are proud of our work.\n\nOn the other hand, we are clearly in a phase of development where we believe caution is warranted, and we are pacing our progress to ensure that we can meet the safety standards required by new capability levels.\n\nAstra has been done training for a while now and is a significant step forward in both capabilities and alignment. For the models after that, we have been slowing things as needed to ensure that we can do sufficient work on safety and alignment.\n\nAI is getting extremely capable; no one fully understands the consequences of this. Managing the transition to a world with abundant and powerful AI to optimize for safety and benefits to people should be one of the highest priorities in the world. It is our highest priority at OpenAI.\n\nWe have been living with the tension between being excited and anxious about progress for some time, and it is still discordant for us. We know it is much more discordant for other people. And yet, we believe strongly that the world needs to understand where AI is going and how models perform in the real world. More importantly, we believe the world will need aligned AI to manage the future phases of this transition.\n\nAn iterative loop where society and this technology evolve together is what will lead to the highest chance of getting this right.\n\nSo we hope you enjoy our new model, and we hope the world continues to take what’s happening in AI extremely seriously.",
+      "translatedTitle": "整个夏天，我们都在全力推进安全方面的工作；这比……更重要。",
+      "translatedBody": "整个夏季，我们都在全力推进安全方面的工作；如今，能力和安全保障的同步发展比以往任何时候都更加重要。我们还有很多工作要做，但已经取得了长足的进步。我们也即将推出下一代产品。\n\n这里存在着一种明显的矛盾：一方面，Astra 非常出色，我们很期待看到人们会用它创造出什么。我们为我们的工作感到自豪。\n\n另一方面，我们显然正处于一个需要谨慎发展的阶段，因此我们正在稳步推进，以确保能够满足新能力级别所需的安全标准。\n\nAstra 已经完成了一段时间的训练，无论在能力还是一致性方面，都是向前迈出的重要一步。对于后续型号，我们会根据需要放慢速度，以确保我们能够在安全性和一致性方面投入足够的精力。\n\n人工智能正变得越来越强大；没有人完全理解这会带来怎样的后果。如何管理向一个拥有丰富且强大的人工智能的世界的过渡，以优化安全性和造福人类，应该是当今世界最重要的任务之一。在 OpenAI，这是我们的首要任务。\n\n一段时间以来，我们一直既兴奋又焦虑，这种矛盾的心情一直伴随着我们。我们知道，其他人的感受可能更加复杂。然而，我们坚信，世界需要了解人工智能的发展方向以及模型在现实世界中的表现。更重要的是，我们相信，世界需要与社会需求相契合的人工智能来应对未来各个阶段的转型。\n\n社会与这项技术共同发展，形成一个迭代循环，这才是确保我们成功的关键。\n\n因此，我们希望您喜欢我们的新模型，也希望世界继续高度重视人工智能领域的发展。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2094591503981281503",
-      "publishedAt": "2026-09-01T01:01:44.000Z",
-      "score": 76.86,
+      "sourceUrl": "https://x.com/sama/status/2094934592062959832",
+      "publishedAt": "2026-09-01T23:45:03.000Z",
+      "score": 198.53,
       "engagement": {
-        "likes": 140,
-        "retweets": 10,
-        "replies": 8
+        "likes": 8686,
+        "retweets": 559,
+        "replies": 837
       },
       "matchedFocusAreas": [
         "Foundation Models",
@@ -159,92 +51,197 @@
       "sourceType": "x"
     },
     {
-      "id": "2094545525102235844",
+      "id": "2094831747037085978",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "随着人工智能安全事件的增多，拥有最先进的安全防护措施将至关重要……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：As AI security events pick up, it’s going to be critical that we have the most sophisticated AI agents for being able…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "As AI security events pick up, it’s going to be critical that we have the most soph…",
-      "originalBody": "As AI security events pick up, it’s going to be critical that we have the most sophisticated AI agents for being able to detect and prevent security issues. Frontier models are clearly still ahead in cyber, but open models are catching up quickly. Wild times. https://t.co/F0eEZLe6tt",
-      "translatedTitle": "随着人工智能安全事件的增多，拥有最先进的安全防护措施将至关重要……",
-      "translatedBody": "随着人工智能安全事件的增多，拥有最先进的人工智能代理来检测和预防安全问题至关重要。前沿模型在网络安全领域显然仍处于领先地位，但开放模型正在迅速追赶。真是瞬息万变的时代。https://t.co/F0eEZLe6tt",
+      "builder": "Guillermo Rauch",
+      "title": "流畅性是Vercel实现以下目标的关键：◾ 业界领先的构建性能……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Fluid is the thing that has enabled Vercel's: ◾ Industry-leading Build performance ◾ Sandbox reliability & massive co…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Fluid is the thing that has enabled Vercel's: ◾ Industry-leading Build performance…",
+      "originalBody": "Fluid is the thing that has enabled Vercel's:\n◾ Industry-leading Build performance\n◾ Sandbox reliability & massive concurrency\n◾ 30min Function durations (& soon longer)\n\nThis unification makes the best DX possible. Shared 𝙳𝚘𝚌𝚔𝚎𝚛𝚏𝚒𝚕𝚎, security perimeters, networking, file systems, across all compute products. \n\nYou already see this in some pretty unique Vercel capabilities, like our Builds and Functions being able to participate in the same Secure Compute boundary and config.\n\nImagine the same egress Firewall features for Sandbox that prevent agent escapes, applying to your Builds, Functions and Servers.\n\nThe future is one global and unified compute platform, with only known physics as the limiting factor 😊",
+      "translatedTitle": "流畅性是Vercel实现以下目标的关键：◾ 业界领先的构建性能……",
+      "translatedBody": "正是 Fluid 让 Vercel 拥有了以下优势：\n\n◾ 业界领先的构建性能\n\n◾ 沙箱的可靠性和强大的并发能力\n\n◾ 30 分钟函数运行时间（即将更长）\n\n这种统一性带来了最佳的用户体验。所有计算产品共享资源、安全边界、网络和文件系统。\n\n您已经在 Vercel 的一些独特功能中体验到了这一点，例如我们的构建和函数能够参与到同一个安全计算边界和配置中。\n\n想象一下，同样的出口防火墙功能可以防止代理逃逸到沙箱，并应用于您的构建、函数和服务器。\n\n未来将是一个全球统一的计算平台，唯一限制因素就是已知的物理定律 😊",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2094545525102235844",
-      "publishedAt": "2026-08-31T21:59:02.000Z",
-      "score": 75.29,
+      "sourceUrl": "https://x.com/rauchg/status/2094831747037085978",
+      "publishedAt": "2026-09-01T16:56:23.000Z",
+      "score": 177.02,
       "engagement": {
-        "likes": 77,
-        "retweets": 13,
-        "replies": 16
+        "likes": 136,
+        "retweets": 5,
+        "replies": 21
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2094848592812917122",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "Claude Fable 5.1 现已在各大平台上线。",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Claude Fable 5.1 is available everywhere today. Claude Mythos 5.1, our model for cyberdefenders and life scientists,…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "Claude Fable 5.1 is available everywhere today.",
+      "originalBody": "Claude Fable 5.1 is available everywhere today. Claude Mythos 5.1, our model for cyberdefenders and life scientists, is available through trusted access programs.\n\nRead more: https://t.co/nfkH5hyDyO",
+      "translatedTitle": "Claude Fable 5.1 现已在各大平台上线。",
+      "translatedBody": "Claude Fable 5.1 现已全面上线。Claude Mythos 5.1 是我们面向网络安全防御者和生命科学家的模型，可通过可信访问计划获取。\n\n了解更多：https://t.co/nfkH5hyDyO",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2094848592812917122",
+      "publishedAt": "2026-09-01T18:03:19.000Z",
+      "score": 165.65,
+      "engagement": {
+        "likes": 2135,
+        "retweets": 101,
+        "replies": 67
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2094848591617483020",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "最后，我们改进了安全保障措施。",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Finally, we’ve improved our safeguards. Our cybersecurity safeguards now flag benign requests about 60% less often. O…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Finally, we’ve improved our safeguards.",
+      "originalBody": "Finally, we’ve improved our safeguards. Our cybersecurity safeguards now flag benign requests about 60% less often.\n\nOn basic biology and medical questions, we’ve recently reduced the fallback rate by around 85%.",
+      "translatedTitle": "最后，我们改进了安全保障措施。",
+      "translatedBody": "最后，我们改进了安全防护措施。现在，我们的网络安全防护措施对良性请求的误判率降低了约 60%。\n\n对于基础生物学和医学问题，我们最近将回退率降低了约 85%。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2094848591617483020",
+      "publishedAt": "2026-09-01T18:03:19.000Z",
+      "score": 140.77,
+      "engagement": {
+        "likes": 2251,
+        "retweets": 83,
+        "replies": 52
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2094848590245965931",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "我们还将推出企业前沿安全保障（EFS），它为企业提供……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：We’re also introducing Enterprise Frontier Safeguards (EFS), which give enterprise customers complete privacy (the sa…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "We’re also introducing Enterprise Frontier Safeguards (EFS), which give enterprise…",
+      "originalBody": "We’re also introducing Enterprise Frontier Safeguards (EFS), which give enterprise customers complete privacy (the same as zero data retention), while still being state-of-the-art at preventing adversarial use. EFS rolls out in phases, starting this fall. https://t.co/EMbLgL5KVo",
+      "translatedTitle": "我们还将推出企业前沿安全保障（EFS），它为企业提供……",
+      "translatedBody": "我们还将推出企业前沿安全保障 (EFS)，它能为企业客户提供完全的隐私保护（相当于零数据保留），同时还能以最先进的技术防止恶意使用。EFS 将分阶段推出，从今年秋季开始。https://t.co/EMbLgL5KVo",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2094848590245965931",
+      "publishedAt": "2026-09-01T18:03:18.000Z",
+      "score": 138.22,
+      "engagement": {
+        "likes": 1448,
+        "retweets": 33,
+        "replies": 10
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2094901483414372716",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "很高兴能与@tannerlinsley及其团队合作并为其提供支持，他们是React的倡导者，也是开放获取领域的佼佼者……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Excited to partner with and support @tannerlinsley and team, champion of React, open source, and the web What this me…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Excited to partner with and support @tannerlinsley and team, champion of React, ope…",
+      "originalBody": "Excited to partner with and support @tannerlinsley and team, champion of React, open source, and the web\n\nWhat this means for our customers: whether you choose @nextjs or @tan_stack, we are committed to the highest quality service and support. https://t.co/9lnHQIqHxZ",
+      "translatedTitle": "很高兴能与@tannerlinsley及其团队合作并为其提供支持，他们是React的倡导者，也是开放获取领域的佼佼者……",
+      "translatedBody": "很高兴能与 @tannerlinsley 及其团队合作并为其提供支持，他们是 React、开源和 Web 开发的领军人物。\n\n这对我们的客户意味着：无论您选择 @nextjs 还是 @tan_stack，我们都致力于提供最优质的服务和支持。https://t.co/9lnHQIqHxZ",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2094901483414372716",
+      "publishedAt": "2026-09-01T21:33:29.000Z",
+      "score": 133.97,
+      "engagement": {
+        "likes": 595,
+        "retweets": 17,
+        "replies": 32
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2094851976769257770",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "在 Box，我们一直在使用早期版本的 Fable 5.1 来测试我们复杂的企业级应用……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：At Box, we’ve been testing Fable 5.1 in early release against our complex enterprise work eval. Fable 5.1 delivers a…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "At Box, we’ve been testing Fable 5.1 in early release against our complex enterpris…",
+      "originalBody": "At Box, we’ve been testing Fable 5.1 in early release against our complex enterprise work eval. Fable 5.1 delivers a huge 7 percentage point jump over Fable 5 for unstructured data tasks in the enterprise.\n\nOn this updated test, we use the Box Agent with Fable 5.1 to work through a wide range of real world enterprise scenarios with documents in financial services, life sciences, the public sector, and more industries. All of these tasks require a high degree of analytical, math, logic, and domain knowledge to perform successfully.\n\nHere are a few examples of wins:\n\n* Financial Services (+17% improvement): on a tax-adjusted profit projection, Fable 5.1 correctly applies capital allowances before computing tax liability; this is a subtle ordering that Fable 5 misses, producing wrong figures all the way through retained earnings.\n\n* Technology (+37% improvement): on a cost-optimization analysis where a key metric's normalization is ambiguous, Fable 5.1 recognized the ambiguity, computed both forms, and presented the correct one, where Fable 5 committed to the wrong normalization.\n\n* Public Sector (+16% improvement): on an educational data analysis task, Fable 5.1 works through the full weighted-mean methodology and produces correct rankings, while Fable 5 miscategorizes one item and cascades errors through the whole sheet.\n\nThese are just a few of the wins we saw. Overall major jump in capability for long running agentic workflows in the enterprise. \n\nFable 5.1 will be available shortly in the Box AI Studio for building custom AI agents with enterprise content.",
+      "translatedTitle": "在 Box，我们一直在使用早期版本的 Fable 5.1 来测试我们复杂的企业级应用……",
+      "translatedBody": "在 Box，我们一直在使用 Fable 5.1 的早期版本，针对我们复杂的企业级工作评估进行测试。Fable 5.1 在处理企业级非结构化数据任务方面，性能比 Fable 5 提升了 7 个百分点。\n\n在本次更新的测试中，我们使用 Box Agent 和 Fable 5.1 处理了金融服务、生命科学、公共部门等众多行业中各种真实的企业场景文档。所有这些任务都需要高度的分析能力、数学能力、逻辑思维能力和领域知识才能成功完成。\n\n以下是一些改进示例：\n\n* 金融服务（提升 17%）：在计算税后利润预测时，Fable 5.1 能够正确地在计算纳税义务之前应用资本补贴；而 Fable 5 却忽略了这一细微的顺序，导致从计算到留存收益的整个过程中都出现了错误。\n\n* 技术（提升 37%）：在成本优化分析中，当关键指标的归一化方式存在歧义时，Fable 5.1 识别出了这种歧义，计算了两种形式，并呈现了正确的结果，而 Fable 5 则采用了错误的归一化方式。\n\n* 公共部门（提升 16%）：在教育数据分析任务中，Fable 5.1 完整地运用了加权平均方法，并生成了正确的排名，而 Fable 5 错误地对一个项目进行了分类，并将错误传递到整个表格。\n\n以上仅是我们取得的部分成果。总体而言，企业中长时间运行的智能体工作流程的能力得到了显著提升。\n\nFable 5.1 即将登陆 Box AI Studio，用于构建包含企业内容的自定义 AI 智能体。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2094851976769257770",
+      "publishedAt": "2026-09-01T18:16:46.000Z",
+      "score": 105.6,
+      "engagement": {
+        "likes": 249,
+        "retweets": 23,
+        "replies": 39
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2094987791566622971",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "如果您正在试用 Fable 5.1，我强烈建议您运行：/claude-api prompt-audit…",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：If you're trying out Fable 5.1 I highly recommend running: /claude-api prompt-audit on your skills. It finds a bunch…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "If you're trying out Fable 5.1 I highly recommend running: /claude-api prompt-audit…",
+      "originalBody": "If you're trying out Fable 5.1 I highly recommend running:\n\n/claude-api prompt-audit\n\non your skills. It finds a bunch of redundancies and rules to remove for the latest models.\n\nRunning it for all my skills now.",
+      "translatedTitle": "如果您正在试用 Fable 5.1，我强烈建议您运行：/claude-api prompt-audit…",
+      "translatedBody": "如果你正在尝试 Fable 5.1，我强烈建议你运行以下命令：\n\n/claude-api prompt-audit\n\n针对你的技能进行测试。它会找到大量冗余规则，并针对最新模型进行移除。\n\n我现在正在对所有技能运行此命令。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2094987791566622971",
+      "publishedAt": "2026-09-02T03:16:27.000Z",
+      "score": 88.81,
+      "engagement": {
+        "likes": 1514,
+        "retweets": 71,
+        "replies": 38
       },
       "matchedFocusAreas": [
         "Coding Agents",
         "Foundation Models"
       ],
       "sourceType": "x"
-    },
-    {
-      "id": "2094427243565269107",
-      "type": "tweet",
-      "builder": "Nan Yu",
-      "title": "一些个人消息——我将加入 OpenAI，参与 Codex 和 ChatGPT 的开发工作。",
-      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Some personal news—I’m joining OpenAI to work on Codex and ChatGPT. I’m grateful to the Linear team for an incredible…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Some personal news—I’m joining OpenAI to work on Codex and ChatGPT.",
-      "originalBody": "Some personal news—I’m joining OpenAI to work on Codex and ChatGPT. \n\nI’m grateful to the Linear team for an incredible 4 years and proud of what we've built together. I look forward to bringing everything I've learned there about the craft of software into this next chapter.",
-      "translatedTitle": "一些个人消息——我将加入 OpenAI，参与 Codex 和 ChatGPT 的开发工作。",
-      "translatedBody": "一些个人消息——我将加入 OpenAI，参与 Codex 和 ChatGPT 的开发工作。\n\n我非常感谢 Linear 团队这四年来的鼎力支持，并为我们共同取得的成就感到自豪。我期待将我在那里学到的所有软件开发经验运用到新的征程中。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thenanyu/status/2094427243565269107",
-      "publishedAt": "2026-08-31T14:09:02.000Z",
-      "score": 67.54,
-      "engagement": {
-        "likes": 3062,
-        "retweets": 37,
-        "replies": 249
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2094406185109647580",
-      "type": "tweet",
-      "builder": "Dan Shipper",
-      "title": "将人工智能拟人化，如果能帮助我们使用（理解、预测……），那就是好事。",
-      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Anthropomorphization of AI is good when it serves to help us use (understand, predict, etc) AI better. It’s bad when…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Anthropomorphization of AI is good when it serves to help us use (understand, predi…",
-      "originalBody": "Anthropomorphization of AI is good when it serves to help us use (understand, predict, etc) AI better. \n\nIt’s bad when it serves to sow panic, fear, and unrealistic / unwarranted comparisons to human beings. \n\nMost opponents of anthropomorphism are rightly reacting to its misuse to sow panic or alter the moral status of agents by claiming consciousness etc. \n\nIt’s possible to use anthropomorphism without doing that though",
-      "translatedTitle": "将人工智能拟人化，如果能帮助我们使用（理解、预测……），那就是好事。",
-      "translatedBody": "将人工智能拟人化，如果能帮助我们更好地使用（理解、预测等）人工智能，那就是好事。\n\n但如果它被用来散播恐慌、恐惧，以及将人工智能与人类进行不切实际/毫无根据的比较，那就是坏事。\n\n大多数反对拟人化的人，其反应是正确的，因为拟人化被滥用，例如被用来散播恐慌或通过声称人工智能具有意识等方式改变其道德地位。\n\n当然，也可以在不造成上述后果的情况下运用拟人化。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/danshipper/status/2094406185109647580",
-      "publishedAt": "2026-08-31T12:45:21.000Z",
-      "score": 50.95,
-      "engagement": {
-        "likes": 87,
-        "retweets": 10,
-        "replies": 25
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-09-01T06:42:22.120Z",
-    "totalCandidates": 19,
-    "textQualifiedCandidates": 9,
+    "upstreamGeneratedAt": "2026-09-02T06:45:11.562Z",
+    "totalCandidates": 38,
+    "textQualifiedCandidates": 22,
     "selectedTweets": 8
   }
 }
