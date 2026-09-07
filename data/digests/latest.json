@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-06",
-  "generatedAt": "2026-09-06T03:48:43.992Z",
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-07T03:47:50.373Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-09-06",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 26 条候选动态里，筛出 10 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-09-07",
+  "summary": "今天最值得看的是 Thibault Sottiaux 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 6 条候选动态里，筛出 3 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,78 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2096065378598441431",
+      "id": "2096688770523467947",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "非常看好WebMCP。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Super bullish on WebMCP. Much like Tesla FSD meets the world where it is (streets, stoplights, potholes and all), age…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Super bullish on WebMCP.",
-      "originalBody": "Super bullish on WebMCP. Much like Tesla FSD meets the world where it is (streets, stoplights, potholes and all), agents *need* to ride the existing WWW infrastructure… WebMCP makes it more efficient.\n\nSome pretty unique wins too. e.g: Next.js dev pages could expose debugging tools directly to agents in the specific tab they’re testing, with page-specific context, instead of sifting through server logs. No separate MCP server to find and configure because the page directly exposes its own 'agent tools'.\n\ne.g: in this world 𝚏𝚡 + 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 is a complete web dev stack with zero loss in debugging depth",
-      "translatedTitle": "非常看好WebMCP。",
-      "translatedBody": "非常看好 WebMCP。就像特斯拉 FSD 能够适应现实世界（街道、红绿灯、坑洼等等）一样，智能体也*需要*利用现有的 WWW 基础设施……WebMCP 让这一切变得更加高效。\n\n还有一些非常独特的优势。例如：Next.js 开发页面可以直接在智能体正在测试的特定标签页中提供调试工具，并附带页面特定的上下文信息，而无需浏览服务器日志。由于页面直接提供了自身的“智能体工具”，因此无需查找和配置单独的 MCP 服务器。\n\n例如：在这种环境下，Next.js + WebMCP 构成了一个完整的 Web 开发栈，调试深度丝毫不减。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2096065378598441431",
-      "publishedAt": "2026-09-05T02:38:23.000Z",
-      "score": 158.88,
-      "engagement": {
-        "likes": 550,
-        "retweets": 23,
-        "replies": 46
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2095973658867171733",
-      "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "GPT-6 Astra 现已面向所有 Pro、Enterprise 和 Business Premium 用户开放……",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in th…",
-      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in…",
-      "originalBody": "GPT-6 Astra is now available to all Pro, Enterprise, and Business Premium users in Work/Codex, and is available in the API.\n\nWe will start rollout to Plus and Business users next.\n\nThank you for the patience.",
-      "translatedTitle": "GPT-6 Astra 现已面向所有 Pro、Enterprise 和 Business Premium 用户开放……",
-      "translatedBody": "GPT-6 Astra 现已面向 Work/Codex 中的所有 Pro、Enterprise 和 Business Premium 用户开放，并且已通过 API 提供。\n\n接下来我们将开始向 Plus 和 Business 用户推出此功能。\n\n感谢您的耐心等待。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2095973658867171733",
-      "publishedAt": "2026-09-04T20:33:56.000Z",
-      "score": 151.2,
-      "engagement": {
-        "likes": 15960,
-        "retweets": 711,
-        "replies": 722
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2096095862732755342",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "我正在撰写一份关于 Astra/Fable Frontier 模型 AEO 的大型报告，看起来 C…",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：i am working on a massive Astra/Fable frontier model AEO report and it looks like Claude loves @latentspacepod when a…",
+      "builder": "Thibault Sottiaux",
+      "title": "为了帮助大家确定Astra应该使用哪种推理方式，需要了解的是，GPT-6 As…",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GP…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "i am working on a massive Astra/Fable frontier model AEO report and it looks like C…",
-      "originalBody": "i am working on a massive Astra/Fable frontier model AEO report and it looks like Claude loves @latentspacepod when asked for best ai newsletter/podcast!! was so surprised that @ricmac made me doublecheck for memory leaks lol https://t.co/fpiS98Tzu8",
-      "translatedTitle": "我正在撰写一份关于 Astra/Fable Frontier 模型 AEO 的大型报告，看起来 C…",
-      "translatedBody": "我正在撰写一份关于 Astra/Fable 前沿模型的大型 AEO 报告，看来 Claude 在被问及最佳人工智能新闻简报/播客时，最喜欢 @latentspacepod！@ricmac 居然让我再次检查内存泄漏，真是太让我惊讶了哈哈 https://t.co/fpiS98Tzu8",
+      "originalTitle": "To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 As…",
+      "originalBody": "To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high.\n\nIf you were using high reasoning efforts with Sol and were happy, I suggest you move down to low or medium for Astra.",
+      "translatedTitle": "为了帮助大家确定Astra应该使用哪种推理方式，需要了解的是，GPT-6 As…",
+      "translatedBody": "为了帮助大家确定 Astra 应该使用哪种推理强度，需要注意的是，GPT-6 Astra 在低强度下的性能优于 GPT-5.6 Sol 在高强度下的性能。\n\n如果您之前使用 Sol 时使用了高强度推理并且效果满意，我建议您在 Astra 中将强度降低到低或中等。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2096095862732755342",
-      "publishedAt": "2026-09-05T04:39:31.000Z",
-      "score": 143.48,
+      "sourceUrl": "https://x.com/thsottiaux/status/2096688770523467947",
+      "publishedAt": "2026-09-06T19:55:32.000Z",
+      "score": 90.79,
       "engagement": {
-        "likes": 7,
-        "retweets": 1,
-        "replies": 13
+        "likes": 10989,
+        "retweets": 480,
+        "replies": 1212
       },
       "matchedFocusAreas": [
         "Foundation Models"
@@ -102,55 +50,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2095907570540335174",
+      "id": "2096612718098911590",
       "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "这里有一个你可以在本周末做的实用方法，可以帮助你更好地构建人工智能程序……",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Here’s one practical thing you can do this weekend to get better at building AI products. Pick a workflow you know we…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Here’s one practical thing you can do this weekend to get better at building AI pro…",
-      "originalBody": "Here’s one practical thing you can do this weekend to get better at building AI products.\n\nPick a workflow you know well - from your personal life or your work.\n\nAutomate the whole thing with AI.\n\nUse the AI product you’re comfortable with - you’ll probably have to experiment with a few.\n\nThis exercise will force you to think about\n\n1/ What does a great end-to-end experience look like?\n2/ How should you use MCPs and tools?\n3/ Where should humans stay in the loop?\n4/ How do you evaluate it?\n\nThen keep expanding the ambition.\n\nYou’ll learn more by doing this once than by reading about AI product building for a month.\n\nThe only way to learn is to build.",
-      "translatedTitle": "这里有一个你可以在本周末做的实用方法，可以帮助你更好地构建人工智能程序……",
-      "translatedBody": "这里有一个周末你可以做的实用练习，帮助你提升人工智能产品开发能力。\n\n选择一个你熟悉的流程——可以是你的个人生活，也可以是工作。\n\n用人工智能将整个流程自动化。\n\n使用你熟悉的人工智能产品——你可能需要尝试几种不同的产品。\n\n这个练习会迫使你思考以下问题：\n\n1/ 一个优秀的端到端体验是什么样的？\n\n2/ 你应该如何使用管理控制点 (MCP) 和工具？\n\n3/ 人类应该在哪些环节参与其中？\n\n4/ 如何评估产品？\n\n然后，不断拓展你的目标。\n\n实践一次比花一个月时间阅读人工智能产品开发书籍更有价值。\n\n学习的唯一途径就是动手实践。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2095907570540335174",
-      "publishedAt": "2026-09-04T16:11:19.000Z",
-      "score": 101.2,
-      "engagement": {
-        "likes": 129,
-        "retweets": 9,
-        "replies": 3
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2095971990645755941",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "使用 @AsideAI 作为 AI 框架的体验简直糟糕透了——尝试设置 Open…",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Absolutely insane experience using @AsideAI as an AI harness - trying to setup OpenClaw with Slack was a 2 hour exper…",
+      "builder": "Peter Yang",
+      "title": "“作弊和向孩子解释答案之间的界限比你想象的要模糊得多。” H…",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：“Cheating and explaining the answer [to your child] are closer than you’d think.” Here’s my new episode with @suekhim…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Absolutely insane experience using @AsideAI as an AI harness - trying to setup Open…",
-      "originalBody": "Absolutely insane experience using @AsideAI as an AI harness - trying to setup OpenClaw with Slack was a 2 hour experience. \n\nAside's harness with full integrations AND browser integration did it in less than 3 minutes, and it's fully featured with smart access control defaults https://t.co/ja81EcaMUh",
-      "translatedTitle": "使用 @AsideAI 作为 AI 框架的体验简直糟糕透了——尝试设置 Open…",
-      "translatedBody": "使用 @AsideAI 作为 AI 工具的体验简直太棒了！之前尝试用 OpenClaw 连接 Slack 花了整整两个小时。\n\nAside 的工具集成了所有功能，包括浏览器集成，不到 3 分钟就搞定了，而且功能齐全，还带有智能访问控制默认设置。https://t.co/ja81EcaMUh",
+      "originalTitle": "“Cheating and explaining the answer [to your child] are closer than you’d think.” H…",
+      "originalBody": "“Cheating and explaining the answer [to your child] are closer than you’d think.”\n\nHere’s my new episode with @suekhim, co-founder of @brilliantorg, who showed me how AI can help kids think for themselves. We talked about:\n\n→ Why better grades don’t always mean more learning\n\n→ How to help kids enjoy doing hard things vs. only trying to please adults\n\n→ Why her #1 product principle is “Never tell the learner the answer”\n\nSome quotes from Sue:\n\n“Using AI to skip learning is like bringing a robotic arm to the gym to lift weights for you.”\n\n“Learning isn’t about the answer. It is about strengthening that part of you that can concentrate and struggle, that’s unafraid of trying new problems.”\n\n“When building AI products, try to find areas where you have unique data that makes your product better over time.”\n\n📌 Watch the full episode: https://t.co/jzogacrhiK\n\nThanks to our sponsors:\n\n@linear: The AI agent platform for modern teams https://t.co/tgWf9oL4bs\n\n@RiversidedotFM: All-in-one AI studio for podcasts and video https://t.co/uWnS6aiMPE",
+      "translatedTitle": "“作弊和向孩子解释答案之间的界限比你想象的要模糊得多。” H…",
+      "translatedBody": "“作弊和给孩子解释答案其实比你想象的更近。”\n\n这是我与@brilliantorg联合创始人@suekhim的最新一期节目，她向我展示了人工智能如何帮助孩子独立思考。我们讨论了以下内容：\n\n→ 为什么更好的成绩并不总是意味着更多的学习\n\n→ 如何帮助孩子享受挑战，而不是仅仅为了取悦大人\n\n→ 为什么她最重要的产品原则是“永远不要告诉学习者答案”\n\n以下是Sue的一些语录：\n\n“用人工智能来跳过学习就像把一个机械臂带到健身房帮你举重一样。”\n\n“学习不是为了找到答案。而是为了增强你集中注意力、克服困难、勇于尝试新问题的能力。”\n\n“在开发人工智能产品时，要努力找到那些拥有独特数据、能够让你的产品随着时间的推移而不断改进的领域。”\n\n📌观看完整节目：https://t.co/jzogacrhiK\n\n感谢我们的赞助商：\n\n@linear：面向现代团队的 AI 智能体平台 https://t.co/tgWf9oL4bs\n\n@RiversidedotFM：播客和视频一体化 AI 工作室 https://t.co/uWnS6aiMPE",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2095971990645755941",
-      "publishedAt": "2026-09-04T20:27:18.000Z",
-      "score": 81.07,
+      "sourceUrl": "https://x.com/petergyang/status/2096612718098911590",
+      "publishedAt": "2026-09-06T14:53:19.000Z",
+      "score": 83.04,
       "engagement": {
-        "likes": 296,
-        "retweets": 17,
-        "replies": 38
+        "likes": 36,
+        "retweets": 7,
+        "replies": 11
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -159,89 +78,37 @@
       "sourceType": "x"
     },
     {
-      "id": "2096101429832552872",
+      "id": "2096400749869830325",
       "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "阿斯特拉可能是我们最大的竞争优势，尽管它当时并不普及……",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Astra was probably our biggest competitive advantage while it wasn’t generally available. Since we’ve had it our prod…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Astra was probably our biggest competitive advantage while it wasn’t generally avai…",
-      "originalBody": "Astra was probably our biggest competitive advantage while it wasn’t generally available.\n\nSince we’ve had it our productivity jumped so much that we shifted some of our plans 6 months ahead and will ship them at DevDay instead of mid next year.",
-      "translatedTitle": "阿斯特拉可能是我们最大的竞争优势，尽管它当时并不普及……",
-      "translatedBody": "在 Astra 尚未全面上市之前，它可能是我们最大的竞争优势。\n\n自从我们拥有了 Astra 之后，我们的生产力大幅提升，以至于我们将部分计划提前了 6 个月，并将在开发者日（DevDay）上发布，而不是等到明年年中。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2096101429832552872",
-      "publishedAt": "2026-09-05T05:01:39.000Z",
-      "score": 73.53,
-      "engagement": {
-        "likes": 7364,
-        "retweets": 296,
-        "replies": 537
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2095948689823121872",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "GStack 现在使用 @AsideAI 浏览器作为其首选的远程会话浏览器。你的……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：GStack now uses @AsideAI browser as it's preferred remote session browser Does your AI agent need access to web and c…",
+      "builder": "Peter Steinberger",
+      "title": "离打造我想要使用的安全带又近了一步。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is s…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "GStack now uses @AsideAI browser as it's preferred remote session browser Does your…",
-      "originalBody": "GStack now uses @AsideAI browser as it's preferred remote session browser\n\nDoes your AI agent need access to web and credentials as you? Aside is now the #1 absolute best way to do it I've found out of all AI agent tools. \n\nAside is a/ an amazing browser, b/ great at credentials, c/ has all the integrations you need and c/ actually an amazing harness and memory system in its own right\n\nIt's my new favorite AI browser",
-      "translatedTitle": "GStack 现在使用 @AsideAI 浏览器作为其首选的远程会话浏览器。你的……",
-      "translatedBody": "GStack 现在使用 @AsideAI 浏览器作为其首选的远程会话浏览器。\n\n您的 AI 代理是否需要像您一样访问网络和凭据？Aside 是我目前发现的所有 AI 代理工具中最佳的选择。\n\nAside 具有以下优点：a/ 出色的浏览器；b/ 强大的凭据管理功能；c/ 具备您所需的所有集成；d/ 本身就是一个卓越的框架和内存系统。\n\n它是我最喜欢的 AI 浏览器。",
+      "originalTitle": "One step closer in building the harness I wanna use.",
+      "originalBody": "One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is seconds, which requires clever snapshotting. (Right now it still clones repos fresh which isn’t fast enough.)\n\nWill have that next week. https://t.co/lpiszOtVGP",
+      "translatedTitle": "离打造我想要使用的安全带又近了一步。",
+      "translatedBody": "距离我理想的框架又近了一步。目前唯一尚未实现的是云会话，目标是秒级响应，这需要巧妙的快照技术。（现在它仍然会全新克隆仓库，速度不够快。）\n\n下周就能搞定。https://t.co/lpiszOtVGP",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2095948689823121872",
-      "publishedAt": "2026-09-04T18:54:43.000Z",
-      "score": 55.69,
+      "sourceUrl": "https://x.com/steipete/status/2096400749869830325",
+      "publishedAt": "2026-09-06T00:51:02.000Z",
+      "score": 60.49,
       "engagement": {
-        "likes": 271,
-        "retweets": 13,
-        "replies": 42
+        "likes": 755,
+        "retweets": 35,
+        "replies": 54
       },
       "matchedFocusAreas": [
         "Coding Agents"
       ],
       "sourceType": "x"
-    },
-    {
-      "id": "2096035437299237298",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "因为我们非常高兴Astra今天提前完成了部署，而且……",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验：Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us…",
-      "whyItMatters": "Thibault Sottiaux 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Because we are beyond happy to have Astra rolled out today ahead of schedule and yo…",
-      "originalBody": "Because we are beyond happy to have Astra rolled out today ahead of schedule and you have been super patient with us (not really, but it’s ok!)… we will do the full banked reset today too for all Plus, Pro and Business users. Lands end of day.\n\nHappy Astra day and enjoy a phenomenal weekend. \n\nPS: If you create the account or upgrade before 8pm PT you will get it too. Still time!",
-      "translatedTitle": "因为我们非常高兴Astra今天提前完成了部署，而且……",
-      "translatedBody": "由于我们非常高兴今天能提前推出 Astra，而且大家也一直非常耐心（其实也没那么耐心，不过没关系！），所以我们今天也会为所有 Plus、Pro 和 Business 用户进行完整的账户重置。重置将于今天结束。\n\n祝大家 Astra 上线日快乐，周末愉快！\n\nPS：如果您在太平洋时间晚上 8 点前创建账户或升级，您也能获得重置。时间还来得及！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2096035437299237298",
-      "publishedAt": "2026-09-05T00:39:25.000Z",
-      "score": 52.09,
-      "engagement": {
-        "likes": 17706,
-        "retweets": 848,
-        "replies": 1675
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-09-05T06:35:59.594Z",
-    "totalCandidates": 26,
-    "textQualifiedCandidates": 10,
-    "selectedTweets": 8
+    "upstreamGeneratedAt": "2026-09-06T22:54:40.471Z",
+    "totalCandidates": 6,
+    "textQualifiedCandidates": 3,
+    "selectedTweets": 3
   }
 }
