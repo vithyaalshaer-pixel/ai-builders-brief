@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-07",
-  "generatedAt": "2026-09-07T03:47:50.373Z",
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-08T03:52:00.767Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-09-07",
-  "summary": "今天最值得看的是 Thibault Sottiaux 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 6 条候选动态里，筛出 3 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-09-08",
+  "summary": "今天最值得看的是 Aaron Levie 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 5 条候选动态里，筛出 1 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,100 +15,42 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
-    },
-    {
-      "slug": "product-ships",
-      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2096688770523467947",
+      "id": "2096735726750908464",
       "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "为了帮助大家确定Astra应该使用哪种推理方式，需要了解的是，GPT-6 As…",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GP…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 As…",
-      "originalBody": "To calibrate you all on which reasoning effort to use for Astra, know that GPT-6 Astra on low performs better than GPT-5.6 Sol on high.\n\nIf you were using high reasoning efforts with Sol and were happy, I suggest you move down to low or medium for Astra.",
-      "translatedTitle": "为了帮助大家确定Astra应该使用哪种推理方式，需要了解的是，GPT-6 As…",
-      "translatedBody": "为了帮助大家确定 Astra 应该使用哪种推理强度，需要注意的是，GPT-6 Astra 在低强度下的性能优于 GPT-5.6 Sol 在高强度下的性能。\n\n如果您之前使用 Sol 时使用了高强度推理并且效果满意，我建议您在 Astra 中将强度降低到低或中等。",
+      "builder": "Aaron Levie",
+      "title": "互联网几乎完全没有为每个人的个人信息都将公开的未来做好准备……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The internet is almost entirely unprepared for a future where everyone’s personal agents are running around executing…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "The internet is almost entirely unprepared for a future where everyone’s personal a…",
+      "originalBody": "The internet is almost entirely unprepared for a future where everyone’s personal agents are running around executing tasks for them. \n\nThere are going to be endless new challenges and opportunities at the infrastructure layer, for user experiences, new business models, and more. https://t.co/lmbQNJAeF6",
+      "translatedTitle": "互联网几乎完全没有为每个人的个人信息都将公开的未来做好准备……",
+      "translatedBody": "互联网几乎完全没有为未来做好准备，届时每个人的私人代理都会四处奔走，替他们执行各种任务。\n\n基础设施层面、用户体验、新型商业模式等等，都将面临无穷无尽的新挑战和机遇。https://t.co/lmbQNJAeF6",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2096688770523467947",
-      "publishedAt": "2026-09-06T19:55:32.000Z",
-      "score": 90.79,
+      "sourceUrl": "https://x.com/levie/status/2096735726750908464",
+      "publishedAt": "2026-09-06T23:02:07.000Z",
+      "score": 83.43,
       "engagement": {
-        "likes": 10989,
-        "retweets": 480,
-        "replies": 1212
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2096612718098911590",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "“作弊和向孩子解释答案之间的界限比你想象的要模糊得多。” H…",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：“Cheating and explaining the answer [to your child] are closer than you’d think.” Here’s my new episode with @suekhim…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "“Cheating and explaining the answer [to your child] are closer than you’d think.” H…",
-      "originalBody": "“Cheating and explaining the answer [to your child] are closer than you’d think.”\n\nHere’s my new episode with @suekhim, co-founder of @brilliantorg, who showed me how AI can help kids think for themselves. We talked about:\n\n→ Why better grades don’t always mean more learning\n\n→ How to help kids enjoy doing hard things vs. only trying to please adults\n\n→ Why her #1 product principle is “Never tell the learner the answer”\n\nSome quotes from Sue:\n\n“Using AI to skip learning is like bringing a robotic arm to the gym to lift weights for you.”\n\n“Learning isn’t about the answer. It is about strengthening that part of you that can concentrate and struggle, that’s unafraid of trying new problems.”\n\n“When building AI products, try to find areas where you have unique data that makes your product better over time.”\n\n📌 Watch the full episode: https://t.co/jzogacrhiK\n\nThanks to our sponsors:\n\n@linear: The AI agent platform for modern teams https://t.co/tgWf9oL4bs\n\n@RiversidedotFM: All-in-one AI studio for podcasts and video https://t.co/uWnS6aiMPE",
-      "translatedTitle": "“作弊和向孩子解释答案之间的界限比你想象的要模糊得多。” H…",
-      "translatedBody": "“作弊和给孩子解释答案其实比你想象的更近。”\n\n这是我与@brilliantorg联合创始人@suekhim的最新一期节目，她向我展示了人工智能如何帮助孩子独立思考。我们讨论了以下内容：\n\n→ 为什么更好的成绩并不总是意味着更多的学习\n\n→ 如何帮助孩子享受挑战，而不是仅仅为了取悦大人\n\n→ 为什么她最重要的产品原则是“永远不要告诉学习者答案”\n\n以下是Sue的一些语录：\n\n“用人工智能来跳过学习就像把一个机械臂带到健身房帮你举重一样。”\n\n“学习不是为了找到答案。而是为了增强你集中注意力、克服困难、勇于尝试新问题的能力。”\n\n“在开发人工智能产品时，要努力找到那些拥有独特数据、能够让你的产品随着时间的推移而不断改进的领域。”\n\n📌观看完整节目：https://t.co/jzogacrhiK\n\n感谢我们的赞助商：\n\n@linear：面向现代团队的 AI 智能体平台 https://t.co/tgWf9oL4bs\n\n@RiversidedotFM：播客和视频一体化 AI 工作室 https://t.co/uWnS6aiMPE",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2096612718098911590",
-      "publishedAt": "2026-09-06T14:53:19.000Z",
-      "score": 83.04,
-      "engagement": {
-        "likes": 36,
-        "retweets": 7,
-        "replies": 11
+        "likes": 451,
+        "retweets": 41,
+        "replies": 51
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2096400749869830325",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "离打造我想要使用的安全带又近了一步。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is s…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "One step closer in building the harness I wanna use.",
-      "originalBody": "One step closer in building the harness I wanna use. The one thing that’s not yet there are cloud sessions, goal is seconds, which requires clever snapshotting. (Right now it still clones repos fresh which isn’t fast enough.)\n\nWill have that next week. https://t.co/lpiszOtVGP",
-      "translatedTitle": "离打造我想要使用的安全带又近了一步。",
-      "translatedBody": "距离我理想的框架又近了一步。目前唯一尚未实现的是云会话，目标是秒级响应，这需要巧妙的快照技术。（现在它仍然会全新克隆仓库，速度不够快。）\n\n下周就能搞定。https://t.co/lpiszOtVGP",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2096400749869830325",
-      "publishedAt": "2026-09-06T00:51:02.000Z",
-      "score": 60.49,
-      "engagement": {
-        "likes": 755,
-        "retweets": 35,
-        "replies": 54
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
+        "Foundation Models"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-09-06T22:54:40.471Z",
-    "totalCandidates": 6,
-    "textQualifiedCandidates": 3,
-    "selectedTweets": 3
+    "upstreamGeneratedAt": "2026-09-07T06:50:41.247Z",
+    "totalCandidates": 5,
+    "textQualifiedCandidates": 1,
+    "selectedTweets": 1
   }
 }
