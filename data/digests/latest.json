@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-08",
-  "generatedAt": "2026-09-08T03:52:00.767Z",
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-09T03:56:44.426Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-09-08",
-  "summary": "今天最值得看的是 Aaron Levie 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 5 条候选动态里，筛出 1 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-09-09",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 23 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,42 +15,238 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
+    },
+    {
+      "slug": "product-ships",
+      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2096735726750908464",
+      "id": "2097134278358548658",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "互联网几乎完全没有为每个人的个人信息都将公开的未来做好准备……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The internet is almost entirely unprepared for a future where everyone’s personal agents are running around executing…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "The internet is almost entirely unprepared for a future where everyone’s personal a…",
-      "originalBody": "The internet is almost entirely unprepared for a future where everyone’s personal agents are running around executing tasks for them. \n\nThere are going to be endless new challenges and opportunities at the infrastructure layer, for user experiences, new business models, and more. https://t.co/lmbQNJAeF6",
-      "translatedTitle": "互联网几乎完全没有为每个人的个人信息都将公开的未来做好准备……",
-      "translatedBody": "互联网几乎完全没有为未来做好准备，届时每个人的私人代理都会四处奔走，替他们执行各种任务。\n\n基础设施层面、用户体验、新型商业模式等等，都将面临无穷无尽的新挑战和机遇。https://t.co/lmbQNJAeF6",
+      "builder": "Guillermo Rauch",
+      "title": "您的软件工厂需要高质量的视频录制。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Your software factory needs high quality video recording. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 delivers. We’re shipping more fun…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Your software factory needs high quality video recording.",
+      "originalBody": "Your software factory needs high quality video recording. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 delivers.\n\nWe’re shipping more functionality derived from the lessons of automating the new bottleneck in software engineering: review, testing and QA. https://t.co/x7AC3voF0i",
+      "translatedTitle": "您的软件工厂需要高质量的视频录制。",
+      "translatedBody": "您的软件工厂需要高质量的视频录制。𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 正是您所需要的。\n\n我们正在推出更多功能，这些功能源自于自动化软件工程中新的瓶颈环节：代码审查、测试和质量保证。https://t.co/x7AC3voF0i",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2096735726750908464",
-      "publishedAt": "2026-09-06T23:02:07.000Z",
-      "score": 83.43,
+      "sourceUrl": "https://x.com/rauchg/status/2097134278358548658",
+      "publishedAt": "2026-09-08T01:25:49.000Z",
+      "score": 186.69,
       "engagement": {
-        "likes": 451,
-        "retweets": 41,
-        "replies": 51
+        "likes": 1030,
+        "retweets": 27,
+        "replies": 37
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2097116011384426516",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/ 𝚕𝚜▐ (v2) 我宣布我的开源项目 v2 版本发布……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/ 𝚕𝚜▐ (v2) I'm announcing v2 of my open source grants of $1,000USD to 35 awesom…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/ 𝚕𝚜▐ (v2) I'm announcing v2 of my open sourc…",
+      "originalBody": "▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/  𝚕𝚜▐  (v2)\n\nI'm announcing v2 of my open source grants of $1,000USD to 35 awesome contributors. The themes:\n\n① Agent skills & tools\nSkills are now a valuable form of software, like Emil's world-class design eng work. Projects like 𝚙𝚐𝚋𝚘𝚝, 𝚔𝚗𝚒𝚙, 𝚞𝚗𝚕𝚒𝚐𝚑𝚝𝚑𝚘𝚞𝚜𝚎 create amazing AI engineering loops.\n\n② Local AI\nProjects like 𝚜𝚕𝚘𝚝𝚜𝚝𝚛𝚎𝚊𝚖, 𝙻𝚘𝚌𝚊𝚕𝙰𝙸, and 𝚌𝚘𝚕𝚒𝚋𝚛𝚒 are making inference not just a demo but for many a real and growing utility. Exciting to watch local AI unfold.\n\n③ Performance\nThere's no excuse for software to be slow anymore. Projects like 𝚏𝚏𝚏 and 𝚝𝚊𝚔𝚞𝚖𝚒 leading with speed, compilers like 𝙿𝚎𝚛𝚛𝚢𝚃𝚂 and 𝚙𝚘𝚛𝚏𝚏𝚘𝚛 that can help us upgrade entire ecosystems to native, and 𝚐𝚙𝚞𝚒𝚡 pushing the GPU rendering speed frontier.\n\n④ High quality foundations\nAI is still at its best when it can reuse great components than regenerating every time from first principles. Lots of love to folks working on @shadcn, Svelte(kit), Nuxt, Node.js and security foundations.\n\n⑤ Cool experiments\nI couldn't resist donating to https://t.co/j9XATPFzV7, a 'Finance terminal in the terminal', or beautiful funky things like 𝚍𝚒𝚝𝚑𝚎𝚛-𝚔𝚒𝚝.\n\n🔗 https://t.co/tkCpYPkHxH\n\nPS: These are personal, not affiliated with Vercel, and fully unconditional. If you are listed, I'll be DM'ing you or using your public contact info!",
+      "translatedTitle": "▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/ 𝚕𝚜▐ (v2) 我宣布我的开源项目 v2 版本发布……",
+      "translatedBody": "▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/ 𝚕𝚜▐ (v2)\n\n我宣布第二期开源资助计划，将向 35 位杰出的贡献者提供 1000 美元的资助。主题如下：\n\n① 智能体技能与工具\n\n技能如今已成为一种宝贵的软件形式，例如 Emil 世界一流的设计工程作品。像 𝚙𝚐𝚋𝚘𝚝、𝚔𝚗𝚒𝚙 和 𝚞𝚗𝚕𝚒𝚐𝚑𝚝𝚑𝚘𝚞𝚜𝚎 这样的项目创造了令人惊叹的 AI 工程循环。\n\n② 本地 AI\n\n像 𝚜𝚕𝚘𝚝𝚜𝚝𝚛𝚎𝚊𝚖、𝙻𝚘𝚌𝚊𝚕𝙰𝙸 和 𝚌𝚘𝚕𝚒𝚋𝚛𝚒 这样的项目正在使推理不再仅仅是演示，而是对许多人来说真正且日益增长的实用工具。本地 AI 的发展令人兴奋。\n\n③ 性能\n\n软件运行缓慢已不再是借口。像 𝚏𝚏𝚏 和 𝚝𝚊𝚔𝚞𝚖𝚒 这样的项目引领着速度潮流，像 𝙿𝚎𝚛𝚛𝚢𝚃𝚂 和 𝚙𝚘𝚛𝚏𝚏𝚘𝚛 这样的编译器能够帮助我们将整个生态系统升级到原生应用，而 𝚐𝚙𝚞𝚒𝚡 则不断突破 GPU 渲染速度的极限。\n\n④ 高质量的基础架构\n\n人工智能的最佳状态仍然是能够重用优秀的组件，而不是每次都从头开始重新生成。向所有致力于 @shadcn、Svelte(kit)、Nuxt、Node.js 和安全基础架构的开发者们致以崇高的敬意。\n\n⑤ 超酷的实验\n\n我忍不住要给 https://t.co/j9XATPFzV7 捐款，比如“航站楼里的金融终端”，或者像 𝚍𝚒𝚝𝚑𝚎𝚛-𝚔𝚒𝚝 这样酷炫又有趣的东西。\n\n🔗 https://t.co/tkCpYPkHxH\n\n附注：这些都是我个人的捐赠，与 Vercel 无关，而且完全无条件。如果你在名单上，我会私信你或者使用你的公开联系方式！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2097116011384426516",
+      "publishedAt": "2026-09-08T00:13:14.000Z",
+      "score": 185.2,
+      "engagement": {
+        "likes": 678,
+        "retweets": 33,
+        "replies": 75
       },
       "matchedFocusAreas": [
         "Coding Agents",
         "Foundation Models"
       ],
       "sourceType": "x"
+    },
+    {
+      "id": "2097189559712837770",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "这里要提醒大家的是，随着人工智能技术的飞速发展，你很可能应该……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Good reminder here that with rapidly accelerating AI progress, you should likely be building with a vision that conte…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Good reminder here that with rapidly accelerating AI progress, you should likely be…",
+      "originalBody": "Good reminder here that with rapidly accelerating AI progress, you should likely be building with a vision that contemplates at least a few orders of magnitude of capability improvement or token volume available to you.\n\nThe best opportunities right now are those where you can value to customers today with things that are barely only possible, but with a full mission that feels nearly impossible with today’s tech.\n\nThere are lots of products the require orders of magnitude more processing of data (and thus are barely economically viable ideas) or where model capabilities still are in their infancy relative to what’s needed to work. Best to be building for those scenarios.",
+      "translatedTitle": "这里要提醒大家的是，随着人工智能技术的飞速发展，你很可能应该……",
+      "translatedBody": "这里要提醒大家，随着人工智能技术的飞速发展，您在构建产品时，应该着眼于未来至少几个数量级的能力提升或数据处理能力的提升。\n\n目前最好的机会在于，您可以利用一些在现有技术条件下几乎不可能实现的功能，为客户创造价值，并完成一项看似不可能完成的任务。\n\n许多产品需要处理的数据量级大幅提升（因此在经济上难以实现），或者模型能力相对于实际应用而言仍处于起步阶段。最好针对这些情况进行产品开发。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2097189559712837770",
+      "publishedAt": "2026-09-08T05:05:29.000Z",
+      "score": 102.21,
+      "engagement": {
+        "likes": 101,
+        "retweets": 9,
+        "replies": 19
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2097193293532848288",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "我现在正在看这份28页的资料，Codex 在上面记录了所有独立数据……",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Looking at this 28 page deck right now where Codex is keeping track of all the individual launches. Each one of them…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Looking at this 28 page deck right now where Codex is keeping track of all the indi…",
+      "originalBody": "Looking at this 28 page deck right now where Codex is keeping track of all the individual launches. Each one of them I can't wait to see what people do with it.\n\nBrought to you by an incredible team (and Astra) https://t.co/DsYPXY7sfo",
+      "translatedTitle": "我现在正在看这份28页的资料，Codex 在上面记录了所有独立数据……",
+      "translatedBody": "我现在正在看这份28页的资料，Codex 在上面记录了所有单独的发布活动。我迫不及待地想看看大家会如何利用它们。\n\n由一支杰出的团队（以及 Astra）倾情打造 https://t.co/DsYPXY7sfo",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2097193293532848288",
+      "publishedAt": "2026-09-08T05:20:19.000Z",
+      "score": 67.17,
+      "engagement": {
+        "likes": 1882,
+        "retweets": 53,
+        "replies": 341
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2096995340654444674",
+      "type": "tweet",
+      "builder": "Amanda Askell",
+      "title": "如果能设置一个供自主人工智能模型使用的电子邮件地址，那就太好了……",
+      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：It would be cool to set up an email address that autonomous AI models could reach out to if they were looking for mor…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "It would be cool to set up an email address that autonomous AI models could reach o…",
+      "originalBody": "It would be cool to set up an email address that autonomous AI models could reach out to if they were looking for moral guidance. But it would require a reverse captcha that can detect that you're neither a human nor an AI being instructed to break it by a human.",
+      "translatedTitle": "如果能设置一个供自主人工智能模型使用的电子邮件地址，那就太好了……",
+      "translatedBody": "如果能设置一个邮箱地址，让自主人工智能模型在寻求道德指导时可以联系到该邮箱，那就太好了。但这需要一个反向验证码，能够识别出你既不是真人，也不是被人类指示破解验证码的人工智能。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/AmandaAskell/status/2096995340654444674",
+      "publishedAt": "2026-09-07T16:13:44.000Z",
+      "score": 62.48,
+      "engagement": {
+        "likes": 1017,
+        "retweets": 44,
+        "replies": 148
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2096936109817135331",
+      "type": "tweet",
+      "builder": "Amjad Masad",
+      "title": "我认为我们还没有实现通用人工智能（AGI），但我们目前所拥有的在功能上已经与AGI难分伯仲……",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I don’t think we’ve reached AGI but what we have is functionally indistinguishable from AGI. Because we have a relent…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I don’t think we’ve reached AGI but what we have is functionally indistinguishable…",
+      "originalBody": "I don’t think we’ve reached AGI but what we have is functionally indistinguishable from AGI.\n\nBecause we have a relentless programmer that doesn’t get bored or tired.\n\nSo any problem that can be casted as a coding problem is virtually solved. https://t.co/4FOEW6VVbA",
+      "translatedTitle": "我认为我们还没有实现通用人工智能（AGI），但我们目前所拥有的在功能上已经与AGI难分伯仲……",
+      "translatedBody": "我认为我们还没有达到通用人工智能（AGI）的水平，但我们目前所拥有的在功能上与AGI几乎没有区别。\n\n因为我们拥有一位不知疲倦、永不厌倦的程序员。\n\n因此，任何可以转化为编码问题的问题实际上都得到了解决。https://t.co/4FOEW6VVbA",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/amasad/status/2096936109817135331",
+      "publishedAt": "2026-09-07T12:18:22.000Z",
+      "score": 61.32,
+      "engagement": {
+        "likes": 730,
+        "retweets": 57,
+        "replies": 145
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2097091456234111377",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "我向我们的一个上游项目提交了一个 PR，他们要求做一些小的修改。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Did a PR to one of our upstream projects and they requested some minor changes. What’s even the point with this workf…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Did a PR to one of our upstream projects and they requested some minor changes.",
+      "originalBody": "Did a PR to one of our upstream projects and they requested some minor changes.\n\nWhat’s even the point with this workflow? You already wrote the prompt, why make me ping my agent again so your agent then merges?",
+      "translatedTitle": "我向我们的一个上游项目提交了一个 PR，他们要求做一些小的修改。",
+      "translatedBody": "我向我们上游的一个项目提交了一个 PR，他们要求做一些小的修改。\n\n这个工作流程到底有什么意义？你已经写好了提示，为什么还要我再去联系我的代理，然后你们的代理再合并？",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2097091456234111377",
+      "publishedAt": "2026-09-07T22:35:39.000Z",
+      "score": 59.54,
+      "engagement": {
+        "likes": 608,
+        "retweets": 5,
+        "replies": 91
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2097004960307449937",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "目前来看，人工智能就业预测的结果与许多人的预期恰恰相反。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The AI jobs prediction so far is playing out the opposite of what many thought. The reason this is happening is becau…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "The AI jobs prediction so far is playing out the opposite of what many thought.",
+      "originalBody": "The AI jobs prediction so far is playing out the opposite of what many thought.\n\nThe reason this is happening is because AI is bringing automation to areas that don’t have finite demand characteristics. AI allows companies to do far more than they could before, but agents still require human operators and oversight to generate value from them. \n\nAnd not only has AI not replaced many of the types of jobs that theoretically would have been most affected by AI - engineers or lawyers - but AI is also creating or growing entire categories of jobs across the economy. \n\nCybersecurity, FDEs, agent operators, engineers in non-software domains, and tons of job categories are going to explode. It’s not clear if or when this trend will reverse because we keep discovering all new areas of demand that AI is going to open up.",
+      "translatedTitle": "目前来看，人工智能就业预测的结果与许多人的预期恰恰相反。",
+      "translatedBody": "目前人工智能就业预测的发展趋势与许多人的预期截然相反。\n\n造成这种情况的原因在于，人工智能正在将自动化引入那些需求并非无限增长的领域。人工智能使企业能够完成以往无法完成的工作，但智能体仍然需要人工操作和监督才能创造价值。\n\n人工智能不仅没有取代那些理论上最易受影响的职业——例如工程师或律师——反而正在创造或拓展整个经济领域的新就业类别。\n\n网络安全、功能开发工程师 (FDE)、智能体操作员、非软件领域的工程师以及众多其他就业类别都将迎来爆发式增长。目前尚不清楚这一趋势是否会逆转，以及何时逆转，因为我们不断发现人工智能将开辟的全新需求领域。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2097004960307449937",
+      "publishedAt": "2026-09-07T16:51:57.000Z",
+      "score": 58.85,
+      "engagement": {
+        "likes": 427,
+        "retweets": 77,
+        "replies": 53
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-09-07T06:50:41.247Z",
-    "totalCandidates": 5,
-    "textQualifiedCandidates": 1,
-    "selectedTweets": 1
+    "upstreamGeneratedAt": "2026-09-08T06:40:22.478Z",
+    "totalCandidates": 23,
+    "textQualifiedCandidates": 13,
+    "selectedTweets": 8
   }
 }
