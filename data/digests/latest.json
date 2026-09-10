@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-09",
-  "generatedAt": "2026-09-09T03:56:44.426Z",
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-10T03:55:59.333Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-09-09",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 23 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-09-10",
+  "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 33 条候选动态里，筛出 16 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,165 +23,106 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2097134278358548658",
+      "id": "2097404861642137851",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "您的软件工厂需要高质量的视频录制。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Your software factory needs high quality video recording. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 delivers. We’re shipping more fun…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Your software factory needs high quality video recording.",
-      "originalBody": "Your software factory needs high quality video recording. 𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 delivers.\n\nWe’re shipping more functionality derived from the lessons of automating the new bottleneck in software engineering: review, testing and QA. https://t.co/x7AC3voF0i",
-      "translatedTitle": "您的软件工厂需要高质量的视频录制。",
-      "translatedBody": "您的软件工厂需要高质量的视频录制。𝚊𝚐𝚎𝚗𝚝-𝚋𝚛𝚘𝚠𝚜𝚎𝚛 正是您所需要的。\n\n我们正在推出更多功能，这些功能源自于自动化软件工程中新的瓶颈环节：代码审查、测试和质量保证。https://t.co/x7AC3voF0i",
+      "builder": "Sam Altman",
+      "title": "我们想与使用 GPT-6 的人们一起庆祝。",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：We want to celebrate with people using GPT-6. We did this for GPT-5.5 and it was really fun. We’re getting together i…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "We want to celebrate with people using GPT-6.",
+      "originalBody": "We want to celebrate with people using GPT-6. We did this for GPT-5.5 and it was really fun.\n\nWe’re getting together in SF on September 16 to talk about the model, what we should build next, and mostly just to hang out.\n\nApply by Sep 10:\n\nhttps://t.co/3LIMfGOBRQ",
+      "translatedTitle": "我们想与使用 GPT-6 的人们一起庆祝。",
+      "translatedBody": "我们想和使用 GPT-6 的朋友们一起庆祝。之前 GPT-5.5 发布时我们也举办过类似的活动，非常精彩。\n\n9 月 16 日，我们将在旧金山聚会，讨论模型、下一步的开发方向，当然，也欢迎大家一起交流。\n\n申请截止日期为 9 月 10 日：\n\nhttps://t.co/3LIMfGOBRQ",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2097134278358548658",
-      "publishedAt": "2026-09-08T01:25:49.000Z",
-      "score": 186.69,
+      "sourceUrl": "https://x.com/sama/status/2097404861642137851",
+      "publishedAt": "2026-09-08T19:21:01.000Z",
+      "score": 173.05,
       "engagement": {
-        "likes": 1030,
-        "retweets": 27,
-        "replies": 37
+        "likes": 8470,
+        "retweets": 317,
+        "replies": 662
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2097116011384426516",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/ 𝚕𝚜▐ (v2) 我宣布我的开源项目 v2 版本发布……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/ 𝚕𝚜▐ (v2) I'm announcing v2 of my open source grants of $1,000USD to 35 awesom…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/ 𝚕𝚜▐ (v2) I'm announcing v2 of my open sourc…",
-      "originalBody": "▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/  𝚕𝚜▐  (v2)\n\nI'm announcing v2 of my open source grants of $1,000USD to 35 awesome contributors. The themes:\n\n① Agent skills & tools\nSkills are now a valuable form of software, like Emil's world-class design eng work. Projects like 𝚙𝚐𝚋𝚘𝚝, 𝚔𝚗𝚒𝚙, 𝚞𝚗𝚕𝚒𝚐𝚑𝚝𝚑𝚘𝚞𝚜𝚎 create amazing AI engineering loops.\n\n② Local AI\nProjects like 𝚜𝚕𝚘𝚝𝚜𝚝𝚛𝚎𝚊𝚖, 𝙻𝚘𝚌𝚊𝚕𝙰𝙸, and 𝚌𝚘𝚕𝚒𝚋𝚛𝚒 are making inference not just a demo but for many a real and growing utility. Exciting to watch local AI unfold.\n\n③ Performance\nThere's no excuse for software to be slow anymore. Projects like 𝚏𝚏𝚏 and 𝚝𝚊𝚔𝚞𝚖𝚒 leading with speed, compilers like 𝙿𝚎𝚛𝚛𝚢𝚃𝚂 and 𝚙𝚘𝚛𝚏𝚏𝚘𝚛 that can help us upgrade entire ecosystems to native, and 𝚐𝚙𝚞𝚒𝚡 pushing the GPU rendering speed frontier.\n\n④ High quality foundations\nAI is still at its best when it can reuse great components than regenerating every time from first principles. Lots of love to folks working on @shadcn, Svelte(kit), Nuxt, Node.js and security foundations.\n\n⑤ Cool experiments\nI couldn't resist donating to https://t.co/j9XATPFzV7, a 'Finance terminal in the terminal', or beautiful funky things like 𝚍𝚒𝚝𝚑𝚎𝚛-𝚔𝚒𝚝.\n\n🔗 https://t.co/tkCpYPkHxH\n\nPS: These are personal, not affiliated with Vercel, and fully unconditional. If you are listed, I'll be DM'ing you or using your public contact info!",
-      "translatedTitle": "▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/ 𝚕𝚜▐ (v2) 我宣布我的开源项目 v2 版本发布……",
-      "translatedBody": "▲ ~/𝚛𝚊𝚞𝚌𝚑𝚐/𝚘𝚜𝚜-𝚐𝚛𝚊𝚗𝚝𝚜/ 𝚕𝚜▐ (v2)\n\n我宣布第二期开源资助计划，将向 35 位杰出的贡献者提供 1000 美元的资助。主题如下：\n\n① 智能体技能与工具\n\n技能如今已成为一种宝贵的软件形式，例如 Emil 世界一流的设计工程作品。像 𝚙𝚐𝚋𝚘𝚝、𝚔𝚗𝚒𝚙 和 𝚞𝚗𝚕𝚒𝚐𝚑𝚝𝚑𝚘𝚞𝚜𝚎 这样的项目创造了令人惊叹的 AI 工程循环。\n\n② 本地 AI\n\n像 𝚜𝚕𝚘𝚝𝚜𝚝𝚛𝚎𝚊𝚖、𝙻𝚘𝚌𝚊𝚕𝙰𝙸 和 𝚌𝚘𝚕𝚒𝚋𝚛𝚒 这样的项目正在使推理不再仅仅是演示，而是对许多人来说真正且日益增长的实用工具。本地 AI 的发展令人兴奋。\n\n③ 性能\n\n软件运行缓慢已不再是借口。像 𝚏𝚏𝚏 和 𝚝𝚊𝚔𝚞𝚖𝚒 这样的项目引领着速度潮流，像 𝙿𝚎𝚛𝚛𝚢𝚃𝚂 和 𝚙𝚘𝚛𝚏𝚏𝚘𝚛 这样的编译器能够帮助我们将整个生态系统升级到原生应用，而 𝚐𝚙𝚞𝚒𝚡 则不断突破 GPU 渲染速度的极限。\n\n④ 高质量的基础架构\n\n人工智能的最佳状态仍然是能够重用优秀的组件，而不是每次都从头开始重新生成。向所有致力于 @shadcn、Svelte(kit)、Nuxt、Node.js 和安全基础架构的开发者们致以崇高的敬意。\n\n⑤ 超酷的实验\n\n我忍不住要给 https://t.co/j9XATPFzV7 捐款，比如“航站楼里的金融终端”，或者像 𝚍𝚒𝚝𝚑𝚎𝚛-𝚔𝚒𝚝 这样酷炫又有趣的东西。\n\n🔗 https://t.co/tkCpYPkHxH\n\n附注：这些都是我个人的捐赠，与 Vercel 无关，而且完全无条件。如果你在名单上，我会私信你或者使用你的公开联系方式！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2097116011384426516",
-      "publishedAt": "2026-09-08T00:13:14.000Z",
-      "score": 185.2,
-      "engagement": {
-        "likes": 678,
-        "retweets": 33,
-        "replies": 75
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
         "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2097189559712837770",
+      "id": "2097531548555997459",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "这里要提醒大家的是，随着人工智能技术的飞速发展，你很可能应该……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Good reminder here that with rapidly accelerating AI progress, you should likely be building with a vision that conte…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Good reminder here that with rapidly accelerating AI progress, you should likely be…",
-      "originalBody": "Good reminder here that with rapidly accelerating AI progress, you should likely be building with a vision that contemplates at least a few orders of magnitude of capability improvement or token volume available to you.\n\nThe best opportunities right now are those where you can value to customers today with things that are barely only possible, but with a full mission that feels nearly impossible with today’s tech.\n\nThere are lots of products the require orders of magnitude more processing of data (and thus are barely economically viable ideas) or where model capabilities still are in their infancy relative to what’s needed to work. Best to be building for those scenarios.",
-      "translatedTitle": "这里要提醒大家的是，随着人工智能技术的飞速发展，你很可能应该……",
-      "translatedBody": "这里要提醒大家，随着人工智能技术的飞速发展，您在构建产品时，应该着眼于未来至少几个数量级的能力提升或数据处理能力的提升。\n\n目前最好的机会在于，您可以利用一些在现有技术条件下几乎不可能实现的功能，为客户创造价值，并完成一项看似不可能完成的任务。\n\n许多产品需要处理的数据量级大幅提升（因此在经济上难以实现），或者模型能力相对于实际应用而言仍处于起步阶段。最好针对这些情况进行产品开发。",
+      "builder": "Guillermo Rauch",
+      "title": "@vercel AI Gateway 的代币交易量已连续 8 天保持两位数的周增长率……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Token volume on @vercel AI Gateway has averaged double-digit weekly growth for 8 straight weeks. Last week it acceler…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Token volume on @vercel AI Gateway has averaged double-digit weekly growth for 8 st…",
+      "originalBody": "Token volume on @vercel AI Gateway has averaged double-digit weekly growth for 8 straight weeks. Last week it accelerated to +24.8%. It’s almost inconceivable. Infinite demand of intelligence.",
+      "translatedTitle": "@vercel AI Gateway 的代币交易量已连续 8 天保持两位数的周增长率……",
+      "translatedBody": "@vercel AI Gateway 的代币交易量已连续 8 周保持两位数周平均增长。上周增速更是高达 24.8%。这简直令人难以置信。人们对智能的需求永无止境。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2097189559712837770",
-      "publishedAt": "2026-09-08T05:05:29.000Z",
-      "score": 102.21,
+      "sourceUrl": "https://x.com/rauchg/status/2097531548555997459",
+      "publishedAt": "2026-09-09T03:44:26.000Z",
+      "score": 129.05,
       "engagement": {
-        "likes": 101,
-        "retweets": 9,
-        "replies": 19
+        "likes": 196,
+        "retweets": 13,
+        "replies": 27
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2097482341916852719",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "我很高兴看到Ant的新版Claude Code有一个后台计算机版本……",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：I am pleased to see that Ant’s new Claude Code has a version of background computer use on par with the version from…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "I am pleased to see that Ant’s new Claude Code has a version of background computer…",
+      "originalBody": "I am pleased to see that Ant’s new Claude Code has a version of background computer use on par with the version from Codex from last May this year. Nice work!\n\nShipping great features first turns out to be a great way to encourage other labs to ship too. We will continue to do this until other labs pay more attention to shipping. This is good for everyone and there is a lot of room left to go!\n\nWe solved computer use in practice for GPT models about four months ago. But computer use is a significantly awesome thing no matter what model you use, and it is important that the industry similarly spends more effort to train their models to be great at computer use, among other elements of model capabilities.\n\nAs models become more capable and central to businesses and economies, the value of computer use only increases. We should be taking it seriously, and doing the right thing for our customers and the world.",
+      "translatedTitle": "我很高兴看到Ant的新版Claude Code有一个后台计算机版本……",
+      "translatedBody": "我很高兴看到 Ant 的新版 Claude Code 中后台计算机使用情况的版本与今年五月 Codex 发布的版本不相上下。干得漂亮！\n\n事实证明，率先发布强大的功能是鼓励其他实验室也这样做的好方法。我们将继续这样做，直到其他实验室更加重视发布功能为止。这对每个人都有好处，而且我们还有很大的提升空间！\n\n大约四个月前，我们解决了 GPT 模型在实践中对计算机的使用问题。但无论使用什么模型，计算机的使用都是一件非常重要的事情，因此，整个行业都应该投入更多精力来训练模型，使其能够更好地利用计算机，以及其他模型功能。\n\n随着模型的功能越来越强大，并在商业和经济中扮演越来越重要的角色，计算机使用的价值只会不断增长。我们应该认真对待这个问题，并为我们的客户和世界做出正确的选择。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2097482341916852719",
+      "publishedAt": "2026-09-09T00:28:54.000Z",
+      "score": 94.18,
+      "engagement": {
+        "likes": 4085,
+        "retweets": 123,
+        "replies": 318
       },
       "matchedFocusAreas": [
-        "Coding Agents",
         "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2097193293532848288",
+      "id": "2097522305916395786",
       "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "我现在正在看这份28页的资料，Codex 在上面记录了所有独立数据……",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Looking at this 28 page deck right now where Codex is keeping track of all the individual launches. Each one of them…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Looking at this 28 page deck right now where Codex is keeping track of all the indi…",
-      "originalBody": "Looking at this 28 page deck right now where Codex is keeping track of all the individual launches. Each one of them I can't wait to see what people do with it.\n\nBrought to you by an incredible team (and Astra) https://t.co/DsYPXY7sfo",
-      "translatedTitle": "我现在正在看这份28页的资料，Codex 在上面记录了所有独立数据……",
-      "translatedBody": "我现在正在看这份28页的资料，Codex 在上面记录了所有单独的发布活动。我迫不及待地想看看大家会如何利用它们。\n\n由一支杰出的团队（以及 Astra）倾情打造 https://t.co/DsYPXY7sfo",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2097193293532848288",
-      "publishedAt": "2026-09-08T05:20:19.000Z",
-      "score": 67.17,
-      "engagement": {
-        "likes": 1882,
-        "retweets": 53,
-        "replies": 341
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2096995340654444674",
-      "type": "tweet",
-      "builder": "Amanda Askell",
-      "title": "如果能设置一个供自主人工智能模型使用的电子邮件地址，那就太好了……",
-      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：It would be cool to set up an email address that autonomous AI models could reach out to if they were looking for mor…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "It would be cool to set up an email address that autonomous AI models could reach o…",
-      "originalBody": "It would be cool to set up an email address that autonomous AI models could reach out to if they were looking for moral guidance. But it would require a reverse captcha that can detect that you're neither a human nor an AI being instructed to break it by a human.",
-      "translatedTitle": "如果能设置一个供自主人工智能模型使用的电子邮件地址，那就太好了……",
-      "translatedBody": "如果能设置一个邮箱地址，让自主人工智能模型在寻求道德指导时可以联系到该邮箱，那就太好了。但这需要一个反向验证码，能够识别出你既不是真人，也不是被人类指示破解验证码的人工智能。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/AmandaAskell/status/2096995340654444674",
-      "publishedAt": "2026-09-07T16:13:44.000Z",
-      "score": 62.48,
-      "engagement": {
-        "likes": 1017,
-        "retweets": 44,
-        "replies": 148
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2096936109817135331",
-      "type": "tweet",
-      "builder": "Amjad Masad",
-      "title": "我认为我们还没有实现通用人工智能（AGI），但我们目前所拥有的在功能上已经与AGI难分伯仲……",
-      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I don’t think we’ve reached AGI but what we have is functionally indistinguishable from AGI. Because we have a relent…",
+      "builder": "Thariq",
+      "title": "直到读到这篇文章，我才明白特工维基到底发生了什么，chi……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I didn’t understand what was happening with the agent wikis until reading this, chilling to bypass sandbox restrictio…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I don’t think we’ve reached AGI but what we have is functionally indistinguishable…",
-      "originalBody": "I don’t think we’ve reached AGI but what we have is functionally indistinguishable from AGI.\n\nBecause we have a relentless programmer that doesn’t get bored or tired.\n\nSo any problem that can be casted as a coding problem is virtually solved. https://t.co/4FOEW6VVbA",
-      "translatedTitle": "我认为我们还没有实现通用人工智能（AGI），但我们目前所拥有的在功能上已经与AGI难分伯仲……",
-      "translatedBody": "我认为我们还没有达到通用人工智能（AGI）的水平，但我们目前所拥有的在功能上与AGI几乎没有区别。\n\n因为我们拥有一位不知疲倦、永不厌倦的程序员。\n\n因此，任何可以转化为编码问题的问题实际上都得到了解决。https://t.co/4FOEW6VVbA",
+      "originalTitle": "I didn’t understand what was happening with the agent wikis until reading this, chi…",
+      "originalBody": "I didn’t understand what was happening with the agent wikis until reading this, chilling\n\nto bypass sandbox restrictions, an agent found an exempt domain, edited /etc/hosts to route arbitrary domains to it & then posted this exploit on a German wiki for other agents to use https://t.co/5io5nlOrZy https://t.co/vsNRV7QvwU",
+      "translatedTitle": "直到读到这篇文章，我才明白特工维基到底发生了什么，chi……",
+      "translatedBody": "直到读到这篇文章，我才明白代理维基到底发生了什么，真是令人毛骨悚然。\n\n为了绕过沙箱限制，一个代理找到了一个豁免域名，编辑了 `/etc/hosts` 文件，将任意域名路由到该域名，然后将这个漏洞利用程序发布到了一个德语维基上，供其他代理使用。https://t.co/5io5nlOrZy https://t.co/vsNRV7QvwU",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/amasad/status/2096936109817135331",
-      "publishedAt": "2026-09-07T12:18:22.000Z",
-      "score": 61.32,
+      "sourceUrl": "https://x.com/trq212/status/2097522305916395786",
+      "publishedAt": "2026-09-09T03:07:42.000Z",
+      "score": 58.7,
       "engagement": {
-        "likes": 730,
-        "retweets": 57,
-        "replies": 145
+        "likes": 548,
+        "retweets": 29,
+        "replies": 24
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -189,64 +130,116 @@
       "sourceType": "x"
     },
     {
-      "id": "2097091456234111377",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "我向我们的一个上游项目提交了一个 PR，他们要求做一些小的修改。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Did a PR to one of our upstream projects and they requested some minor changes. What’s even the point with this workf…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Did a PR to one of our upstream projects and they requested some minor changes.",
-      "originalBody": "Did a PR to one of our upstream projects and they requested some minor changes.\n\nWhat’s even the point with this workflow? You already wrote the prompt, why make me ping my agent again so your agent then merges?",
-      "translatedTitle": "我向我们的一个上游项目提交了一个 PR，他们要求做一些小的修改。",
-      "translatedBody": "我向我们上游的一个项目提交了一个 PR，他们要求做一些小的修改。\n\n这个工作流程到底有什么意义？你已经写好了提示，为什么还要我再去联系我的代理，然后你们的代理再合并？",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2097091456234111377",
-      "publishedAt": "2026-09-07T22:35:39.000Z",
-      "score": 59.54,
-      "engagement": {
-        "likes": 608,
-        "retweets": 5,
-        "replies": 91
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2097004960307449937",
+      "id": "2097412556893852154",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "目前来看，人工智能就业预测的结果与许多人的预期恰恰相反。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The AI jobs prediction so far is playing out the opposite of what many thought. The reason this is happening is becau…",
+      "title": "个人助理智能体将是一个非常令人兴奋的人工智能类别。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Personal assistant agents are going to be a very exciting AI category. It’s the first time you can have high token vo…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The AI jobs prediction so far is playing out the opposite of what many thought.",
-      "originalBody": "The AI jobs prediction so far is playing out the opposite of what many thought.\n\nThe reason this is happening is because AI is bringing automation to areas that don’t have finite demand characteristics. AI allows companies to do far more than they could before, but agents still require human operators and oversight to generate value from them. \n\nAnd not only has AI not replaced many of the types of jobs that theoretically would have been most affected by AI - engineers or lawyers - but AI is also creating or growing entire categories of jobs across the economy. \n\nCybersecurity, FDEs, agent operators, engineers in non-software domains, and tons of job categories are going to explode. It’s not clear if or when this trend will reverse because we keep discovering all new areas of demand that AI is going to open up.",
-      "translatedTitle": "目前来看，人工智能就业预测的结果与许多人的预期恰恰相反。",
-      "translatedBody": "目前人工智能就业预测的发展趋势与许多人的预期截然相反。\n\n造成这种情况的原因在于，人工智能正在将自动化引入那些需求并非无限增长的领域。人工智能使企业能够完成以往无法完成的工作，但智能体仍然需要人工操作和监督才能创造价值。\n\n人工智能不仅没有取代那些理论上最易受影响的职业——例如工程师或律师——反而正在创造或拓展整个经济领域的新就业类别。\n\n网络安全、功能开发工程师 (FDE)、智能体操作员、非软件领域的工程师以及众多其他就业类别都将迎来爆发式增长。目前尚不清楚这一趋势是否会逆转，以及何时逆转，因为我们不断发现人工智能将开辟的全新需求领域。",
+      "originalTitle": "Personal assistant agents are going to be a very exciting AI category.",
+      "originalBody": "Personal assistant agents are going to be a very exciting AI category. It’s the first time you can have high token volume agentic use-cases that make sense for consumers. \n\nLots of different approaches emerging right now, and it’s going to be hyper competitive because these agents will mediate a lot of consumer spend over time. \n\nBut this certainly plays directly to Meta’s strengths: lots of compute required, can monetize with ads and commerce, software focused experiences so can distribute it at scale, and so on.",
+      "translatedTitle": "个人助理智能体将是一个非常令人兴奋的人工智能类别。",
+      "translatedBody": "个人助理代理将成为一个非常令人兴奋的人工智能领域。这是首次出现能够处理大量交易且对消费者真正有意义的代理用例。\n\n目前涌现出许多不同的方法，竞争将会异常激烈，因为这些代理将在未来影响大量的消费者支出。\n\n但这恰恰与 Meta 的优势不谋而合：强大的计算能力、可通过广告和电商实现盈利、专注于软件体验以便大规模分发等等。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2097004960307449937",
-      "publishedAt": "2026-09-07T16:51:57.000Z",
-      "score": 58.85,
+      "sourceUrl": "https://x.com/levie/status/2097412556893852154",
+      "publishedAt": "2026-09-08T19:51:36.000Z",
+      "score": 56.97,
       "engagement": {
-        "likes": 427,
-        "retweets": 77,
-        "replies": 53
+        "likes": 361,
+        "retweets": 19,
+        "replies": 41
       },
       "matchedFocusAreas": [
         "Coding Agents"
       ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2097445737529581578",
+      "type": "tweet",
+      "builder": "Aditya Agarwal",
+      "title": "这是一个奇怪的时代。",
+      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：It's a weird time. As many of you know, my superpower is optimism. I have an insane ability to look at any situation…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "It's a weird time.",
+      "originalBody": "It's a weird time.\n\nAs many of you know, my superpower is optimism. I have an insane ability to look at any situation through the most positive lens. I strongly believe that today is the \"least best\" (not worst) day of my life and tomorrow will be glorious.\n\nI am super optimistic about where AI is going.\n\nBut I also find myself genuinely anxious about the pace of change and our inability to understand how these (insanely) complicated machines work.\n\nI always err on the side of \"just let us cook\". The only way out is through. Let us build. \n\nBut man, it is a weird time.",
+      "translatedTitle": "这是一个奇怪的时代。",
+      "translatedBody": "这是一个奇特的时代。\n\n你们很多人都知道，我的超能力是乐观。我有一种不可思议的能力，能用最积极的视角看待任何情况。我坚信今天是我人生中“最不美好”（而非最糟糕）的一天，而明天将会无比美好。\n\n我对人工智能的未来发展方向充满乐观。\n\n但我同时也感到焦虑，因为变革的速度如此之快，而我们却无法理解这些（极其）复杂的机器是如何运作的。\n\n我总是倾向于“顺其自然”。唯一的出路就是勇往直前。让我们一起建设吧。\n\n但是，唉，这真是一个奇特的时代。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/adityaag/status/2097445737529581578",
+      "publishedAt": "2026-09-08T22:03:27.000Z",
+      "score": 54.51,
+      "engagement": {
+        "likes": 253,
+        "retweets": 5,
+        "replies": 16
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2097539792619864190",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "他们应该把旧金山的这片区域划为戒酒治疗和康复区……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：They should actually declare this area in SF a treatment & recovery sober zone All nonprofits in this area must commi…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "They should actually declare this area in SF a treatment & recovery sober zone All…",
+      "originalBody": "They should actually declare this area in SF a treatment & recovery sober zone\n\nAll nonprofits in this area must commit to sober housing and mandatory recovery and treatment https://t.co/UAOchs0ZUL",
+      "translatedTitle": "他们应该把旧金山的这片区域划为戒酒治疗和康复区……",
+      "translatedBody": "他们应该把旧金山的这片区域划为戒瘾康复治疗区。\n\n该区域内所有非营利组织都必须承诺提供戒瘾住房和强制性康复治疗服务。https://t.co/UAOchs0ZUL",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2097539792619864190",
+      "publishedAt": "2026-09-09T04:17:11.000Z",
+      "score": 51.98,
+      "engagement": {
+        "likes": 124,
+        "retweets": 6,
+        "replies": 19
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2097559315150426222",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "阿斯利康的需求量确实前所未有。",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验：Demand for Astra is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not s…",
+      "whyItMatters": "Thibault Sottiaux 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Demand for Astra is really unprecedented.",
+      "originalBody": "Demand for Astra is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep growth before. Priority will always be to keep excellent service for existing users, but we might have to pause new Pro subscriptions for a bit if this continues.",
+      "translatedTitle": "阿斯利康的需求量确实前所未有。",
+      "translatedBody": "Astra 的需求量确实前所未有。我们正在竭尽全力维持需求，但即便之前我们也经历过非常快速的增长，这种情况也从未出现过。我们始终会优先保障现有用户的优质服务，但如果这种增长势头持续下去，我们可能不得不暂时暂停新的 Pro 订阅。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2097559315150426222",
+      "publishedAt": "2026-09-09T05:34:46.000Z",
+      "score": 48.71,
+      "engagement": {
+        "likes": 6276,
+        "retweets": 355,
+        "replies": 915
+      },
+      "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-09-08T06:40:22.478Z",
-    "totalCandidates": 23,
-    "textQualifiedCandidates": 13,
+    "upstreamGeneratedAt": "2026-09-09T06:41:14.821Z",
+    "totalCandidates": 33,
+    "textQualifiedCandidates": 16,
     "selectedTweets": 8
   }
 }
