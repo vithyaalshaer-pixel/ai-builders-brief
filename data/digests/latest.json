@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-12",
-  "generatedAt": "2026-09-12T03:54:52.279Z",
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-13T04:03:34.637Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-09-12",
+  "title": "AI Builders Daily | 2026-09-13",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 35 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 30 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,194 +23,165 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2098091056302833837",
+      "id": "2098531157230969062",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "Vercel 每天大约进行 1000 万次部署，迄今为止已完成 23.5 亿次部署。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Each day ~10 million deployments are made on Vercel, with 2.35 billion made to date. Vercel is one of the most heavil…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Each day ~10 million deployments are made on Vercel, with 2.35 billion made to date.",
-      "originalBody": "Each day ~10 million deployments are made on Vercel, with 2.35 billion made to date.\n\nVercel is one of the most heavily multi-tenant systems in the world. Billions of application deployments co-exist and are accessible ('routable') on our CDN at any given moment.\n\nUnderlying our CDN is a global metadata store that synchronizes within hundreds of milliseconds, globally. e.g: when you roll back, change config, add routes, etc.\n\nWe just made this system 91% faster at p99, and in the process sped up the build→deploy pipeline. All of this while the system is under immense pressure from the growth in agentic deployments.\n\nGreat read on the internals of Vercel from our CDN engineering team:",
-      "translatedTitle": "Vercel 每天大约进行 1000 万次部署，迄今为止已完成 23.5 亿次部署。",
-      "translatedBody": "Vercel 每天大约执行 1000 万次部署，迄今为止已累计完成 23.5 亿次部署。\n\nVercel 是全球最庞大的多租户系统之一。数十亿个应用程序部署同时存在于我们的 CDN 上，并且在任何给定时刻都可访问（“可路由”）。\n\n我们的 CDN 底层是一个全球元数据存储，可在全球范围内以数百毫秒的速度进行同步。例如：当您回滚、更改配置、添加路由等时。\n\n我们最近在 p99 版本中将该系统的速度提升了 91%，并在此过程中加快了构建到部署的流水线。所有这一切都是在系统承受着来自代理部署增长的巨大压力的情况下完成的。\n\n我们 CDN 工程团队撰写的关于 Vercel 内部机制的精彩文章：",
+      "title": "Tailscale 的模型路由器以 Vercel AI Gateway 作为其底层基础设施……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure. AI Gateways are the new CD…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastr…",
+      "originalBody": "Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure.\n\nAI Gateways are the new CDNs. You could go “direct to origin”, but it’s brittle. You could DIY, but it’s painful and costly.\n\nProud to serve Tailscale, the 🐐 networking technology company https://t.co/ERS5GKJx6D",
+      "translatedTitle": "Tailscale 的模型路由器以 Vercel AI Gateway 作为其底层基础设施……",
+      "translatedBody": "Tailscale 的样机路由器采用 Vercel AI 网关作为底层基础设施。\n\nAI 网关是新型的 CDN。您可以选择“直接访问源站”，但这很脆弱。您也可以自行搭建，但这既费时又费力。\n\n我们很荣幸能为 Tailscale 提供服务，这家网络技术公司堪称业界翘楚。https://t.co/ERS5GKJx6D",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2098091056302833837",
-      "publishedAt": "2026-09-10T16:47:43.000Z",
-      "score": 183.4,
+      "sourceUrl": "https://x.com/rauchg/status/2098531157230969062",
+      "publishedAt": "2026-09-11T21:56:31.000Z",
+      "score": 155.52,
       "engagement": {
-        "likes": 509,
-        "retweets": 20,
-        "replies": 38
+        "likes": 290,
+        "retweets": 9,
+        "replies": 27
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
+        "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2098138736642933143",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "《神鬼寓言》5.1版本测试日本周开始。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Fable 5.1 Build Days start this week.",
-      "originalBody": "Fable 5.1 Build Days start this week. The Claude community is hosting buildathons in cities all around the world from September 11–25. Bring a problem, an idea, or just show up and see what's possible.\n\nRSVP at https://t.co/AjMK4OHHBV https://t.co/0U8lcqsdrq",
-      "translatedTitle": "《神鬼寓言》5.1版本测试日本周开始。",
-      "translatedBody": "《神鬼寓言》5.1版本构建日活动本周开始。克劳德社区将于9月11日至25日在全球各地举办构建马拉松活动。欢迎带上您的问题、想法，或者只是来现场看看，看看能创造出什么。\n\n请访问 https://t.co/AjMK4OHHBV 和 https://t.co/0U8lcqsdrq 报名参加。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2098138736642933143",
-      "publishedAt": "2026-09-10T19:57:11.000Z",
-      "score": 167.6,
-      "engagement": {
-        "likes": 2687,
-        "retweets": 188,
-        "replies": 325
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2098218284139311615",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "旅途中的更多故事。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Some more tales from the road. Met with a couple dozen technology leaders this week across banking, media, informatio…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Some more tales from the road.",
-      "originalBody": "Some more tales from the road. Met with a couple dozen technology leaders this week across banking, media, information services, insurance, and consulting to discuss agents in the enterprise.\n\nSome of the biggest trends right now:\n\n* Cyber! Everyone nervous about the growing rate of vulnerabilities coming at them from AI, and the implications of the OpenAI Hugging Face incident. The conversation is not as existential as it is in Silicon Valley, but still highly concerned and pragmatic about what to do about it operationally in their environments. Lots of new discoveries due to AI, and still hard to keep up with all the changes they have to execute now.\n\n* Model battles persist. Most companies are deploying multiple frontier models within their enterprise. Too hard to standardize on anything and seeing different preferences across their teams and use cases. But the dollars are still concentrated on just a few vendors. Open weights still in infancy at scale in most of these organizations, often due to lack of domestic “frontier” OSS options. Plenty of appetite for more options here, but so far few places to go.\n\n* Agent security and identity. Somewhat tied to Hugging Face, there’s much more awareness to the new challenges around agent security and identity management in a world when agents are trying to get into every system they can. In a perfect world enterprises could setup identities for all their agents and control what they’re doing, but of course sometimes the agent needs to act exactly as the user as well.\n\n* Process reengineering. Most companies realizing that the big upside of agents is when they can change the actual workflow itself to get the full gains from AI. Far more ROI when companies can adjust their workflows to support agents changing how the work happens instead of just layering on agents into the existing flow. But the big question is who can actually tackle driving these changes, where does that live, etc. Best lessons were still around embedded FDEs in the functions.\n\n* Ruthless adjusting of architectures. Most companies had examples of changing systems out multiple times just in the past year or two with different vendors. I probably haven’t heard “we tried X and it didn’t work so have gone with Y” more than in today’s environment. The lesson here is that because innovation is happening so fast, no one hangs around until a vendor gets something right, they just move on to the next one. \n\n* Evals! Still very early for most companies to have a good grasp of evals of their workflows. A few customers out of a couple dozen called this out - huge opportunity right now for enterprises to have a good sense of how their work actually happens and how well AI is doing against it.\n\n* Legacy systems still a hurdle. As always, legacy systems still remain a mainstay issue that holds back enterprises from rapid adoption of AI in enterprises. Data is fragmented across legacy environments that weren’t built for an agentic world. Companies spending a lot of time just cleaning up these old platforms. \n\nMany more topics, but these tend to be some of the more top of mind items at the moment in the enterprise.",
-      "translatedTitle": "旅途中的更多故事。",
-      "translatedBody": "本周我与来自银行、媒体、信息服务、保险和咨询等行业的二十多位技术领袖会面，探讨企业中的智能体问题。\n\n目前一些主要趋势：\n\n* 网络安全！每个人都对人工智能带来的日益增长的漏洞感到担忧，尤其是OpenAI Hugging Face事件的影响。虽然不像硅谷那样充满危机感，但大家仍然高度关注如何在各自的运营环境中应对这些挑战，并务实地思考应对之策。人工智能带来了许多新的发现，但企业仍然难以跟上所有需要执行的变更。\n\n* 模型之争仍在继续。大多数公司都在企业内部部署多种前沿模型。由于难以实现标准化，不同团队和用例的偏好各不相同，因此很难统一标准。但资金仍然集中在少数几家供应商身上。在大多数组织中，开源权重的大规模应用仍处于起步阶段，这通常是由于缺乏国内的“前沿”开源软件选择。企业对更多选择的需求很大，但目前可供选择的途径却寥寥无几。\n\n* 代理安全和身份。这与 Hugging Face 的案例密切相关，如今，代理试图入侵所有系统，因此人们对代理安全和身份管理方面的新挑战有了更深刻的认识。理想情况下，企业可以为所有代理设置身份并控制其行为，但代理有时也需要完全模拟用户的操作。\n\n* 流程重组。大多数公司意识到，代理的最大优势在于能够改变实际工作流程，从而充分发挥人工智能的优势。如果公司能够调整工作流程以支持代理，从而改变工作方式，而不是简单地将代理叠加到现有流程中，那么投资回报率将更高。但关键问题在于，谁来推动这些变革，以及变革的根基在哪里等等。目前最好的经验仍然是在函数中嵌入全域加密 (FDE)。\n\n* 架构的频繁调整。大多数公司都有在过去一两年内多次更换系统，与不同供应商合作的案例。在当今环境下，我可能从未像现在这样频繁地听到“我们尝试了X，但效果不佳，所以选择了Y”。这说明，由于创新发展如此迅速，没有人会等到某个供应商的产品完全合格才离开，而是会直接转向下一个供应商。\n\n* 评估！大多数公司目前仍未充分掌握工作流程评估方法。在几十家客户中，只有几家指出了这一点——对于企业而言，这是一个绝佳的机会，可以深入了解自身的工作方式以及人工智能在实际工作中的表现。\n\n* 遗留系统仍然是一大障碍。与以往一样，遗留系统仍然是阻碍企业快速采用人工智能的主要问题。数据分散在并非为智能体时代而设计的遗留环境中。企业花费大量时间清理这些旧平台。\n\n还有很多其他话题，但这些是目前企业最关注的问题。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2098218284139311615",
-      "publishedAt": "2026-09-11T01:13:16.000Z",
-      "score": 104.68,
-      "engagement": {
-        "likes": 220,
-        "retweets": 15,
-        "replies": 31
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2098217573276131577",
-      "type": "tweet",
-      "builder": "Boris Cherny",
-      "title": "嘿 ████，我认为两者可以并存。",
-      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：Hey ████, I think there is room for both. 1. Prototypes and other throw-away code can be treated as totally black box…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "Hey ████, I think there is room for both.",
-      "originalBody": "Hey ████,\n\nI think there is room for both.\n\n1. Prototypes and other throw-away code can be treated as totally black box. If you’re going to throw it away anyway, and if the blast radius of it breaking is low, it doesn’t need to be perfect.\n2. Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of tests, Claude-driven end to end tests, Claude-powered fuzzers running daily, automated code reviews and security reviews, automated code refactoring, and so on. Without these, you can end up with a mess that is hard to maintain down the line. Luckily, the model makes it increasingly easy to do these well — run a few daily routines, use Claude Code Review, etc.\n\nYour job is to hold the bar on code quality. If Claude’s code doesn’t meet the bar, try:\n- Using the latest frontier model (Opus 5 or Fable 5.1)\n- Increase effort to high or xhigh\n- Invest in your CLAUDE.md and skills to succinctly teach Claude how to work in your codebase\n\nIf all else fails, steer Claude more when you work with it, or have Claude fix accumulated debt and rewrite your codebase to make it easier to work with. Or, wait for the next model.\n\nBest,\nBoris",
-      "translatedTitle": "嘿 ████，我认为两者可以并存。",
-      "translatedBody": "嘿 ████，\n\n我认为两者兼顾是可能的。\n\n1. 原型和其他一次性代码可以完全视为黑盒。反正都要丢弃，而且一旦出错影响范围很小，就不需要做到完美。\n\n2. 由 Claude 编写的生产代码应该比人工编写的代码质量更高。在 Anthropic，我们设置了许多保障措施来确保这一点：大量的代码检查规则、大量的测试、Claude 驱动的端到端测试、每日运行的 Claude 模糊测试、自动化代码审查和安全审查、自动化代码重构等等。如果没有这些措施，最终可能会得到一团糟，难以维护。幸运的是，这种模式让做好这些工作变得越来越容易——运行一些日常例行程序，使用 Claude 代码审查等等。\n\n你的任务是把控代码质量。如果 Claude 的代码不符合要求，请尝试以下方法：\n\n- 使用最新的 Frontier 模型（Opus 5 或 Fable 5.1）\n\n- 将工作量提升至高或超高\n\n- 完善您的 CLAUDE.md 文件并提升自身技能，以便简洁明了地指导 Claude 如何在您的代码库中工作\n\n如果以上方法均无效，请在与 Claude 合作时给予更多指导，或者让 Claude 修复累积的代码债务并重写您的代码库，使其更易于协作。或者，等待下一个模型发布。\n\n此致，\n\nBoris",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/bcherny/status/2098217573276131577",
-      "publishedAt": "2026-09-11T01:10:27.000Z",
-      "score": 87.58,
-      "engagement": {
-        "likes": 1155,
-        "retweets": 47,
-        "replies": 70
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2098064969464217720",
+      "id": "2098448235048378456",
       "type": "tweet",
       "builder": "Madhu Guru",
-      "title": "如何构建优秀的评估——第 10 部分：衡量步骤，而不仅仅是结果。",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：How to build great evals - part 10 Measure the steps, not just the result. Much like high school math, it isn’t suffi…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "How to build great evals - part 10 Measure the steps, not just the result.",
-      "originalBody": "How to build great evals - part 10\n\nMeasure the steps, not just the result.\n\nMuch like high school math, it isn’t sufficient just to get the right answer, the steps to get there are critical.\n\nTwo agent trajectories might produce the same answer (42!!).\n\nbut one of them  searches the right sources, retrieves the right document, makes 4 clean tool calls and calculates the result. The other makes 17 calls, searches the same thing 3 times, recovers from 2 errors and eventually gets there. \n\nIt’s clear which one is better.\n\nHere’s what you need to do:\n1/ clearly define your whole workflow\n2/ define the tasks in each step\n3/ think through how you measure each step - separate evals or is it a slice of a bigger eval\n4/ define your median and hard tasks - reflect them in your evals\n\nNow any time you look at eval results, study the steps first and the final results next.",
-      "translatedTitle": "如何构建优秀的评估——第 10 部分：衡量步骤，而不仅仅是结果。",
-      "translatedBody": "如何构建优秀的评估——第十部分\n\n衡量步骤，而不仅仅是结果。\n\n就像高中数学一样，仅仅得到正确答案是不够的，获得答案的步骤至关重要。\n\n两条智能体轨迹可能产生相同的答案（42！）。\n\n但其中一条轨迹搜索了正确的资源，检索了正确的文档，进行了 4 次干净的工具调用并计算出了结果。另一条轨迹进行了 17 次调用，搜索了相同的内容 3 次，从 2 个错误中恢复过来，最终才得到结果。\n\n很明显，哪条轨迹更好。\n\n你需要这样做：\n\n1/ 清晰地定义你的整个工作流程\n\n2/ 定义每个步骤中的任务\n\n3/ 仔细思考如何衡量每个步骤——是单独评估，还是将其作为更大评估的一部分\n\n4/ 定义你的中等难度任务和高难度任务——并在你的评估中体现它们\n\n现在，每次查看评估结果时，先研究步骤，再分析最终结果。",
+      "title": "为什么大多数企业人工智能项目都会失败。",
+      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Why most enterprise AI efforts fail. 1/ Using old-school playbooks for AI The CEO picks a trusted lieutenant to lead…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Why most enterprise AI efforts fail.",
+      "originalBody": "Why most enterprise AI efforts fail.\n\n1/ Using old-school playbooks for AI\nThe CEO picks a trusted lieutenant to lead a central AI team. That leader pulls in a group of trusted people from across the company.\n\nThe problem here is the skill gap.\n\nThe team structure, product patterns, how you launch and learn that got you here do not work with AI. Much of product development over the last 15 yrs has been incremental improvements.\n\nAI requires experimentation and invention.\n\n2/ Under-investing in evals\n\nMost enterprises don't quite understand the importance of this and what good looks like here. (I have a whole evals series in the comments - check it out)\n\n3/ Building AI for the company from the outside\n\nThe central AI team declares itself a platform team and builds tools that everyone is supposed to adopt.\n\nThese products are often disconnected from the actual workflows, context and judgment of the people doing the work.\n\nBegrudging adoption follows. But not meaningful productivity gains.\n\nWhat you should do:\n\n1/ Hire leaders who have done successfully built AI products. You need technical/product depth plus the ability to earn trust with the people whose jobs they’re helping reinvent.\n\n2/ Make evals a first class citizen in your AI efforts\n\n3/ Embed your best AI builders inside the functions you want to transform. Build * with * finance , build * with * sales, build * with * support.",
+      "translatedTitle": "为什么大多数企业人工智能项目都会失败。",
+      "translatedBody": "为什么大多数企业人工智能项目都会失败？\n\n1/ 沿用老一套的人工智能开发模式\n\nCEO 挑选一位值得信赖的副手来领导一个中央人工智能团队。这位领导者从公司各部门召集了一批值得信赖的人员。\n\n问题在于技能差距。\n\n过去行之有效的团队结构、产品模式以及产品发布和学习方法并不适用于人工智能。过去 15 年的产品开发大多是渐进式改进。\n\n而人工智能需要实验和创新。\n\n2/ 对评估投入不足\n\n大多数企业并不完全理解评估的重要性以及评估的有效性。（我在评论区有一系列关于评估的文章——欢迎查看）\n\n3/ 从外部构建人工智能\n\n中央人工智能团队将自己定位为平台团队，并开发出所有人都必须使用的工具。\n\n这些产品往往与实际工作流程、工作环境和员工的判断脱节。\n\n因此，员工往往不愿采用这些工具。但并没有带来实质性的生产力提升。\n\n你应该这样做：\n\n1/ 聘请成功打造过人工智能产品的领导者。你需要他们具备深厚的技术/产品功底，以及赢得那些被他们重塑工作岗位的人们的信任的能力。\n\n2/ 将评估工作置于人工智能工作的首要位置。\n\n3/ 将你最优秀的人工智能开发人员融入到你想要转型的职能部门中。与财务部门、销售部门和支持部门协同合作。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2098064969464217720",
-      "publishedAt": "2026-09-10T15:04:03.000Z",
-      "score": 76.69,
+      "sourceUrl": "https://x.com/realmadhuguru/status/2098448235048378456",
+      "publishedAt": "2026-09-11T16:27:01.000Z",
+      "score": 100.1,
       "engagement": {
-        "likes": 133,
-        "retweets": 7,
-        "replies": 13
+        "likes": 96,
+        "retweets": 5,
+        "replies": 11
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models"
+        "Foundation Models",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2098081448330674182",
+      "id": "2098531560643539440",
       "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "当人工智能构建人工智能：我与@RichardSocher关于RSI和科学原理的对话……",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：When AI builds AI: my conversation with @RichardSocher about RSI and scientific progress. 00:00 Intro: AI That Improv…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "When AI builds AI: my conversation with @RichardSocher about RSI and scientific pro…",
-      "originalBody": "When AI builds AI: my conversation with @RichardSocher about RSI and scientific progress. \n\n00:00 Intro: AI That Improves Itself\n00:55 Why Scientific Progress Is Slowing\n03:08 The Labyrinth of Human Knowledge\n05:59 Can AI Put Science Back Together?\n07:57 How LLMs Learn Biology and Proteins\n10:56 Next-Token Prediction as a World Model\n16:44 Can AI Generate Truly Original Ideas?\n17:32 Simulations, Verifiers and Superhuman AI\n22:18 The Path to Recursive Self-Improvement\n24:49 Why AI Hallucinations Can Drive Discovery\n27:42 From Reading Biology to Writing It\n31:31 Can AI Accelerate Drug Discovery?\n33:31 Will AI Help Cure Cancer?\n38:03 AI Breakthroughs in Biology, Energy and Materials\n40:19 Will Some Societies Reject AI?\n45:07 Building the AI Economist\n52:22 The Scientific Data Bottleneck\n53:41 The Four Pillars of the Eureka Machine\n55:01 Teaching AI the Rules of Reality\n57:44 Simulations and Virtual Cells\n1:00:40 Self-Driving Robotic Laboratories\n1:02:51 Agent Swarms and Open-Ended Discovery\n1:04:30 The Compute Bottleneck\n1:05:44 Inside @Recursive_SI \n1:07:33 What Recursive Will Build First\n1:10:10 How Do We Define Intelligence?\n1:11:32 How Far Can Intelligence Go?",
-      "translatedTitle": "当人工智能构建人工智能：我与@RichardSocher关于RSI和科学原理的对话……",
-      "translatedBody": "当人工智能构建人工智能：我与@RichardSocher关于重复性劳损（RSI）和科学进步的对话\n\n00:00 引言：自我改进的人工智能\n\n00:55 科学进步为何放缓\n\n03:08 人类知识的迷宫\n\n05:59 人工智能能否重塑科学？\n\n07:57 学习型机器学习（LLM）如何学习生物学和蛋白质\n\n10:56 以下一个词元预测作为世界模型\n\n16:44 人工智能能否产生真正原创的想法？\n\n17:32 模拟、验证器和超人人工智能\n\n22:18 通往递归自我改进之路\n\n24:49 人工智能的幻觉为何能推动发现\n\n27:42 从阅读生物学到撰写生物学\n\n31:31 人工智能能否加速药物研发？\n\n33:31 人工智能能否帮助治愈癌症？\n\n38:03 人工智能在生物学、能源和材料领域的突破\n\n40:19 一些社会会拒绝人工智能吗？\n\n45:07 构建人工智能经济学家\n\n52:22 科学数据瓶颈\n\n53:41 尤里卡机器的四大支柱\n\n55:01 教会人工智能现实规则\n\n57:44 模拟和虚拟细胞\n\n1:00:40 自动驾驶机器人实验室\n\n1:02:51 智能体集群和开放式发现\n\n1:04:30 计算瓶颈\n\n1:05:44 走进 @Recursive_SI\n\n1:07:33 Recursive 将首先构建什么\n\n1:10:10 我们如何定义智能？\n\n1:11:32 智能能走多远？",
+      "builder": "Thariq",
+      "title": "我们收到反馈，很难判断你的技能是否仍然适用于新的……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：we heard feedback that it's hard to know if your skills are still working with new model releases plugin evals are he…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "we heard feedback that it's hard to know if your skills are still working with new…",
+      "originalBody": "we heard feedback that it's hard to know if your skills are still working with new model releases\n\nplugin evals are here to help\n\nrun `claude plugin eval init` in your plugin folder https://t.co/Q0I1ZnugDs",
+      "translatedTitle": "我们收到反馈，很难判断你的技能是否仍然适用于新的……",
+      "translatedBody": "我们收到反馈，用户很难判断自己的技能是否仍然适用于新发布的模型。\n\n插件评估功能可以帮您解决这个问题。\n\n请在插件文件夹中运行 `claude plugin eval init` 命令。https://t.co/Q0I1ZnugDs",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2098081448330674182",
-      "publishedAt": "2026-09-10T16:09:32.000Z",
-      "score": 69.29,
+      "sourceUrl": "https://x.com/trq212/status/2098531560643539440",
+      "publishedAt": "2026-09-11T21:58:07.000Z",
+      "score": 87.89,
       "engagement": {
-        "likes": 19,
-        "retweets": 8,
-        "replies": 3
+        "likes": 1250,
+        "retweets": 58,
+        "replies": 47
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
+        "Foundation Models",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2098238138334548260",
+      "id": "2098565668241334366",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我对“软件工厂”持怀疑态度。除了验证和测试之外，我并不……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I am skeptical of \"software factories.\" Other than for verification & testing, I don't think AI is at a point where i…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "I am skeptical of \"software factories.\" Other than for verification & testing, I do…",
+      "originalBody": "I am skeptical of \"software factories.\"\n\nOther than for verification & testing, I don't think AI is at a point where it can self-improve a product or build a new feature end-to-end without human in the loop.\n\nWhenever I loop something overnight to build something new = if it makes one wrong assumption the whole thing becomes a waste of tokens. \n\nWhat products or features have been built end-to-end with a software factory and no human defining the requirements or checking the work?",
+      "translatedTitle": "我对“软件工厂”持怀疑态度。除了验证和测试之外，我并不……",
+      "translatedBody": "我对“软件工厂”持怀疑态度。\n\n除了验证和测试之外，我认为人工智能目前还无法在无人参与的情况下，独立完成产品的自我改进或端到端地构建新功能。\n\n每当我通宵循环开发新功能时，如果它做出一个错误的假设，整个过程就会白费。\n\n有哪些产品或功能是完全依靠软件工厂，无需人工定义需求或检查工作就能端到端构建的呢？",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2098565668241334366",
+      "publishedAt": "2026-09-12T00:13:39.000Z",
+      "score": 80.08,
+      "engagement": {
+        "likes": 179,
+        "retweets": 9,
+        "replies": 82
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2098612714704891959",
       "type": "tweet",
       "builder": "Thibault Sottiaux",
-      "title": "按需扩展代理。",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Scaled agents on demand. This is pretty much the infrastructure that runs under the hood for ChatGPT Work, all wrappe…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Scaled agents on demand.",
-      "originalBody": "Scaled agents on demand.\n\nThis is pretty much the infrastructure that runs under the hood for ChatGPT Work, all wrapped up in an API which you can use to get started in < 1 min. Happy building. https://t.co/GhmuBkfjP1",
-      "translatedTitle": "按需扩展代理。",
-      "translatedBody": "按需扩展代理规模。\n\n这基本上就是 ChatGPT Work 的底层架构，它被封装在一个 API 中，您可以在 1 分钟内快速上手。祝您构建愉快！https://t.co/GhmuBkfjP1",
+      "title": "各位Astra用户，大家好。",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Hi Astra users. A reset and a quick update on quality issues that have been posted around. Working with some of you,…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "Hi Astra users.",
+      "originalBody": "Hi Astra users. A reset and a quick update on quality issues that have been posted around.\n\nWorking with some of you, we have found and fixed the following issues:\n- Some skills written for previous models were triggering too often or preventing the model from checking its work.\n- An opt-in context management experiment that could cause early stops or replies to older messages. We've disabled it. Our rough estimate is that 4-5k users were affected by this experiment.\n- We've also removed some badly configured engines that resulted in a measured quality degradation for a long tail of traffic flowing through them.\n\nWe’ve also made some more minor improvements and things should feel significantly better across the board. More consistent follow-through, better tracking of your latest message, and better checks on the work as it’s going through the motions.\n\nThe examples posted and all the users who worked directly with us were incredibly useful in helping fix things quickly. Always grateful for this incredible community.\n\nAnd of course, a reset is also landing by midnight today.",
+      "translatedTitle": "各位Astra用户，大家好。",
+      "translatedBody": "各位 Astra 用户，大家好！我们进行了系统重置，并就之前用户反馈的一些质量问题做了简要更新。\n\n我们与部分用户合作，发现了以下问题并已修复：\n\n- 之前为模型编写的一些技能触发过于频繁，导致模型无法检查其工作。\n\n- 我们已禁用一项可选的上下文管理实验，该实验可能会导致任务提前停止或回复较早的消息。据我们粗略估计，约有 4000-5000 名用户受到此实验的影响。\n\n- 我们还移除了一些配置不当的引擎，这些引擎导致大量流量的质量下降。\n\n此外，我们还进行了一些其他的小改进，整体体验应该会有显著提升。例如，更稳定的后续操作、更精准的最新消息追踪以及更完善的工作检查。\n\n感谢所有用户提供的示例以及与我们直接沟通的用户，他们的帮助对我们快速解决问题至关重要。我们始终感谢这个了不起的社区。\n\n当然，系统重置也将于今天午夜前完成。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2098238138334548260",
-      "publishedAt": "2026-09-11T02:32:10.000Z",
-      "score": 67.62,
+      "sourceUrl": "https://x.com/thsottiaux/status/2098612714704891959",
+      "publishedAt": "2026-09-12T03:20:36.000Z",
+      "score": 76.96,
       "engagement": {
-        "likes": 2715,
-        "retweets": 60,
-        "replies": 483
+        "likes": 15758,
+        "retweets": 1125,
+        "replies": 2247
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2098639827084480864",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "本周 Astra 动力船舶 - 图片 2.5 - GPT-Live-1 - 代理 API - 数据代理 -…",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Astra powered ships this week - Images 2.5 - GPT-Live-1 - Agents API - Data Agent - ChatGPT for Financial Services an…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Astra powered ships this week - Images 2.5 - GPT-Live-1 - Agents API - Data Agent -…",
+      "originalBody": "Astra powered ships this week\n\n- Images 2.5\n- GPT-Live-1\n- Agents API\n- Data Agent\n- ChatGPT for Financial Services\n\nand yet it’s not yet DevDay. Busy plans for next week too.",
+      "translatedTitle": "本周 Astra 动力船舶 - 图片 2.5 - GPT-Live-1 - 代理 API - 数据代理 -…",
+      "translatedBody": "本周 Astra 引擎驱动的船舶\n\n- Images 2.5\n\n- GPT-Live-1\n\n- Agents API\n\n- Data Agent\n\n- ChatGPT for Financial Services\n\n然而，开发者日还没到。下周的计划也很满。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2098639827084480864",
+      "publishedAt": "2026-09-12T05:08:20.000Z",
+      "score": 70.66,
+      "engagement": {
+        "likes": 4233,
+        "retweets": 175,
+        "replies": 400
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -218,26 +189,53 @@
       "sourceType": "x"
     },
     {
-      "id": "2098281805770309686",
+      "id": "2098569976143806918",
       "type": "tweet",
-      "builder": "Boris Cherny",
-      "title": "最新的威胁情报报告令人震惊，而且非常重要……",
-      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：The latest Threat Intelligence report is an absolutely terrifying and important read. As models become more intellige…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "The latest Threat Intelligence report is an absolutely terrifying and important rea…",
-      "originalBody": "The latest Threat Intelligence report is an absolutely terrifying and important read. \n\nAs models become more intelligent, without the right safeguards and monitoring they also become more dangerous. Many capabilities are dual use: a model that codes well can be used to hack critical infrastructure; a model that assists with biology research can also be used to engineer the next pandemic. \n\nThese issues are complex, thorny, and increasingly important for everyone to understand so that the world can weigh in and respond to rapidly escalating risks.\n\nhttps://t.co/0rnV2HjPP6",
-      "translatedTitle": "最新的威胁情报报告令人震惊，而且非常重要……",
-      "translatedBody": "最新的威胁情报报告令人不寒而栗，也至关重要。\n\n随着模型变得越来越智能，如果没有适当的安全措施和监控，它们也会变得更加危险。许多模型都具有双重用途：一个编码能力强的模型可能被用来攻击关键基础设施；一个用于辅助生物学研究的模型也可能被用来制造下一次大流行病。\n\n这些问题错综复杂、棘手难解，而且对于每个人来说都日益重要，只有了解这些问题，世界才能权衡利弊，应对迅速升级的风险。\n\nhttps://t.co/0rnV2HjPP6",
+      "builder": "Thibault Sottiaux",
+      "title": "非常高兴地欢迎 Git AI 团队的 Aidan 和 @Sasha 加入 OpenAI！",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Excited to welcome Aidan & @ Sasha from the Git AI team to OpenAI! They are building in the open and have developed a…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Excited to welcome Aidan & @ Sasha from the Git AI team to OpenAI!",
+      "originalBody": "Excited to welcome Aidan & @\nSasha from the Git AI team to OpenAI! \n\nThey are building in the open and have developed an open-source tool that helps developers understand how coding agents contribute to their codebase. \n\nTogether, we’ll make it easier for businesses to see where Codex is making a difference when working through problems for individuals and teams. We’ll also keep Git AI open source and continue investing in it.",
+      "translatedTitle": "非常高兴地欢迎 Git AI 团队的 Aidan 和 @Sasha 加入 OpenAI！",
+      "translatedBody": "非常高兴地欢迎 Aidan 和 @Sasha 加入 OpenAI！\n\n他们来自 Git AI 团队。\n\n他们致力于开源开发，并开发了一款开源工具，帮助开发者了解编码代理如何为其代码库做出贡献。\n\n我们将携手合作，让企业更容易了解 Codex 在帮助个人和团队解决问题方面所发挥的作用。同时，我们将继续保持 Git AI 的开源状态，并持续对其进行投入。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/bcherny/status/2098281805770309686",
-      "publishedAt": "2026-09-11T05:25:41.000Z",
-      "score": 59.09,
+      "sourceUrl": "https://x.com/thsottiaux/status/2098569976143806918",
+      "publishedAt": "2026-09-12T00:30:46.000Z",
+      "score": 68,
       "engagement": {
-        "likes": 338,
-        "retweets": 43,
-        "replies": 62
+        "likes": 3042,
+        "retweets": 73,
+        "replies": 428
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2098490139798655427",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "仅仅通过及格/不及格的评分来解读评估结果基本上是不可能的……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：it's basically impossible to interpret evals by looking at just at the pass/fail scores these days many of the failur…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "it's basically impossible to interpret evals by looking at just at the pass/fail sc…",
+      "originalBody": "it's basically impossible to interpret evals by looking at just at the pass/fail scores these days\n\nmany of the failures I see in benchmarks are due to overly strict hidden tests, in some cases the model's answer makes more sense than the expected eval result",
+      "translatedTitle": "仅仅通过及格/不及格的评分来解读评估结果基本上是不可能的……",
+      "translatedBody": "如今，仅凭通过/失败分数来解读评估结果几乎是不可能的。\n\n我看到基准测试中很多失败案例都是由于过于严格的隐藏测试造成的。在某些情况下，模型的回答比预期的评估结果更合理。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2098490139798655427",
+      "publishedAt": "2026-09-11T19:13:32.000Z",
+      "score": 64.06,
+      "engagement": {
+        "likes": 1504,
+        "retweets": 62,
+        "replies": 113
       },
       "matchedFocusAreas": [
         "Foundation Models"
@@ -246,8 +244,8 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-09-11T06:40:01.402Z",
-    "totalCandidates": 35,
+    "upstreamGeneratedAt": "2026-09-12T06:36:41.733Z",
+    "totalCandidates": 30,
     "textQualifiedCandidates": 18,
     "selectedTweets": 8
   }
