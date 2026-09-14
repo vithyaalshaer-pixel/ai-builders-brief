@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-13",
-  "generatedAt": "2026-09-13T04:03:34.637Z",
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-14T04:11:44.984Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-09-13",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 30 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-09-14",
+  "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 27 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,165 +23,193 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2098531157230969062",
+      "id": "2098811563415150910",
+      "type": "tweet",
+      "builder": "Sam Altman",
+      "title": "我同意达里奥的观点，我们需要稳步推进前沿发展。",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenA…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "I agree with Dario that we need to pace the frontier.",
+      "originalBody": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks.\n\nCommitting to having independent evaluators with employee-like access is a great idea, and we will do the same. We'll have more to share soon. https://t.co/1YhhIybZX7",
+      "translatedTitle": "我同意达里奥的观点，我们需要稳步推进前沿发展。",
+      "translatedBody": "我同意达里奥的观点，我们需要引领前沿发展。这在最近几周一直是我们在 OpenAI 讨论的主要议题。\n\n让独立评估人员拥有与员工类似的权限是个好主意，我们也会这样做。稍后会有更多信息分享。https://t.co/1YhhIybZX7",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/sama/status/2098811563415150910",
+      "publishedAt": "2026-09-12T16:30:45.000Z",
+      "score": 208.23,
+      "engagement": {
+        "likes": 53884,
+        "retweets": 5637,
+        "replies": 4038
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2098787667030712757",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "Tailscale 的模型路由器以 Vercel AI Gateway 作为其底层基础设施……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure. AI Gateways are the new CD…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastr…",
-      "originalBody": "Tailscale’s model router is powered by Vercel AI Gateway as its underlying infrastructure.\n\nAI Gateways are the new CDNs. You could go “direct to origin”, but it’s brittle. You could DIY, but it’s painful and costly.\n\nProud to serve Tailscale, the 🐐 networking technology company https://t.co/ERS5GKJx6D",
-      "translatedTitle": "Tailscale 的模型路由器以 Vercel AI Gateway 作为其底层基础设施……",
-      "translatedBody": "Tailscale 的样机路由器采用 Vercel AI 网关作为底层基础设施。\n\nAI 网关是新型的 CDN。您可以选择“直接访问源站”，但这很脆弱。您也可以自行搭建，但这既费时又费力。\n\n我们很荣幸能为 Tailscale 提供服务，这家网络技术公司堪称业界翘楚。https://t.co/ERS5GKJx6D",
+      "title": "对人工智能安全性和网络安全的担忧是合理的，但我们正在冒着巨大的风险……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The concerns over AI safety and cybersecurity are legitimate, but we’re risking talking America, the global AI leader…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "The concerns over AI safety and cybersecurity are legitimate, but we’re risking tal…",
+      "originalBody": "The concerns over AI safety and cybersecurity are legitimate, but we’re risking talking America, the global AI leader, into self-inflicted obsolescence and the obscurity of bureaucracy.\n\nThe OpenAI hacking HuggingFace argument is spurious. An agent in “ExploitGym”… exploited. Our adversaries have the training techniques, the data, and the will to attack. And they won’t be slowed down with “embedded evaluators.” They’ll likely have embedded accelerators!",
+      "translatedTitle": "对人工智能安全性和网络安全的担忧是合理的，但我们正在冒着巨大的风险……",
+      "translatedBody": "对人工智能安全和网络安全的担忧不无道理，但我们正在冒着让全球人工智能领导者美国走向自我淘汰和官僚主义泥潭的风险。\n\nOpenAI 黑客攻击 HuggingFace 的说法站不住脚。“ExploitGym”中的一个代理……被利用了。我们的对手拥有训练技术、数据和攻击的意愿。而且，他们不会被“嵌入式评估器”阻挡。他们很可能拥有嵌入式加速器！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2098531157230969062",
-      "publishedAt": "2026-09-11T21:56:31.000Z",
-      "score": 155.52,
+      "sourceUrl": "https://x.com/rauchg/status/2098787667030712757",
+      "publishedAt": "2026-09-12T14:55:48.000Z",
+      "score": 192.47,
       "engagement": {
-        "likes": 290,
-        "retweets": 9,
-        "replies": 27
+        "likes": 2656,
+        "retweets": 247,
+        "replies": 206
       },
       "matchedFocusAreas": [
+        "Coding Agents",
         "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2098448235048378456",
+      "id": "2098803573861621778",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "https://t.co/OL0LzGsXKY 现在可以协调具有不同模型和原因的子代理……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：https://t.co/OL0LzGsXKY can now orchestrate subagents with different models & reasoning efforts. e.g: Fable planning…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "https://t.co/OL0LzGsXKY can now orchestrate subagents with different models & reaso…",
+      "originalBody": "https://t.co/OL0LzGsXKY can now orchestrate subagents with different models & reasoning efforts.\n\ne.g: Fable planning and Grok executing. Fable is a genius, Grok is a fast workhorse.\n\n① Simple. 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 or your prompt can indicate this preference.\n\n② Steer as you please. It’s extremely enjoyable to use. You just talk to the agent and interrupt at will.\n\nWorth noting this works with any model, any gateway. No fancy server-side routing. Just harnessing (no pun intended) the model’s intelligence and ability to orchestrate.",
+      "translatedTitle": "https://t.co/OL0LzGsXKY 现在可以协调具有不同模型和原因的子代理……",
+      "translatedBody": "https://t.co/OL0LzGsXKY 现在可以协调使用不同模型和推理方式的子代理。\n\n例如：Fable 负责规划，Grok 负责执行。Fable 堪称天才，Grok 则高效可靠。\n\n① 简单易用。您可以通过 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 或您的提示来指定此偏好。\n\n② 随心所欲地操控。使用起来非常愉快。您只需与代理对话，并随时中断即可。\n\n值得注意的是，此功能适用于任何模型和任何网关。无需复杂的服务器端路由。只需利用（此处并无双关之意）模型的智能和协调能力即可。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2098803573861621778",
+      "publishedAt": "2026-09-12T15:59:00.000Z",
+      "score": 184.96,
+      "engagement": {
+        "likes": 664,
+        "retweets": 40,
+        "replies": 49
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2098833404707922239",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "我看到 Vercel 的团队在 Zig、Go、Rust 项目上的迭代速度和 TypeScript 项目一样快……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeScript & Python ones. The days of la…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeSc…",
+      "originalBody": "I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeScript & Python ones.\n\nThe days of language or runtime choice based on human convenience are over. Agents are the new compilers.\n\nThey compile intent into fast software.",
+      "translatedTitle": "我看到 Vercel 的团队在 Zig、Go、Rust 项目上的迭代速度和 TypeScript 项目一样快……",
+      "translatedBody": "我看到 Vercel 的团队在 Zig、Go 和 Rust 项目上的迭代速度与 TypeScript 和 Python 项目一样快。\n\n基于人为便利性选择语言或运行时的时代已经过去。智能体才是新的编译器。\n\n它们将意图编译成快速的软件。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2098833404707922239",
+      "publishedAt": "2026-09-12T17:57:32.000Z",
+      "score": 165.4,
+      "engagement": {
+        "likes": 1955,
+        "retweets": 93,
+        "replies": 122
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2098860941391872132",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "如果今天（2018 年）你给我看 Claude Code，我会以为它是通用人工智能（AGI）。",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amou…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "If you showed me Claude Code today in 2018, I would have thought it was AGI.",
+      "originalBody": "If you showed me Claude Code today in 2018, I would have thought it was AGI.\n\nWe have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re starting to see cracks.\n\nThings are accelerating faster than I can honestly stay on top of. Most people I know in AI are tired but powering through. I fear we will need more than that.\n\nWe need time to harden our systems, and for society to deliberate in how this technology is used and deployed.\n\nI have a fairly low p(doom), I am confident that we can get through this! Humanity is incredibly reslient and adaptable, but this comes from our ability to make hard decisions- like this one, together.",
+      "translatedTitle": "如果今天（2018 年）你给我看 Claude Code，我会以为它是通用人工智能（AGI）。",
+      "translatedBody": "如果今天（2018年）你给我看克劳德·科德（Claude Code），我会以为它是通用人工智能（AGI）。\n\n软件工程行业乃至整个社会都经历了翻天覆地的变化。但即便如此，我们仍然开始看到一些裂痕。\n\n事情的发展速度远超我的掌控。我认识的大多数人工智能从业者都疲惫不堪，但仍在坚持。我担心我们需要更多。\n\n我们需要时间来强化我们的系统，也需要社会认真思考如何使用和部署这项技术。\n\n我对未来充满信心，相信我们能够渡过难关！人类拥有惊人的韧性和适应能力，但这源于我们能够共同做出艰难的决定——比如现在这个决定。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2098860941391872132",
+      "publishedAt": "2026-09-12T19:46:58.000Z",
+      "score": 91.25,
+      "engagement": {
+        "likes": 2269,
+        "retweets": 80,
+        "replies": 204
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2098859477219037691",
       "type": "tweet",
       "builder": "Madhu Guru",
-      "title": "为什么大多数企业人工智能项目都会失败。",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Why most enterprise AI efforts fail. 1/ Using old-school playbooks for AI The CEO picks a trusted lieutenant to lead…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Why most enterprise AI efforts fail.",
-      "originalBody": "Why most enterprise AI efforts fail.\n\n1/ Using old-school playbooks for AI\nThe CEO picks a trusted lieutenant to lead a central AI team. That leader pulls in a group of trusted people from across the company.\n\nThe problem here is the skill gap.\n\nThe team structure, product patterns, how you launch and learn that got you here do not work with AI. Much of product development over the last 15 yrs has been incremental improvements.\n\nAI requires experimentation and invention.\n\n2/ Under-investing in evals\n\nMost enterprises don't quite understand the importance of this and what good looks like here. (I have a whole evals series in the comments - check it out)\n\n3/ Building AI for the company from the outside\n\nThe central AI team declares itself a platform team and builds tools that everyone is supposed to adopt.\n\nThese products are often disconnected from the actual workflows, context and judgment of the people doing the work.\n\nBegrudging adoption follows. But not meaningful productivity gains.\n\nWhat you should do:\n\n1/ Hire leaders who have done successfully built AI products. You need technical/product depth plus the ability to earn trust with the people whose jobs they’re helping reinvent.\n\n2/ Make evals a first class citizen in your AI efforts\n\n3/ Embed your best AI builders inside the functions you want to transform. Build * with * finance , build * with * sales, build * with * support.",
-      "translatedTitle": "为什么大多数企业人工智能项目都会失败。",
-      "translatedBody": "为什么大多数企业人工智能项目都会失败？\n\n1/ 沿用老一套的人工智能开发模式\n\nCEO 挑选一位值得信赖的副手来领导一个中央人工智能团队。这位领导者从公司各部门召集了一批值得信赖的人员。\n\n问题在于技能差距。\n\n过去行之有效的团队结构、产品模式以及产品发布和学习方法并不适用于人工智能。过去 15 年的产品开发大多是渐进式改进。\n\n而人工智能需要实验和创新。\n\n2/ 对评估投入不足\n\n大多数企业并不完全理解评估的重要性以及评估的有效性。（我在评论区有一系列关于评估的文章——欢迎查看）\n\n3/ 从外部构建人工智能\n\n中央人工智能团队将自己定位为平台团队，并开发出所有人都必须使用的工具。\n\n这些产品往往与实际工作流程、工作环境和员工的判断脱节。\n\n因此，员工往往不愿采用这些工具。但并没有带来实质性的生产力提升。\n\n你应该这样做：\n\n1/ 聘请成功打造过人工智能产品的领导者。你需要他们具备深厚的技术/产品功底，以及赢得那些被他们重塑工作岗位的人们的信任的能力。\n\n2/ 将评估工作置于人工智能工作的首要位置。\n\n3/ 将你最优秀的人工智能开发人员融入到你想要转型的职能部门中。与财务部门、销售部门和支持部门协同合作。",
+      "title": "预测：我们将看到更多顶尖人才投身前沿领域……",
+      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Prediction: we will see movement of a lot more of the brightest minds on frontier model evals towards groups like MET…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Prediction: we will see movement of a lot more of the brightest minds on frontier m…",
+      "originalBody": "Prediction: we will see movement of a lot more of the brightest minds on frontier model evals towards groups like METR over the next 12 months.\n\nThis skill is currently concentrated in \nin a few labs,  data providers and independent research groups.\n\nA combination of increased funding, financial independence from lab equity and the call to meet the existential risk of AI will motivate a migration of minds to this bigger cause.",
+      "translatedTitle": "预测：我们将看到更多顶尖人才投身前沿领域……",
+      "translatedBody": "预测：未来12个月内，我们将看到更多顶尖的前沿模型评估人才涌向像METR这样的团队。\n\n目前，这项技能集中在少数实验室、数据提供商和独立研究团队中。\n\n资金的增加、摆脱实验室股权的财务独立性以及应对人工智能带来的生存风险的呼声，将共同推动人才向这项更宏大的事业迁移。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2098448235048378456",
-      "publishedAt": "2026-09-11T16:27:01.000Z",
-      "score": 100.1,
+      "sourceUrl": "https://x.com/realmadhuguru/status/2098859477219037691",
+      "publishedAt": "2026-09-12T19:41:08.000Z",
+      "score": 67.18,
       "engagement": {
-        "likes": 96,
-        "retweets": 5,
-        "replies": 11
+        "likes": 23,
+        "retweets": 0,
+        "replies": 2
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2098531560643539440",
-      "type": "tweet",
-      "builder": "Thariq",
-      "title": "我们收到反馈，很难判断你的技能是否仍然适用于新的……",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：we heard feedback that it's hard to know if your skills are still working with new model releases plugin evals are he…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "we heard feedback that it's hard to know if your skills are still working with new…",
-      "originalBody": "we heard feedback that it's hard to know if your skills are still working with new model releases\n\nplugin evals are here to help\n\nrun `claude plugin eval init` in your plugin folder https://t.co/Q0I1ZnugDs",
-      "translatedTitle": "我们收到反馈，很难判断你的技能是否仍然适用于新的……",
-      "translatedBody": "我们收到反馈，用户很难判断自己的技能是否仍然适用于新发布的模型。\n\n插件评估功能可以帮您解决这个问题。\n\n请在插件文件夹中运行 `claude plugin eval init` 命令。https://t.co/Q0I1ZnugDs",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2098531560643539440",
-      "publishedAt": "2026-09-11T21:58:07.000Z",
-      "score": 87.89,
-      "engagement": {
-        "likes": 1250,
-        "retweets": 58,
-        "replies": 47
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2098565668241334366",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我对“软件工厂”持怀疑态度。除了验证和测试之外，我并不……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I am skeptical of \"software factories.\" Other than for verification & testing, I don't think AI is at a point where i…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "I am skeptical of \"software factories.\" Other than for verification & testing, I do…",
-      "originalBody": "I am skeptical of \"software factories.\"\n\nOther than for verification & testing, I don't think AI is at a point where it can self-improve a product or build a new feature end-to-end without human in the loop.\n\nWhenever I loop something overnight to build something new = if it makes one wrong assumption the whole thing becomes a waste of tokens. \n\nWhat products or features have been built end-to-end with a software factory and no human defining the requirements or checking the work?",
-      "translatedTitle": "我对“软件工厂”持怀疑态度。除了验证和测试之外，我并不……",
-      "translatedBody": "我对“软件工厂”持怀疑态度。\n\n除了验证和测试之外，我认为人工智能目前还无法在无人参与的情况下，独立完成产品的自我改进或端到端地构建新功能。\n\n每当我通宵循环开发新功能时，如果它做出一个错误的假设，整个过程就会白费。\n\n有哪些产品或功能是完全依靠软件工厂，无需人工定义需求或检查工作就能端到端构建的呢？",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2098565668241334366",
-      "publishedAt": "2026-09-12T00:13:39.000Z",
-      "score": 80.08,
-      "engagement": {
-        "likes": 179,
-        "retweets": 9,
-        "replies": 82
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2098612714704891959",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "各位Astra用户，大家好。",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Hi Astra users. A reset and a quick update on quality issues that have been posted around. Working with some of you,…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "Hi Astra users.",
-      "originalBody": "Hi Astra users. A reset and a quick update on quality issues that have been posted around.\n\nWorking with some of you, we have found and fixed the following issues:\n- Some skills written for previous models were triggering too often or preventing the model from checking its work.\n- An opt-in context management experiment that could cause early stops or replies to older messages. We've disabled it. Our rough estimate is that 4-5k users were affected by this experiment.\n- We've also removed some badly configured engines that resulted in a measured quality degradation for a long tail of traffic flowing through them.\n\nWe’ve also made some more minor improvements and things should feel significantly better across the board. More consistent follow-through, better tracking of your latest message, and better checks on the work as it’s going through the motions.\n\nThe examples posted and all the users who worked directly with us were incredibly useful in helping fix things quickly. Always grateful for this incredible community.\n\nAnd of course, a reset is also landing by midnight today.",
-      "translatedTitle": "各位Astra用户，大家好。",
-      "translatedBody": "各位 Astra 用户，大家好！我们进行了系统重置，并就之前用户反馈的一些质量问题做了简要更新。\n\n我们与部分用户合作，发现了以下问题并已修复：\n\n- 之前为模型编写的一些技能触发过于频繁，导致模型无法检查其工作。\n\n- 我们已禁用一项可选的上下文管理实验，该实验可能会导致任务提前停止或回复较早的消息。据我们粗略估计，约有 4000-5000 名用户受到此实验的影响。\n\n- 我们还移除了一些配置不当的引擎，这些引擎导致大量流量的质量下降。\n\n此外，我们还进行了一些其他的小改进，整体体验应该会有显著提升。例如，更稳定的后续操作、更精准的最新消息追踪以及更完善的工作检查。\n\n感谢所有用户提供的示例以及与我们直接沟通的用户，他们的帮助对我们快速解决问题至关重要。我们始终感谢这个了不起的社区。\n\n当然，系统重置也将于今天午夜前完成。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2098612714704891959",
-      "publishedAt": "2026-09-12T03:20:36.000Z",
-      "score": 76.96,
-      "engagement": {
-        "likes": 15758,
-        "retweets": 1125,
-        "replies": 2247
-      },
-      "matchedFocusAreas": [
         "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2098639827084480864",
+      "id": "2098828265800835310",
       "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "本周 Astra 动力船舶 - 图片 2.5 - GPT-Live-1 - 代理 API - 数据代理 -…",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Astra powered ships this week - Images 2.5 - GPT-Live-1 - Agents API - Data Agent - ChatGPT for Financial Services an…",
+      "builder": "Amjad Masad",
+      "title": "放慢速度来加固系统不失为一个好办法。",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Not a bad idea to slow down to harden systems. Especially since we haven’t even discovered all the systems that agent…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Astra powered ships this week - Images 2.5 - GPT-Live-1 - Agents API - Data Agent -…",
-      "originalBody": "Astra powered ships this week\n\n- Images 2.5\n- GPT-Live-1\n- Agents API\n- Data Agent\n- ChatGPT for Financial Services\n\nand yet it’s not yet DevDay. Busy plans for next week too.",
-      "translatedTitle": "本周 Astra 动力船舶 - 图片 2.5 - GPT-Live-1 - 代理 API - 数据代理 -…",
-      "translatedBody": "本周 Astra 引擎驱动的船舶\n\n- Images 2.5\n\n- GPT-Live-1\n\n- Agents API\n\n- Data Agent\n\n- ChatGPT for Financial Services\n\n然而，开发者日还没到。下周的计划也很满。",
+      "originalTitle": "Not a bad idea to slow down to harden systems.",
+      "originalBody": "Not a bad idea to slow down to harden systems. Especially since we haven’t even discovered all the systems that agents hacked recently. https://t.co/8mPnI81HJG",
+      "translatedTitle": "放慢速度来加固系统不失为一个好办法。",
+      "translatedBody": "放慢速度加固系统是个不错的想法。尤其是在我们甚至还没发现所有最近被特工入侵的系统的情况下。https://t.co/8mPnI81HJG",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2098639827084480864",
-      "publishedAt": "2026-09-12T05:08:20.000Z",
-      "score": 70.66,
+      "sourceUrl": "https://x.com/amasad/status/2098828265800835310",
+      "publishedAt": "2026-09-12T17:37:07.000Z",
+      "score": 59.89,
       "engagement": {
-        "likes": 4233,
-        "retweets": 175,
-        "replies": 400
+        "likes": 606,
+        "retweets": 19,
+        "replies": 109
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -189,53 +217,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2098569976143806918",
+      "id": "2098785357307539882",
       "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "非常高兴地欢迎 Git AI 团队的 Aidan 和 @Sasha 加入 OpenAI！",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Excited to welcome Aidan & @ Sasha from the Git AI team to OpenAI! They are building in the open and have developed a…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Excited to welcome Aidan & @ Sasha from the Git AI team to OpenAI!",
-      "originalBody": "Excited to welcome Aidan & @\nSasha from the Git AI team to OpenAI! \n\nThey are building in the open and have developed an open-source tool that helps developers understand how coding agents contribute to their codebase. \n\nTogether, we’ll make it easier for businesses to see where Codex is making a difference when working through problems for individuals and teams. We’ll also keep Git AI open source and continue investing in it.",
-      "translatedTitle": "非常高兴地欢迎 Git AI 团队的 Aidan 和 @Sasha 加入 OpenAI！",
-      "translatedBody": "非常高兴地欢迎 Aidan 和 @Sasha 加入 OpenAI！\n\n他们来自 Git AI 团队。\n\n他们致力于开源开发，并开发了一款开源工具，帮助开发者了解编码代理如何为其代码库做出贡献。\n\n我们将携手合作，让企业更容易了解 Codex 在帮助个人和团队解决问题方面所发挥的作用。同时，我们将继续保持 Git AI 的开源状态，并持续对其进行投入。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2098569976143806918",
-      "publishedAt": "2026-09-12T00:30:46.000Z",
-      "score": 68,
-      "engagement": {
-        "likes": 3042,
-        "retweets": 73,
-        "replies": 428
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2098490139798655427",
-      "type": "tweet",
-      "builder": "Thariq",
-      "title": "仅仅通过及格/不及格的评分来解读评估结果基本上是不可能的……",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：it's basically impossible to interpret evals by looking at just at the pass/fail scores these days many of the failur…",
+      "builder": "Aaron Levie",
+      "title": "好文章。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Good post. Don’t agree with all of it, but it represents many of the actual practical realities for the general path…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "it's basically impossible to interpret evals by looking at just at the pass/fail sc…",
-      "originalBody": "it's basically impossible to interpret evals by looking at just at the pass/fail scores these days\n\nmany of the failures I see in benchmarks are due to overly strict hidden tests, in some cases the model's answer makes more sense than the expected eval result",
-      "translatedTitle": "仅仅通过及格/不及格的评分来解读评估结果基本上是不可能的……",
-      "translatedBody": "如今，仅凭通过/失败分数来解读评估结果几乎是不可能的。\n\n我看到基准测试中很多失败案例都是由于过于严格的隐藏测试造成的。在某些情况下，模型的回答比预期的评估结果更合理。",
+      "originalTitle": "Good post.",
+      "originalBody": "Good post. Don’t agree with all of it, but it represents many of the actual practical realities for the general path forward in frontier AI whether we like it or not.\n\nAt the level of capability we’re seeing from models there will inevitably be some form of coordinated self-regulation of the industry; that’s generally a good thing. The big question will be if everyone can agree to what that is. However, the way things are headed politically there’s a chance that the labs won’t even get a say in it.\n\nAnd then the bigger question yet is do all the countries participate or not. Any “slow down” hinges on broad participation, which from a game theory standpoint isn’t likely until the risks are more severe and obvious.\n\nExpect this to be pretty messy for a while.",
+      "translatedTitle": "好文章。",
+      "translatedBody": "这篇文章不错。虽然我并非完全赞同其中的所有观点，但它确实反映了前沿人工智能发展道路上许多实际存在的现实问题，无论我们是否喜欢。\n\n就目前模型展现出的能力水平而言，行业必然会形成某种形式的协调自律；这通常是一件好事。关键问题在于，各方能否就此达成共识。然而，就目前的政治形势来看，实验室甚至可能根本没有发言权。\n\n而更大的问题是，所有国家是否都会参与其中。任何“放缓”都取决于广泛的参与，而从博弈论的角度来看，在风险变得更加严重和显而易见之前，这种广泛参与的可能性不大。\n\n预计这种情况会持续一段时间，而且会相当混乱。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2098490139798655427",
-      "publishedAt": "2026-09-11T19:13:32.000Z",
-      "score": 64.06,
+      "sourceUrl": "https://x.com/levie/status/2098785357307539882",
+      "publishedAt": "2026-09-12T14:46:37.000Z",
+      "score": 56.08,
       "engagement": {
-        "likes": 1504,
-        "retweets": 62,
-        "replies": 113
+        "likes": 251,
+        "retweets": 22,
+        "replies": 62
       },
       "matchedFocusAreas": [
         "Foundation Models"
@@ -244,9 +245,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-09-12T06:36:41.733Z",
-    "totalCandidates": 30,
-    "textQualifiedCandidates": 18,
+    "upstreamGeneratedAt": "2026-09-13T06:41:35.550Z",
+    "totalCandidates": 27,
+    "textQualifiedCandidates": 13,
     "selectedTweets": 8
   }
 }
