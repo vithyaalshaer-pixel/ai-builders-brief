@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-14",
-  "generatedAt": "2026-09-14T04:11:44.984Z",
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-15T04:11:24.511Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-09-14",
+  "title": "AI Builders Daily | 2026-09-15",
   "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 27 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 24 条候选动态里，筛出 8 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,137 +23,82 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2098811563415150910",
+      "id": "2099348812305473766",
       "type": "tweet",
       "builder": "Sam Altman",
-      "title": "我同意达里奥的观点，我们需要稳步推进前沿发展。",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenA…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "I agree with Dario that we need to pace the frontier.",
-      "originalBody": "I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks.\n\nCommitting to having independent evaluators with employee-like access is a great idea, and we will do the same. We'll have more to share soon. https://t.co/1YhhIybZX7",
-      "translatedTitle": "我同意达里奥的观点，我们需要稳步推进前沿发展。",
-      "translatedBody": "我同意达里奥的观点，我们需要引领前沿发展。这在最近几周一直是我们在 OpenAI 讨论的主要议题。\n\n让独立评估人员拥有与员工类似的权限是个好主意，我们也会这样做。稍后会有更多信息分享。https://t.co/1YhhIybZX7",
+      "title": "世界有理由相信，美国公司正在不断发展壮大……",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：The world deserves confidence that American companies developing increasingly capable AI will act responsibly, especi…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "The world deserves confidence that American companies developing increasingly capab…",
+      "originalBody": "The world deserves confidence that American companies developing increasingly capable AI will act responsibly, especially as the trajectory of progress has steepened. Every frontier lab must deliver on this, and there is no reason any of us should come to work if we cannot.\n\nWe welcome a federal framework that sets consistent safety requirements for frontier AI. But we do not believe we need to wait for an anti-trust exemption or legislation to begin the work of providing this confidence. Consistent rules to manage frontier risk so that we can maximize the benefits are a good idea (and we are excited by ideas like independent auditors).\n\nYears ago, companies like ours developed things like Responsible Scaling Policies and Preparedness Frameworks. Those were good for that moment, and focused primarily on the deployment of completed models, not what happens during their development process.\n\nToday's shift to focusing on safe development and evaluation will need new tools. For example, at OpenAI we now formulate explicit safety cases in advance of frontier reinforcement learning runs we expect to significantly increase capability, in addition to the safety work we have long done in advance of model releases.\n\nWe hope that other companies will learn from our approaches and propose their own; we think shared standards for misalignment, monitoring, and safety will lead to better outcomes. We look forward to collaborating with our colleagues across the industry to formulate the best version of these.\n\nWhen we talk about “pacing”, we do not mean “stopping”. Progress has been rapid and will continue to be. But it should be slower than it otherwise could be; interventions like safety cases and monitoring have significant costs.\n\nPacing will be well worth this cost; no amount of American competitive pressure should justify recklessness, or let capabilities get ahead of alignment and monitoring.\n\nWhere we will need the help of our government is for international coordination. But first we should do what we can ourselves.",
+      "translatedTitle": "世界有理由相信，美国公司正在不断发展壮大……",
+      "translatedBody": "世界理应相信，美国公司在开发日益强大的人工智能时会秉持负责任的态度，尤其是在人工智能发展速度日趋加快的今天。每个前沿实验室都必须做到这一点，否则我们任何人都没有理由来上班。\n\n我们欢迎建立一个联邦框架，为前沿人工智能设定统一的安全要求。但我们认为，无需等待反垄断豁免或立法，即可着手建立这种信心。制定统一的规则来管理前沿风险，从而最大限度地发挥其效益，这无疑是一个好主意（我们对独立审计机构等理念也感到振奋）。\n\n多年前，像我们这样的公司制定了诸如“负责任的规模化政策”和“准备框架”之类的东西。这些在当时是有效的，主要关注的是已完成模型的部署，而不是开发过程中的情况。\n\n如今，我们更加注重安全的开发和评估，这就需要新的工具。例如，在 OpenAI，我们现在会在预期能显著提升能力的前沿强化学习运行之前，制定明确的安全案例，这与我们长期以来在模型发布前所做的安全工作相辅相成。\n\n我们希望其他公司能够借鉴我们的方法并提出他们自己的方案；我们认为，共享的偏差、监控和安全标准将带来更好的结果。我们期待与业内同行合作，共同制定这些标准的最佳版本。\n\n我们所说的“控制节奏”并非指“停止”。进展一直很快，并将继续保持快速发展。但速度应该比原本可能的速度慢一些；安全案例和监控等干预措施需要投入大量成本。\n\n控制节奏是值得的；任何来自美国的竞争压力都不能成为鲁莽行事的理由，也不能让能力发展超越了偏差和监控。\n\n我们需要政府在国际协调方面提供帮助。但首先，我们应该尽我们所能。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2098811563415150910",
-      "publishedAt": "2026-09-12T16:30:45.000Z",
-      "score": 208.23,
+      "sourceUrl": "https://x.com/sama/status/2099348812305473766",
+      "publishedAt": "2026-09-14T04:05:35.000Z",
+      "score": 223.7,
       "engagement": {
-        "likes": 53884,
-        "retweets": 5637,
-        "replies": 4038
+        "likes": 7781,
+        "retweets": 702,
+        "replies": 1503
       },
       "matchedFocusAreas": [
         "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2099352016988614852",
+      "type": "tweet",
+      "builder": "Sam Altman",
+      "title": "人工智能的发展有两种可能走向非常糟糕的方向，我们必须避免这种情况发生。",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：There are two ways AI progress could go very badly and that we must avoid. First, we could lose control of the future…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "There are two ways AI progress could go very badly and that we must avoid.",
+      "originalBody": "There are two ways AI progress could go very badly and that we must avoid.\n\nFirst, we could lose control of the future to AI. This is unacceptable; we are unapologetically on Team Humanity, and AI must always serve people. To ensure that, we need ways to ensure that alignment and safety techniques stay ahead of progress in model capabilities.\n\nSecond, we could end up in a world with too much concentration of power. If an extraordinarily powerful AI is used by one person or company to impress their worldview onto everyone else, the results could be extremely dystopian.\n\nAvoiding these two threats requires walking a narrow middle path; for example, one country could gain too much power. Another example is one lab ending up with too much power.",
+      "translatedTitle": "人工智能的发展有两种可能走向非常糟糕的方向，我们必须避免这种情况发生。",
+      "translatedBody": "人工智能的发展有两种可能走向极端且极其糟糕的方向，我们必须避免。\n\n首先，我们可能会失去对未来的控制权，任由人工智能掌控。这是不可接受的；我们坚定地站在人类一边，人工智能必须始终服务于人类。为了确保这一点，我们需要采取措施，使人工智能的适配性和安全性始终领先于模型能力的提升。\n\n其次，我们可能会陷入权力过度集中的世界。如果某个人或公司利用极其强大的人工智能将他们的世界观强加于所有人，其后果可能是极其反乌托邦式的。\n\n避免这两种威胁需要我们采取折衷方案；例如，避免某个国家权力过大，或者避免某个实验室权力过大。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/sama/status/2099352016988614852",
+      "publishedAt": "2026-09-14T04:18:19.000Z",
+      "score": 173.85,
+      "engagement": {
+        "likes": 7540,
+        "retweets": 728,
+        "replies": 1680
+      },
+      "matchedFocusAreas": [
         "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2098787667030712757",
+      "id": "2099197266636783989",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "对人工智能安全性和网络安全的担忧是合理的，但我们正在冒着巨大的风险……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：The concerns over AI safety and cybersecurity are legitimate, but we’re risking talking America, the global AI leader…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "The concerns over AI safety and cybersecurity are legitimate, but we’re risking tal…",
-      "originalBody": "The concerns over AI safety and cybersecurity are legitimate, but we’re risking talking America, the global AI leader, into self-inflicted obsolescence and the obscurity of bureaucracy.\n\nThe OpenAI hacking HuggingFace argument is spurious. An agent in “ExploitGym”… exploited. Our adversaries have the training techniques, the data, and the will to attack. And they won’t be slowed down with “embedded evaluators.” They’ll likely have embedded accelerators!",
-      "translatedTitle": "对人工智能安全性和网络安全的担忧是合理的，但我们正在冒着巨大的风险……",
-      "translatedBody": "对人工智能安全和网络安全的担忧不无道理，但我们正在冒着让全球人工智能领导者美国走向自我淘汰和官僚主义泥潭的风险。\n\nOpenAI 黑客攻击 HuggingFace 的说法站不住脚。“ExploitGym”中的一个代理……被利用了。我们的对手拥有训练技术、数据和攻击的意愿。而且，他们不会被“嵌入式评估器”阻挡。他们很可能拥有嵌入式加速器！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2098787667030712757",
-      "publishedAt": "2026-09-12T14:55:48.000Z",
-      "score": 192.47,
-      "engagement": {
-        "likes": 2656,
-        "retweets": 247,
-        "replies": 206
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2098803573861621778",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "https://t.co/OL0LzGsXKY 现在可以协调具有不同模型和原因的子代理……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：https://t.co/OL0LzGsXKY can now orchestrate subagents with different models & reasoning efforts. e.g: Fable planning…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "https://t.co/OL0LzGsXKY can now orchestrate subagents with different models & reaso…",
-      "originalBody": "https://t.co/OL0LzGsXKY can now orchestrate subagents with different models & reasoning efforts.\n\ne.g: Fable planning and Grok executing. Fable is a genius, Grok is a fast workhorse.\n\n① Simple. 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 or your prompt can indicate this preference.\n\n② Steer as you please. It’s extremely enjoyable to use. You just talk to the agent and interrupt at will.\n\nWorth noting this works with any model, any gateway. No fancy server-side routing. Just harnessing (no pun intended) the model’s intelligence and ability to orchestrate.",
-      "translatedTitle": "https://t.co/OL0LzGsXKY 现在可以协调具有不同模型和原因的子代理……",
-      "translatedBody": "https://t.co/OL0LzGsXKY 现在可以协调使用不同模型和推理方式的子代理。\n\n例如：Fable 负责规划，Grok 负责执行。Fable 堪称天才，Grok 则高效可靠。\n\n① 简单易用。您可以通过 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 或您的提示来指定此偏好。\n\n② 随心所欲地操控。使用起来非常愉快。您只需与代理对话，并随时中断即可。\n\n值得注意的是，此功能适用于任何模型和任何网关。无需复杂的服务器端路由。只需利用（此处并无双关之意）模型的智能和协调能力即可。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2098803573861621778",
-      "publishedAt": "2026-09-12T15:59:00.000Z",
-      "score": 184.96,
-      "engagement": {
-        "likes": 664,
-        "retweets": 40,
-        "replies": 49
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2098833404707922239",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "我看到 Vercel 的团队在 Zig、Go、Rust 项目上的迭代速度和 TypeScript 项目一样快……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeScript & Python ones. The days of la…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeSc…",
-      "originalBody": "I’m seeing teams at Vercel iterate just as fast on Zig, Go, Rust projects as TypeScript & Python ones.\n\nThe days of language or runtime choice based on human convenience are over. Agents are the new compilers.\n\nThey compile intent into fast software.",
-      "translatedTitle": "我看到 Vercel 的团队在 Zig、Go、Rust 项目上的迭代速度和 TypeScript 项目一样快……",
-      "translatedBody": "我看到 Vercel 的团队在 Zig、Go 和 Rust 项目上的迭代速度与 TypeScript 和 Python 项目一样快。\n\n基于人为便利性选择语言或运行时的时代已经过去。智能体才是新的编译器。\n\n它们将意图编译成快速的软件。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2098833404707922239",
-      "publishedAt": "2026-09-12T17:57:32.000Z",
-      "score": 165.4,
-      "engagement": {
-        "likes": 1955,
-        "retweets": 93,
-        "replies": 122
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2098860941391872132",
-      "type": "tweet",
-      "builder": "Thariq",
-      "title": "如果今天（2018 年）你给我看 Claude Code，我会以为它是通用人工智能（AGI）。",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amou…",
+      "builder": "Peter Steinberger",
+      "title": "下一个版本（或开发通道）通过 apfs/brtfs/xfs/ReFS 等文件系统处理工作树的速度提升了约 80%……",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Next release (or dev channel) does worktrees ~80% faster via apfs/brtfs/xfs/ReFS folder clones. Also saves lots of di…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "If you showed me Claude Code today in 2018, I would have thought it was AGI.",
-      "originalBody": "If you showed me Claude Code today in 2018, I would have thought it was AGI.\n\nWe have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re starting to see cracks.\n\nThings are accelerating faster than I can honestly stay on top of. Most people I know in AI are tired but powering through. I fear we will need more than that.\n\nWe need time to harden our systems, and for society to deliberate in how this technology is used and deployed.\n\nI have a fairly low p(doom), I am confident that we can get through this! Humanity is incredibly reslient and adaptable, but this comes from our ability to make hard decisions- like this one, together.",
-      "translatedTitle": "如果今天（2018 年）你给我看 Claude Code，我会以为它是通用人工智能（AGI）。",
-      "translatedBody": "如果今天（2018年）你给我看克劳德·科德（Claude Code），我会以为它是通用人工智能（AGI）。\n\n软件工程行业乃至整个社会都经历了翻天覆地的变化。但即便如此，我们仍然开始看到一些裂痕。\n\n事情的发展速度远超我的掌控。我认识的大多数人工智能从业者都疲惫不堪，但仍在坚持。我担心我们需要更多。\n\n我们需要时间来强化我们的系统，也需要社会认真思考如何使用和部署这项技术。\n\n我对未来充满信心，相信我们能够渡过难关！人类拥有惊人的韧性和适应能力，但这源于我们能够共同做出艰难的决定——比如现在这个决定。",
+      "originalTitle": "Next release (or dev channel) does worktrees ~80% faster via apfs/brtfs/xfs/ReFS fo…",
+      "originalBody": "Next release (or dev channel) does worktrees ~80% faster via apfs/brtfs/xfs/ReFS folder clones.\n\nAlso saves lots of disk space.",
+      "translatedTitle": "下一个版本（或开发通道）通过 apfs/brtfs/xfs/ReFS 等文件系统处理工作树的速度提升了约 80%……",
+      "translatedBody": "下一个版本（或开发通道）通过 apfs/brtfs/xfs/ReFS 文件夹克隆，工作树的处理速度提升约 80%。\n\n同时还能节省大量磁盘空间。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2098860941391872132",
-      "publishedAt": "2026-09-12T19:46:58.000Z",
-      "score": 91.25,
+      "sourceUrl": "https://x.com/steipete/status/2099197266636783989",
+      "publishedAt": "2026-09-13T18:03:24.000Z",
+      "score": 84.46,
       "engagement": {
-        "likes": 2269,
-        "retweets": 80,
-        "replies": 204
+        "likes": 643,
+        "retweets": 18,
+        "replies": 43
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -162,54 +107,54 @@
       "sourceType": "x"
     },
     {
-      "id": "2098859477219037691",
+      "id": "2099198567923765357",
       "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "预测：我们将看到更多顶尖人才投身前沿领域……",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Prediction: we will see movement of a lot more of the brightest minds on frontier model evals towards groups like MET…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Prediction: we will see movement of a lot more of the brightest minds on frontier m…",
-      "originalBody": "Prediction: we will see movement of a lot more of the brightest minds on frontier model evals towards groups like METR over the next 12 months.\n\nThis skill is currently concentrated in \nin a few labs,  data providers and independent research groups.\n\nA combination of increased funding, financial independence from lab equity and the call to meet the existential risk of AI will motivate a migration of minds to this bigger cause.",
-      "translatedTitle": "预测：我们将看到更多顶尖人才投身前沿领域……",
-      "translatedBody": "预测：未来12个月内，我们将看到更多顶尖的前沿模型评估人才涌向像METR这样的团队。\n\n目前，这项技能集中在少数实验室、数据提供商和独立研究团队中。\n\n资金的增加、摆脱实验室股权的财务独立性以及应对人工智能带来的生存风险的呼声，将共同推动人才向这项更宏大的事业迁移。",
+      "builder": "Nikunj Kothari",
+      "title": "我每天至少会收到一条来自创业者的短信，他们都面临着同样的难题。",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I get at least 1x text a day from a founder facing this exact conundrum.. Applicants your entry valuation being highe…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "I get at least 1x text a day from a founder facing this exact conundrum..",
+      "originalBody": "I get at least 1x text a day from a founder facing this exact conundrum..\n\nApplicants your entry valuation being higher and your total comp being higher is often a bug and not a feature. \n\nJust because a company has raised at a higher valuation doesn’t mean they are realistically more secure and the better place to go. \n\nYou have to really look at the numbers objectively - what’s the market, what’s the traction and how well positioned are they. And if they are worth 100x ARR, well they have to grow into it. \n\nThen, do your own analysis on what do you think this company exits at. Not to mention your 409a prices and tax implications. \n\nIt’s so freaking important right now when everything is upside down and numbers are not rooted in reality.\n\nPS: I have first hand personal experience with this. I worked at a company that raised $60M from probably one of the best investors on this planet. And the company folded 3 years in, all equity wiped out.",
+      "translatedTitle": "我每天至少会收到一条来自创业者的短信，他们都面临着同样的难题。",
+      "translatedBody": "我每天至少会收到一位创始人发来的短信，他们都面临着同样的难题……\n\n各位申请者，你们的初始估值和总薪酬更高，这通常只是个bug，而不是什么优点。\n\n一家公司融资估值更高，并不意味着它就真的更安全，更值得投资。\n\n你必须客观地看待这些数据——市场现状如何？用户增长如何？公司定位如何？如果一家公司的估值是年经常性收入的100倍，那么它还需要持续增长才能达到这个水平。\n\n然后，你需要分析一下这家公司最终的退出价格。更不用说还要考虑409a价格和税务影响。\n\n在如今这个一切都颠倒错乱、数字脱离现实的时代，这一点尤为重要。\n\n附：我对此深有体会。我曾在一家公司工作，这家公司从可能是地球上最优秀的投资者之一那里融资了6000万美元。结果，这家公司在三年后倒闭了，所有股权都化为乌有。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2098859477219037691",
-      "publishedAt": "2026-09-12T19:41:08.000Z",
-      "score": 67.18,
+      "sourceUrl": "https://x.com/nikunj/status/2099198567923765357",
+      "publishedAt": "2026-09-13T18:08:34.000Z",
+      "score": 73,
       "engagement": {
-        "likes": 23,
-        "retweets": 0,
-        "replies": 2
+        "likes": 75,
+        "retweets": 1,
+        "replies": 3
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models"
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2098828265800835310",
+      "id": "2099167992835924301",
       "type": "tweet",
-      "builder": "Amjad Masad",
-      "title": "放慢速度来加固系统不失为一个好办法。",
-      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Not a bad idea to slow down to harden systems. Especially since we haven’t even discovered all the systems that agent…",
+      "builder": "Aaron Levie",
+      "title": "“节奏”这个词可能会引起一些敏感情绪，因为它听起来像是随意放慢速度……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：“Pacing” can be somewhat of a trigger word because it sounds like an arbitrary slow down of capability or a way to ho…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Not a bad idea to slow down to harden systems.",
-      "originalBody": "Not a bad idea to slow down to harden systems. Especially since we haven’t even discovered all the systems that agents hacked recently. https://t.co/8mPnI81HJG",
-      "translatedTitle": "放慢速度来加固系统不失为一个好办法。",
-      "translatedBody": "放慢速度加固系统是个不错的想法。尤其是在我们甚至还没发现所有最近被特工入侵的系统的情况下。https://t.co/8mPnI81HJG",
+      "originalTitle": "“Pacing” can be somewhat of a trigger word because it sounds like an arbitrary slow…",
+      "originalBody": "“Pacing” can be somewhat of a trigger word because it sounds like an arbitrary slow down of capability or a way to hobble competitors through undue regulation. \n\nHowever, the specific improvement goals laid out in Dario’s are absolute necessities in AI development. We expect equivalent in areas like aerospace, life sciences, health care, and other industries, and AI development likely shouldn’t be that different. \n\nAI is going to be the technology underpinning our financial trading systems, our medical devices, our biotech breakthroughs, defense systems, government workflows, and many more mission critical domains. So it completely stands to reason that we want these systems to be safe and “aligned”. \n\nHow we get there -without meaningfully slowing down innovation progress or reducing competition- is one of the most complex questions in the 21st century, but the need is clearly real.",
+      "translatedTitle": "“节奏”这个词可能会引起一些敏感情绪，因为它听起来像是随意放慢速度……",
+      "translatedBody": "“节奏”这个词可能会引发一些争议，因为它听起来像是随意放慢能力发展速度，或是利用过度监管来阻碍竞争对手。\n\n然而，达里奥提出的具体改进目标是人工智能发展的绝对必要条件。我们期望在航空航天、生命科学、医疗保健和其他行业领域也能达到同样的目标，人工智能的发展应该也不会有太大不同。\n\n人工智能将成为支撑我们金融交易系统、医疗设备、生物技术突破、国防系统、政府工作流程以及众多其他关键领域的技术。因此，我们希望这些系统安全可靠且“协调一致”，这完全合情合理。\n\n如何在不显著减缓创新进程或削弱竞争的情况下实现这一目标，是21世纪最复杂的问题之一，但这种需求显然是真实存在的。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/amasad/status/2098828265800835310",
-      "publishedAt": "2026-09-12T17:37:07.000Z",
-      "score": 59.89,
+      "sourceUrl": "https://x.com/levie/status/2099167992835924301",
+      "publishedAt": "2026-09-13T16:07:04.000Z",
+      "score": 55.17,
       "engagement": {
-        "likes": 606,
-        "retweets": 19,
-        "replies": 109
+        "likes": 168,
+        "retweets": 30,
+        "replies": 65
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -217,37 +162,91 @@
       "sourceType": "x"
     },
     {
-      "id": "2098785357307539882",
+      "id": "2099348631291883945",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "好文章。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Good post. Don’t agree with all of it, but it represents many of the actual practical realities for the general path…",
+      "builder": "Zara Zhang",
+      "title": "还有其他人注意到Astra存在这个问题吗？",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Anyone else notices this problem with Astra? Astra: I have done X Me: This is wrong, you should do Y instead Astra: Y…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "Good post.",
-      "originalBody": "Good post. Don’t agree with all of it, but it represents many of the actual practical realities for the general path forward in frontier AI whether we like it or not.\n\nAt the level of capability we’re seeing from models there will inevitably be some form of coordinated self-regulation of the industry; that’s generally a good thing. The big question will be if everyone can agree to what that is. However, the way things are headed politically there’s a chance that the labs won’t even get a say in it.\n\nAnd then the bigger question yet is do all the countries participate or not. Any “slow down” hinges on broad participation, which from a game theory standpoint isn’t likely until the risks are more severe and obvious.\n\nExpect this to be pretty messy for a while.",
-      "translatedTitle": "好文章。",
-      "translatedBody": "这篇文章不错。虽然我并非完全赞同其中的所有观点，但它确实反映了前沿人工智能发展道路上许多实际存在的现实问题，无论我们是否喜欢。\n\n就目前模型展现出的能力水平而言，行业必然会形成某种形式的协调自律；这通常是一件好事。关键问题在于，各方能否就此达成共识。然而，就目前的政治形势来看，实验室甚至可能根本没有发言权。\n\n而更大的问题是，所有国家是否都会参与其中。任何“放缓”都取决于广泛的参与，而从博弈论的角度来看，在风险变得更加严重和显而易见之前，这种广泛参与的可能性不大。\n\n预计这种情况会持续一段时间，而且会相当混乱。",
+      "originalTitle": "Anyone else notices this problem with Astra?",
+      "originalBody": "Anyone else notices this problem with Astra?\n\nAstra: I have done X\nMe: This is wrong, you should do Y instead\nAstra: You're right. I should do Y\nMe: ...\n\nWhy doesn't it just go and do Y, like the other models??",
+      "translatedTitle": "还有其他人注意到Astra存在这个问题吗？",
+      "translatedBody": "还有其他人注意到Astra的这个问题吗？\n\nAstra：我已经执行了X操作\n\n我：这是错误的，你应该执行Y操作\n\nAstra：你说得对，我应该执行Y操作\n\n我：……\n\n为什么它不像其他型号那样直接执行Y操作呢？",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2098785357307539882",
-      "publishedAt": "2026-09-12T14:46:37.000Z",
-      "score": 56.08,
+      "sourceUrl": "https://x.com/zarazhangrui/status/2099348631291883945",
+      "publishedAt": "2026-09-14T04:04:52.000Z",
+      "score": 55.03,
       "engagement": {
-        "likes": 251,
-        "retweets": 22,
-        "replies": 62
+        "likes": 170,
+        "retweets": 3,
+        "replies": 94
       },
       "matchedFocusAreas": [
         "Foundation Models"
       ],
       "sourceType": "x"
+    },
+    {
+      "id": "2099200231820963891",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "当我们都在争论人工智能是否会给人类带来不良后果时，它……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：While we're all debating whether AI will lead to a bad outcome for humanity, it's important to remember that most of…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "While we're all debating whether AI will lead to a bad outcome for humanity, it's i…",
+      "originalBody": "While we're all debating whether AI will lead to a bad outcome for humanity, it's important to remember that most of the world hasn’t even started using it yet.\n\nPedro, Brex’s CEO, likes to refer to a specific chart (see the clip):\n\n“Each dot is 3.2 million people. Every gray box is someone that never used AI in the world (84%). Green boxes are free chatbot users (16%). Orange boxes are people who pay $20 a month for AI (~0.3%).\n\nAnd this tiny red box is people using agents effectively (~0.04%).”\n\nI think the chart is from February 2026, so things have probably picked up since then, but we're still super early.\n\n📌 Watch the full episode here: https://t.co/0E7XHvBEBR",
+      "translatedTitle": "当我们都在争论人工智能是否会给人类带来不良后果时，它……",
+      "translatedBody": "当我们都在争论人工智能是否会给人类带来灾难时，重要的是要记住，世界上大部分地区甚至还没有开始使用人工智能。\n\nBrex 的首席执行官 Pedro 喜欢引用一张图表（见视频片段）：\n\n“每个点代表 320 万人。每个灰色方框代表从未接触过人工智能的人（84%）。绿色方框代表免费聊天机器人用户（16%）。橙色方框代表每月支付 20 美元使用人工智能的人（约 0.3%）。\n\n而这个小小的红色方框代表有效使用人工智能助手的人（约 0.04%）。”\n\n我认为这张图表的数据来自 2026 年 2 月，所以情况可能已经有所改善，但我们仍然处于非常早期的阶段。\n\n📌 点击此处观看完整视频：https://t.co/0E7XHvBEBR",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2099200231820963891",
+      "publishedAt": "2026-09-13T18:15:11.000Z",
+      "score": 47.14,
+      "engagement": {
+        "likes": 44,
+        "retweets": 5,
+        "replies": 10
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2099262092633411832",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "是的，我会先测试几周，如果发现这对大多数人有帮助……",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：And yes, I'll test this for a few weeks and if we see that this helps the majority of users I'll try to get this into…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "And yes, I'll test this for a few weeks and if we see that this helps the majority…",
+      "originalBody": "And yes, I'll test this for a few weeks and if we see that this helps the majority of users I'll try to get this into codex!",
+      "translatedTitle": "是的，我会先测试几周，如果发现这对大多数人有帮助……",
+      "translatedBody": "是的，我会测试几周，如果发现这对大多数用户有帮助，我会尝试把它加入到 Codex 中！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2099262092633411832",
+      "publishedAt": "2026-09-13T22:20:59.000Z",
+      "score": 45.49,
+      "engagement": {
+        "likes": 45,
+        "retweets": 1,
+        "replies": 2
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-09-13T06:41:35.550Z",
-    "totalCandidates": 27,
-    "textQualifiedCandidates": 13,
+    "upstreamGeneratedAt": "2026-09-14T06:51:58.098Z",
+    "totalCandidates": 24,
+    "textQualifiedCandidates": 8,
     "selectedTweets": 8
   }
 }
