@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-20",
-  "generatedAt": "2026-09-20T04:14:02.029Z",
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T04:11:20.926Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-09-20",
+  "title": "AI Builders Daily | 2026-09-21",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 28 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 11 条候选动态里，筛出 8 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,26 +23,106 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2101186741042663579",
+      "id": "2101397206595231765",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "今天Vercel AI平台上开放模型的代币交易量百分比似乎有望创下历史新高……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Looks like today may be a record day for token volume % of open models on Vercel AI Gateway: 🟦 Open 78.4% 🟨 Closed…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Looks like today may be a record day for token volume % of open models on Vercel AI…",
-      "originalBody": "Looks like today may be a record day for token volume % of open models on Vercel AI Gateway:\n\n🟦 Open 78.4%    🟨 Closed 21.6%\n\nWhile spend 💲 usually tells a different story, #3 and #4 today are Moonshot AI & DeepSeek. Adding Z⁠.ai, their combined spend surpasses OpenAI (#2).\n\n(Do note that's the spend for inference of the model across providers (mostly in the US), not revenue going directly to the open weight labs.)",
-      "translatedTitle": "今天Vercel AI平台上开放模型的代币交易量百分比似乎有望创下历史新高……",
-      "translatedBody": "今天Vercel AI Gateway上开放模型的代币交易量占比似乎创下了历史新高：\n\n🟦 开放模型占比78.4% 🟨 封闭模型占比21.6%\n\n虽然支出金额通常反映的是不同的情况，但今天排名第三和第四的分别是Moonshot AI和DeepSeek。加上Z⁠.ai，它们的总支出超过了排名第二的OpenAI。\n\n（请注意，这是模型推理在所有提供商（主要在美国）之间的支出，而不是直接流向开放权重实验室的收入。）",
+      "title": "最近这波人工智能浪潮最酷的地方在于，每个人都对构建人工智能充满热情……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The coolest thing about the recent wave of AI is that everyone is excited about building. All short-term drama aside,…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "The coolest thing about the recent wave of AI is that everyone is excited about bui…",
+      "originalBody": "The coolest thing about the recent wave of AI is that everyone is excited about building.\n\nAll short-term drama aside, this is an immeasurably good development for the world. The people want to create and ship, not just consume.",
+      "translatedTitle": "最近这波人工智能浪潮最酷的地方在于，每个人都对构建人工智能充满热情……",
+      "translatedBody": "近期人工智能浪潮最酷的地方在于，每个人都对创造充满热情。\n\n抛开所有短期波动，这对世界来说无疑是一件好事。人们渴望创造并交付成果，而不仅仅是消费。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2101186741042663579",
-      "publishedAt": "2026-09-19T05:48:51.000Z",
-      "score": 177.11,
+      "sourceUrl": "https://x.com/rauchg/status/2101397206595231765",
+      "publishedAt": "2026-09-19T19:45:10.000Z",
+      "score": 163.09,
       "engagement": {
-        "likes": 91,
+        "likes": 1177,
+        "retweets": 76,
+        "replies": 109
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2101420720807100855",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "我曾谈到那座闪耀的城市……一座高耸、骄傲的城市，建立在比……更坚固的岩石之上。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：“I've spoken of the shining city […] a tall, proud city built on rocks stronger than oceans, wind-swept, God-blessed,…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "“I've spoken of the shining city […] a tall, proud city built on rocks stronger tha…",
+      "originalBody": "“I've spoken of the shining city […] a tall, proud city built on rocks stronger than oceans, wind-swept, God-blessed, and teeming with people of all kinds living in harmony and peace; a city with free ports that hummed with commerce and creativity. And if there had to be city walls, the walls had doors and the doors were open to anyone with the will and the heart to get here. That's how I saw it, and see it still.” – 🇺🇸 Ronald Reagan (January 11, 1989)",
+      "translatedTitle": "我曾谈到那座闪耀的城市……一座高耸、骄傲的城市，建立在比……更坚固的岩石之上。",
+      "translatedBody": "“我曾谈到那座闪耀的城市……一座高耸、骄傲的城市，它建立在比海洋更坚固的岩石之上，饱受风吹拂，蒙受上帝眷顾，各种各样的人们和谐共处，安居乐业；一座拥有自由港口、商业繁荣、创意迸发的城市。即便必须筑起城墙，城墙上也设有城门，城门向所有有志之士敞开。我当时就是这样看待它的，现在依然如此。”——🇺🇸 罗纳德·里根（1989年1月11日）",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2101420720807100855",
+      "publishedAt": "2026-09-19T21:18:37.000Z",
+      "score": 124.15,
+      "engagement": {
+        "likes": 84,
         "retweets": 3,
-        "replies": 24
+        "replies": 8
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2101427997597446636",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "个人代理是“打造代理人想要的东西……”这一理念的最终体现。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Personal agents are the ultimate manifestation of “build something that agents want”. The form factor of a product li…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Personal agents are the ultimate manifestation of “build something that agents want…",
+      "originalBody": "Personal agents are the ultimate manifestation of “build something that agents want”.\n\nThe form factor of a product like Muse is you want to be able to hand off a task to the agent and ensure that it is fully completed end to end. To do this, the agent must be able to successfully operate with your tools or use its own to complete the task. Use your MCP or CLI, easily navigate your site, be able to transact, and more.\n\nThe new attention you need to compete for is not from the user itself but instead for the agent. This means that the tools that allow agents to order food, handle ecommerce transactions, book flights, work with the local economy, and interact with our data and information best, are the ones that will get used the most.\n\nThis will ultimately be the biggest opportunity and shakeup in consumer tech since the App Store itself.",
+      "translatedTitle": "个人代理是“打造代理人想要的东西……”这一理念的最终体现。",
+      "translatedBody": "个人代理是“打造代理所需”理念的终极体现。\n\n像 Muse 这样的产品，其核心在于能够将任务交给代理，并确保任务从头到尾完整完成。为此，代理必须能够熟练操作您的工具，或者使用他们自己的工具来完成任务。例如，使用您的 MCP 或 CLI，轻松浏览您的网站，进行交易等等。\n\n您需要争夺的新关注点并非来自用户本身，而是来自代理。这意味着，那些能够让代理订餐、处理电商交易、预订机票、参与本地经济活动以及与我们的数据和信息进行最佳交互的工具，将会被最广泛地使用。\n\n这最终将成为自 App Store 诞生以来，消费科技领域最大的机遇和变革。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2101427997597446636",
+      "publishedAt": "2026-09-19T21:47:31.000Z",
+      "score": 82.31,
+      "engagement": {
+        "likes": 340,
+        "retweets": 40,
+        "replies": 48
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2101340098356990058",
+      "type": "tweet",
+      "builder": "Nikunj Kothari",
+      "title": "我每天大约花2个小时编程、开发副业项目、痴迷地进行各种调试……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I spend ~2 hours a day programming, building side projects, tinkering obsessively, trying new repos.. I get basically…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "I spend ~2 hours a day programming, building side projects, tinkering obsessively,…",
+      "originalBody": "I spend ~2 hours a day programming, building side projects, tinkering obsessively, trying new repos..\n\nI get basically a DM a day asking “aren’t you a VC, why are you doing this?”\n\nUnlike other eras, things are moving SO fast that if you don’t do this, I simply don’t understand how folks will ever learn what’s coming next. \n\nFor me, it’s quite simple if you want to invest in the AI era:\n\n1) You have to understand the model capabilities to see where the next set of models will improve - still so much alpha in reading technical papers (model research)\n\n2) You need to see what tools do they need to be successful and complete even longer long horizon tasks (infra) \n\n3) You need to understand the harness capabilities that will make these models help building autonomous companies (app layer)\n\nYou can obviously learn this by talking to researchers / builders and simply betting on founders - and I do that too. But, I was never honestly good at learning without getting my hands dirty so just leaning in to what I know best. It’s also honestly so fun!\n\nSo, my push to other folks who want to learn is just get started and find time to tinker daily. Once you do it for 10 days, I’m sure you’ll be equally obsessed!",
+      "translatedTitle": "我每天大约花2个小时编程、开发副业项目、痴迷地进行各种调试……",
+      "translatedBody": "我每天花大约两个小时编程、开发副业项目、钻研各种技术、尝试新的代码库……\n\n我几乎每天都会收到私信，问“你不是风投吗？为什么还要做这些？”\n\n与其他时代不同，现在的发展速度如此之快，如果你不参与其中，我实在无法理解人们如何才能了解未来的发展趋势。\n\n对我来说，如果你想投资人工智能时代，其实很简单：\n\n1) 你必须了解模型的能力，才能知道下一代模型会在哪里改进——阅读技术论文（模型研究）仍然有很多未知领域。\n\n2) 你需要了解它们需要哪些工具才能成功完成更长期的任务（基础设施）。\n\n3) 你需要了解如何利用这些模型来构建自主公司（应用层）。\n\n当然，你可以通过与研究人员/开发者交流，或者直接投资创始人来了解这些——我也是这么做的。但说实话，我从来都不擅长不动手实践就学习，所以我就专注于我最擅长的领域。而且，这真的很有趣！\n\n所以，我想鼓励其他想学习的人，那就是：赶紧开始，每天抽出时间动手实践。只要坚持10天，我相信你也会和我一样着迷！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/nikunj/status/2101340098356990058",
+      "publishedAt": "2026-09-19T15:58:15.000Z",
+      "score": 80.06,
+      "engagement": {
+        "likes": 246,
+        "retweets": 11,
+        "replies": 34
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -51,161 +131,82 @@
       "sourceType": "x"
     },
     {
-      "id": "2101079472732848510",
+      "id": "2101342055352201519",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "关于杰夫的收养情况的数据和轶事令人震惊。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：The data and the anecdata on Jev's adoption are shocking. Everyone is adopting it. I think it's a great product, but…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "The data and the anecdata on Jev's adoption are shocking.",
-      "originalBody": "The data and the anecdata on Jev's adoption are shocking. Everyone is adopting it.\n\nI think it's a great product, but this is also downstream of the \"AI is too expensive/slow\" zeitgeist. People are eager to optimize and put AI in even more places!\n\nhttps://t.co/tK86PNGgNs https://t.co/Y7w3UKosBC",
-      "translatedTitle": "关于杰夫的收养情况的数据和轶事令人震惊。",
-      "translatedBody": "Jev 的采用率数据和相关轶事令人震惊。几乎所有人都在采用它。\n\n我认为这是一款很棒的产品，但这同时也反映了“人工智能太贵/太慢”的时代思潮。人们渴望优化并把人工智能应用到更多领域！\n\nhttps://t.co/tK86PNGgNs https://t.co/Y7w3UKosBC",
+      "builder": "Peter Yang",
+      "title": "我的下一期播客节目几乎可以肯定能帮你省钱。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：My next podcast episode is almost guaranteed to save you some money. It's with my friend @ebloch, product lead for Ch…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "My next podcast episode is almost guaranteed to save you some money.",
+      "originalBody": "My next podcast episode is almost guaranteed to save you some money.\n\nIt's with my friend @ebloch, product lead for ChatGPT Finances at @OpenAI.\n\nI asked him to share six practical personal finance prompts that anyone can try to:\n\n1. Find tax savings proactively\n2. Maximize credit card rewards\n3. Create interactive forecasts like your path to financial independence\n...and more\n\n📌 Subscribe to get our full episode tomorrow: https://t.co/NSTj7ijxE0",
+      "translatedTitle": "我的下一期播客节目几乎可以肯定能帮你省钱。",
+      "translatedBody": "我的下一期播客节目几乎肯定能帮你省钱。\n\n嘉宾是我的朋友 @ebloch，他是 @OpenAI 旗下 ChatGPT Finances 的产品负责人。\n\n我请他分享六个实用的个人理财技巧，任何人都可以尝试：\n\n1. 主动寻找节税方法\n\n2. 最大化信用卡奖励\n\n3. 创建交互式预测，例如你的财务自由之路\n\n……以及更多\n\n📌 订阅即可收听我们明天的完整节目：https://t.co/NSTj7ijxE0",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2101079472732848510",
-      "publishedAt": "2026-09-18T22:42:37.000Z",
-      "score": 160.07,
+      "sourceUrl": "https://x.com/petergyang/status/2101342055352201519",
+      "publishedAt": "2026-09-19T16:06:01.000Z",
+      "score": 74.61,
       "engagement": {
-        "likes": 711,
-        "retweets": 35,
-        "replies": 36
+        "likes": 82,
+        "retweets": 5,
+        "replies": 13
       },
       "matchedFocusAreas": [
+        "Coding Agents",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2101009392611278961",
-      "type": "tweet",
-      "builder": "Thariq",
-      "title": "我们正在为 Claude Code 添加对 AGENTS.md 的支持。",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a f…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "We're adding support for AGENTS.md to Claude Code.",
-      "originalBody": "We're adding support for AGENTS.md to Claude Code. \n\nStarting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.\n\nYou can toggle this behavior in /config.",
-      "translatedTitle": "我们正在为 Claude Code 添加对 AGENTS.md 的支持。",
-      "translatedBody": "我们正在为 Claude Code 添加对 AGENTS.md 的支持。\n\n从今天发布的 2.1.277 版本开始，如果文件夹中不存在 CLAUDE.md 文件，Claude 将检查并使用 AGENTS.md 文件。\n\n您可以在 /config 文件中切换此行为。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2101009392611278961",
-      "publishedAt": "2026-09-18T18:04:08.000Z",
-      "score": 79.13,
-      "engagement": {
-        "likes": 25553,
-        "retweets": 2174,
-        "replies": 1676
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2101009393731223817",
-      "type": "tweet",
-      "builder": "Thariq",
-      "title": "AGENTS.md 的支持基于 Claude Code mods，这是我们即将推出的自定义方式……",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness. This is a…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "AGENTS.md support is built off of Claude Code mods, our upcoming way to customize t…",
-      "originalBody": "AGENTS.md support is built off of Claude Code mods, our upcoming way to customize the Claude Code harness.\n\nThis is a built-in mod, but you’ll be able to build custom versions of project instructions yourself as you’d like too.",
-      "translatedTitle": "AGENTS.md 的支持基于 Claude Code mods，这是我们即将推出的自定义方式……",
-      "translatedBody": "AGENTS.md 的支持基于 Claude Code 的 mods，这是我们即将推出的 Claude Code 框架自定义方式。\n\n这是一个内置 mod，但您也可以根据需要自行构建项目指令的自定义版本。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2101009393731223817",
-      "publishedAt": "2026-09-18T18:04:08.000Z",
-      "score": 61.09,
-      "engagement": {
-        "likes": 926,
-        "retweets": 20,
-        "replies": 33
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2101033599319613533",
+      "id": "2101503916743749878",
       "type": "tweet",
       "builder": "Peter Yang",
-      "title": "Meta 的 @Muse 是我迄今为止用过的最好的个人经纪人。",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Meta's @Muse is the best personal agent I've tried to date. It actually save me $800+ a year on my cable and phone bi…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Meta's @Muse is the best personal agent I've tried to date.",
-      "originalBody": "Meta's @Muse is the best personal agent I've tried to date.\n\nIt actually save me $800+ a year on my cable and phone bills, which is just insane value for a free AI agent.\n\nHere's my new video where I walk through 10 of my favorite Muse use cases, including a personalized morning news feed, a habit tracker, and how I got Muse to call customer support and negotiate my bills for me.\n\nHonestly, I can see Muse becoming Meta's next billion-user app.\n\n📌 Watch now: https://t.co/jte6evu5iI",
-      "translatedTitle": "Meta 的 @Muse 是我迄今为止用过的最好的个人经纪人。",
-      "translatedBody": "Meta 的 @Muse 是我迄今为止用过的最好的个人智能助手。\n\n它每年能帮我省下 800 多美元的有线电视和电话费，对于一个免费的 AI 助手来说，这简直太划算了。\n\n这是我的新视频，里面介绍了 10 个我最喜欢的 Muse 使用场景，包括个性化的晨间新闻推送、习惯追踪器，以及我是如何让 Muse 帮我联系客服并协商账单的。\n\n说实话，我觉得 Muse 很有可能成为 Meta 下一个用户量超过十亿的应用。\n\n📌 立即观看：https://t.co/jte6evu5iI",
+      "title": "我有一个简单的 Markdown 文件和一个 /tastemaker 技能，我用它来添加评分……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I have a simple markdown file and a /tastemaker skill that I use to add ratings for movies, TV shows, and books I've…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "I have a simple markdown file and a /tastemaker skill that I use to add ratings for…",
+      "originalBody": "I have a simple markdown file and a /tastemaker skill that I use to add ratings for movies, TV shows, and books I've seen. \n\nThen every week it looks up new releases and stuff I haven't seen and makes incredibly relevant suggestions.\n\nShould I open source this? https://t.co/fusUV0JonN",
+      "translatedTitle": "我有一个简单的 Markdown 文件和一个 /tastemaker 技能，我用它来添加评分……",
+      "translatedBody": "我有一个简单的 Markdown 文件和一个 /tastemaker 技能，用来给我看过的电影、电视剧和书籍添加评分。\n\n然后它每周都会搜索新上映的影片和我还没看过的东西，并给出非常相关的推荐。\n\n我应该开源这个吗？https://t.co/fusUV0JonN",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2101033599319613533",
-      "publishedAt": "2026-09-18T19:40:20.000Z",
-      "score": 60.66,
+      "sourceUrl": "https://x.com/petergyang/status/2101503916743749878",
+      "publishedAt": "2026-09-20T02:49:12.000Z",
+      "score": 68.53,
       "engagement": {
-        "likes": 707,
-        "retweets": 57,
-        "replies": 76
+        "likes": 23,
+        "retweets": 1,
+        "replies": 6
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2101007708044574906",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "Jev 对代理商在工作流程中做出瞬间决策将非常有帮助，……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Jev will be super helpful for agents to make split second decisions in workflows, data classification, judgment calls…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Jev will be super helpful for agents to make split second decisions in workflows, d…",
-      "originalBody": "Jev will be super helpful for agents to make split second decisions in workflows, data classification, judgment calls, and hundreds of other use-cases in the enterprise.\n\nHere's a quick demo with Box and Jev to make that real. The demo pulls an incident report from Box, asks whether it's customer-facing and how severe it is, moves the file into escalate, monitor, or review folders, and sets a metadata template instance with the result. This all happens nearly instantly and at almost no cost.\n\nYou can imagine this in insurance claims, contract management, loan processing, security reviews, customer log analysis, and so on. Definitely a great new class of AI use-case.",
-      "translatedTitle": "Jev 对代理商在工作流程中做出瞬间决策将非常有帮助，……",
-      "translatedBody": "Jev 将极大地帮助客服人员在工作流程、数据分类、判断性决策以及企业中数百种其他用例中快速做出决策。\n\n以下是 Box 和 Jev 的快速演示，让您直观感受其强大功能。演示会从 Box 中提取事件报告，询问其是否面向客户以及严重程度，然后将文件移动到“升级”、“监控”或“审核”文件夹，并根据结果设置元数据模板实例。所有这些操作几乎瞬间完成，而且成本极低。\n\n您可以想象一下，这项功能可以应用于保险理赔、合同管理、贷款处理、安全审查、客户日志分析等等。这无疑是人工智能应用领域的一大创新。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2101007708044574906",
-      "publishedAt": "2026-09-18T17:57:27.000Z",
-      "score": 58.99,
-      "engagement": {
-        "likes": 500,
-        "retweets": 57,
-        "replies": 43
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2101083891507593576",
+      "id": "2101497327861248090",
       "type": "tweet",
       "builder": "Peter Yang",
-      "title": "我找到了@Muse提供的这份电话记录，内容是关于他们如何协商节省288美元的年度费用……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I find this phone transcript from @Muse on how it negotiated $288 in annual savings for my Comcast cable bill super f…",
+      "title": "Apple TV 上全是好片，我取消了 Netflix 的订阅。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Apple TV is full of bangers, canceled my Netflix. Widow's Peak, 9.5/10 Silo season 3, 9/10 What's next? Already seen:…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I find this phone transcript from @Muse on how it negotiated $288 in annual savings…",
-      "originalBody": "I find this phone transcript from @Muse on how it negotiated $288 in annual savings for my Comcast cable bill super fascinating.\n\nHonestly, I think most companies' customer support lines are NOT ready for agents 😅\n\n📌 Watch me talk about my favorite Muse use cases here: https://t.co/jte6evu5iI",
-      "translatedTitle": "我找到了@Muse提供的这份电话记录，内容是关于他们如何协商节省288美元的年度费用……",
-      "translatedBody": "我发现 @Muse 提供的这段电话录音简直太精彩了，它讲述了他们如何帮我的 Comcast 有线电视账单每年节省 288 美元。\n\n说实话，我觉得大多数公司的客服热线根本没做好迎接客服人员的准备😅\n\n📌 点击这里观看我分享我最喜欢的 Muse 使用案例：https://t.co/jte6evu5iI",
+      "originalTitle": "Apple TV is full of bangers, canceled my Netflix.",
+      "originalBody": "Apple TV is full of bangers, canceled my Netflix.\n\nWidow's Peak, 9.5/10\nSilo season 3, 9/10\n\nWhat's next? Already seen:\n\nSeverance, 9.5/10\nSlow Horses, 8/10, gonna wait for more episodes for new season",
+      "translatedTitle": "Apple TV 上全是好片，我取消了 Netflix 的订阅。",
+      "translatedBody": "Apple TV 上的剧集精彩纷呈，我取消了 Netflix 的订阅。\n\n《寡妇峰》，9.5/10\n\n《筒仓》第三季，9/10\n\n接下来看什么？已看：\n\n《断头谷》，9.5/10\n\n《慢马》，8/10，打算等新一季更新后再看。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2101083891507593576",
-      "publishedAt": "2026-09-18T23:00:10.000Z",
-      "score": 54.38,
+      "sourceUrl": "https://x.com/petergyang/status/2101497327861248090",
+      "publishedAt": "2026-09-20T02:23:01.000Z",
+      "score": 56.73,
       "engagement": {
-        "likes": 230,
-        "retweets": 10,
-        "replies": 20
+        "likes": 295,
+        "retweets": 4,
+        "replies": 91
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -213,26 +214,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2101141707375227372",
+      "id": "2101426570850451914",
       "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "最酷的是：roboclaw 运行着我们的团队服务器，在 Discord 上活跃，还能和 gpt 对话……",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The coolest part: roboclaw runs our team server, is live on Discord, talks with gpt-live and knows about all the sess…",
+      "builder": "Aditya Agarwal",
+      "title": "在看到 Gemini（谷歌）、OpenAI 和 Anthropologie 接连发布公告之后……",
+      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：After seeing the rush of announcements by Gemini (Google), OpenAi and Anthropic about even more agent intrusions.....…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The coolest part: roboclaw runs our team server, is live on Discord, talks with gpt…",
-      "originalBody": "The coolest part: roboclaw runs our team server, is live on Discord, talks with gpt-live and knows about all the sessions it's juggling.\n\nWe can ask it about context to current and past sessions right while we have meetings.",
-      "translatedTitle": "最酷的是：roboclaw 运行着我们的团队服务器，在 Discord 上活跃，还能和 gpt 对话……",
-      "translatedBody": "最酷的是：Roboclaw 运行着我们的团队服务器，在 Discord 上实时在线，与 gpt-live 通信，并且了解它正在处理的所有会话。\n\n我们可以在开会时直接向它询问当前和过去会话的背景信息。",
+      "originalTitle": "After seeing the rush of announcements by Gemini (Google), OpenAi and Anthropic abo…",
+      "originalBody": "After seeing the rush of announcements by Gemini (Google), OpenAi and Anthropic about even more agent intrusions......I take it for 100% granted that a number of of major companies have been penetrated by nation states without them knowing about it.",
+      "translatedTitle": "在看到 Gemini（谷歌）、OpenAI 和 Anthropologie 接连发布公告之后……",
+      "translatedBody": "在看到 Gemini（谷歌）、OpenAi 和 Anthropic 接连发布更多关于国家机器入侵的公告后……我完全相信，许多大型公司在不知情的情况下已经被国家机器渗透。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2101141707375227372",
-      "publishedAt": "2026-09-19T02:49:55.000Z",
-      "score": 50.06,
+      "sourceUrl": "https://x.com/adityaag/status/2101426570850451914",
+      "publishedAt": "2026-09-19T21:41:51.000Z",
+      "score": 46.47,
       "engagement": {
-        "likes": 83,
-        "retweets": 5,
-        "replies": 19
+        "likes": 46,
+        "retweets": 2,
+        "replies": 7
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -241,9 +242,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-09-19T06:37:30.918Z",
-    "totalCandidates": 28,
-    "textQualifiedCandidates": 12,
+    "upstreamGeneratedAt": "2026-09-20T06:37:53.420Z",
+    "totalCandidates": 11,
+    "textQualifiedCandidates": 8,
     "selectedTweets": 8
   }
 }
