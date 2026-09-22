@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-21",
-  "generatedAt": "2026-09-21T04:11:20.926Z",
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-22T04:07:54.716Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-09-21",
+  "title": "AI Builders Daily | 2026-09-22",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 11 条候选动态里，筛出 8 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 14 条候选动态里，筛出 6 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,26 +23,111 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2101397206595231765",
+      "id": "2101846262840799251",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "最近这波人工智能浪潮最酷的地方在于，每个人都对构建人工智能充满热情……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The coolest thing about the recent wave of AI is that everyone is excited about building. All short-term drama aside,…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The coolest thing about the recent wave of AI is that everyone is excited about bui…",
-      "originalBody": "The coolest thing about the recent wave of AI is that everyone is excited about building.\n\nAll short-term drama aside, this is an immeasurably good development for the world. The people want to create and ship, not just consume.",
-      "translatedTitle": "最近这波人工智能浪潮最酷的地方在于，每个人都对构建人工智能充满热情……",
-      "translatedBody": "近期人工智能浪潮最酷的地方在于，每个人都对创造充满热情。\n\n抛开所有短期波动，这对世界来说无疑是一件好事。人们渴望创造并交付成果，而不仅仅是消费。",
+      "title": "代理商对软件进行测试和质量保证的彻底程度是无与伦比的。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The thoroughness with which agents can test and QA software is unrivaled. I pointed out something wasn't rendering ri…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "The thoroughness with which agents can test and QA software is unrivaled.",
+      "originalBody": "The thoroughness with which agents can test and QA software is unrivaled. I pointed out something wasn't rendering right in a mobile (in-app) browser. The thing goes to the depths of Mordor to reproduce, simulate, fix, deploy, verify. It created an ephemeral vercel deployment to throw at an iPhone simulator! The absolute grind on these things.\n\nHumans could simply never match this level of intensity. We'd run of energy, we'd extrapolate, we'd hope it'd work out. The software of the future will be of a quality and performance we've never experienced before. It's amazing to watch this shift.",
+      "translatedTitle": "代理商对软件进行测试和质量保证的彻底程度是无与伦比的。",
+      "translatedBody": "代理商对软件进行测试和质量保证的彻底程度无人能及。我指出移动端（应用内）浏览器中某些内容渲染不正确，他们就深入到极致，重现、模拟、修复、部署、验证问题。他们甚至创建了一个临时的 Vercel 部署，专门用于 iPhone 模拟器！这简直是魔鬼般的工作。\n\n人类根本无法达到这种强度。我们会耗尽精力，只能靠推断，只能寄希望于一切顺利。未来的软件将拥有我们前所未见的质量和性能。见证这种转变真是令人惊叹。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2101397206595231765",
-      "publishedAt": "2026-09-19T19:45:10.000Z",
-      "score": 163.09,
+      "sourceUrl": "https://x.com/rauchg/status/2101846262840799251",
+      "publishedAt": "2026-09-21T01:29:34.000Z",
+      "score": 182.33,
       "engagement": {
-        "likes": 1177,
-        "retweets": 76,
-        "replies": 109
+        "likes": 376,
+        "retweets": 19,
+        "replies": 53
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2101862331345154469",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我对私人经纪人竞争的看法（仅凭纸上谈兵）：1.",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：My “armchair” thoughts on the personal agent race: 1. Muse is poised to become the leader. The app is intuitive, and…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "My “armchair” thoughts on the personal agent race: 1.",
+      "originalBody": "My “armchair” thoughts on the personal agent race:\n\n1. Muse is poised to become the leader. The app is intuitive, and Meta is aggressively promoting it across all its properties. Once you use the Muse app, you realize that it makes little sense for an agent to live in an existing messaging app like iMessage. Unless Meta runs out of compute or something, I think this will become the company’s most successful homegrown app after Facebook. It will be much bigger than Threads.\n\n2. ChatGPT is probably still the personal agent leader because it already has 1B+ users. OpenAI’s models, computer use, and voice are arguably better than Muse feature by feature. But it’s hard to build one product for both work and personal use, and harder still to serve enterprises and consumers with the same UX. Even for work, I started using Grok Bot because the Work/Codex split remains too confusing. I’m sure the team is cooking, and we’ll see something good in the next few weeks.\n\n3. Grok Bot isn’t really a Muse competitor because it’s focused on work. Multiple bots naturally fit team-based knowledge work IMO. My bull case for Grok Bot is that it's a few features away from becoming multiplayer agentic Slack for both bots and humans.\n\n4. Google is obviously the dark horse candidate. All these personal agents live off Gmail, Google Calendar, and your Google app's data. Google has their own personal agent in Spark but the last I checked it's a secondary tab in Gemini. I think Google needs to be far more aggressive in making Spark the primary experience and making it intuitive and competitive with Muse. Google however doesn't have a great track record in multiplayer AI...\n\n5. Speaking of multiplayer, nobody has figured this out yet. I can’t easily add my spouse to a Muse chat to plan a vacation. I also can’t loop coworkers into ChatGPT or Grok Bot threads. Multiplayer AI today mostly means tagging bots in Slack. Every major provider is probably working on this, and I think it will be the next big unlock.\n\nMy personal AI stack right now is Muse for personal, Grok Bot for cloud tasks, Claude for specific use cases, and ChatGPT for everything else.\n\nBut I think we’re going to see some major updates this week.\n\nEveryone should design their personal skills and files so they’re easy to port between harnesses and agents. Otherwise, you’ll spend half your time moving from one tool to another.",
+      "translatedTitle": "我对私人经纪人竞争的看法（仅凭纸上谈兵）：1.",
+      "translatedBody": "我对个人智能助手领域的一些“纸上谈兵”的看法：\n\n1. Muse 有望成为领头羊。这款应用直观易用，而且 Meta 正在旗下所有平台大力推广。一旦你使用过 Muse 应用，就会意识到智能助手不应该像 iMessage 那样存在于现有的即时通讯应用中。除非 Meta 的计算资源耗尽或其他原因，否则我认为 Muse 将成为继 Facebook 之后该公司最成功的自主研发应用。它的规模将远超 Threads。\n\n2. ChatGPT 可能仍然是个人智能助手领域的领头羊，因为它已经拥有超过 10 亿的用户。OpenAI 的模型、计算能力和语音功能在各方面都优于 Muse。但是，要打造一款既适用于工作又适用于个人用途的产品并非易事，而要为企业和消费者提供相同的用户体验则更是难上加难。即使是工作用途，我也开始使用 Grok Bot，因为 Work/Codex 的划分仍然让人感到困惑。我相信团队正在努力，我们会在未来几周内看到一些令人惊喜的成果。\n\n3. Grok Bot 并非 Muse 的真正竞争对手，因为它专注于工作。在我看来，多个机器人自然而然地适用于团队协作的知识型工作。我看好 Grok Bot 的理由是，它只需添加几个功能，就能成为一款适用于机器人和人类的多人智能 Slack。\n\n4. 谷歌显然是一匹黑马。所有这些个人智能助手都依赖于 Gmail、谷歌日历和你的谷歌应用的数据。谷歌在 Spark 中也有自己的个人智能助手，但我上次查看时，它只是 Gemini 中的一个辅助标签页。我认为谷歌需要更加积极地将 Spark 打造成主要体验，并使其直观易用，足以与 Muse 相媲美。然而，谷歌在多人 AI 方面并没有太多成功经验……\n\n5. 说到多人协作，目前还没有人真正解决这个问题。我无法轻松地将我的配偶添加到 Muse 聊天中来计划假期。我也无法将同事拉入 ChatGPT 或 Grok Bot 的讨论串。如今，多人 AI 主要意味着在 Slack 中标记机器人。几乎所有主流供应商都在致力于此，我认为这将是下一个重大突破。\n\n我目前使用的个人 AI 技术栈是：Muse 用于个人事务，Grok Bot 用于云端任务，Claude 用于特定用例，ChatGPT 用于其他所有事务。\n\n但我认为本周我们将看到一些重大更新。\n\n每个人都应该设计自己的技能和文件，以便于在不同的工具和代理之间轻松移植。否则，你将花费一半的时间在不同工具之间切换。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2101862331345154469",
+      "publishedAt": "2026-09-21T02:33:25.000Z",
+      "score": 109.81,
+      "engagement": {
+        "likes": 591,
+        "retweets": 29,
+        "replies": 97
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2101865476145959373",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "6.",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：6. I forgot to mention Apple and Siri. They have all the devices and a great reputation on privacy. They can easily w…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "6.",
+      "originalBody": "6. I forgot to mention Apple and Siri. They have all the devices and a great reputation on privacy. \n\nThey can easily win this race but what holds them back imo is their annual release cycle for major updates and not being on @X and all the other platforms seeking user feedback. The iteration speed for Siri (from the outside) just feels far too slow to compete.",
+      "translatedTitle": "6.",
+      "translatedBody": "6. 我忘了提苹果和Siri。他们拥有所有设备，而且在隐私保护方面享有盛誉。\n\n他们完全有能力赢得这场竞争，但我认为阻碍他们前进的是他们每年发布一次重大更新的周期，以及他们没有在@X和其他平台上寻求用户反馈。从外部来看，Siri的迭代速度实在太慢，难以与之竞争。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2101865476145959373",
+      "publishedAt": "2026-09-21T02:45:54.000Z",
+      "score": 66.78,
+      "engagement": {
+        "likes": 21,
+        "retweets": 0,
+        "replies": 2
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2101844435353145452",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "电子游戏有一种独特的魅力，它赋予玩家高风险和高责任感……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：there is something about video games that give high stakes and responsibilities to young people who couldn’t really g…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "there is something about video games that give high stakes and responsibilities to…",
+      "originalBody": "there is something about video games that give high stakes and responsibilities to young people who couldn’t really get them irl\n\nbut it is a fine line and at some point you need to graduate https://t.co/wwRAmV7Sce",
+      "translatedTitle": "电子游戏有一种独特的魅力，它赋予玩家高风险和高责任感……",
+      "translatedBody": "电子游戏似乎有一种魔力，能让年轻人体验到现实生活中难以承受的高风险和责任。\n\n但这其中的界限很微妙，总有一天你需要从游戏中抽身出来。https://t.co/wwRAmV7Sce",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2101844435353145452",
+      "publishedAt": "2026-09-21T01:22:18.000Z",
+      "score": 59.34,
+      "engagement": {
+        "likes": 627,
+        "retweets": 12,
+        "replies": 50
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -50,201 +135,60 @@
       "sourceType": "x"
     },
     {
-      "id": "2101420720807100855",
+      "id": "2101820308009206077",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "我曾谈到那座闪耀的城市……一座高耸、骄傲的城市，建立在比……更坚固的岩石之上。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：“I've spoken of the shining city […] a tall, proud city built on rocks stronger than oceans, wind-swept, God-blessed,…",
-      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "“I've spoken of the shining city […] a tall, proud city built on rocks stronger tha…",
-      "originalBody": "“I've spoken of the shining city […] a tall, proud city built on rocks stronger than oceans, wind-swept, God-blessed, and teeming with people of all kinds living in harmony and peace; a city with free ports that hummed with commerce and creativity. And if there had to be city walls, the walls had doors and the doors were open to anyone with the will and the heart to get here. That's how I saw it, and see it still.” – 🇺🇸 Ronald Reagan (January 11, 1989)",
-      "translatedTitle": "我曾谈到那座闪耀的城市……一座高耸、骄傲的城市，建立在比……更坚固的岩石之上。",
-      "translatedBody": "“我曾谈到那座闪耀的城市……一座高耸、骄傲的城市，它建立在比海洋更坚固的岩石之上，饱受风吹拂，蒙受上帝眷顾，各种各样的人们和谐共处，安居乐业；一座拥有自由港口、商业繁荣、创意迸发的城市。即便必须筑起城墙，城墙上也设有城门，城门向所有有志之士敞开。我当时就是这样看待它的，现在依然如此。”——🇺🇸 罗纳德·里根（1989年1月11日）",
+      "builder": "Matt Turck",
+      "title": "现在人人都迷上了杰夫，但我年纪够大，还记得以前人们可以……",
+      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验：Everyone is obsessed with Jev now, but I'm old enough to remember when people couldn't shut up about Instinct, all th…",
+      "whyItMatters": "Matt Turck 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Everyone is obsessed with Jev now, but I'm old enough to remember when people could…",
+      "originalBody": "Everyone is obsessed with Jev now, but I'm old enough to remember when people couldn't shut up about Instinct, all the way back to mid last week.  Simpler times.",
+      "translatedTitle": "现在人人都迷上了杰夫，但我年纪够大，还记得以前人们可以……",
+      "translatedBody": "现在大家都在谈论杰夫，但我年纪够大，还记得上周中期人们还在不停地谈论《本能》。真是个简单的年代。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2101420720807100855",
-      "publishedAt": "2026-09-19T21:18:37.000Z",
-      "score": 124.15,
+      "sourceUrl": "https://x.com/mattturck/status/2101820308009206077",
+      "publishedAt": "2026-09-20T23:46:26.000Z",
+      "score": 22.71,
       "engagement": {
-        "likes": 84,
-        "retweets": 3,
-        "replies": 8
+        "likes": 62,
+        "retweets": 0,
+        "replies": 10
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2101427997597446636",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "个人代理是“打造代理人想要的东西……”这一理念的最终体现。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Personal agents are the ultimate manifestation of “build something that agents want”. The form factor of a product li…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Personal agents are the ultimate manifestation of “build something that agents want…",
-      "originalBody": "Personal agents are the ultimate manifestation of “build something that agents want”.\n\nThe form factor of a product like Muse is you want to be able to hand off a task to the agent and ensure that it is fully completed end to end. To do this, the agent must be able to successfully operate with your tools or use its own to complete the task. Use your MCP or CLI, easily navigate your site, be able to transact, and more.\n\nThe new attention you need to compete for is not from the user itself but instead for the agent. This means that the tools that allow agents to order food, handle ecommerce transactions, book flights, work with the local economy, and interact with our data and information best, are the ones that will get used the most.\n\nThis will ultimately be the biggest opportunity and shakeup in consumer tech since the App Store itself.",
-      "translatedTitle": "个人代理是“打造代理人想要的东西……”这一理念的最终体现。",
-      "translatedBody": "个人代理是“打造代理所需”理念的终极体现。\n\n像 Muse 这样的产品，其核心在于能够将任务交给代理，并确保任务从头到尾完整完成。为此，代理必须能够熟练操作您的工具，或者使用他们自己的工具来完成任务。例如，使用您的 MCP 或 CLI，轻松浏览您的网站，进行交易等等。\n\n您需要争夺的新关注点并非来自用户本身，而是来自代理。这意味着，那些能够让代理订餐、处理电商交易、预订机票、参与本地经济活动以及与我们的数据和信息进行最佳交互的工具，将会被最广泛地使用。\n\n这最终将成为自 App Store 诞生以来，消费科技领域最大的机遇和变革。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2101427997597446636",
-      "publishedAt": "2026-09-19T21:47:31.000Z",
-      "score": 82.31,
-      "engagement": {
-        "likes": 340,
-        "retweets": 40,
-        "replies": 48
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2101340098356990058",
+      "id": "2101742225906655315",
       "type": "tweet",
       "builder": "Nikunj Kothari",
-      "title": "我每天大约花2个小时编程、开发副业项目、痴迷地进行各种调试……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I spend ~2 hours a day programming, building side projects, tinkering obsessively, trying new repos.. I get basically…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "I spend ~2 hours a day programming, building side projects, tinkering obsessively,…",
-      "originalBody": "I spend ~2 hours a day programming, building side projects, tinkering obsessively, trying new repos..\n\nI get basically a DM a day asking “aren’t you a VC, why are you doing this?”\n\nUnlike other eras, things are moving SO fast that if you don’t do this, I simply don’t understand how folks will ever learn what’s coming next. \n\nFor me, it’s quite simple if you want to invest in the AI era:\n\n1) You have to understand the model capabilities to see where the next set of models will improve - still so much alpha in reading technical papers (model research)\n\n2) You need to see what tools do they need to be successful and complete even longer long horizon tasks (infra) \n\n3) You need to understand the harness capabilities that will make these models help building autonomous companies (app layer)\n\nYou can obviously learn this by talking to researchers / builders and simply betting on founders - and I do that too. But, I was never honestly good at learning without getting my hands dirty so just leaning in to what I know best. It’s also honestly so fun!\n\nSo, my push to other folks who want to learn is just get started and find time to tinker daily. Once you do it for 10 days, I’m sure you’ll be equally obsessed!",
-      "translatedTitle": "我每天大约花2个小时编程、开发副业项目、痴迷地进行各种调试……",
-      "translatedBody": "我每天花大约两个小时编程、开发副业项目、钻研各种技术、尝试新的代码库……\n\n我几乎每天都会收到私信，问“你不是风投吗？为什么还要做这些？”\n\n与其他时代不同，现在的发展速度如此之快，如果你不参与其中，我实在无法理解人们如何才能了解未来的发展趋势。\n\n对我来说，如果你想投资人工智能时代，其实很简单：\n\n1) 你必须了解模型的能力，才能知道下一代模型会在哪里改进——阅读技术论文（模型研究）仍然有很多未知领域。\n\n2) 你需要了解它们需要哪些工具才能成功完成更长期的任务（基础设施）。\n\n3) 你需要了解如何利用这些模型来构建自主公司（应用层）。\n\n当然，你可以通过与研究人员/开发者交流，或者直接投资创始人来了解这些——我也是这么做的。但说实话，我从来都不擅长不动手实践就学习，所以我就专注于我最擅长的领域。而且，这真的很有趣！\n\n所以，我想鼓励其他想学习的人，那就是：赶紧开始，每天抽出时间动手实践。只要坚持10天，我相信你也会和我一样着迷！",
+      "title": "开玩笑地想开一家叫“隔夜咖喱”的云厨房……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验：Jokingly thinking of starting a new cloud kitchen called “next day curry”.. Where I order the best curries, store it…",
+      "whyItMatters": "Nikunj Kothari 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Jokingly thinking of starting a new cloud kitchen called “next day curry”..",
+      "originalBody": "Jokingly thinking of starting a new cloud kitchen called “next day curry”.. \n\nWhere I order the best curries, store it overnight and serve it the next day. \n\nSaying this as I devour my leftover Manchurian. Have the exact same experience with Ramen, Indian food, Thai curry and others. \n\nMight be blasphemous to the purists but they taste so much better!",
+      "translatedTitle": "开玩笑地想开一家叫“隔夜咖喱”的云厨房……",
+      "translatedBody": "我开玩笑地想开一家叫“隔夜咖喱”的云厨房……\n\n在那里，我订购最好的咖喱，冷藏一夜，第二天再享用。\n\n说着，我狼吞虎咽地吃着剩下的满洲咖喱。拉面、印度菜、泰式咖喱等等，我也都这么做。\n\n这或许会让美食纯粹主义者感到亵渎，但隔夜咖喱的味道真的好太多了！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2101340098356990058",
-      "publishedAt": "2026-09-19T15:58:15.000Z",
-      "score": 80.06,
+      "sourceUrl": "https://x.com/nikunj/status/2101742225906655315",
+      "publishedAt": "2026-09-20T18:36:09.000Z",
+      "score": 21.29,
       "engagement": {
-        "likes": 246,
-        "retweets": 11,
-        "replies": 34
+        "likes": 36,
+        "retweets": 0,
+        "replies": 15
       },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2101342055352201519",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我的下一期播客节目几乎可以肯定能帮你省钱。",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：My next podcast episode is almost guaranteed to save you some money. It's with my friend @ebloch, product lead for Ch…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "My next podcast episode is almost guaranteed to save you some money.",
-      "originalBody": "My next podcast episode is almost guaranteed to save you some money.\n\nIt's with my friend @ebloch, product lead for ChatGPT Finances at @OpenAI.\n\nI asked him to share six practical personal finance prompts that anyone can try to:\n\n1. Find tax savings proactively\n2. Maximize credit card rewards\n3. Create interactive forecasts like your path to financial independence\n...and more\n\n📌 Subscribe to get our full episode tomorrow: https://t.co/NSTj7ijxE0",
-      "translatedTitle": "我的下一期播客节目几乎可以肯定能帮你省钱。",
-      "translatedBody": "我的下一期播客节目几乎肯定能帮你省钱。\n\n嘉宾是我的朋友 @ebloch，他是 @OpenAI 旗下 ChatGPT Finances 的产品负责人。\n\n我请他分享六个实用的个人理财技巧，任何人都可以尝试：\n\n1. 主动寻找节税方法\n\n2. 最大化信用卡奖励\n\n3. 创建交互式预测，例如你的财务自由之路\n\n……以及更多\n\n📌 订阅即可收听我们明天的完整节目：https://t.co/NSTj7ijxE0",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2101342055352201519",
-      "publishedAt": "2026-09-19T16:06:01.000Z",
-      "score": 74.61,
-      "engagement": {
-        "likes": 82,
-        "retweets": 5,
-        "replies": 13
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2101503916743749878",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我有一个简单的 Markdown 文件和一个 /tastemaker 技能，我用它来添加评分……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I have a simple markdown file and a /tastemaker skill that I use to add ratings for movies, TV shows, and books I've…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "I have a simple markdown file and a /tastemaker skill that I use to add ratings for…",
-      "originalBody": "I have a simple markdown file and a /tastemaker skill that I use to add ratings for movies, TV shows, and books I've seen. \n\nThen every week it looks up new releases and stuff I haven't seen and makes incredibly relevant suggestions.\n\nShould I open source this? https://t.co/fusUV0JonN",
-      "translatedTitle": "我有一个简单的 Markdown 文件和一个 /tastemaker 技能，我用它来添加评分……",
-      "translatedBody": "我有一个简单的 Markdown 文件和一个 /tastemaker 技能，用来给我看过的电影、电视剧和书籍添加评分。\n\n然后它每周都会搜索新上映的影片和我还没看过的东西，并给出非常相关的推荐。\n\n我应该开源这个吗？https://t.co/fusUV0JonN",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2101503916743749878",
-      "publishedAt": "2026-09-20T02:49:12.000Z",
-      "score": 68.53,
-      "engagement": {
-        "likes": 23,
-        "retweets": 1,
-        "replies": 6
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2101497327861248090",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "Apple TV 上全是好片，我取消了 Netflix 的订阅。",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Apple TV is full of bangers, canceled my Netflix. Widow's Peak, 9.5/10 Silo season 3, 9/10 What's next? Already seen:…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Apple TV is full of bangers, canceled my Netflix.",
-      "originalBody": "Apple TV is full of bangers, canceled my Netflix.\n\nWidow's Peak, 9.5/10\nSilo season 3, 9/10\n\nWhat's next? Already seen:\n\nSeverance, 9.5/10\nSlow Horses, 8/10, gonna wait for more episodes for new season",
-      "translatedTitle": "Apple TV 上全是好片，我取消了 Netflix 的订阅。",
-      "translatedBody": "Apple TV 上的剧集精彩纷呈，我取消了 Netflix 的订阅。\n\n《寡妇峰》，9.5/10\n\n《筒仓》第三季，9/10\n\n接下来看什么？已看：\n\n《断头谷》，9.5/10\n\n《慢马》，8/10，打算等新一季更新后再看。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2101497327861248090",
-      "publishedAt": "2026-09-20T02:23:01.000Z",
-      "score": 56.73,
-      "engagement": {
-        "likes": 295,
-        "retweets": 4,
-        "replies": 91
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2101426570850451914",
-      "type": "tweet",
-      "builder": "Aditya Agarwal",
-      "title": "在看到 Gemini（谷歌）、OpenAI 和 Anthropologie 接连发布公告之后……",
-      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：After seeing the rush of announcements by Gemini (Google), OpenAi and Anthropic about even more agent intrusions.....…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "After seeing the rush of announcements by Gemini (Google), OpenAi and Anthropic abo…",
-      "originalBody": "After seeing the rush of announcements by Gemini (Google), OpenAi and Anthropic about even more agent intrusions......I take it for 100% granted that a number of of major companies have been penetrated by nation states without them knowing about it.",
-      "translatedTitle": "在看到 Gemini（谷歌）、OpenAI 和 Anthropologie 接连发布公告之后……",
-      "translatedBody": "在看到 Gemini（谷歌）、OpenAi 和 Anthropic 接连发布更多关于国家机器入侵的公告后……我完全相信，许多大型公司在不知情的情况下已经被国家机器渗透。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/adityaag/status/2101426570850451914",
-      "publishedAt": "2026-09-19T21:41:51.000Z",
-      "score": 46.47,
-      "engagement": {
-        "likes": 46,
-        "retweets": 2,
-        "replies": 7
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
+      "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-09-20T06:37:53.420Z",
-    "totalCandidates": 11,
-    "textQualifiedCandidates": 8,
-    "selectedTweets": 8
+    "upstreamGeneratedAt": "2026-09-21T06:52:51.933Z",
+    "totalCandidates": 14,
+    "textQualifiedCandidates": 6,
+    "selectedTweets": 6
   }
 }
