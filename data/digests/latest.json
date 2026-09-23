@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-22",
-  "generatedAt": "2026-09-22T04:07:54.716Z",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T04:04:28.232Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-09-22",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 14 条候选动态里，筛出 6 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-09-23",
+  "summary": "今天最值得看的是 Nikunj Kothari 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 21 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,36 +13,32 @@
       "label": "Coding Agents"
     },
     {
-      "slug": "foundation-models",
-      "label": "Foundation Models"
-    },
-    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2101846262840799251",
+      "id": "2102186665863463199",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "代理商对软件进行测试和质量保证的彻底程度是无与伦比的。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：The thoroughness with which agents can test and QA software is unrivaled. I pointed out something wasn't rendering ri…",
+      "builder": "Nikunj Kothari",
+      "title": "我使用 Codex 作为我的主要“代理”已经很久了，以至于我都忘了……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I have been using Codex as my primary \"agent\" for such a long time that I forget the average person has never used it…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "The thoroughness with which agents can test and QA software is unrivaled.",
-      "originalBody": "The thoroughness with which agents can test and QA software is unrivaled. I pointed out something wasn't rendering right in a mobile (in-app) browser. The thing goes to the depths of Mordor to reproduce, simulate, fix, deploy, verify. It created an ephemeral vercel deployment to throw at an iPhone simulator! The absolute grind on these things.\n\nHumans could simply never match this level of intensity. We'd run of energy, we'd extrapolate, we'd hope it'd work out. The software of the future will be of a quality and performance we've never experienced before. It's amazing to watch this shift.",
-      "translatedTitle": "代理商对软件进行测试和质量保证的彻底程度是无与伦比的。",
-      "translatedBody": "代理商对软件进行测试和质量保证的彻底程度无人能及。我指出移动端（应用内）浏览器中某些内容渲染不正确，他们就深入到极致，重现、模拟、修复、部署、验证问题。他们甚至创建了一个临时的 Vercel 部署，专门用于 iPhone 模拟器！这简直是魔鬼般的工作。\n\n人类根本无法达到这种强度。我们会耗尽精力，只能靠推断，只能寄希望于一切顺利。未来的软件将拥有我们前所未见的质量和性能。见证这种转变真是令人惊叹。",
+      "originalTitle": "I have been using Codex as my primary \"agent\" for such a long time that I forget th…",
+      "originalBody": "I have been using Codex as my primary \"agent\" for such a long time that I forget the average person has never used it..\n\nInstinct and Muse are great especially for browser use on the phone. It shows what a great agent is like for the masses with ZERO setup. \n\nBut, Codex on Mac is simply undefeated in all the work in can do with Computer Use (h/t @AriX and the Sky team). Like try doing a workflow that you do manually and give it Codex to one-shot. \n\nI can't wait to see what their latest launch will be as they reportedly get ready to release their \"agent\" to the masses. My only ask would be to showcase the work and make it easy for folks to get started.\n\nSuch a privileged time to be a customer for all these products - truly the golden age!",
+      "translatedTitle": "我使用 Codex 作为我的主要“代理”已经很久了，以至于我都忘了……",
+      "translatedBody": "我使用 Codex 作为我的主要“代理”已经很久了，以至于我都忘了普通用户可能从未用过它……\n\nInstinct 和 Muse 都很棒，尤其是在手机浏览器上使用时。它们展现了真正优秀的代理应该具备的功能，而且无需任何设置，就能让大众轻松上手。\n\n但是，Codex 在 Mac 上处理各种电脑相关工作的能力无人能及（感谢 @AriX 和 Sky 团队）。不妨试试看，把原本需要手动完成的工作流程交给 Codex，它能一次性搞定。\n\n我迫不及待地想看看他们的最新产品，据说他们即将面向大众发布这款“代理”。我唯一的要求是，希望他们能好好展示一下产品，并让用户更容易上手。\n\n能成为这些产品的用户真是太幸运了——这真是黄金时代！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2101846262840799251",
-      "publishedAt": "2026-09-21T01:29:34.000Z",
-      "score": 182.33,
+      "sourceUrl": "https://x.com/nikunj/status/2102186665863463199",
+      "publishedAt": "2026-09-22T00:02:12.000Z",
+      "score": 77.75,
       "engagement": {
-        "likes": 376,
-        "retweets": 19,
-        "replies": 53
+        "likes": 164,
+        "retweets": 3,
+        "replies": 23
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -51,55 +47,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2101862331345154469",
+      "id": "2102049065504739366",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我对私人经纪人竞争的看法（仅凭纸上谈兵）：1.",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：My “armchair” thoughts on the personal agent race: 1. Muse is poised to become the leader. The app is intuitive, and…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "My “armchair” thoughts on the personal agent race: 1.",
-      "originalBody": "My “armchair” thoughts on the personal agent race:\n\n1. Muse is poised to become the leader. The app is intuitive, and Meta is aggressively promoting it across all its properties. Once you use the Muse app, you realize that it makes little sense for an agent to live in an existing messaging app like iMessage. Unless Meta runs out of compute or something, I think this will become the company’s most successful homegrown app after Facebook. It will be much bigger than Threads.\n\n2. ChatGPT is probably still the personal agent leader because it already has 1B+ users. OpenAI’s models, computer use, and voice are arguably better than Muse feature by feature. But it’s hard to build one product for both work and personal use, and harder still to serve enterprises and consumers with the same UX. Even for work, I started using Grok Bot because the Work/Codex split remains too confusing. I’m sure the team is cooking, and we’ll see something good in the next few weeks.\n\n3. Grok Bot isn’t really a Muse competitor because it’s focused on work. Multiple bots naturally fit team-based knowledge work IMO. My bull case for Grok Bot is that it's a few features away from becoming multiplayer agentic Slack for both bots and humans.\n\n4. Google is obviously the dark horse candidate. All these personal agents live off Gmail, Google Calendar, and your Google app's data. Google has their own personal agent in Spark but the last I checked it's a secondary tab in Gemini. I think Google needs to be far more aggressive in making Spark the primary experience and making it intuitive and competitive with Muse. Google however doesn't have a great track record in multiplayer AI...\n\n5. Speaking of multiplayer, nobody has figured this out yet. I can’t easily add my spouse to a Muse chat to plan a vacation. I also can’t loop coworkers into ChatGPT or Grok Bot threads. Multiplayer AI today mostly means tagging bots in Slack. Every major provider is probably working on this, and I think it will be the next big unlock.\n\nMy personal AI stack right now is Muse for personal, Grok Bot for cloud tasks, Claude for specific use cases, and ChatGPT for everything else.\n\nBut I think we’re going to see some major updates this week.\n\nEveryone should design their personal skills and files so they’re easy to port between harnesses and agents. Otherwise, you’ll spend half your time moving from one tool to another.",
-      "translatedTitle": "我对私人经纪人竞争的看法（仅凭纸上谈兵）：1.",
-      "translatedBody": "我对个人智能助手领域的一些“纸上谈兵”的看法：\n\n1. Muse 有望成为领头羊。这款应用直观易用，而且 Meta 正在旗下所有平台大力推广。一旦你使用过 Muse 应用，就会意识到智能助手不应该像 iMessage 那样存在于现有的即时通讯应用中。除非 Meta 的计算资源耗尽或其他原因，否则我认为 Muse 将成为继 Facebook 之后该公司最成功的自主研发应用。它的规模将远超 Threads。\n\n2. ChatGPT 可能仍然是个人智能助手领域的领头羊，因为它已经拥有超过 10 亿的用户。OpenAI 的模型、计算能力和语音功能在各方面都优于 Muse。但是，要打造一款既适用于工作又适用于个人用途的产品并非易事，而要为企业和消费者提供相同的用户体验则更是难上加难。即使是工作用途，我也开始使用 Grok Bot，因为 Work/Codex 的划分仍然让人感到困惑。我相信团队正在努力，我们会在未来几周内看到一些令人惊喜的成果。\n\n3. Grok Bot 并非 Muse 的真正竞争对手，因为它专注于工作。在我看来，多个机器人自然而然地适用于团队协作的知识型工作。我看好 Grok Bot 的理由是，它只需添加几个功能，就能成为一款适用于机器人和人类的多人智能 Slack。\n\n4. 谷歌显然是一匹黑马。所有这些个人智能助手都依赖于 Gmail、谷歌日历和你的谷歌应用的数据。谷歌在 Spark 中也有自己的个人智能助手，但我上次查看时，它只是 Gemini 中的一个辅助标签页。我认为谷歌需要更加积极地将 Spark 打造成主要体验，并使其直观易用，足以与 Muse 相媲美。然而，谷歌在多人 AI 方面并没有太多成功经验……\n\n5. 说到多人协作，目前还没有人真正解决这个问题。我无法轻松地将我的配偶添加到 Muse 聊天中来计划假期。我也无法将同事拉入 ChatGPT 或 Grok Bot 的讨论串。如今，多人 AI 主要意味着在 Slack 中标记机器人。几乎所有主流供应商都在致力于此，我认为这将是下一个重大突破。\n\n我目前使用的个人 AI 技术栈是：Muse 用于个人事务，Grok Bot 用于云端任务，Claude 用于特定用例，ChatGPT 用于其他所有事务。\n\n但我认为本周我们将看到一些重大更新。\n\n每个人都应该设计自己的技能和文件，以便于在不同的工具和代理之间轻松移植。否则，你将花费一半的时间在不同工具之间切换。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2101862331345154469",
-      "publishedAt": "2026-09-21T02:33:25.000Z",
-      "score": 109.81,
-      "engagement": {
-        "likes": 591,
-        "retweets": 29,
-        "replies": 97
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2101865476145959373",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "6.",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：6. I forgot to mention Apple and Siri. They have all the devices and a great reputation on privacy. They can easily w…",
+      "builder": "Nikunj Kothari",
+      "title": "除了少数例外，那些吹嘘自己能最大化代币价值的公司，其专业水平往往最差……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：With a few exceptions, the companies boasting about tokenmaxxing have the worst product experiences.. It’s because go…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "6.",
-      "originalBody": "6. I forgot to mention Apple and Siri. They have all the devices and a great reputation on privacy. \n\nThey can easily win this race but what holds them back imo is their annual release cycle for major updates and not being on @X and all the other platforms seeking user feedback. The iteration speed for Siri (from the outside) just feels far too slow to compete.",
-      "translatedTitle": "6.",
-      "translatedBody": "6. 我忘了提苹果和Siri。他们拥有所有设备，而且在隐私保护方面享有盛誉。\n\n他们完全有能力赢得这场竞争，但我认为阻碍他们前进的是他们每年发布一次重大更新的周期，以及他们没有在@X和其他平台上寻求用户反馈。从外部来看，Siri的迭代速度实在太慢，难以与之竞争。",
+      "originalTitle": "With a few exceptions, the companies boasting about tokenmaxxing have the worst pro…",
+      "originalBody": "With a few exceptions, the companies boasting about tokenmaxxing have the worst product experiences..\n\nIt’s because good products are all about curation & gardening and not throwing the kitchen sink at agents expecting them to figure it out. \n\nLess is more has never more apt.",
+      "translatedTitle": "除了少数例外，那些吹嘘自己能最大化代币价值的公司，其专业水平往往最差……",
+      "translatedBody": "除了少数例外，那些吹嘘自己能最大化代币价值的公司，产品体验往往最差。\n\n这是因为好的产品讲究的是精心策划和维护，而不是把所有东西都一股脑地塞给代理商，指望他们自己去搞定。\n\n少即是多，这句话用在这里再贴切不过了。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2101865476145959373",
-      "publishedAt": "2026-09-21T02:45:54.000Z",
-      "score": 66.78,
+      "sourceUrl": "https://x.com/nikunj/status/2102049065504739366",
+      "publishedAt": "2026-09-21T14:55:26.000Z",
+      "score": 72.84,
       "engagement": {
-        "likes": 21,
-        "retweets": 0,
-        "replies": 2
+        "likes": 56,
+        "retweets": 7,
+        "replies": 6
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -108,26 +75,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2101844435353145452",
+      "id": "2102116206371315854",
       "type": "tweet",
-      "builder": "Thariq",
-      "title": "电子游戏有一种独特的魅力，它赋予玩家高风险和高责任感……",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：there is something about video games that give high stakes and responsibilities to young people who couldn’t really g…",
+      "builder": "Peter Steinberger",
+      "title": "因为“Meta 使用 OpenClaw”这个消息正在流传。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Because this “Meta uses OpenClaw” story is going around. They built their own agent, being inspired. Nat and his team…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "there is something about video games that give high stakes and responsibilities to…",
-      "originalBody": "there is something about video games that give high stakes and responsibilities to young people who couldn’t really get them irl\n\nbut it is a fine line and at some point you need to graduate https://t.co/wwRAmV7Sce",
-      "translatedTitle": "电子游戏有一种独特的魅力，它赋予玩家高风险和高责任感……",
-      "translatedBody": "电子游戏似乎有一种魔力，能让年轻人体验到现实生活中难以承受的高风险和责任。\n\n但这其中的界限很微妙，总有一天你需要从游戏中抽身出来。https://t.co/wwRAmV7Sce",
+      "originalTitle": "Because this “Meta uses OpenClaw” story is going around.",
+      "originalBody": "Because this “Meta uses OpenClaw” story is going around. They built their own agent, being inspired. Nat and his team did a great job. Kudos! https://t.co/ZumVBrDKCh",
+      "translatedTitle": "因为“Meta 使用 OpenClaw”这个消息正在流传。",
+      "translatedBody": "因为“Meta 使用 OpenClaw”这个消息正在流传。他们受到启发，开发了自己的代理。Nat 和他的团队做得非常出色。赞！https://t.co/ZumVBrDKCh",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2101844435353145452",
-      "publishedAt": "2026-09-21T01:22:18.000Z",
-      "score": 59.34,
+      "sourceUrl": "https://x.com/steipete/status/2102116206371315854",
+      "publishedAt": "2026-09-21T19:22:13.000Z",
+      "score": 69.21,
       "engagement": {
-        "likes": 627,
-        "retweets": 12,
-        "replies": 50
+        "likes": 4388,
+        "retweets": 146,
+        "replies": 102
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -135,60 +102,144 @@
       "sourceType": "x"
     },
     {
-      "id": "2101820308009206077",
+      "id": "2102186174911746151",
       "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "现在人人都迷上了杰夫，但我年纪够大，还记得以前人们可以……",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验：Everyone is obsessed with Jev now, but I'm old enough to remember when people couldn't shut up about Instinct, all th…",
-      "whyItMatters": "Matt Turck 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Everyone is obsessed with Jev now, but I'm old enough to remember when people could…",
-      "originalBody": "Everyone is obsessed with Jev now, but I'm old enough to remember when people couldn't shut up about Instinct, all the way back to mid last week.  Simpler times.",
-      "translatedTitle": "现在人人都迷上了杰夫，但我年纪够大，还记得以前人们可以……",
-      "translatedBody": "现在大家都在谈论杰夫，但我年纪够大，还记得上周中期人们还在不停地谈论《本能》。真是个简单的年代。",
+      "builder": "Peter Yang",
+      "title": "ChatGPT Finances 可以帮助您发现漏掉的费用并追回您的款项。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：ChatGPT Finances can help you spot charges you missed and get your money back. From Ethan, product lead for ChatGPT F…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "ChatGPT Finances can help you spot charges you missed and get your money back.",
+      "originalBody": "ChatGPT Finances can help you spot charges you missed and get your money back.\n\nFrom Ethan, product lead for ChatGPT Finances:\n\n“I used points to book a hotel, and then they still billed me. I had no idea it happened but ChatGPT caught it, worked with customer service, and I ended up getting reimbursed.”\n\nI then shared with Ethan that I had a similar experience where I asked ChatGPT to cancel a hotel booking for my parents, monitor the replies, and keep following up until we got the money back.\n\n📌 Watch the full episode here: https://t.co/xSJd1OwSGT",
+      "translatedTitle": "ChatGPT Finances 可以帮助您发现漏掉的费用并追回您的款项。",
+      "translatedBody": "ChatGPT Finances 可以帮你发现漏掉的消费，并帮你追回款项。\n\nChatGPT Finances 产品负责人 Ethan 分享道：\n\n“我用积分预订了一家酒店，结果他们还是给我扣了款。我完全不知道，但 ChatGPT 发现了问题，联系了客服，最终帮我拿到了退款。”\n\n之后，我跟 Ethan 分享了我类似的经历：我请 ChatGPT 帮我父母取消了酒店预订，然后我密切关注他们的回复，并不断跟进，直到最终拿回了退款。\n\n📌 点击此处观看完整视频：https://t.co/xSJd1OwSGT",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2101820308009206077",
-      "publishedAt": "2026-09-20T23:46:26.000Z",
-      "score": 22.71,
+      "sourceUrl": "https://x.com/petergyang/status/2102186174911746151",
+      "publishedAt": "2026-09-22T00:00:15.000Z",
+      "score": 63.75,
       "engagement": {
-        "likes": 62,
+        "likes": 7,
         "retweets": 0,
-        "replies": 10
+        "replies": 4
       },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
       "sourceType": "x"
     },
     {
-      "id": "2101742225906655315",
+      "id": "2102215701255844074",
       "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "开玩笑地想开一家叫“隔夜咖喱”的云厨房……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验：Jokingly thinking of starting a new cloud kitchen called “next day curry”.. Where I order the best curries, store it…",
-      "whyItMatters": "Nikunj Kothari 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Jokingly thinking of starting a new cloud kitchen called “next day curry”..",
-      "originalBody": "Jokingly thinking of starting a new cloud kitchen called “next day curry”.. \n\nWhere I order the best curries, store it overnight and serve it the next day. \n\nSaying this as I devour my leftover Manchurian. Have the exact same experience with Ramen, Indian food, Thai curry and others. \n\nMight be blasphemous to the purists but they taste so much better!",
-      "translatedTitle": "开玩笑地想开一家叫“隔夜咖喱”的云厨房……",
-      "translatedBody": "我开玩笑地想开一家叫“隔夜咖喱”的云厨房……\n\n在那里，我订购最好的咖喱，冷藏一夜，第二天再享用。\n\n说着，我狼吞虎咽地吃着剩下的满洲咖喱。拉面、印度菜、泰式咖喱等等，我也都这么做。\n\n这或许会让美食纯粹主义者感到亵渎，但隔夜咖喱的味道真的好太多了！",
+      "builder": "Peter Yang",
+      "title": "我认为广告市场即将迎来一场残酷的变革：如果你的巴士广告中很大一部分……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I think we're in for a rude awakening in the ad markets: If a huge part of your business is showing targeted display…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I think we're in for a rude awakening in the ad markets: If a huge part of your bus…",
+      "originalBody": "I think we're in for a rude awakening in the ad markets:\n\nIf a huge part of your business is showing targeted display ads to humans what happens when agents browse your website and get the job done without a human seeing your ads at all?",
+      "translatedTitle": "我认为广告市场即将迎来一场残酷的变革：如果你的巴士广告中很大一部分……",
+      "translatedBody": "我认为广告市场即将迎来一场残酷的变革：\n\n如果你的业务很大一部分是向用户展示定向广告，那么当代理商浏览你的网站并在完全没有用户看到你的广告的情况下完成交易时，会发生什么？",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2101742225906655315",
-      "publishedAt": "2026-09-20T18:36:09.000Z",
-      "score": 21.29,
+      "sourceUrl": "https://x.com/petergyang/status/2102215701255844074",
+      "publishedAt": "2026-09-22T01:57:35.000Z",
+      "score": 57.96,
       "engagement": {
-        "likes": 36,
-        "retweets": 0,
-        "replies": 15
+        "likes": 379,
+        "retweets": 21,
+        "replies": 91
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2102095924893827501",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "不太清楚 @capydotai 是怎么做到的，但它确实能够追踪多步骤操作……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Not really sure how @capydotai does it, but it really is able to track multi-step workflow and do large PRs faster th…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Not really sure how @capydotai does it, but it really is able to track multi-step w…",
+      "originalBody": "Not really sure how @capydotai does it, but it really is able to track multi-step workflow and do large PRs faster than Codex or Claude Code on its own. My most favorite new agentic coding secret weapon in my arsenal the last week.",
+      "translatedTitle": "不太清楚 @capydotai 是怎么做到的，但它确实能够追踪多步骤操作……",
+      "translatedBody": "我不太清楚 @capydotai 是怎么做到的，但它确实能够追踪多步骤工作流程，并且比 Codex 或 Claude Code 单独处理大型 PR 的速度更快。这是我上周最喜欢的智能编码秘密武器。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2102095924893827501",
+      "publishedAt": "2026-09-21T18:01:38.000Z",
+      "score": 57.23,
+      "engagement": {
+        "likes": 356,
+        "retweets": 22,
+        "replies": 56
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2102233173833007536",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "如果你仔细想想，Cluely 可以算作一个实时思维助手和半对抗工具……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If you really think about it Cluely as a realtime thought helper and semi-adversarial assistant with ongoing context…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "If you really think about it Cluely as a realtime thought helper and semi-adversari…",
+      "originalBody": "If you really think about it Cluely as a realtime thought helper and semi-adversarial assistant with ongoing context is still a good idea https://t.co/HGeFe0ttBi",
+      "translatedTitle": "如果你仔细想想，Cluely 可以算作一个实时思维助手和半对抗工具……",
+      "translatedBody": "仔细想想，Cluely 作为一款实时思维助手和带有持续上下文信息的半对抗性助手，仍然是个不错的想法。https://t.co/HGeFe0ttBi",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2102233173833007536",
+      "publishedAt": "2026-09-22T03:07:00.000Z",
+      "score": 54.36,
+      "engagement": {
+        "likes": 213,
+        "retweets": 5,
+        "replies": 37
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2102254445082116335",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "女士们，先生们...",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验：Ladies and gentlemen... start... your... ENGINES. We are almost Tuesday and I promised a reset for Tuesday. Among som…",
+      "whyItMatters": "Thibault Sottiaux 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Ladies and gentlemen...",
+      "originalBody": "Ladies and gentlemen... start... your... ENGINES. We are almost Tuesday and I promised a reset for Tuesday. Among some other things. See you soon.",
+      "translatedTitle": "女士们，先生们...",
+      "translatedBody": "女士们先生们……启动……你们的……引擎！星期二快到了，我承诺过星期二会进行一次调整。还有其他一些事情要做。很快再见。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2102254445082116335",
+      "publishedAt": "2026-09-22T04:31:32.000Z",
+      "score": 51.1,
+      "engagement": {
+        "likes": 12522,
+        "retweets": 760,
+        "replies": 1719
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-09-21T06:52:51.933Z",
-    "totalCandidates": 14,
-    "textQualifiedCandidates": 6,
-    "selectedTweets": 6
+    "upstreamGeneratedAt": "2026-09-22T06:42:06.429Z",
+    "totalCandidates": 21,
+    "textQualifiedCandidates": 12,
+    "selectedTweets": 8
   }
 }
