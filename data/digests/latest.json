@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-25",
-  "generatedAt": "2026-09-25T04:13:56.968Z",
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-26T04:18:35.039Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-09-25",
-  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 37 条候选动态里，筛出 19 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-09-26",
+  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 23 条候选动态里，筛出 9 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,241 +15,225 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
-    },
-    {
-      "slug": "product-ships",
-      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2102840851538080172",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "您现在可以在 Claude Marketplace 上发现工具、代理商和专家合作伙伴。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：You can now discover tools, agents and expert partners on Claude Marketplace. Use it to: - Add connectors and plugins…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "You can now discover tools, agents and expert partners on Claude Marketplace.",
-      "originalBody": "You can now discover tools, agents and expert partners on Claude Marketplace. Use it to:\n\n- Add connectors and plugins like Slack and Notion\n- Buy agents and products from companies like Cursor and CrowdStrike\n- Scale with service partners like Accenture and Deloitte https://t.co/S5DrmdUkXu",
-      "translatedTitle": "您现在可以在 Claude Marketplace 上发现工具、代理商和专家合作伙伴。",
-      "translatedBody": "您现在可以在 Claude Marketplace 上发现各种工具、代理和专家合作伙伴。您可以利用它：\n\n- 添加 Slack 和 Notion 等连接器和插件\n\n- 从 Cursor 和 CrowdStrike 等公司购买代理和产品\n\n- 通过 Accenture 和 Deloitte 等服务合作伙伴扩展业务规模 https://t.co/S5DrmdUkXu",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2102840851538080172",
-      "publishedAt": "2026-09-23T19:21:42.000Z",
-      "score": 194.38,
-      "engagement": {
-        "likes": 4249,
-        "retweets": 245,
-        "replies": 166
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2102820148629614685",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "Muse、Instinct、OpenClaw、Claude Code……所有成功的代理都具备三个关键要素：……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Muse, Instinct, OpenClaw, Claude Code… All successful agents have 3 key components: 🧠 Brain → model, harness (logic)…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Muse, Instinct, OpenClaw, Claude Code… All successful agents have 3 key components:…",
-      "originalBody": "Muse, Instinct, OpenClaw, Claude Code…\nAll successful agents have 3 key components:\n\n🧠 Brain → model, harness (logic)\n👐 Hands → tools, computer, browser\n🗃️ Files → memories, skills, repos\n\nThe 'easy' way is to throw all these in 1 stateful computer (a Mac Mini)\n\nLike, you run 𝚌𝚕𝚊𝚞𝚍𝚎 or 𝚏𝚡 in your mac, you keep it running all day with 𝚌𝚊𝚏𝚏𝚎𝚒𝚗𝚊𝚝𝚎, it has storage, and CLIs and apps installed.\n\nBut if you want to cost-efficiently run agents in the cloud, you actually start breaking down these parts.\n\n🧠 The harness can run in Fluid compute. To make it reliable across restarts, rollouts, crashes, you make its event log durable using Workflow.\n\n👐 The hands can be a dedicated browser fleet like Browserbase/Kernel, a computer like Sandbox, and even more efficient lightweight tools like just-bash.\n\n🗃️ 🆕 What was missing was a way to also decouple storage. Imagine you want to run a memory consolidation cron job every night (\"dreaming\"). You can read/write to the files directly without 'booting up' the agent's full computer.\n\nToday we're introducing the perfect companion to Sandbox: Drives. We shipped the computer for agents, now we're giving you the 'external disk' you can attach at will. It's early, and we'll be expanding capabilities here quickly.\n\nBtw, breaking apart the agent into these independent parts not only optimizes costs in a big way, it also *massively* improves security and auditability. I'd argue you can't even run a secure agent otherwise!",
-      "translatedTitle": "Muse、Instinct、OpenClaw、Claude Code……所有成功的代理都具备三个关键要素：……",
-      "translatedBody": "Muse、Instinct、OpenClaw、Claude Code……\n\n所有成功的智能体都包含三个关键组件：\n\n🧠 大脑 → 模型、逻辑框架\n\n👐 双手 → 工具、计算机、浏览器\n\n🗃️ 文件 → 记忆、技能、代码库\n\n最简单的方法是将所有这些组件都放在一台有状态的计算机（例如 Mac Mini）上。\n\n比如，你在 Mac 上运行 𝚌𝚕𝚊𝚞𝚍𝚎 或 𝚏𝚡，并让它全天运行，同时还安装了存储、命令行界面 (CLI) 和应用程序。\n\n但是，如果你想在云端经济高效地运行智能体，实际上你需要将这些组件拆分开来。\n\n🧠 逻辑框架可以在 Fluid 计算环境中运行。为了确保在重启、部署和崩溃后依然可靠，您可以使用 Workflow 来持久化事件日志。\n\n👐 代理可以是像 Browserbase/Kernel 这样的专用浏览器集群，也可以是像 Sandbox 这样的计算机，甚至是像 just-bash 这样更高效的轻量级工具。\n\n🗃️ 🆕 之前缺少的是一种将存储与代理分离的方法。想象一下，您想每晚运行一个内存整合的定时任务（只是想想而已）。您可以直接读写文件，而无需“启动”代理的完整计算机。\n\n今天，我们推出了 Sandbox 的完美搭档：Drives。我们已经为代理提供了计算机，现在我们为您提供可以随时连接的“外部磁盘”。目前还处于早期阶段，我们将快速扩展其功能。\n\n顺便一提，将代理拆分成这些独立部分不仅大幅优化了成本，而且还*显著*提高了安全性和可审计性。我认为，否则你甚至无法运行一个安全的代理！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2102820148629614685",
-      "publishedAt": "2026-09-23T17:59:26.000Z",
-      "score": 189.14,
-      "engagement": {
-        "likes": 1453,
-        "retweets": 79,
-        "replies": 143
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2102650014552182920",
+      "id": "2103361254433993165",
       "type": "tweet",
       "builder": "Swyx",
-      "title": "可以确认。",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：can confirm. ran @latentspacepod AINews side by side with 6 Sol and the difference was night and day: https://t.co/ol…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "can confirm.",
-      "originalBody": "can confirm. ran @latentspacepod AINews side by side with 6 Sol and the difference was night and day: https://t.co/oloSDxf0q7\n\n5.5 Opus is the new default model for AINews going forward. so much more concise and tasteful reporting, with much less slopese than even 5 Opus. https://t.co/P6AXDlBKNP https://t.co/6q20Ik0dho",
-      "translatedTitle": "可以确认。",
-      "translatedBody": "可以确认。我把 @latentspacepod 的 AINews 和 6 Sol 版本并排运行了一下，结果简直天壤之别：https://t.co/oloSDxf0q7\n\n5.5 Opus 将成为 AINews 的新默认模型。它的报道更加简洁精炼，而且比 5 Opus 的斜率还要小得多。https://t.co/P6AXDlBKNP https://t.co/6q20Ik0dho",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2102650014552182920",
-      "publishedAt": "2026-09-23T06:43:23.000Z",
-      "score": 181.45,
-      "engagement": {
-        "likes": 205,
-        "retweets": 12,
-        "replies": 125
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2102947745132924993",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "ShellPerfBench。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：ShellPerfBench. I'm really neurotic about the startup time of a new shell session. Opus 5.5 found a lot of really gre…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "ShellPerfBench.",
-      "originalBody": "ShellPerfBench. I'm really neurotic about the startup time of a new shell session. Opus 5.5 found a lot of really great optimizations other models missed. Anon, anytime you open a new terminal, you might be silently suffering. Tell your agent to optimize .𝚣𝚜𝚑𝚛𝚌 and friends",
-      "translatedTitle": "ShellPerfBench。",
-      "translatedBody": "ShellPerfBench。我对新 shell 会话的启动时间非常敏感。Opus 5.5 发现了许多其他模型遗漏的优秀优化点。匿名用户，每次你打开新终端时，你可能都在默默承受着性能损耗。告诉你的代理优化 .𝚣𝚜𝚑𝚛𝚌 及其相关文件。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2102947745132924993",
-      "publishedAt": "2026-09-24T02:26:27.000Z",
-      "score": 176.66,
-      "engagement": {
-        "likes": 112,
-        "retweets": 2,
-        "replies": 33
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2102933485795369213",
-      "type": "tweet",
-      "builder": "Ryo Lu",
-      "title": "效率、生产力、速度，我们不断地膜拜这些词，仿佛它们就是一切……",
-      "summary": "Ryo Lu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：efficiency, productivity, speed we keep worshipping these words like they are what we live for ship faster merge more…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "efficiency, productivity, speed we keep worshipping these words like they are what…",
-      "originalBody": "efficiency, productivity, speed\n\nwe keep worshipping these words like they are what we live for\n\nship faster\nmerge more\nmanage more agents\ncompress every loop\nremove every pause\nturn every hour into output\n\nbut what is the point of endless production if there is no time left to think deeply?\n\nnot react\nnot optimize\nnot summarize\nnot clear the queue\n\nthink\n\nto sit with a question long enough that your real intention starts to appear  \nto find the purpose underneath the motion  \nto ask whether the thing being accelerated should exist at all\n\nai could be a new canvas\n\na way to make strange things\npersonal things\nimpossible things\ntools, worlds, poems, games, interfaces, films, languages, rituals\nthings that let more people touch the shape of their own imagination\n\nbut instead, so much of it is becoming slop factories\n\nmore content\nmore funnels\nmore tickets\nmore fake work pretending to be value\n\nyou can merge 2000 prs\nyou can manage 500 agents\nyou can wake up to dashboards proving that the machine kept moving while you slept\n\nbut what is the point if you only sleep 5 hours a day?\n\nwhat is the point if you stop talking to other humans?\nstop learning about the past?\nstop playing?\nstop wandering?\nstop being surprised?\n\nwhat is the point if your whole life becomes optimizing the system that is consuming you?\n\nspeed is not meaning\nscale is not wisdom\nautomation is not freedom if it only makes everyone run faster\n\nand where are we running?\n\ntoward what?\n\na world where every person becomes a manager of machines, and every machine produces more things no one had the time to truly want?\n\nthe danger is not that ai makes us lazy\n\nthe danger is that ai makes us endlessly busy\n\nthat it gives us infinite production before we have found intention\ninfinite execution before we have developed taste\ninfinite motion before we have learned how to be still\n\nmaybe the real frontier is not more speed\n\nmaybe it is discernment\n\nknowing what not to make\nknowing when to stop\nknowing when the most productive thing is to sleep, read history, call a friend, play with a cat, walk without tracking it, or stare at the ceiling until the false urgency dissolves\n\ntools should give us more life\nnot turn life into a tool\n\nif ai is going to matter, it should not just help us produce more\n\nit should help us become more human  \nmore imaginative\nmore free\n\notherwise, it’s the same old factory\njust without humans",
-      "translatedTitle": "效率、生产力、速度，我们不断地膜拜这些词，仿佛它们就是一切……",
-      "translatedBody": "效率、生产力、速度\n\n我们不断膜拜这些词，仿佛它们是我们存在的意义。\n\n更快地交付\n\n合并更多\n管理更多代理\n压缩每个循环\n消除每个停顿\n\n将每一小时都转化为产出\n\n但如果没有时间进行深入思考，无休止的生产又有何意义呢？\n\n不反应\n\n不优化\n\n不总结\n\n不清理队列\n\n思考\n\n静下心来思考一个问题，直到你真正的意图开始显现\n\n找到运动背后的目的\n\n质疑被加速的事物是否应该存在\n\n人工智能可以成为一块新的画布\n\n一种创造奇特事物的方式\n\n创造个性化事物的方式\n\n创造不可能的事物的方式\n\n工具、世界、诗歌、游戏、界面、电影、语言、仪式\n\n让更多人触及自身想象力的形态\n\n然而，现在很多人工智能却变成了垃圾工厂\n\n更多的内容\n更多的流程\n更多的工单\n更多伪装成价值的虚假工作\n\n你可以合并 2000 个 PRS\n\n你可以管理 500 个代理\n\n你可以醒来看到仪表盘证明机器在你睡觉时一直在运转\n\n但如果你每天只睡 5 个小时，这一切又有什么意义呢？\n\n如果你停止与他人交流，这一切又有什么意义呢？\n\n停止了解过去，这一切又有什么意义呢？\n\n停止玩耍，这一切又有什么意义呢？\n\n停止探索，这一切又有什么意义呢？\n\n别再感到惊讶了？\n\n如果你的整个人生都变成了优化那个消耗你的系统，那还有什么意义？\n\n速度并非意义\n\n规模并非智慧\n\n如果自动化只是让每个人跑得更快，那它就不是自由\n\n而我们究竟在奔向何方？\n\n奔向什么？\n\n一个每个人都成为机器管理者，每台机器生产更多人们根本没时间真正想要的东西的世界？\n\n危险不在于人工智能让我们变得懒惰\n\n而在于人工智能让我们无休止地忙碌\n\n它让我们在找到人生目标之前就拥有无限的生产力\n\n在我们培养品味之前就拥有无限的执行力\n\n在我们学会如何静止之前就拥有无限的行动力\n\n或许真正的前沿并非速度\n\n或许是洞察力\n\n知道什么不该做\n\n知道何时该停止\n\n知道何时最有成效的事情是睡觉、阅读历史、给朋友打电话、逗猫、漫无目的地散步，或者盯着天花板直到虚假的紧迫感消散\n\n工具应该赋予我们更多生命\n\n而不是把生命变成工具\n\n如果人工智能要发挥作用，它不应该仅仅帮助我们提高生产力\n\n它应该帮助我们变得更像人\n\n更有想象力\n更自由\n\n否则，它就只是个没有人类的工厂\n\n",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/ryolu_/status/2102933485795369213",
-      "publishedAt": "2026-09-24T01:29:48.000Z",
-      "score": 88.14,
-      "engagement": {
-        "likes": 1087,
-        "retweets": 165,
-        "replies": 60
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2102777931764498536",
-      "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "恕我直言，我不同意@benthompson 的观点。",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I respectfully disagree with @benthompson on this. He’s missing a key point - Consumers don’t have one relationship w…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "I respectfully disagree with @benthompson on this.",
-      "originalBody": "I respectfully disagree with @benthompson on this. He’s missing a key point - Consumers don’t have one relationship with “doing things”. \n\nI’ve learned it the hard way from building consumer and smb products for years at Google and now Meta.\n\nBrowsing clothes can be entertainment (for some). But hiring a roofer is miserable (for most).\n\nEven with shopping, sometimes you want to browse for an hour. Sometimes you want the right thing just delivered asap.\n\nHis argument sounds a lot like the early 2000s:\n\n“Why would I buy clothes online? I need to try them on.”\n\n“Why would I buy a $500 TV online? I will go check it out at Circuit City.”\n\nTechnology keeps giving you better ways of doing things.\n\nTry hiring a roofer today: search, read 10 reviews, phone tag, coordinate with insurance, schedule inspection, get quotes, catch hidden costs, review their past work, hire, scheduling.\n\nFor some tasks like this, better means almost zero effort. For others, it means considering more options, enjoying the process and making an informed decision.\n\nThe latent demand for agents that remove this friction for consumers is immense.",
-      "translatedTitle": "恕我直言，我不同意@benthompson 的观点。",
-      "translatedBody": "恕我直言，我不同意 @benthompson 的观点。他忽略了一个关键点——消费者与“做事”之间的关系并非只有一种。\n\n我在谷歌和现在的 Meta 工作多年，开发面向消费者和中小企业的产品，对此深有体会。\n\n浏览衣服对某些人来说可能是一种娱乐。但雇佣屋顶工对大多数人来说却是一件痛苦的事。\n\n即使是购物，有时你想花一个小时慢慢逛。有时你只想尽快买到合适的商品。\n\n他的论点听起来很像 2000 年代初期的观点：\n\n“我为什么要网购衣服？我需要试穿。”\n\n“我为什么要网购一台 500 美元的电视？我会去 Circuit City 看看。”\n\n科技不断为我们带来更便捷的做事方式。\n\n不妨试试今天雇佣屋顶工：搜索、阅读 10 条评论、电话沟通、与保险公司协调、安排检查、获取报价、发现隐藏费用、查看他们过去的工作、雇佣、安排时间。\n\n对于某些任务而言，“更好”意味着几乎无需付出任何努力。而对于其他任务而言，“更好”则意味着考虑更多选项、享受过程并做出明智的决定。\n\n消费者对能够消除这种摩擦的代理商有着巨大的潜在需求。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2102777931764498536",
-      "publishedAt": "2026-09-23T15:11:41.000Z",
-      "score": 78.6,
-      "engagement": {
-        "likes": 146,
-        "retweets": 15,
-        "replies": 43
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2102952201350254667",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "有了这样一款优秀的模型，Claude Code 线束就真的需要出色的实时语音和……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：With a model this good the Claude Code harness really needs great live voice and browser + computer use (latter is im…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "With a model this good the Claude Code harness really needs great live voice and br…",
-      "originalBody": "With a model this good the Claude Code harness really needs great live voice and browser + computer use (latter is improving!)\n\nRight now one lab has the best model and another has the best harness. https://t.co/SoV7GN0pIB",
-      "translatedTitle": "有了这样一款优秀的模型，Claude Code 线束就真的需要出色的实时语音和……",
-      "translatedBody": "有了这么好的模型，Claude Code 连接套件确实需要出色的实时语音和浏览器+计算机使用体验（后者正在改进！）。\n\n目前，一个实验室拥有最好的模型，另一个实验室拥有最好的连接套件。https://t.co/SoV7GN0pIB",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2102952201350254667",
-      "publishedAt": "2026-09-24T02:44:10.000Z",
-      "score": 70.39,
-      "engagement": {
-        "likes": 25,
-        "retweets": 0,
-        "replies": 16
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2102814202117411196",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "嗓音！",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Voice! I've gotten so used to just call ChatGPT and talk about all the work, check on emails, do some coding, manage…",
+      "title": "今年一月，我给我的内容策略定下了基调：“规模化而不松懈”。",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：In Jan this year I called my content strategy shot: \"Scaling without Slop\". It's finally starting to work. It took us…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Voice!",
-      "originalBody": "Voice! I've gotten so used to just call ChatGPT and talk about all the work, check on emails, do some coding, manage my calendar and it works across the full ecosystem of plugins, including 3P developed plugins. https://t.co/7MQYUxcMIL",
-      "translatedTitle": "嗓音！",
-      "translatedBody": "语音通话！我已经习惯了用 ChatGPT 来讨论工作、查看邮件、编写代码、管理日程，而且它还兼容所有插件，包括第三方开发的插件。https://t.co/7MQYUxcMIL",
+      "originalTitle": "In Jan this year I called my content strategy shot: \"Scaling without Slop\".",
+      "originalBody": "In Jan this year I called my content strategy shot: \"Scaling without Slop\". \n\nIt's finally starting to work. It took us 3 years to reach our first 100k on youtube. It only took 1.2 months for the next 100k. Similar other metrics on AEO/SEO/subscriber traction and have a lot of New Media ideas that I'm excited to pursue.\n\nofficially giving notice of the next phase of Latent Space, AINews, and what the rest of swyx inc has been cooking below",
+      "translatedTitle": "今年一月，我给我的内容策略定下了基调：“规模化而不松懈”。",
+      "translatedBody": "今年一月，我正式宣布了我的内容策略：“稳步扩张，绝不拖泥带水”。\n\n它终于开始奏效了。我们在 YouTube 上花了三年时间才达到第一个 10 万订阅，而第二个 10 万订阅只用了 1.2 个月。其他 AEO/SEO/订阅用户增长指标也类似，而且我有很多新媒体创意，迫不及待地想要付诸实践。\n\n正式宣布 Latent Space、AINews 以及 swyx inc 其他团队的下一阶段计划如下。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2102814202117411196",
-      "publishedAt": "2026-09-23T17:35:48.000Z",
-      "score": 69.49,
+      "sourceUrl": "https://x.com/swyx/status/2103361254433993165",
+      "publishedAt": "2026-09-25T05:49:36.000Z",
+      "score": 146,
       "engagement": {
-        "likes": 4009,
-        "retweets": 107,
-        "replies": 583
+        "likes": 23,
+        "retweets": 0,
+        "replies": 12
       },
       "matchedFocusAreas": [
         "Coding Agents"
       ],
       "sourceType": "x"
+    },
+    {
+      "id": "2103216656747262419",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "OpenAI、Anthropic 和 OpenAI 的支出对比（Vercel AI Gateway，过去两个月）• Anthropic…",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Spend of OpenAI vs Anthropic vs Open (Vercel AI Gateway, last 2 months) • Anthropic still #1 in spend, but went 69% →…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Spend of OpenAI vs Anthropic vs Open (Vercel AI Gateway, last 2 months) • Anthropic…",
+      "originalBody": "Spend of OpenAI vs Anthropic vs Open \n(Vercel AI Gateway, last 2 months)\n\n• Anthropic still #1 in spend, but went 69% → 40%\n• OpenAI: 10% → 24% in spend\n• GPT-6 Astra + GPT 5.6 Sol are ripping\n• OpenAI now leads in tokens #\n• Kimi K3 + DeepSeek took ~half of Anthropic's loss\n• Opus 5.5 is up to 10% of spend in 2 days\n• OpenAI is 62% of image generations \n\nWatch here: https://t.co/Gu7D9d7M8w",
+      "translatedTitle": "OpenAI、Anthropic 和 OpenAI 的支出对比（Vercel AI Gateway，过去两个月）• Anthropic…",
+      "translatedBody": "OpenAI、Anthropic 和 OpenAI 的支出对比\n\n（Vercel AI Gateway，过去两个月）\n\n• Anthropic 的支出仍然排名第一，但占比从 69% 下降到 40%\n\n• OpenAI 的支出占比从 10% 上升到 24%\n\n• GPT-6 Astra 和 GPT 5.6 Sol 表现强劲\n\n• OpenAI 的代币数量目前领先\n\n• Kimi K3 和 DeepSeek 弥补了 Anthropic 约一半的损失\n\n• Opus 5.5 在两天内支出占比达到 10%\n\n• OpenAI 的图像生成占比达到 62%\n\n点击此处观看：https://t.co/Gu7D9d7M8w",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2103216656747262419",
+      "publishedAt": "2026-09-24T20:15:01.000Z",
+      "score": 135.3,
+      "engagement": {
+        "likes": 635,
+        "retweets": 34,
+        "replies": 114
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2103182635992514569",
+      "type": "tweet",
+      "builder": "Josh Woodward",
+      "title": "Dreambeans 是我们在 @GoogleLabs 进行的最新实验之一。",
+      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验：Dreambeans is one of our newer experiments in @GoogleLabs. It has a growing cult following. It’s simple: a fixed numb…",
+      "whyItMatters": "Josh Woodward 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Dreambeans is one of our newer experiments in @GoogleLabs.",
+      "originalBody": "Dreambeans is one of our newer experiments in @GoogleLabs. It has a growing cult following. \n\nIt’s simple: a fixed number of “beans” brew every morning. They point you at the real world, with real people, doing things you care about together.\n\nGive it a try! https://t.co/cUVgf5wn5b",
+      "translatedTitle": "Dreambeans 是我们在 @GoogleLabs 进行的最新实验之一。",
+      "translatedBody": "Dreambeans 是我们在 @GoogleLabs 的最新实验项目之一，目前已拥有一批忠实用户。\n\n它的原理很简单：每天早上都会生成一定数量的“豆子”。这些豆子会引导你关注真实世界，与真实的人们一起做你关心的事情。\n\n不妨一试！https://t.co/cUVgf5wn5b",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/joshwoodward/status/2103182635992514569",
+      "publishedAt": "2026-09-24T17:59:50.000Z",
+      "score": 127.18,
+      "engagement": {
+        "likes": 149,
+        "retweets": 5,
+        "replies": 16
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2103167531917721866",
+      "type": "tweet",
+      "builder": "Matt Turck",
+      "title": "詹森用五层蛋糕来比喻人工智能（能源、芯片、基础设施、模型、应用程序……）",
+      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：In Jensen's 5 layer cake analogy for AI (energy, chips, infrastructure, models, applications), the middle layer (esp…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "In Jensen's 5 layer cake analogy for AI (energy, chips, infrastructure, models, app…",
+      "originalBody": "In Jensen's 5 layer cake analogy for AI (energy, chips, infrastructure, models, applications), the middle layer (esp the software infra part) is much less understood - and thats where @VAST_Data became a $30B company few people know about, powering @SpaceXAI, @CoreWeave, @nebiusai, @MistralAI, @nscale etc\n\nMy conversation with Renen Hallak, CEO:\n\n00:00 Intro\n00:51 The hidden software layer in NVIDIA's AI stack 02:28 What actually makes an \"AI factory\"?\n05:13 Should Walmart and Goldman build their own AI?\n06:20 \"We infer during the day, fine-tune at night\"\n13:16 Announcement: frontier models & sensitive data\n15:32 From P vs. NP to founding VAST Data\n17:32 OpenAI, Navier–Stokes and 10,000 agents\n20:25 The pre-transformer insight behind VAST\n21:55 DASE: VAST's \"shared everything\" architecture \n25:18 \"Storage was where startups go to die\"\n27:39 Trillions of vectors: why old databases break\n29:01 Are S3, Snowflake and Databricks ready for AI\n31:29 Data gravity, vendor lock-in and zero churn\n33:13 Training vs. inference: why the infrastructure changes\n34:46 Model routing, KV caches, RAG & agent memory\n36:59 Identity, permissions and security for AI agents 40:27 Can multi-agent systems unlock scientific discovery?\n41:55 DataEnclave: how confidential AI protects data and weights\n45:16 Who should be AI's trust layer?\n46:37 \"Sometimes it scares me\": 500 petabytes to 2 exabytes\n50:08 Is circular AI financing creating systemic risk\n51:32 Why VAST is profitable when AI infra isn't\n53:24 What separates the winning neoclouds?\n55:06 \"Their lunch is being eaten\": why hyperscalers lag\n59:10 Where will the trillions accrue across the AI stack\n1:01:18 NVIDIA: \"There's no legal document between us\"\n1:03:59 What VAST learned from xAI and @elonmusk \n1:05:36 \"Bad things loudly and often\": building at AI speed\n1:06:53 More change in 10 years than the previous 1,000?\n1:08:39 VAST's endgame: all the data in the world",
+      "translatedTitle": "詹森用五层蛋糕来比喻人工智能（能源、芯片、基础设施、模型、应用程序……）",
+      "translatedBody": "在詹森提出的人工智能五层蛋糕比喻中（能源、芯片、基础设施、模型、应用），中间层（尤其是软件基础设施部分）鲜为人知——而这正是@VAST_Data 成为一家鲜为人知的300亿美元公司，为@SpaceXAI、@CoreWeave、@nebiusai、@MistralAI、@nscale 等公司提供技术支持的关键所在。\n\n我与首席执行官 Renen Hallak 的对话：\n\n00:00 引言\n\n00:51 英伟达人工智能技术栈中隐藏的软件层\n02:28 究竟是什么造就了“人工智能工厂”？\n\n05:13 沃尔玛和高盛是否应该构建自己的人工智能系统？\n\n06:20 “我们白天推理，晚上微调”\n\n13:16 公告：前沿模型与敏感数据\n\n15:32 从 P 与 NP 问题到 VAST Data 的创立\n\n17:32 OpenAI、纳维-斯托克斯方程和 10,000 个智能体\n\n20:25 VAST 背后的 Transformer 前洞察\n\n21:55 DASE：VAST 的“一切共享”架构\n\n25:18 “存储是初创公司的坟墓”\n\n27:39 万亿向量：为什么旧数据库会崩溃\n\n29:01 S3、Snowflake 和 Databricks 是否已为 AI 做好准备\n\n31:29 数据引力、供应商锁定和零流失率\n\n33:13 训练与推理：为什么基础设施会发生变化\n\n34:46 模型路由、键值缓存、RAG 和智能体内存\n\n36:59 AI 智能体的身份、权限和安全 40:27 能否多智能体系统能否助力科学发现？\n\n41:55 数据飞地：机密人工智能如何保护数据和权重\n\n45:16 谁应该成为人工智能的信任层？\n\n46:37 “有时这让我感到害怕”：500PB 到 2EB\n\n50:08 循环人工智能融资是否会造成系统性风险？\n\n51:32 为什么 VAST 能盈利而人工智能基础设施却不能？\n\n53:24 成功的云平台有何区别？\n\n55:06 “他们的午餐被吃掉了”：超大规模数据中心为何滞后\n\n59:10 人工智能堆栈中数万亿美元的财富将在哪里积累？\n\n1:01:18 英伟达：“我们之间没有任何法律文件”\n\n1:03:59 VAST 从 xAI 和埃隆·马斯克身上学到了什么？\n\n1:05:36 “坏事要大声且频繁地发生”：以人工智能的速度构建\n\n1:06:53 十年内的变化比过去一千年还要多？\n\n1:08:39 VAST 的最终目标：拥有世界上所有的数据。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/mattturck/status/2103167531917721866",
+      "publishedAt": "2026-09-24T16:59:49.000Z",
+      "score": 70.34,
+      "engagement": {
+        "likes": 19,
+        "retweets": 8,
+        "replies": 9
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2103212051065921632",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "这里有很多反馈，你们很多人都在自己做计划，不需要其他模式……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：lots feedback here, many of you are planning yourself & don't need plan mode others prefer the UX of entering a mode…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "lots feedback here, many of you are planning yourself & don't need plan mode others…",
+      "originalBody": "lots feedback here, many of you are planning yourself & don't need plan mode\n\nothers prefer the UX of entering a mode where Claude is just thinking & brainstorming with you\n\nmy plan is to:\n- make plan mode into a built-in mod\n- allow mods to add new modes or override shift+tab https://t.co/SL1IzLvb17",
+      "translatedTitle": "这里有很多反馈，你们很多人都在自己做计划，不需要其他模式……",
+      "translatedBody": "这里有很多反馈，很多人自己做计划，不需要计划模式。\n\n也有人喜欢进入一个让克劳德和你一起思考和头脑风暴的模式。\n\n我的计划是：\n\n- 将计划模式做成一个内置模组\n\n- 允许模组添加新模式或覆盖 Shift+Tab 组合键 https://t.co/SL1IzLvb17",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2103212051065921632",
+      "publishedAt": "2026-09-24T19:56:43.000Z",
+      "score": 64.62,
+      "engagement": {
+        "likes": 1654,
+        "retweets": 29,
+        "replies": 193
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2103148444701610233",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "如果你只是告诉代理人去清理，那事情就会过早结束。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If you just tell the agent to clean up, it will stop far too early. Give it an ambitious goal. Try \"remove 20% of the…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "If you just tell the agent to clean up, it will stop far too early.",
+      "originalBody": "If you just tell the agent to clean up, it will stop far too early. Give it an ambitious goal. Try \"remove 20% of the least useful tests while maintaining code coverage within 2%\"",
+      "translatedTitle": "如果你只是告诉代理人去清理，那事情就会过早结束。",
+      "translatedBody": "如果你只是告诉代理去清理，它会过早停止。给它设定一个更具挑战性的目标。例如，“移除 20% 最无用的测试，同时保持代码覆盖率在 2% 以内”。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2103148444701610233",
+      "publishedAt": "2026-09-24T15:43:58.000Z",
+      "score": 55.6,
+      "engagement": {
+        "likes": 316,
+        "retweets": 10,
+        "replies": 12
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2103360292973633770",
+      "type": "tweet",
+      "builder": "Nikunj Kothari",
+      "title": "“我们相信，每一位小企业主，特别是我们这些从事贸易行业的企业主，都会……”",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：“we believe that every small business owner, specifically for us in the trades, will have bespoke software, and that…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "“we believe that every small business owner, specifically for us in the trades, wil…",
+      "originalBody": "“we believe that every small business owner, specifically for us in the trades, will have bespoke software, \n\nand that last mile is actually where differentiation can become, where you can provide a unique experience to your customers, to your employees” https://t.co/WhBtmHmGqZ https://t.co/IIQ90vD7mZ",
+      "translatedTitle": "“我们相信，每一位小企业主，特别是我们这些从事贸易行业的企业主，都会……”",
+      "translatedBody": "“我们相信，每一位小型企业主，尤其是像我们这样的贸易从业者，都需要定制软件，\n\n而这最后一公里恰恰是实现差异化的关键所在，您可以在这里为您的客户和员工提供独特的体验。” https://t.co/WhBtmHmGqZ https://t.co/IIQ90vD7mZ",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/nikunj/status/2103360292973633770",
+      "publishedAt": "2026-09-25T05:45:47.000Z",
+      "score": 34.84,
+      "engagement": {
+        "likes": 4,
+        "retweets": 0,
+        "replies": 0
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2103212052391354794",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "这样您就可以自定义计划模式提示，创建并分享您自己的模式……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验：this should let you customize the plan mode prompt, create + share your own modes or just ignore it and rebind shift+…",
+      "whyItMatters": "Thariq 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "this should let you customize the plan mode prompt, create + share your own modes o…",
+      "originalBody": "this should let you customize the plan mode prompt, create + share your own modes or just ignore it and rebind shift+tab to something else all together",
+      "translatedTitle": "这样您就可以自定义计划模式提示，创建并分享您自己的模式……",
+      "translatedBody": "这样您就可以自定义计划模式提示，创建并分享您自己的模式，或者干脆忽略它，并将 Shift+Tab 重新绑定到其他功能。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2103212052391354794",
+      "publishedAt": "2026-09-24T19:56:43.000Z",
+      "score": 26.37,
+      "engagement": {
+        "likes": 137,
+        "retweets": 0,
+        "replies": 13
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-09-24T06:42:38.168Z",
-    "totalCandidates": 37,
-    "textQualifiedCandidates": 19,
+    "upstreamGeneratedAt": "2026-09-25T06:43:22.960Z",
+    "totalCandidates": 23,
+    "textQualifiedCandidates": 9,
     "selectedTweets": 8
   }
 }
