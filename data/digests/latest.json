@@ -1,104 +1,65 @@
 {
-  "date": "2026-09-27",
-  "generatedAt": "2026-09-27T04:35:00.665Z",
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-28T04:36:17.304Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-09-27",
-  "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 29 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-09-28",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 14 条候选动态里，筛出 3 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
     {
       "slug": "coding-agents",
       "label": "Coding Agents"
-    },
-    {
-      "slug": "foundation-models",
-      "label": "Foundation Models"
-    },
-    {
-      "slug": "product-ships",
-      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2103567198690349362",
+      "id": "2103939888513274147",
       "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "我们正在对代理商使用互联网账户的情况进行广泛且持续的审查……",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "There is an extensive and ongoing review related to our agents’ use of internet acc…",
-      "originalBody": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to.\n\nWe have not been as fast as we would have liked but we are trying to balance our desire for transparency with gaining a clear understanding from petabytes of agent activity logs, and working with impacted organizations.\n\nWe are prioritizing as best as we can based on severity, and adding resources. Hugging Face is still the most severe event we’ve seen. We will be as transparent as we can be subject to things like vulnerabilities in other companies that our agents have found, which will be their call to disclose or not.",
-      "translatedTitle": "我们正在对代理商使用互联网账户的情况进行广泛且持续的审查……",
-      "translatedBody": "我们正在对员工在培训和评估期间使用互联网的情况进行全面且持续的审查。我们已在下方链接发布了审查摘要，并将继续发布。\n\n我们的进展速度可能不如预期，但我们正在努力平衡透明度、从海量员工活动日志中获取清晰信息以及与受影响机构合作之间的关系。\n\n我们正在根据事件的严重程度尽可能地进行优先级排序并增加资源投入。“拥抱脸”事件仍然是我们迄今为止遇到的最严重的事件。我们将尽可能保持透明，但对于员工发现的其他公司存在的漏洞等情况，是否披露将由他们自行决定。",
+      "builder": "Guillermo Rauch",
+      "title": "拒绝无知。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Reject non-understanding. Slop grenades are not just code and PRs. We run a real risk that *reading* gets entirely di…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Reject non-understanding.",
+      "originalBody": "Reject non-understanding.\n\nSlop grenades are not just code and PRs. We run a real risk that *reading* gets entirely discounted, because of the exhaustion of getting low-quality and unverified AI prose being thrown at you all the time.\n\nThere's a thread going viral about a 'perf improvement' attributed to a compiler change. The PR *description* itself has the AI telling this person it's *not* due to the compiler change, it's how the algorithms and data structures have changed. And the implication is that a similar win could have been attained otherwise.\n\nI want AI in the service of understanding the universe and enhancing human cognition and creativity.",
+      "translatedTitle": "拒绝无知。",
+      "translatedBody": "拒绝不理解。\n\n垃圾信息不仅仅指代码和 PR。我们面临着一个真正的风险：由于不断被低质量、未经验证的 AI 代码轰炸，人们可能会完全忽略阅读的重要性。\n\n最近有个帖子疯传，说某个“性能提升”归功于编译器的更改。但 PR 的描述本身就表明，AI 告诉发帖人，性能提升并非来自编译器更改，而是算法和数据结构本身发生了变化。言下之意是，即使没有编译器，也能取得类似的效果。\n\n我希望 AI 能够服务于理解宇宙，并增强人类的认知和创造力。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2103567198690349362",
-      "publishedAt": "2026-09-25T19:27:57.000Z",
-      "score": 195.88,
+      "sourceUrl": "https://x.com/rauchg/status/2103939888513274147",
+      "publishedAt": "2026-09-26T20:08:53.000Z",
+      "score": 139.98,
       "engagement": {
-        "likes": 4856,
-        "retweets": 311,
-        "replies": 782
+        "likes": 1715,
+        "retweets": 124,
+        "replies": 122
       },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
+      "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2103564484602384855",
+      "id": "2103897226154328502",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "我们正在帮助像 @klaviyo 这样的世界级组织构建代理部署平台……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：We're helping world-class organizations like @klaviyo build agentic deployment platforms. ① Connect every agent (clau…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "We're helping world-class organizations like @klaviyo build agentic deployment plat…",
-      "originalBody": "We're helping world-class organizations like @klaviyo build agentic deployment platforms.\n\n① Connect every agent (claude, codex, cursor…)\n② Configure SSO via their IDP (Okta, Entra)\n③ Now everyone can cook, securely®\n\nWhat happens to SaaS once every company sets this up? I get this question a lot 😁\n\nFirst, the data must come from somewhere. These apps only work if they can be infused with business data.\n\nThis is why we see the big enterprise SaaS players suddenly prioritize shipping CLIs and MCPs. Or dust off APIs they were neglecting for years.\n\nThe new 'procurement bar' will be how ergonomic your product is for *agents*, rather than humans. How easily they can navigate your ontology and work with your data.\n\nOnce that's in place, there's a long tail of SaaS applications that I suspect will never be bought again. They'll be generated. They'll be more secure, more performant, more modern, and tailored to each company's and employee's needs.",
-      "translatedTitle": "我们正在帮助像 @klaviyo 这样的世界级组织构建代理部署平台……",
-      "translatedBody": "我们正在帮助像 @klaviyo 这样的世界级组织构建代理部署平台。\n\n① 连接所有代理（Claude、Codex、Curros 等）\n\n② 通过其身份提供商 (IDP)（Okta、Entra）配置单点登录 (SSO)\n\n③ 现在每个人都可以安全地烹饪®\n\n一旦每家公司都搭建好这个平台，SaaS 会发生什么变化？我经常被问到这个问题😁\n\n首先，数据必须来自某个地方。这些应用程序只有在能够融入业务数据的情况下才能正常工作。\n\n这就是为什么我们看到大型企业级 SaaS 厂商突然开始优先推出 CLI 和 MCP，或者重新启用他们多年来一直搁置的 API。\n\n新的“采购标准”将是你的产品对*代理*（而非人类）的易用性。他们能否轻松地浏览你的本体并处理你的数据。\n\n一旦这一切实现，我怀疑会有一大批 SaaS 应用程序永远不会再被购买。它们将被自动生成。它们将更加安全、性能更佳、更加现代化，并能满足每家公司和员工的需求。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2103564484602384855",
-      "publishedAt": "2026-09-25T19:17:10.000Z",
-      "score": 179.41,
-      "engagement": {
-        "likes": 183,
-        "retweets": 14,
-        "replies": 47
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2103543983557517340",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "https://t.co/5JpYvhlpkR 的增长速度令人难以置信。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The growth of https://t.co/5JpYvhlpkR has been mind-boggling. I watched it grow from idea, to first ship, to 𝚗𝚙𝚡 \ud835…",
+      "builder": "Thariq",
+      "title": "大约一年前，我发布了最早的几篇关于使用 Claude Code 进行编程的文章之一……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Just about 1 year ago I posted one of the first posts about using Claude Code to make videos. Each of these actually…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The growth of https://t.co/5JpYvhlpkR has been mind-boggling.",
-      "originalBody": "The growth of https://t.co/5JpYvhlpkR has been mind-boggling. I watched it grow from idea, to first ship, to 𝚗𝚙𝚡 𝚜𝚔𝚒𝚕𝚕𝚜 being on every README of the internet.\n\nWe used to write code, now we write English. https://t.co/jrmPFjQKms",
-      "translatedTitle": "https://t.co/5JpYvhlpkR 的增长速度令人难以置信。",
-      "translatedBody": "https://t.co/5JpYvhlpkR 的发展速度令人惊叹。我亲眼见证了它从最初的构想到第一个版本发布，再到如今出现在互联网上所有 README 文件中。\n\n我们过去写代码，现在我们写英语。https://t.co/jrmPFjQKms",
+      "originalTitle": "Just about 1 year ago I posted one of the first posts about using Claude Code to ma…",
+      "originalBody": "Just about 1 year ago I posted one of the first posts about using Claude Code to make videos.\n\nEach of these actually took a long time to iterate with Claude and get right, pointing out details that were wrong, etc.\n\nCrazy how far things have come. https://t.co/nooto6qxEj",
+      "translatedTitle": "大约一年前，我发布了最早的几篇关于使用 Claude Code 进行编程的文章之一……",
+      "translatedBody": "大约一年前，我发布了最早一批关于使用 Claude Code 制作视频的文章。\n\n实际上，我花了很长时间与 Claude 反复迭代，力求完美，指出其中的错误等等。\n\n真是令人难以置信，技术发展至今已经取得了如此巨大的进步。https://t.co/nooto6qxEj",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2103543983557517340",
-      "publishedAt": "2026-09-25T17:55:42.000Z",
-      "score": 156.36,
+      "sourceUrl": "https://x.com/trq212/status/2103897226154328502",
+      "publishedAt": "2026-09-26T17:19:21.000Z",
+      "score": 62.43,
       "engagement": {
-        "likes": 331,
-        "retweets": 7,
-        "replies": 43
+        "likes": 1101,
+        "retweets": 32,
+        "replies": 99
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -106,138 +67,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2103629073595728372",
+      "id": "2104068570938499350",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "你无法自动化你无法衡量的东西。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：You can’t automate what you can’t measure. This means that evals are one of the gates to diffusion of AI in the enter…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "You can’t automate what you can’t measure.",
-      "originalBody": "You can’t automate what you can’t measure. This means that evals are one of the gates to diffusion of AI in the enterprise. \n\nWe can test our deterministic processes through software, but most enterprises have no useful way of understanding how their non-deterministic processes are working today. Specifically the work that agents are doing for them.\n\nEvals are mission critical for enterprises adopting AI because you have no other way of knowing what’s working, what’s broken, what changed, what improved, what you can do more of, etc. if you don’t have a good sense of how agents work in your environment today. All changes, upgrades, and deployments are downstream from good evals.\n\nNot only are we going to get vastly more domain specific evals over time for the labs and across the industry, but every enterprise will also need a clear sense of how agents are performing in their environment as well. Huge opportunity.",
-      "translatedTitle": "你无法自动化你无法衡量的东西。",
-      "translatedBody": "你无法自动化你无法衡量的东西。这意味着评估是人工智能在企业中普及的关键环节之一。\n\n我们可以通过软件测试确定性流程，但大多数企业目前没有有效的方法来了解其非确定性流程的运行情况，特别是智能体为他们所做的工作。\n\n对于采用人工智能的企业而言，评估至关重要，因为如果你不了解智能体在当前环境中的运行情况，你就无法知道哪些有效、哪些无效、哪些发生了变化、哪些有所改进、哪些方面可以改进等等。所有变更、升级和部署都源于有效的评估。\n\n随着时间的推移，我们不仅会在实验室和整个行业中获得更多特定领域的评估，而且每个企业也都需要清楚地了解智能体在其环境中的运行情况。这是一个巨大的机遇。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2103629073595728372",
-      "publishedAt": "2026-09-25T23:33:49.000Z",
-      "score": 104.85,
-      "engagement": {
-        "likes": 195,
-        "retweets": 22,
-        "replies": 45
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2103538666597691552",
-      "type": "tweet",
-      "builder": "Boris Cherny",
-      "title": "Tag每天撰写我提交的PR超过50%。",
-      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Tag writes >50% of my PRs every day. It also does ~100% of my data analysis, and fixes most of our product feedback +…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Tag writes >50% of my PRs every day.",
-      "originalBody": "Tag writes >50% of my PRs every day. It also does ~100% of my data analysis, and fixes most of our product feedback + bugs.\n\nIt's not like a regular Slack bot. It is proactive, programmable, it has memory, it has access to your connectors. With Opus 5.5 and Fable 5.1, it has strong judgement.\n\nExample prompts I use:\n\n- \"@Claude react to threads in this channel with ✅ when resolved\"\n- \"@Claude from now on, attempt to repro every bug in this channel end to end, running the full app. once you reproduce the bug, put up a pr to fix it and tag the right team for code review\"\n- \"@Claude brainstorm ~100 hypotheses for what could explain this weird data, use a workflow to in/validate. spend 10m tokens or so digging very deep. draw a chart with the result.\"\n- \"@Claude make me an interactive game explaining how this part of the code works, then make a slide deck explaining it for others on the team\"\n\nhttps://t.co/gmsALM8Lvs",
-      "translatedTitle": "Tag每天撰写我提交的PR超过50%。",
-      "translatedBody": "Tag 每天帮我提交超过 50% 的 PR。它还负责我大约 100% 的数据分析，并修复了我们大部分的产品反馈和 bug。\n\n它不像普通的 Slack 机器人。它主动、可编程、有内存，并且可以访问你的连接器。借助 Opus 5.5 和 Fable 5.1，它拥有强大的判断力。\n\n我使用的示例提示：\n\n- “@Claude，当此频道中的问题解决时，请用 ✅ 标记它。”\n\n- “@Claude，从现在开始，尝试完整地复现此频道中的每个 bug，运行完整的应用程序。一旦复现了 bug，请提交一个 PR 来修复它，并标记相应的团队进行代码审查。”\n\n- “@Claude，集思广益，提出大约 100 个可能解释这些奇怪数据的假设，使用工作流进行验证。花费大约 1000 万代币进行深入挖掘。绘制一张图表来展示结果。”\n\n- “@Claude，帮我做一个互动游戏，解释一下这部分代码的工作原理，然后再做一个幻灯片，给团队里的其他人讲解一下。”\n\nhttps://t.co/gmsALM8Lvs",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/bcherny/status/2103538666597691552",
-      "publishedAt": "2026-09-25T17:34:34.000Z",
-      "score": 87.9,
-      "engagement": {
-        "likes": 1096,
-        "retweets": 52,
-        "replies": 159
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2103576349499855160",
-      "type": "tweet",
-      "builder": "Thariq",
-      "title": "努力究竟是什么？",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：What is effort really? When do you change it it and why not just use max effort for everything? I dove deep into this…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "What is effort really?",
-      "originalBody": "What is effort really? When do you change it it and why not just use max effort for everything?\n\nI dove deep into this problem, looking into evals and doing my own tests and I was quite surprised by the results. https://t.co/KO2D51j34H",
-      "translatedTitle": "努力究竟是什么？",
-      "translatedBody": "努力程度究竟是什么？何时需要调整努力程度？为什么不直接用最大努力程度来衡量所有情况？\n\n我深入研究了这个问题，查阅了评估报告并进行了自己的测试，结果令我颇感意外。https://t.co/KO2D51j34H",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2103576349499855160",
-      "publishedAt": "2026-09-25T20:04:18.000Z",
-      "score": 68.65,
-      "engagement": {
-        "likes": 3517,
-        "retweets": 260,
-        "replies": 201
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2103696644558704796",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我认为Muse的UI和吉祥物都很棒，但它的底层模式却值得商榷……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I think Muse has an incredible UI and mascot but the underlying model it’s questionable how smart it is. Makes sense…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "I think Muse has an incredible UI and mascot but the underlying model it’s question…",
-      "originalBody": "I think Muse has an incredible UI and mascot but the underlying model it’s questionable how smart it is.\n\nMakes sense if it’s not that smart since this is meant to scale to a billion people",
-      "translatedTitle": "我认为Muse的UI和吉祥物都很棒，但它的底层模式却值得商榷……",
-      "translatedBody": "我认为 Muse 的用户界面和吉祥物都非常出色，但它的底层模型是否足够智能却值得怀疑。\n\n如果它不够智能，也情有可原，毕竟它的目标是服务十亿用户。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2103696644558704796",
-      "publishedAt": "2026-09-26T04:02:19.000Z",
-      "score": 64.61,
-      "engagement": {
-        "likes": 12,
-        "retweets": 1,
-        "replies": 1
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2103648679169257737",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "我们将 OC 迁移到 sqlite 时犯的最大设计错误是：使用了同步数据库访问。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The biggest design mistake I made when we moved OC to sqlite: using sync db access. When it was just an agent that re…",
+      "builder": "Garry Tan",
+      "title": "大多数人在社交媒体上发泄愤怒，却不知道该如何真正地去影响他人……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Most people get mad on social media but don’t know what to do to actually effect change We think you should come to a…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The biggest design mistake I made when we moved OC to sqlite: using sync db access.",
-      "originalBody": "The biggest design mistake I made when we moved OC to sqlite: using sync db access. When it was just an agent that reports to you on Slack or iMessage this was fine; now that one agent might do 50 sessions in parallel and the whole team works on it, it is limiting.\n\nI have a /goal with Astra that so far landed 575 PRs to move everything to to async workers. We ship these improvements as we make progress. Pretty insane how even huge refactors are no longer scary.",
-      "translatedTitle": "我们将 OC 迁移到 sqlite 时犯的最大设计错误是：使用了同步数据库访问。",
-      "translatedBody": "我们将 OC 迁移到 SQLite 时犯的最大设计错误是：使用了同步数据库访问。以前只是一个代理程序通过 Slack 或 iMessage 向你汇报数据时，这种方式还好；但现在一个代理程序可能要同时处理 50 个会话，而且整个团队都在参与，这就限制了它的功能。\n\n我与 Astra 合作制定了一个目标，目前已经提交了 575 个 PR，旨在将所有功能迁移到异步工作进程。我们会随着项目的进展逐步发布这些改进。令人难以置信的是，即使是大规模的重构现在也不再让人感到畏惧了。",
+      "originalTitle": "Most people get mad on social media but don’t know what to do to actually effect ch…",
+      "originalBody": "Most people get mad on social media but don’t know what to do to actually effect change\n\nWe think you should come to a Garry’s List event and meet other people and organize to make it happen \n\nMad about our kids educations? Come to a house party and organize for merit. https://t.co/jyzrVxv0SI",
+      "translatedTitle": "大多数人在社交媒体上发泄愤怒，却不知道该如何真正地去影响他人……",
+      "translatedBody": "大多数人在社交媒体上发泄不满，却不知道该如何真正做出改变。\n\n我们建议您参加 Garry's List 的活动，结识其他志同道合的人，共同组织起来，推动变革。\n\n为孩子的教育感到愤怒吗？来参加我们的家庭聚会，一起为优秀学生争取权益吧！https://t.co/jyzrVxv0SI",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2103648679169257737",
-      "publishedAt": "2026-09-26T00:51:43.000Z",
-      "score": 62.2,
+      "sourceUrl": "https://x.com/garrytan/status/2104068570938499350",
+      "publishedAt": "2026-09-27T04:40:13.000Z",
+      "score": 45.5,
       "engagement": {
-        "likes": 1043,
-        "retweets": 46,
-        "replies": 82
+        "likes": 32,
+        "retweets": 2,
+        "replies": 9
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -246,9 +95,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-09-26T06:39:22.753Z",
-    "totalCandidates": 29,
-    "textQualifiedCandidates": 13,
-    "selectedTweets": 8
+    "upstreamGeneratedAt": "2026-09-27T06:41:10.021Z",
+    "totalCandidates": 14,
+    "textQualifiedCandidates": 3,
+    "selectedTweets": 3
   }
 }
