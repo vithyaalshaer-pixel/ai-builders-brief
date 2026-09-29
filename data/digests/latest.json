@@ -1,103 +1,249 @@
 {
-  "date": "2026-09-28",
-  "generatedAt": "2026-09-28T04:36:17.304Z",
+  "date": "2026-09-29",
+  "generatedAt": "2026-09-29T05:04:17.202Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-09-28",
+  "title": "AI Builders Daily | 2026-09-29",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 14 条候选动态里，筛出 3 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 25 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
     {
       "slug": "coding-agents",
       "label": "Coding Agents"
+    },
+    {
+      "slug": "foundation-models",
+      "label": "Foundation Models"
+    },
+    {
+      "slug": "product-ships",
+      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2103939888513274147",
+      "id": "2104428800134013205",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "拒绝无知。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Reject non-understanding. Slop grenades are not just code and PRs. We run a real risk that *reading* gets entirely di…",
-      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Reject non-understanding.",
-      "originalBody": "Reject non-understanding.\n\nSlop grenades are not just code and PRs. We run a real risk that *reading* gets entirely discounted, because of the exhaustion of getting low-quality and unverified AI prose being thrown at you all the time.\n\nThere's a thread going viral about a 'perf improvement' attributed to a compiler change. The PR *description* itself has the AI telling this person it's *not* due to the compiler change, it's how the algorithms and data structures have changed. And the implication is that a similar win could have been attained otherwise.\n\nI want AI in the service of understanding the universe and enhancing human cognition and creativity.",
-      "translatedTitle": "拒绝无知。",
-      "translatedBody": "拒绝不理解。\n\n垃圾信息不仅仅指代码和 PR。我们面临着一个真正的风险：由于不断被低质量、未经验证的 AI 代码轰炸，人们可能会完全忽略阅读的重要性。\n\n最近有个帖子疯传，说某个“性能提升”归功于编译器的更改。但 PR 的描述本身就表明，AI 告诉发帖人，性能提升并非来自编译器更改，而是算法和数据结构本身发生了变化。言下之意是，即使没有编译器，也能取得类似的效果。\n\n我希望 AI 能够服务于理解宇宙，并增强人类的认知和创造力。",
+      "title": "我¹将我的迷你网页浏览器移植到了Rust和Swift。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I¹ ported my Mini web browser to Rust & Swift. It's faster, more secure, and shockingly, nicer to iterate on than Ele…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I¹ ported my Mini web browser to Rust & Swift.",
+      "originalBody": "I¹ ported my Mini web browser to Rust & Swift. It's faster, more secure, and shockingly, nicer to iterate on than Electron + Bun.\n\nI always wanted Safari-like UX but… Chrome 😁. Thanks to the 𝚌𝚎𝚏 crate, I can bundle up-to-date Chromium.\n\n𝚏𝚡 𝚊𝚌𝚙 lets me embed an agent without bloating the app. It talks to my local fx CLI over ACP. fx can then manage the browser via an MCP server².\n\nBy ditching Electron, I was able to get Liquid Glass, faster boots, and a more Mac-native feeling. Little things like fine-grained focus and input control, which are nightmare fuel in JS, just work®.\n\nNative is the future, both on the desktop and in the cloud. I suspect the entire software world will \"nativify\" faster than people realize, as DHH hinted at Rails World. Excited that Vercel's bet on Fluid will help support this, whether you choose to go Rust, Go, Zig, scriptc…\n\n¹ Built on https://t.co/OL0LzGsXKY with Opus 5.5 and Sol 6\n² In the process I learned about https://t.co/sJoQWFreGF, which I'm now really excited about. This will allow a more secure and direct way to expose MCP tools",
+      "translatedTitle": "我¹将我的迷你网页浏览器移植到了Rust和Swift。",
+      "translatedBody": "我¹将我的 Mini 网页浏览器移植到了 Rust 和 Swift。它比 Electron + Bun 更快、更安全，而且令人惊讶的是，迭代起来也更方便。\n\n我一直想要类似 Safari 的用户体验，但是……Chrome 😁。多亏了 𝚌𝚎𝚏 crate，我可以打包最新的 Chromium 内核。\n\n𝚏𝚡 𝚊𝚌𝚙 让我可以在不增加应用体积的情况下嵌入代理。它通过 ACP 与我的本地 fx CLI 通信。然后 fx 可以通过 MCP 服务器² 管理浏览器。\n\n放弃 Electron 后，我获得了 Liquid Glass 界面、更快的启动速度以及更接近 Mac 原生体验的感觉。像精细的焦点控制和输入控制这样的小功能，在 JS 中简直是噩梦，现在却能轻松实现®。\n\n原生开发是未来，无论是在桌面还是云端。我怀疑整个软件界的“原生化”速度会比人们想象的更快，正如 DHH 在 Rails World 大会上暗示的那样。Vercel 对 Fluid 的押注将有助于推动这一进程，无论你选择 Rust、Go、Zig 还是其他语言……\n\n¹ 基于 https://t.co/OL0LzGsXKY，使用 Opus 5.5 和 Sol 6 构建\n\n² 在此过程中，我了解到了 https://t.co/sJoQWFreGF，现在我对此非常兴奋。这将提供一种更安全、更直接的方式来暴露 MCP 工具。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2103939888513274147",
-      "publishedAt": "2026-09-26T20:08:53.000Z",
-      "score": 139.98,
+      "sourceUrl": "https://x.com/rauchg/status/2104428800134013205",
+      "publishedAt": "2026-09-28T04:31:39.000Z",
+      "score": 158.6,
       "engagement": {
-        "likes": 1715,
-        "retweets": 124,
-        "replies": 122
+        "likes": 508,
+        "retweets": 15,
+        "replies": 61
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2104261424625381528",
+      "type": "tweet",
+      "builder": "Amanda Askell",
+      "title": "我想知道我讨厌香水是不是因为我从来没有拥有过一款好香水。",
+      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I wanted to know if I only hate perfume because I've never owned a nice one. So I researched a bunch of the fanciest…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "I wanted to know if I only hate perfume because I've never owned a nice one.",
+      "originalBody": "I wanted to know if I only hate perfume because I've never owned a nice one. So I researched a bunch of the fanciest and most well reviewed perfumes and bought a tiny sample bottle of each. I can now confidently confirm that all perfume smells disgusting.",
+      "translatedTitle": "我想知道我讨厌香水是不是因为我从来没有拥有过一款好香水。",
+      "translatedBody": "我想知道我讨厌香水是不是因为我从来没拥有过一款好香水。所以我研究了很多最高级、评价最高的香水，然后每款都买了一小瓶试用装。现在我可以肯定地说，所有香水闻起来都很难闻。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/AmandaAskell/status/2104261424625381528",
+      "publishedAt": "2026-09-27T17:26:33.000Z",
+      "score": 86.71,
+      "engagement": {
+        "likes": 869,
+        "retweets": 14,
+        "replies": 166
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2104350592290406849",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "思考一下在一个代理人开始制造……的世界里，所有可能产生的影响，这很有意思。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Interesting to think about all the implications in a world where agents begin to make the best or most efficient choi…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Interesting to think about all the implications in a world where agents begin to ma…",
+      "originalBody": "Interesting to think about all the implications in a world where agents begin to make the best or most efficient choice for their users.\n\nOn one hand, there is some subset of the economy that benefits from the friction customers traditionally have changing something about their habits. In those parts of the market, switching costs will come down and competition is going to increase dramatically until some equilibrium is reached between the disruptive alternatives and the incumbents.\n\nOn the other hand, there are lots of markets that are hurt by a significant amount of friction, where agents will begin to unlock all kinds of economic activity by making it far easier to buy products or services that were too frictionful before. Healthcare, travel, local services, certain information services, and other entirely new markets probably are net beneficiaries of agents as a result.\n\nNo matter what, a future meaningfully mediated by agents that work tirelessly for us and our goals can’t possibly function exactly the same as today. Going to be wild.",
+      "translatedTitle": "思考一下在一个代理人开始制造……的世界里，所有可能产生的影响，这很有意思。",
+      "translatedBody": "思考一下，如果代理人开始为用户做出最佳或最高效的选择，将会带来哪些影响，这着实令人兴奋。\n\n一方面，经济的某些子领域会受益于消费者在改变习惯时遇到的阻力。在这些市场领域，转换成本将会降低，竞争也将急剧加剧，直至颠覆性替代方案与现有企业之间达到某种平衡。\n\n另一方面，许多市场正因巨大的阻力而遭受损失，代理人将通过简化以往购买产品或服务的流程，释放各种经济活动的潜力。医疗保健、旅游、本地服务、某些信息服务以及其他全新的市场很可能因此成为代理人的净受益者。\n\n无论如何，一个由为我们和我们的目标不懈努力的代理人有效协调的未来，其运作方式绝不可能与今天完全相同。未来将会充满变数。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2104350592290406849",
+      "publishedAt": "2026-09-27T23:20:52.000Z",
+      "score": 79.43,
+      "engagement": {
+        "likes": 174,
+        "retweets": 19,
+        "replies": 47
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2104414495376564517",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "注意，几乎没有人对他们使用过的SaaS或商业软件有美好的回忆……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Notice how almost nobody has fond memories of SaaS or business software that they used back in the day but everyone r…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Notice how almost nobody has fond memories of SaaS or business software that they u…",
+      "originalBody": "Notice how almost nobody has fond memories of SaaS or business software that they used back in the day but everyone remembers their favorite games. \n\nGames really are the software that has the longest staying power in our memories.\n\nLLM models are probably the inverse of that 😂",
+      "translatedTitle": "注意，几乎没有人对他们使用过的SaaS或商业软件有美好的回忆……",
+      "translatedBody": "注意，几乎没有人会对以前用过的SaaS或商业软件留下美好的回忆，但每个人都记得自己最喜欢的游戏。\n\n游戏确实是记忆中最持久的软件。\n\nLLM模型可能恰恰相反😂",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2104414495376564517",
+      "publishedAt": "2026-09-28T03:34:48.000Z",
+      "score": 73.42,
+      "engagement": {
+        "likes": 57,
+        "retweets": 0,
+        "replies": 21
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2104108167806550046",
+      "type": "tweet",
+      "builder": "Thibault Sottiaux",
+      "title": "在发布版本之前进行代码冻结已经不再是惯例了，未来代码……",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Code freeze isn’t really a thing anymore before releases and in the future the code might even be generated online pe…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Code freeze isn’t really a thing anymore before releases and in the future the code…",
+      "originalBody": "Code freeze isn’t really a thing anymore before releases and in the future the code might even be generated online per request according to some constraints.",
+      "translatedTitle": "在发布版本之前进行代码冻结已经不再是惯例了，未来代码……",
+      "translatedBody": "在版本发布之前，代码冻结已经不再是一种惯例，未来代码甚至可能根据某些限制条件在线按需生成。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thsottiaux/status/2104108167806550046",
+      "publishedAt": "2026-09-27T07:17:34.000Z",
+      "score": 71.54,
+      "engagement": {
+        "likes": 6051,
+        "retweets": 165,
+        "replies": 779
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2104305554760114488",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "相同的。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Same. @useblacksmith has been an amazing sponsor but we need to distribute the load. My plan is to let codex decide w…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Same.",
+      "originalBody": "Same. @useblacksmith has been an amazing sponsor but we need to distribute the load. \n\nMy plan is to let codex decide which tests actually need to run and drastically nix CI and run tests hourly. https://t.co/Yo4PYOT2cI",
+      "translatedTitle": "相同的。",
+      "translatedBody": "没错。@useblacksmith 一直是非常棒的赞助商，但我们需要分担工作量。\n\n我的计划是让 Codex 决定哪些测试需要运行，并彻底取消持续集成 (CI)，改为每小时运行一次测试。https://t.co/Yo4PYOT2cI",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2104305554760114488",
+      "publishedAt": "2026-09-27T20:21:55.000Z",
+      "score": 59.4,
+      "engagement": {
+        "likes": 571,
+        "retweets": 14,
+        "replies": 90
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2104266890726309908",
+      "type": "tweet",
+      "builder": "Amanda Askell",
+      "title": "诚然，我讨厌很多气味，但我喜欢新鲜空气的味道……",
+      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Admittedly I'm averse to a lot of smells, but I like things like the smell of a fresh orange. The perfumes that are s…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "Admittedly I'm averse to a lot of smells, but I like things like the smell of a fre…",
+      "originalBody": "Admittedly I'm averse to a lot of smells, but I like things like the smell of a fresh orange. The perfumes that are supposed to be realistic and citrusy smell at best like orange layered over skunk.",
+      "translatedTitle": "诚然，我讨厌很多气味，但我喜欢新鲜空气的味道……",
+      "translatedBody": "我承认我讨厌很多气味，但我喜欢新鲜橙子的味道。那些号称逼真、柑橘香调的香水，闻起来充其量就像是橙子味和臭鼬味混在一起。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/AmandaAskell/status/2104266890726309908",
+      "publishedAt": "2026-09-27T17:48:16.000Z",
+      "score": 50.47,
+      "engagement": {
+        "likes": 104,
+        "retweets": 1,
+        "replies": 17
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2104253882025341231",
+      "type": "tweet",
+      "builder": "Zara Zhang",
+      "title": "那些问“为什么你一直发帖却不通过内容盈利”的人并不了解……",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验：People who ask “why do you keep posting without monetizing your content” don’t understand that: 1. Self-expression is…",
+      "whyItMatters": "Zara Zhang 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "People who ask “why do you keep posting without monetizing your content” don’t unde…",
+      "originalBody": "People who ask “why do you keep posting without monetizing your content” don’t understand that:\n\n1. Self-expression is an innate human instinct that requires no justification or utilitarian motive\n2. Influence is so much more valuable than money",
+      "translatedTitle": "那些问“为什么你一直发帖却不通过内容盈利”的人并不了解……",
+      "translatedBody": "那些问“你为什么不通过内容盈利而一直发帖”的人不明白：\n\n1. 自我表达是人类与生俱来的本能，无需任何理由或功利动机。\n\n2. 影响力远比金钱更有价值。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/zarazhangrui/status/2104253882025341231",
+      "publishedAt": "2026-09-27T16:56:35.000Z",
+      "score": 31.82,
+      "engagement": {
+        "likes": 354,
+        "retweets": 22,
+        "replies": 33
       },
       "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2103897226154328502",
-      "type": "tweet",
-      "builder": "Thariq",
-      "title": "大约一年前，我发布了最早的几篇关于使用 Claude Code 进行编程的文章之一……",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Just about 1 year ago I posted one of the first posts about using Claude Code to make videos. Each of these actually…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Just about 1 year ago I posted one of the first posts about using Claude Code to ma…",
-      "originalBody": "Just about 1 year ago I posted one of the first posts about using Claude Code to make videos.\n\nEach of these actually took a long time to iterate with Claude and get right, pointing out details that were wrong, etc.\n\nCrazy how far things have come. https://t.co/nooto6qxEj",
-      "translatedTitle": "大约一年前，我发布了最早的几篇关于使用 Claude Code 进行编程的文章之一……",
-      "translatedBody": "大约一年前，我发布了最早一批关于使用 Claude Code 制作视频的文章。\n\n实际上，我花了很长时间与 Claude 反复迭代，力求完美，指出其中的错误等等。\n\n真是令人难以置信，技术发展至今已经取得了如此巨大的进步。https://t.co/nooto6qxEj",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2103897226154328502",
-      "publishedAt": "2026-09-26T17:19:21.000Z",
-      "score": 62.43,
-      "engagement": {
-        "likes": 1101,
-        "retweets": 32,
-        "replies": 99
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2104068570938499350",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "大多数人在社交媒体上发泄愤怒，却不知道该如何真正地去影响他人……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Most people get mad on social media but don’t know what to do to actually effect change We think you should come to a…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Most people get mad on social media but don’t know what to do to actually effect ch…",
-      "originalBody": "Most people get mad on social media but don’t know what to do to actually effect change\n\nWe think you should come to a Garry’s List event and meet other people and organize to make it happen \n\nMad about our kids educations? Come to a house party and organize for merit. https://t.co/jyzrVxv0SI",
-      "translatedTitle": "大多数人在社交媒体上发泄愤怒，却不知道该如何真正地去影响他人……",
-      "translatedBody": "大多数人在社交媒体上发泄不满，却不知道该如何真正做出改变。\n\n我们建议您参加 Garry's List 的活动，结识其他志同道合的人，共同组织起来，推动变革。\n\n为孩子的教育感到愤怒吗？来参加我们的家庭聚会，一起为优秀学生争取权益吧！https://t.co/jyzrVxv0SI",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2104068570938499350",
-      "publishedAt": "2026-09-27T04:40:13.000Z",
-      "score": 45.5,
-      "engagement": {
-        "likes": 32,
-        "retweets": 2,
-        "replies": 9
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-09-27T06:41:10.021Z",
-    "totalCandidates": 14,
-    "textQualifiedCandidates": 3,
-    "selectedTweets": 3
+    "upstreamGeneratedAt": "2026-09-28T06:57:29.581Z",
+    "totalCandidates": 25,
+    "textQualifiedCandidates": 11,
+    "selectedTweets": 8
   }
 }
