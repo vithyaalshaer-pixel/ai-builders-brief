@@ -1,10 +1,10 @@
 {
-  "date": "2026-09-29",
-  "generatedAt": "2026-09-29T05:04:17.202Z",
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-30T04:51:10.180Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-09-29",
+  "title": "AI Builders Daily | 2026-09-30",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 25 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 34 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,109 +23,53 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2104428800134013205",
+      "id": "2104660502723072281",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "我¹将我的迷你网页浏览器移植到了Rust和Swift。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I¹ ported my Mini web browser to Rust & Swift. It's faster, more secure, and shockingly, nicer to iterate on than Ele…",
+      "title": "我们尽可能减少干预，迁移了 https://t.co/ftag8z6AlW，并进行了设置……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We migrated https://t.co/ftag8z6AlW with as little intervention as possible, setting out to prove just how much faste…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I¹ ported my Mini web browser to Rust & Swift.",
-      "originalBody": "I¹ ported my Mini web browser to Rust & Swift. It's faster, more secure, and shockingly, nicer to iterate on than Electron + Bun.\n\nI always wanted Safari-like UX but… Chrome 😁. Thanks to the 𝚌𝚎𝚏 crate, I can bundle up-to-date Chromium.\n\n𝚏𝚡 𝚊𝚌𝚙 lets me embed an agent without bloating the app. It talks to my local fx CLI over ACP. fx can then manage the browser via an MCP server².\n\nBy ditching Electron, I was able to get Liquid Glass, faster boots, and a more Mac-native feeling. Little things like fine-grained focus and input control, which are nightmare fuel in JS, just work®.\n\nNative is the future, both on the desktop and in the cloud. I suspect the entire software world will \"nativify\" faster than people realize, as DHH hinted at Rails World. Excited that Vercel's bet on Fluid will help support this, whether you choose to go Rust, Go, Zig, scriptc…\n\n¹ Built on https://t.co/OL0LzGsXKY with Opus 5.5 and Sol 6\n² In the process I learned about https://t.co/sJoQWFreGF, which I'm now really excited about. This will allow a more secure and direct way to expose MCP tools",
-      "translatedTitle": "我¹将我的迷你网页浏览器移植到了Rust和Swift。",
-      "translatedBody": "我¹将我的 Mini 网页浏览器移植到了 Rust 和 Swift。它比 Electron + Bun 更快、更安全，而且令人惊讶的是，迭代起来也更方便。\n\n我一直想要类似 Safari 的用户体验，但是……Chrome 😁。多亏了 𝚌𝚎𝚏 crate，我可以打包最新的 Chromium 内核。\n\n𝚏𝚡 𝚊𝚌𝚙 让我可以在不增加应用体积的情况下嵌入代理。它通过 ACP 与我的本地 fx CLI 通信。然后 fx 可以通过 MCP 服务器² 管理浏览器。\n\n放弃 Electron 后，我获得了 Liquid Glass 界面、更快的启动速度以及更接近 Mac 原生体验的感觉。像精细的焦点控制和输入控制这样的小功能，在 JS 中简直是噩梦，现在却能轻松实现®。\n\n原生开发是未来，无论是在桌面还是云端。我怀疑整个软件界的“原生化”速度会比人们想象的更快，正如 DHH 在 Rails World 大会上暗示的那样。Vercel 对 Fluid 的押注将有助于推动这一进程，无论你选择 Rust、Go、Zig 还是其他语言……\n\n¹ 基于 https://t.co/OL0LzGsXKY，使用 Opus 5.5 和 Sol 6 构建\n\n² 在此过程中，我了解到了 https://t.co/sJoQWFreGF，现在我对此非常兴奋。这将提供一种更安全、更直接的方式来暴露 MCP 工具。",
+      "originalTitle": "We migrated https://t.co/ftag8z6AlW with as little intervention as possible, settin…",
+      "originalBody": "We migrated https://t.co/ftag8z6AlW with as little intervention as possible, setting out to prove just how much faster @vercel is. ~70% faster builds and ~75% faster paints. \n\nWe derived two AI skills from the migration that we'll be sharing back. It was a mature workload with a lot of \"$formerProvider-isms\", and yet the net of the work was done in under a week.\n\nIf it's [built / rendered / shipped] fast, it's on Vercel.",
+      "translatedTitle": "我们尽可能减少干预，迁移了 https://t.co/ftag8z6AlW，并进行了设置……",
+      "translatedBody": "我们尽可能减少对 https://t.co/ftag8z6AlW 的干预，完成了迁移，旨在证明 @vercel 的速度优势。构建速度提升约 70%，渲染速度提升约 75%。\n\n我们从这次迁移中提炼出了两项 AI 技能，并将与大家分享。这是一项成熟的工作负载，包含许多“原供应商特有的”操作，但最终我们在不到一周的时间内完成了所有工作。\n\n如果构建/渲染/发布速度快，那一定是用 Vercel 完成的。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2104428800134013205",
-      "publishedAt": "2026-09-28T04:31:39.000Z",
-      "score": 158.6,
+      "sourceUrl": "https://x.com/rauchg/status/2104660502723072281",
+      "publishedAt": "2026-09-28T19:52:21.000Z",
+      "score": 157.66,
       "engagement": {
-        "likes": 508,
-        "retweets": 15,
-        "replies": 61
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2104261424625381528",
-      "type": "tweet",
-      "builder": "Amanda Askell",
-      "title": "我想知道我讨厌香水是不是因为我从来没有拥有过一款好香水。",
-      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I wanted to know if I only hate perfume because I've never owned a nice one. So I researched a bunch of the fanciest…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "I wanted to know if I only hate perfume because I've never owned a nice one.",
-      "originalBody": "I wanted to know if I only hate perfume because I've never owned a nice one. So I researched a bunch of the fanciest and most well reviewed perfumes and bought a tiny sample bottle of each. I can now confidently confirm that all perfume smells disgusting.",
-      "translatedTitle": "我想知道我讨厌香水是不是因为我从来没有拥有过一款好香水。",
-      "translatedBody": "我想知道我讨厌香水是不是因为我从来没拥有过一款好香水。所以我研究了很多最高级、评价最高的香水，然后每款都买了一小瓶试用装。现在我可以肯定地说，所有香水闻起来都很难闻。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/AmandaAskell/status/2104261424625381528",
-      "publishedAt": "2026-09-27T17:26:33.000Z",
-      "score": 86.71,
-      "engagement": {
-        "likes": 869,
-        "retweets": 14,
-        "replies": 166
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2104350592290406849",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "思考一下在一个代理人开始制造……的世界里，所有可能产生的影响，这很有意思。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Interesting to think about all the implications in a world where agents begin to make the best or most efficient choi…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Interesting to think about all the implications in a world where agents begin to ma…",
-      "originalBody": "Interesting to think about all the implications in a world where agents begin to make the best or most efficient choice for their users.\n\nOn one hand, there is some subset of the economy that benefits from the friction customers traditionally have changing something about their habits. In those parts of the market, switching costs will come down and competition is going to increase dramatically until some equilibrium is reached between the disruptive alternatives and the incumbents.\n\nOn the other hand, there are lots of markets that are hurt by a significant amount of friction, where agents will begin to unlock all kinds of economic activity by making it far easier to buy products or services that were too frictionful before. Healthcare, travel, local services, certain information services, and other entirely new markets probably are net beneficiaries of agents as a result.\n\nNo matter what, a future meaningfully mediated by agents that work tirelessly for us and our goals can’t possibly function exactly the same as today. Going to be wild.",
-      "translatedTitle": "思考一下在一个代理人开始制造……的世界里，所有可能产生的影响，这很有意思。",
-      "translatedBody": "思考一下，如果代理人开始为用户做出最佳或最高效的选择，将会带来哪些影响，这着实令人兴奋。\n\n一方面，经济的某些子领域会受益于消费者在改变习惯时遇到的阻力。在这些市场领域，转换成本将会降低，竞争也将急剧加剧，直至颠覆性替代方案与现有企业之间达到某种平衡。\n\n另一方面，许多市场正因巨大的阻力而遭受损失，代理人将通过简化以往购买产品或服务的流程，释放各种经济活动的潜力。医疗保健、旅游、本地服务、某些信息服务以及其他全新的市场很可能因此成为代理人的净受益者。\n\n无论如何，一个由为我们和我们的目标不懈努力的代理人有效协调的未来，其运作方式绝不可能与今天完全相同。未来将会充满变数。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2104350592290406849",
-      "publishedAt": "2026-09-27T23:20:52.000Z",
-      "score": 79.43,
-      "engagement": {
-        "likes": 174,
-        "retweets": 19,
+        "likes": 429,
+        "retweets": 13,
         "replies": 47
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
+        "Coding Agents"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2104414495376564517",
+      "id": "2104689580045979811",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "注意，几乎没有人对他们使用过的SaaS或商业软件有美好的回忆……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Notice how almost nobody has fond memories of SaaS or business software that they used back in the day but everyone r…",
+      "builder": "Zara Zhang",
+      "title": "大家好，我想和我的粉丝们聊聊天！",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Hello, I'm looking to chat with some of my followers! If you're - building web-based/frontend experiences with AI but…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Notice how almost nobody has fond memories of SaaS or business software that they u…",
-      "originalBody": "Notice how almost nobody has fond memories of SaaS or business software that they used back in the day but everyone remembers their favorite games. \n\nGames really are the software that has the longest staying power in our memories.\n\nLLM models are probably the inverse of that 😂",
-      "translatedTitle": "注意，几乎没有人对他们使用过的SaaS或商业软件有美好的回忆……",
-      "translatedBody": "注意，几乎没有人会对以前用过的SaaS或商业软件留下美好的回忆，但每个人都记得自己最喜欢的游戏。\n\n游戏确实是记忆中最持久的软件。\n\nLLM模型可能恰恰相反😂",
+      "originalTitle": "Hello, I'm looking to chat with some of my followers!",
+      "originalBody": "Hello, I'm looking to chat with some of my followers!\nIf you're\n- building web-based/frontend experiences with AI but have a hard time making it look beautiful/not AI slop\n- seeing all these cool demos on X built with latest models but have no idea how to replicate them\n- are creating these cool demos yourself and would like to share your creation process/tips\nWould love to have a chat; DM me or comment below!",
+      "translatedTitle": "大家好，我想和我的粉丝们聊聊天！",
+      "translatedBody": "大家好，我想和一些粉丝聊聊！\n\n如果您：\n- 正在使用 AI 构建基于 Web 的前端体验，但苦于无法使其美观/避免 AI 痕迹过重\n\n- 看到 X 平台上用最新模型构建的各种炫酷演示，却不知如何复刻\n\n- 自己也在创建这些炫酷的演示，并想分享您的创作过程/技巧\n\n非常乐意与您交流；请私信我或在下方留言！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2104414495376564517",
-      "publishedAt": "2026-09-28T03:34:48.000Z",
-      "score": 73.42,
+      "sourceUrl": "https://x.com/zarazhangrui/status/2104689580045979811",
+      "publishedAt": "2026-09-28T21:47:53.000Z",
+      "score": 79.54,
       "engagement": {
-        "likes": 57,
-        "retweets": 0,
-        "replies": 21
+        "likes": 180,
+        "retweets": 1,
+        "replies": 71
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -134,53 +78,138 @@
       "sourceType": "x"
     },
     {
-      "id": "2104108167806550046",
+      "id": "2104636728992776510",
       "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "在发布版本之前进行代码冻结已经不再是惯例了，未来代码……",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Code freeze isn’t really a thing anymore before releases and in the future the code might even be generated online pe…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Code freeze isn’t really a thing anymore before releases and in the future the code…",
-      "originalBody": "Code freeze isn’t really a thing anymore before releases and in the future the code might even be generated online per request according to some constraints.",
-      "translatedTitle": "在发布版本之前进行代码冻结已经不再是惯例了，未来代码……",
-      "translatedBody": "在版本发布之前，代码冻结已经不再是一种惯例，未来代码甚至可能根据某些限制条件在线按需生成。",
+      "builder": "Dan Shipper",
+      "title": "SONNET 5.5 已发布！",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：SONNET 5.5 IS OUT! It has dramatically improved writing even versus Opus 5.5 in my testing for @every. Astra is still…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "SONNET 5.5 IS OUT!",
+      "originalBody": "SONNET 5.5 IS OUT! \n\nIt has dramatically improved writing even versus Opus 5.5 in my testing for @every. Astra is still my favorite for writing, but this model beats it at revision tasks.\n\nIt's faster and cheaper than Opus 5.5, so it's @kieranklaassen's preferred model for quick iterative coding and design work. \n\nBut both @kplikethebird and @hammer_mt feel like they don't have room in their stack for mid-tier models anymore.\n\nFull vibe check coming on @every! \n\nUntil then you can see Sonnet's scores vs. Opus and Astra on my personal benchmark, drawn from my real work: https://t.co/SpeDq9gVu6",
+      "translatedTitle": "SONNET 5.5 已发布！",
+      "translatedBody": "SONNET 5.5 发布啦！\n\n在我为 @every 进行的测试中，它的写作性能甚至比 Opus 5.5 还要出色。Astra 仍然是我最喜欢的写作工具，但 SONNET 在修改任务方面更胜一筹。\n\n它比 Opus 5.5 更快更便宜，因此 @kieranklaassen 将其作为快速迭代编码和设计工作的首选。\n\n但 @kplikethebird 和 @hammer_mt 都觉得他们的技术栈里已经没有空间再容纳中端型号了。\n\n@every 即将发布完整的体验报告！\n\n在此之前，您可以查看我个人基准测试中 Sonnet 与 Opus 和 Astra 的得分对比，该测试数据来自我的实际工作：https://t.co/SpeDq9gVu6",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2104108167806550046",
-      "publishedAt": "2026-09-27T07:17:34.000Z",
-      "score": 71.54,
+      "sourceUrl": "https://x.com/danshipper/status/2104636728992776510",
+      "publishedAt": "2026-09-28T18:17:53.000Z",
+      "score": 78.85,
       "engagement": {
-        "likes": 6051,
-        "retweets": 165,
-        "replies": 779
+        "likes": 203,
+        "retweets": 12,
+        "replies": 17
       },
       "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2104648654074343480",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "在 Box，我们一直在使用 Sonnet 5.5 的早期访问版本，对我们的复杂工作评估进行测试……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：At Box, we've been testing Sonnet 5.5 in early access on our complex work eval with the Box Agent, and Sonnet 5.5 is…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "At Box, we've been testing Sonnet 5.5 in early access on our complex work eval with…",
+      "originalBody": "At Box, we've been testing Sonnet 5.5 in early access on our complex work eval with the Box Agent, and Sonnet 5.5 is another strong jump from Sonnet 5 on knowledge work with enterprise content.\n\nAcross the board we saw a 4 pt overall improvement on our hardest tests, but it was roughly 2.4× faster to a finished deliverable on 12% fewer tokens. We also saw major wins in key verticals, like a +18 percentage point improvement in Financial Services, +7 pt in Legal, +8 pt in Life Sciences, and +7 pt in the Public Sector. \n\nHere are some specific wins on certain tasks that show the power of Sonnet 5.5:\n\n* Financial services (+48 points): a due-diligence review of a trading-tool acquisition, where the deal book's arithmetic doesn't hold up. Sonnet 5.5 caught the miscalculated interest totals and the mispriced options and flagged them, and it also finished this work about 61% faster.\n\n* Legal (+14 points): a commercial lease review. Sonnet 5.5 refused to invent a \"standard\" market benchmark for renewal terms and notice periods, and instead flagged what the lease was genuinely missing.\n\n* Life sciences (+22 points): writing up a field trial from the raw measurement data. Sonnet 5.5 got the sample standard deviations right across both treatment groups. Sonnet 5 missed nearly all of them. And Sonnet 5.5 did it about 41% faster.\n\n* Public sector (+11 points): a report on a math intervention program. Sonnet 5.5 pulled the right student progress-monitoring figures out of the underlying data, about 71% faster.\n\nCustomers will be able to build AI agents with Sonnet 5.5 in the Box AI Studio shortly.",
+      "translatedTitle": "在 Box，我们一直在使用 Sonnet 5.5 的早期访问版本，对我们的复杂工作评估进行测试……",
+      "translatedBody": "在 Box，我们一直在使用 Box Agent 对 Sonnet 5.5 的早期访问版本进行复杂工作评估测试。Sonnet 5.5 在处理企业内容的知识型工作方面，相比 Sonnet 5 有了显著提升。\n\n在所有最难的测试中，我们整体性能提升了 4 个百分点，交付最终成果的速度提升了约 2.4 倍，同时减少了 12% 的代币消耗。我们在关键垂直领域也取得了显著进展，例如金融服务领域提升了 18 个百分点，法律领域提升了 7 个百分点，生命科学领域提升了 8 个百分点，公共部门领域也提升了 7 个百分点。\n\n以下是 Sonnet 5.5 在某些特定任务中取得的显著提升，充分展现了其强大的性能：\n\n* 金融服务（提升 48 个百分点）：一项交易工具收购的尽职调查，该交易的账目计算存在问题。 Sonnet 5.5 识别出了计算错误的利息总额和定价错误的期权，并进行了标记，而且完成这项工作的速度提高了约 61%。\n\n* 法律领域（+14 分）：商业租赁审查。Sonnet 5.5 拒绝为续约条款和通知期设定“标准”市场基准，而是指出了租赁合同中真正缺失的内容。\n\n* 生命科学领域（+22 分）：根据原始测量数据撰写现场试验报告。Sonnet 5.5 正确计算了两个处理组的样本标准差。Sonnet 5 几乎全部都出现了错误。而且 Sonnet 5.5 的速度提高了约 41%。\n\n* 公共部门领域（+11 分）：一份关于数学干预项目的报告。Sonnet 5.5 从基础数据中提取出了正确的学生进度监测数据，速度提高了约 71%。\n\n不久之后，客户将能够在 Box AI Studio 中使用 Sonnet 5.5 构建 AI 代理。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2104648654074343480",
+      "publishedAt": "2026-09-28T19:05:16.000Z",
+      "score": 78.27,
+      "engagement": {
+        "likes": 146,
+        "retweets": 13,
+        "replies": 36
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2104566122549063756",
+      "type": "tweet",
+      "builder": "Nikunj Kothari",
+      "title": "那些鼓吹“分销是护城河，因此可以筹集大量资金”的投资者都去哪儿了……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Where are all the “distribution is a moat and hence raise a lot of money” investors today.. when the *checks notes* i…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Where are all the “distribution is a moat and hence raise a lot of money” investors…",
+      "originalBody": "Where are all the “distribution is a moat and hence raise a lot of money” investors today..\n\nwhen the *checks notes* incumbents are flexing their distribution muscle.\n\nIt’s SO important to stay first principles on what matters. Find your unfair advantages. Build a great product with high retention and ideally network effects. Use capital as a weapon to compound and not as destiny. And, finally figure out how to be a self sustaining business because this money spigot will dry. \n\nAnd, that is so freaking hard. It’s never been easy - especially not now. \n\n(PS: This is not a subtweet on any company, but more so on the investors who’ll dole out terrible advice and move to the next company in their portfolio when that one crashes and burns)",
+      "translatedTitle": "那些鼓吹“分销是护城河，因此可以筹集大量资金”的投资者都去哪儿了……",
+      "translatedBody": "如今那些鼓吹“分销是护城河，因此能筹集大量资金”的投资者都去哪儿了？\n\n当那些（翻看笔记）老牌企业都在大举拓展分销渠道的时候。\n\n坚持初心，关注真正重要的事情，这至关重要。找到你的绝对优势。打造一款用户留存率高、最好还能产生网络效应的优秀产品。把资本当作复利的武器，而不是命运的安排。最后，要想办法让企业实现自给自足，因为资金的源泉终会枯竭。\n\n而这一切，真的非常难。从来都不容易——尤其是在现在。\n\n（附注：这并非针对任何公司，而是针对那些给出糟糕建议，然后在投资失败后立刻转向下一家公司的投资者。）",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/nikunj/status/2104566122549063756",
+      "publishedAt": "2026-09-28T13:37:19.000Z",
+      "score": 75.73,
+      "engagement": {
+        "likes": 111,
+        "retweets": 4,
+        "replies": 13
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2104305554760114488",
+      "id": "2104736498151256303",
       "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "相同的。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Same. @useblacksmith has been an amazing sponsor but we need to distribute the load. My plan is to let codex decide w…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Same.",
-      "originalBody": "Same. @useblacksmith has been an amazing sponsor but we need to distribute the load. \n\nMy plan is to let codex decide which tests actually need to run and drastically nix CI and run tests hourly. https://t.co/Yo4PYOT2cI",
-      "translatedTitle": "相同的。",
-      "translatedBody": "没错。@useblacksmith 一直是非常棒的赞助商，但我们需要分担工作量。\n\n我的计划是让 Codex 决定哪些测试需要运行，并彻底取消持续集成 (CI)，改为每小时运行一次测试。https://t.co/Yo4PYOT2cI",
+      "builder": "Peter Yang",
+      "title": "我用 Sonnet 5.5 构建了一个可以运行的星际争霸关卡。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I built a working StarCraft level with Sonnet 5.5. You play Terran, defending your base against the Zerg: → Build Mar…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "I built a working StarCraft level with Sonnet 5.5.",
+      "originalBody": "I built a working StarCraft level with Sonnet 5.5.\n\nYou play Terran, defending your base against the Zerg:\n\n→ Build Marines, Siege Tanks, and Battlecruisers\n→ Use SC2 models from Sketchfab (by Catholomew)\n→ Music generated with Suno\n\n📌 Play it here: https://t.co/U9QI2VD3HQ\n\nSonnet also made the sizzle reel below. Check out my latest tutorial on Sonnet here: https://t.co/yH28RpYWH2",
+      "translatedTitle": "我用 Sonnet 5.5 构建了一个可以运行的星际争霸关卡。",
+      "translatedBody": "我用 Sonnet 5.5 制作了一个可运行的星际争霸关卡。\n\n你扮演人族，保卫你的基地免受虫族的攻击：\n\n→ 建造陆战队员、攻城坦克和战列巡洋舰\n\n→ 使用 Sketchfab 上的星际争霸 2 模型（作者：Catholomew）\n\n→ 音乐由 Suno 生成\n\n📌 点击这里试玩：https://t.co/U9QI2VD3HQ\n\nSonnet 还制作了下面的精彩片段。点击这里查看我最新的 Sonnet 教程：https://t.co/yH28RpYWH2",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2104305554760114488",
-      "publishedAt": "2026-09-27T20:21:55.000Z",
-      "score": 59.4,
+      "sourceUrl": "https://x.com/petergyang/status/2104736498151256303",
+      "publishedAt": "2026-09-29T00:54:19.000Z",
+      "score": 74,
       "engagement": {
-        "likes": 571,
-        "retweets": 14,
-        "replies": 90
+        "likes": 80,
+        "retweets": 5,
+        "replies": 6
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2104608785696440510",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "现在基本上不可能有人直接“给你看他们的提示”，因为……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：it's basically impossible for someone to just \"show you their prompt\" now, because everything is about references, sk…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "it's basically impossible for someone to just \"show you their prompt\" now, because…",
+      "originalBody": "it's basically impossible for someone to just \"show you their prompt\" now, because everything is about references, skills and examples\n\nI often ask my agent to look at 3 other repos I've made first, search the web for references, use other AI APIs, etc.",
+      "translatedTitle": "现在基本上不可能有人直接“给你看他们的提示”，因为……",
+      "translatedBody": "现在基本上不可能有人直接“给你看他们的提示”，因为一切都取决于推荐信、技能和案例。\n\n我通常会让我的经纪人先看看我创建的其他三个作品集，在网上搜索推荐信，使用其他人工智能应用程序接口等等。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2104608785696440510",
+      "publishedAt": "2026-09-28T16:26:50.000Z",
+      "score": 69.35,
+      "engagement": {
+        "likes": 4265,
+        "retweets": 143,
+        "replies": 275
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -188,62 +217,37 @@
       "sourceType": "x"
     },
     {
-      "id": "2104266890726309908",
+      "id": "2104660926373023830",
       "type": "tweet",
-      "builder": "Amanda Askell",
-      "title": "诚然，我讨厌很多气味，但我喜欢新鲜空气的味道……",
-      "summary": "Amanda Askell 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Admittedly I'm averse to a lot of smells, but I like things like the smell of a fresh orange. The perfumes that are s…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "Admittedly I'm averse to a lot of smells, but I like things like the smell of a fre…",
-      "originalBody": "Admittedly I'm averse to a lot of smells, but I like things like the smell of a fresh orange. The perfumes that are supposed to be realistic and citrusy smell at best like orange layered over skunk.",
-      "translatedTitle": "诚然，我讨厌很多气味，但我喜欢新鲜空气的味道……",
-      "translatedBody": "我承认我讨厌很多气味，但我喜欢新鲜橙子的味道。那些号称逼真、柑橘香调的香水，闻起来充其量就像是橙子味和臭鼬味混在一起。",
+      "builder": "Thariq",
+      "title": "很多时候，当我谈到像项目这样的高层次抽象概念时，克劳德·塔……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear co…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "A lot of times when I talk about higher level abstractions like projects, claude ta…",
+      "originalBody": "A lot of times when I talk about higher level abstractions like projects, claude tag and dynamic workflows, I hear concerns about token cost.\n\nWith Sonnet + Opus 5.5 I think this sort intelligence is should be very available.\n\nTry Sonnet 5.5 in particular when making workflows. https://t.co/Vu3OB7FYhd",
+      "translatedTitle": "很多时候，当我谈到像项目这样的高层次抽象概念时，克劳德·塔……",
+      "translatedBody": "很多时候，当我谈到项目、Claude 标签和动态工作流等更高层次的抽象概念时，都会听到关于令牌成本的担忧。\n\n我认为，有了 Sonnet + Opus 5.5，这类智能功能应该会非常容易实现。\n\n尤其是在创建工作流时，不妨试试 Sonnet 5.5。https://t.co/Vu3OB7FYhd",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/AmandaAskell/status/2104266890726309908",
-      "publishedAt": "2026-09-27T17:48:16.000Z",
-      "score": 50.47,
+      "sourceUrl": "https://x.com/trq212/status/2104660926373023830",
+      "publishedAt": "2026-09-28T19:54:02.000Z",
+      "score": 64.51,
       "engagement": {
-        "likes": 104,
-        "retweets": 1,
-        "replies": 17
+        "likes": 1691,
+        "retweets": 40,
+        "replies": 127
       },
       "matchedFocusAreas": [
-        "Foundation Models"
+        "Coding Agents"
       ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2104253882025341231",
-      "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "那些问“为什么你一直发帖却不通过内容盈利”的人并不了解……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验：People who ask “why do you keep posting without monetizing your content” don’t understand that: 1. Self-expression is…",
-      "whyItMatters": "Zara Zhang 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "People who ask “why do you keep posting without monetizing your content” don’t unde…",
-      "originalBody": "People who ask “why do you keep posting without monetizing your content” don’t understand that:\n\n1. Self-expression is an innate human instinct that requires no justification or utilitarian motive\n2. Influence is so much more valuable than money",
-      "translatedTitle": "那些问“为什么你一直发帖却不通过内容盈利”的人并不了解……",
-      "translatedBody": "那些问“你为什么不通过内容盈利而一直发帖”的人不明白：\n\n1. 自我表达是人类与生俱来的本能，无需任何理由或功利动机。\n\n2. 影响力远比金钱更有价值。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2104253882025341231",
-      "publishedAt": "2026-09-27T16:56:35.000Z",
-      "score": 31.82,
-      "engagement": {
-        "likes": 354,
-        "retweets": 22,
-        "replies": 33
-      },
-      "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-09-28T06:57:29.581Z",
-    "totalCandidates": 25,
-    "textQualifiedCandidates": 11,
+    "upstreamGeneratedAt": "2026-09-29T06:45:20.961Z",
+    "totalCandidates": 34,
+    "textQualifiedCandidates": 12,
     "selectedTweets": 8
   }
 }
