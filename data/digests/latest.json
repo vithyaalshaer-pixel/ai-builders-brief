@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-01",
-  "generatedAt": "2026-10-01T05:04:02.155Z",
+  "date": "2026-10-02",
+  "generatedAt": "2026-10-02T04:53:44.231Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-10-01",
+  "title": "AI Builders Daily | 2026-10-02",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 32 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 34 条候选动态里，筛出 21 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,32 +13,36 @@
       "label": "Coding Agents"
     },
     {
+      "slug": "foundation-models",
+      "label": "Foundation Models"
+    },
+    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2105043144975011982",
+      "id": "2105390544096841942",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "AI SDK每周下载量已达3000万次。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：AI SDK has hit 30M weekly downloads. One-shotted this video in fframes + https://t.co/3Z4NESzNKd + opus. I asked 𝚏𝚡…",
+      "title": "如果您运营一项服务，并希望触达超过 2000 万开发者和数十亿用户……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If you run a service and want to get in front of 20M+ developers and the billions of agents they'll ship, add yoursel…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "AI SDK has hit 30M weekly downloads.",
-      "originalBody": "AI SDK has hit 30M weekly downloads.\n\nOne-shotted this video in fframes + https://t.co/3Z4NESzNKd + opus. I asked 𝚏𝚡 to look at https://t.co/dnlawxpWR6 and highlight the 5M/10M/20M/30M milestones.\n\nYes, this video was written in Rust and rendered on the GPU. h/t @neogoose_btw https://t.co/dS4UpwzbbN",
-      "translatedTitle": "AI SDK每周下载量已达3000万次。",
-      "translatedBody": "AI SDK 的周下载量已突破 3000 万。\n\n这段视频是用 fframes + https://t.co/3Z4NESzNKd + opus 一次性拍摄完成的。我请 𝚏𝚡 看看 https://t.co/dnlawxpWR6，并标注 500 万/1000 万/2000 万/3000 万这几个里程碑。\n\n没错，这段视频是用 Rust 编写的，并在 GPU 上渲染的。感谢 @neogoose_btw https://t.co/dS4UpwzbbN",
+      "originalTitle": "If you run a service and want to get in front of 20M+ developers and the billions o…",
+      "originalBody": "If you run a service and want to get in front of 20M+ developers and the billions of agents they'll ship, add yourself to Connect.\n\nWith code now being 'free', the final boss of building is connecting to stuff. Connect is both easier and more secure¹. For agents and for apps.\n\n¹ The world of building agents is plagued with static credentials. You're supposed to give a bunch of keys to each agent or app you build. It's DX hell, but it's also a massive liability. Connect fixes this.",
+      "translatedTitle": "如果您运营一项服务，并希望触达超过 2000 万开发者和数十亿用户……",
+      "translatedBody": "如果您运营一项服务，并希望触达超过 2000 万开发者以及他们将部署的数十亿个代理，请加入 Connect。\n\n如今代码已“免费”，构建的最终挑战在于如何连接各种资源。Connect 让连接更便捷、更安全¹，无论对于代理还是应用程序都是如此。\n\n¹ 构建代理领域一直饱受静态凭证的困扰。您需要为每个构建的代理或应用程序分配大量密钥。这不仅会造成糟糕的用户体验，而且也是一个巨大的安全隐患。Connect 解决了这个问题。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2105043144975011982",
-      "publishedAt": "2026-09-29T21:12:50.000Z",
-      "score": 155.78,
+      "sourceUrl": "https://x.com/rauchg/status/2105390544096841942",
+      "publishedAt": "2026-09-30T20:13:16.000Z",
+      "score": 157.96,
       "engagement": {
-        "likes": 299,
-        "retweets": 12,
-        "replies": 29
+        "likes": 441,
+        "retweets": 20,
+        "replies": 51
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -46,192 +50,196 @@
       "sourceType": "x"
     },
     {
-      "id": "2104995014208258235",
+      "id": "2105476587756138942",
       "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "圆点来了！",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：Dots are here! A new way to use AI that works 24/7 for you; get more of your time and attention back to work at a hig…",
-      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Dots are here!",
-      "originalBody": "Dots are here!\n\nA new way to use AI that works 24/7 for you; get more of your time and attention back to work at a higher level.\n\nhttps://t.co/Kp4fPSGUTT",
-      "translatedTitle": "圆点来了！",
-      "translatedBody": "Dots 来了！\n\n一种全新的 AI 使用方式，全天候 24/7 为您服务；让您腾出更多时间和精力，专注于更高水平的工作。\n\nhttps://t.co/Kp4fPSGUTT",
+      "builder": "Guillermo Rauch",
+      "title": "大多数代币聚合器都充斥着来自①代币提供商的大量推广信息……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Most token aggregators have extreme noise from ① token promos from/to providers that train on your data or ② provider…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Most token aggregators have extreme noise from ① token promos from/to providers tha…",
+      "originalBody": "Most token aggregators have extreme noise from ① token promos from/to providers that train on your data or ② providers that *claim* to be ZDR.\n\nVercel AI Gateway is the largest trustworthy datasource to understand global AI token flows, because we have real usage, from real customers, an at-scale platform (400k+ paying customers and thousands of enterprises), and zero markup.\n\nNotably… every week we turn down \"free token\" promos from companies that come to us with dubious claims of Zero Data Retention (ZDR) and questionable reputations. We also don't get a kick out of having the \"most providers\". Most providers suck. You want the *best* providers.\n\nWe put in as much work in engineering our gateway, as in our legal, compliance, privacy, and backoffice operations to responsibly serve trillions of tokens every day. We're here for the long haul.",
+      "translatedTitle": "大多数代币聚合器都充斥着来自①代币提供商的大量推广信息……",
+      "translatedBody": "大多数代币聚合平台都充斥着大量噪音，这些噪音来自：① 一些供应商利用您的数据进行训练，并向其提供代币推广服务；② 一些供应商声称自己是零数据保留 (ZDR) 提供商。\n\nVercel AI Gateway 是了解全球 AI 代币流动情况的最大且值得信赖的数据源，因为我们拥有来自真实客户的真实使用案例、规模庞大的平台（超过 40 万付费客户和数千家企业用户），并且零加价。\n\n值得注意的是……我们每周都会拒绝一些公司提出的“免费代币”推广请求，这些公司声称自己是零数据保留 (ZDR) 提供商，但其信誉却令人质疑。我们也不追求“拥有最多的供应商”。大多数供应商都很糟糕。您需要的是*最好的*供应商。\n\n我们在网关的工程设计上投入了与法律、合规、隐私和后台运营同等的精力，以确保每天能够负责任地处理数万亿代币的交易。我们将长期致力于此。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2104995014208258235",
-      "publishedAt": "2026-09-29T18:01:34.000Z",
-      "score": 150.56,
+      "sourceUrl": "https://x.com/rauchg/status/2105476587756138942",
+      "publishedAt": "2026-10-01T01:55:11.000Z",
+      "score": 152.44,
       "engagement": {
-        "likes": 12080,
-        "retweets": 872,
-        "replies": 1670
+        "likes": 132,
+        "retweets": 4,
+        "replies": 35
       },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
       "sourceType": "x"
     },
     {
-      "id": "2105000738745376769",
+      "id": "2105538561672085751",
       "type": "tweet",
       "builder": "Swyx",
-      "title": "@latentspacepod 的朋友们，我们将询问你们所有燃烧的圆点，Sol 6……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：for friends of @latentspacepod we are gonna be asking all your burning Dots, Sol 6.1, CUA, and Decisions API question…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "for friends of @latentspacepod we are gonna be asking all your burning Dots, Sol 6.…",
-      "originalBody": "for friends of @latentspacepod we are gonna be asking all your burning Dots, Sol 6.1, CUA, and Decisions API questions for @AriX and @nikunjhanda 🔜 at the gateway pavilion on a few mins, come by! https://t.co/BLVP5yihJn",
-      "translatedTitle": "@latentspacepod 的朋友们，我们将询问你们所有燃烧的圆点，Sol 6……",
-      "translatedBody": "@latentspacepod 的朋友们，我们将在几分钟后于 Gateway Pavilion 为 @AriX 和 @nikunjhanda 解答你们所有关于 Dots、Sol 6.1、CUA 和 Decisions API 的疑问，欢迎大家前来！https://t.co/BLVP5yihJn",
+      "title": "在YouTube视频中裁剪掉别人的logo而不注明出处，这正常吗？",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：is it normal to crop out other people's logo and not attribute to a simple youtube video or how does this work in pro…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "is it normal to crop out other people's logo and not attribute to a simple youtube…",
+      "originalBody": "is it normal to crop out other people's logo and not attribute to a simple youtube video or how does this work in professional tech media https://t.co/RMciDG1IJS https://t.co/Wfmcnmv9b7",
+      "translatedTitle": "在YouTube视频中裁剪掉别人的logo而不注明出处，这正常吗？",
+      "translatedBody": "在简单的 YouTube 视频中裁剪掉他人的 logo 而不注明出处是正常的吗？或者说，在专业的科技媒体中，这种做法是怎样的？https://t.co/RMciDG1IJS https://t.co/Wfmcnmv9b7",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2105000738745376769",
-      "publishedAt": "2026-09-29T18:24:19.000Z",
-      "score": 124.77,
+      "sourceUrl": "https://x.com/swyx/status/2105538561672085751",
+      "publishedAt": "2026-10-01T06:01:26.000Z",
+      "score": 151.25,
       "engagement": {
-        "likes": 72,
-        "retweets": 2,
-        "replies": 26
+        "likes": 93,
+        "retweets": 0,
+        "replies": 20
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2105370680485417401",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "Claude Founder House 将亮相旧金山科技周（10 月 6 日至 8 日）和斯德哥尔摩（10 月 14 日）。",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Claude Founder House is coming to SF Tech Week (Oct 6–8) and Stockholm (Oct 14). Come for talks, workshops, and offic…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Claude Founder House is coming to SF Tech Week (Oct 6–8) and Stockholm (Oct 14).",
+      "originalBody": "Claude Founder House is coming to SF Tech Week (Oct 6–8) and Stockholm (Oct 14).\n\nCome for talks, workshops, and office hours with our team, plus time to meet others building with Claude. Whether you're a founder, a CEO, or a builder, there's a session for you. https://t.co/LiXccCEV7t",
+      "translatedTitle": "Claude Founder House 将亮相旧金山科技周（10 月 6 日至 8 日）和斯德哥尔摩（10 月 14 日）。",
+      "translatedBody": "Claude Founder House 将亮相旧金山科技周（10 月 6 日至 8 日）和斯德哥尔摩（10 月 14 日）。\n\n欢迎前来参加我们的演讲、工作坊和团队答疑，并有机会结识其他使用 Claude 进行创业的伙伴。无论您是创始人、CEO 还是开发者，总有一场活动适合您。https://t.co/LiXccCEV7t",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2105370680485417401",
+      "publishedAt": "2026-09-30T18:54:20.000Z",
+      "score": 141.57,
+      "engagement": {
+        "likes": 2434,
+        "retweets": 129,
+        "replies": 147
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2105114973819244676",
+      "id": "2105348724331606411",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "尽管除了参加其他任何环节之外，我都没参加@OpenAI开发者日的任何一场会议，但我玩得非常开心……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I had so much fun at @OpenAI Dev Day despite not attending a single session other than the keynotes 😅 Instead, I spe…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "I had so much fun at @OpenAI Dev Day despite not attending a single session other t…",
-      "originalBody": "I had so much fun at @OpenAI Dev Day despite not attending a single session other than the keynotes 😅\n\nInstead, I spent the day catching up with some great folks, so I'm going to embarass some of them now:\n\n1. @lennysan the nicest most humble successful person I've had the pleasure of being friends with \n\n2. @bb_fresh the comedy legend, search \"krazam microservices\" on YouTube for a laugh. My dream is to appear in one of Ben's sketches as the PM.\n\n3. @danshipper the vibe checks are legendary\n\n4. @bentossell the tall Welsh gentleman in pink - has an amazing newsletter in Ben's Bites\n\n5. @thenanyu the man who brings taste and craft to everything he touches from Linear to OpenAI\n\n6. @illscience my favorite a16z partner that I've met (because @joshelman still hasn't met me in person 😅)\n\n7. @fishmanaf a great product leader but more importantly the most buff dad ever\n\n8. @tomkrcha the founder behind @pendev one of my favorite AI design tools\n\n9. @victornunez who still makes time to answer my dumb DMs at 11 pm despite working at OpenAI and having 3 kids",
-      "translatedTitle": "尽管除了参加其他任何环节之外，我都没参加@OpenAI开发者日的任何一场会议，但我玩得非常开心……",
-      "translatedBody": "虽然除了主题演讲之外我一个环节都没参加，但我在@OpenAI开发者日玩得非常开心😅\n\n我把这一天都花在了和一些很棒的人叙旧上，所以现在我要让他们中的一些人“难堪”一下：\n\n1. @lennysan 我是有幸结识的最友善、最谦逊、最成功的人\n\n2. @bb_fresh 喜剧界的传奇人物，在YouTube上搜“krazam microservices”就能让你捧腹大笑。我的梦想是能出演Ben的某个小品，扮演总理。\n\n3. @danshipper 的氛围检测简直是传奇\n\n4. @bentossell 这位身材高挑、穿着粉色衣服的威尔士绅士——他在 Ben's Bites 上创办了一份精彩的电子报\n\n5. @thenanyu 从 Linear 到 OpenAI，他经手的每件事都充满了品味和匠心\n\n6. @illscience 我最喜欢的 a16z 合作伙伴（因为 @joshelman 还没见过我本人呢😅）\n\n7. @fishmanaf 一位优秀的产品领导者，但更重要的是，他是史上最棒的爸爸\n\n8. @tomkrcha @pendev 的创始人，这是我最喜欢的 AI 设计工具之一\n\n9. @victornunez 尽管在 OpenAI 工作，还要照顾三个孩子，但他仍然会在晚上 11 点抽出时间回复我那些傻乎乎的私信",
+      "builder": "Swyx",
+      "title": "Flow 之于硬件工程，正如 Git+GitHub 之于软件工程。",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：Flow is doing for hardware engineering what Git+GitHub did for software engineering. It's enabled so much acceleratio…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Flow is doing for hardware engineering what Git+GitHub did for software engineering.",
+      "originalBody": "Flow is doing for hardware engineering what Git+GitHub did for software engineering. It's enabled so much acceleration due to aligning thousands of stakeholders for complex, irreversible, high value pipelines from cars to rockets. \n\nYou cannot go back to spreadsheet_final_FINAL_v23 once you've been in Flow.\n\nproud to be a friend first, and smol investor second.",
+      "translatedTitle": "Flow 之于硬件工程，正如 Git+GitHub 之于软件工程。",
+      "translatedBody": "Flow 之于硬件工程，正如 Git+GitHub 之于软件工程。它极大地加速了从汽车到火箭等复杂、不可逆、高价值产品线的开发，因为它将成千上万的利益相关者凝聚在一起。\n\n一旦你体验过 Flow，就再也回不去 spreadsheet_final_FINAL_v23 了。\n\n首先，我以朋友的身份感到自豪；其次，我是一位小投资者。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2105114973819244676",
-      "publishedAt": "2026-09-30T01:58:15.000Z",
-      "score": 76.5,
+      "sourceUrl": "https://x.com/swyx/status/2105348724331606411",
+      "publishedAt": "2026-09-30T17:27:06.000Z",
+      "score": 125.73,
       "engagement": {
-        "likes": 138,
+        "likes": 67,
+        "retweets": 2,
+        "replies": 45
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2105419486383964544",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "我真的没有做任何针对苹果播客的优化（而且我非常讨厌Spot……）",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：i genuinely dont do anything to optimize for apple podcasts (and actively hate spotify) so being on the top podcast l…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "i genuinely dont do anything to optimize for apple podcasts (and actively hate spot…",
+      "originalBody": "i genuinely dont do anything to optimize for apple  podcasts (and actively hate spotify) so being on the top podcast list here among some industry legends  and even beating @MKBHD is pretty fkin nuts https://t.co/myUbdjzfyr",
+      "translatedTitle": "我真的没有做任何针对苹果播客的优化（而且我非常讨厌Spot……）",
+      "translatedBody": "我真的没做任何针对苹果播客的优化（而且我非常讨厌Spotify），所以能和一些业内传奇人物一起跻身顶级播客榜单，甚至还超过了@MKBHD，这简直太疯狂了！https://t.co/myUbdjzfyr",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2105419486383964544",
+      "publishedAt": "2026-09-30T22:08:17.000Z",
+      "score": 112.95,
+      "engagement": {
+        "likes": 5,
         "retweets": 0,
-        "replies": 15
+        "replies": 4
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2105354449795621179",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "现在，将人工智能部署到……领域蕴藏着巨大的机遇。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：There's a huge opportunity right now in being the deployment layer for AI into the economy. The amount of work it tak…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "There's a huge opportunity right now in being the deployment layer for AI into the…",
+      "originalBody": "There's a huge opportunity right now in being the deployment layer for AI into the economy. The amount of work it takes to change out workflows in enterprises tends to be far greater than anyone realizes or would prefer. Clearly this is what the applied layer of AI is going to look like in the form of software and agents, but also it opens up new services firms opportunities.\n\nLegacy systems need to be moved to the cloud, data organization and access needs to be updated, software needs to be connected to agents in new ways, workflows need to be reengineered for agents, HITL needs to be figured out for the process, evals need to be generated and maintained, and the entire system needs to be continually updated as new models get released and new capabilities emerge. And the full list may even be longer.\n\nAI is not the same as just deploying software. Software you generally did the implementation of an existing, well understood category of technology, then stepped back and the customer kept running. With AI agents, you're delivering actual work augmentation to the organization, which has a completely different set of complexities associated with it. You're no longer deploying tools that the company is merely enabled by, you're deploying work output in a process. Completely different implementation and enablement process.\n\nAs a result, this is going to open up lots of new kinds of firms and plays for existing firms to diffuse AI into organizations. We're going to see approaches by industry, by size of company, and by problem inside of companies. Traditional SIs will modernize and adapt (some will clearly not adapt as well), and new entrants will also be founded in this period that take advantage of this window. Great time to be an FDE or FDE firm.",
+      "translatedTitle": "现在，将人工智能部署到……领域蕴藏着巨大的机遇。",
+      "translatedBody": "现在，将人工智能部署到经济领域蕴藏着巨大的机遇。企业工作流程的变革往往比任何人想象的或希望的都要复杂得多。显然，人工智能的应用层将以软件和智能体的形式呈现，同时也为服务型企业开辟了新的机遇。\n\n传统系统需要迁移到云端，数据组织和访问方式需要更新，软件需要以新的方式与智能体连接，工作流程需要针对智能体进行重新设计，需要为流程制定人机交互（HITL）方案，需要生成和维护评估报告，并且随着新模型的发布和新功能的出现，整个系统需要不断更新。而完整的清单可能还会更长。\n\n人工智能并非仅仅是部署软件。软件部署通常是指对现有且成熟的技术类别进行实施，然后就放手让客户继续运行。而人工智能智能体则为组织提供实际的工作增强功能，这其中蕴含着截然不同的复杂性。你不再仅仅部署公司赖以运转的工具，而是在一个流程中部署工作成果。这完全是不同的实施和赋能流程。\n\n因此，这将为现有公司开辟许多新的业务模式和应用场景，从而将人工智能推广到组织内部。我们将看到不同行业、不同规模的公司以及不同公司内部问题所采用的方法。传统的系统集成商将进行现代化改造和调整（当然，有些公司可能无法很好地适应），同时，新的竞争者也将在这一时期涌现，抓住这一机遇。对于功能开发工程师（FDE）或功能开发工程师公司来说，这是一个绝佳的时机。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2105354449795621179",
+      "publishedAt": "2026-09-30T17:49:51.000Z",
+      "score": 111.74,
+      "engagement": {
+        "likes": 853,
+        "retweets": 90,
+        "replies": 79
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2105352889665564838",
+      "type": "tweet",
+      "builder": "Google Labs",
+      "title": "💠 Opal 在技能方面大放异彩！",
+      "summary": "Google Labs 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：💠 Opal shines on in Skills! 💠 When we launched Opal in Google Labs, it was an experiment to learn how you customize…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "💠 Opal shines on in Skills!",
+      "originalBody": "💠 Opal shines on in Skills! 💠\n\nWhen we launched Opal in Google Labs, it was an experiment to learn how you customize your workflows. Your incredible creativity taught us so much — first inspiring Gems made by Labs, and today, supporting the global launch of skills in @GeminiApp! ✨\n\nSkills are a faster way to automate repetitive tasks and save custom instructions right in chat - built from the learnings we had from Opal. As skills roll out globally, we will be saying a bittersweet farewell to Opal. The experiment will be shutting down on Nov 17, 2026.\n\nWhether you built mini-apps on https://t.co/YOHh8P89yg or tried Gems in Gemini, thank you for shaping the future of customizable AI. Opal lives on in every skill you build next. 💙",
+      "translatedTitle": "💠 Opal 在技能方面大放异彩！",
+      "translatedBody": "💠 Opal 的光芒在技能中继续闪耀！💠\n\n我们在 Google Labs 推出 Opal 时，旨在探索大家如何自定义工作流程。你们的无限创意让我们受益匪浅——最初是激发了 Labs 团队创作 Gems，如今，又助力 @GeminiApp 的技能功能全球发布！✨\n\n技能功能能够更快地自动化重复性任务，并将自定义指令直接保存在聊天窗口中——这一切都源于我们从 Opal 项目中汲取的经验。随着技能功能在全球范围内的推广，我们将与 Opal 依依惜别。该实验将于 2026 年 11 月 17 日结束。\n\n无论您是在 https://t.co/YOHh8P89yg 上构建了小程序，还是在 Gemini 中尝试了 Gems，都感谢您为可定制 AI 的未来发展做出了贡献。Opal 的精神将在您接下来构建的每一个技能中得以延续。💙",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/GoogleLabs/status/2105352889665564838",
+      "publishedAt": "2026-09-30T17:43:39.000Z",
+      "score": 80.74,
+      "engagement": {
+        "likes": 312,
+        "retweets": 19,
+        "replies": 9
       },
       "matchedFocusAreas": [
         "Coding Agents",
         "Product Ships"
       ],
       "sourceType": "x"
-    },
-    {
-      "id": "2105148927599423752",
-      "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "关于当前市场，我有两点随机的真实想法……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Two random honest thoughts on the market right now.. First is on people: It's harder than ever to find missionaries.…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Two random honest thoughts on the market right now..",
-      "originalBody": "Two random honest thoughts on the market right now..\n\nFirst is on people: It's harder than ever to find missionaries. I'm seeing people leave the companies they have cofounded to join the \"obvious\" winners. Public CEOs are leaving for positions at labs. Founders leaving and rejoining neolabs at a moment's notice. Companies getting Windsurf-ed where only the choice people are getting to join the future company. Founders raising tranched valuations without worrying about the next employee that will join them will have 409As that make early exercising impossible. \n\nAs early stage VCs, we are often just betting on people. And, when those people leave on a dime's notice, then the remaining company (usually) becomes a shell. It seems like a great time to be a mercenary, and everyone feels like one even though there are missionaries out there. \n\nSecond is on defensibility: There's a lot of chatter on moats, so I won't re-litigate the matter here. But the thing that I want to call out is given the pace of what's happening the moat is no longer \"one\" thing. Like if you really think about it especially in the app layer - the harness is like a thousand small things done well. And, a lot of it is invisible. And given the competition is so fierce and new entrants overnight, you really have to dig into the details to figure out why a given company is different. What is their edge, and their combined edge across product, tech and GTM. \n\nAnd often times even with that, you end up going back to \"well the real defensibility is the founders\". And in those founders the defensibility is their speed of execution and being able to adapt to the market. That has become the new bar for every founder out there, given there are no \"blue ocean\" markets. And even if there are, any company with a LITTLE bit of heat, will have a lot of competitiors overnight. \n\nEven though I think I have a pretty good sense on finding the best people who have founder market fit, I find this current climate really hard and it's testing all my priors (and patience) at the same time. \n\nI know it's not true, but feels like everyone is in it to grab the bag and not really care about their legacy of what they want to build (please reach out if you do).",
-      "translatedTitle": "关于当前市场，我有两点随机的真实想法……",
-      "translatedBody": "关于当前市场，我有两点随想。\n\n第一点是关于人才：现在比以往任何时候都更难找到志同道合的创业者。我看到很多人离开自己共同创立的公司，转而加入那些“显而易见”的赢家。上市公司CEO纷纷跳槽到实验室。创始人随时可以离开，然后又重新加入新实验室。一些公司被“风帆冲浪”（Windsurf）式收购，只有少数人有机会加入未来的公司。创始人分阶段融资，却不考虑下一个员工的加入，导致409A条款无法提前行使。\n\n作为早期风险投资人，我们往往只是在押注人才。而当这些人突然离职时，剩下的公司（通常）就变成了空壳。现在似乎是当雇佣兵的好时机，每个人都觉得自己像个雇佣兵，尽管市场上仍然有很多志同道合的创业者。\n\n第二点是关于防御能力：关于护城河的讨论很多，所以我就不在这里赘述了。但我想强调的是，鉴于当前形势的发展速度，护城河不再仅仅指“单一”因素。如果你仔细思考，尤其是在应用层面——你会发现，护城河是由无数个细节的精心打造而成。而且，其中很多细节是隐形的。鉴于竞争如此激烈，新进入者层出不穷，你必须深入挖掘细节，才能弄清楚一家公司为何与众不同。他们的优势是什么？他们在产品、技术和市场推广方面的综合优势又是什么？\n\n即便如此，很多时候，你最终还是会发现“真正的防御力在于创始人”。而这些创始人的防御力体现在他们快速的执行力和对市场的快速适应能力上。鉴于如今已不存在所谓的“蓝海市场”，这已成为所有创始人必须达到的新标准。即便存在这样的市场，任何一家稍有起色、一夜之间就会面临众多竞争对手。\n\n虽然我自认为对寻找与创始人市场契合度最高的人才很有把握，但我发现目前的创业环境真的很难，它同时考验着我的所有判断力（以及耐心）。\n\n我知道这并非事实，但感觉每个人都只想着捞钱，并不真正关心他们想要打造的事业的传承（如果你关心的话，请联系我）。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2105148927599423752",
-      "publishedAt": "2026-09-30T04:13:10.000Z",
-      "score": 54.14,
-      "engagement": {
-        "likes": 223,
-        "retweets": 7,
-        "replies": 20
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2105049005147525231",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "刚刚将 OpenClaw 的测试审计技能的一个版本合并到 GStack 中。",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Just merged a version of OpenClaw’s test-audit skill into GStack. Test bloat is a real problem. Luckily intelligence…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Just merged a version of OpenClaw’s test-audit skill into GStack.",
-      "originalBody": "Just merged a version of OpenClaw’s test-audit skill into GStack. Test bloat is a real problem. \n\nLuckily intelligence is on tap these days! https://t.co/zJkdosDOv3",
-      "translatedTitle": "刚刚将 OpenClaw 的测试审计技能的一个版本合并到 GStack 中。",
-      "translatedBody": "刚刚将 OpenClaw 的测试审计技能的一个版本合并到了 GStack 中。测试用例臃肿确实是个问题。\n\n好在现在智能工具唾手可得！https://t.co/zJkdosDOv3",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2105049005147525231",
-      "publishedAt": "2026-09-29T21:36:07.000Z",
-      "score": 52.99,
-      "engagement": {
-        "likes": 146,
-        "retweets": 7,
-        "replies": 36
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2105105086506840421",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "几天之内，我们将有数百万个在线站点，从事各种各样的工作……",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验：We will have a few million dots online within days, working on all sorts of things across such a diverse and large co…",
-      "whyItMatters": "Thibault Sottiaux 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "We will have a few million dots online within days, working on all sorts of things…",
-      "originalBody": "We will have a few million dots online within days, working on all sorts of things across such a diverse and large community. \n\nExcited to learn from all of you on what you love and what doesn’t yet feel magical. Personally I felt a jump after 2-3 days of use after teaching it more about my preferences and things on my mind. It learns very quickly to be most useful and it can take on surprisingly ambitious tasks on its own.\n\nWe’re learning from how you all use your primary dot before releasing the ability to create an entire team of them.",
-      "translatedTitle": "几天之内，我们将有数百万个在线站点，从事各种各样的工作……",
-      "translatedBody": "几天之内，我们将拥有数百万个在线点，它们将在如此庞大而多元化的社区中开展各种各样的活动。\n\n很高兴能从大家那里了解你们喜欢什么，以及哪些方面目前还不尽如人意。就我个人而言，在使用两三天后，在更多地了解我的偏好和想法之后，我感觉它有了显著的提升。它学习能力很强，能够很快地找到最合适的用途，并且能够独立完成一些令人惊讶的复杂任务。\n\n在推出创建团队的功能之前，我们会先了解大家如何使用自己的主点。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2105105086506840421",
-      "publishedAt": "2026-09-30T01:18:58.000Z",
-      "score": 44.62,
-      "engagement": {
-        "likes": 3634,
-        "retweets": 95,
-        "replies": 933
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2105102820706058498",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "很高兴能在开发者日上与大家见面交流。",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验：It was so nice to connect with so many of you in person at DevDay. Immaculate vibes from the crowd and fun to see so…",
-      "whyItMatters": "Thibault Sottiaux 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "It was so nice to connect with so many of you in person at DevDay.",
-      "originalBody": "It was so nice to connect with so many of you in person at DevDay. Immaculate vibes from the crowd and fun to see so many build things throughout the day.",
-      "translatedTitle": "很高兴能在开发者日上与大家见面交流。",
-      "translatedBody": "很高兴能在开发者日上见到这么多朋友。现场气氛非常好，看到这么多人一整天都在动手实践，也很有趣。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2105102820706058498",
-      "publishedAt": "2026-09-30T01:09:58.000Z",
-      "score": 40.33,
-      "engagement": {
-        "likes": 1891,
-        "retweets": 38,
-        "replies": 219
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-09-30T06:45:24.816Z",
-    "totalCandidates": 32,
-    "textQualifiedCandidates": 13,
+    "upstreamGeneratedAt": "2026-10-01T06:46:31.245Z",
+    "totalCandidates": 34,
+    "textQualifiedCandidates": 21,
     "selectedTweets": 8
   }
 }
