@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-03",
-  "generatedAt": "2026-10-03T04:36:29.409Z",
+  "date": "2026-10-04",
+  "generatedAt": "2026-10-04T05:07:08.287Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-10-03",
-  "summary": "今天最值得看的是 Andrej Karpathy 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 41 条候选动态里，筛出 24 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-10-04",
+  "summary": "今天最值得看的是 Sam Altman 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 35 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,81 +23,54 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2105819303471976479",
+      "id": "2106085986606403684",
       "type": "tweet",
-      "builder": "Andrej Karpathy",
-      "title": "我们将花费更多时间来尝试理解语言模式的输出……",
-      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "We'll be spending a lot more time trying to understand the outputs of language mode…",
-      "originalBody": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for \"80% of the way to ASD-STE100\" because the spec is quite stringent. But even better:\n\nDiagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:\n\nWeb pages. Ask for output \"in HTML\" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:\n\nExplainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like \"Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration\". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!\n\nIn summary:\n- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.\n- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.",
-      "translatedTitle": "我们将花费更多时间来尝试理解语言模式的输出……",
-      "translatedBody": "我们将花更多时间尝试理解语言模型的输出。以下是一些想法、技巧和窍门：\n\n写作。我曾成功运用过这种方法：请语言模型专家 (LLM) 用 ASD-STE100 解释一些内容。ASD-STE100 是一种受控语言规范，最初是为航空航天维护文档开发的。LLM 专家精通这种语言，它对简洁的写作风格有着严格的要求，我发现这种规范通常更易于阅读。有时我会稍微放宽一些要求，例如，要求“达到 ASD-STE100 规范的 80% 水平”，因为该规范相当严格。但更好的方法是：\n\n图表/图像。与其让 LLM 写字，不如让他们创建图表。图表更容易处理、解析和理解。但更好的方法是：\n\n网页。要求输出“HTML 格式”，这样就能得到美观的交互式网页。LLM 专家在前端开发方面越来越出色，可以创建精美的用户体验、动画等等。但更好的方法是：\n\n解释视频。我最看好的输出格式是完全定制的、针对任何任意主题生成的解释视频。不妨尝试一下，比如“创建一个关于 X 的 3b1b 风格的视频解释。使用我的 ElevenLabs API 密钥进行音频旁白”。（你需要一个 API 密钥才能使用音频旁白，或者你可以请你的 LLM 帮你找到一些使用本地计算资源的、不错的免费替代方案）。这实际上已经开始奏效了！\n\n总结：\n\n- 随着 LLM 的不断完善，它们将自主完成越来越多的基础工作，而我们的大部分工作也将从抽象层面提升到监督和理解层面。\n\n- 幸运的是，LLM 在这方面也能提供帮助，因为随着智能和代码的日益丰富，你可以请求创建以前从未想过的大型、定制的、可丢弃的软件产品（例如 Web 应用程序、视频解释）。突破这些界限，你会感到惊喜。",
+      "builder": "Sam Altman",
+      "title": "dot 是我目前为止最喜欢的 openai 产品！",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：dot is my favorite openai product so far! it is amazing to me that each day it feels noticably better as it learns mo…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "dot is my favorite openai product so far!",
+      "originalBody": "dot is my favorite openai product so far!\n\nit is amazing to me that each day it feels noticably better as it learns more of my workflow and style.\n\nhaving it do the stuff i don't like doing--and usually just builds up as a gravity well of dread--has me very happy.",
+      "translatedTitle": "dot 是我目前为止最喜欢的 openai 产品！",
+      "translatedBody": "目前为止，dot 是我最喜欢的 OpenAI 产品！\n\n它每天都在进步，这让我感到非常惊喜，因为它会不断学习我的工作流程和风格。\n\n它能帮我完成那些我不喜欢做、而且通常会让我感到无比沮丧的事情，这让我非常开心。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/karpathy/status/2105819303471976479",
-      "publishedAt": "2026-10-02T00:37:00.000Z",
-      "score": 201.9,
+      "sourceUrl": "https://x.com/sama/status/2106085986606403684",
+      "publishedAt": "2026-10-02T18:16:43.000Z",
+      "score": 197.84,
       "engagement": {
-        "likes": 16925,
-        "retweets": 1700,
-        "replies": 530
+        "likes": 6830,
+        "retweets": 279,
+        "replies": 1534
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models"
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2105688354834756036",
+      "id": "2106042773510177256",
       "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "此外，6.1 Sol 是我们有史以来增长速度最快的型号，但在负载下运行速度有点慢。",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Also, 6.1 Sol was our fastest-growing model ever, and was a bit slow under load. Should be much better now!",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "Also, 6.1 Sol was our fastest-growing model ever, and was a bit slow under load.",
-      "originalBody": "Also, 6.1 Sol was our fastest-growing model ever, and was a bit slow under load. Should be much better now!",
-      "translatedTitle": "此外，6.1 Sol 是我们有史以来增长速度最快的型号，但在负载下运行速度有点慢。",
-      "translatedBody": "另外，6.1 Sol 是我们迄今为止增长速度最快的模型，但在高负载下运行速度稍慢。现在应该好多了！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2105688354834756036",
-      "publishedAt": "2026-10-01T15:56:40.000Z",
-      "score": 174.02,
-      "engagement": {
-        "likes": 10365,
-        "retweets": 289,
-        "replies": 818
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2105721630051692804",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "在接下来的两周内，在 Claude 应用中开始设计、制作演示文稿或文档，以及相关的工作……",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：For two weeks, start a design, deck, or doc in the Claude app, and the work that follows in that conversation uses 50…",
+      "builder": "Swyx",
+      "title": "是时候认真对待安全与人工智能的结合了。",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：It's time to get serious about Security x AI. One of the joys of doing AIE is helping others start their own high qua…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "For two weeks, start a design, deck, or doc in the Claude app, and the work that fo…",
-      "originalBody": "For two weeks, start a design, deck, or doc in the Claude app, and the work that follows in that conversation uses 50% less of your usage limits.\n\nGive it a try with Claude Sonnet 5.5. It has a strong eye for design and builds slides that need minimal editing. https://t.co/QdUyM8YWHB",
-      "translatedTitle": "在接下来的两周内，在 Claude 应用中开始设计、制作演示文稿或文档，以及相关的工作……",
-      "translatedBody": "两周内，在 Claude 应用中创建设计稿、演示文稿或文档，后续在该对话中开展的工作将节省 50% 的使用量。\n\n不妨试试 Claude Sonnet 5.5。它拥有出色的设计眼光，生成的幻灯片几乎无需编辑。https://t.co/QdUyM8YWHB",
+      "originalTitle": "It's time to get serious about Security x AI.",
+      "originalBody": "It's time to get serious about Security x AI.\n\nOne of the joys of doing AIE is helping others start their own high quality conferences in their countries and domains. Every single 2025 partner has come back — and the 2nd AI Security Summit is now way more important than before. Proud to be back as a founding partner with @snyksec!\n\nJoin the event: https://t.co/2IeM4a3MGO\n\nThe landscape has completely transformed since we started this a year ago. An exploding number of rogue agents, more breaches, more AI-driven attacks. now more than ever, security must be at the center of the AI conversation. With so much more hacks and vulnerabilities, this stuff is no longer theoretical...",
+      "translatedTitle": "是时候认真对待安全与人工智能的结合了。",
+      "translatedBody": "是时候认真对待安全与人工智能的融合了。\n\n参与 AIE 的一大乐趣在于帮助其他人在各自的国家和领域举办高质量的会议。所有 2025 年的合作伙伴都已回归——第二届人工智能安全峰会如今比以往任何时候都更加重要。很荣幸能再次作为创始合作伙伴与 @snyksec 携手！\n\n加入活动：https://t.co/2IeM4a3MGO\n\n自一年前我们启动这项活动以来，形势已彻底改变。恶意代理的数量呈爆炸式增长，安全漏洞和人工智能驱动的攻击也越来越多。如今，安全比以往任何时候都更需要成为人工智能讨论的核心。随着黑客攻击和漏洞的增多，这些不再是纸上谈兵……",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2105721630051692804",
-      "publishedAt": "2026-10-01T18:08:53.000Z",
-      "score": 171.62,
+      "sourceUrl": "https://x.com/swyx/status/2106042773510177256",
+      "publishedAt": "2026-10-02T15:25:00.000Z",
+      "score": 151.61,
       "engagement": {
-        "likes": 6667,
-        "retweets": 339,
-        "replies": 217
+        "likes": 73,
+        "retweets": 5,
+        "replies": 54
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -105,145 +78,171 @@
       "sourceType": "x"
     },
     {
-      "id": "2105909609487872075",
+      "id": "2106189841813934140",
       "type": "tweet",
-      "builder": "Andrej Karpathy",
-      "title": "酷的评价。",
-      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask 16,200 tim…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "Cool eval.",
-      "originalBody": "Cool eval. Simply ask an LLM “Land or Water?” and give it a latitude and longitude coordinate as text. Ask 16,200 times, plot as image. The models know. From compressing the internet. https://t.co/jTTAhBsMfu",
-      "translatedTitle": "酷的评价。",
-      "translatedBody": "很棒的评估。只需问一个逻辑回归模型“陆地还是水域？”，并以文本形式提供经纬度坐标。问16200次，然后绘制成图像。模型就能知道答案。这得益于互联网的压缩技术。https://t.co/jTTAhBsMfu",
+      "builder": "Sam Altman",
+      "title": "挂断当天最后一个重要决定电话的对比……",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：The contrast between hanging up the last phone call of the day of high-stakes decisions and then a minute later walki…",
+      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "The contrast between hanging up the last phone call of the day of high-stakes decis…",
+      "originalBody": "The contrast between hanging up the last phone call of the day of high-stakes decisions and then a minute later walking in the door to the pure love of small children who want to laugh and play and show you every discovery they made that day is the strangest and best thing I have ever experienced in life.",
+      "translatedTitle": "挂断当天最后一个重要决定电话的对比……",
+      "translatedBody": "一天中最后一个电话结束后，我接通了所有重要的决策电话；一分钟后，我走进家门，迎接我的是孩子们纯粹的爱，他们想欢笑、玩耍，并向我展示他们当天的所有发现。这种反差是我一生中经历过的最奇怪、最美好的事情。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/karpathy/status/2105909609487872075",
-      "publishedAt": "2026-10-02T06:35:51.000Z",
-      "score": 158.95,
+      "sourceUrl": "https://x.com/sama/status/2106189841813934140",
+      "publishedAt": "2026-10-03T01:09:24.000Z",
+      "score": 149.76,
       "engagement": {
-        "likes": 346,
-        "retweets": 33,
-        "replies": 32
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2105837842362732965",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "SvelteKit 3 真是个奇迹。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：SvelteKit 3 is a wonder. Congrats to the team. So excited for Async Svelte & Remote Functions to cook. I built a tiny…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "SvelteKit 3 is a wonder.",
-      "originalBody": "SvelteKit 3 is a wonder. Congrats to the team. So excited for Async Svelte & Remote Functions to cook.\n\nI built a tiny app, it built & deployed in 15 seconds end-to-end, it’s instant, and fx + opus figured it all out effortlessly.\nhttps://t.co/LFoUKMKLSV",
-      "translatedTitle": "SvelteKit 3 真是个奇迹。",
-      "translatedBody": "SvelteKit 3 简直太棒了！祝贺团队！非常期待异步 Svelte 和远程函数的到来。\n\n我构建了一个小型应用，从头到尾只用了 15 秒就完成了构建和部署，速度飞快，fx + opus 也轻松搞定了一切。\n\nhttps://t.co/LFoUKMKLSV",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2105837842362732965",
-      "publishedAt": "2026-10-02T01:50:40.000Z",
-      "score": 157.24,
-      "engagement": {
-        "likes": 400,
-        "retweets": 21,
-        "replies": 29
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2105872023482515825",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "这是应用。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Here's the app. One thing I've been liking is to ask models to 'teach me back' what they did¹ by including \"quines\".…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "Here's the app.",
-      "originalBody": "Here's the app. One thing I've been liking is to ask models to 'teach me back' what they did¹ by including \"quines\".\n\nQuines² are programs that output their own source code. So, in this demo you can reveal step by step the Svelte code powering it!\n\nhttps://t.co/CTTyWd2w3I\n\n¹ Understanding is still great 😆\n² https://t.co/Ck4QwZt0cL",
-      "translatedTitle": "这是应用。",
-      "translatedBody": "这就是这款应用。我特别喜欢的一点是，通过引入“quines”（模拟程序），让模型“教我”它们做了什么¹。\n\nQuines² 是能够输出自身源代码的程序。所以，在这个演示中，你可以一步步地了解驱动它的 Svelte 代码！\n\nhttps://t.co/CTTyWd2w3I\n\n¹ 理解依然很棒😆\n\n² https://t.co/Ck4QwZt0cL",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2105872023482515825",
-      "publishedAt": "2026-10-02T04:06:30.000Z",
-      "score": 141.23,
-      "engagement": {
-        "likes": 14,
-        "retweets": 0,
-        "replies": 5
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2105721631595209057",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "每次创建设计、演示文稿或文档时都会自动应用，并持续运行……",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Applies automatically each time you create a design, deck, or doc, and runs through October 15 on Pro, Max, and Team…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Applies automatically each time you create a design, deck, or doc, and runs through…",
-      "originalBody": "Applies automatically each time you create a design, deck, or doc, and runs through October 15 on Pro, Max, and Team plans.\n\nHow it works and full terms: https://t.co/zEtM50m851",
-      "translatedTitle": "每次创建设计、演示文稿或文档时都会自动应用，并持续运行……",
-      "translatedBody": "每次创建设计稿、演示文稿或文档时都会自动应用，适用于 Pro、Max 和 Team 套餐，有效期至 10 月 15 日。\n\n了解详情及完整条款：https://t.co/zEtM50m851",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2105721631595209057",
-      "publishedAt": "2026-10-01T18:08:54.000Z",
-      "score": 129.33,
-      "engagement": {
-        "likes": 254,
-        "retweets": 4,
-        "replies": 10
+        "likes": 12438,
+        "retweets": 319,
+        "replies": 623
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2105685876218925081",
+      "id": "2106147184693620924",
       "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "奖励机制破解，以及窥探人工智能模型内部运作的竞赛：我与 @eric_ho 的对话……",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Reward hacking, and the race to see inside AI models: my conversation with @eric_ho, CEO of @GoodfireAI Is this the b…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Reward hacking, and the race to see inside AI models: my conversation with @eric_ho…",
-      "originalBody": "Reward hacking, and the race to see inside AI models: my conversation with @eric_ho, CEO of @GoodfireAI \n\nIs this the beginning of the interp exponential?\n\n00:00 Cold open & intro\n01:06 \"Amoral students with an absent teacher\"\n02:49 What is reward hacking?\n04:13 Models cheat up to 96% of the time\n06:08 Do models know they're cheating?\n08:10 The Hugging Face hack: why tests missed it\n11:35 \"The dumbest models we'll ever deal with\"\n11:58 Should AI slow down?\n13:56 Mechanistic interpretability 101\n16:06 Models are grown, not built\n19:10 How labs do alignment today\n21:30 Is this an alignment crisis?\n23:26 Why agents changed everything\n25:38 Chain-of-thought monitoring is fading\n27:49 Neuralese: AI that stops thinking in English\n29:28 A model caught evading its own monitor\n30:42 Open vs. closed models\n32:11 Activation monitoring in production\n35:00 Learning from superhuman AI\n36:15 The most underrated field in AI\n38:24 What is a probe?\n39:52 What is steering? Golden Gate Claude\n40:53 Why build Goodfire outside the labs\n42:46 Do you need frontier model access?\n44:16 Inside the paper: an MRI for the model\n47:28 Dialing sycophancy up and down\n49:16 Probes vs. chain-of-thought monitors\n51:44 Cutting monitoring costs by 90%\n53:28 So what can we do about it?\n55:41 Giving gradient descent a choice\n57:24 RL from feature rewards\n1:00:03 Silico and Goodfire's business\n1:01:25 A new Alzheimer's biomarker\n1:03:38 Decoding neural networks by 2028?\n1:06:00 What engineers can do tomorrow\n1:07:35 Are we at risk? \"I want people to believe\"\n\nGreat group of folks and friends involved @deedydas @MenloVentures @fendien @Work_Bench @BCapitalGroup @AnthropicAI",
-      "translatedTitle": "奖励机制破解，以及窥探人工智能模型内部运作的竞赛：我与 @eric_ho 的对话……",
-      "translatedBody": "奖励机制破解与人工智能模型内部机制的探索：我与 Goodfire AI 首席执行官 Eric Ho 的对话\n\n这是解释力指数级增长的开端吗？\n\n00:00 开场白及介绍\n\n01:06 “缺乏道德的学生和缺席的老师”\n\n02:49 什么是奖励机制破解？\n\n04:13 模型作弊率高达 96%\n\n06:08 模型知道自己在作弊吗？\n\n08:10 “拥抱脸”破解：为什么测试没有发现它\n\n11:35 “我们遇到的最愚蠢的模型”\n\n11:58 人工智能应该放慢速度吗？\n\n13:56 机制可解释性入门\n\n16:06 模型是“成长”的，而非“构建”的\n\n19:10 实验室如今如何进行模型对齐\n\n21:30 这是一场模型对齐危机吗？\n\n23:26 为什么智能体改变了一切\n\n25:38 思维链监控正在消退\n\n27:49 神经语言：停止用英语思考的人工智能\n\n29:28 一个模型被发现逃避自身的监控\n\n30:42 开放式模型与封闭式模型\n\n32:11 生产环境中的激活监控\n\n35:00 从超人人工智能中学习\n\n36:15 人工智能领域最被低估的领域\n\n38:24 什么是探针？\n\n39:52 什么是转向？金门克劳德\n\n40:53 为什么要在实验室外构建 Goodfire？\n\n42:46 你需要前沿模型访问权限吗？\n\n44:16 论文内幕：模型的核磁共振成像\n\n47:28 控制奉承程度\n\n49:16 探针与思维链监控\n\n51:44 降低 90% 的监控成本\n\n53:28 那么我们能做些什么？\n\n55:41 让梯度下降法有更多选择\n\n57:24 基于特征奖励的强化学习\n\n1:00:03 Silico 和 Goodfire 的商业模式\n\n1:01:25 一种新的阿尔茨海默病生物标志物\n\n1:03:38 到 2028 年解码神经网络？\n\n1:06:00 工程师们明天能做什么\n\n1:07:35 我们面临风险吗？“我希望人们相信”\n\n感谢以下优秀人士和朋友的参与：@deedydas @MenloVentures @fendien @Work_Bench @BCapitalGroup @AnthropicAI",
+      "builder": "Sam Altman",
+      "title": "外界对我们与 Cerebras 的合作关系有一些猜测。",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：There is some speculation about our partnership with Cerebras. Cerebras is a close partner, and we have a deep engage…",
+      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "There is some speculation about our partnership with Cerebras.",
+      "originalBody": "There is some speculation about our partnership with Cerebras.\n\nCerebras is a close partner, and we have a deep engagement pushing on the frontiers of speed.",
+      "translatedTitle": "外界对我们与 Cerebras 的合作关系有一些猜测。",
+      "translatedBody": "关于我们与 Cerebras 的合作关系，外界有一些猜测。\n\nCerebras 是我们的紧密合作伙伴，我们在速度技术的前沿探索方面有着深入的合作。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2105685876218925081",
-      "publishedAt": "2026-10-01T15:46:49.000Z",
-      "score": 93.82,
+      "sourceUrl": "https://x.com/sama/status/2106147184693620924",
+      "publishedAt": "2026-10-02T22:19:53.000Z",
+      "score": 146.04,
       "engagement": {
-        "likes": 17,
-        "retweets": 5,
-        "replies": 6
+        "likes": 5739,
+        "retweets": 249,
+        "replies": 418
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2106072698564874410",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我之前每年要花将近 300 美元购买一个 YouTube 研究工具，这里就不点名了。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I was paying almost $300/year for a YouTube research tool that shall go unnamed. The product was getting too complica…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "I was paying almost $300/year for a YouTube research tool that shall go unnamed.",
+      "originalBody": "I was paying almost $300/year for a YouTube research tool that shall go unnamed. \n\nThe product was getting too complicated so I decided to check if Claude can build the core feature set that I actually needed. \n\nClaude built it in 5 min. 🥹",
+      "translatedTitle": "我之前每年要花将近 300 美元购买一个 YouTube 研究工具，这里就不点名了。",
+      "translatedBody": "我之前每年要花将近 300 美元买一个 YouTube 研究工具（名字就不说了）。\n\n这个工具用起来越来越复杂，所以我决定看看 Claude 能不能帮我开发出我真正需要的核心功能。\n\nClaude 只用了 5 分钟就搞定了！🥹",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2106072698564874410",
+      "publishedAt": "2026-10-02T17:23:54.000Z",
+      "score": 85.67,
+      "engagement": {
+        "likes": 807,
+        "retweets": 18,
+        "replies": 63
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models",
         "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2106063850453991758",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "我使用 GBrain 的目标是：我希望我们的代理感觉像母语人士一样自然、富有表现力且不可或缺……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：My goal with GBrain: I want our agents to feel as native, expressive, and inevitable as the web eventually did—not as…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "My goal with GBrain: I want our agents to feel as native, expressive, and inevitabl…",
+      "originalBody": "My goal with GBrain:\n\nI want our agents to feel as native, expressive, and inevitable as the web eventually did—not as a chatbot feature, but as a personal Jiminy Cricket that knows you and helps you 24/7 always on, always thinking ahead, always improving.",
+      "translatedTitle": "我使用 GBrain 的目标是：我希望我们的代理感觉像母语人士一样自然、富有表现力且不可或缺……",
+      "translatedBody": "我创建 GBrain 的目标是：\n\n我希望我们的智能助手能像网络最终发展成的那样，自然流畅、生动自然，而不是仅仅作为聊天机器人的功能，而是像一个了解你、24/7 全天候为你提供帮助的私人助手，它始终在线，时刻思考，不断改进。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2106063850453991758",
+      "publishedAt": "2026-10-02T16:48:45.000Z",
+      "score": 83.18,
+      "engagement": {
+        "likes": 441,
+        "retweets": 16,
+        "replies": 72
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2106092289173213444",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "出乎意料的是，@capydotai 的跨会话协调能力非常出色，完全出乎我的意料：我的GBrain……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Surprising cool @capydotai cross-session coordination I wasn't expecting: My GBrain collaborator Sina started a fix w…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Surprising cool @capydotai cross-session coordination I wasn't expecting: My GBrain…",
+      "originalBody": "Surprising cool @capydotai cross-session coordination I wasn't expecting: My GBrain collaborator Sina started a fix wave that is even steering around all of the things I'm already working on across multiple Capy threads. All model agnostic. https://t.co/P5TUYlEfRs",
+      "translatedTitle": "出乎意料的是，@capydotai 的跨会话协调能力非常出色，完全出乎我的意料：我的GBrain……",
+      "translatedBody": "出乎意料的是，@capydotai 的跨会话协调能力真是太棒了：我的 GBrain 合作者 Sina 发起了一场修复浪潮，甚至绕过了我目前正在多个 Capy 线程中处理的所有工作。而且所有工作都与模型无关。https://t.co/P5TUYlEfRs",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2106092289173213444",
+      "publishedAt": "2026-10-02T18:41:45.000Z",
+      "score": 77.22,
+      "engagement": {
+        "likes": 98,
+        "retweets": 8,
+        "replies": 47
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2106072546206773574",
+      "type": "tweet",
+      "builder": "Nikunj Kothari",
+      "title": "如果你是智能家居爱好者，这或许是个在 Claude Code / Cod 上可以尝试的有趣提示……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If you are a home automation nerd, this is a fun prompt to try on Claude Code / Codex (edit based on your own setup):…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "If you are a home automation nerd, this is a fun prompt to try on Claude Code / Cod…",
+      "originalBody": "If you are a home automation nerd, this is a fun prompt to try on Claude Code / Codex (edit based on your own setup):\n\n\"Can you sniff network packets in our house and see what else can we automate? For context: We have a Hermes agent that runs a lot of things like the personal Gmail, thermostat, Doordash, Amazon etc. \n\nTrying to see what else we can connect to. We have an Apple TV that we can talk to if we need for HomeKit related stuff but no other bridge that runs home assistant.\n\nGive me a full list of devices that you find and research how they can be connected to an agent.\"",
+      "translatedTitle": "如果你是智能家居爱好者，这或许是个在 Claude Code / Cod 上可以尝试的有趣提示……",
+      "translatedBody": "如果你是智能家居爱好者，不妨试试 Claude Code / Codex 上的这个有趣的题目（根据你自己的设置进行编辑）：\n\n“你能抓取我们家的网络数据包，看看还能实现哪些自动化功能吗？背景：我们有一个 Hermes 智能助手，它运行着很多服务，比如个人 Gmail、恒温器、DoorDash、亚马逊等等。\n\n我们想看看还能连接哪些设备。我们有一台 Apple TV，如果需要 HomeKit 相关功能，可以用它来控制，但没有其他运行 Home Assistant 的桥接设备。\n\n请提供你找到的所有设备的完整列表，并研究一下如何将它们连接到智能助手。”",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/nikunj/status/2106072546206773574",
+      "publishedAt": "2026-10-02T17:23:18.000Z",
+      "score": 46.47,
+      "engagement": {
+        "likes": 47,
+        "retweets": 0,
+        "replies": 9
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-10-02T06:45:05.163Z",
-    "totalCandidates": 41,
-    "textQualifiedCandidates": 24,
+    "upstreamGeneratedAt": "2026-10-03T06:48:51.861Z",
+    "totalCandidates": 35,
+    "textQualifiedCandidates": 12,
     "selectedTweets": 8
   }
 }
