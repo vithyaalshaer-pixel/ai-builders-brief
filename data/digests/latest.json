@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-05",
-  "generatedAt": "2026-10-05T04:53:22.093Z",
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T05:40:15.208Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-10-05",
+  "title": "AI Builders Daily | 2026-10-06",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 25 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 18 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,51 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2106516538836856945",
+      "id": "2106885457212825983",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "软件公司中，安全将扮演越来越重要的角色。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Security will become a larger and larger function in software companies. Security is verification engineering (eg: “m…",
-      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Security will become a larger and larger function in software companies.",
-      "originalBody": "Security will become a larger and larger function in software companies. Security is verification engineering (eg: “my code is probably memory-safe”), as well as capital allocation (“what surface should I throw most tokens at?”)\n\nFor startups, it’s a challenge and opportunity. As the world’s paranoia grows given ever-more-sophisticated AI adversaries, how can you trust a 2-person-and-a-dog company?\n\nBut conversely, given the dire state of global cybersecurity and increasing reliance on centralization, as always, there’re vast areas that small teams can now disrupt that I’m excited to invest in.",
-      "translatedTitle": "软件公司中，安全将扮演越来越重要的角色。",
-      "translatedBody": "在软件公司中，安全将扮演越来越重要的角色。安全既是验证工程（例如：“我的代码很可能是内存安全的”），也是资金配置（“我应该把大部分资金投入到哪个领域？”）。\n\n对于初创公司而言，这既是挑战也是机遇。随着人工智能对手日益复杂，全球恐慌情绪蔓延，人们又该如何信任一家只有两个人和一条狗的公司呢？\n\n但反过来说，鉴于全球网络安全形势严峻以及对中心化日益增长的依赖，小型团队如今可以在许多领域颠覆行业格局，而我对此充满期待。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2106516538836856945",
-      "publishedAt": "2026-10-03T22:47:34.000Z",
-      "score": 134.71,
-      "engagement": {
-        "likes": 587,
-        "retweets": 32,
-        "replies": 86
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2106610099720720811",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "好的，我们锁定目标。",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundb…",
+      "title": "很难想象 https://t.co/OL0LzGtvAw 的速度还能更快，但现在……真的快多了……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：It’s hard to fathom https://t.co/OL0LzGtvAw getting even faster, but it’s now… much faster 😂 As models speed up (as…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "All right, we’re locking in.",
-      "originalBody": "All right, we’re locking in. Only things being worked on are simplifications, more efficiency for more usage, groundbreaking features or new models. \n\nSometimes you have to invest ahead of the curve, but feedback is clear that you all want things to get simpler. On it.",
-      "translatedTitle": "好的，我们锁定目标。",
-      "translatedBody": "好了，我们确定下来了。目前只专注于简化流程、提高效率以适应更多用户、开发突破性功能或新型号。\n\n有时候，我们必须提前进行投资，但反馈很明确，大家都希望流程更简单。我们正着手处理。",
+      "originalTitle": "It’s hard to fathom https://t.co/OL0LzGtvAw getting even faster, but it’s now… much…",
+      "originalBody": "It’s hard to fathom https://t.co/OL0LzGtvAw getting even faster, but it’s now… much faster 😂\n\nAs models speed up (as with Astra 𝚞𝚕𝚝𝚛𝚊𝚏𝚊𝚜𝚝), harness overhead matters more and more.\n\nNext release will feature even better performance for session storage and retrieval, and a big unlock for cloud durability in libfx.",
+      "translatedTitle": "很难想象 https://t.co/OL0LzGtvAw 的速度还能更快，但现在……真的快多了……",
+      "translatedBody": "很难想象 https://t.co/OL0LzGtvAw 还能更快，但现在……真的快多了😂\n\n随着模型速度的提升（例如 Astra 𝚞𝚕𝚝𝚛𝚊𝚏𝚊𝚜𝚝），资源占用变得越来越重要。\n\n下一个版本将进一步提升会话存储和检索的性能，并对 libfx 的云持久性进行重大改进。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2106610099720720811",
-      "publishedAt": "2026-10-04T04:59:21.000Z",
-      "score": 97.29,
+      "sourceUrl": "https://x.com/rauchg/status/2106885457212825983",
+      "publishedAt": "2026-10-04T23:13:31.000Z",
+      "score": 179.31,
       "engagement": {
-        "likes": 6762,
-        "retweets": 167,
-        "replies": 979
+        "likes": 202,
+        "retweets": 7,
+        "replies": 40
       },
       "matchedFocusAreas": [
         "Foundation Models",
@@ -76,54 +51,109 @@
       "sourceType": "x"
     },
     {
-      "id": "2106337039201505453",
+      "id": "2106863842450133114",
       "type": "tweet",
-      "builder": "Ryo Lu",
-      "title": "当每个人都观察其他人来决定做什么时，就会趋向均值……",
-      "summary": "Ryo Lu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：convergence to the mean when everyone looks at everyone else to decide what to make, we eventually stop making anythi…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "convergence to the mean when everyone looks at everyone else to decide what to make…",
-      "originalBody": "convergence to the mean\n\nwhen everyone looks at everyone else to decide what to make, we eventually stop making anything of our own.\n\nwe copy what works. borrow the language, the aesthetic, the features. we call it learning from the market, following best practices, staying competitive. together, everything starts to feel familiar. polished, interchangeable. nothing wrong. nothing alive.\n\nthe mean isn’t necessarily bad. it’s where everything lands when we remove the reasons for it to be different.\n\nnumbers are easier to compare than feelings, so we make things that produce numbers. we study what gets attention, then shape ourselves around it. eventually the feedback stops informing the work and starts authoring it. we’re no longer asking what we want to say. we’re asking what will be rewarded for saying.\n\nai makes this loop frictionless. it can draw from more references than we could see in a lifetime. but access to every perspective isn’t the same as having one. it hasn’t lived a particular life that makes one detail unbearable and another beautiful. when we ask it to choose for us without bringing any intention of our own, we get something plausible, easy to approve.\n\nthen we ship it, measure it, copy it, and feed it back into the next round. a tidal wave of mid.\n\nthis changes not just the work, but the people making it.\n\nwe describe ourselves in categories platforms can distribute and markets understand. designer. founder. creator. pick a niche. build a brand. be consistent. the parts that don’t fit become inconvenient, even when those contradictions might produce our most interesting work. we become easier to classify and harder to tell apart.\n\ni think we need to approach making things more like artists.\n\nan artist develops a perspective through the work. making, noticing, choosing, failing, returning. learning what matters even when nobody else cares. craft gives that perspective a form precise enough for someone else to experience.\n\nthe life outside the work matters too. the places you’ve lived, the people you’ve loved, the things you’re embarrassed to care about. these aren’t distractions from having something to say. they’re how you come to have something to say.\n\nwe understand this with music, paintings, photographs, movies. we expect a person to be present in the choices. we want to experience something we wouldn’t have encountered without them.\n\nsoftware can do this too.\n\na piece of software expresses beliefs about how life should feel. what deserves your attention. what you should be free to change. whether a task should feel like paperwork or play. even a small interaction can carry someone’s care, humor, or curiosity.\n\nbut we rarely talk about software as a medium. we talk about it as an industry. markets to capture, workflows to optimize, competitors to catch up with. we add a feature because someone else has it, without asking whether it belongs. products accumulate the same parts and lose what made them worth choosing.\n\nunderneath the branding, it’s all the same thing.\n\nartists learn from others too. the question is whether you’re absorbing those influences into a point of view, or using them to avoid developing one.\n\nwhat are you trying to let someone feel, understand, or do? why this particular shape? what have you noticed that the existing tools don’t seem to notice?\n\nthose questions don’t have answers you can borrow from a competitor’s roadmap.\n\nif we can make almost anything, deciding what deserves to exist becomes more important, not less. speed gives us more chances to exercise judgment. it doesn’t remove the responsibility.\n\ni don’t want a world where every person becomes a more efficient distributor of the same ideas. i want people to use these tools to go further into what they actually care about. to make things specific enough that we can feel someone behind them.\n\nwhat is the point of everyone being able to make something, if we all end up making the same thing?",
-      "translatedTitle": "当每个人都观察其他人来决定做什么时，就会趋向均值……",
-      "translatedBody": "趋同\n\n当每个人都以他人为参照来决定创作什么时，我们最终会停止创作任何属于自己的东西。\n\n我们复制成功之作，借用语言、美学和功能。我们称之为向市场学习、遵循最佳实践、保持竞争力。最终，一切都变得似曾相识，精致完美，可以互换，没有瑕疵，也失去了生命力。\n\n均值本身并非坏事。当我们抹去一切差异化的理由时，所有事物最终都会归于均值。\n\n数字比情感更容易比较，所以我们创作能够产生数字的东西。我们研究什么能吸引眼球，然后围绕它塑造自己。最终，反馈不再指导作品，而是反过来塑造作品。我们不再问自己想说什么，而是问说了什么会得到回报。\n\n人工智能让这个循环变得无比顺畅。它可以汲取比我们一生所能接触到的还要多的参考资料。但能够接触到所有视角并不等同于拥有一个视角。它没有经历过特定的人生，因此无法体会某些细节令人难以忍受，而另一些细节却美妙绝伦。当我们要求它替我们做选择，而不带任何我们自己的意图时，我们得到的往往是看似合理、易于认可的方案。\n\n然后我们发布、评估、复制，再将其反馈到下一轮。一股中间路线的浪潮席卷而来。\n\n这不仅改变了作品本身，也改变了创作者。\n\n我们用平台可以分发、市场可以理解的类别来描述自己：设计师、创始人、创造者。选择一个细分领域，打造品牌，保持一致性。那些不符合这些类别的部分会变得碍事，即使这些矛盾之处可能孕育出我们最有趣的作品。我们变得更容易被归类，却更难被区分开来。\n\n我认为我们需要像艺术家那样去创作。\n\n艺术家通过作品发展出独特的视角：创作、观察、选择、失败、回归。即使无人问津，他们也能从中领悟真正重要的东西。技艺赋予这种视角一种足够精确的形式，让其他人也能体验到。\n\n作品之外的生活同样重要。你生活过的地方，你爱过的人，你不好意思承认的那些事。这些并非让你无话可说的干扰因素，而是你表达想法的途径。\n\n我们对音乐、绘画、摄影、电影都深有体会。我们期待创作者参与其中，体验那些我们原本无法接触到的事物。\n\n软件也能做到这一点。\n\n一款软件表达了人们对生活应有感受的信念：什么值得你关注，什么应该让你自由改变，一项任务应该像文书工作还是游戏。即使是微小的交互也能承载着创作者的关怀、幽默或好奇心。\n\n但我们很少将软件视为一种媒介，而是将其视为一个行业。需要开拓市场，需要优化工作流程，需要追赶竞争对手。我们添加某个功能，仅仅因为别人已经拥有，却从未质疑它是否真的必要。产品不断堆砌相同的组件，最终失去了最初吸引用户的特质。\n\n抛开品牌包装，它们本质上都是一样的。\n\n艺术家也会从他人身上学习。问题在于，你是将这些影响吸收进自己的观点，还是利用它们来逃避形成自己的观点。\n\n你想让别人感受到什么、理解什么或做什么？为什么是这种特定的形状？你注意到了哪些现有工具似乎忽略的细节？\n\n这些问题的答案无法从竞争对手的产品路线图中直接复制。\n\n如果我们几乎可以制造任何东西，那么决定什么才值得存在就变得更加重要，而不是不那么重要。速度赋予我们更多运用判断力的机会，但这并不意味着我们可以免除责任。\n\n我不希望每个人都成为相同想法的更高效的传播者。我希望人们利用这些工具，深入探索他们真正关心的事情，让作品足够具体，让我们能够感受到其背后的创作者。\n\n如果我们最终都创造出同样的东西，那么每个人都能创造东西的意义何在？",
+      "builder": "Guillermo Rauch",
+      "title": "DHH 对 Rust 的看法从根本上来说是正确的。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：DHH is fundamentally right about Rust. For context, Vercel has been undergoing a Rust-ification (carcinization, techn…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "DHH is fundamentally right about Rust.",
+      "originalBody": "DHH is fundamentally right about Rust. For context, Vercel has been undergoing a Rust-ification (carcinization, technically 🦀) for a while.\n\nOne of the first projects we migrated was Turborepo, from Go to Rust¹. The migration completed, but the RoI was actually quite controversial internally.\n\nWhile Rust was in our eyes better for low-level OS access, something crucial for a build system like Turbo, the human migration costs were very sustantive.\n\nGo is very fast. It's beautifully designed. It's easy to iterate on. We were very conflicted about the migration, because it was *humans* writing the code, *even if we knew Rust was a better choice*.\n\nThe calculus has now changed. What's \"best for humans\" is no longer necessarily \"best for business\". \n\nFWIW, it's also quite unlikely that Rust is the end-all-be-all toolchain. I'm quite certain there's greener pasture ahead, because Rust itself was designed before the 'supersonic tsunami' of agents hit.\n\n¹ https​://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust",
+      "translatedTitle": "DHH 对 Rust 的看法从根本上来说是正确的。",
+      "translatedBody": "DHH 对 Rust 的看法从根本上是正确的。作为背景，Vercel 已经进行了一段时间的 Rust 化（严格来说是“癌变”🦀）。\n\n我们迁移的首批项目之一是 Turborepo，从 Go 迁移到 Rust¹。迁移已经完成，但其投资回报率在内部却引发了相当大的争议。\n\n虽然我们认为 Rust 在底层操作系统访问方面更胜一筹（这对像 Turbo 这样的构建系统至关重要），但人力迁移成本却非常高昂。\n\nGo 速度很快，设计精美，易于迭代。我们对迁移感到非常纠结，因为编写代码的是*人*，*即使我们知道 Rust 是更好的选择*。\n\n现在情况发生了变化。“对人最有利”的不再一定是“对业务最有利”。\n\n顺便一提，Rust 也不太可能是最终的万能工具链。我确信未来一片光明，因为 Rust 本身的设计早于代理程序如潮水般涌来之时。\n\n¹ https://vercel.com/blog/how-turborepo-is-porting-from-go-to-rust",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/ryolu_/status/2106337039201505453",
-      "publishedAt": "2026-10-03T10:54:18.000Z",
-      "score": 90.49,
+      "sourceUrl": "https://x.com/rauchg/status/2106863842450133114",
+      "publishedAt": "2026-10-04T21:47:38.000Z",
+      "score": 165.27,
       "engagement": {
-        "likes": 1776,
-        "retweets": 224,
-        "replies": 94
+        "likes": 1918,
+        "retweets": 87,
+        "replies": 118
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2106848085267902815",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "正在进行一个新小项目。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Working on a new little project. The 𝚁𝙴𝙰𝙳𝙼𝙴 is fully written by hand, because it's for human consumption. The d…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Working on a new little project.",
+      "originalBody": "Working on a new little project. The 𝚁𝙴𝙰𝙳𝙼𝙴 is fully written by hand, because it's for human consumption. The documentation internals are AI English, because they're for agents.\n\nThis little rule of thumb can make the world better. Blogs, tweets, READMEs: human communication. It's not even about \"em dashes\" or lack thereof. It's that it's the story-telling moment where you want to connect with other humans through their words.",
+      "translatedTitle": "正在进行一个新小项目。",
+      "translatedBody": "正在进行一个新小项目。文档完全是手写的，因为它是写给人类阅读的。文档内部使用人工智能英语，因为它们是写给智能体的。\n\n这条小小的经验法则可以让世界变得更美好。博客、推文、README：都是人类交流。这甚至与破折号的有无无关。关键在于，这是讲述故事的时刻，你想通过文字与他人建立联系。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2106848085267902815",
+      "publishedAt": "2026-10-04T20:45:01.000Z",
+      "score": 162.14,
+      "engagement": {
+        "likes": 993,
+        "retweets": 36,
+        "replies": 119
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2106926956554195018",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我很高兴 OpenAI 致力于简化 ChatGPT，因为它现在已经变得一团糟（所以……）",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：I'm glad OpenAI is focusing on simplifying ChatGPT because it has become a mess (sorry). Here's a clip from my dots r…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "I'm glad OpenAI is focusing on simplifying ChatGPT because it has become a mess (so…",
+      "originalBody": "I'm glad OpenAI is focusing on simplifying ChatGPT because it has become a mess (sorry).\n\nHere's a clip from my dots review about this. What I'd simplify:\n\n1. Work vs. Codex\n2. Spaces vs. Pages vs. Sites\n3. The model and effort picker\nProbably alot more\n\nMy hot take is that the whole Work launch was a mistake. Just like Claude folded Cowork back into Chat, I don't think Work needs its own brand.\n\nAnyway, excited to see my primary harness get much better.\n\n📌 See my full dots review here: https://t.co/kUtg3RPk7l",
+      "translatedTitle": "我很高兴 OpenAI 致力于简化 ChatGPT，因为它现在已经变得一团糟（所以……）",
+      "translatedBody": "我很高兴 OpenAI 正在着手简化 ChatGPT，因为它现在变得一团糟（抱歉）。\n\n以下是我在 Dots 评测中关于此事的一段摘录。我会简化的内容包括：\n\n1. Work 与 Codex 的区别\n\n2. Spaces、Pages 和 Sites 的区别\n\n3. 模型和工作量选择器\n\n可能还有很多其他方面需要简化\n\n我个人认为 Work 的发布是个错误。就像 Claude 将 Cowork 并回 Chat 一样，我认为 Work 不需要一个独立的品牌。\n\n总之，很高兴看到我的主要工具得到显著改进。\n\n📌 查看我的完整 Dots 评测：https://t.co/kUtg3RPk7l",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2106926956554195018",
+      "publishedAt": "2026-10-05T01:58:25.000Z",
+      "score": 99.25,
+      "engagement": {
+        "likes": 67,
+        "retweets": 2,
+        "replies": 22
       },
       "matchedFocusAreas": [
         "Coding Agents",
+        "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2106583814709633413",
+      "id": "2106893015063421357",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "目前人工智能代理的采用情况仍然呈现两极分化的趋势。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：AI agent adoption is still very bimodal right now. You have coding and coding adjacent tasks which have taken off, an…",
+      "title": "我们已经开始看到人工智能正在创造哪些新的工作岗位。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：We’re already starting to see what kind of new jobs AI is creating. AI requires significant technical work and surrou…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "AI agent adoption is still very bimodal right now.",
-      "originalBody": "AI agent adoption is still very bimodal right now. You have coding and coding adjacent tasks which have taken off, and then everything else. \n\nAnd even within coding, you have a very wide continuum of adoption patterns, with some likely a small percentage of developers deploying background agents working on projects in parallel, and the rest of everyone else still working with agents 1:1. \n\nThen, there’s the entire rest of knowledge work where real agentic adoption is still very early. The reason for this is that most of the workflows still need to reengineered to work with agents. \n\nThis isn’t the same as deploying a chat system for better research efficiency, but instead requires workflows to be rebuilt, data to be wired up in new ways, new practices for accountability and liability of decisions when agents are in the mix, governance and compliance paradigm changes, security upgrades, and more. \n\nWe’re still so unbelievably early in what this is going to look like outside of a few categories of work right now. This is why you can basically expect 100X more agent adoption from what we’ve seen so far.",
-      "translatedTitle": "目前人工智能代理的采用情况仍然呈现两极分化的趋势。",
-      "translatedBody": "目前人工智能代理的应用仍然呈现两极分化的趋势。一方面是编码和编码相关任务，这些领域的应用已经蓬勃发展；另一方面则是其他领域。\n\n即使在编码领域，应用模式也呈现出非常大的差异：可能只有一小部分开发者部署了后台代理，用于并行处理项目；而其余开发者仍然采用一对一的代理工作模式。\n\n此外，在其他知识工作领域，人工智能代理的真正应用仍处于起步阶段。原因在于，大多数工作流程仍需重新设计才能与代理协同工作。\n\n这与部署聊天系统以提高研究效率截然不同，它需要重建工作流程，以新的方式连接数据，建立新的决策问责机制（尤其是在代理参与的情况下），改变治理和合规范式，进行安全升级等等。\n\n目前，除了少数几个特定领域的应用之外，我们对人工智能代理的未来发展方向仍然知之甚少。这就是为什么我们可以预期，代理采用率将比我们目前所看到的增长100倍。",
+      "originalTitle": "We’re already starting to see what kind of new jobs AI is creating.",
+      "originalBody": "We’re already starting to see what kind of new jobs AI is creating. \n\nAI requires significant technical work and surrounding services to deploy into the economy. This means jobs for AI engineers that build applied AI products sold to (or within) enterprises, FDEs to deploy agents into companies, new services firms for deploying AI, and more. \n\nAnd even the published stats of new jobs undercount all the existing jobs that are transitioning to new areas of AI work in an enterprise. Many prior data, research, and software jobs large enterprises are also being repositioned for working with AI. \n\nEvery bank, life sciences company, manufacturer, and even law firm is bringing on more technical talent -or repositioning existing roles- to help with agent deployment in their companies. It’s a lot easier to picture what AI can replace vs. what it creates until it starts happening. Now we’re seeing what this looks like.",
+      "translatedTitle": "我们已经开始看到人工智能正在创造哪些新的工作岗位。",
+      "translatedBody": "我们已经开始看到人工智能正在创造哪些新的就业机会。\n\n人工智能需要大量的技术工作和配套服务才能部署到经济领域。这意味着需要人工智能工程师来构建面向企业（或企业内部）的应用型人工智能产品，需要功能开发工程师（FDE）来将人工智能系统部署到企业中，需要新的服务公司来部署人工智能等等。\n\n即使是已公布的新增就业岗位统计数据也低估了企业中所有正在转型到人工智能相关领域的现有岗位。大型企业的许多先前的数据、研究和软件岗位也在重新定位，以适应人工智能的工作。\n\n每家银行、生命科学公司、制造商，甚至律师事务所都在引进更多技术人才——或重新调整现有岗位——以帮助其公司部署人工智能系统。在人工智能真正开始发挥作用之前，我们更容易想象它会取代什么，而不是它会创造什么。现在，我们正在亲眼目睹这一切。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2106583814709633413",
-      "publishedAt": "2026-10-04T03:14:54.000Z",
-      "score": 79.94,
+      "sourceUrl": "https://x.com/levie/status/2106893015063421357",
+      "publishedAt": "2026-10-04T23:43:33.000Z",
+      "score": 84.91,
       "engagement": {
-        "likes": 187,
-        "retweets": 15,
-        "replies": 63
+        "likes": 565,
+        "retweets": 63,
+        "replies": 79
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -132,119 +162,94 @@
       "sourceType": "x"
     },
     {
-      "id": "2106450089938157720",
+      "id": "2106957269212742135",
       "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "如今，人工智能的普及应用很大程度上是一个产品问题。",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：AI adoption is largely a product problem today. Even among the 2% that are paying for AI today, the depth of usage is…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "AI adoption is largely a product problem today.",
-      "originalBody": "AI adoption is largely a product problem today. \n\nEven among the 2% that are paying for AI today, the depth of usage is shallow. \n\nThe main reason : most AI products look like airplane cockpits with 100 levers - connectors, permissions, model selection, token usage etc.\n\nThis has started to change. Things will look materially different in the next 12 months as product teams come into their own and make AI products easier to use.",
-      "translatedTitle": "如今，人工智能的普及应用很大程度上是一个产品问题。",
-      "translatedBody": "如今，人工智能的普及很大程度上是一个产品问题。\n\n即使在目前付费使用人工智能的2%用户中，其使用深度也十分有限。\n\n主要原因在于：大多数人工智能产品就像飞机驾驶舱一样，拥有上百个控制杆——连接器、权限、模型选择、令牌使用等等。\n\n这种情况已经开始改变。未来12个月内，随着产品团队日趋成熟，人工智能产品将变得更加易用，情况将会发生显著变化。",
+      "builder": "Nikunj Kothari",
+      "title": "也许我思想比较老派，但我实在无法理解人们是如何进行投资的……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Maybe I’m just old school, but I just can’t believe how people make investments over a Zoom call.. and sometimes by j…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Maybe I’m just old school, but I just can’t believe how people make investments ove…",
+      "originalBody": "Maybe I’m just old school, but I just can’t believe how people make investments over a Zoom call.. and sometimes by just meeting the CEO. \n\nThere’s so much alpha in meeting founders at their own office. \n\nBesides “vibes”, you get to see what the energy of the office is like, how the coworkers react and work with each other, how the cofounders answer and complement each other, what the beta product releases look like, how they collaborate etc etc. \n\nYes, I get it there’s time pressure, and you often have to move fast. But even then I always ask to meet at offices for final meetings and founders often tell me I’m the only one that has ever asked. \n\nWhat’s the point of calling them into your own conference room and parrot the same deck??",
+      "translatedTitle": "也许我思想比较老派，但我实在无法理解人们是如何进行投资的……",
+      "translatedBody": "也许我有点老派，但我实在无法相信人们竟然会通过 Zoom 会议就进行投资……有时甚至只是见见 CEO 就决定了。\n\n在创始人办公室与他们见面，能获得很多宝贵的经验。\n\n除了“氛围”之外，你还能感受到办公室的氛围，同事之间的互动和工作方式，联合创始人之间的交流和互补，测试版产品的发布情况，他们的协作方式等等。\n\n是的，我理解时间紧迫，你往往需要快速行动。但即便如此，我仍然会要求在最终会议时到他们的办公室见面，而创始人经常告诉我，我是唯一一个提出这个要求的人。\n\n把他们叫到你自己的会议室，然后鹦鹉学舌地重复同样的内容，这有什么意义呢？",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2106450089938157720",
-      "publishedAt": "2026-10-03T18:23:32.000Z",
-      "score": 78.18,
+      "sourceUrl": "https://x.com/nikunj/status/2106957269212742135",
+      "publishedAt": "2026-10-05T03:58:53.000Z",
+      "score": 75.51,
       "engagement": {
-        "likes": 145,
-        "retweets": 13,
-        "replies": 34
+        "likes": 104,
+        "retweets": 0,
+        "replies": 19
       },
       "matchedFocusAreas": [
-        "Foundation Models",
+        "Coding Agents",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2106505635017986394",
+      "id": "2106825485624004691",
       "type": "tweet",
       "builder": "Peter Yang",
-      "title": "谷歌CEO真的会使用这个应用并回复反馈，而YouTube CEO却只……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Google CEO actually uses this app and replies to feedback while YouTube CEO only uses this as a comms channel to post…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Google CEO actually uses this app and replies to feedback while YouTube CEO only us…",
-      "originalBody": "Google CEO actually uses this app and replies to feedback while YouTube CEO only uses this as a comms channel to post announcements https://t.co/i6tT2vJVBY",
-      "translatedTitle": "谷歌CEO真的会使用这个应用并回复反馈，而YouTube CEO却只……",
-      "translatedBody": "谷歌CEO真的会使用这个应用，还会回复用户反馈，而YouTube CEO只是把它当作发布公告的沟通渠道。https://t.co/i6tT2vJVBY",
+      "title": "“建造东西越容易，就越需要注重细节……”",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：\"The easier it gets to build stuff, the more it matters to really sweat the details and go the extra mile.\" From Sam,…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "\"The easier it gets to build stuff, the more it matters to really sweat the details…",
+      "originalBody": "\"The easier it gets to build stuff, the more it matters to really sweat the details and go the extra mile.\"\n\nFrom Sam, co-founder of @meetgranola:\n\n\"One, you've got to build something interesting. Two, [most people] get to version one and push it out the door.\n\nInstead, hold yourself accountable, not just to shipping something, but to answering: Does the person actually get daily value out of it?\"\n\n📌 Watch the full episode here: https://t.co/4f5zTNl4Kc",
+      "translatedTitle": "“建造东西越容易，就越需要注重细节……”",
+      "translatedBody": "“产品越容易开发，就越需要注重细节，精益求精。”\n\n来自 @meetgranola 联合创始人 Sam 的话：\n\n“首先，你必须开发出有趣的产品。其次，大多数人做到第一版就草草了事。\n\n但你应该对自己负责，不仅要交付产品，还要回答这个问题：用户真的能从中获得日常价值吗？”\n\n📌 点击此处观看完整视频：https://t.co/4f5zTNl4Kc",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2106505635017986394",
-      "publishedAt": "2026-10-03T22:04:15.000Z",
-      "score": 62.69,
+      "sourceUrl": "https://x.com/petergyang/status/2106825485624004691",
+      "publishedAt": "2026-10-04T19:15:13.000Z",
+      "score": 68.75,
       "engagement": {
-        "likes": 1311,
-        "retweets": 15,
-        "replies": 28
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2106603980386394123",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "它的功能是——删除所有我不需要保留的电子邮件类别，v…",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：What it did - delete all categories of email that were not needed for me to keep, validating them in batch - identify…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "What it did - delete all categories of email that were not needed for me to keep, v…",
-      "originalBody": "What it did\n\n- delete all categories of email that were not needed for me to keep, validating them in batch\n- identify labels for types of work that I do and label all the emails appropriately\n- walked me through emails that needed a reply, searching for relevant context in the background to help get things right\n\nand in the process I was able to go through a lot of feedback and requests people send me directly through email. It was a good Saturday.",
-      "translatedTitle": "它的功能是——删除所有我不需要保留的电子邮件类别，v…",
-      "translatedBody": "它做了什么？\n\n- 批量删除所有我不需要保留的邮件类别，并进行验证\n\n- 识别我所做工作的类别，并为所有邮件贴上相应的标签\n\n- 引导我处理需要回复的邮件，在后台搜索相关上下文，帮助我正确回复\n\n在这个过程中，我得以处理大量人们直接通过邮件发送给我的反馈和请求。真是个美好的周六。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2106603980386394123",
-      "publishedAt": "2026-10-04T04:35:02.000Z",
-      "score": 55.23,
-      "engagement": {
-        "likes": 254,
-        "retweets": 7,
-        "replies": 41
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2106593772863955419",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我正在看《基地》第一季第三集，但我不知道自己是不是真的喜欢它……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I'm watching Foundation now season 1 episode 3 and can't decide if I really love it or not. Does it get much better?…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I'm watching Foundation now season 1 episode 3 and can't decide if I really love it…",
-      "originalBody": "I'm watching Foundation now season 1 episode 3 and can't decide if I really love it or not. \n\nDoes it get much better? The emperor plot is good the rest seems meh so far. https://t.co/mpOYshnd0G",
-      "translatedTitle": "我正在看《基地》第一季第三集，但我不知道自己是不是真的喜欢它……",
-      "translatedBody": "我正在看《基地》第一季第三集，但不知道自己到底喜不喜欢这部剧。\n\n后面的剧情会精彩很多吗？皇帝这条线挺不错的，但其他部分目前感觉一般。https://t.co/mpOYshnd0G",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2106593772863955419",
-      "publishedAt": "2026-10-04T03:54:28.000Z",
-      "score": 52.56,
-      "engagement": {
-        "likes": 86,
+        "likes": 25,
         "retweets": 0,
-        "replies": 74
+        "replies": 7
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2106821381765956044",
+      "type": "tweet",
+      "builder": "Matt Turck",
+      "title": "人工智能领域之外，仍有许多方面鲜为人知……",
+      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Still one aspect of AI that's most poorly understood outside AI circles... \"models are grown, not built\" and we don't…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Still one aspect of AI that's most poorly understood outside AI circles...",
+      "originalBody": "Still one aspect of AI that's most poorly understood outside AI circles... \"models are grown, not built\" and we don't *really* know how they work.  Hence the urgent need for better interpretability -- @eric_ho @GoodfireAI https://t.co/VCDuEk2r72 https://t.co/iIV93Rjz28",
+      "translatedTitle": "人工智能领域之外，仍有许多方面鲜为人知……",
+      "translatedBody": "人工智能领域之外，最不为人所理解的方面之一仍然是……“模型是培育出来的，而不是构建出来的”，我们并不真正了解它们的工作原理。因此，迫切需要提高模型的可解释性——@eric_ho @GoodfireAI https://t.co/VCDuEk2r72 https://t.co/iIV93Rjz28",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/mattturck/status/2106821381765956044",
+      "publishedAt": "2026-10-04T18:58:54.000Z",
+      "score": 63.75,
+      "engagement": {
+        "likes": 5,
+        "retweets": 1,
+        "replies": 4
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-10-04T08:22:04.655Z",
-    "totalCandidates": 25,
-    "textQualifiedCandidates": 12,
+    "upstreamGeneratedAt": "2026-10-05T07:02:40.424Z",
+    "totalCandidates": 18,
+    "textQualifiedCandidates": 13,
     "selectedTweets": 8
   }
 }
