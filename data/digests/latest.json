@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-07",
-  "generatedAt": "2026-10-07T05:11:10.730Z",
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T05:21:22.923Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-10-07",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 30 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-10-08",
+  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 39 条候选动态里，筛出 22 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,113 +23,163 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2107119811444748555",
+      "id": "2107574195978641911",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "Every团队尽可能多地通过代理商开展工作。",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：The Every team runs as much work as possible through agents. To help the whole team share skills when a new model com…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "The Every team runs as much work as possible through agents.",
+      "originalBody": "The Every team runs as much work as possible through agents. To help the whole team share skills when a new model comes out, they built a company agent on Claude Managed Agents that everyone uses in Slack.\n\nOnce it caught on internally, they released it to their subscribers. https://t.co/sKAhBei27k",
+      "translatedTitle": "Every团队尽可能多地通过代理商开展工作。",
+      "translatedBody": "Every 团队尽可能地通过代理来处理工作。为了帮助整个团队在新模型发布时共享技能，他们基于 Claude Managed Agents 构建了一个公司代理，供所有成员在 Slack 中使用。\n\n该代理在内部推广后，他们将其发布给了订阅用户。https://t.co/sKAhBei27k",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2107574195978641911",
+      "publishedAt": "2026-10-06T20:50:19.000Z",
+      "score": 214.7,
+      "engagement": {
+        "likes": 1669,
+        "retweets": 93,
+        "replies": 118
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2107606246350266469",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "隆重推出 gdp-ts：TypeScript 的 Ghosts of Departed Proofs。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Introducing gdp-ts: Ghosts of Departed Proofs for TypeScript. gdp-ts is a library, linter and AI skill for safer API…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Introducing gdp-ts: Ghosts of Departed Proofs for TypeScript.",
-      "originalBody": "Introducing gdp-ts: Ghosts of Departed Proofs for TypeScript.\n\ngdp-ts is a library, linter and AI skill for safer API design. Under this contract, sensitive functions require 'proofs' that the caller performed an authorization check.\n\nThe typechecker verifies these proofs at compile time, preventing your team and agents from shipping catastrophic security (and other kinds of) bugs.\n\nWhile these patterns have existed for quite some time, especially in ecosystems like Haskell, ① human code review and ② cognitive and syntactic overhead made these solutions niche.\n\nThe situation is now inverted. Agents are writing more code than we can review, and they *thrive* in tight loops with hard constraints that would frustrate us. We see this with the rise of Rust, borrow checker, code aesthetics debate and all.\n\nThe README and examples model a real-world Vercel API product constraint: changing the password on a Project requires a proof of a certain role + a certain entitlement. Thanks to Matt Noonan and Ollie Charles for their research in this space.\n\nhttps://t.co/eRWdiMvQ2V",
-      "translatedTitle": "隆重推出 gdp-ts：TypeScript 的 Ghosts of Departed Proofs。",
-      "translatedBody": "隆重推出 gdp-ts：TypeScript 的“已逝者证明”（Ghosts of Departed Proofs）。\n\ngdp-ts 是一个库、代码检查器和 AI 技能，旨在实现更安全的 API 设计。根据此契约，敏感函数需要提供“证明”，证明调用者已执行授权检查。\n\n类型检查器会在编译时验证这些证明，从而防止您的团队和代理程序发布灾难性的安全漏洞（以及其他类型的漏洞）。\n\n虽然这些模式已经存在很长时间了，尤其是在 Haskell 等生态系统中，但 ① 人工代码审查以及 ② 认知和语法开销使得这些解决方案的应用范围有限。\n\n现在情况发生了逆转。代理程序编写的代码量远超我们能够审查的范围，而且它们在具有严格约束的紧密循环中如鱼得水，而这些约束会让我们感到沮丧。Rust 的兴起、借用检查器以及关于代码美学的争论等等都印证了这一点。\n\nREADME 文件和示例模拟了 Vercel API 产品的一个实际限制：更改项目密码需要证明其拥有特定角色和特定权限。感谢 Matt Noonan 和 Ollie Charles 在这方面的研究。\n\nhttps://t.co/eRWdiMvQ2V",
+      "title": "“在自信阈值以下，思考要快，但速度要慢一些。” 非常……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：“Thinking fast and s̶l̶o̶w̶ a bit less fast under a confidence threshold.” A very simple feature that I think will be…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "“Thinking fast and s̶l̶o̶w̶ a bit less fast under a confidence threshold.” A very s…",
+      "originalBody": "“Thinking fast and s̶l̶o̶w̶ a bit less fast under a confidence threshold.”\n\nA very simple feature that I think will be extremely impactful for at-scale AI decision-making. https://t.co/ivWDKynSpm",
+      "translatedTitle": "“在自信阈值以下，思考要快，但速度要慢一些。” 非常……",
+      "translatedBody": "“快速思考，并在置信度阈值以下稍稍放慢速度。”\n\n这是一个非常简单的功能，但我认为它将对大规模人工智能决策产生极其深远的影响。https://t.co/ivWDKynSpm",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2107119811444748555",
-      "publishedAt": "2026-10-05T14:44:46.000Z",
-      "score": 216.02,
+      "sourceUrl": "https://x.com/rauchg/status/2107606246350266469",
+      "publishedAt": "2026-10-06T22:57:41.000Z",
+      "score": 178.56,
       "engagement": {
-        "likes": 2176,
-        "retweets": 107,
-        "replies": 152
+        "likes": 164,
+        "retweets": 6,
+        "replies": 42
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2107283615247999257",
+      "id": "2107522599530139767",
+      "type": "tweet",
+      "builder": "Claude",
+      "title": "在 Claude 中，粘贴 Google 文件链接或请求新建文档、表格或卡组，它就会打开……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：In Claude, paste a Google file link or ask for a new doc, sheet, or deck, and it opens beside the chat for you and Cl…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "In Claude, paste a Google file link or ask for a new doc, sheet, or deck, and it op…",
+      "originalBody": "In Claude, paste a Google file link or ask for a new doc, sheet, or deck, and it opens beside the chat for you and Claude to edit together. Access follows your Google sharing permissions.\n\nIn beta on all paid plans. Give it a try: https://t.co/2PehYZKjTm",
+      "translatedTitle": "在 Claude 中，粘贴 Google 文件链接或请求新建文档、表格或卡组，它就会打开……",
+      "translatedBody": "在 Claude 中，粘贴 Google 文件链接或请求新建文档、表格或演示文稿，即可在聊天窗口旁打开，方便您和 Claude 共同编辑。访问权限取决于您的 Google 分享权限。\n\n所有付费套餐均已推出测试版。立即体验：https://t.co/2PehYZKjTm",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/claudeai/status/2107522599530139767",
+      "publishedAt": "2026-10-06T17:25:18.000Z",
+      "score": 161.1,
+      "engagement": {
+        "likes": 947,
+        "retweets": 24,
+        "replies": 15
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2107691577015755196",
+      "type": "tweet",
+      "builder": "Sam Altman",
+      "title": "还要感谢无数付出技术努力的人们，砖瓦工……",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：and thank you to the untold number of people who put in the technical work, brick by brick over the generations, to g…",
+      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "and thank you to the untold number of people who put in the technical work, brick b…",
+      "originalBody": "and thank you to the untold number of people who put in the technical work, brick by brick over the generations, to get us to the point where such a wonder is possible.",
+      "translatedTitle": "还要感谢无数付出技术努力的人们，砖瓦工……",
+      "translatedBody": "感谢无数世代以来辛勤付出、一砖一瓦的技术人员，正是他们的努力才使我们今天能够拥有如此奇迹。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/sama/status/2107691577015755196",
+      "publishedAt": "2026-10-07T04:36:45.000Z",
+      "score": 139.3,
+      "engagement": {
+        "likes": 1639,
+        "retweets": 59,
+        "replies": 84
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2107680435644039269",
       "type": "tweet",
       "builder": "Aaron Levie",
-      "title": "代理的采用和部署之所以受到一定程度的制约，是因为无法……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：A decent amount of agent adoption and deployment is bottlenecked by being able to test, tune, and optimize agents on…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "A decent amount of agent adoption and deployment is bottlenecked by being able to t…",
-      "originalBody": "A decent amount of agent adoption and deployment is bottlenecked by being able to test, tune, and optimize agents on “real” work environments. The files agents need to access, the CRM environments, email, and more.\n\nIt’s impossible to know how agents are performing if you don’t understand how well they’re executing on your evals and how they’ll perform in the future with a model change or workflow upgrade. Every enterprise has to do this 1 by 1 right now, which is obviously slow and tedious.\n\nEvery enterprise is going to have someone managing evals, infrastructure for building and running evals and simulated environments, and more. Huge space.",
-      "translatedTitle": "代理的采用和部署之所以受到一定程度的制约，是因为无法……",
-      "translatedBody": "大量代理的采用和部署受到瓶颈，原因在于无法在“真实”工作环境中测试、调优和优化代理。这些环境包括代理需要访问的文件、CRM 环境、电子邮件等等。\n\n如果不了解代理在评估中的表现，以及它们在未来模型变更或工作流程升级后的表现，就无法知道代理的实际性能。目前，每个企业都必须逐个进行这些工作，这显然既缓慢又繁琐。\n\n每个企业都需要有人负责管理评估、构建和运行评估及模拟环境的基础设施等等。这方面的工作量巨大。",
+      "title": "网络安全将成为未来几年人工智能最重要的应用领域之一，而且……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Cyber will be one of the most defining domains for AI in the coming years, and a huge area of focus for most enterpri…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Cyber will be one of the most defining domains for AI in the coming years, and a hu…",
+      "originalBody": "Cyber will be one of the most defining domains for AI in the coming years, and a huge area of focus for most enterprises.\n\nAI is going to now create a whole new level of work for security dealing with the increase of vibe coded issues, agentic attacks, and even accidental agent swarms hunting for data. OpenAI + Hugging Face is just a preview of what’s to come.\n\nSecurity teams have often been the most strapped for resources teams in the enterprise, and now it’s only going to get more intense. AI agents of course become the solution to this problem as well, and we’ll see a range of new agentic products for protecting code, enterprise systems, mission critical infrastructure, and enterprise data. Huge opportunity here right now.\n\nAnd it’s going to be a booming market for cyber professionals that can effectively deploy agents for security purposes in the enterprise. Great time to be in security.",
+      "translatedTitle": "网络安全将成为未来几年人工智能最重要的应用领域之一，而且……",
+      "translatedBody": "网络安全将成为未来几年人工智能最具决定性的领域之一，也是大多数企业关注的重点。\n\n人工智能将为安全部门带来全新的挑战，例如应对代码漏洞、智能体攻击，甚至是意外出现的智能体集群搜寻数据等问题。OpenAI + Hugging Face 只是未来挑战的冰山一角。\n\n安全团队通常是企业中最缺乏资源的团队，而现在情况只会更加严峻。人工智能智能体自然也将成为解决这一问题的方案，我们将看到一系列用于保护代码、企业系统、关键基础设施和企业数据的新型智能体产品涌现。现在正是绝佳的机遇。\n\n对于能够有效部署智能体以保障企业安全的网络安全专业人员来说，这将是一个蓬勃发展的市场。现在正是投身安全领域的绝佳时机。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2107283615247999257",
-      "publishedAt": "2026-10-06T01:35:39.000Z",
-      "score": 103.62,
+      "sourceUrl": "https://x.com/levie/status/2107680435644039269",
+      "publishedAt": "2026-10-07T03:52:29.000Z",
+      "score": 79.43,
       "engagement": {
-        "likes": 143,
-        "retweets": 11,
-        "replies": 51
+        "likes": 164,
+        "retweets": 24,
+        "replies": 47
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2107292113214091355",
+      "id": "2107565388250874193",
       "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "团队最常犯的错误是将评估视为一次额外的质量保证步骤……",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：The most common mistake teams make is to treat evals as an additional QA step once the agent is built. AI products ar…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "The most common mistake teams make is to treat evals as an additional QA step once…",
-      "originalBody": "The most common mistake teams make is to treat evals as an additional QA step once the agent is built.\n\nAI products are fundamentally different.\n\nYour evals are your product spec.",
-      "translatedTitle": "团队最常犯的错误是将评估视为一次额外的质量保证步骤……",
-      "translatedBody": "团队最常犯的错误是，在智能体构建完成后，将评估视为额外的质量保证步骤。\n\n人工智能产品本质上与此不同。\n\n您的评估就是您的产品规格说明。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2107292113214091355",
-      "publishedAt": "2026-10-06T02:09:26.000Z",
-      "score": 99.57,
-      "engagement": {
-        "likes": 68,
-        "retweets": 4,
-        "replies": 23
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2107294499282293017",
-      "type": "tweet",
-      "builder": "Thariq",
-      "title": "这种规划方式的一大优势在于它能更有效地利用代币……",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：a big advantage of doing planning like this is that it’s a lot more token efficient compared to raw HTML- the model d…",
+      "builder": "Boris Cherny",
+      "title": "我很惊讶大家会惊讶于我竟然会用这种方式来引导克劳德。",
+      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：I am surprised that people are surprised this is how I prompt Claude. Talk to Claude the way you would a coworker. Th…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "a big advantage of doing planning like this is that it’s a lot more token efficient…",
-      "originalBody": "a big advantage of doing planning like this is that it’s a lot more token efficient compared to raw HTML-\n\nthe model doesn’t need to remake the components or logic to do common things like state machines, diagrams, code snippets, etc. https://t.co/z2LsVJ9D3W",
-      "translatedTitle": "这种规划方式的一大优势在于它能更有效地利用代币……",
-      "translatedBody": "这种规划方式的一大优势在于，与原始 HTML 相比，它能显著提高代码的效率。\n\n该模型无需重新构建组件或逻辑即可实现状态机、图表、代码片段等常见功能。https://t.co/z2LsVJ9D3W",
+      "originalTitle": "I am surprised that people are surprised this is how I prompt Claude.",
+      "originalBody": "I am surprised that people are surprised this is how I prompt Claude.\n\nTalk to Claude the way you would a coworker. There's no secret to prompting. There's no need to be overly scaffolded or prescriptive for most tasks -- give Claude a goal, and it will figure it out.\n\nBack in the Sonnet 3.5 days, your prompt mattered a lot. Nowadays, it's much more important to communicate to the model:\n\n1. What you want it to do\n2. How much effort you want it to spend\n3. How it should verify that it did the right thing",
+      "translatedTitle": "我很惊讶大家会惊讶于我竟然会用这种方式来引导克劳德。",
+      "translatedBody": "我很惊讶大家会对我引导克劳德的方式感到惊讶。\n\n像对待同事一样和克劳德交流。引导没什么秘诀。大多数任务都不需要过度指导或规定——给克劳德一个目标，它自己就能搞定。\n\n在 Sonnet 3.5 时代，你的提示非常重要。如今，更重要的是与模型沟通：\n\n1. 你希望它做什么\n\n2. 你希望它付出多少努力\n\n3. 它应该如何验证自己做对了",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2107294499282293017",
-      "publishedAt": "2026-10-06T02:18:54.000Z",
-      "score": 61.22,
+      "sourceUrl": "https://x.com/bcherny/status/2107565388250874193",
+      "publishedAt": "2026-10-06T20:15:19.000Z",
+      "score": 73.32,
       "engagement": {
-        "likes": 898,
-        "retweets": 29,
-        "replies": 58
+        "likes": 8943,
+        "retweets": 503,
+        "replies": 450
       },
       "matchedFocusAreas": [
         "Foundation Models"
@@ -137,26 +187,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2107146629338042853",
+      "id": "2107504677143368163",
       "type": "tweet",
-      "builder": "Ryo Lu",
-      "title": "为语言学习者做了一个小功能：用任意两种语言观看带字幕的 Netflix…",
-      "summary": "Ryo Lu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：made a lil thing for language learners: watch Netflix with subtitles in any two languages, plus pronunciation guides…",
+      "builder": "Thariq",
+      "title": "在更高层次的抽象层面上工作，始终需要理解较低层次的层面……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：working at a higher level of abstraction has always required understanding the lower level ones, I don't think coding…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "made a lil thing for language learners: watch Netflix with subtitles in any two lan…",
-      "originalBody": "made a lil thing for language learners:\nwatch Netflix with subtitles in any two languages, plus pronunciation guides for Japanese, Chinese, and Korean. customizable styles, hand-picked defaults.\nenjoy 🍿 https://t.co/JFw0cfcBOW",
-      "translatedTitle": "为语言学习者做了一个小功能：用任意两种语言观看带字幕的 Netflix…",
-      "translatedBody": "为语言学习者做了一个小工具：\n\n用任意两种语言的字幕观看 Netflix，还有日语、中文和韩语的发音指南。可自定义样式，精选默认样式。\n\n尽情享受吧🍿 https://t.co/JFw0cfcBOW",
+      "originalTitle": "working at a higher level of abstraction has always required understanding the lowe…",
+      "originalBody": "working at a higher level of abstraction has always required understanding the lower level ones, I don't think coding agents changes this",
+      "translatedTitle": "在更高层次的抽象层面上工作，始终需要理解较低层次的层面……",
+      "translatedBody": "更高层次的抽象工作始终需要理解较低层次的抽象，我认为编写代理程序并不会改变这一点。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/ryolu_/status/2107146629338042853",
-      "publishedAt": "2026-10-05T16:31:19.000Z",
-      "score": 60.52,
+      "sourceUrl": "https://x.com/trq212/status/2107504677143368163",
+      "publishedAt": "2026-10-06T16:14:05.000Z",
+      "score": 69.51,
       "engagement": {
-        "likes": 798,
-        "retweets": 29,
-        "replies": 37
+        "likes": 4206,
+        "retweets": 287,
+        "replies": 224
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -164,80 +214,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2107129959550685660",
+      "id": "2107575089441181861",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "实验室提供的工具具有销毁代币的动机，这意味着来自 st… 的工具",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Harnesses from labs have an incentive to burn tokens, which means harnesses from startups have a real utility, like h…",
+      "builder": "Dan Shipper",
+      "title": "如果没有 Claude Managed Agents，我们不可能打造出 @every agent，他们真的非常有趣……",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：we couldn't have built the @every agent without Claude Managed Agents extremely fun to get to sit down and chat about…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Harnesses from labs have an incentive to burn tokens, which means harnesses from st…",
-      "originalBody": "Harnesses from labs have an incentive to burn tokens, which means harnesses from startups have a real utility, like how Grep can automatically swap token burn into deterministic tested code that is repeatable just by observing agent use https://t.co/a17UIpSAAW",
-      "translatedTitle": "实验室提供的工具具有销毁代币的动机，这意味着来自 st… 的工具",
-      "translatedBody": "实验室开发的工具具有销毁代币的动机，这意味着初创公司开发的工具具有实际效用，例如 Grep 可以通过观察代理的使用情况，自动将销毁的代币替换为可重复使用的、经过测试的确定性代码。https://t.co/a17UIpSAAW",
+      "originalTitle": "we couldn't have built the @every agent without Claude Managed Agents extremely fun…",
+      "originalBody": "we couldn't have built the @every agent without Claude Managed Agents\n\nextremely fun to get to sit down and chat about it: https://t.co/RAsiCZwlZd",
+      "translatedTitle": "如果没有 Claude Managed Agents，我们不可能打造出 @every agent，他们真的非常有趣……",
+      "translatedBody": "如果没有 Claude Managed Agents，我们不可能打造出 @every agent。\n\n能坐下来聊聊这件事真是太棒了：https://t.co/RAsiCZwlZd",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2107129959550685660",
-      "publishedAt": "2026-10-05T15:25:05.000Z",
-      "score": 59.37,
+      "sourceUrl": "https://x.com/danshipper/status/2107575089441181861",
+      "publishedAt": "2026-10-06T20:53:52.000Z",
+      "score": 51.8,
       "engagement": {
-        "likes": 512,
-        "retweets": 41,
-        "replies": 91
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2107246891977335049",
-      "type": "tweet",
-      "builder": "Ryo Lu",
-      "title": "想起史蒂夫，我小时候家里都是米色盒子。",
-      "summary": "Ryo Lu 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：remembering Steve i grew up with beige boxes. then i moved to Canada and saw the iMac G4. how can computers be so bea…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "remembering Steve i grew up with beige boxes.",
-      "originalBody": "remembering Steve\n\ni grew up with beige boxes. then i moved to Canada and saw the iMac G4.\n\nhow can computers be so beautiful?\n\ni couldn’t afford a Mac, so i made my PC look like one. changed the icons, the fonts, the windows. learned to make those shiny, lickable buttons. that’s how i got into interface design. i saw something i loved and wanted to make things like it.\n\ni burned DVDs of Steve’s keynotes and studied them. watched them again and again. there was so much care in the products, and so much joy in showing people what they could do.\n\nmy first iPod was a black nano. i carried it everywhere. then the iPhone happened and changed the world.\n\nit felt like anything was possible.\n\nsince he died, i’ve felt us getting stuck in a loop. constant refinement. better supply chains. more ways to keep people scrolling. so much talent spent on tiny improvements, so little room for something truly great and heartfelt.\n\nthe keynotes get more cinematic every year. i still miss the live demos. someone onstage playing with something they helped make. the excitement, the jokes, the things that went wrong. it felt human. it was fun.\n\nwe made computers faster. phones thinner. added more cameras. made machines smarter than us at more and more things. somehow, we’ve also become more disconnected and lonely.\n\nwe spend so much energy trying to beat humans. i wish we spent more time learning from people’s lives and making them better.\n\nwhen i work, i still sometimes think: what would Steve do?\n\ni’ll never know. i’m sad i never got to work with him. but his work reached a kid with a beige PC and changed the course of his life. i wonder how many others have a story like mine.\n\ni’ve kept these words with me:\n\n“the people who are crazy enough to think they can change the world, are the ones who do.”\n\nthere’s still so much worth making. things we can put our hearts into. things that make someone feel what i felt when i first saw that iMac.\n\nthank you, Steve. 💛",
-      "translatedTitle": "想起史蒂夫，我小时候家里都是米色盒子。",
-      "translatedBody": "缅怀史蒂夫\n\n我从小用的是米色的电脑盒子。后来我搬到加拿大，看到了 iMac G4。\n\n电脑怎么能这么漂亮？\n\n我买不起 Mac，所以我就把我的 PC 改造成 Mac 的样子。我换了图标、字体、窗口。我还学会了制作那些闪闪发光、让人忍不住想舔的按钮。这就是我进入界面设计领域的契机。我看到了自己喜欢的东西，就想做出类似的东西。\n\n我刻录了史蒂夫主题演讲的 DVD，反复研究。一遍又一遍地观看。他对产品倾注了如此多的心血，也乐于向人们展示它们的功能。\n\n我的第一台 iPod 是黑色的 nano。我走到哪儿都带着它。后来 iPhone 问世，改变了世界。\n\n感觉一切皆有可能。\n\n自从他去世后，我感觉我们陷入了一个循环。不断改进。更完善的供应链。更多让人们不断滑动屏幕的方式。太多的才华都耗费在细微的改进上，却鲜有空间留给真正伟大而真挚的作品。\n\n每年的主题演讲都越来越像电影。我仍然怀念现场演示。有人在台上演示自己参与制作的东西。那种兴奋、玩笑、以及各种小插曲。感觉很人性化，很有趣。\n\n我们让电脑运行得更快，手机更薄，摄像头更多，机器在越来越多的方面比我们更聪明。但不知怎的，我们也变得越来越疏离和孤独。\n\n我们耗费了太多精力去超越人类。我希望我们能花更多时间从人们的生活中学习，并努力改善他们的生活。\n\n工作时，我有时还会想：史蒂夫会怎么做？\n\n我永远不会知道答案。我很遗憾没能和他共事。但他的作品影响了一个拥有米色电脑的孩子，改变了他的人生轨迹。我想知道有多少人和我有着类似的经历。\n\n我一直铭记着这句话：\n\n“那些疯狂到认为自己可以改变世界的人，才是真正改变世界的人。”\n\n仍然有很多值得创造的东西，很多我们可以倾注心血的东西。那些能让人想起我第一次看到那台 iMac 时的感受的事物。\n\n谢谢你，史蒂夫。💛",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/ryolu_/status/2107246891977335049",
-      "publishedAt": "2026-10-05T23:09:44.000Z",
-      "score": 58.85,
-      "engagement": {
-        "likes": 566,
-        "retweets": 27,
-        "replies": 27
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2107173670699622830",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "AGI科学循环即将到来，而Muse/Instinct也将为这些AGI科学提供支持……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：AGI Science Loops are coming, and there will be Muse/Instinct for those AGI Science Loops. Halmos is building that. h…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "AGI Science Loops are coming, and there will be Muse/Instinct for those AGI Science…",
-      "originalBody": "AGI Science Loops are coming, and there will be Muse/Instinct for those AGI Science Loops. Halmos is building that. https://t.co/By7Gr2jOj9",
-      "translatedTitle": "AGI科学循环即将到来，而Muse/Instinct也将为这些AGI科学提供支持……",
-      "translatedBody": "通用人工智能（AGI）科学循环即将到来，届时将有 Muse/Instinct 来支持这些 AGI 科学循环。Halmos 正在开发这个工具。https://t.co/By7Gr2jOj9",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2107173670699622830",
-      "publishedAt": "2026-10-05T18:18:47.000Z",
-      "score": 58.24,
-      "engagement": {
-        "likes": 481,
-        "retweets": 33,
-        "replies": 27
+        "likes": 132,
+        "retweets": 10,
+        "replies": 12
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -246,9 +242,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-10-06T06:45:56.730Z",
-    "totalCandidates": 30,
-    "textQualifiedCandidates": 13,
+    "upstreamGeneratedAt": "2026-10-07T06:45:10.543Z",
+    "totalCandidates": 39,
+    "textQualifiedCandidates": 22,
     "selectedTweets": 8
   }
 }
