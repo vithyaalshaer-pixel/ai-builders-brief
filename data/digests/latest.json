@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T06:11:50.578Z",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T04:14:13.239Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-10-13",
-  "summary": "今天最值得看的是 Andrej Karpathy 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 20 条候选动态里，筛出 12 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-10-14",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 31 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,55 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2109361546505966046",
+      "id": "2109734766107099312",
       "type": "tweet",
-      "builder": "Andrej Karpathy",
-      "title": "翻出这条四月份的推文，是因为大家对LLM课程的理解存在分歧……",
-      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Dusting off this tweet from April because this gap in shared understanding of LLM c…",
-      "originalBody": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
-      "translatedTitle": "翻出这条四月份的推文，是因为大家对LLM课程的理解存在分歧……",
-      "translatedBody": "翻出四月份的这条推文，是因为大家对LLM（学习型机器学习）能力的理解差距正在*扩大*。现在的情况与其说是“两群人各说各话”，不如说是一个清晰的漏斗。\n\n- 粗略估计，大约有60亿人（约占总人口的75%）几乎从未接触过LLM。\n\n- 大约有10亿到20亿人（约占总人口的20%）偶尔使用类似ChatGPT的免费产品。这部分人看到的是一些功能略显笨拙的聊天机器人，并把它们当作类似谷歌搜索、写作辅助工具之类的东西。也许会有客服人员帮你订机票。我的一些非技术类朋友（在我看来，他们的说法很合理）表示，他们几乎用不到LLM。甚至很多非数学和编程领域的专业人士也属于这一类。例如，高管和其他许多职能部门的人员需要花费大量时间与他人沟通，因此，尽管他们从理论上理解LLM的运作原理，但这种理解仍然是间接的，而且有些抽象。\n\n现在我们来看看尖端LLM在数学和代码领域的专业应用。大约有2000万人（占总人口的0.2%）亲眼见证了过去需要耗费数周甚至数月才能完成的大型复杂项目，如今只需一个提示，智能体就能轻松完成。构建应用、复制应用、翻译应用、从二进制文件中反编译应用……这一切都发生得非常迅速，而且就在不久前——不到一年前，我还在手动编写代码，将记忆中的计算机代码命令一个个字符地输入到代码编辑器中，偶尔按一下Tab键来自动补全一小段代码。\n\n最后，我们来看看大约5000人（占总人口的0.00006%），他们内部已经可以访问尖端系统。外部世界已经看到了预览版。看起来就像成千上万的智能体在数周内协同工作，开发大型软件项目：制造零日漏洞、以机器速度运行网络攻击和防御、发现新的科学、推进数学前沿。这些工作，过去需要业内顶尖专业人士花费数年时间才能完成。与此同时，人工审阅和理解的速度开始跟不上。例如，人们仍在“挖掘”几个月前 OpenAI-HF 事件的“考古”成果。数学家们可能还要花一段时间才能看完那 722 篇关于前沿数学的手稿。\n\n漏斗效应受多种因素共同驱动：\n\n1. 影响力与目标、问题规模和时间跨度成正比。一个只有一段答案的问题几乎不会给系统带来压力。你需要大量你真正关心的、规模庞大且难度极高的问题。这一因素驱动了漏斗效应中的消费者/专业人士维度。\n\n2. 系统的复杂性（我曾单独撰文详细阐述过）。在数字化、可验证且具有经济价值的领域，系统能力达到顶峰。这是因为 LLM 能力源于在由收益潜力驱动的精心策划的混合环境中，通过可验证奖励进行强化学习而产生的。这一因素主要驱动了漏斗效应中的领域（例如数学与代码）维度。\n\n3. 访问权限。免费层、付费层、内部访问。所以，这就是当下的怪异之处。普通大众大多没有接触过这些系统。即便接触过，也只是觉得它们像个笨拙的聊天机器人。大多数专业人士仍然只感受到微弱的提升。而只有极少数专业人士体验到了曲线垂直上升带来的眩晕感。这一切都在同时发生。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/karpathy/status/2109361546505966046",
-      "publishedAt": "2026-10-11T19:12:37.000Z",
-      "score": 230.21,
-      "engagement": {
-        "likes": 30115,
-        "retweets": 3852,
-        "replies": 1357
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2109410082769482174",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "用确定性代码替换 LLM 调用是理所当然的，而且还能带来更好的结果……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Replacing LLM calls with deterministic code is a no brainer and also results in better code that better matches what…",
+      "builder": "Guillermo Rauch",
+      "title": "编码命令行界面（CLI）变得越来越复杂。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Coding CLIs keep getting more complicated. Daemons, 3 layers of TUIs, client-server architectures. The whole point of…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Replacing LLM calls with deterministic code is a no brainer and also results in bet…",
-      "originalBody": "Replacing LLM calls with deterministic code is a no brainer and also results in better code that better matches what users want https://t.co/jzOeeoHFMO",
-      "translatedTitle": "用确定性代码替换 LLM 调用是理所当然的，而且还能带来更好的结果……",
-      "translatedBody": "用确定性代码替换 LLM 调用是明智之举，而且还能生成更符合用户需求的优质代码 https://t.co/jzOeeoHFMO",
+      "originalTitle": "Coding CLIs keep getting more complicated.",
+      "originalBody": "Coding CLIs keep getting more complicated. Daemons, 3 layers of TUIs, client-server architectures.\n\nThe whole point of a CLI is to deliver intelligence with zero friction, and be unix-like.\n\n💾 Try https://t.co/OL0LzGtvAw. It's 6mb, starts in milliseconds, model-agnostic. It's tastefully minimal: MCP, Skills, Subagents and ACP built-in.",
+      "translatedTitle": "编码命令行界面（CLI）变得越来越复杂。",
+      "translatedBody": "编写 CLI 代码变得越来越复杂。守护进程、三层 TUI、客户端-服务器架构……\n\nCLI 的精髓在于以零摩擦的方式提供智能功能，并保持类 Unix 的体验。\n\n💾 试试 https://t.co/OL0LzGtvAw。它只有 6MB，毫秒级启动，并且与模型无关。界面简洁美观：内置 MCP、Skills、Subagents 和 ACP。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2109410082769482174",
-      "publishedAt": "2026-10-11T22:25:29.000Z",
-      "score": 89.51,
+      "sourceUrl": "https://x.com/rauchg/status/2109734766107099312",
+      "publishedAt": "2026-10-12T19:55:39.000Z",
+      "score": 184.48,
       "engagement": {
-        "likes": 1624,
-        "retweets": 71,
-        "replies": 129
+        "likes": 539,
+        "retweets": 27,
+        "replies": 102
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -80,172 +51,199 @@
       "sourceType": "x"
     },
     {
-      "id": "2109329495341867391",
+      "id": "2109646793713786970",
       "type": "tweet",
-      "builder": "Thariq",
-      "title": "我认为陶哲轩的方向是对的，我们不应该满足于超级……",
-      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：I think Terrence Tao is directionally correct, we shouldn’t settle for a super intelligence that is opaque. A key sig…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "I think Terrence Tao is directionally correct, we shouldn’t settle for a super inte…",
-      "originalBody": "I think Terrence Tao is directionally correct, we shouldn’t settle for a super intelligence that is opaque.\n\nA key signal of intelligence is communication. We should strive to make products and models that build understanding with humans instead of disintermediating them. https://t.co/p44dDROehA",
-      "translatedTitle": "我认为陶哲轩的方向是对的，我们不应该满足于超级……",
-      "translatedBody": "我认为陶哲轩的观点方向正确，我们不应该满足于一种不透明的超级智能。\n\n智能的关键信号之一是沟通。我们应该努力开发能够与人类建立理解的产品和模型，而不是将人类排除在外。https://t.co/p44dDROehA",
+      "builder": "Josh Woodward",
+      "title": "我跟莱尼学了很多年，但我们之前从未见过面。",
+      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验：I’ve learned from Lenny for years, but we had never met. What you see is what you get with him: he’s kind, prepared,…",
+      "whyItMatters": "Josh Woodward 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "I’ve learned from Lenny for years, but we had never met.",
+      "originalBody": "I’ve learned from Lenny for years, but we had never met. What you see is what you get with him: he’s kind, prepared, and deeply curious. Great interviewers do their homework, and you can tell he’s in that league: he took our conversation to places that I’ve never talked about in public. Enjoy the first 60 minutes of us getting to chat together. \n\nThank you @lennysan !",
+      "translatedTitle": "我跟莱尼学了很多年，但我们之前从未见过面。",
+      "translatedBody": "多年来我一直向莱尼学习，但我们之前从未见过面。他为人真诚，表里如一：友善、准备充分，而且求知欲极强。优秀的采访者都会做足功课，而莱尼显然就是其中之一：他把我们的谈话引向了我从未公开谈论过的话题。请欣赏我们前60分钟的精彩对话。\n\n谢谢 @lennysan！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/trq212/status/2109329495341867391",
-      "publishedAt": "2026-10-11T17:05:15.000Z",
-      "score": 88.6,
+      "sourceUrl": "https://x.com/joshwoodward/status/2109646793713786970",
+      "publishedAt": "2026-10-12T14:06:05.000Z",
+      "score": 131.01,
       "engagement": {
-        "likes": 1219,
-        "retweets": 59,
-        "replies": 205
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2109467575025578330",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "这是了解我们目前在人工智能普及方面究竟处于什么阶段的好方法……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：This is a good way to understand how early we actually are in AI diffusion right now. The vast majority of people are…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "This is a good way to understand how early we actually are in AI diffusion right no…",
-      "originalBody": "This is a good way to understand how early we actually are in AI diffusion right now. The vast majority of people are using AI as a chatbot for simple interactions that approximate next-generation search. This is super useful but dramatically underrepresents the full capability of AI.\n\nOn the complete other end of the spectrum, agent swarms represent possibly the ultimate form factor of what agents will do inside of our workflows. Math, cyber, bio, materials science, software engineering, finance, and any other field that has valuable tasks that can be executed in parallel where compute can be applied to accelerate work all have this characteristic.\n\nLess than a fraction of a fraction of the population uses AI in this way right now, due to a mix of the capabilities of models relative to the user's domain, the cost of doing these types of workflows today, the harnesses available to do this style of AI work, and the availability (or lack thereof) of frontier models to the general public.\n\nThere will also be a huge amount of change management necessary to get most areas of work -beyond software and AI research- to benefit from this style of agents. Companies need to upgrade their workflows, data needs to integrated and migrated into modern platforms, and companies will need to work through compliance, governance, and security frameworks to pull it off. \n\nBut this all represents opportunity right now. A lot of this is where the applied layer of AI will really shine in the enterprise because of the domain specificity of this type of work. You can get an early sense of where things are going and the opportunity ahead by seeing through the funnel that Andrej lays out.",
-      "translatedTitle": "这是了解我们目前在人工智能普及方面究竟处于什么阶段的好方法……",
-      "translatedBody": "这有助于我们了解人工智能普及的现状。绝大多数人将人工智能用作聊天机器人，进行一些简单的交互，其功能类似于下一代搜索。这固然非常实用，但却远远低估了人工智能的全部潜力。\n\n另一方面，智能体集群或许代表了智能体在我们工作流程中最终的应用形态。数学、网络安全、生物科学、材料科学、软件工程、金融以及任何其他拥有可并行执行的高价值任务且能够利用计算加速工作的领域都具备这一特性。\n\n目前，只有极少数人以这种方式使用人工智能，原因包括模型能力与用户领域的匹配度、当前此类工作流程的成本、可用于此类人工智能工作的工具以及前沿模型对公众的可用性（或缺乏性）。\n\n此外，要让软件和人工智能研究以外的大多数工作领域也能从这种智能体中受益，还需要进行大量的变革管理。企业需要升级工作流程，将数据集成并迁移到现代平台，并且需要应对合规、治理和安全框架等问题才能完成这些工作。\n\n但这一切都蕴藏着机遇。由于这类工作具有领域特定性，人工智能的应用层将在企业中大放异彩。通过 Andrej 提出的漏斗图，您可以提前了解未来的发展方向和机遇。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2109467575025578330",
-      "publishedAt": "2026-10-12T02:13:56.000Z",
-      "score": 83.05,
-      "engagement": {
-        "likes": 343,
-        "retweets": 46,
-        "replies": 88
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2109430343346581527",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "第 7 天/ 我们已将 GPT-6.1 Sol 的默认上下文长度增加到 500k（当使用 t… 时）。",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Day 7/ We have increased default context length for GPT-6.1 Sol to 500k when used t…",
-      "originalBody": "Day 7/\n\nWe have increased default context length for GPT-6.1 Sol to 500k when used through Codex & Work, up from 272k or an ~ 80% increase.\n\nWe will go higher in the future, but it helps reduce occurrence of compactions and with tasks that require keeping a lot of context and nuance over periods of time. It was carefully tested and is the new sweet spot for most of our users. You can still override it if you want to be higher our lower, with maximum context length of GPT-6.1 Sol of 1M.",
-      "translatedTitle": "第 7 天/ 我们已将 GPT-6.1 Sol 的默认上下文长度增加到 500k（当使用 t… 时）。",
-      "translatedBody": "第 7 天/\n\n我们已将通过 Codex & Work 使用的 GPT-6.1 Sol 的默认上下文长度增加到 500k，从 272k 提升了约 80%。\n\n未来我们会进一步提高这个值，但目前的设置有助于减少压缩的发生，并能更好地满足那些需要长期保留大量上下文信息和细微差别的任务的需求。我们已仔细测试过，这个值对大多数用户来说都是最佳选择。如果您需要更高或更低的上下文长度，仍然可以自行调整，GPT-6.1 Sol 的最大上下文长度为 1M。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2109430343346581527",
-      "publishedAt": "2026-10-11T23:45:59.000Z",
-      "score": 74.56,
-      "engagement": {
-        "likes": 10608,
-        "retweets": 454,
-        "replies": 1320
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2109418482953814026",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "立即加入这5000人行列。",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Be part of the 5000 today. It’s amazing The lucky thing is the price will come down and more people will see this, an…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Be part of the 5000 today.",
-      "originalBody": "Be part of the 5000 today. It’s amazing\n\nThe lucky thing is the price will come down and more people will see this, and get a chance to bring it to the world\n\nGreatest alpha fountain in the history of man https://t.co/0CQTE04g9m",
-      "translatedTitle": "立即加入这5000人行列。",
-      "translatedBody": "今天就加入这5000人的行列吧！太棒了！\n\n幸运的是，价格还会下降，更多人会看到它，并有机会把它带给全世界。\n\n人类历史上最伟大的阿尔法喷泉 https://t.co/0CQTE04g9m",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2109418482953814026",
-      "publishedAt": "2026-10-11T22:58:52.000Z",
-      "score": 62.29,
-      "engagement": {
-        "likes": 1113,
-        "retweets": 34,
-        "replies": 66
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2109417956929327510",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "如果你想知道旧金山公共银行能为这座城市带来什么……又能为你带来什么？",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If you wonder what an SF Public Bank will do for the city… For you? Absolutely nothing. For Jackie Fielder’s nonprofi…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "If you wonder what an SF Public Bank will do for the city… For you?",
-      "originalBody": "If you wonder what an SF Public Bank will do for the city…\n\nFor you? Absolutely nothing. \n\nFor Jackie Fielder’s nonprofit grifter cronies? Absolutely everything. https://t.co/rIjHhK7jFI",
-      "translatedTitle": "如果你想知道旧金山公共银行能为这座城市带来什么……又能为你带来什么？",
-      "translatedBody": "如果你想知道旧金山公共银行能给这座城市带来什么好处……\n\n对你来说？什么都没有。\n\n对杰基·菲尔德的那些非营利组织骗子同伙来说？好处多多。https://t.co/rIjHhK7jFI",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2109417956929327510",
-      "publishedAt": "2026-10-11T22:56:46.000Z",
-      "score": 55.01,
-      "engagement": {
-        "likes": 239,
-        "retweets": 22,
-        "replies": 22
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2109439315570999598",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "这项民意调查的结果让我感到困惑。",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验：The results of this poll has gotten me confused. I definitely thought it would sway much more favorably in the 2X dir…",
-      "whyItMatters": "Thibault Sottiaux 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "The results of this poll has gotten me confused.",
-      "originalBody": "The results of this poll has gotten me confused. I definitely thought it would sway much more favorably in the 2X direction across Pro 100/200/500 at the cost of bringing back 5h limits in order to smoothen the demand curve. https://t.co/zwn7kboMhT",
-      "translatedTitle": "这项民意调查的结果让我感到困惑。",
-      "translatedBody": "这次投票结果让我很困惑。我原本以为，为了平滑需求曲线，即使要恢复5小时的使用时长限制，Pro 100/200/500 两倍续航的呼声也会更高。https://t.co/zwn7kboMhT",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2109439315570999598",
-      "publishedAt": "2026-10-12T00:21:38.000Z",
-      "score": 47.9,
-      "engagement": {
-        "likes": 4625,
-        "retweets": 99,
-        "replies": 3319
+        "likes": 342,
+        "retweets": 15,
+        "replies": 7
       },
       "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2109803399332213090",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "这是我解释为什么 Grok @bot 是我目前最喜欢的智能助手的视频片段。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Here's a clip of me explaining why Grok @bot is my favorite agent right now. tl;dr It’s built on personas instead of…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Here's a clip of me explaining why Grok @bot is my favorite agent right now.",
+      "originalBody": "Here's a clip of me explaining why Grok @bot is my favorite agent right now.\n\ntl;dr It’s built on personas instead of chat threads, so it really feels like hiring employees to work for you. Each owns a specific job:\n\n→ Behind the Growth owns customer support\n→ YouTube Producer owns research and prep\n→ Loving Husband owns errands for my family\n→ Health Coach keeps my workouts on track\n\n📌 Watch my latest Grok Bot video covering how I'm using its new features here (free X access, its own email, and Opus): https://t.co/eu1nBVXqyd",
+      "translatedTitle": "这是我解释为什么 Grok @bot 是我目前最喜欢的智能助手的视频片段。",
+      "translatedBody": "这里有一个视频片段，我解释了为什么 Grok @bot 是我目前最喜欢的智能助手。\n\n简而言之，它基于用户角色而非聊天记录构建，所以感觉就像雇佣员工为你工作一样。每个角色都负责一项特定的工作：\n\n→ “幕后成长”负责客户支持\n\n→ “YouTube 制作人”负责研究和准备工作\n\n→ “爱我的丈夫”负责处理家庭琐事\n\n→ “健康教练”负责督促我进行锻炼\n\n📌 观看我最新的 Grok Bot 视频，了解我是如何使用它的新功能的（免费 X 访问权限、专属邮箱和 Opus）：https://t.co/eu1nBVXqyd",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2109803399332213090",
+      "publishedAt": "2026-10-13T00:28:23.000Z",
+      "score": 74.82,
+      "engagement": {
+        "likes": 77,
+        "retweets": 6,
+        "replies": 18
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2109673430245421415",
+      "type": "tweet",
+      "builder": "Zara Zhang",
+      "title": "我刚刚听到一个非常感人的AI编程故事。",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I just heard the most touching AI coding story. A friend @vicyaqingyang grew up in a modest home full of cockroaches.…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "I just heard the most touching AI coding story.",
+      "originalBody": "I just heard the most touching AI coding story.\n\nA friend @vicyaqingyang grew up in a modest home full of cockroaches. To turn lemons into lemonade, her mom made killing them a game.\n\nWhen she told this story to another friend, that friend vibe coded a game from it. You catch cockroaches in a room and compete against Mom.\n\nShe cried while playing it.\n\nThe game isn’t technically sophisticated. Any model can build it pretty quickly now. What gives it a soul is the human story, experience, and emotion behind it.\n\nCode is the new medium for storytelling.",
+      "translatedTitle": "我刚刚听到一个非常感人的AI编程故事。",
+      "translatedBody": "我刚刚听到一个非常感人的AI编程故事。\n\n我的朋友@vicyaqingyang 小时候住在一个蟑螂横行的简陋房子里。为了让生活不再那么糟糕，她妈妈把抓蟑螂变成了一种游戏。\n\n当她把这个故事讲给另一个朋友时，那个朋友竟然根据这个故事编写了一个游戏。游戏里，玩家需要在房间里抓蟑螂，然后和妈妈比赛。\n\n她玩的时候哭了。\n\n这个游戏的技术并不复杂。现在任何模型都能很快地做出类似的游戏。真正赋予它灵魂的是背后的人性故事、经历和情感。\n\n代码是讲述故事的新媒介。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/zarazhangrui/status/2109673430245421415",
+      "publishedAt": "2026-10-12T15:51:56.000Z",
+      "score": 73.51,
+      "engagement": {
+        "likes": 64,
+        "retweets": 1,
+        "replies": 16
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2109788979952558255",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "这项研究非常酷，最终必将成为……的最终架构。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Ok this is quite cool research and ultimately must be the eventual architecture of agents. In the limit, AI will obvi…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Ok this is quite cool research and ultimately must be the eventual architecture of…",
+      "originalBody": "Ok this is quite cool research and ultimately must be the eventual architecture of agents. In the limit, AI will obviously be better at determining its own harness once it sees the task at hand, than us being able to do this in advance: https://t.co/jl6ZdeUFY1 https://t.co/7UOyjCGtdD",
+      "translatedTitle": "这项研究非常酷，最终必将成为……的最终架构。",
+      "translatedBody": "这项研究非常酷，最终必将成为智能体的最终架构。显然，人工智能一旦发现当前任务，就能比我们预先设定任务方式更好地确定自身适用范围：https://t.co/jl6ZdeUFY1 https://t.co/7UOyjCGtdD",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2109788979952558255",
+      "publishedAt": "2026-10-12T23:31:05.000Z",
+      "score": 56.21,
+      "engagement": {
+        "likes": 289,
+        "retweets": 22,
+        "replies": 43
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2109682812811137061",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "未来，代理群将成为许多企业工作流程的核心组成部分。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Agent swarms are going to be a core part of many enterprise workflows in the future. The ability to throw compute at…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Agent swarms are going to be a core part of many enterprise workflows in the future.",
+      "originalBody": "Agent swarms are going to be a core part of many enterprise workflows in the future. The ability to throw compute at problems that you can massively parallelize will be too useful to not take advantage of. \n\nCyber will be one of the biggest beneficiaries of this as it’s a space where testing vast number of permutations of attacks (without getting tired or bored) is an incredibly useful property. You have a wide search space of possible risk vectors and you generally need to be able to chain together different scenarios to achieve the exploit. \n\nThis will become one of the biggest token uses in large enterprises given the range of IT systems, software, physical infrastructure, and data that needs to be protected at all times. Super interesting times in cyber.",
+      "translatedTitle": "未来，代理群将成为许多企业工作流程的核心组成部分。",
+      "translatedBody": "未来，代理集群将成为许多企业工作流程的核心组成部分。能够利用强大的计算能力处理可以大规模并行化的问题，其价值不容忽视。\n\n网络安全将是这项技术的最大受益者之一，因为在这个领域，测试大量攻击组合（而不会感到疲倦或厌倦）是一项极其重要的特性。您可以搜索到广泛的潜在风险向量，并且通常需要将不同的场景串联起来才能成功利用漏洞。\n\n鉴于大型企业需要时刻保护的IT系统、软件、物理基础设施和数据范围之广，这将成为大型企业中最重要的应用之一。网络安全领域正迎来一个激动人心的时代。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2109682812811137061",
+      "publishedAt": "2026-10-12T16:29:13.000Z",
+      "score": 54.04,
+      "engagement": {
+        "likes": 159,
+        "retweets": 23,
+        "replies": 38
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2109820627561676970",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "星际争霸陪伴了很多人度过了童年，甚至包括本。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：So many people’s childhoods were defined by StarCraft even Ben. Still can’t believe the new game won’t come out till…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "So many people’s childhoods were defined by StarCraft even Ben.",
+      "originalBody": "So many people’s childhoods were defined by StarCraft even Ben.\n\nStill can’t believe the new game won’t come out till 2030. \n\n@Blizzard_Ent should double down on this franchise. Make movies, TV shows, and yes a real time strategy game! https://t.co/vRnuahUusL",
+      "translatedTitle": "星际争霸陪伴了很多人度过了童年，甚至包括本。",
+      "translatedBody": "星际争霸陪伴了许多人的童年，包括本·阿弗莱克。\n\n真不敢相信新作要到2030年才会发售。\n\n暴雪娱乐应该加大力度开发这个系列。拍电影、电视剧，当然还有即时战略游戏！https://t.co/vRnuahUusL",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2109820627561676970",
+      "publishedAt": "2026-10-13T01:36:50.000Z",
+      "score": 48.06,
+      "engagement": {
+        "likes": 61,
+        "retweets": 1,
+        "replies": 13
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2109778026091209087",
+      "type": "tweet",
+      "builder": "Dan Shipper",
+      "title": "我使用 Muse Wonder 制作了一个视频，解释个人基准测试。",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I used muse wonder to make a video explaining personal benchmarks.. this is ummm pretty rough interestingly all of it…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "I used muse wonder to make a video explaining personal benchmarks..",
+      "originalBody": "I used muse wonder to make a video explaining personal benchmarks..\n\nthis is ummm pretty rough\n\ninterestingly all of its videos so far are narrated in an Australian accent. I'll leave interpretation to the reader https://t.co/OULxzZFCxt",
+      "translatedTitle": "我使用 Muse Wonder 制作了一个视频，解释个人基准测试。",
+      "translatedBody": "我用 Muse Wonder 做了一个视频来解释个人基准测试……\n\n嗯……效果还不太好。\n\n有趣的是，它目前所有的视频都是用澳大利亚口音配音的。至于具体含义，就留给读者自行解读吧。https://t.co/OULxzZFCxt",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/danshipper/status/2109778026091209087",
+      "publishedAt": "2026-10-12T22:47:33.000Z",
+      "score": 46.29,
+      "engagement": {
+        "likes": 43,
+        "retweets": 1,
+        "replies": 9
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-10-12T07:04:13.260Z",
-    "totalCandidates": 20,
-    "textQualifiedCandidates": 12,
+    "upstreamGeneratedAt": "2026-10-13T06:50:13.445Z",
+    "totalCandidates": 31,
+    "textQualifiedCandidates": 13,
     "selectedTweets": 8
   }
 }
