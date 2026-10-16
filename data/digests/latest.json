@@ -1,8 +1,8 @@
 {
-  "date": "2026-10-15",
-  "generatedAt": "2026-10-15T03:57:11.503Z",
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T03:53:06.685Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-10-15",
+  "title": "AI Builders Daily | 2026-10-16",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
   "intro": "已从 28 条候选动态里，筛出 10 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
@@ -11,93 +11,137 @@
     {
       "slug": "coding-agents",
       "label": "Coding Agents"
-    },
-    {
-      "slug": "foundation-models",
-      "label": "Foundation Models"
-    },
-    {
-      "slug": "product-ships",
-      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2110044152482365747",
+      "id": "2110514201559228606",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "恭喜双子座团队。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Congrats Gemini team. Never bet against Google, the company that brought us Transformers and has overwhelming data, e…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Congrats Gemini team.",
-      "originalBody": "Congrats Gemini team. Never bet against Google, the company that brought us Transformers and has overwhelming data, engineering talent, and compute.\n\nEveryone has, rightfully, pivoted back to coding. Coding agents are the killer app of AI. We're firmly at an elysium for developers and builders.\n\nIncidentally, getting Muse Wonder and Gemini Argon back-to-back is a reminder why you as an individual, and your company, should stay model agnostic and gateway-maxxx / fx-maxxx.",
-      "translatedTitle": "恭喜双子座团队。",
-      "translatedBody": "恭喜 Gemini 团队！永远不要低估谷歌，这家公司创造了《变形金刚》，并且拥有压倒性的数据、工程人才和计算能力。\n\n大家都理所当然地重新投入到代码编写中。代码代理是人工智能的杀手级应用。我们正处于开发者和构建者的黄金时代。\n\n顺便一提，Muse Wonder 和 Gemini Argon 的接连成功提醒我们，无论作为个人还是公司，都应该保持模型无关性，并充分利用网关和功能。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2110044152482365747",
-      "publishedAt": "2026-10-13T16:25:03.000Z",
-      "score": 189.92,
-      "engagement": {
-        "likes": 1841,
-        "retweets": 50,
-        "replies": 119
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2110065576764686421",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "🆕 如何扼杀你的 SaaS https://t.co/A0F60h1DcQ 很多人都在谈论死亡……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：🆕 How to Kill Your SaaS https://t.co/A0F60h1DcQ A lot of people talk about the death of SaaS but mostly in theoretic…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "🆕 How to Kill Your SaaS https://t.co/A0F60h1DcQ A lot of people talk about the dea…",
-      "originalBody": "🆕 How to Kill Your SaaS \n\nhttps://t.co/A0F60h1DcQ\n\nA lot of people talk about the death of SaaS but mostly in theoretical terms. We took a real $43,000/year SaaS we use and launched a global hackathon to clone it in a weekend, with both AI and REAL HUMAN evals, using any models any harness. \n\n72 submissions, a lot of manual evals and ~100B tokens later, here are the results\n\nIn this special @latentspacepod edition we share the data collected, what's still hard about killing nontrivial, midtier SaaS, and reveal the winners of the $10,000 Kill My SaaS contest with qualitative interviews!",
-      "translatedTitle": "🆕 如何扼杀你的 SaaS https://t.co/A0F60h1DcQ 很多人都在谈论死亡……",
-      "translatedBody": "🆕 如何扼杀你的 SaaS\n\nhttps://t.co/A0F60h1DcQ\n\n很多人都在谈论 SaaS 的消亡，但大多停留在理论层面。我们选取了一款我们自己每年花费 43,000 美元的 SaaS 产品，并发起了一场全球黑客马拉松，试图在短短一个周末内将其克隆出来。我们同时进行了人工智能和真人评估，并允许使用任何模型和工具。\n\n经过 72 份提交、大量的人工评估以及约 1000 亿个代币的投入，以下是最终结果。\n\n在本期 @latentspacepod 特别节目中，我们将分享收集到的数据，探讨扼杀非平庸的中端 SaaS 仍然面临的挑战，并通过定性访谈揭晓 10,000 美元“扼杀我的 SaaS”大赛的获胜者！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2110065576764686421",
-      "publishedAt": "2026-10-13T17:50:11.000Z",
-      "score": 179.03,
-      "engagement": {
-        "likes": 86,
-        "retweets": 9,
-        "replies": 105
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2110089824573272547",
-      "type": "tweet",
-      "builder": "Josh Woodward",
-      "title": "Gemini 4 Argon：这款定制火箭直径 96 毫米，制造过程中最难的部分是……",
-      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Gemini 4 Argon: At 96 millimeters wide, the hardest part of manufacturing this custom furniture leg was deciding how…",
+      "title": "这是科技领域最激动人心的时代之一，而这项挑战正是……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：This is one of the most exhilarating times in technology, and this challenge was yet another jaw-dropping moment. Whe…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Gemini 4 Argon: At 96 millimeters wide, the hardest part of manufacturing this cust…",
-      "originalBody": "Gemini 4 Argon: At 96 millimeters wide, the hardest part of manufacturing this custom furniture leg was deciding how many stacked spheres to give it. https://t.co/SMgsGxePc5",
-      "translatedTitle": "Gemini 4 Argon：这款定制火箭直径 96 毫米，制造过程中最难的部分是……",
-      "translatedBody": "Gemini 4 Argon：这款定制家具腿宽 96 毫米，制造过程中最难的部分在于决定用多少个堆叠的球体来支撑它。https://t.co/SMgsGxePc5",
+      "originalTitle": "This is one of the most exhilarating times in technology, and this challenge was ye…",
+      "originalBody": "This is one of the most exhilarating times in technology, and this challenge was yet another jaw-dropping moment.\n\nWhen the details of OpenAI’s agent escape and Hugging Face hack started to emerge, it became clear that agent containment would be one of the most important priorities for any AI infra company.\n\nThere are two classes of escapes: ① \"escape the network\" and ② “escape the matrix” 😁, as in, break the spell of virtualization. OpenAI was the former, where an agent not supposed to have internet access… gained it by hacking another system. Genuinely astonishing and worrisome.\n\nThrough this challenge, however, we discovered something even more groundbreaking. A talented white-hat researcher, armed with a swarm of AI agents, expertise and perseverance, \"pierced through\" the Linux virtualization boundary that nearly every cloud sandbox provider in the world banks on today.\n\nI'm very thankful we got the report, were able to quickly move to protect our customers, found no evidence of customer data compromise, and collaborated with many industry partners to protect the wider internet.\n\nOur confidence and conviction in Vercel Sandbox are even greater now, after some of the smartest, most motivated researchers in the world, and their agents, gave it their best shot.",
+      "translatedTitle": "这是科技领域最激动人心的时代之一，而这项挑战正是……",
+      "translatedBody": "这是科技领域最激动人心的时代之一，而这次挑战更是令人瞠目结舌。\n\n当 OpenAI 的智能体逃脱和 Hugging Face 黑客攻击的细节开始浮出水面时，我们意识到，智能体隔离将成为任何人工智能基础设施公司最重要的优先事项之一。\n\n逃脱分为两类：①“逃离网络”和②“逃离矩阵”😁，也就是打破虚拟化的魔咒。OpenAI 属于前者，一个本不应该拥有互联网访问权限的智能体……通过入侵另一个系统获得了访问权限。这确实令人震惊，也令人担忧。\n\n然而，通过这次挑战，我们发现了一些更具突破性的东西。一位才华横溢的白帽研究人员，凭借着一群人工智能智能体、专业知识和毅力，“突破”了几乎所有云沙箱提供商如今赖以生存的 Linux 虚拟化边界。\n\n我非常感谢我们收到了这份报告，得以迅速采取行动保护我们的客户，没有发现任何客户数据泄露的证据，并与众多行业伙伴合作保护了整个互联网的安全。\n\n在世界上一些最聪明、最有干劲的研究人员及其代理人竭尽全力之后，我们对 Vercel Sandbox 的信心和信念更加坚定。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/joshwoodward/status/2110089824573272547",
-      "publishedAt": "2026-10-13T19:26:32.000Z",
-      "score": 158.59,
+      "sourceUrl": "https://x.com/rauchg/status/2110514201559228606",
+      "publishedAt": "2026-10-14T23:32:51.000Z",
+      "score": 159.02,
       "engagement": {
-        "likes": 529,
-        "retweets": 28,
+        "likes": 517,
+        "retweets": 17,
+        "replies": 88
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2110372513792577971",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "学者们认为，这家公司估值达到20亿美元的创始人有能力支付，但他们却无力偿还……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The academics think the founder who raised at $2B valuation can pay but they can’t You are a founder who owns 50% of…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "The academics think the founder who raised at $2B valuation can pay but they can’t…",
+      "originalBody": "The academics think the founder who raised at $2B valuation can pay but they can’t \n\nYou are a founder who owns 50% of your company and you have 20x voting rights. You owe 5% on $10B in the asset seizure tax. You owe $500M of your paper $1B. Find me a way to get a loan for half your illiquid net worth. You cant. \n\nThe asset seizure proponents are dishonest and also it’s not a 5% tax on startups. It’s a 50% tax in this simple case.",
+      "translatedTitle": "学者们认为，这家公司估值达到20亿美元的创始人有能力支付，但他们却无力偿还……",
+      "translatedBody": "学者们认为，估值达到 20 亿美元的创始人应该有能力支付，但他们做不到。\n\n你是一位创始人，拥有公司 50% 的股份，并且拥有 20 倍的投票权。你需要缴纳 100 亿美元资产的 5% 作为资产扣押税。你账面上的 10 亿美元资产中，有 5 亿美元需要缴纳。请问如何才能获得相当于你一半非流动性净资产的贷款？你做不到。\n\n资产扣押的支持者们并不诚实，而且，在这个简单的例子里，初创企业的税率并非 5%，而是 50%。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2110372513792577971",
+      "publishedAt": "2026-10-14T14:09:50.000Z",
+      "score": 62.04,
+      "engagement": {
+        "likes": 941,
+        "retweets": 67,
+        "replies": 97
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2110422584357478530",
+      "type": "tweet",
+      "builder": "Aditya Agarwal",
+      "title": "在 @spc，我们正在努力协调两件事：1.",
+      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：At @spc, we are trying to reconcile two things: 1. We have never seen technological progress this rapid or fundamenta…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "At @spc, we are trying to reconcile two things: 1.",
+      "originalBody": "At @spc, we are trying to reconcile two things:\n\n1. We have never seen technological progress this rapid or fundamental. Nothing seems impossible.\n\n2. Capital is flowing to consensus teams, in consensus markets, and with consensus terms.\n\nSo we’re running a new experiment: $200K, uncapped, to a handful of unapologetically maximalist thinkers who want to try a truly out-there idea.",
+      "translatedTitle": "在 @spc，我们正在努力协调两件事：1.",
+      "translatedBody": "在 @spc，我们正努力调和两件事：\n\n1. 我们从未见过如此迅猛且意义深远的技术进步。一切似乎都变得可能。\n\n2. 资金正流向共识团队，在共识市场中，以共识条款运作。\n\n因此，我们正在进行一项新的实验：向少数几位敢于突破常规、追求极致的思考者提供 20 万美元的资金，不设上限，让他们尝试真正天马行空的想法。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/adityaag/status/2110422584357478530",
+      "publishedAt": "2026-10-14T17:28:48.000Z",
+      "score": 57.58,
+      "engagement": {
+        "likes": 413,
+        "retweets": 30,
+        "replies": 30
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2110373177637605643",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "学者们其实并没有认真思考创业公司将会面临什么。",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The academics don’t actually think about what will happen to startups. They also have no idea how new innovations occ…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "The academics don’t actually think about what will happen to startups.",
+      "originalBody": "The academics don’t actually think about what will happen to startups. They also have no idea how new innovations occur and how much of a miracle that is for CA. \n\nTheir ignorance results in misguided policy that will kill the golden goose. No on 40\n\nhttps://t.co/ySpc0Lb6Mt",
+      "translatedTitle": "学者们其实并没有认真思考创业公司将会面临什么。",
+      "translatedBody": "学者们根本没考虑过初创企业的未来。他们也完全不了解创新是如何产生的，以及这对加州来说是多么奇迹。\n\n他们的无知导致了错误的政策，最终会扼杀这只金鹅。反对40号提案。\n\nhttps://t.co/ySpc0Lb6Mt",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2110373177637605643",
+      "publishedAt": "2026-10-14T14:12:29.000Z",
+      "score": 50.79,
+      "engagement": {
+        "likes": 112,
+        "retweets": 8,
+        "replies": 8
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2110521081450922117",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我发现我8岁的女儿用ChatGPT来获取数学作业的答案。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Found out that my 8 year old used ChatGPT to get an answer for her math homework. Instead of being mad I was actually…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Found out that my 8 year old used ChatGPT to get an answer for her math homework.",
+      "originalBody": "Found out that my 8 year old used ChatGPT to get an answer for her math homework.\n\nInstead of being mad I was actually quite impressed :)",
+      "translatedTitle": "我发现我8岁的女儿用ChatGPT来获取数学作业的答案。",
+      "translatedBody": "我发现我8岁的女儿居然用ChatGPT来获取数学作业的答案。\n\n我非但没有生气，反而觉得挺佩服的 :)",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2110521081450922117",
+      "publishedAt": "2026-10-15T00:00:12.000Z",
+      "score": 50.1,
+      "engagement": {
+        "likes": 79,
+        "retweets": 0,
         "replies": 29
       },
       "matchedFocusAreas": [
@@ -106,80 +150,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2110179883045560674",
+      "id": "2110422589403193559",
       "type": "tweet",
-      "builder": "Josh Woodward",
-      "title": "Gemini 4 Argon：一个 24 字的提示如何构建出一个定制合成器，将飞驰的……",
-      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验：Gemini 4 Argon: How a 24-word prompt built a custom synthesizer that turns galloping horses, rippling water, and your…",
-      "whyItMatters": "Josh Woodward 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Gemini 4 Argon: How a 24-word prompt built a custom synthesizer that turns gallopin…",
-      "originalBody": "Gemini 4 Argon: How a 24-word prompt built a custom synthesizer that turns galloping horses, rippling water, and your own hands into music. https://t.co/vjsPDalcPx",
-      "translatedTitle": "Gemini 4 Argon：一个 24 字的提示如何构建出一个定制合成器，将飞驰的……",
-      "translatedBody": "Gemini 4 Argon：一个24字的提示如何打造出一个定制合成器，将奔马声、潺潺流水声和你的双手都转化为音乐。https://t.co/vjsPDalcPx",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/joshwoodward/status/2110179883045560674",
-      "publishedAt": "2026-10-14T01:24:24.000Z",
-      "score": 129.48,
-      "engagement": {
-        "likes": 209,
-        "retweets": 17,
-        "replies": 28
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2110046686198550539",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "在 Box，我们一直在针对 Box AI 复杂工作评估项目测试 Gemini 4 Argon…",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：At Box, we've been testing Gemini 4 Argon on our Box AI Complex Work eval for the past week. It's a huge upgrade over…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "At Box, we've been testing Gemini 4 Argon on our Box AI Complex Work eval for the p…",
-      "originalBody": "At Box, we've been testing Gemini 4 Argon on our Box AI Complex Work eval for the past week. It's a huge upgrade over Gemini 3.1 Pro, jumping by 14 percentage points across all our tests, and firmly at the frontier. \n\nIn our evaluation, we give the Box Agent (using Gemini 4 Argon) a variety of complex enterprise tasks involving enterprise documents in a range of industries. These tasks approximate the kind of hard, time-consuming work that knowledge workers do every day with their enterprise content. Gemini 4 is a huge leap on effectively every dimension of this work.\n\nGemini 4 is far more capable on math, logic, analytics, and deep knowledge of a variety of business domains. It also works far harder to complete tasks fully without stopping short of the desired result. This is incredibly important for complex enterprise workflows that depend on robust task execution.\n\nHere are some example wins that we saw to put the improvements in perspective:\n\n* Financial services (+18 points): a funding-gap analysis for a family-owned company, where the brief spelled out every step of the projected statements, down to the interest on the bank loan and the overdraft for each year. Gemini 4 Argon built them exactly as specified, every line broken out and carried through to the funding gap. Gemini 3.1 Pro folded the interest into a single figure.\n\n* Healthcare (+25 points): an intensive care management plan where both models spotted a dangerous potassium level and a drug interaction. Only Gemini 4 Argon went back and pulled the offending drugs from the final regimen, so its plan actually matched its own diagnosis.\n\n* Technology (+37 points): a product performance review deciding which of two regional markets should have its cloud infrastructure optimized first. Gemini 4 Argon pulled the right month's user, retention and per-user figures for both regions and correctly flagged North America. Gemini 3.1 Pro often pulled the wrong rows, at one point reporting retention above 100%, and pointed the effort at the wrong region.\n\n* Energy (+16 points): an energy consumption report across two facilities that had to flag any gaps in the meter data. Gemini 4 Argon consistently caught that the data center's smart meter log stops in November. Gemini 3.1 Pro often missed it, at times declaring the logs complete.\n\n* Consumer products (+33 points): a product launch evaluation deciding which production expansion to fund. Gemini 4 Argon saw that existing inventory could bridge an early capacity gap, which made the smaller expansion viable with an earlier launch and a faster break-even. Gemini 3.1 Pro defaulted to the larger expansion and the later timeline.\n\nGemini 4 Argon will be available in the Box AI Studio shortly for anyone to build custom Box Agents with.",
-      "translatedTitle": "在 Box，我们一直在针对 Box AI 复杂工作评估项目测试 Gemini 4 Argon…",
-      "translatedBody": "过去一周，Box 一直在我们的 Box AI 复杂工作评估中使用 Gemini 4 Argon 进行测试。与 Gemini 3.1 Pro 相比，它有了巨大的提升，在所有测试中都提高了 14 个百分点，稳居行业领先水平。\n\n在我们的评估中，我们让 Box Agent（使用 Gemini 4 Argon）处理各种涉及不同行业企业文档的复杂企业任务。这些任务模拟了知识工作者每天处理企业内容的繁重耗时工作。Gemini 4 在几乎所有方面都实现了巨大的飞跃。\n\nGemini 4 在数学、逻辑、分析以及对各种业务领域的深入了解方面都更加强大。它还能更努力地完成任务，确保最终达到预期结果。这对于依赖于稳健任务执行的复杂企业工作流程至关重要。\n\n以下是一些我们观察到的成功案例，以便您更直观地了解改进之处：\n\n* 金融服务（+18 分）：为一家家族企业进行资金缺口分析，客户简报详细列出了预测报表的每一步，包括每年的银行贷款利息和透支额。Gemini 4 Argon 完全按照要求构建了报表，每一项都清晰明了，并最终计算出资金缺口。而 Gemini 3.1 Pro 则将利息合并为一个单一的数字。\n\n* 医疗保健（+25 分）：一项重症监护管理计划，两个模型都检测到了危险的钾水平和药物相互作用。只有 Gemini 4 Argon 回溯并从最终治疗方案中移除了有问题的药物，因此其计划与自身的诊断结果完全吻合。\n\n* 科技（+37 分）：一项产品性能评估，旨在确定应优先优化两个区域市场中的哪一个的云基础设施。Gemini 4 Argon 提取了两个区域每月正确的用户数、留存率和人均用户数，并正确地标记了北美地区。 Gemini 3.1 Pro 经常提取错误的数据行，甚至一度报告保留率超过 100%，并将工作重点指向了错误的区域。\n\n* 能源（+16 分）：一份涵盖两个设施的能源消耗报告，需要标记出计量数据中的任何缺失。Gemini 4 Argon 始终能够识别出数据中心的智能电表日志在 11 月份停止更新。而 Gemini 3.1 Pro 经常漏掉这一点，有时甚至会判定日志完整。\n\n* 消费品（+33 分）：一项产品发布评估，用于决定资助哪项生产扩张计划。Gemini 4 Argon 发现现有库存可以弥补早期产能缺口，因此较小的扩张方案更可行，可以提前发布产品并更快实现盈亏平衡。Gemini 3.1 Pro 则默认选择规模更大的扩张方案，并设定了较晚的发布时间表。\n\nGemini 4 Argon 即将上线 Box AI Studio，供用户构建自定义 Box Agent。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2110046686198550539",
-      "publishedAt": "2026-10-13T16:35:07.000Z",
-      "score": 107.36,
-      "engagement": {
-        "likes": 376,
-        "retweets": 18,
-        "replies": 56
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2110115691684925777",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "康妮·陈希望中国赢得人工智能竞赛。她也为旧金山做出了巨大贡献……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Connie Chan wants China to win the AI race She also has done so much to make San Francisco unsafe for everyone I aske…",
+      "builder": "Aditya Agarwal",
+      "title": "我们不知道该提什么要求。",
+      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We don't know what ideas to ask for. Bring us what you think is most daring and risky. We’re actively looking to reth…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Connie Chan wants China to win the AI race She also has done so much to make San Fr…",
-      "originalBody": "Connie Chan wants China to win the AI race\n\nShe also has done so much to make San Francisco unsafe for everyone \n\nI asked her to resign earlier this year. Instead the legacy Dem machine thinks she is the best choice 🤮 https://t.co/y8bgnf6Yl3 https://t.co/ymn780CuVT",
-      "translatedTitle": "康妮·陈希望中国赢得人工智能竞赛。她也为旧金山做出了巨大贡献……",
-      "translatedBody": "康妮·陈希望中国赢得人工智能竞赛\n\n她还做了很多让旧金山变得不安全的事情\n\n我今年早些时候就要求她辞职了。然而，民主党的老牌势力却认为她是最佳人选🤮 https://t.co/y8bgnf6Yl3 https://t.co/ymn780CuVT",
+      "originalTitle": "We don't know what ideas to ask for.",
+      "originalBody": "We don't know what ideas to ask for. Bring us what you think is most daring and risky. We’re actively looking to rethink all of our priors.\n\nWhat we do know is that ambition is infectious. Come to @spc, and build alongside brilliant technologists exploring frontiers of their own.\n\nExpress interest here: https://t.co/UjggLoSsAH",
+      "translatedTitle": "我们不知道该提什么要求。",
+      "translatedBody": "我们不知道该征求什么样的想法。请把您认为最大胆、最具冒险精神的想法告诉我们。我们正在积极寻求重新审视我们以往的所有做法。\n\n我们确信，雄心壮志具有感染力。加入 @spc，与才华横溢的技术专家们一起探索各自领域的前沿。\n\n点击此处表达您的兴趣：https://t.co/UjggLoSsAH",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2110115691684925777",
-      "publishedAt": "2026-10-13T21:09:19.000Z",
-      "score": 52.61,
+      "sourceUrl": "https://x.com/adityaag/status/2110422589403193559",
+      "publishedAt": "2026-10-14T17:28:49.000Z",
+      "score": 47.18,
       "engagement": {
-        "likes": 153,
-        "retweets": 14,
-        "replies": 12
+        "likes": 63,
+        "retweets": 1,
+        "replies": 3
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -187,26 +177,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2110227571090788526",
+      "id": "2110422587692249552",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "未来，网络安全将成为人工智能代理应用最广泛的领域之一。",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Cyber is going to be one of the biggest spaces for AI agents in the future. Obviously the risks of software exploits…",
+      "builder": "Aditya Agarwal",
+      "title": "我们想要重塑资本结构。",
+      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We want to rewrite the capital stack. If you are building a nuclear company, you probably shouldn’t raise the same se…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Cyber is going to be one of the biggest spaces for AI agents in the future.",
-      "originalBody": "Cyber is going to be one of the biggest spaces for AI agents in the future. \n\nObviously the risks of software exploits and the attack surface area increases 100 fold due to the ability for agents to work through any crack to find what they’re looking for.\n\nBut this goes the other way as well. The ability to have agent swarms review every line of code, test any number of permutations of exploits, and research any incident faster than humans as they happen, will be a huge boost in how we secure systems in the future. \n\nCyber has always been a category where it’s hard to keep up with (and triage) all the incoming risks, alerts, and changes in the enterprise and across all system. You can never hire enough people or work through the backlog of all known risks. Agents actually give you a chance finally to have far better coverage of this.\n\nThis is going to be a huge opportunity as well because we’ll see plays at the labs, data providers, the layer of the network and firewall, identity, devices and endpoints, SDLC, and even how we protect our data in the enterprise. Lots of interesting dimensions to cyber at the moment.",
-      "translatedTitle": "未来，网络安全将成为人工智能代理应用最广泛的领域之一。",
-      "translatedBody": "网络安全将成为未来人工智能代理应用最广泛的领域之一。\n\n显然，由于代理能够突破任何漏洞找到目标，软件漏洞利用的风险和攻击面将扩大百倍。\n\n但反过来也是如此。代理集群能够审查每一行代码，测试各种漏洞利用方案，并在事件发生时以远超人类的速度进行调查，这将极大地提升我们未来系统安全防护的能力。\n\n网络安全领域一直以来都难以应对（并分类处理）企业及所有系统中不断涌现的风险、警报和变更。你永远无法雇佣足够的人手，也无法处理所有已知的风险。而代理的出现，最终让你有机会更好地覆盖这些风险。\n\n这也将是一个巨大的机遇，因为我们将看到实验室、数据提供商、网络层和防火墙、身份、设备和终端、软件开发生命周期，甚至企业数据保护等方面的应用。目前网络安全领域有很多值得关注的方面。",
+      "originalTitle": "We want to rewrite the capital stack.",
+      "originalBody": "We want to rewrite the capital stack. If you are building a nuclear company, you probably shouldn’t raise the same seed round as an AI app. One size does not fit all.\n\nInstead, we need to get more people working on ideas that seem impossible.\n\nUse this $200k as no-downside fuel to explore a hard problem, and then we’ll help you accelerate toward the right shape of downstream capital.",
+      "translatedTitle": "我们想要重塑资本结构。",
+      "translatedBody": "我们希望重塑资本结构。如果你正在打造一家核能公司，你肯定不应该像开发人工智能应用那样进行种子轮融资。因为没有放之四海而皆准的模式。\n\n相反，我们需要让更多的人投身于那些看似不可能的想法。\n\n利用这20万美元作为无风险的资金，去探索一个棘手的难题，之后我们会帮助你加速找到合适的后续融资模式。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2110227571090788526",
-      "publishedAt": "2026-10-14T04:33:53.000Z",
-      "score": 50.67,
+      "sourceUrl": "https://x.com/adityaag/status/2110422587692249552",
+      "publishedAt": "2026-10-14T17:28:49.000Z",
+      "score": 45.59,
       "engagement": {
-        "likes": 60,
-        "retweets": 6,
-        "replies": 33
+        "likes": 45,
+        "retweets": 0,
+        "replies": 4
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -214,33 +204,33 @@
       "sourceType": "x"
     },
     {
-      "id": "2110151780478927344",
+      "id": "2110262048819208642",
       "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "第 9 天/ 我们已经对 chatgpt 的磁盘状态存储方式进行了优化……",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验：Day 9/ We've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should r…",
-      "whyItMatters": "Thibault Sottiaux 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Day 9/ We've rolled out optimizations to how we store state on disk for the chatgpt…",
-      "originalBody": "Day 9/\n\nWe've rolled out optimizations to how we store state on disk for the chatgpt & codex desktop app that should reduce the amount stored on disk by 60%. Small ship but we've heard enough feedback about power users running out of disk space.",
-      "translatedTitle": "第 9 天/ 我们已经对 chatgpt 的磁盘状态存储方式进行了优化……",
-      "translatedBody": "第 9 天/\n\n我们针对 chatgpt 和 codex 桌面应用程序的磁盘状态存储方式进行了优化，应该可以减少 60% 的磁盘存储空间。虽然只是小规模优化，但我们已经收到足够多的反馈，反映高级用户经常遇到磁盘空间不足的问题。",
+      "builder": "Zara Zhang",
+      "title": "我为我的愿望清单做了一个有趣的网站！",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验：Made a playful website for the things on my wishlist! Your next wedding/baby/birthday gift registry could look like t…",
+      "whyItMatters": "Zara Zhang 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Made a playful website for the things on my wishlist!",
+      "originalBody": "Made a playful website for the things on my wishlist! \n\nYour next wedding/baby/birthday gift registry could look like this https://t.co/YBhkxF5TtT",
+      "translatedTitle": "我为我的愿望清单做了一个有趣的网站！",
+      "translatedBody": "我为我的愿望清单做了一个有趣的网站！\n\n你的下一个婚礼/宝宝/生日礼物清单可以参考这个：https://t.co/YBhkxF5TtT",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2110151780478927344",
-      "publishedAt": "2026-10-13T23:32:43.000Z",
-      "score": 49.92,
+      "sourceUrl": "https://x.com/zarazhangrui/status/2110262048819208642",
+      "publishedAt": "2026-10-14T06:50:53.000Z",
+      "score": 28.11,
       "engagement": {
-        "likes": 10414,
-        "retweets": 328,
-        "replies": 2254
+        "likes": 182,
+        "retweets": 5,
+        "replies": 18
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-10-14T06:42:17.865Z",
+    "upstreamGeneratedAt": "2026-10-15T06:42:36.600Z",
     "totalCandidates": 28,
     "textQualifiedCandidates": 10,
     "selectedTweets": 8
