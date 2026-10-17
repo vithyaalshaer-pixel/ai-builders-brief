@@ -1,148 +1,189 @@
 {
-  "date": "2026-10-16",
-  "generatedAt": "2026-10-16T03:53:06.685Z",
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T03:43:18.771Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-10-16",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 28 条候选动态里，筛出 10 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-10-17",
+  "summary": "今天最值得看的是 Aaron Levie 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 30 条候选动态里，筛出 10 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
     {
       "slug": "coding-agents",
       "label": "Coding Agents"
+    },
+    {
+      "slug": "foundation-models",
+      "label": "Foundation Models"
+    },
+    {
+      "slug": "product-ships",
+      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2110514201559228606",
+      "id": "2110622982762803449",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "这是科技领域最激动人心的时代之一，而这项挑战正是……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：This is one of the most exhilarating times in technology, and this challenge was yet another jaw-dropping moment. Whe…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "This is one of the most exhilarating times in technology, and this challenge was ye…",
-      "originalBody": "This is one of the most exhilarating times in technology, and this challenge was yet another jaw-dropping moment.\n\nWhen the details of OpenAI’s agent escape and Hugging Face hack started to emerge, it became clear that agent containment would be one of the most important priorities for any AI infra company.\n\nThere are two classes of escapes: ① \"escape the network\" and ② “escape the matrix” 😁, as in, break the spell of virtualization. OpenAI was the former, where an agent not supposed to have internet access… gained it by hacking another system. Genuinely astonishing and worrisome.\n\nThrough this challenge, however, we discovered something even more groundbreaking. A talented white-hat researcher, armed with a swarm of AI agents, expertise and perseverance, \"pierced through\" the Linux virtualization boundary that nearly every cloud sandbox provider in the world banks on today.\n\nI'm very thankful we got the report, were able to quickly move to protect our customers, found no evidence of customer data compromise, and collaborated with many industry partners to protect the wider internet.\n\nOur confidence and conviction in Vercel Sandbox are even greater now, after some of the smartest, most motivated researchers in the world, and their agents, gave it their best shot.",
-      "translatedTitle": "这是科技领域最激动人心的时代之一，而这项挑战正是……",
-      "translatedBody": "这是科技领域最激动人心的时代之一，而这次挑战更是令人瞠目结舌。\n\n当 OpenAI 的智能体逃脱和 Hugging Face 黑客攻击的细节开始浮出水面时，我们意识到，智能体隔离将成为任何人工智能基础设施公司最重要的优先事项之一。\n\n逃脱分为两类：①“逃离网络”和②“逃离矩阵”😁，也就是打破虚拟化的魔咒。OpenAI 属于前者，一个本不应该拥有互联网访问权限的智能体……通过入侵另一个系统获得了访问权限。这确实令人震惊，也令人担忧。\n\n然而，通过这次挑战，我们发现了一些更具突破性的东西。一位才华横溢的白帽研究人员，凭借着一群人工智能智能体、专业知识和毅力，“突破”了几乎所有云沙箱提供商如今赖以生存的 Linux 虚拟化边界。\n\n我非常感谢我们收到了这份报告，得以迅速采取行动保护我们的客户，没有发现任何客户数据泄露的证据，并与众多行业伙伴合作保护了整个互联网的安全。\n\n在世界上一些最聪明、最有干劲的研究人员及其代理人竭尽全力之后，我们对 Vercel Sandbox 的信心和信念更加坚定。",
+      "builder": "Aaron Levie",
+      "title": "从与经纪人来回聊天，到拥有自己组建的经纪人团队……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Moving from chatting back and forth with agents, to having agents that you spin up in the background to do useful wor…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Moving from chatting back and forth with agents, to having agents that you spin up…",
+      "originalBody": "Moving from chatting back and forth with agents, to having agents that you spin up in the background to do useful work for you is probably on the order of 100X or 1000X more token consumption than what we’re seeing today. \n\nMost work right now is essentially rate limited by our ability to process and work with information. Moving data between systems. Reviewing a document. Looking through code for security issues. Processing log data to look for even patterns. Looking up information about a prospective client. Almost all of knowledge work is constrained by these steps, and AI has become a huge unlock to that. \n\nSo our first step was to use AI to do these individual tasks much faster for us. That was the chatbot phenomenon that we have been experiencing for the past 3+ years. But we can still then only augment the work that we remain in the loop for, and we’re highly limited by our ability to parallelize this work by our own bandwidth and context.\n\nBut where we’re going is quite different. As AI models continue to improve at incredible rates, we can hand off more and more work to the agent. First it’s letting the agent run with a harder problem. Then it’s giving a few agents multiple parts of a task at once. But we’re not far off from being able to throw an arbitrary number of agents at a problem and just say “come back when you’ve accomplished this goal”. \n\nNow imagine that agent swarm for any problem we can think of. Protecting our codebases, data, and systems. QAing every change we make and make sure all our infrastructure is robust and does what it should. Looking through every document for potential risks. Auditing this company with vastly more data reviewed. And on and on. Most of this isn’t even replacing existing work we do, it’s all net new. \n\nThese agents will get deployed as swarms by people, by workflows, by triggers, and by other agents. And none of this would be possible if the models weren’t getting better, and if the cost of AI didn’t make it affordable. Both of those trends though are playing out. Now the next frontier is just having enough compute. But this is where it’s heading.",
+      "translatedTitle": "从与经纪人来回聊天，到拥有自己组建的经纪人团队……",
+      "translatedBody": "从与客服人员来回聊天，到让客服人员在后台自动启动并为你完成各种实用工作，这可能需要消耗比现在多出 100 倍甚至 1000 倍的代币。\n\n目前，大多数工作的速率都受限于我们处理和处理信息的能力。例如，在系统之间传输数据、审阅文档、检查代码是否存在安全问题、处理日志数据以寻找规律、查找潜在客户的信息等等。几乎所有知识型工作都受到这些步骤的限制，而人工智能的出现极大地突破了这一限制。\n\n因此，我们的第一步是利用人工智能更快地完成这些单独的任务。这就是过去三年多来我们一直在经历的聊天机器人现象。但我们仍然只能增强那些我们仍然参与其中的工作，而且我们自身的带宽和上下文信息也极大地限制了我们并行处理这些工作的能力。\n\n但我们未来的发展方向截然不同。随着人工智能模型以惊人的速度不断改进，我们可以将越来越多的工作交给客服人员。首先，我们让智能体处理更复杂的问题。然后，我们让几个智能体同时处理任务的多个部分。但我们离能够将任意数量的智能体投入问题，然后告诉它们“完成目标后再回来”的目标已经不远了。\n\n现在想象一下，我们可以用这群智能体来解决任何我们能想到的问题。保护我们的代码库、数据和系统。对我们做的每一次更改进行质量保证，确保我们所有的基础设施都稳健可靠，并且能够正常运行。检查每一份文档是否存在潜在风险。对公司进行审计，审查的数据量远超以往。等等等等。这些工作大部分甚至都不是取代我们现有的工作，而是全新的工作。\n\n这些智能体将以集群的形式由人、工作流、触发器和其他智能体部署。如果模型没有不断改进，如果人工智能的成本没有降低到可以承受的程度，这一切都不可能实现。然而，这两个趋势都在发生。现在，下一个挑战就是拥有足够的计算能力。但这就是它的发展方向。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2110514201559228606",
-      "publishedAt": "2026-10-14T23:32:51.000Z",
-      "score": 159.02,
+      "sourceUrl": "https://x.com/levie/status/2110622982762803449",
+      "publishedAt": "2026-10-15T06:45:07.000Z",
+      "score": 110.1,
       "engagement": {
-        "likes": 517,
-        "retweets": 17,
-        "replies": 88
+        "likes": 503,
+        "retweets": 45,
+        "replies": 165
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2110372513792577971",
+      "id": "2110799882952831302",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "学者们认为，这家公司估值达到20亿美元的创始人有能力支付，但他们却无力偿还……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The academics think the founder who raised at $2B valuation can pay but they can’t You are a founder who owns 50% of…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The academics think the founder who raised at $2B valuation can pay but they can’t…",
-      "originalBody": "The academics think the founder who raised at $2B valuation can pay but they can’t \n\nYou are a founder who owns 50% of your company and you have 20x voting rights. You owe 5% on $10B in the asset seizure tax. You owe $500M of your paper $1B. Find me a way to get a loan for half your illiquid net worth. You cant. \n\nThe asset seizure proponents are dishonest and also it’s not a 5% tax on startups. It’s a 50% tax in this simple case.",
-      "translatedTitle": "学者们认为，这家公司估值达到20亿美元的创始人有能力支付，但他们却无力偿还……",
-      "translatedBody": "学者们认为，估值达到 20 亿美元的创始人应该有能力支付，但他们做不到。\n\n你是一位创始人，拥有公司 50% 的股份，并且拥有 20 倍的投票权。你需要缴纳 100 亿美元资产的 5% 作为资产扣押税。你账面上的 10 亿美元资产中，有 5 亿美元需要缴纳。请问如何才能获得相当于你一半非流动性净资产的贷款？你做不到。\n\n资产扣押的支持者们并不诚实，而且，在这个简单的例子里，初创企业的税率并非 5%，而是 50%。",
+      "builder": "Matt Turck",
+      "title": "疯狂的发布！",
+      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Crazy launch! Copycats! Massive round! On the one-month anniversary of the launch of Jev, we unpack it all with @Comp…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Crazy launch!",
+      "originalBody": "Crazy launch! Copycats! Massive round! On the one-month anniversary of the launch of Jev, we unpack it all with @CompleteSkeptic, CEO of @typesafeai: what Jev is, how it fixes what's broken in AI, and why the fast-followers are missing the hard part. \n\n00:00 “95% Einstein, 5% Mr. Bean”\n1:09 Why intelligence per dollar matters\n3:25 Why TypeSafe built in stealth for two years\n5:50 “We could have had AGI last year”\n6:48 Why the product carries the marketing\n9:33 What is Jev? Machine-native AI, built for software\n10:53 System One vs. System Two\n12:26 From simple decisions to composable AI\n15:21 Automating email: giant prompts vs. smart if-statements\n20:03 Probabilities, thresholds, and developer control\n23:43 Why Jev is faster and cheaper than chat models\n25:39 “Classification is AI-complete”\n27:16 RLHF: how OpenAI trained models to please humans\n31:28 Sycophancy, refusals, and the hidden costs of RLHF\n34:22 RLVR: why benchmark gains don’t mean reliable automation\n37:51 RLCD: optimizing for machine-native intelligence\n39:54 Why TypeSafe builds its training data in-house\n41:49 The Bitterest Lesson: define the task before scaling\n44:39 Building Jev from open-weight models\n45:56 Is Jev just a classifier? Why that’s a compliment\n48:35 “Build prod, not God”\n50:11 Embedding AI in software, beyond coding assistants\n53:05 Jev’s copycats: matching the interface vs. the intelligence\n55:33 Why benchmarks mislead the users they should help\n58:37 Open weights vs. APIs: how TypeSafe weighs the tradeoff\n1:00:04 Jevons paradox: a new market for machine intelligence\n1:02:50 Why Diogo is skeptical of recursive self-improvement\n1:04:47 Can practical automation avert an AI winter?",
+      "translatedTitle": "疯狂的发布！",
+      "translatedBody": "疯狂发布！抄袭者！巨额融资！在 Jev 发布一个月之际，我们与 @typesafeai 的 CEO @CompleteSkeptic 深入探讨了 Jev 的方方面面：它是什么，它如何解决人工智能领域的难题，以及为什么那些快速跟进者忽略了关键所在。\n\n00:00 “95% 爱因斯坦，5% 憨豆先生”\n\n1:09 为什么每美元的智能水平至关重要\n\n3:25 为什么 TypeSafe 秘密开发了两年\n\n5:50 “我们去年本可以拥有通用人工智能”\n\n6:48 为什么产品本身就是营销的基石\n\n9:33 Jev 是什么？为软件而生的机器原生人工智能\n\n10:53 系统一 vs. 系统二\n\n12:26 从简单决策到可组合人工智能\n\n15:21 邮件自动化：巨型提示 vs. 智能 if 语句\n\n20:03 概率、阈值和开发者控制\n\n23:43 为什么 Jev 比聊天模型更快更便宜\n\n25:39 “分类是人工智能完备的”\n\n27:16 RLHF：OpenAI 如何训练模型来取悦人类\n\n31:28 奉承、拒绝和 RLHF 的隐性成本\n\n34:22 RLVR：为什么基准测试的提升并不意味着可靠的自动化\n\n37:51 RLCD：针对机器原生智能进行优化\n\n39:54 为什么 TypeSafe 自行构建训练数据\n\n41:49 最惨痛的教训：在扩展之前先定义任务\n\n44:39 从开放权重模型构建 Jev\n\n45:56 Jev 仅仅是一个分类器吗？为什么这是赞美\n\n48:35 “构建产品，而非上帝”\n\n50:11 将人工智能嵌入软件，超越编码助手\n\n53:05 Jevon 的模仿者：界面匹配与智能匹配\n\n55:33 为什么基准测试会误导它们本应帮助的用户\n\n58:37 开放权重与 API：TypeSafe 如何权衡利弊\n\n1:00:04 Jevon 悖论：机器智能的新市场\n\n1:02:50 Diogo 为什么对递归自我改进持怀疑态度\n\n1:04:47 实用自动化能否避免人工智能寒冬？",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2110372513792577971",
-      "publishedAt": "2026-10-14T14:09:50.000Z",
-      "score": 62.04,
+      "sourceUrl": "https://x.com/mattturck/status/2110799882952831302",
+      "publishedAt": "2026-10-15T18:28:03.000Z",
+      "score": 99.99,
       "engagement": {
-        "likes": 941,
-        "retweets": 67,
-        "replies": 97
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2110422584357478530",
-      "type": "tweet",
-      "builder": "Aditya Agarwal",
-      "title": "在 @spc，我们正在努力协调两件事：1.",
-      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：At @spc, we are trying to reconcile two things: 1. We have never seen technological progress this rapid or fundamenta…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "At @spc, we are trying to reconcile two things: 1.",
-      "originalBody": "At @spc, we are trying to reconcile two things:\n\n1. We have never seen technological progress this rapid or fundamental. Nothing seems impossible.\n\n2. Capital is flowing to consensus teams, in consensus markets, and with consensus terms.\n\nSo we’re running a new experiment: $200K, uncapped, to a handful of unapologetically maximalist thinkers who want to try a truly out-there idea.",
-      "translatedTitle": "在 @spc，我们正在努力协调两件事：1.",
-      "translatedBody": "在 @spc，我们正努力调和两件事：\n\n1. 我们从未见过如此迅猛且意义深远的技术进步。一切似乎都变得可能。\n\n2. 资金正流向共识团队，在共识市场中，以共识条款运作。\n\n因此，我们正在进行一项新的实验：向少数几位敢于突破常规、追求极致的思考者提供 20 万美元的资金，不设上限，让他们尝试真正天马行空的想法。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/adityaag/status/2110422584357478530",
-      "publishedAt": "2026-10-14T17:28:48.000Z",
-      "score": 57.58,
-      "engagement": {
-        "likes": 413,
-        "retweets": 30,
-        "replies": 30
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2110373177637605643",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "学者们其实并没有认真思考创业公司将会面临什么。",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The academics don’t actually think about what will happen to startups. They also have no idea how new innovations occ…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The academics don’t actually think about what will happen to startups.",
-      "originalBody": "The academics don’t actually think about what will happen to startups. They also have no idea how new innovations occur and how much of a miracle that is for CA. \n\nTheir ignorance results in misguided policy that will kill the golden goose. No on 40\n\nhttps://t.co/ySpc0Lb6Mt",
-      "translatedTitle": "学者们其实并没有认真思考创业公司将会面临什么。",
-      "translatedBody": "学者们根本没考虑过初创企业的未来。他们也完全不了解创新是如何产生的，以及这对加州来说是多么奇迹。\n\n他们的无知导致了错误的政策，最终会扼杀这只金鹅。反对40号提案。\n\nhttps://t.co/ySpc0Lb6Mt",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2110373177637605643",
-      "publishedAt": "2026-10-14T14:12:29.000Z",
-      "score": 50.79,
-      "engagement": {
-        "likes": 112,
-        "retweets": 8,
+        "likes": 88,
+        "retweets": 10,
         "replies": 8
       },
       "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2110791698611855624",
+      "type": "tweet",
+      "builder": "Boris Cherny",
+      "title": "过去几年，我们在快速注射方面取得了显著进展……",
+      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Over the last few years, we have made significant progress on prompt injection for Claude models. As agents do more,…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Over the last few years, we have made significant progress on prompt injection for…",
+      "originalBody": "Over the last few years, we have made significant progress on prompt injection for Claude models. As agents do more, it is increasingly urgent that we solve it across the industry. \n\nReally excited to partner with Gray Swan to host this competition. Can’t wait to see what you find!",
+      "translatedTitle": "过去几年，我们在快速注射方面取得了显著进展……",
+      "translatedBody": "过去几年，我们在Claude模型的快速注射方面取得了显著进展。随着经纪人业务的不断拓展，解决这一问题在整个行业中变得愈发迫切。\n\n非常高兴能与Gray Swan合作举办此次竞赛。迫不及待地想看看你们的成果！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/bcherny/status/2110791698611855624",
+      "publishedAt": "2026-10-15T17:55:32.000Z",
+      "score": 84.8,
+      "engagement": {
+        "likes": 568,
+        "retweets": 34,
+        "replies": 105
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2110787013809222141",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "他们做到了。",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：They did it. They made a Muse open weights model, which is a huge step forward for OSS in the US. This is going to fu…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "They did it.",
+      "originalBody": "They did it. They made a Muse open weights model, which is a huge step forward for OSS in the US. \n\nThis is going to further accelerate AI diffusion because enterprises will be able to mix and match frontier performance for orchestration and high end tasks, while being able to have low cost and tailored post trained models for repeatable workflows. \n\nOverall this dramatically increases token consumption and workloads across the stack. Great to see Meta doing this.",
+      "translatedTitle": "他们做到了。",
+      "translatedBody": "他们做到了！他们开发了 Muse 开源权重模型，这对于美国的开源软件来说是一项巨大的进步。\n\n这将进一步加速人工智能的普及，因为企业能够灵活组合各种性能卓越的模型，用于编排和高端任务，同时还能以低成本获得定制化的后训练模型，用于可重复的工作流程。\n\n总而言之，这将显著提升整个技术栈的代币消耗和工作负载。很高兴看到 Meta 采取这样的行动。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2110787013809222141",
+      "publishedAt": "2026-10-15T17:36:55.000Z",
+      "score": 84.11,
+      "engagement": {
+        "likes": 532,
+        "retweets": 40,
+        "replies": 55
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2110752004381524396",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "科技圈的各位，我恳求你们别再装出一副道德优越、在政治上很酷的样子了……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Tech people I beg you to stop being this virtue signaling person who is cool at political parties but creates doom lo…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Tech people I beg you to stop being this virtue signaling person who is cool at pol…",
+      "originalBody": "Tech people I beg you to stop being this virtue signaling person who is cool at political parties but creates doom loop outcomes that endanger my Asian American elders in SF https://t.co/NOMYoxcRpv",
+      "translatedTitle": "科技圈的各位，我恳求你们别再装出一副道德优越、在政治上很酷的样子了……",
+      "translatedBody": "科技界人士，我恳求你们停止这种作秀式的道德优越感，你们在政党活动中表现得很酷，却制造出危及旧金山亚裔长辈安全的恶性循环后果。https://t.co/NOMYoxcRpv",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2110752004381524396",
+      "publishedAt": "2026-10-15T15:17:48.000Z",
+      "score": 59.37,
+      "engagement": {
+        "likes": 652,
+        "retweets": 16,
+        "replies": 31
+      },
+      "matchedFocusAreas": [
         "Coding Agents"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2110521081450922117",
+      "id": "2110882341812134186",
       "type": "tweet",
       "builder": "Peter Yang",
-      "title": "我发现我8岁的女儿用ChatGPT来获取数学作业的答案。",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Found out that my 8 year old used ChatGPT to get an answer for her math homework. Instead of being mad I was actually…",
+      "title": "我和我8岁的孩子想听听大家的意见：如果您是家长，您觉得她穿的哪件T恤……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：My 8-year-old and I are looking for feedback: If you're a parent, which of her T-shirt designs below would you buy fo…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Found out that my 8 year old used ChatGPT to get an answer for her math homework.",
-      "originalBody": "Found out that my 8 year old used ChatGPT to get an answer for her math homework.\n\nInstead of being mad I was actually quite impressed :)",
-      "translatedTitle": "我发现我8岁的女儿用ChatGPT来获取数学作业的答案。",
-      "translatedBody": "我发现我8岁的女儿居然用ChatGPT来获取数学作业的答案。\n\n我非但没有生气，反而觉得挺佩服的 :)",
+      "originalTitle": "My 8-year-old and I are looking for feedback: If you're a parent, which of her T-sh…",
+      "originalBody": "My 8-year-old and I are looking for feedback:\n\nIf you're a parent, which of her T-shirt designs below would you buy for your kid? Which character do you like the best?\n\nPlease reply with the number (e.g., A1) and why :) https://t.co/LgOHEQA1s8",
+      "translatedTitle": "我和我8岁的孩子想听听大家的意见：如果您是家长，您觉得她穿的哪件T恤……",
+      "translatedBody": "我和我8岁的孩子想听听大家的意见：\n\n如果您是家长，您会选择以下哪款T恤设计给孩子穿？您最喜欢哪个角色？\n\n请回复编号（例如A1）并说明原因 :) https://t.co/LgOHEQA1s8",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2110521081450922117",
-      "publishedAt": "2026-10-15T00:00:12.000Z",
-      "score": 50.1,
+      "sourceUrl": "https://x.com/petergyang/status/2110882341812134186",
+      "publishedAt": "2026-10-15T23:55:43.000Z",
+      "score": 45.84,
       "engagement": {
-        "likes": 79,
+        "likes": 16,
         "retweets": 0,
-        "replies": 29
+        "replies": 25
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -150,88 +191,59 @@
       "sourceType": "x"
     },
     {
-      "id": "2110422589403193559",
+      "id": "2110975373219688624",
       "type": "tweet",
-      "builder": "Aditya Agarwal",
-      "title": "我们不知道该提什么要求。",
-      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We don't know what ideas to ask for. Bring us what you think is most daring and risky. We’re actively looking to reth…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "We don't know what ideas to ask for.",
-      "originalBody": "We don't know what ideas to ask for. Bring us what you think is most daring and risky. We’re actively looking to rethink all of our priors.\n\nWhat we do know is that ambition is infectious. Come to @spc, and build alongside brilliant technologists exploring frontiers of their own.\n\nExpress interest here: https://t.co/UjggLoSsAH",
-      "translatedTitle": "我们不知道该提什么要求。",
-      "translatedBody": "我们不知道该征求什么样的想法。请把您认为最大胆、最具冒险精神的想法告诉我们。我们正在积极寻求重新审视我们以往的所有做法。\n\n我们确信，雄心壮志具有感染力。加入 @spc，与才华横溢的技术专家们一起探索各自领域的前沿。\n\n点击此处表达您的兴趣：https://t.co/UjggLoSsAH",
+      "builder": "Aaron Levie",
+      "title": "所以事实上我们真的可以拥有机器人、飞行汽车、超级智能、高速互联网……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验：So in fact we actually can get robots, flying cars, superintelligence, fast internet on planes, space travel, space c…",
+      "whyItMatters": "Aaron Levie 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "So in fact we actually can get robots, flying cars, superintelligence, fast interne…",
+      "originalBody": "So in fact we actually can get robots, flying cars, superintelligence, fast internet on planes, space travel, space colonies, orbital data centers, unlimited energy, likely cures for nearly every disease, and more all in our life times. Pretty great. https://t.co/jhgqv8gXhb",
+      "translatedTitle": "所以事实上我们真的可以拥有机器人、飞行汽车、超级智能、高速互联网……",
+      "translatedBody": "所以事实上，我们有生之年就能拥有机器人、飞行汽车、超级智能、飞机上的高速互联网、太空旅行、太空殖民地、轨道数据中心、无限能源，以及几乎所有疾病的治愈方法等等。真是太棒了！https://t.co/jhgqv8gXhb",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/adityaag/status/2110422589403193559",
-      "publishedAt": "2026-10-14T17:28:49.000Z",
-      "score": 47.18,
+      "sourceUrl": "https://x.com/levie/status/2110975373219688624",
+      "publishedAt": "2026-10-16T06:05:23.000Z",
+      "score": 30.78,
+      "engagement": {
+        "likes": 193,
+        "retweets": 6,
+        "replies": 18
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2110831666587713810",
+      "type": "tweet",
+      "builder": "Dan Shipper",
+      "title": "当然，那是你的观点。",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验：Of course that’s your contention. You just got finished reading about polysemanticity, so naturally you think interpr…",
+      "whyItMatters": "Dan Shipper 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Of course that’s your contention.",
+      "originalBody": "Of course that’s your contention. You just got finished reading about polysemanticity, so naturally you think interpretability means untangling superposition. You’re gonna believe that until next semester, when you find a neuron that lights up for the Eiffel Tower. Then you’re gonna spend the summer explaining how we can align a superintelligence because we know when it’s thinking about France. And next year you’ll realize that knowing it recognizes the Eiffel Tower doesn’t tell you what the fuck it’s planning.",
+      "translatedTitle": "当然，那是你的观点。",
+      "translatedBody": "当然，这是你的论点。你刚读完关于多义性的文章，自然而然地认为可解释性意味着解开叠加态。你会一直这么认为，直到下个学期，当你发现一个神经元对埃菲尔铁塔有反应时。然后你就会花整个夏天解释我们如何能控制一个超级智能，因为我们知道它什么时候在想法国。明年你就会意识到，知道它能识别埃菲尔铁塔并不能告诉你它到底在计划什么。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/danshipper/status/2110831666587713810",
+      "publishedAt": "2026-10-15T20:34:21.000Z",
+      "score": 22.8,
       "engagement": {
         "likes": 63,
-        "retweets": 1,
-        "replies": 3
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2110422587692249552",
-      "type": "tweet",
-      "builder": "Aditya Agarwal",
-      "title": "我们想要重塑资本结构。",
-      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We want to rewrite the capital stack. If you are building a nuclear company, you probably shouldn’t raise the same se…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "We want to rewrite the capital stack.",
-      "originalBody": "We want to rewrite the capital stack. If you are building a nuclear company, you probably shouldn’t raise the same seed round as an AI app. One size does not fit all.\n\nInstead, we need to get more people working on ideas that seem impossible.\n\nUse this $200k as no-downside fuel to explore a hard problem, and then we’ll help you accelerate toward the right shape of downstream capital.",
-      "translatedTitle": "我们想要重塑资本结构。",
-      "translatedBody": "我们希望重塑资本结构。如果你正在打造一家核能公司，你肯定不应该像开发人工智能应用那样进行种子轮融资。因为没有放之四海而皆准的模式。\n\n相反，我们需要让更多的人投身于那些看似不可能的想法。\n\n利用这20万美元作为无风险的资金，去探索一个棘手的难题，之后我们会帮助你加速找到合适的后续融资模式。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/adityaag/status/2110422587692249552",
-      "publishedAt": "2026-10-14T17:28:49.000Z",
-      "score": 45.59,
-      "engagement": {
-        "likes": 45,
-        "retweets": 0,
-        "replies": 4
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2110262048819208642",
-      "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "我为我的愿望清单做了一个有趣的网站！",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验：Made a playful website for the things on my wishlist! Your next wedding/baby/birthday gift registry could look like t…",
-      "whyItMatters": "Zara Zhang 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Made a playful website for the things on my wishlist!",
-      "originalBody": "Made a playful website for the things on my wishlist! \n\nYour next wedding/baby/birthday gift registry could look like this https://t.co/YBhkxF5TtT",
-      "translatedTitle": "我为我的愿望清单做了一个有趣的网站！",
-      "translatedBody": "我为我的愿望清单做了一个有趣的网站！\n\n你的下一个婚礼/宝宝/生日礼物清单可以参考这个：https://t.co/YBhkxF5TtT",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2110262048819208642",
-      "publishedAt": "2026-10-14T06:50:53.000Z",
-      "score": 28.11,
-      "engagement": {
-        "likes": 182,
-        "retweets": 5,
-        "replies": 18
+        "retweets": 4,
+        "replies": 5
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-10-15T06:42:36.600Z",
-    "totalCandidates": 28,
+    "upstreamGeneratedAt": "2026-10-16T06:42:13.233Z",
+    "totalCandidates": 30,
     "textQualifiedCandidates": 10,
     "selectedTweets": 8
   }
