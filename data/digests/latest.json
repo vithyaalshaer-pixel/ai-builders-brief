@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-18T03:49:40.161Z",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T03:58:54.578Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-10-18",
+  "title": "AI Builders Daily | 2026-10-19",
   "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 37 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 15 条候选动态里，筛出 10 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,53 +23,101 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2111245359125266915",
+      "id": "2111353401363902573",
       "type": "tweet",
       "builder": "Swyx",
-      "title": "我等这个节目开播已经快一年了！",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：i've been waiting to launch this show for almost a year! thanks to the Testers and to @NehallAgrawal @KaylinWardley f…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "i've been waiting to launch this show for almost a year!",
-      "originalBody": "i've been waiting to launch this show for almost a year! thanks to the Testers and to @NehallAgrawal @KaylinWardley for helping me put this together!\n\nsome behind the scenes from the shoot of our latest show!! https://t.co/YADPOxPqCY https://t.co/XWVUEbiPTK",
-      "translatedTitle": "我等这个节目开播已经快一年了！",
-      "translatedBody": "我等这个节目上线都快一年了！感谢测试人员，也感谢 @NehallAgrawal 和 @KaylinWardley 帮我一起完成！\n\n以下是我们最新节目拍摄的一些幕后花絮！https://t.co/YADPOxPqCY https://t.co/XWVUEbiPTK",
+      "title": "@dexhorthy @Jeffdelaney23 @ThePrimeagen 挺喜欢这张图表来讲述故事的。",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：@dexhorthy @Jeffdelaney23 @ThePrimeagen kinda like this chart to tell the story. basically no love for 2 years and th…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "@dexhorthy @Jeffdelaney23 @ThePrimeagen kinda like this chart to tell the story.",
+      "originalBody": "@dexhorthy @Jeffdelaney23 @ThePrimeagen kinda like this chart to tell the story.  basically no love for 2 years and then slowly we get recommended via browsing. our CTR sucks. https://t.co/XcQM6lzVvU",
+      "translatedTitle": "@dexhorthy @Jeffdelaney23 @ThePrimeagen 挺喜欢这张图表来讲述故事的。",
+      "translatedBody": "@dexhorthy @Jeffdelaney23 @ThePrimeagen 这张图表挺能说明问题的。基本上两年都没人关注，然后慢慢地通过浏览获得了推荐。我们的点击率很低。https://t.co/XcQM6lzVvU",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2111245359125266915",
-      "publishedAt": "2026-10-16T23:58:13.000Z",
-      "score": 148.06,
+      "sourceUrl": "https://x.com/swyx/status/2111353401363902573",
+      "publishedAt": "2026-10-17T07:07:32.000Z",
+      "score": 112.5,
       "engagement": {
-        "likes": 46,
-        "retweets": 4,
-        "replies": 19
+        "likes": 7,
+        "retweets": 0,
+        "replies": 2
       },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
+      "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2111312141609586862",
+      "id": "2111351354409300230",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "令人难以置信的是，我们已经达到了一个临界点，人工智能将切实应用于实际……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：It’s incredible to have reached a threshold where it’s practical that AI will be better at training models than human…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "It’s incredible to have reached a threshold where it’s practical that AI will be be…",
-      "originalBody": "It’s incredible to have reached a threshold where it’s practical that AI will be better at training models than humans are so quickly. One day recursive self improvement feels far off, and the next we already have signs of what it will look like.\n\nModel capability finally exceeding most human engineers, advancements in the harness and infra for long running agents, a growing array of data, and the ability to parallelize the agents to work on vastly more tasks and tests and approaches than any person could have before, creates an incredible flywheel. \n\nThis flywheel will almost certainly accelerate model progress far faster than we’ve seen before - or at a minimum enable pushing up the ceiling of the frontier at an insane rate. If you aren’t pricing in what RSI will lead to, that’s probably a mistake.",
-      "translatedTitle": "令人难以置信的是，我们已经达到了一个临界点，人工智能将切实应用于实际……",
-      "translatedBody": "人工智能能够如此迅速地超越人类，在模型训练方面取得显著进步，这令人难以置信。递归式自我改进（RSI）似乎遥不可及，而转眼间，我们已初见端倪。\n\n模型能力最终超越了大多数人类工程师，长时间运行智能体所需的硬件和基础设施不断进步，数据量日益增长，以及智能体能够并行处理远超以往任何人的任务、测试和方法，这一切都构成了一个强大的飞轮效应。\n\n这个飞轮效应几乎肯定会以前所未有的速度加速模型发展——或者至少能够以惊人的速度提升模型性能的上限。如果你没有考虑到RSI带来的影响，那很可能是一个错误。",
+      "builder": "Swyx",
+      "title": "@dexhorthy 频道偏好 我的目标基本上是和频道里的每一个人都合作……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：@dexhorthy channel affinity my goal is basically to collab with every single one of these folks. you guys already lov…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "@dexhorthy channel affinity my goal is basically to collab with every single one of…",
+      "originalBody": "@dexhorthy channel affinity\n\nmy goal is basically to collab with every single one of these folks. you guys already love them.\n\npls @Jeffdelaney23 @ThePrimeagen https://t.co/QAhKVubT88",
+      "translatedTitle": "@dexhorthy 频道偏好 我的目标基本上是和频道里的每一个人都合作……",
+      "translatedBody": "@dexhorthy 频道推荐\n\n我的目标是和这些人中的每一个人都合作。你们肯定已经很喜欢他们了。\n\n请 @Jeffdelaney23 @ThePrimeagen https://t.co/QAhKVubT88",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2111312141609586862",
-      "publishedAt": "2026-10-17T04:23:35.000Z",
-      "score": 78.2,
+      "sourceUrl": "https://x.com/swyx/status/2111351354409300230",
+      "publishedAt": "2026-10-17T06:59:24.000Z",
+      "score": 111.73,
       "engagement": {
-        "likes": 125,
-        "retweets": 12,
-        "replies": 34
+        "likes": 7,
+        "retweets": 0,
+        "replies": 1
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2111350966419411070",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "@dexhorthy 自五月以来，我们几乎不间断地为每月超过 100 万的独立访客提供服务（之后……）",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：@dexhorthy we serve >1m unique viewers a month pretty much nonstop since May (after AIE EU) but even now 58% of viewe…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "@dexhorthy we serve >1m unique viewers a month pretty much nonstop since May (after…",
+      "originalBody": "@dexhorthy we serve >1m unique viewers a month pretty much nonstop since May (after AIE EU) but even now 58% of  viewers a month are new to us. 68% of viewers not subscribed lol.\n\nmost viewers 7am-11am PT daily. nobody watches after 5pm. https://t.co/EdPFF9QllO",
+      "translatedTitle": "@dexhorthy 自五月以来，我们几乎不间断地为每月超过 100 万的独立访客提供服务（之后……）",
+      "translatedBody": "@dexhorthy 自五月（AIE EU 之后）以来，我们几乎每月都有超过 100 万独立观众，但即使现在，每月仍有 58% 的观众是新观众。68% 的观众没有订阅，哈哈。\n\n大多数观众每天早上 7 点到 11 点（太平洋时间）观看。下午 5 点以后就没人看了。https://t.co/EdPFF9QllO",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2111350966419411070",
+      "publishedAt": "2026-10-17T06:57:52.000Z",
+      "score": 107.84,
+      "engagement": {
+        "likes": 2,
+        "retweets": 0,
+        "replies": 1
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2111494912562888939",
+      "type": "tweet",
+      "builder": "Amjad Masad",
+      "title": "澄清一下：Replit 仍然与模型无关。",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：To clarify: Replit remains model agnostic. Our users can choose Anthropic models as well as many other supported mode…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "To clarify: Replit remains model agnostic.",
+      "originalBody": "To clarify: Replit remains model agnostic. Our users can choose Anthropic models as well as many other supported models.\n\nWhat I meant at TC Disrupt is that OpenAI is now our preferred partner powering Agent based on performance, cost, and strength of our partnership.\n\nWe believe in giving our users model choice while optimizing the default experience for the best performance at the best price.",
+      "translatedTitle": "澄清一下：Replit 仍然与模型无关。",
+      "translatedBody": "澄清一下：Replit 仍然保持模型无关性。我们的用户可以选择 Anthropologie 模型以及许多其他受支持的模型。\n\n我在 TC Disrupt 大会上所说的是，基于性能、成本和我们合作的稳固性，OpenAI 现在是我们为 Agent 提供技术支持的首选合作伙伴。\n\n我们致力于为用户提供模型选择，同时优化默认体验，以最优价格实现最佳性能。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/amasad/status/2111494912562888939",
+      "publishedAt": "2026-10-17T16:29:51.000Z",
+      "score": 83.72,
+      "engagement": {
+        "likes": 415,
+        "retweets": 19,
+        "replies": 128
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -78,53 +126,54 @@
       "sourceType": "x"
     },
     {
-      "id": "2111158313463525518",
+      "id": "2111508293818671449",
       "type": "tweet",
-      "builder": "Boris Cherny",
-      "title": "如果没有 Claude Code Review，我无法想象如何高效工作。",
-      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：I could not imagine being productive without Claude Code Review. It runs on all of my PRs, and catches almost every b…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "I could not imagine being productive without Claude Code Review.",
-      "originalBody": "I could not imagine being productive without Claude Code Review. It runs on all of my PRs, and catches almost every bug before it goes it. This is a piece of the secret sauce that lets the team and I move so quickly while raising the quality bar https://t.co/7HdyTFsM0I",
-      "translatedTitle": "如果没有 Claude Code Review，我无法想象如何高效工作。",
-      "translatedBody": "如果没有 Claude Code Review，我简直无法想象我的工作效率会如何。它会对我提交的所有 PR 进行检查，几乎能在所有 bug 提交之前就将其捕获。这正是我们团队能够快速推进项目并不断提升质量标准的秘诀之一。https://t.co/7HdyTFsM0I",
+      "builder": "Peter Yang",
+      "title": "如果你的 Google 帐户关联了太多应用和代理（45 个！），比如……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：If you have way too many apps and agents (45!) connected to your Google account like me, here's a prompt to audit and…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "If you have way too many apps and agents (45!) connected to your Google account lik…",
+      "originalBody": "If you have way too many apps and agents (45!) connected to your Google account like me, here's a prompt to audit and remove them:\n\n\"Help me audit my Google app connections at https://t.co/5eMX9dNhLD\n\n1. Review EVERY app across all connection categories. Ask me which ones I still use rather than guessing.\n\n2. Open each app's details. Distinguish basic Google sign-in from permissions to access Gmail, Drive, Calendar, or other data.\n\n3. Suggest which to keep, disconnect, or ask me about. Explain your reasoning and what might stop working. Flag broad permissions, unfamiliar providers, and duplicate entries.\n\n4. Show me your recommendations before changing anything. Only disconnect apps I explicitly approve, then verify they're removed. Don't delete app accounts or cancel subscriptions.”",
+      "translatedTitle": "如果你的 Google 帐户关联了太多应用和代理（45 个！），比如……",
+      "translatedBody": "如果您像我一样，Google 帐户关联了太多应用和代理（高达 45 个！），请参考以下提示进行审核和移除：\n\n“请帮我审核我的 Google 应用关联：https://t.co/5eMX9dNhLD\n\n1. 请审核所有关联类别下的每个应用。请询问我哪些应用还在使用，而不是猜测。\n\n2. 打开每个应用的详细信息。区分基本的 Google 登录权限和访问 Gmail、云端硬盘、日历或其他数据的权限。\n\n3. 建议保留哪些应用、断开哪些应用或询问我相关事宜。解释您的理由以及哪些应用可能会停止工作。标记权限过宽的应用、不熟悉的应用提供商以及重复的条目。\n\n4. 在进行任何更改之前，请先向我展示您的建议。仅断开我明确批准的应用，然后确认它们已移除。请勿删除应用帐户或取消订阅。”",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/bcherny/status/2111158313463525518",
-      "publishedAt": "2026-10-16T18:12:20.000Z",
-      "score": 68.2,
+      "sourceUrl": "https://x.com/petergyang/status/2111508293818671449",
+      "publishedAt": "2026-10-17T17:23:01.000Z",
+      "score": 73.65,
       "engagement": {
-        "likes": 3399,
-        "retweets": 105,
-        "replies": 249
+        "likes": 44,
+        "retweets": 7,
+        "replies": 23
       },
       "matchedFocusAreas": [
-        "Product Ships"
+        "Coding Agents",
+        "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2111158659971699136",
+      "id": "2111525362446520466",
       "type": "tweet",
-      "builder": "Boris Cherny",
-      "title": "别小瞧克劳德·斯莱兹。",
-      "summary": "Boris Cherny 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Don't sleep on Claude Slides. This is how I make slide decks now -- no more googling \"iphone frame svg\" like the old…",
+      "builder": "Aaron Levie",
+      "title": "那些预测软件工程终结的人最大的误判在于他们的想象力……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a c…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Don't sleep on Claude Slides.",
-      "originalBody": "Don't sleep on Claude Slides. This is how I make slide decks now -- no more googling \"iphone frame svg\" like the old days\n\nTry it: https://t.co/cAWdwarzgp https://t.co/POdqFL9oIP",
-      "translatedTitle": "别小瞧克劳德·斯莱兹。",
-      "translatedBody": "别错过 Claude Slides！我现在都用它做幻灯片——再也不用像以前那样到处搜索“iPhone 边框 SVG”了。\n\n试试看：https://t.co/cAWdwarzgp https://t.co/POdqFL9oIP",
+      "originalTitle": "The biggest misread of anyone predicting the end of software engineering was imagin…",
+      "originalBody": "The biggest misread of anyone predicting the end of software engineering was imagining that the world only needed a certain amount of software, and bringing automation to the field would reduce the need for labor. \n\nExactly the opposite is happening where essentially most things are actually turning into software. Because agents can use tools, work with computers, write software on the fly, and process data like humans (but far faster), we can now throw “software” at problems that never could reasonably be digitized before.\n\nWhat that leads to is the role of engineering taking on greater importance in the economy, because we can now engineer far more systems and processes than were possible before.\n\nIf you’re a bank trying to do new forms of trading, engineers are often your first bet. If you are in life sciences, you expect more and more research and lab work to be engineering centric. If you’re in manufacturing, you’re trying to automate more of the supply chain, all that is engineering. More and more work is shaped like software problems.\n\nYes we’re not going to be coding manually in the future. But almost everything will be code, which means those that understand it are in a fantastic position.",
+      "translatedTitle": "那些预测软件工程终结的人最大的误判在于他们的想象力……",
+      "translatedBody": "那些预言软件工程终结的人最大的误判在于，他们以为世界只需要一定量的软件，而将自动化引入该领域就能减少对劳动力的需求。\n\n事实恰恰相反，现在几乎所有东西都在向软件转化。由于智能体可以使用工具、与计算机交互、即时编写软件，并像人类一样处理数据（但速度更快），我们现在可以用“软件”来解决以前根本无法数字化解决的问题。\n\n这导致工程在经济中扮演着越来越重要的角色，因为我们现在可以设计比以往多得多的系统和流程。\n\n如果你是一家银行，想要开展新的交易方式，工程师通常是你的首选。如果你从事生命科学，你会预期越来越多的研究和实验室工作将以工程为中心。如果你从事制造业，你正在努力实现供应链的自动化，所有这些都属于工程范畴。越来越多的工作都以软件问题的形式呈现。\n\n是的，未来我们不会再手动编写代码了。但几乎一切都将以代码的形式呈现，这意味着那些懂代码的人将处于非常有利的地位。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/bcherny/status/2111158659971699136",
-      "publishedAt": "2026-10-16T18:13:42.000Z",
-      "score": 67.41,
+      "sourceUrl": "https://x.com/levie/status/2111525362446520466",
+      "publishedAt": "2026-10-17T18:30:51.000Z",
+      "score": 61.8,
       "engagement": {
-        "likes": 3025,
-        "retweets": 100,
-        "replies": 128
+        "likes": 806,
+        "retweets": 92,
+        "replies": 116
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -132,118 +181,64 @@
       "sourceType": "x"
     },
     {
-      "id": "2111249810502353152",
+      "id": "2111496600522805624",
       "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "另外，我们昨天刚添加了幻灯片支持，快来试试吧。",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Also we just added slides support yesterday, try it out. Currently available in Pro, Business and Enterprise while we…",
+      "builder": "Peter Yang",
+      "title": "必须赞扬一下@amorriscode和他的团队——Claude Code应用速度快得多……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Have to give credit to @amorriscode and team - the Claude Code app is much faster now and arguably simpler to use tha…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Also we just added slides support yesterday, try it out.",
-      "originalBody": "Also we just added slides support yesterday, try it out. Currently available in Pro, Business and Enterprise while we learn from your feedback.",
-      "translatedTitle": "另外，我们昨天刚添加了幻灯片支持，快来试试吧。",
-      "translatedBody": "我们昨天刚添加了幻灯片支持，快来试试吧！目前此功能仅在专业版、商务版和企业版中提供，我们会根据您的反馈不断改进。",
+      "originalTitle": "Have to give credit to @amorriscode and team - the Claude Code app is much faster n…",
+      "originalBody": "Have to give credit to @amorriscode and team - the Claude Code app is much faster now and arguably simpler to use than ChatGPT.\n\nThe only things missing still are better browser/computer use, remote control for all threads, and live voice. https://t.co/kWULRv1A1t",
+      "translatedTitle": "必须赞扬一下@amorriscode和他的团队——Claude Code应用速度快得多……",
+      "translatedBody": "必须赞扬一下 @amorriscode 和他的团队——Claude Code 应用现在速度快了很多，而且可以说比 ChatGPT 更易于使用。\n\n目前唯一欠缺的是更好的浏览器/电脑使用体验、所有对话线程的远程控制以及实时语音功能。https://t.co/kWULRv1A1t",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2111249810502353152",
-      "publishedAt": "2026-10-17T00:15:54.000Z",
-      "score": 59.8,
+      "sourceUrl": "https://x.com/petergyang/status/2111496600522805624",
+      "publishedAt": "2026-10-17T16:36:33.000Z",
+      "score": 55.11,
       "engagement": {
-        "likes": 556,
-        "retweets": 12,
-        "replies": 142
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2111235500568969451",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "今天开始一个新项目，我最喜欢的是和 @capydotai 以及 @As…",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Starting a new project today, and my absolute favorite thing is @capydotai with @AsideAI means my agents can both cod…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Starting a new project today, and my absolute favorite thing is @capydotai with @As…",
-      "originalBody": "Starting a new project today, and my absolute favorite thing is @capydotai with @AsideAI means my agents can both code the first version and help me get all the DevOps set up in one fell swoop https://t.co/9MmR0Q9LMV",
-      "translatedTitle": "今天开始一个新项目，我最喜欢的是和 @capydotai 以及 @As…",
-      "translatedBody": "今天启动了一个新项目，我最喜欢的是 @capydotai 和 @AsideAI 的合作，这意味着我的代理可以同时编写第一个版本代码，并帮我一次性完成所有 DevOps 的搭建。https://t.co/9MmR0Q9LMV",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2111235500568969451",
-      "publishedAt": "2026-10-16T23:19:02.000Z",
-      "score": 54.21,
-      "engagement": {
-        "likes": 187,
-        "retweets": 6,
-        "replies": 48
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2111267314012496121",
-      "type": "tweet",
-      "builder": "Amjad Masad",
-      "title": "您的数据属于您！",
-      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Your data belongs to you! We’ll deploy Replit to your cloud and data never leaves home. Designed for high stakes envi…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "Your data belongs to you!",
-      "originalBody": "Your data belongs to you! We’ll deploy Replit to your cloud and data never leaves home.\n\nDesigned for high stakes environments like governments, finance, and healthcare. https://t.co/hCLeTdS0Ht",
-      "translatedTitle": "您的数据属于您！",
-      "translatedBody": "您的数据归您所有！我们将把 Replit 部署到您的云端，数据始终安全无虞。\n\n专为政府、金融和医疗保健等高风险环境而设计。https://t.co/hCLeTdS0Ht",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/amasad/status/2111267314012496121",
-      "publishedAt": "2026-10-17T01:25:27.000Z",
-      "score": 53.64,
-      "engagement": {
-        "likes": 144,
-        "retweets": 11,
-        "replies": 51
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2111162109933535673",
-      "type": "tweet",
-      "builder": "Aditya Agarwal",
-      "title": "非常高兴下周能迎来一位好朋友加入@spc。",
-      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Very excited to welcome a dear friend to @spc next week. @sriramk is joining us for a fireside chat and Q&A. He helpe…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Very excited to welcome a dear friend to @spc next week.",
-      "originalBody": "Very excited to welcome a dear friend to @spc next week. \n\n@sriramk is joining us for a fireside chat and Q&A.\n\nHe helped build Azure, scaled Meta’s mobile ads, and led a16z’s international expansion.\n\nThen he went to the White House and helped write the U.S. AI Action Plan. https://t.co/gQAjySUsHW",
-      "translatedTitle": "非常高兴下周能迎来一位好朋友加入@spc。",
-      "translatedBody": "非常激动地宣布，下周我们将迎来一位挚友莅临@spc。\n\n@sriramk 将与我们进行炉边谈话和问答环节。\n\n他曾参与 Azure 的创建，拓展了 Meta 的移动广告业务，并领导了 a16z 的国际扩张。\n\n之后，他前往白宫，参与撰写了美国人工智能行动计划。https://t.co/gQAjySUsHW",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/adityaag/status/2111162109933535673",
-      "publishedAt": "2026-10-16T18:27:25.000Z",
-      "score": 50.81,
-      "engagement": {
-        "likes": 120,
+        "likes": 225,
         "retweets": 5,
-        "replies": 7
+        "replies": 58
       },
       "matchedFocusAreas": [
         "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2111597172840083574",
+      "type": "tweet",
+      "builder": "Nan Yu",
+      "title": "前几天在团队拓展活动中，我回忆起往事时也谈到了同样的话题。",
+      "summary": "Nan Yu 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：I had the same conversation reminiscing at a team offsite the other day. “What did we pay attention to before AI?” “\ud83d…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "I had the same conversation reminiscing at a team offsite the other day.",
+      "originalBody": "I had the same conversation reminiscing at a team offsite the other day.\n\n“What did we pay attention to before AI?”\n\n“😅 Front end JavaScript frameworks” https://t.co/sKe9X8ylhL",
+      "translatedTitle": "前几天在团队拓展活动中，我回忆起往事时也谈到了同样的话题。",
+      "translatedBody": "前几天团队外出活动时，我也聊到了类似的话题。\n\n“在人工智能出现之前，我们都关注些什么呢？”\n\n“😅 前端 JavaScript 框架” https://t.co/sKe9X8ylhL",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/thenanyu/status/2111597172840083574",
+      "publishedAt": "2026-10-17T23:16:12.000Z",
+      "score": 46.91,
+      "engagement": {
+        "likes": 56,
+        "retweets": 2,
+        "replies": 4
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-10-17T06:37:54.211Z",
-    "totalCandidates": 37,
-    "textQualifiedCandidates": 13,
+    "upstreamGeneratedAt": "2026-10-18T06:38:12.951Z",
+    "totalCandidates": 15,
+    "textQualifiedCandidates": 10,
     "selectedTweets": 8
   }
 }
