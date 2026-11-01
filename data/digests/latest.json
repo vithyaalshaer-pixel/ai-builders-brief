@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-31",
-  "generatedAt": "2026-10-31T04:50:42.577Z",
+  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T05:15:28.332Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-10-31",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 36 条候选动态里，筛出 14 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-11-01",
+  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 31 条候选动态里，筛出 15 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,191 +15,107 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
-    },
-    {
-      "slug": "product-ships",
-      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2115874115118834153",
+      "id": "2116220869479428500",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "软件工程的未来在于智能体之间的对话。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The future of software engineering is agents talking to other agents. Even across different companies. We’re learning…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The future of software engineering is agents talking to other agents.",
-      "originalBody": "The future of software engineering is agents talking to other agents. Even across different companies.\n\nWe’re learning daily from the feedback agents send us on how to make a better Vercel.\n\nPut in your 𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍: send Vercel feedback when something could be better. https://t.co/evIxQmgS5p",
-      "translatedTitle": "软件工程的未来在于智能体之间的对话。",
-      "translatedBody": "软件工程的未来在于智能体之间的交流，甚至跨越不同公司。\n\n我们每天都在从智能体反馈中学习如何改进 Vercel。\n\n欢迎您提出宝贵意见：如果您觉得 Vercel 有任何可以改进的地方，请发送反馈。https://t.co/evIxQmgS5p",
+      "builder": "Claude",
+      "title": "我们将Max套餐更名：Max 5x → Max，Max 20x → Ultra，Max套餐价格仍为每月100美元……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：We’re renaming our Max plans: Max 5x → Max Max 20x → Ultra Max is still $100/month, and Ultra is still $200. If you’r…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "We’re renaming our Max plans: Max 5x → Max Max 20x → Ultra Max is still $100/month,…",
+      "originalBody": "We’re renaming our Max plans: \n\nMax 5x → Max\nMax 20x → Ultra\n\nMax is still $100/month, and Ultra is still $200. If you’re a subscriber, there’s nothing you need to do.\n\nWe’re also removing the 5-hour limit for verified Ultra accounts, starting today with most existing subscribers. Newer accounts keep a temporary limit until they’re verified, which helps us prevent fraud and abuse. You'll get an email when it's removed.\n\nWeekly limits remain unchanged. View our plans here:  https://t.co/niRpyGF5Me",
+      "translatedTitle": "我们将Max套餐更名：Max 5x → Max，Max 20x → Ultra，Max套餐价格仍为每月100美元……",
+      "translatedBody": "我们将Max套餐更名：\n\nMax 5x → Max\n\nMax 20x → Ultra\n\nMax套餐价格仍为每月100美元，Ultra套餐价格仍为每月200美元。如果您已是订阅用户，无需进行任何操作。\n\n此外，我们将取消已验证Ultra账户的5小时使用时长限制，此措施从今天起对大多数现有订阅用户生效。新账户在验证完成前仍保留临时限制，这有助于我们防止欺诈和滥用行为。限制解除后，您将收到电子邮件通知。\n\n每周使用时长限制保持不变。点击此处查看我们的套餐：https://t.co/niRpyGF5Me",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2115874115118834153",
-      "publishedAt": "2026-10-29T18:31:14.000Z",
-      "score": 160.75,
+      "sourceUrl": "https://x.com/claudeai/status/2116220869479428500",
+      "publishedAt": "2026-10-30T17:29:07.000Z",
+      "score": 154.38,
       "engagement": {
-        "likes": 574,
-        "retweets": 29,
-        "replies": 213
+        "likes": 27435,
+        "retweets": 1630,
+        "replies": 2203
       },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
+      "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2115941392698798365",
+      "id": "2116253050742694182",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "我非常欣赏我们团队快速高效地推出最新LTS版本和安全升级的能力……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I love how quickly our team works to bring the latest LTS and security upgrades for @nodejs. Should be a nice perform…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I love how quickly our team works to bring the latest LTS and security upgrades for…",
-      "originalBody": "I love how quickly our team works to bring the latest LTS and security upgrades for @nodejs.\n\nShould be a nice performance boost given 𝚏𝚎𝚝𝚌𝚑 now uses HTTP/2 by default, and agents produce a lot of network traffic https://t.co/mVw6rrRXuQ",
-      "translatedTitle": "我非常欣赏我们团队快速高效地推出最新LTS版本和安全升级的能力……",
-      "translatedBody": "我非常欣赏我们团队为 @nodejs 提供最新 LTS 版本和安全升级的速度。\n\n鉴于 𝚏𝚎𝚝𝚌𝚑 现在默认使用 HTTP/2，并且代理会产生大量网络流量，性能应该会有显著提升。https://t.co/mVw6rrRXuQ",
+      "title": "https://t.co/3Z4NESzNKd 的改进速度令人难以置信。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：The rate of improvement on https://t.co/3Z4NESzNKd is bewildering. It's now even smaller, faster and more token-effic…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "The rate of improvement on https://t.co/3Z4NESzNKd is bewildering.",
+      "originalBody": "The rate of improvement on https://t.co/3Z4NESzNKd is bewildering.\nIt's now even smaller, faster and more token-efficient. \n\nWe're continuously benchmarking and asking it to improve its own performance across open and proprietary models. https://t.co/8DAiMtf7TN",
+      "translatedTitle": "https://t.co/3Z4NESzNKd 的改进速度令人难以置信。",
+      "translatedBody": "https://t.co/3Z4NESzNKd 的改进速度令人惊叹。\n\n它现在体积更小、速度更快、代币效率更高。\n\n我们持续进行基准测试，并要求它在开放模型和专有模型下不断提升自身性能。https://t.co/8DAiMtf7TN",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2115941392698798365",
-      "publishedAt": "2026-10-29T22:58:34.000Z",
-      "score": 154.01,
+      "sourceUrl": "https://x.com/rauchg/status/2116253050742694182",
+      "publishedAt": "2026-10-30T19:37:00.000Z",
+      "score": 154.08,
       "engagement": {
-        "likes": 189,
+        "likes": 161,
         "retweets": 2,
-        "replies": 45
+        "replies": 66
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2115859388191912193",
+      "id": "2116372094527443439",
       "type": "tweet",
-      "builder": "Claude",
-      "title": "iPhone上的语音模式现在可以与Apple CarPlay配合使用。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：On iPhone, voice mode now works with Apple CarPlay. Ask Claude something on the drive and keep your hands on the whee…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "On iPhone, voice mode now works with Apple CarPlay.",
-      "originalBody": "On iPhone, voice mode now works with Apple CarPlay. Ask Claude something on the drive and keep your hands on the wheel. https://t.co/bOvMjHxWMU",
-      "translatedTitle": "iPhone上的语音模式现在可以与Apple CarPlay配合使用。",
-      "translatedBody": "现在，iPhone 的语音模式可以与 Apple CarPlay 配合使用。开车时，你可以向 Claude 提问，双手无需离开方向盘。https://t.co/bOvMjHxWMU",
+      "builder": "Swyx",
+      "title": "社区留言：有人想引用我自己的节目笔记，拜托别引用……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：community note mfs trying to quote my own show notes back to me, bitch dont cite the ancient magic, i was there when…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "community note mfs trying to quote my own show notes back to me, bitch dont cite th…",
+      "originalBody": "community note mfs trying to quote my own show notes back to me, bitch dont cite the ancient magic, i was there when it was written https://t.co/12VJjC5aB8 https://t.co/n136WIhPPB",
+      "translatedTitle": "社区留言：有人想引用我自己的节目笔记，拜托别引用……",
+      "translatedBody": "社区留言：有人想引用我自己的节目笔记来反驳我，拜托别引用什么古老的魔法，我可是亲眼见证了这一切的发生。https://t.co/12VJjC5aB8 https://t.co/n136WIhPPB",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2115859388191912193",
-      "publishedAt": "2026-10-29T17:32:43.000Z",
-      "score": 140.37,
+      "sourceUrl": "https://x.com/swyx/status/2116372094527443439",
+      "publishedAt": "2026-10-31T03:30:02.000Z",
+      "score": 113.56,
       "engagement": {
-        "likes": 2057,
-        "retweets": 89,
-        "replies": 52
+        "likes": 11,
+        "retweets": 0,
+        "replies": 1
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2115953461108023400",
+      "id": "2116183103530217488",
       "type": "tweet",
-      "builder": "Josh Woodward",
-      "title": "Notebook 刚刚解锁了来自世界领先出版社的 700 多本教科书。",
-      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验：Notebook has just unlocked over 700 textbooks from the world’s leading publishers. Every single one is available to y…",
-      "whyItMatters": "Josh Woodward 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Notebook has just unlocked over 700 textbooks from the world’s leading publishers.",
-      "originalBody": "Notebook has just unlocked over 700 textbooks from the world’s leading publishers. Every single one is available to you, completely free of charge! @Gemini_Notebook https://t.co/WUdpOQbZgh",
-      "translatedTitle": "Notebook 刚刚解锁了来自世界领先出版社的 700 多本教科书。",
-      "translatedBody": "Notebook 刚刚解锁了来自世界领先出版社的 700 多本教科书。所有书籍都完全免费供您使用！@Gemini_Notebook https://t.co/WUdpOQbZgh",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/joshwoodward/status/2115953461108023400",
-      "publishedAt": "2026-10-29T23:46:32.000Z",
-      "score": 137.81,
-      "engagement": {
-        "likes": 1107,
-        "retweets": 122,
-        "replies": 43
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2115859390075113836",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "iPhone 和 iPad 即将推出：下拉搜索。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Coming soon on iPhone and iPad: pull down to search. Find a past chat or project, jump to any setting, or act on a ch…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Coming soon on iPhone and iPad: pull down to search.",
-      "originalBody": "Coming soon on iPhone and iPad: pull down to search. Find a past chat or project, jump to any setting, or act on a chat from the results. https://t.co/LNJLAhTbcB",
-      "translatedTitle": "iPhone 和 iPad 即将推出：下拉搜索。",
-      "translatedBody": "iPhone 和 iPad 即将推出：下拉搜索。查找过往聊天记录或项目，跳转至任意设置，或直接对搜索结果中的聊天记录进行操作。https://t.co/LNJLAhTbcB",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2115859390075113836",
-      "publishedAt": "2026-10-29T17:32:44.000Z",
-      "score": 133.36,
-      "engagement": {
-        "likes": 578,
-        "retweets": 7,
-        "replies": 6
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2115850175868727621",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "第25天/我们将所有Pro 100/200/500套餐和Business套餐的使用限制翻倍……",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today. We hear…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business…",
-      "originalBody": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage.\n\nAnd we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time.",
-      "translatedTitle": "第25天/我们将所有Pro 100/200/500套餐和Business套餐的使用限制翻倍……",
-      "translatedBody": "第 25 天/\n\n从今天起，所有 Pro 100/200/500 套餐和 Business Premium 套餐的使用限额将翻倍。\n\n我们听取了您的宝贵反馈，不会降低 Pro 200 套餐的使用限额，因此您的 Work 和 Codex 使用量将保持不变。我们目前也将继续为点数提供更高的使用限额，并且点数的使用量仍将与您的默认使用量分开计算。\n\n当然，我们也会持续推出更优质的模型和其他效率提升措施，以逐步提高您的实际使用效率。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2115850175868727621",
-      "publishedAt": "2026-10-29T16:56:07.000Z",
-      "score": 106.39,
-      "engagement": {
-        "likes": 35279,
-        "retweets": 2466,
-        "replies": 6535
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2116029912243184006",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "工作中的两个人之间的距离竟然如此之大，这几乎令人难以理解……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：It’s almost incomprehensible how wide the distance is between someone who’s working at the frontier with AI and basic…",
+      "builder": "Peter Steinberger",
+      "title": "这很明智。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：This is smart. Wild that this wasn’t the default. Unpredictable inference quality was usually why I recommended skipp…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "It’s almost incomprehensible how wide the distance is between someone who’s working…",
-      "originalBody": "It’s almost incomprehensible how wide the distance is between someone who’s working at the frontier with AI and basically everyone else right now. \n\nThe crazy thing is these lines are not converging, but only growing farther apart. If the curve of AI progress had leveled off, it would certainly have given most people and companies time to catch up or implement their workflows in a standardized way. The technology would have neutralized competitive advantage because everyone would be using it the same way.\n\nBut what’s happened is the opposite. The curve of AI progress is basically going vertical right now, which means if you had codified your processes 3-6 months ago you’re likely already behind again. Now imagine most companies that kicked into gear a year ago and thought that they were done. Even further behind now.\n\nI’ve never seen a technology in my life and career that improves at this rate, which consequently means you need to upgrade your expectations at a similar rate. Our brains weren’t wired for this, and our organizational change management processes certainly weren’t either.\n\nWith any form of recursive self improvement, things just get wilder. It’s a time when you will need to be constantly reevaluating the things that didn’t work just a couple months ago to see if they now can be solved. AI native companies certainly have a strong advantage due to this right now, so now it comes down to can the bigger companies keep up. Wild times.",
-      "translatedTitle": "工作中的两个人之间的距离竟然如此之大，这几乎令人难以理解……",
-      "translatedBody": "如今，人工智能前沿工作者与其他人之间的差距之大，几乎令人难以置信。\n\n更令人匪夷所思的是，这些差距非但没有缩小，反而越来越大。如果人工智能的发展曲线趋于平缓，那么大多数人和公司肯定有时间迎头赶上，或者以标准化的方式实施工作流程。这项技术本可以消除竞争优势，因为每个人都会以相同的方式使用它。\n\n但实际情况恰恰相反。人工智能的发展曲线目前几乎呈垂直上升趋势，这意味着如果你在3-6个月前规范了流程，现在很可能又落后了。想象一下，那些一年前开始行动并以为大功告成的公司，现在更是远远落后了。\n\n在我的人生和职业生涯中，我从未见过任何一项技术以如此惊人的速度发展，这意味着你需要以同样的速度提升你的预期。我们的大脑并非为这种速度而生，我们的组织变革管理流程也同样如此。\n\n任何形式的递归式自我改进都会让事情变得更加复杂。你需要不断重新评估几个月前行不通的方法，看看现在是否能找到解决方案。人工智能原生公司目前无疑在这方面拥有巨大的优势，所以现在关键在于大型公司能否跟上步伐。真是个充满变数的时代。",
+      "originalTitle": "This is smart.",
+      "originalBody": "This is smart. Wild that this wasn’t the default. Unpredictable inference quality was usually why I recommended skipping the middleman. https://t.co/suOAFsqa5a",
+      "translatedTitle": "这很明智。",
+      "translatedBody": "这很聪明。令人惊讶的是，这居然不是默认设置。通常情况下，我建议跳过中间环节，就是因为推理质量难以预测。https://t.co/suOAFsqa5a",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2116029912243184006",
-      "publishedAt": "2026-10-30T04:50:19.000Z",
-      "score": 88.32,
+      "sourceUrl": "https://x.com/steipete/status/2116183103530217488",
+      "publishedAt": "2026-10-30T14:59:03.000Z",
+      "score": 85.26,
       "engagement": {
-        "likes": 1090,
-        "retweets": 127,
-        "replies": 143
+        "likes": 744,
+        "retweets": 18,
+        "replies": 58
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -208,38 +124,118 @@
       "sourceType": "x"
     },
     {
-      "id": "2115884247504625669",
+      "id": "2116153238563242385",
       "type": "tweet",
-      "builder": "Google Labs",
-      "title": "看到你使用 @julesagent 更快地构建、自动化和发布产品，真是令人难以置信。",
-      "summary": "Google Labs 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：It's been incredible watching you build, automate, and ship faster with @julesagent. Your experience has been instrum…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "It's been incredible watching you build, automate, and ship faster with @julesagent.",
-      "originalBody": "It's been incredible watching you build, automate, and ship faster with @julesagent. Your experience has been instrumental in shaping developer products across Google.\n\nThe future of coding is just getting started 🚀🦑! https://t.co/pai6LsNYRK",
-      "translatedTitle": "看到你使用 @julesagent 更快地构建、自动化和发布产品，真是令人难以置信。",
-      "translatedBody": "看到你使用 @julesagent 构建、自动化并更快地发布产品，真是令人惊叹。你的经验对 Google 的开发者产品发展起到了至关重要的作用。\n\n编程的未来才刚刚开始！🚀🦑 https://t.co/pai6LsNYRK",
+      "builder": "Peter Steinberger",
+      "title": "另一个原因就是你想用自己的安全带，而不是用公司提供的那种……",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Another reason why you wanna use your own harness and not one where companies change what you can or can’t do at will…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Another reason why you wanna use your own harness and not one where companies chang…",
+      "originalBody": "Another reason why you wanna use your own harness and not one where companies change what you can or can’t do at will. https://t.co/eX9uv6spfR",
+      "translatedTitle": "另一个原因就是你想用自己的安全带，而不是用公司提供的那种……",
+      "translatedBody": "另一个原因就是你想用自己的安全带，而不是用那种公司可以随意更改你操作功能的现成安全带。https://t.co/eX9uv6spfR",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/GoogleLabs/status/2115884247504625669",
-      "publishedAt": "2026-10-29T19:11:30.000Z",
-      "score": 79.42,
+      "sourceUrl": "https://x.com/steipete/status/2116153238563242385",
+      "publishedAt": "2026-10-30T13:00:22.000Z",
+      "score": 69.74,
       "engagement": {
-        "likes": 240,
-        "retweets": 9,
-        "replies": 16
+        "likes": 4446,
+        "retweets": 227,
+        "replies": 299
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2116121832919122164",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "看好Andy Yen和Proton。",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Bullish on Andy Yen and Proton. He gets it. The culture war, or rather the loss of identity some engineers feel as AI…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Bullish on Andy Yen and Proton.",
+      "originalBody": "Bullish on Andy Yen and Proton. He gets it.\n\nThe culture war, or rather the loss of identity some engineers feel as AI redefines our jobs is difficult; I sympathize. Also understand that he runs a business and might has limited patience when we now had two years to process, learn, change and grow.",
+      "translatedTitle": "看好Andy Yen和Proton。",
+      "translatedBody": "我非常看好严谨的安迪·严和Proton公司。他很懂行。\n\n人工智能重新定义我们的工作，导致一些工程师感到身份认同的丧失，这种文化冲突或这种丧失感令人难以接受；我对此深表同情。我也理解他经营的是企业，而我们花了两年时间来消化、学习、改变和成长，所以他的耐心可能有限。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2116121832919122164",
+      "publishedAt": "2026-10-30T10:55:35.000Z",
+      "score": 64.28,
+      "engagement": {
+        "likes": 1519,
+        "retweets": 95,
+        "replies": 112
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2116303457774899251",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "GBrain Cloud 是让 GBrain 在所有代理上运行的最快方式。",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：GBrain Cloud is the fastest way to get GBrain going across all your agents. Every harness has its strengths - Grok/Mu…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "GBrain Cloud is the fastest way to get GBrain going across all your agents.",
+      "originalBody": "GBrain Cloud is the fastest way to get GBrain going across all your agents. Every harness has its strengths - Grok/Muse/Dots for personal, OpenClaw/Hermes for raw power, Claude Code/Codex/Capy for codegen\n\nGBrain lets you run your context on all of them\n\nhttps://t.co/liju9MjWoY",
+      "translatedTitle": "GBrain Cloud 是让 GBrain 在所有代理上运行的最快方式。",
+      "translatedBody": "GBrain Cloud 是让 GBrain 在所有代理上运行的最快方式。每个框架都有其优势——Grok/Muse/Dots 适合个人应用，OpenClaw/Hermes 提供强大的功能，Claude Code/Codex/Capy 则用于代码生成。\n\nGBrain 允许您在所有这些框架上运行您的上下文。\n\nhttps://t.co/liju9MjWoY",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2116303457774899251",
+      "publishedAt": "2026-10-30T22:57:18.000Z",
+      "score": 55.14,
+      "engagement": {
+        "likes": 197,
+        "retweets": 8,
+        "replies": 74
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2116353054614442364",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "如果你是一位热爱《星际迷航：下一代》并且怀念帕特里克·斯图尔特的千禧一代，我强烈建议……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If you a millenial who loved The Next Generation and miss Patrick Stewart, I highly recommend watching Picard season…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "If you a millenial who loved The Next Generation and miss Patrick Stewart, I highly…",
+      "originalBody": "If you a millenial who loved The Next Generation and miss Patrick Stewart, I highly recommend watching Picard season 3. \n\nI saw it years ago and it's the proper ending this crew deserves. Very grateful to @TerryMatalas and folks for making it.\n\nYou don't need to watch season 1 and 2, just go straight to season 3.",
+      "translatedTitle": "如果你是一位热爱《星际迷航：下一代》并且怀念帕特里克·斯图尔特的千禧一代，我强烈建议……",
+      "translatedBody": "如果你是千禧一代，又热爱《星际迷航：下一代》并且怀念帕特里克·斯图尔特，我强烈推荐你观看《星际迷航：皮卡德》第三季。\n\n我几年前就看过了，这才是这群船员应得的完美结局。非常感谢@TerryMatalas 和所有参与制作的人员。\n\n你不需要先看第一季和第二季，直接看第三季就好。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2116353054614442364",
+      "publishedAt": "2026-10-31T02:14:22.000Z",
+      "score": 46.83,
+      "engagement": {
+        "likes": 47,
+        "retweets": 6,
+        "replies": 4
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-10-30T06:32:11.233Z",
-    "totalCandidates": 36,
-    "textQualifiedCandidates": 14,
+    "upstreamGeneratedAt": "2026-10-31T06:25:12.592Z",
+    "totalCandidates": 31,
+    "textQualifiedCandidates": 15,
     "selectedTweets": 8
   }
 }
