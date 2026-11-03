@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T05:14:20.804Z",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T05:57:12.045Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-11-02",
-  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 12 条候选动态里，筛出 3 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-11-03",
+  "summary": "今天最值得看的是 Andrej Karpathy 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 22 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -13,97 +13,236 @@
       "label": "Coding Agents"
     },
     {
+      "slug": "foundation-models",
+      "label": "Foundation Models"
+    },
+    {
       "slug": "product-ships",
       "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2116642586387730593",
+      "id": "2116957135661945283",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "跟我一起走轻松路线吧，伙计们，低成本+批评循环 > 超级超强……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：join me all the way on the light side guys low effort + critique loop > superultramaxhighwhatever (for the throughput…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "join me all the way on the light side guys low effort + critique loop > superultram…",
-      "originalBody": "join me all the way on the light side guys\n\nlow effort + critique loop > superultramaxhighwhatever\n\n(for the throughput-constrained; see swyxio/skills/babysit-runs) https://t.co/TuAWCwUPR1",
-      "translatedTitle": "跟我一起走轻松路线吧，伙计们，低成本+批评循环 > 超级超强……",
-      "translatedBody": "各位，跟我一起加入光明阵营吧！\n\n低投入 + 互评循环 > 超级无敌高投入\n\n（对于资源有限的人，请参阅 swyxio/skills/babysit-runs）https://t.co/TuAWCwUPR1",
+      "builder": "Andrej Karpathy",
+      "title": "周末黑客：HackerTube。",
+      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Weekend hack: HackerTube.",
+      "originalBody": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\nhttps://t.co/JIhXN7OSh1\n\n- Excellent recs without any logins (state is kept in local browser session)\n- Thumbnail is a representative frame from middle of the video instead of the super duper A/B test hyper-optimized user uploads\n- Underlying data from the comment analysis as one zip file, point your Claude at it and ask for your own version\n- HackerTube Longs ✊\n\nA bit more on the process:\nI use Claude Code (desktop app for Mac), Opus 5.5 on Medium effort as my default. I only talk to Claude and have it do everything, the only \"manual work\" I helped with in tandem was in the browser (reminiscent of MenuGen): 1) I had to create some kind of API key from Google Cloud UI to query YouTube for video metadata, 2) I booted up a VPS box for serving and 3) I bought the domain name. Once the box was up I gave Claude the IP and told it update, secure, harden, deploy and optimize the code, and it did the whole thing.\n\nMany awesome projects that would have normally taken weeks/months even can now be few-shotted for breakfast. What else are we not thinking of.",
+      "translatedTitle": "周末黑客：HackerTube。",
+      "translatedBody": "周末小妙招：HackerTube。我受够了 YouTube 的推荐，于是让 Claude 筛选了 Hacker News 二十年来 4300 万条评论，最终筛选出 6454 个视频，这些视频仍然会被推荐。观看体验*显著*提升，用 Opus 5.5 看完大约 2 小时：\n\nhttps://t.co/JIhXN7OSh1\n\n- 无需登录即可获得优质推荐（状态保存在本地浏览器会话中）\n\n- 缩略图是视频中间的代表性帧，而不是用户上传的经过 A/B 测试优化的超高清版本\n\n- 评论分析的底层数据打包成一个 zip 文件，只需用 Claude 读取该文件即可生成你自己的版本\n\n- HackerTube 长评 ✊\n\n关于使用过程：\n\n我使用 Claude Code（Mac 桌面应用），默认使用 Opus 5.5，难度设置为中等。我只跟 Claude 对话，它就能搞定一切。我唯一需要配合完成的“手动操作”是在浏览器端（有点像 MenuGen）：1）我需要在 Google Cloud UI 上创建一个 API 密钥，用来查询 YouTube 的视频元数据；2）我启动了一个 VPS 服务器用于托管；3）我购买了域名。服务器启动后，我把 IP 地址告诉了 Claude，然后告诉它更新、加固、强化、部署和优化代码，它就自动完成了所有工作。\n\n很多原本需要几周甚至几个月才能完成的优秀项目，现在只需几个步骤就能搞定。还有什么我们没想到的吗？",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2116642586387730593",
-      "publishedAt": "2026-10-31T21:24:52.000Z",
-      "score": 155.82,
+      "sourceUrl": "https://x.com/karpathy/status/2116957135661945283",
+      "publishedAt": "2026-11-01T18:14:46.000Z",
+      "score": 205.91,
       "engagement": {
-        "likes": 135,
+        "likes": 36797,
+        "retweets": 3269,
+        "replies": 1497
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2117000819623243925",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "发挥你的智慧。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Own your intelligence. Anyone that opposes this has something to sell you (perhaps your own intelligence back to you.…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Own your intelligence.",
+      "originalBody": "Own your intelligence.\n\nAnyone that opposes this has something to sell you (perhaps your own intelligence back to you.)\n\nLocal models need to continue proliferating. The “absolute unit” massive models may be out of reach for now locally, so your best option is to, indeed, keep your options open. Own your harness, data, connections, runtime: your agents. Embrace open source.",
+      "translatedTitle": "发挥你的智慧。",
+      "translatedBody": "掌控你的智能。\n\n任何反对这一点的人都有某种东西想卖给你（或许是把你自己的智能卖给你）。\n\n本地模型需要继续普及。目前本地可能还无法实现“绝对单元”的大型模型，所以你最好的选择确实是保持开放的心态。掌控你的工具、数据、连接、运行时环境：你的代理。拥抱开源。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2117000819623243925",
+      "publishedAt": "2026-11-01T21:08:22.000Z",
+      "score": 191.83,
+      "engagement": {
+        "likes": 2251,
+        "retweets": 222,
+        "replies": 242
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2117039740096847920",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "F1堪称我们这个时代最完美的赛事。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：F1 is basically the perfect competition for our times. The celebration of extraordinary technology and extraordinary…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "F1 is basically the perfect competition for our times.",
+      "originalBody": "F1 is basically the perfect competition for our times. The celebration of extraordinary technology and extraordinary human ability. That’s what Vercel stands for! (also: winning) https://t.co/XkxVDnmWjE",
+      "translatedTitle": "F1堪称我们这个时代最完美的赛事。",
+      "translatedBody": "F1堪称我们这个时代最完美的赛事。它颂扬了非凡的科技和非凡的人类能力。这就是Vercel所代表的！（当然，还有胜利）https://t.co/XkxVDnmWjE",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2117039740096847920",
+      "publishedAt": "2026-11-01T23:43:01.000Z",
+      "score": 133.63,
+      "engagement": {
+        "likes": 555,
+        "retweets": 13,
+        "replies": 35
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2116988333096370443",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "与 Gemini 合作开发 https://t.co/3Z4NESzNKd 简直太搞笑了😂😂 除了是 S…",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验：Working with Gemini on https://t.co/3Z4NESzNKd is hilarious 😂😂 Other than being SUPER EXCITED!, I've been testing i…",
+      "whyItMatters": "Guillermo Rauch 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Working with Gemini on https://t.co/3Z4NESzNKd is hilarious 😂😂 Other than being S…",
+      "originalBody": "Working with Gemini on https://t.co/3Z4NESzNKd is hilarious 😂😂\n\nOther than being SUPER EXCITED!, I've been testing it on two high complexity projects and it's doing great. https://t.co/Vb16Fbyats",
+      "translatedTitle": "与 Gemini 合作开发 https://t.co/3Z4NESzNKd 简直太搞笑了😂😂 除了是 S…",
+      "translatedBody": "与 Gemini 合作开发 https://t.co/3Z4NESzNKd 简直太有趣了😂😂\n\n除了超级兴奋之外，我还用它测试了两个高复杂度的项目，效果非常棒。https://t.co/Vb16Fbyats",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2116988333096370443",
+      "publishedAt": "2026-11-01T20:18:45.000Z",
+      "score": 132.42,
+      "engagement": {
+        "likes": 381,
+        "retweets": 9,
+        "replies": 69
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2117059131349868790",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "《幕后工艺》即将播出的剧集：1.",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Upcoming episodes of Behind the Craft: 1. Ashley Alexander Ashley is VP of Product at @OpenAI. We had a heart-to-hear…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Upcoming episodes of Behind the Craft: 1.",
+      "originalBody": "Upcoming episodes of Behind the Craft:\n\n1. Ashley Alexander\n\nAshley is VP of Product at @OpenAI. We had a heart-to-heart conversation about what it's like to care for parents through cancer and where ChatGPT and AI can help.\n\n2. Nate Parrott\n\n@nateparrott is the @AnthropicAI designer behind Claude Design, Dashboard, Motion, and more. He was refreshingly honest about how to get Claude to avoid designing AI slop with a live walkthrough of a real example.\n\n3. Matt Pocock\n\nMatt's AI skills for working with coding agents have 300K+ (!) GitHub stars. He teaches an excellent course on engineering fundamentals, and I can't wait to learn from him how to build software factories the right way.\n\n4. Jacob Sansbury\n\n@jsnnsa, according to my friend and a16z partner @illscience, has built the most AI-pilled gaming company in the world with just 10 people and $32M/year in Claude spend. Excited to dig into all this with him.\n\nWith all my interviews, I try to find people who are builders and practitioners who can talk about topics that I genuinely care about.\n\n📌 Subscribe to get all the episodes soon:\nhttps://t.co/NSTj7ijxE0\n\nThanks for your support!",
+      "translatedTitle": "《幕后工艺》即将播出的剧集：1.",
+      "translatedBody": "即将播出的《幕后故事》节目：\n\n1. Ashley Alexander\n\nAshley 是 @OpenAI 的产品副总裁。我们进行了一次深入的对话，探讨了照顾患癌父母的感受，以及 ChatGPT 和人工智能可以如何提供帮助。\n\n2. Nate Parrott\n\n@nateparrott 是 @AnthropicAI 的设计师，负责 Claude Design、Dashboard、Motion 等项目。他坦诚地分享了如何让 Claude 避免设计出糟糕的人工智能，并现场演示了一个真实案例。\n\n3. Matt Pocock\n\nMatt 在人工智能领域，尤其是与编码代理合作方面，在 GitHub 上获得了超过 30 万颗星！他开设了一门优秀的工程基础课程，我迫不及待地想向他学习如何正确地构建软件工厂。\n\n4. Jacob Sansbury\n\n据我的朋友兼 a16z 合作伙伴 @illscience 所说，@jsnnsa 仅用 10 名员工和每年 3200 万美元的 Claude 开发预算，就打造了全球人工智能应用最广泛的游戏公司。非常期待与他深入探讨这一切。\n\n我的所有采访都力求找到那些真正关心我、并且能够谈论我所关注话题的建设者和实践者。\n\n📌 订阅即可收听所有节目：\n\nhttps://t.co/NSTj7ijxE0\n\n感谢您的支持！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2117059131349868790",
+      "publishedAt": "2026-11-02T01:00:04.000Z",
+      "score": 72.1,
+      "engagement": {
+        "likes": 40,
         "retweets": 0,
-        "replies": 156
+        "replies": 19
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2116987415319740756",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "“这真的会让你质疑，为什么要在你的产品中加入人呢？”",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：\"It really makes you question, why do you want a person in your product? Is your product something that needs a UI?\"…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "\"It really makes you question, why do you want a person in your product?",
+      "originalBody": "\"It really makes you question, why do you want a person in your product? Is your product something that needs a UI?\"\n\nFrom @jacalulu (product director at @GoogleLabs):\n\n\"Anything that involves me creating something. Anything where I want to learn something, there might be a reason for me to interact.\n\nAnytime I want to be entertained or consume something, I'm still the one using the product.\n\nBut there are definitely products that I use today that I would be more than happy to not use, or at least not be the main person interacting with the interface.\"\n\n📌 Watch our full episode here: https://t.co/8hLt6x6atQ",
+      "translatedTitle": "“这真的会让你质疑，为什么要在你的产品中加入人呢？”",
+      "translatedBody": "“这真的让人不禁思考，为什么你的产品需要人来操作？你的产品真的需要用户界面吗？”\n\n来自 @jacalulu（@GoogleLabs 产品总监）：\n\n“任何需要我参与创造的，任何我想学习的东西，都可能需要我进行交互。\n\n任何时候，只要我想娱乐或消费，我仍然是产品的使用者。\n\n但确实有一些我目前使用的产品，我非常乐意不用，或者至少不想成为与界面交互的主要用户。”\n\n📌 点击此处观看完整视频：https://t.co/8hLt6x6atQ",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2116987415319740756",
+      "publishedAt": "2026-11-01T20:15:06.000Z",
+      "score": 69.66,
+      "engagement": {
+        "likes": 17,
+        "retweets": 0,
+        "replies": 17
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2116976789046350040",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "新增角色：一位擅长用火战斗的跆拳道大师。我还更新了……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：adding a new character: a taekwondo master that fights with fire I also updated the art style from 3d models to use g…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "adding a new character: a taekwondo master that fights with fire I also updated the…",
+      "originalBody": "adding a new character: a taekwondo master that fights with fire\n\nI also updated the art style from 3d models to use generated sprites https://t.co/4F60NS4TQy https://t.co/hLIVplRPrW",
+      "translatedTitle": "新增角色：一位擅长用火战斗的跆拳道大师。我还更新了……",
+      "translatedBody": "新增角色：一位擅长用火战斗的跆拳道大师\n\n我还将美术风格从 3D 模型更新为使用生成的精灵图 https://t.co/4F60NS4TQy https://t.co/hLIVplRPrW",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2116976789046350040",
+      "publishedAt": "2026-11-01T19:32:52.000Z",
+      "score": 61.78,
+      "engagement": {
+        "likes": 990,
+        "retweets": 16,
+        "replies": 93
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2116998155925360965",
+      "type": "tweet",
+      "builder": "Amjad Masad",
+      "title": "您可以在 Replit 上通过一个开关启用此功能。",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：You can enable this on Replit with one toggle. If you enable the “feedback widget” on your site, users’ feedback beco…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "You can enable this on Replit with one toggle.",
+      "originalBody": "You can enable this on Replit with one toggle. If you enable the “feedback widget” on your site, users’ feedback become prompts for the agents to build. https://t.co/QLBwKenews",
+      "translatedTitle": "您可以在 Replit 上通过一个开关启用此功能。",
+      "translatedBody": "您只需在 Replit 上启用一个开关即可。如果您在网站上启用“反馈小部件”，用户的反馈就会成为客服人员构建产品的提示。https://t.co/QLBwKenews",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/amasad/status/2116998155925360965",
+      "publishedAt": "2026-11-01T20:57:46.000Z",
+      "score": 55.93,
+      "engagement": {
+        "likes": 245,
+        "retweets": 9,
+        "replies": 76
       },
       "matchedFocusAreas": [
         "Coding Agents"
       ],
       "sourceType": "x"
-    },
-    {
-      "id": "2116773135668404286",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "顺便一提，@karpathy 在他的最新项目（Hackertube 上线……）中使用了 Opus 5.5 的 Medium 平台。",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：btw @karpathy uses medium on opus 5.5 on his latest project (Hackertube launched today). overall i think having stron…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "btw @karpathy uses medium on opus 5.5 on his latest project (Hackertube launched to…",
-      "originalBody": "btw @karpathy uses medium on opus 5.5 on his latest project (Hackertube launched today).\n\noverall i think having strong opinions on effort levels is like the tabs vs spaces of our time. just tweak to taste. altho mine is definitely superior to yours. https://t.co/oSCPvlogKc https://t.co/3OIWb03BtY",
-      "translatedTitle": "顺便一提，@karpathy 在他的最新项目（Hackertube 上线……）中使用了 Opus 5.5 的 Medium 平台。",
-      "translatedBody": "顺便一提，@karpathy 在他的最新项目（Hackertube 今天上线了）中用的是 Opus 5.5 的 Medium 字体。\n\n总的来说，我觉得对字体使用强度有强烈的意见，就像我们这个时代对制表符和空格的看法一样，都只是个人喜好问题。不过我的肯定比你的强。https://t.co/oSCPvlogKc https://t.co/3OIWb03BtY",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2116773135668404286",
-      "publishedAt": "2026-11-01T06:03:37.000Z",
-      "score": 148.63,
-      "engagement": {
-        "likes": 35,
-        "retweets": 0,
-        "replies": 29
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2116652002830963114",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "这是检验你是否在积极推进人工智能应用的一个很好的试金石……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：This is one of the better litmus tests for whether you’re pushing your use of AI enough or not. Up until maybe six mo…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "This is one of the better litmus tests for whether you’re pushing your use of AI en…",
-      "originalBody": "This is one of the better litmus tests for whether you’re pushing your use of AI enough or not. \n\nUp until maybe six months ago probably the best you could do with AI was pull off something you already would produce, but just doing it a little faster. But now we’re entering a point where the output of working with AI can and should dramatically exceed what you would been able to do before, in a fraction of the time.\n\nThe product prototype should not only be fully functional and interactive, but it should probably have meaningfully better features than it would have had before. The engineering architecture should be able to deliver performance gains that you wouldn’t have been able to go after otherwise. \n\nThe research for a project should consume every single fact on the subject across every dimension of analysis possible. The business process you implement with AI should operate entirely differently and learn from all its past failures in a way no human could. \n\nWe’re unquestionably entering a period where AI will be smarter than us on most axes. Perhaps not on every dimension that matters (intelligence is still very jagged), but at least on enough dimensions that when we combine it with what we’re good at, you get qualitatively different outcomes.\n\nSo the simple test is: if you could have done what you’re doing before AI, you’re likely not pushing it enough.",
-      "translatedTitle": "这是检验你是否在积极推进人工智能应用的一个很好的试金石……",
-      "translatedBody": "这是检验你是否充分发挥人工智能作用的最佳试金石之一。\n\n大约六个月前，人工智能所能做的最好的事情可能就是把原本就能完成的事情做得更快一些。但现在，我们正进入一个全新的阶段：人工智能的产出可以而且应该在极短的时间内，大幅超越以往的能力。\n\n产品原型不仅应该功能齐全、交互性强，而且应该比以往拥有更强大的功能。工程架构应该能够带来以往无法企及的性能提升。\n\n项目研究应该涵盖所有可能的分析维度，囊括所有相关事实。你利用人工智能实现的业务流程应该以完全不同的方式运作，并从过去的失败中吸取经验教训，这是人类无法做到的。\n\n毫无疑问，我们正在进入一个人工智能在大多数方面都将超越人类的时代。或许并非在所有重要维度上都如此（智能仍然存在很大的差异），但至少在足够多的维度上，当我们将其与我们擅长的技能结合起来时，就能获得截然不同的结果。\n\n因此，一个简单的检验方法是：如果你在人工智能出现之前就能完成你现在正在做的事情，那么你可能还没有充分发挥人工智能的潜力。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2116652002830963114",
-      "publishedAt": "2026-10-31T22:02:17.000Z",
-      "score": 60.37,
-      "engagement": {
-        "likes": 618,
-        "retweets": 53,
-        "replies": 107
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-11-01T06:26:17.261Z",
-    "totalCandidates": 12,
-    "textQualifiedCandidates": 3,
-    "selectedTweets": 3
+    "upstreamGeneratedAt": "2026-11-02T06:35:38.590Z",
+    "totalCandidates": 22,
+    "textQualifiedCandidates": 11,
+    "selectedTweets": 8
   }
 }
