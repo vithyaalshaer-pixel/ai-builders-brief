@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-05T05:54:10.452Z",
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T05:50:48.169Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-11-05",
+  "title": "AI Builders Daily | 2026-11-06",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 29 条候选动态里，筛出 17 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 30 条候选动态里，筛出 15 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,26 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2117734833824948373",
+      "id": "2118075898830463048",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "我一直期待着这一天，因为Vercel公司内部有一个安全机构……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I've been looking forward to this day, because Vercel has an internal security agent that is **astonishingly effectiv…",
+      "title": "能和如此重视打造优质产品的人一起工作，真是太鼓舞人心了……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：It’s so inspiring to work with people who care so much about building quality products. Greatness is the byproduct of…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "I've been looking forward to this day, because Vercel has an internal security agen…",
-      "originalBody": "I've been looking forward to this day, because Vercel has an internal security agent that is **astonishingly effective** (lovingly called @𝚑𝚊𝚌𝚔𝚎𝚛). Every single line of code gets audited, automatically.\n\nYou can now get the same power. Just enable it on all your repos (this product works whether you host on Vercel or not) and your peace of mind will increase tremendously. You'll see it catch things that every other agent misses.\n\nWhy: you cannot just bank on your engineers having a skill installed, prompting \"please make secure\", or rolling the weights' dice that the code is good out of the gate.\n\nThe other cool thing about this is that this was entirely developed by our security team. A lot of companies out there are probably in a mad rush right now trying to staff up. If you wanted to 'download a security team' as software, this is the closest you get today.",
-      "translatedTitle": "我一直期待着这一天，因为Vercel公司内部有一个安全机构……",
-      "translatedBody": "我一直期待着这一天的到来，因为 Vercel 有一个**极其有效**的内部安全代理（我们亲切地称它为 @𝚑𝚊𝚌𝚔𝚎𝚛）。它会自动审核每一行代码。\n\n现在，您也可以拥有同样的强大功能。只需在所有代码仓库中启用它（无论您的代码是否托管在 Vercel 上，此产品都适用），您的安心程度将大大提升。您会发现它能发现其他代理遗漏的问题。\n\n原因很简单：您不能仅仅指望您的工程师安装了安全软件，然后提示“请确保安全”，或者碰运气认为代码一开始就没问题。\n\n另一个很棒的地方是，它完全由我们的安全团队开发。现在很多公司可能都在拼命地扩充安全团队。如果您想“下载一个安全团队”的软件，那么这就是目前最接近的选择。",
+      "originalTitle": "It’s so inspiring to work with people who care so much about building quality produ…",
+      "originalBody": "It’s so inspiring to work with people who care so much about building quality products. \n\nGreatness is the byproduct of a million iterations. Agents or otherwise. https://t.co/0hDrXe2PIX",
+      "translatedTitle": "能和如此重视打造优质产品的人一起工作，真是太鼓舞人心了……",
+      "translatedBody": "能和如此注重打造优质产品的人一起工作，真是令人振奋。\n\n卓越源于无数次的迭代。无论是否与代理商合作。https://t.co/0hDrXe2PIX",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2117734833824948373",
-      "publishedAt": "2026-11-03T21:45:04.000Z",
-      "score": 185.5,
+      "sourceUrl": "https://x.com/rauchg/status/2118075898830463048",
+      "publishedAt": "2026-11-04T20:20:20.000Z",
+      "score": 182.52,
       "engagement": {
-        "likes": 694,
-        "retweets": 26,
-        "replies": 108
+        "likes": 377,
+        "retweets": 11,
+        "replies": 75
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -51,26 +51,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2117679157035602065",
+      "id": "2118166970273292299",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "作为2026年底AIE最疯狂阵容的一部分，我们也激动地宣布……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：As part of the most insane AIE lineup to end 2026, we're also excited to announce our final track theme: *Raising you…",
+      "builder": "Guillermo Rauch",
+      "title": "在接下来的几周和几个月里，我们都会了解到，大多数人造软件：▫️…",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We will all be learning in coming weeks & months, that most human-made software: ▫️ Was really slow ▫️ Had many secur…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "As part of the most insane AIE lineup to end 2026, we're also excited to announce o…",
-      "originalBody": "As part of the most insane AIE lineup to end 2026, we're also excited to announce our final track theme:\n\n*Raising your Ambition*\n\nfeaturing @jxnlco, @trq212, @jarredsumner, @sqs, @mitsuhiko, @dexhorthy, @BuiltByJustin (StrongDM Dark Factory) \n\nand a special keynote from @echelon in his first big appearance since cloning the entire Adobe suite last month... and talking about how and what's next!\n\ngathering 1000 of the top agentic engineers in person in SF and livestreamed to 2M MAU online on youtube. join here: https://t.co/bx6aYCqlW8 <- see you in SF!",
-      "translatedTitle": "作为2026年底AIE最疯狂阵容的一部分，我们也激动地宣布……",
-      "translatedBody": "作为2026年底最精彩的AIE阵容的一部分，我们激动地宣布本次大会的最终主题：\n\n*提升你的雄心*\n\n特邀嘉宾包括：@jxnlco、@trq212、@jarredsumner、@sqs、@mitsuhiko、@dexhorthy、@BuiltByJustin（StrongDM Dark Factory）\n\n以及@echelon的特别主题演讲，这是他自上个月克隆整个Adobe套件以来首次公开亮相……他将畅谈克隆过程以及未来的发展方向！\n\n届时将有1000位顶尖的智能工程师齐聚旧金山，并通过YouTube向200万月活跃用户进行直播。点击此处加入：https://t.co/bx6aYCqlW8 <- 旧金山见！",
+      "originalTitle": "We will all be learning in coming weeks & months, that most human-made software: ▫️…",
+      "originalBody": "We will all be learning in coming weeks & months, that most human-made software:\n\n▫️ Was really slow\n▫️ Had many security vulnerabilities\n▫️ Was under-specified and incorrect\n\nAI will rewrite it all. Many times. It will make it fast, cost-efficient, and secure. It will think about failure modes we couldn't wrap our heads around.\n\nIt will prove, formally verify, load test, harden. It will turn memory-unsafe foundations into robust, optimized ones. If you ask, it'll thoroughly document it, teach you about it, make diagrams, animations, and slide decks.\n\nIn many ways, we are witnessing the true birth of software engineering.",
+      "translatedTitle": "在接下来的几周和几个月里，我们都会了解到，大多数人造软件：▫️…",
+      "translatedBody": "在接下来的几周和几个月里，我们将会逐渐认识到，大多数人为编写的软件：\n\n▫️ 运行速度极慢\n\n▫️ 存在诸多安全漏洞\n\n▫️ 规范不足且存在错误\n\n人工智能将重写这一切，而且会多次重写。它将使软件运行速度更快、成本更低、安全性更高。它甚至会考虑到我们无法理解的故障模式。\n\n它将进行验证、形式化验证、负载测试和加固。它将把内存不安全的基础架构转化为健壮且优化的架构。如果你提出要求，它将提供详尽的文档，为你讲解相关知识，并制作图表、动画和幻灯片。\n\n从很多方面来看，我们正在见证软件工程的真正诞生。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2117679157035602065",
-      "publishedAt": "2026-11-03T18:03:50.000Z",
-      "score": 151.43,
+      "sourceUrl": "https://x.com/rauchg/status/2118166970273292299",
+      "publishedAt": "2026-11-05T02:22:14.000Z",
+      "score": 167.1,
       "engagement": {
-        "likes": 83,
-        "retweets": 7,
-        "replies": 41
+        "likes": 2482,
+        "retweets": 222,
+        "replies": 198
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -78,105 +78,53 @@
       "sourceType": "x"
     },
     {
-      "id": "2117794005165748448",
-      "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "人们应该始终掌控未来。",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：People should always be in control of the future. OpenAI is against the notion that it would be acceptable for people…",
-      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "People should always be in control of the future.",
-      "originalBody": "People should always be in control of the future.\n\nOpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems think makes sense to reward in humans”.\n\nPeople should not cede control of the future to superintelligence, and that requirement should ultimately constrain AI progress.",
-      "translatedTitle": "人们应该始终掌控未来。",
-      "translatedBody": "人类应该始终掌控未来。\n\nOpenAI 反对这样一种观点：人类应该被限制在“人工智能系统认为应该奖励人类去做的事情”中。\n\n人类不应将未来的控制权拱手让给超级智能，而这一要求最终应该限制人工智能的发展。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2117794005165748448",
-      "publishedAt": "2026-11-04T01:40:12.000Z",
-      "score": 150.01,
-      "engagement": {
-        "likes": 10173,
-        "retweets": 528,
-        "replies": 2312
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2117558305891746212",
+      "id": "2118208851506036989",
       "type": "tweet",
       "builder": "Swyx",
-      "title": "顺便一提，这是@addyosmani 的分享，讲述了人类 YOLO 如何在黑暗的工厂里一天修改 3 万行代码……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：btw here's @addyosmani how anthropic yolos 30k code changes a day in a dark factory approach, with @kapmani of @Sonar…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "btw here's @addyosmani how anthropic yolos 30k code changes a day in a dark factory…",
-      "originalBody": "btw here's @addyosmani  how anthropic yolos 30k code changes a day in a dark factory approach, with @kapmani of @SonarSource giving more research on why every loop needs independent verification\n\nhttps://t.co/pnhY2aGyGw\n\nalready one of the top talks of AIE NYC!\n\n(Sonar is both a sponsor and super relevant for the aie nyc focus on finance)",
-      "translatedTitle": "顺便一提，这是@addyosmani 的分享，讲述了人类 YOLO 如何在黑暗的工厂里一天修改 3 万行代码……",
-      "translatedBody": "顺便一提，@addyosmani 讲解了 anthropic yolos 如何在暗工厂模式下每天修改 3 万行代码，@SonarSource 的 @kapmani 则进一步研究了为什么每个循环都需要独立验证。\n\nhttps://t.co/pnhY2aGyGw\n\n这已经是 AIE NYC 最热门的演讲之一了！\n\n（Sonar 既是赞助商，也与 AIE NYC 的金融主题密切相关。）",
+      "title": "呃，什么？速度提升3倍，价格便宜5倍，但评估结果却和 FrontierCode 2 一样，这简直是……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：uhhh what, 3x faster 5x cheaper but evals SAME ON FRONTIERCODE 2 this is distillation without tradeoffs. i think @thi…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "uhhh what, 3x faster 5x cheaper but evals SAME ON FRONTIERCODE 2 this is distillati…",
+      "originalBody": "uhhh what, 3x faster 5x cheaper but evals SAME ON FRONTIERCODE 2\n\nthis is distillation without tradeoffs. i think @thinkymachines inkling is one of the most underrated base models in the world. expect to see a TON more of these esp on US pretrained models https://t.co/zvJFP9EIPL",
+      "translatedTitle": "呃，什么？速度提升3倍，价格便宜5倍，但评估结果却和 FrontierCode 2 一样，这简直是……",
+      "translatedBody": "呃，什么？速度提升 3 倍，价格降低 5 倍，但在 FrontierCode 2 上的评估结果却一样？\n\n这才是真正的无损蒸馏。我认为 Thinky Machines 的 Inkling 是世界上最被低估的基础模型之一。预计未来会看到更多类似的模型，尤其是在美国预训练模型方面。https://t.co/zvJFP9EIPL",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2117558305891746212",
-      "publishedAt": "2026-11-03T10:03:37.000Z",
-      "score": 121.71,
+      "sourceUrl": "https://x.com/swyx/status/2118208851506036989",
+      "publishedAt": "2026-11-05T05:08:39.000Z",
+      "score": 150.6,
       "engagement": {
-        "likes": 17,
-        "retweets": 0,
-        "replies": 31
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2117505799937577263",
-      "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "尽管人工智能输出结果的差异可能达到了有史以来的最高水平，但这却令人匪夷所思……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：The divergence in AI output weirdly may be the highest it’s ever been, even though adoption is the broadest it’s ever…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "The divergence in AI output weirdly may be the highest it’s ever been, even though…",
-      "originalBody": "The divergence in AI output weirdly may be the highest it’s ever been, even though adoption is the broadest it’s ever been. \n\nA few years ago the best productivity gains you could get, even in the most capability-aligned field (like coding), was maybe 30-50% better productivity if you were very good at it. You’d spend a decent chunk of time cleaning up the mistakes of models, the context windows were too limited to do any long running work, and the interfaces required highly synchronous interactions. \n\nNow, the models can do far longer tasks at a time with limited human interaction. The harnesses support agentic work that can take on these larger tasks. The models are trained on vastly better datasets for a growing array of domains so you have to intervene far less. And we have systems that better support working with many agents at once. \n\nIn just a two year timespan, the upper limits on productivity gains have gone from 30-50% to now likely 5-10X depending on the field. So we’ve gone from an environment where living at the frontier vs. not paying attention at all could be an order of magnitude difference in your output.\n\nThis distance is only getting wider from here given the rate of progress we’re likely to see with RSI. Crazy times.",
-      "translatedTitle": "尽管人工智能输出结果的差异可能达到了有史以来的最高水平，但这却令人匪夷所思……",
-      "translatedBody": "尽管人工智能的应用范围达到了前所未有的最广，但其输出结果的差异却出人意料地达到了前所未有的最大程度。\n\n几年前，即使在技能匹配度最高的领域（例如编程），如果你非常擅长，所能获得的最佳生产力提升也只有30%到50%。你需要花费大量时间来修正模型的错误，上下文窗口过于有限，无法执行任何长时间运行的任务，而且界面需要高度同步的交互。\n\n现在，模型可以一次性完成更长时间的任务，并且只需极少的人工干预。这些工具支持智能体工作，可以承担这些更大型的任务。模型在涵盖越来越多领域的更优质的数据集上进行训练，因此你需要的干预大大减少。而且，我们拥有能够更好地支持多个智能体同时工作的系统。\n\n短短两年内，生产力提升的上限就从30%到50%提升到了现在的5到10倍，具体倍数取决于领域。所以，我们已经从那种“走在时代前沿与完全不关注时代前沿，产出可能相差一个数量级”的环境，发展到了如今的局面。\n\n鉴于RSI（重复性劳损）领域可能取得的进展速度，这种差距只会越来越大。真是疯狂的时代。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2117505799937577263",
-      "publishedAt": "2026-11-03T06:34:58.000Z",
-      "score": 109.33,
-      "engagement": {
-        "likes": 391,
-        "retweets": 34,
-        "replies": 177
+        "likes": 52,
+        "retweets": 1,
+        "replies": 54
       },
       "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
+        "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2117731934340337676",
+      "id": "2118137612577968402",
       "type": "tweet",
       "builder": "Cat Wu",
-      "title": "星期五是我在Anthropic的最后一天。",
-      "summary": "Cat Wu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Friday was my last day at Anthropic. Two years ago, when Claude Code was a small internal tool, I asked it to build a…",
+      "title": "最新消息：我将加入 OpenAI，负责核心产品的产品管理！",
+      "summary": "Cat Wu 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Some news: I’m joining OpenAI to lead product management for Core Products! I have a lot of respect for OpenAI for sh…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "Friday was my last day at Anthropic.",
-      "originalBody": "Friday was my last day at Anthropic.\n\nTwo years ago, when Claude Code was a small internal tool, I asked it to build an RL env. I steered it for tens of hours but never manually wrote a line of code. It worked, I was hooked, and I joined the team.\n\nWhen we first launched, most people approved every permission prompt by hand and mostly used Claude to answer questions and write tests. \n\nToday, the default is trusting Claude's judgment to auto-approve. Claude does large migrations and builds new products. \n\nHelping build Claude Code into an industry-defining product has been the journey of a lifetime. \n\nThank you to the incredible team behind Claude Code, Cowork, and Tag. These products are the sum of thousands of great ideas from you. I'll miss working with you all.\n\nThank you to our users for embracing a new way of working. Your constant feedback shaped so much of what we shipped and your stories made the work so meaningful.\n\nExcited to see what you all make next!",
-      "translatedTitle": "星期五是我在Anthropic的最后一天。",
-      "translatedBody": "周五是我在 Anthropic 的最后一天。\n\n两年前，Claude Code 还只是一个小型内部工具时，我让它构建了一个强化学习环境。我操控了它几十个小时，但从未手动编写过一行代码。它成功运行了，我被它深深吸引，并加入了团队。\n\n我们最初推出时，大多数人都会手动批准每一个权限提示，并且主要使用 Claude 来回答问题和编写测试。\n\n如今，默认设置是信任 Claude 的判断，让它自动批准。Claude 可以进行大规模迁移并构建新产品。\n\n帮助 Claude Code 成长为一款行业标杆产品，是我毕生难忘的旅程。\n\n感谢 Claude Code、Cowork 和 Tag 背后的出色团队。这些产品凝聚了你们成千上万个绝妙的想法。我会想念和你们一起工作的日子。\n\n感谢我们的用户接受这种全新的工作方式。你们的持续反馈对我们最终交付的产品影响巨大，你们的故事也让这项工作意义非凡。\n\n期待看到你们的下一个作品！",
+      "originalTitle": "Some news: I’m joining OpenAI to lead product management for Core Products!",
+      "originalBody": "Some news: I’m joining OpenAI to lead product management for Core Products!\n\nI have a lot of respect for OpenAI for showing the world that scaling works, for bringing AI to over a billion people, and for believing great products are core to the mission.\n\nI’m excited to work with @thsottiaux, an incredible PM team, and everyone across OpenAI. Together, we’ll build agents that have your back and your team’s, and keep you in control, so you get more time for the people and work you love.\n\nLots to learn, and lots to build. Please keep your feedback coming!",
+      "translatedTitle": "最新消息：我将加入 OpenAI，负责核心产品的产品管理！",
+      "translatedBody": "好消息：我将加入 OpenAI，负责核心产品的产品管理！\n\n我非常敬佩 OpenAI，他们向世界证明了规模化是行之有效的，他们让超过十亿人受益于人工智能，并且始终坚信优秀的产品是其使命的核心。\n\n我很高兴能与 @thsottiaux、优秀的产品经理团队以及 OpenAI 的全体成员共事。我们将携手打造能够支持您和您的团队的智能体，让您始终掌控全局，从而腾出更多时间陪伴您热爱的人，从事您热爱的工作。\n\n有很多东西需要学习，也有很多东西需要构建。欢迎大家继续提出宝贵意见！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/_catwu/status/2117731934340337676",
-      "publishedAt": "2026-11-03T21:33:33.000Z",
-      "score": 98.61,
+      "sourceUrl": "https://x.com/_catwu/status/2118137612577968402",
+      "publishedAt": "2026-11-05T00:25:34.000Z",
+      "score": 100.17,
       "engagement": {
-        "likes": 9473,
-        "retweets": 260,
-        "replies": 830
+        "likes": 11973,
+        "retweets": 527,
+        "replies": 1422
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -185,55 +133,107 @@
       "sourceType": "x"
     },
     {
-      "id": "2117741948609949932",
+      "id": "2118058438714650985",
       "type": "tweet",
-      "builder": "Matt Turck",
-      "title": "@SurrealDB 迎来重要时刻！构建数据库是一项极其艰巨的任务——如果你能……",
-      "summary": "Matt Turck 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Major moment for @SurrealDB Building a database is an incredible grind - if you get that initial open-source pop, you…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Major moment for @SurrealDB Building a database is an incredible grind - if you get…",
-      "originalBody": "Major moment for @SurrealDB \n\nBuilding a database is an incredible grind - if you get that initial open-source pop, you then face years of unglamorous hard work to build a truly world class product\n\nSurrealDB 4 is now that product. Multi-model (vector, graph, document), ACID compliant, w/ a rebuilt engine, native Postgres/MySQL support + massive scalability via @Cloudflare handling 10B+ peak rows/sec\n\nThe modern database for the agentic era.",
-      "translatedTitle": "@SurrealDB 迎来重要时刻！构建数据库是一项极其艰巨的任务——如果你能……",
-      "translatedBody": "SurrealDB 迎来重大时刻\n\n构建数据库是一项艰巨的任务——即使你获得了开源项目的初期成功，接下来的几年里，你仍需付出艰辛的努力，才能打造出真正世界一流的产品。\n\nSurrealDB 4 正是这样一款产品。它支持多模型（向量、图、文档），符合 ACID 标准，并拥有重构的引擎、原生 Postgres/MySQL 支持，同时借助 @Cloudflare 实现了强大的可扩展性，峰值处理量可达每秒 100 亿行以上。\n\n这是面向智能代理时代的现代数据库。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/mattturck/status/2117741948609949932",
-      "publishedAt": "2026-11-03T22:13:20.000Z",
-      "score": 97.4,
-      "engagement": {
-        "likes": 42,
-        "retweets": 7,
-        "replies": 11
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2117746467058405665",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "事物会不断变化。",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frus…",
+      "builder": "Garry Tan",
+      "title": "我们侥幸躲过了这场资产扣押税。",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We dodged a bullet on this asset seizure tax. With any luck Prop 42 will pass. Builders of tech in California had a g…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Things will change again and again and again.",
-      "originalBody": "Things will change again and again and again. We’re still very early and agents today are incredible, and yet so frustrating still. Can’t wait to crack things to get that flow state back. Long journey ahead.",
-      "translatedTitle": "事物会不断变化。",
-      "translatedBody": "情况会不断变化。我们仍处于早期阶段，如今的代理非常出色，但仍然令人沮丧。迫不及待地想要破解难题，重拾那种流畅的操作体验。前路漫漫。",
+      "originalTitle": "We dodged a bullet on this asset seizure tax.",
+      "originalBody": "We dodged a bullet on this asset seizure tax. With any luck Prop 42 will pass. \n\nBuilders of tech in California had a good day yesterday: we want abundance and asset seizure is the one guaranteed way to kill the golden goose. \n\nHuge thanks to Sergey Brin here. https://t.co/HIznVbS14W",
+      "translatedTitle": "我们侥幸躲过了这场资产扣押税。",
+      "translatedBody": "我们侥幸躲过了这场资产扣押税。但愿42号提案能够通过。\n\n加州的科技建设者们昨天过得不错：我们想要的是富足，而资产扣押无疑是扼杀这只金鹅的唯一途径。\n\n非常感谢谢尔盖·布林。https://t.co/HIznVbS14W",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2117746467058405665",
-      "publishedAt": "2026-11-03T22:31:18.000Z",
-      "score": 73.41,
+      "sourceUrl": "https://x.com/garrytan/status/2118058438714650985",
+      "publishedAt": "2026-11-04T19:10:58.000Z",
+      "score": 60.13,
       "engagement": {
-        "likes": 8425,
-        "retweets": 192,
-        "replies": 1340
+        "likes": 726,
+        "retweets": 39,
+        "replies": 28
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2118116514700386439",
+      "type": "tweet",
+      "builder": "Peter Steinberger",
+      "title": "个人限度还有意义吗？",
+      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Do individual limits still make sense? As capabilities increase you want to work with and support an agent that repre…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Do individual limits still make sense?",
+      "originalBody": "Do individual limits still make sense? As capabilities increase you want to work with and support an agent that represents your project, that runs loops and evolves your codebase. The humans merely curate the automations. https://t.co/7A1dRKVtJk",
+      "translatedTitle": "个人限度还有意义吗？",
+      "translatedBody": "个人限制还有意义吗？随着能力的提升，你需要一个能够代表你的项目、运行循环并不断演进代码库的代理来协作和支持。人类仅仅是自动化流程的维护者。https://t.co/7A1dRKVtJk",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/steipete/status/2118116514700386439",
+      "publishedAt": "2026-11-04T23:01:44.000Z",
+      "score": 59.43,
+      "engagement": {
+        "likes": 518,
+        "retweets": 22,
+        "replies": 118
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2118180254300688857",
+      "type": "tweet",
+      "builder": "Amjad Masad",
+      "title": "我们很高兴地宣布与三井住友金融租赁公司（SMFL）建立合作伙伴关系……",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Excited to announce our partnership with Sumitomo Mitsui Finance & Leasing (SMFL), one of Japan’s leading financial i…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Excited to announce our partnership with Sumitomo Mitsui Finance & Leasing (SMFL),…",
+      "originalBody": "Excited to announce our partnership with Sumitomo Mitsui Finance & Leasing (SMFL), one of Japan’s leading financial institutions!\n\nReplit is powering SMFL’s core software products and has massively accelerated their development process: For example they recently in just one week, with one person, completed a project that previously required six people working for six months.\n\nNext we’re partnering to bring AI-powered software creation to Japanese enterprises, helping them overcome labor shortages, accelerate innovation, and unlock entirely new business opportunities.\n\nhttps://t.co/eTMLFDkIv1",
+      "translatedTitle": "我们很高兴地宣布与三井住友金融租赁公司（SMFL）建立合作伙伴关系……",
+      "translatedBody": "我们很高兴地宣布与日本领先的金融机构之一——三井住友金融租赁公司（SMFL）建立合作伙伴关系！\n\nReplit 为 SMFL 的核心软件产品提供技术支持，并极大地加速了他们的开发流程：例如，他们最近仅用一周时间，由一人完成，就完成了一个之前需要六个人耗时六个月才能完成的项目。\n\n接下来，我们将携手合作，为日本企业带来人工智能驱动的软件开发，帮助他们克服劳动力短缺问题，加速创新，并开拓全新的商业机遇。\n\nhttps://t.co/eTMLFDkIv1",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/amasad/status/2118180254300688857",
+      "publishedAt": "2026-11-05T03:15:01.000Z",
+      "score": 54.95,
+      "engagement": {
+        "likes": 216,
+        "retweets": 12,
+        "replies": 48
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2118120795780370768",
+      "type": "tweet",
+      "builder": "Zara Zhang",
+      "title": "与用户社区互动时，最好的群聊工具是什么？",
+      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：What's the best group chat tool for engaging with a user community? Discord feels too overwhelming, WhatsApp isn't wi…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "What's the best group chat tool for engaging with a user community?",
+      "originalBody": "What's the best group chat tool for engaging with a user community? Discord feels too overwhelming, WhatsApp isn't widely used in the US, iMessage is too personal, Slack feels too corporate",
+      "translatedTitle": "与用户社区互动时，最好的群聊工具是什么？",
+      "translatedBody": "哪个群聊工具最适合与用户社区互动？Discord 感觉太复杂，WhatsApp 在美国使用率不高，iMessage 太私人化，Slack 又感觉太正式。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/zarazhangrui/status/2118120795780370768",
+      "publishedAt": "2026-11-04T23:18:45.000Z",
+      "score": 51.3,
+      "engagement": {
+        "likes": 64,
+        "retweets": 1,
+        "replies": 59
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -242,9 +242,9 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-11-04T06:28:22.825Z",
-    "totalCandidates": 29,
-    "textQualifiedCandidates": 17,
+    "upstreamGeneratedAt": "2026-11-05T06:28:43.321Z",
+    "totalCandidates": 30,
+    "textQualifiedCandidates": 15,
     "selectedTweets": 8
   }
 }
