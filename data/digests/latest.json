@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T05:30:13.971Z",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T06:41:54.908Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-11-09",
-  "summary": "今天最值得看的是 Andrej Karpathy 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 19 条候选动态里，筛出 10 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-11-10",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 29 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,26 +23,110 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2119114537442189652",
+      "id": "2119878364794372162",
       "type": "tweet",
-      "builder": "Andrej Karpathy",
-      "title": "本周早些时候，Tristan 公布了他最喜欢的 YouTube 频道：https://t.co/NZ3UCNo6…",
-      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Earlier this week Tristan published his top YouTube channels: https://t.co/NZ3UCNo6cT Which looked excellent so clear…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Earlier this week Tristan published his top YouTube channels: https://t.co/NZ3UCNo6…",
-      "originalBody": "Earlier this week Tristan published his top YouTube channels:\nhttps://t.co/NZ3UCNo6cT\nWhich looked excellent so clearly I had to turn it into TristanTube:\nhttps://t.co/l0KyW1WdNH\n47K super nerdy videos +TV mode for laid back watching. (One-shotted with Claude Code in 3 minutes) https://t.co/FZU0ltwVxL",
-      "translatedTitle": "本周早些时候，Tristan 公布了他最喜欢的 YouTube 频道：https://t.co/NZ3UCNo6…",
-      "translatedBody": "本周早些时候，Tristan 发布了他最喜欢的 YouTube 频道：\n\nhttps://t.co/NZ3UCNo6cT\n\n看起来很棒，所以我当然要把它变成 TristanTube：\n\nhttps://t.co/l0KyW1WdNH\n\n47K 个超级宅男视频 + 电视模式，方便轻松观看。（用 Claude Code 3 分钟一键搞定）https://t.co/FZU0ltwVxL",
+      "builder": "Guillermo Rauch",
+      "title": "在 @vercel，我们有机会在发布前测试这个模型。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：At @vercel we got to test this model before release. Best way to summarize it: astonishingly brilliant. One interesti…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "At @vercel we got to test this model before release.",
+      "originalBody": "At @vercel we got to test this model before release. Best way to summarize it: astonishingly brilliant.\n\nOne interesting takeaway: it's very clear that this new generation of models can take on unprecedented bodies of parallel work.\n\nTo actually seize this intelligence, you need cloud sandboxes. Full stop. The model can delegate and orchestrate far more than a single computer can handle. Likely far more than you can even imagine it can handle.\n\nYour bottleneck is now ① your ambition and ② your parallel computing power.\n\nBtw, I learned from @cramforce you don't need to overcomplicate it. Install Vercel CLI, setup the Plugin and tell the agent to use /𝚘𝚏𝚏𝚕𝚘𝚊𝚍-𝚝𝚘-𝚜𝚊𝚗𝚍𝚋𝚘𝚡 skill. It'll provision and de-allocate cloud sandboxes as needed. You don't need a \"multi-agent remote harness ralph orchestrator\" 😆",
+      "translatedTitle": "在 @vercel，我们有机会在发布前测试这个模型。",
+      "translatedBody": "在 @vercel，我们有机会在正式发布前测试了这个模型。简单来说：简直惊艳绝伦。\n\n一个重要的发现是：很明显，新一代模型能够处理前所未有的并行工作量。\n\n要真正发挥这种智能，你需要云沙箱。毋庸置疑。该模型可以委派和协调的任务远远超过单台计算机的处理能力。甚至可能远远超出你的想象。\n\n现在，你的瓶颈在于：①你的雄心壮志；②你的并行计算能力。\n\n顺便一提，我从 @cramforce 学到，你不需要把它搞得太复杂。安装 Vercel CLI，设置插件，然后告诉代理使用 /𝚘𝚏𝚏𝚕𝚘𝚊𝚍-𝚝𝚘-𝚜𝚊𝚗𝚍𝚋𝚘𝚡 技能即可。它会根据需要配置和释放云沙箱。你不需要“多代理远程 Ralph 编排器”😆",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/karpathy/status/2119114537442189652",
-      "publishedAt": "2026-11-07T17:07:31.000Z",
-      "score": 171.96,
+      "sourceUrl": "https://x.com/rauchg/status/2119878364794372162",
+      "publishedAt": "2026-11-09T19:42:42.000Z",
+      "score": 228.11,
       "engagement": {
-        "likes": 6445,
-        "retweets": 515,
-        "replies": 475
+        "likes": 1907,
+        "retweets": 58,
+        "replies": 114
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2119891138450755670",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "非常看好MCP。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：So bullish on MCP. Its utility exceeds the \"M\" part: even AI aside, it'll be a civilization-scale accomplishment to g…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "So bullish on MCP.",
+      "originalBody": "So bullish on MCP. Its utility exceeds the \"M\" part: even AI aside, it'll be a civilization-scale accomplishment to get all our systems communicating through one universal open protocol.\n\nA missing piece was how to get arbitrary callbacks across sessions. MCP could read and write, but it couldn't tell you later \"this event happened.\" MCP Events fixes this.\n\nWe're adding support in our own MCP. Say an agent makes a deployment, and wants to know when it's complete. Instead of polling, it can subscribe to 𝚍𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝.𝚜𝚞𝚌𝚌𝚎𝚎𝚍𝚎𝚍.\n\nPSA: With Vercel Queues and Workflows, writing the backend machinery for your own MCPs to do this is easy peasy.",
+      "translatedTitle": "非常看好MCP。",
+      "translatedBody": "我对 MCP 非常看好。它的实用性远超“M”字头：即使抛开人工智能不谈，让所有系统通过一个通用的开放协议进行通信也将是一项文明级别的成就。\n\n之前缺失的一环是如何跨会话获取任意回调。MCP 可以读写，但无法事后告知“此事件已发生”。MCP Events 解决了这个问题。\n\n我们正在自己的 MCP 中添加对 MCP Events 的支持。假设一个代理执行了一次部署，并想知道部署何时完成。它可以订阅 𝚍𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝.𝚜𝚞𝚌𝚌𝚎𝚎𝚍𝚎𝚍，而不是轮询。\n\n友情提示：借助 Vercel 队列和工作流，为自己的 MCP 编写后端机制来实现此功能轻而易举。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2119891138450755670",
+      "publishedAt": "2026-11-09T20:33:27.000Z",
+      "score": 199.2,
+      "engagement": {
+        "likes": 663,
+        "retweets": 33,
+        "replies": 101
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2119935240202539147",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "兄弟刚刚在 Fable 5.2 发布会上演示了费马大定理，而且很休闲……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：bro just proved fermat's last theorem AS A DEMO for the fable 5.2 launch and casually told me he's got something bigg…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "bro just proved fermat's last theorem AS A DEMO for the fable 5.2 launch and casual…",
+      "originalBody": "bro just proved fermat's last theorem AS A DEMO for the fable 5.2 launch\n\nand casually told me he's got something bigger planned  for his aie code talk\n\nlol anthropic u guys are wildin https://t.co/2Js2LkmTIM",
+      "translatedTitle": "兄弟刚刚在 Fable 5.2 发布会上演示了费马大定理，而且很休闲……",
+      "translatedBody": "兄弟刚刚在 Fable 5.2 发布会上演示了费马大定理\n\n还随口跟我说他还有更大的计划，准备在 AIE 代码演讲里展示\n\n哈哈，Athromatic 的各位真是太疯狂了！https://t.co/2Js2LkmTIM",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2119935240202539147",
+      "publishedAt": "2026-11-09T23:28:42.000Z",
+      "score": 173.22,
+      "engagement": {
+        "likes": 277,
+        "retweets": 10,
+        "replies": 79
+      },
+      "matchedFocusAreas": [
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2119878742063641056",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "顺便一提，完全是巧合，蚂蚁集团（$ANT）在华尔街的IPO路演今天开始了。",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：btw by complete coincidence the $ANT IPO roadshow across wall street started today. they had this in the chamber and…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "btw by complete coincidence the $ANT IPO roadshow across wall street started today.",
+      "originalBody": "btw by complete coincidence the $ANT IPO roadshow across wall street started today. they had this in the chamber and its also nice that it came after Astra, Argon and Carbon… https://t.co/3ctN4iMteB https://t.co/7DHAJZFNGn",
+      "translatedTitle": "顺便一提，完全是巧合，蚂蚁集团（$ANT）在华尔街的IPO路演今天开始了。",
+      "translatedBody": "顺便一提，蚂蚁集团（$ANT）的IPO路演今天在华尔街正式启动，这完全是巧合。他们早就预料到了，而且蚂蚁集团的IPO恰好在阿斯利康、Argon和Carbon之后，这也挺不错的…… https://t.co/3ctN4iMteB https://t.co/7DHAJZFNGn",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2119878742063641056",
+      "publishedAt": "2026-11-09T19:44:12.000Z",
+      "score": 163.6,
+      "engagement": {
+        "likes": 108,
+        "retweets": 1,
+        "replies": 16
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -50,205 +134,114 @@
       "sourceType": "x"
     },
     {
-      "id": "2119111328099168409",
+      "id": "2119899492778398163",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "这听起来很极端，一年前我根本不会相信，但我们是明星……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：This sounds extreme and I wouldn’t have believed it even a year ago, but we’re starting to see plenty of examples of…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "This sounds extreme and I wouldn’t have believed it even a year ago, but we’re star…",
-      "originalBody": "This sounds extreme and I wouldn’t have believed it even a year ago, but we’re starting to see plenty of examples of productivity gains that are an order of magnitude or two above output levels pre-AI. \n\nWith the right harness, a deep understanding of your domain of what you want to build, likely a relatively new codebase (with some exceptions), a fluency of how to work with multiple agents at once, and a setup that makes it so you can test and deploy with limited friction, outputs on this level feel realistic in coding.  \n\nWhat’s crazy is this gap doesn’t appear to be diminishing over time. You’d think that we’d see a convergence in the lines because of AI, but it turns out the more depth you had before -and willingness now to take a different approach- gives you crazy leverage. And that is only compounding as the models can take on larger work and harder problems.\n\nRight now this is most pronounced in software engineering for the obvious reasons. But there’s no reason we don’t start to see this in a number of other computer-use-sensitive domains like other scientific fields, AEC, finance, cyber, and more. Going to get quite wild.",
-      "translatedTitle": "这听起来很极端，一年前我根本不会相信，但我们是明星……",
-      "translatedBody": "这听起来有些极端，甚至一年前我都不会相信，但我们现在开始看到很多例子，生产力提升幅度比人工智能出现之前的水平高出一个甚至两个数量级。\n\n只要拥有合适的工具，对你想要构建的领域有深刻的理解，拥有相对较新的代码库（当然也有例外），熟练掌握如何同时与多个智能体协作，以及一个能够让你轻松测试和部署的设置，在编码领域实现这种水平的产出就变得切实可行。\n\n更令人惊讶的是，这种差距似乎并没有随着时间的推移而缩小。你可能会认为，人工智能的出现会促使两者趋于一致，但事实证明，你之前拥有的更深厚的知识储备——以及现在愿意采取不同方法的意愿——会为你带来巨大的优势。随着模型能够承担更大的工作量和更复杂的问题，这种优势只会不断增强。\n\n目前，由于显而易见的原因，这种情况在软件工程领域最为显著。但我们完全有理由相信，这种情况会在其他许多对计算机使用高度敏感的领域出现，例如其他科学领域、建筑、工程和施工（AEC）、金融、网络安全等等。未来将会变得非常复杂。",
+      "builder": "Claude",
+      "title": "Claude Fable 5.2 现已在所有付费套餐中推出。",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Claude Fable 5.2 is available today on all paid plans. Organizations pursuing beneficial applications in cybersecurit…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Claude Fable 5.2 is available today on all paid plans.",
+      "originalBody": "Claude Fable 5.2 is available today on all paid plans.\n\nOrganizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Claude Mythos 5.2.\n\nRead more: https://t.co/50jMVOmUG7",
+      "translatedTitle": "Claude Fable 5.2 现已在所有付费套餐中推出。",
+      "translatedBody": "Claude Fable 5.2 现已面向所有付费用户开放。\n\n致力于网络安全或生物医学研究领域公益应用的机构可申请使用 Claude Mythos 5.2。\n\n了解更多：https://t.co/50jMVOmUG7",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2119111328099168409",
-      "publishedAt": "2026-11-07T16:54:46.000Z",
-      "score": 110.05,
+      "sourceUrl": "https://x.com/claudeai/status/2119899492778398163",
+      "publishedAt": "2026-11-09T21:06:39.000Z",
+      "score": 148.19,
       "engagement": {
-        "likes": 582,
-        "retweets": 51,
-        "replies": 99
+        "likes": 546,
+        "retweets": 41,
+        "replies": 16
       },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
+      "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2118953909524050288",
+      "id": "2119899488995131439",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "人工智能代理的有趣之处在于，从理论上讲，它们的推理……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：The interesting thing about AI agents is that as a theoretical matter, their inference can kind of run anywhere. AI i…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "The interesting thing about AI agents is that as a theoretical matter, their infere…",
-      "originalBody": "The interesting thing about AI agents is that as a theoretical matter, their inference can kind of run anywhere. AI is one of the few areas of technology that isn’t *as* sensitive to latency back to the user. \n\nLong running agents are now going to be the norm, which means it’s ok to send off work to an AI factory somewhere and that work can essentially be largely done within that remote data center and a final result spit back to the user. The data can pass into these systems in an encrypted manner, be combed through by agents, and then disregarded right after. \n\nAnd because the economic value of the task is so high relative to the latency sensitivity (eg getting back $500 in value from an automated task, but it takes an extra second to return), you don’t have to have the inference to be particularly close to the user. \n\nAlso, because inference is a temporary process with no sensitive data needing to be stored long term where the inference is happening, you can effectively treat AI factories as ephemeral systems, changing some of the data residency dynamics slightly.\n\nCombined, this means you have more flexibility in where you can begin to deploy AI data centers. This is both a huge economic opportunity for the states or countries (or space) that want to take advantage of this fact. And it’s a loss to the states or countries that decide to forgo the opportunity.",
-      "translatedTitle": "人工智能代理的有趣之处在于，从理论上讲，它们的推理……",
-      "translatedBody": "人工智能代理的有趣之处在于，理论上，它们的推理过程几乎可以在任何地方运行。人工智能是少数几个对用户响应延迟不太敏感的技术领域之一。\n\n长时间运行的代理将成为常态，这意味着可以将任务发送到某个地方的人工智能工厂，这些任务基本上可以在远程数据中心内完成，最终结果再返回给用户。数据可以以加密方式传输到这些系统，由代理进行梳理，然后立即丢弃。\n\n而且，由于任务的经济价值相对于延迟敏感性而言非常高（例如，自动化任务可以带来 500 美元的价值，但需要额外一秒钟才能返回结果），因此推理过程无需特别靠近用户。\n\n此外，由于推理是一个临时过程，无需在推理发生地长期存储任何敏感数据，因此可以将人工智能工厂有效地视为临时系统，从而略微改变一些数据驻留动态。\n\n总而言之，这意味着您在部署人工智能数据中心方面拥有更大的灵活性。对于希望利用这一优势的州或国家（或地区）而言，这既是一个巨大的经济机遇，也是放弃这一机遇的州或国家的损失。",
+      "builder": "Claude",
+      "title": "在第二个物理问题中，Fable 5.2 找到了最简单版本的精确极限……",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：In the second physics problem, Fable 5.2 found the exact limit of the simplest version of a 15-year-old technique kno…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "In the second physics problem, Fable 5.2 found the exact limit of the simplest vers…",
+      "originalBody": "In the second physics problem, Fable 5.2 found the exact limit of the simplest version of a 15-year-old technique known as “modular bootstrapping.” The technique is used to rule out candidate theories of quantum gravity in theoretical universes. https://t.co/sYDD812X0w",
+      "translatedTitle": "在第二个物理问题中，Fable 5.2 找到了最简单版本的精确极限……",
+      "translatedBody": "在第二个物理问题中，Fable 5.2 找到了名为“模块化自举法”的15年前技术的最简版本的精确极限。该技术用于排除理论宇宙中量子引力的候选理论。https://t.co/sYDD812X0w",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2118953909524050288",
-      "publishedAt": "2026-11-07T06:29:14.000Z",
-      "score": 107.27,
+      "sourceUrl": "https://x.com/claudeai/status/2119899488995131439",
+      "publishedAt": "2026-11-09T21:06:38.000Z",
+      "score": 146.13,
       "engagement": {
-        "likes": 256,
-        "retweets": 37,
-        "replies": 105
+        "likes": 410,
+        "retweets": 12,
+        "replies": 3
       },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
+      "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2119162212044742938",
+      "id": "2119899491310432269",
       "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "好了，以下是我们让投资者对我们的A轮融资感到恐慌并拿到七份投资意向书的方法……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：ok here’s how we get investors to fomo our series A and get seven term sheets.. first, we have to vague post revenue.…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "ok here’s how we get investors to fomo our series A and get seven term sheets..",
-      "originalBody": "ok here’s how we get investors to fomo our series A and get seven term sheets..\n\nfirst, we have to vague post revenue. or customers. this is absolutely critical. no y axis, just keep showing numbers and to the right. graphs work and of course get your investors to quote tweet it and take credit. they love doing that anyway. make it vague like “slowly but surely” or “i see an exponential when I see one”\n\nok, once you do that, you know you can do another launch video for features or even better multiple for features so you get maximum airtime. after that case studies are critical - get a trendsetter company to talk about you or even better have the labs mention you in articles. this will guarantee cold emails to grab coffee from partners. \n\nalso you know you can buy “articles” in “premier” publications. you can even run ads against it targeted to just investors too. you’re joking? no dead serious bro. \n\nok now that you have interest and top of mindshare - the most important thing is to use the magic mantras of “large ambition” and combinations of “long horizon agent swarms abilterared world models physical ai”. \n\nand finally and most importantly you don’t have a deck because of course we’re not raising, we were thinking early next year. and of course we still got pre empted so we don’t have a data room even. you get on or not it’s your call. \n\nand then you use the magic words of optimizing for the best partner but let’s be honest we both know i just want the best valuation. \n\n(again the whole thing is satire, but individually each line is true)",
-      "translatedTitle": "好了，以下是我们让投资者对我们的A轮融资感到恐慌并拿到七份投资意向书的方法……",
-      "translatedBody": "好了，以下是如何让投资者对我们的A轮融资感到恐慌，并拿到七份投资意向书的方法……\n\n首先，我们必须含糊其辞地发布营收或客户数量。这一点至关重要。不要用纵轴，只需不断展示数字，并向右移动。图表有效，当然，还要让你的投资者转发并邀功。反正他们也喜欢这么做。措辞要含糊，比如“稳步增长”或“我看到指数增长的迹象时就会想到它”。\n\n好了，一旦你做到了这一点，你就可以制作另一个功能发布视频，或者更好的是，制作多个功能发布视频，以获得最大的曝光度。之后，案例研究至关重要——找一家引领潮流的公司来谈论你，或者更好的是，让实验室在文章中提及你。这将保证收到来自合作伙伴的邀请邮件，邀请他们喝咖啡。\n\n你也知道你可以在“顶级”出版物上购买“文章”。你甚至可以投放专门针对投资者的广告。你在开玩笑吗？不，我是认真的，兄弟。\n\n好了，既然你已经引起了我的兴趣，并且占据了我的大部分心智——最重要的是要运用“远大抱负”的魔咒，以及“长远规划、智能体集群、增强型世界模型、物理人工智能”的组合。\n\n最后，也是最重要的一点，你没有演示文稿，因为我们当然不会融资，我们计划明年年初再融资。而且我们还是被抢先一步了，所以我们连数据室都没有。你加入还是不加入，你自己决定。\n\n然后你又用了“寻找最佳合作伙伴”的魔咒，但说实话，我们都知道我只想获得最佳估值。\n\n（再次声明，以上内容纯属讽刺，但每句话单独来看都是真的。）",
+      "builder": "Claude",
+      "title": "这两项物理学研究成果都已发表在预印本中。",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Both physics results are written up in preprints. On the abrupt transition in very small universes: https://t.co/He3f…",
+      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Both physics results are written up in preprints.",
+      "originalBody": "Both physics results are written up in preprints.\n\nOn the abrupt transition in very small universes: https://t.co/He3fWJc3u9\n\nOn the exact limit of a technique used to rule out candidate theories of quantum gravity: https://t.co/TwAyTW9Jxw",
+      "translatedTitle": "这两项物理学研究成果都已发表在预印本中。",
+      "translatedBody": "这两项物理学成果均已发表在预印本中。\n\n关于极小宇宙中的突变：https://t.co/He3fWJc3u9\n\n关于用于排除量子引力候选理论的技术的精确极限：https://t.co/TwAyTW9Jxw",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2119162212044742938",
-      "publishedAt": "2026-11-07T20:16:58.000Z",
-      "score": 98.95,
+      "sourceUrl": "https://x.com/claudeai/status/2119899491310432269",
+      "publishedAt": "2026-11-09T21:06:39.000Z",
+      "score": 145.24,
       "engagement": {
-        "likes": 80,
-        "retweets": 3,
+        "likes": 328,
+        "retweets": 15,
         "replies": 8
       },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2119987129204047894",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "事实证明，我们在编程和计算机使用方面取得的进步，再加上……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：It turns out the advancements we’re getting in coding and computer use, combined with industry specific understand an…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "It turns out the advancements we’re getting in coding and computer use, combined wi…",
+      "originalBody": "It turns out the advancements we’re getting in coding and computer use, combined with industry specific understand and general reasoning, can bring automation to a large number of areas of knowledge work.\n\nWe’re entering the era of autonomous collaborators in a number of industries that haven’t yet had their claude code or codex moment yet. But now this is going to happen. \n\nWe’ll see it in animation, film production, gaming, manufacturing, architecture, product design, robotics, and more. All of these fields have the potential of driving far more output similar to what we’ve seen in software engineering. There’s no inherent finite demand for these categories of work.\n\n“Software is eating the world” is finally in a much bigger way happening because of AI.",
+      "translatedTitle": "事实证明，我们在编程和计算机使用方面取得的进步，再加上……",
+      "translatedBody": "事实证明，我们在编码和计算机应用方面取得的进步，结合行业特定的理解和通用推理能力，能够将自动化引入众多知识型工作领域。\n\n我们正在进入一个由自主协作者主导的时代，许多行业此前尚未经历类似“克劳德代码”或“法典时刻”的变革。但现在，这一切即将发生。\n\n我们将在动画、电影制作、游戏、制造业、建筑、产品设计、机器人等领域看到它的身影。所有这些领域都有潜力创造远超软件工程领域的产出。这些工作类别本身并不存在有限的需求。\n\n“软件正在吞噬世界”的论调，如今正因人工智能而以前所未有的规模成为现实。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2119987129204047894",
+      "publishedAt": "2026-11-10T02:54:53.000Z",
+      "score": 126,
+      "engagement": {
+        "likes": 227,
+        "retweets": 15,
+        "replies": 73
+      },
       "matchedFocusAreas": [
         "Coding Agents",
         "Foundation Models",
         "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2119264334627090514",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "朝日电视台的项目旨在打破封闭和限制，将其开放……",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The Asahi project was all about taking something closed and restricted and opening it up. Adding new restrictions tha…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The Asahi project was all about taking something closed and restricted and opening…",
-      "originalBody": "The Asahi project was all about taking something closed and restricted and opening it up.\n\nAdding new restrictions that make it harder for other projects to build on that is not the way. And that AI rejection is just silly. https://t.co/fT4O4wieQm",
-      "translatedTitle": "朝日电视台的项目旨在打破封闭和限制，将其开放……",
-      "translatedBody": "朝日项目的精髓在于打破封闭和限制，将其开放。\n\n增加新的限制，阻碍其他项目在此基础上进行开发，并非正确的方向。而人工智能的拒绝更是荒谬至极。https://t.co/fT4O4wieQm",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2119264334627090514",
-      "publishedAt": "2026-11-08T03:02:46.000Z",
-      "score": 62.24,
-      "engagement": {
-        "likes": 1053,
-        "retweets": 44,
-        "replies": 85
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2119146939514278238",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "我们本可以拥有富足的生活。这将是未来政治格局的关键议题……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We could have abundance This is going to be the defining political issue of the next decade: can we have human progre…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "We could have abundance This is going to be the defining political issue of the nex…",
-      "originalBody": "We could have abundance \n\nThis is going to be the defining political issue of the next decade: can we have human progress in science, medicine and engineering through superintelligence? \n\nOr will we choose the darkness? https://t.co/efmVMYZwsM",
-      "translatedTitle": "我们本可以拥有富足的生活。这将是未来政治格局的关键议题……",
-      "translatedBody": "我们本可以拥有富足\n\n这将是未来十年最重要的政治议题：我们能否通过超级智能推动人类在科学、医学和工程领域的进步？\n\n还是我们会选择黑暗？https://t.co/efmVMYZwsM",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2119146939514278238",
-      "publishedAt": "2026-11-07T19:16:16.000Z",
-      "score": 56.72,
-      "engagement": {
-        "likes": 314,
-        "retweets": 21,
-        "replies": 55
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2118968862557475298",
-      "type": "tweet",
-      "builder": "Zara Zhang",
-      "title": "很多人谈起创业，仿佛他们的命运早已注定：X 想法永远不会……",
-      "summary": "Zara Zhang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：So many people speak of startup as if their fates are predestined: X idea will never work out; the market for Y is to…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "So many people speak of startup as if their fates are predestined: X idea will neve…",
-      "originalBody": "So many people speak of startup as if their fates are predestined: X idea will never work out; the market for Y is too niche...\n\nBut startups' fates are MADE, not predetermined. Given one idea, there are 1000 ways to execute it, 100 people will have 100 different approaches. Brilliant people with brilliant execution often create something when there was nothing, or make the impossible seem obvious in hindsight.",
-      "translatedTitle": "很多人谈起创业，仿佛他们的命运早已注定：X 想法永远不会……",
-      "translatedBody": "很多人谈论创业，仿佛它们的命运早已注定：X 想法永远不会成功；Y 的市场太小众……\n\n但创业公司的命运是创造出来的，而非预先注定的。一个想法，可能有上千种实现方式，一百个人会有一百种不同的方法。才华横溢、执行力强的人往往能从无到有地创造出一些东西，或者事后看来，把不可能的事情变得显而易见。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/zarazhangrui/status/2118968862557475298",
-      "publishedAt": "2026-11-07T07:28:40.000Z",
-      "score": 52.63,
-      "engagement": {
-        "likes": 146,
-        "retweets": 5,
-        "replies": 29
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2119157297167372646",
-      "type": "tweet",
-      "builder": "Aditya Agarwal",
-      "title": "如果建设数据中心变得越来越难，显然你应该做好超长的准备……",
-      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：If building datacenters becomes harder, it is obvious that you should be super long anyone who has existing capacity…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "If building datacenters becomes harder, it is obvious that you should be super long…",
-      "originalBody": "If building datacenters becomes harder, it is obvious that you should be super long anyone who has existing capacity (aka hyperscalers).\n\nIt's not like the demand for the spice is going way -- it is only continuing to go up.\n\nThus the spice holders will win big.\n\nWhat will suffer is the rate of new model training. \n\nI guess we will pace the frontier after all. The body politic speaketh.",
-      "translatedTitle": "如果建设数据中心变得越来越难，显然你应该做好超长的准备……",
-      "translatedBody": "如果建设数据中心变得越来越难，那么显然你应该密切关注那些已经拥有现有容量的公司（也就是超大规模数据中心运营商）。\n\n对资源的需求并没有减少，反而还在持续增长。\n\n因此，资源持有者将会大获全胜。\n\n真正受到影响的是新模型的训练速度。\n\n看来我们最终还是会走在时代前沿。政治形势已经表明了这一点。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/adityaag/status/2119157297167372646",
-      "publishedAt": "2026-11-07T19:57:26.000Z",
-      "score": 45.93,
-      "engagement": {
-        "likes": 41,
-        "retweets": 3,
-        "replies": 5
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-11-08T06:25:57.526Z",
-    "totalCandidates": 19,
-    "textQualifiedCandidates": 10,
+    "upstreamGeneratedAt": "2026-11-10T06:27:38.415Z",
+    "totalCandidates": 29,
+    "textQualifiedCandidates": 18,
     "selectedTweets": 8
   }
 }
