@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T06:41:54.908Z",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T05:28:15.264Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-11-10",
+  "title": "AI Builders Daily | 2026-11-11",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
   "intro": "已从 29 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
@@ -38,7 +38,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/rauchg/status/2119878364794372162",
       "publishedAt": "2026-11-09T19:42:42.000Z",
-      "score": 228.11,
+      "score": 215.1,
       "engagement": {
         "likes": 1907,
         "retweets": 58,
@@ -67,7 +67,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/rauchg/status/2119891138450755670",
       "publishedAt": "2026-11-09T20:33:27.000Z",
-      "score": 199.2,
+      "score": 185.34,
       "engagement": {
         "likes": 663,
         "retweets": 33,
@@ -95,7 +95,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/swyx/status/2119935240202539147",
       "publishedAt": "2026-11-09T23:28:42.000Z",
-      "score": 173.22,
+      "score": 156.44,
       "engagement": {
         "likes": 277,
         "retweets": 10,
@@ -122,7 +122,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/swyx/status/2119878742063641056",
       "publishedAt": "2026-11-09T19:44:12.000Z",
-      "score": 163.6,
+      "score": 150.56,
       "engagement": {
         "likes": 108,
         "retweets": 1,
@@ -149,7 +149,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/claudeai/status/2119899492778398163",
       "publishedAt": "2026-11-09T21:06:39.000Z",
-      "score": 148.19,
+      "score": 133.78,
       "engagement": {
         "likes": 546,
         "retweets": 41,
@@ -174,7 +174,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/claudeai/status/2119899488995131439",
       "publishedAt": "2026-11-09T21:06:38.000Z",
-      "score": 146.13,
+      "score": 131.72,
       "engagement": {
         "likes": 410,
         "retweets": 12,
@@ -199,7 +199,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/claudeai/status/2119899491310432269",
       "publishedAt": "2026-11-09T21:06:39.000Z",
-      "score": 145.24,
+      "score": 130.83,
       "engagement": {
         "likes": 328,
         "retweets": 15,
@@ -209,26 +209,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2119987129204047894",
+      "id": "2119869228207546638",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "事实证明，我们在编程和计算机使用方面取得的进步，再加上……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：It turns out the advancements we’re getting in coding and computer use, combined with industry specific understand an…",
+      "builder": "Dan Shipper",
+      "title": "突发新闻：@AnthropicAI 刚刚发布了 Claude Fable 5.2。",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：BREAKING: @AnthropicAI just dropped Claude Fable 5.2. It’s a paradigm-shifting model if you have a project ambitious…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "It turns out the advancements we’re getting in coding and computer use, combined wi…",
-      "originalBody": "It turns out the advancements we’re getting in coding and computer use, combined with industry specific understand and general reasoning, can bring automation to a large number of areas of knowledge work.\n\nWe’re entering the era of autonomous collaborators in a number of industries that haven’t yet had their claude code or codex moment yet. But now this is going to happen. \n\nWe’ll see it in animation, film production, gaming, manufacturing, architecture, product design, robotics, and more. All of these fields have the potential of driving far more output similar to what we’ve seen in software engineering. There’s no inherent finite demand for these categories of work.\n\n“Software is eating the world” is finally in a much bigger way happening because of AI.",
-      "translatedTitle": "事实证明，我们在编程和计算机使用方面取得的进步，再加上……",
-      "translatedBody": "事实证明，我们在编码和计算机应用方面取得的进步，结合行业特定的理解和通用推理能力，能够将自动化引入众多知识型工作领域。\n\n我们正在进入一个由自主协作者主导的时代，许多行业此前尚未经历类似“克劳德代码”或“法典时刻”的变革。但现在，这一切即将发生。\n\n我们将在动画、电影制作、游戏、制造业、建筑、产品设计、机器人等领域看到它的身影。所有这些领域都有潜力创造远超软件工程领域的产出。这些工作类别本身并不存在有限的需求。\n\n“软件正在吞噬世界”的论调，如今正因人工智能而以前所未有的规模成为现实。",
+      "originalTitle": "BREAKING: @AnthropicAI just dropped Claude Fable 5.2.",
+      "originalBody": "BREAKING:\n\n@AnthropicAI just dropped Claude Fable 5.2. It’s a paradigm-shifting model if you have a project ambitious enough to give it.\n\nWe’ve been testing it at @every, and I’ve seen this crazy explosion of creativity on the team. People are making their own creative software, games for their kids, and documentaries instead of slide decks.\n\nHere’s your day zero vibe check:\n\n• Coding: @kieranklaassen built Everycut, a video editor with the features we use from Premiere, Descript, and other tools—all in one app, with an agent built in. The first version was live in 3 days, and we immediately used it for our internal show-and-tell. This feels like a new era of professionals building their own professional tools, tailored to exactly how they work.\n\n• Games and design: @jackcheng gave it a photo of his toddler’s messy playroom. It turned the actual toys into a playable racing game, with fun details like a stray shoe as an obstacle and a sippy cup as a power-up.\n\n• Knowledge work: @hammer_mt turned his research into a documentary. The model came up with interview questions, he answered them on camera, and it cut the footage together. He called this the most productive 3 weeks of his career.\n\n• A different way of working: Give it a big job and leave it running overnight or over a weekend. But tell it what “done” means: Mike found it could finish the build, then spend another day or two testing. Set the goal, the budget, and how much checking you need before walking away.\n\n• The catch: It’s slow and burns through tokens. Our early-access usage was free, and these projects would have been expensive at API rates. It’s 20% cheaper than Fable 5.1, but for everyday writing, emails, or quick back-and-forth coding, I’d usually reach for something else.\n\nThe clearest signal: When our early access ended, @TylerNishida stopped working on some projects until he could get this model back. He didn’t want to build them with anything else.\n\nThe best measure of a new model is whether it makes you try things you wouldn’t have tried before.\n\nFable 5.2 absolutely does that.\n\nHere’s our full day-zero Vibe Check:",
+      "translatedTitle": "突发新闻：@AnthropicAI 刚刚发布了 Claude Fable 5.2。",
+      "translatedBody": "突发新闻：\n\n@AnthropicAI 刚刚发布了 Claude Fable 5.2。如果你有一个足够雄心勃勃的项目，它绝对会颠覆你的思维模式。\n\n我们一直在 @every 进行测试，我亲眼见证了团队创造力的爆发式增长。大家不再只是制作幻灯片，而是开始开发自己的创意软件、为孩子制作游戏、制作纪录片。\n\n以下是第一天的成果：\n\n• 编码：@kieranklaassen 开发了 Everycut，这是一款视频编辑器，它集成了 Premiere、Descript 和其他工具的功能——所有功能都集成在一个应用程序中，并内置了智能助手。第一个版本仅用了三天就上线了，我们立即将其用于内部演示。这感觉就像是专业人士构建专属专业工具的新时代，这些工具完全符合他们的工作方式。\n\n• 游戏和设计：@jackcheng 上传了一张他家孩子凌乱的游戏室照片。它将玩具变成了一款可玩的赛车游戏，还加入了一些有趣的细节，比如把一只散落的鞋子当作障碍物，把一个吸管杯当作道具。\n\n• 知识工作：@hammer_mt 将他的研究成果制作成了一部纪录片。模型生成了采访问题，他负责对着镜头回答，然后模型自动剪辑素材。他称这是他职业生涯中最有成效的三周。\n\n• 另一种工作方式：给它布置一个大任务，让它通宵或周末运行。但要告诉它“完成”的定义：Mike 发现它可以完成构建，然后再花一两天时间进行测试。设定目标、预算以及在离开前需要检查多少次。\n\n• 缺点：速度慢，而且会消耗大量代币。我们的早期使用是免费的，但如果按 API 收费，这些项目会很贵。它比 Fable 5.1 便宜 20%，但对于日常写作、电子邮件或快速的来回编码，我通常会选择其他工具。\n\n最明显的信号是：抢先体验结束后，@TylerNishida 暂停了一些项目，直到他能重新使用这个模型为止。他不想用其他任何模型来构建这些项目。\n\n衡量一个新模型的最佳标准是它是否能让你尝试以前从未尝试过的事情。\n\nFable 5.2 绝对做到了这一点。\n\n以下是我们完整的首日体验报告：",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2119987129204047894",
-      "publishedAt": "2026-11-10T02:54:53.000Z",
-      "score": 126,
+      "sourceUrl": "https://x.com/danshipper/status/2119869228207546638",
+      "publishedAt": "2026-11-09T19:06:23.000Z",
+      "score": 110.86,
       "engagement": {
-        "likes": 227,
-        "retweets": 15,
-        "replies": 73
+        "likes": 776,
+        "retweets": 53,
+        "replies": 60
       },
       "matchedFocusAreas": [
         "Coding Agents",
