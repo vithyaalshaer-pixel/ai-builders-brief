@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T05:28:15.264Z",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T06:33:10.545Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-11-11",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 29 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-11-12",
+  "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 31 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,110 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2119878364794372162",
+      "id": "2120669165316915259",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "在 @vercel，我们有机会在发布前测试这个模型。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：At @vercel we got to test this model before release. Best way to summarize it: astonishingly brilliant. One interesti…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "At @vercel we got to test this model before release.",
-      "originalBody": "At @vercel we got to test this model before release. Best way to summarize it: astonishingly brilliant.\n\nOne interesting takeaway: it's very clear that this new generation of models can take on unprecedented bodies of parallel work.\n\nTo actually seize this intelligence, you need cloud sandboxes. Full stop. The model can delegate and orchestrate far more than a single computer can handle. Likely far more than you can even imagine it can handle.\n\nYour bottleneck is now ① your ambition and ② your parallel computing power.\n\nBtw, I learned from @cramforce you don't need to overcomplicate it. Install Vercel CLI, setup the Plugin and tell the agent to use /𝚘𝚏𝚏𝚕𝚘𝚊𝚍-𝚝𝚘-𝚜𝚊𝚗𝚍𝚋𝚘𝚡 skill. It'll provision and de-allocate cloud sandboxes as needed. You don't need a \"multi-agent remote harness ralph orchestrator\" 😆",
-      "translatedTitle": "在 @vercel，我们有机会在发布前测试这个模型。",
-      "translatedBody": "在 @vercel，我们有机会在正式发布前测试了这个模型。简单来说：简直惊艳绝伦。\n\n一个重要的发现是：很明显，新一代模型能够处理前所未有的并行工作量。\n\n要真正发挥这种智能，你需要云沙箱。毋庸置疑。该模型可以委派和协调的任务远远超过单台计算机的处理能力。甚至可能远远超出你的想象。\n\n现在，你的瓶颈在于：①你的雄心壮志；②你的并行计算能力。\n\n顺便一提，我从 @cramforce 学到，你不需要把它搞得太复杂。安装 Vercel CLI，设置插件，然后告诉代理使用 /𝚘𝚏𝚏𝚕𝚘𝚊𝚍-𝚝𝚘-𝚜𝚊𝚗𝚍𝚋𝚘𝚡 技能即可。它会根据需要配置和释放云沙箱。你不需要“多代理远程 Ralph 编排器”😆",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2119878364794372162",
-      "publishedAt": "2026-11-09T19:42:42.000Z",
-      "score": 215.1,
-      "engagement": {
-        "likes": 1907,
-        "retweets": 58,
-        "replies": 114
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2119891138450755670",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "非常看好MCP。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：So bullish on MCP. Its utility exceeds the \"M\" part: even AI aside, it'll be a civilization-scale accomplishment to g…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "So bullish on MCP.",
-      "originalBody": "So bullish on MCP. Its utility exceeds the \"M\" part: even AI aside, it'll be a civilization-scale accomplishment to get all our systems communicating through one universal open protocol.\n\nA missing piece was how to get arbitrary callbacks across sessions. MCP could read and write, but it couldn't tell you later \"this event happened.\" MCP Events fixes this.\n\nWe're adding support in our own MCP. Say an agent makes a deployment, and wants to know when it's complete. Instead of polling, it can subscribe to 𝚍𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝.𝚜𝚞𝚌𝚌𝚎𝚎𝚍𝚎𝚍.\n\nPSA: With Vercel Queues and Workflows, writing the backend machinery for your own MCPs to do this is easy peasy.",
-      "translatedTitle": "非常看好MCP。",
-      "translatedBody": "我对 MCP 非常看好。它的实用性远超“M”字头：即使抛开人工智能不谈，让所有系统通过一个通用的开放协议进行通信也将是一项文明级别的成就。\n\n之前缺失的一环是如何跨会话获取任意回调。MCP 可以读写，但无法事后告知“此事件已发生”。MCP Events 解决了这个问题。\n\n我们正在自己的 MCP 中添加对 MCP Events 的支持。假设一个代理执行了一次部署，并想知道部署何时完成。它可以订阅 𝚍𝚎𝚙𝚕𝚘𝚢𝚖𝚎𝚗𝚝.𝚜𝚞𝚌𝚌𝚎𝚎𝚍𝚎𝚍，而不是轮询。\n\n友情提示：借助 Vercel 队列和工作流，为自己的 MCP 编写后端机制来实现此功能轻而易举。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2119891138450755670",
-      "publishedAt": "2026-11-09T20:33:27.000Z",
-      "score": 185.34,
-      "engagement": {
-        "likes": 663,
-        "retweets": 33,
-        "replies": 101
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2119935240202539147",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "兄弟刚刚在 Fable 5.2 发布会上演示了费马大定理，而且很休闲……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：bro just proved fermat's last theorem AS A DEMO for the fable 5.2 launch and casually told me he's got something bigg…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
-      "originalTitle": "bro just proved fermat's last theorem AS A DEMO for the fable 5.2 launch and casual…",
-      "originalBody": "bro just proved fermat's last theorem AS A DEMO for the fable 5.2 launch\n\nand casually told me he's got something bigger planned  for his aie code talk\n\nlol anthropic u guys are wildin https://t.co/2Js2LkmTIM",
-      "translatedTitle": "兄弟刚刚在 Fable 5.2 发布会上演示了费马大定理，而且很休闲……",
-      "translatedBody": "兄弟刚刚在 Fable 5.2 发布会上演示了费马大定理\n\n还随口跟我说他还有更大的计划，准备在 AIE 代码演讲里展示\n\n哈哈，Athromatic 的各位真是太疯狂了！https://t.co/2Js2LkmTIM",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2119935240202539147",
-      "publishedAt": "2026-11-09T23:28:42.000Z",
-      "score": 156.44,
-      "engagement": {
-        "likes": 277,
-        "retweets": 10,
-        "replies": 79
-      },
-      "matchedFocusAreas": [
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2119878742063641056",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "顺便一提，完全是巧合，蚂蚁集团（$ANT）在华尔街的IPO路演今天开始了。",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：btw by complete coincidence the $ANT IPO roadshow across wall street started today. they had this in the chamber and…",
+      "builder": "Claude",
+      "title": "三十年来，森真理子一直在拓展艺术的边界。",
+      "summary": "Claude 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Mariko Mori has pushed the boundaries of art for three decades. For her retrospective \"All That Shines,\" she used Cla…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "btw by complete coincidence the $ANT IPO roadshow across wall street started today.",
-      "originalBody": "btw by complete coincidence the $ANT IPO roadshow across wall street started today. they had this in the chamber and its also nice that it came after Astra, Argon and Carbon… https://t.co/3ctN4iMteB https://t.co/7DHAJZFNGn",
-      "translatedTitle": "顺便一提，完全是巧合，蚂蚁集团（$ANT）在华尔街的IPO路演今天开始了。",
-      "translatedBody": "顺便一提，蚂蚁集团（$ANT）的IPO路演今天在华尔街正式启动，这完全是巧合。他们早就预料到了，而且蚂蚁集团的IPO恰好在阿斯利康、Argon和Carbon之后，这也挺不错的…… https://t.co/3ctN4iMteB https://t.co/7DHAJZFNGn",
+      "originalTitle": "Mariko Mori has pushed the boundaries of art for three decades.",
+      "originalBody": "Mariko Mori has pushed the boundaries of art for three decades. For her retrospective \"All That Shines,\" she used Claude to write code for a computer-generated animation, presented as a new video installation. https://t.co/MtJ1rlClxt",
+      "translatedTitle": "三十年来，森真理子一直在拓展艺术的边界。",
+      "translatedBody": "三十年来，森真理子一直在不断拓展艺术的边界。在她名为“闪耀的一切”的回顾展中，她利用Claude软件编写代码，制作了一部电脑动画，并以全新的影像装置形式呈现。https://t.co/MtJ1rlClxt",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2119878742063641056",
-      "publishedAt": "2026-11-09T19:44:12.000Z",
-      "score": 150.56,
+      "sourceUrl": "https://x.com/claudeai/status/2120669165316915259",
+      "publishedAt": "2026-11-12T00:05:03.000Z",
+      "score": 185.88,
       "engagement": {
-        "likes": 108,
-        "retweets": 1,
-        "replies": 16
+        "likes": 3408,
+        "retweets": 206,
+        "replies": 183
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -134,101 +50,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2119899492778398163",
+      "id": "2120669243918418237",
       "type": "tweet",
-      "builder": "Claude",
-      "title": "Claude Fable 5.2 现已在所有付费套餐中推出。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Claude Fable 5.2 is available today on all paid plans. Organizations pursuing beneficial applications in cybersecurit…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Claude Fable 5.2 is available today on all paid plans.",
-      "originalBody": "Claude Fable 5.2 is available today on all paid plans.\n\nOrganizations pursuing beneficial applications in cybersecurity or biomedical research can apply for access to Claude Mythos 5.2.\n\nRead more: https://t.co/50jMVOmUG7",
-      "translatedTitle": "Claude Fable 5.2 现已在所有付费套餐中推出。",
-      "translatedBody": "Claude Fable 5.2 现已面向所有付费用户开放。\n\n致力于网络安全或生物医学研究领域公益应用的机构可申请使用 Claude Mythos 5.2。\n\n了解更多：https://t.co/50jMVOmUG7",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2119899492778398163",
-      "publishedAt": "2026-11-09T21:06:39.000Z",
-      "score": 133.78,
-      "engagement": {
-        "likes": 546,
-        "retweets": 41,
-        "replies": 16
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2119899488995131439",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "在第二个物理问题中，Fable 5.2 找到了最简单版本的精确极限……",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：In the second physics problem, Fable 5.2 found the exact limit of the simplest version of a 15-year-old technique kno…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "In the second physics problem, Fable 5.2 found the exact limit of the simplest vers…",
-      "originalBody": "In the second physics problem, Fable 5.2 found the exact limit of the simplest version of a 15-year-old technique known as “modular bootstrapping.” The technique is used to rule out candidate theories of quantum gravity in theoretical universes. https://t.co/sYDD812X0w",
-      "translatedTitle": "在第二个物理问题中，Fable 5.2 找到了最简单版本的精确极限……",
-      "translatedBody": "在第二个物理问题中，Fable 5.2 找到了名为“模块化自举法”的15年前技术的最简版本的精确极限。该技术用于排除理论宇宙中量子引力的候选理论。https://t.co/sYDD812X0w",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2119899488995131439",
-      "publishedAt": "2026-11-09T21:06:38.000Z",
-      "score": 131.72,
-      "engagement": {
-        "likes": 410,
-        "retweets": 12,
-        "replies": 3
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2119899491310432269",
-      "type": "tweet",
-      "builder": "Claude",
-      "title": "这两项物理学研究成果都已发表在预印本中。",
-      "summary": "Claude 的最新观点聚焦在可执行的一线经验：Both physics results are written up in preprints. On the abrupt transition in very small universes: https://t.co/He3f…",
-      "whyItMatters": "Claude 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Both physics results are written up in preprints.",
-      "originalBody": "Both physics results are written up in preprints.\n\nOn the abrupt transition in very small universes: https://t.co/He3fWJc3u9\n\nOn the exact limit of a technique used to rule out candidate theories of quantum gravity: https://t.co/TwAyTW9Jxw",
-      "translatedTitle": "这两项物理学研究成果都已发表在预印本中。",
-      "translatedBody": "这两项物理学成果均已发表在预印本中。\n\n关于极小宇宙中的突变：https://t.co/He3fWJc3u9\n\n关于用于排除量子引力候选理论的技术的精确极限：https://t.co/TwAyTW9Jxw",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/claudeai/status/2119899491310432269",
-      "publishedAt": "2026-11-09T21:06:39.000Z",
-      "score": 130.83,
-      "engagement": {
-        "likes": 328,
-        "retweets": 15,
-        "replies": 8
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2119869228207546638",
-      "type": "tweet",
-      "builder": "Dan Shipper",
-      "title": "突发新闻：@AnthropicAI 刚刚发布了 Claude Fable 5.2。",
-      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：BREAKING: @AnthropicAI just dropped Claude Fable 5.2. It’s a paradigm-shifting model if you have a project ambitious…",
+      "builder": "Nikunj Kothari",
+      "title": "我抓取了 803 家公司的子处理器数据，以调查哪些是人工智能原生公司……",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：I scraped 803 companies sub-processors to investigate what AI native companies are using for their infrastructure.. S…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "BREAKING: @AnthropicAI just dropped Claude Fable 5.2.",
-      "originalBody": "BREAKING:\n\n@AnthropicAI just dropped Claude Fable 5.2. It’s a paradigm-shifting model if you have a project ambitious enough to give it.\n\nWe’ve been testing it at @every, and I’ve seen this crazy explosion of creativity on the team. People are making their own creative software, games for their kids, and documentaries instead of slide decks.\n\nHere’s your day zero vibe check:\n\n• Coding: @kieranklaassen built Everycut, a video editor with the features we use from Premiere, Descript, and other tools—all in one app, with an agent built in. The first version was live in 3 days, and we immediately used it for our internal show-and-tell. This feels like a new era of professionals building their own professional tools, tailored to exactly how they work.\n\n• Games and design: @jackcheng gave it a photo of his toddler’s messy playroom. It turned the actual toys into a playable racing game, with fun details like a stray shoe as an obstacle and a sippy cup as a power-up.\n\n• Knowledge work: @hammer_mt turned his research into a documentary. The model came up with interview questions, he answered them on camera, and it cut the footage together. He called this the most productive 3 weeks of his career.\n\n• A different way of working: Give it a big job and leave it running overnight or over a weekend. But tell it what “done” means: Mike found it could finish the build, then spend another day or two testing. Set the goal, the budget, and how much checking you need before walking away.\n\n• The catch: It’s slow and burns through tokens. Our early-access usage was free, and these projects would have been expensive at API rates. It’s 20% cheaper than Fable 5.1, but for everyday writing, emails, or quick back-and-forth coding, I’d usually reach for something else.\n\nThe clearest signal: When our early access ended, @TylerNishida stopped working on some projects until he could get this model back. He didn’t want to build them with anything else.\n\nThe best measure of a new model is whether it makes you try things you wouldn’t have tried before.\n\nFable 5.2 absolutely does that.\n\nHere’s our full day-zero Vibe Check:",
-      "translatedTitle": "突发新闻：@AnthropicAI 刚刚发布了 Claude Fable 5.2。",
-      "translatedBody": "突发新闻：\n\n@AnthropicAI 刚刚发布了 Claude Fable 5.2。如果你有一个足够雄心勃勃的项目，它绝对会颠覆你的思维模式。\n\n我们一直在 @every 进行测试，我亲眼见证了团队创造力的爆发式增长。大家不再只是制作幻灯片，而是开始开发自己的创意软件、为孩子制作游戏、制作纪录片。\n\n以下是第一天的成果：\n\n• 编码：@kieranklaassen 开发了 Everycut，这是一款视频编辑器，它集成了 Premiere、Descript 和其他工具的功能——所有功能都集成在一个应用程序中，并内置了智能助手。第一个版本仅用了三天就上线了，我们立即将其用于内部演示。这感觉就像是专业人士构建专属专业工具的新时代，这些工具完全符合他们的工作方式。\n\n• 游戏和设计：@jackcheng 上传了一张他家孩子凌乱的游戏室照片。它将玩具变成了一款可玩的赛车游戏，还加入了一些有趣的细节，比如把一只散落的鞋子当作障碍物，把一个吸管杯当作道具。\n\n• 知识工作：@hammer_mt 将他的研究成果制作成了一部纪录片。模型生成了采访问题，他负责对着镜头回答，然后模型自动剪辑素材。他称这是他职业生涯中最有成效的三周。\n\n• 另一种工作方式：给它布置一个大任务，让它通宵或周末运行。但要告诉它“完成”的定义：Mike 发现它可以完成构建，然后再花一两天时间进行测试。设定目标、预算以及在离开前需要检查多少次。\n\n• 缺点：速度慢，而且会消耗大量代币。我们的早期使用是免费的，但如果按 API 收费，这些项目会很贵。它比 Fable 5.1 便宜 20%，但对于日常写作、电子邮件或快速的来回编码，我通常会选择其他工具。\n\n最明显的信号是：抢先体验结束后，@TylerNishida 暂停了一些项目，直到他能重新使用这个模型为止。他不想用其他任何模型来构建这些项目。\n\n衡量一个新模型的最佳标准是它是否能让你尝试以前从未尝试过的事情。\n\nFable 5.2 绝对做到了这一点。\n\n以下是我们完整的首日体验报告：",
+      "originalTitle": "I scraped 803 companies sub-processors to investigate what AI native companies are…",
+      "originalBody": "I scraped 803 companies sub-processors to investigate what AI native companies are using for their infrastructure.. \n\nSome interesting findings from the last time I did this in March:\n\n> 44% of companies list two+ model providers (up from 33%). Small n, but Anthropic grew twice as fast as OpenAI. \n\n> 86 pairs where each company names the other as a subprocessor (@AnthropicAI + @Cloudflare, @vercel + @spacexai)\n\n> 33% of companies list an inference provider (up from 22%). @modal continues to crush. \n\n> Chinese models are primarily coming through video (think Bytedance) rather than text (at least on the subprocessor lists)\n\n> @typesafeai is the breakout hit, going from 0 to many companies in a short period. \n\nCaveat: subprocessor lists tend to be a lagging indicator, but a sure shot way of knowing if the company is using something. \n\nYou can find all the updated data, design and insights at deploygraph dot com. Feedback welcome!",
+      "translatedTitle": "我抓取了 803 家公司的子处理器数据，以调查哪些是人工智能原生公司……",
+      "translatedBody": "我抓取了 803 家公司的子处理器信息，以调查 AI 原生公司在其基础设施中使用的模型提供商。\n\n以下是我上次在三月份进行类似调查的一些有趣发现：\n\n> 44% 的公司列出了两个或两个以上的模型提供商（高于之前的 33%）。样本量较小，但 Anthropic 的增长速度是 OpenAI 的两倍。\n\n> 86 对公司互相提及对方作为子处理器（例如 @AnthropicAI + @Cloudflare，@vercel + @spacexai）。\n\n> 33% 的公司列出了推理提供商（高于之前的 22%）。@modal 继续保持强劲势头。\n\n> 中国模型主要来自视频（例如字节跳动），而不是文本（至少在子处理器列表中是这样）。\n\n> @typesafeai 表现突出，在短时间内从零家公司发展到多家公司使用。\n\n注意：子处理器列表往往是一个滞后指标，但它是了解公司是否正在使用某种模型的可靠方法。\n\n您可以在 deploygraph.com 网站上找到所有更新的数据、设计和见解。欢迎提出反馈意见！",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/danshipper/status/2119869228207546638",
-      "publishedAt": "2026-11-09T19:06:23.000Z",
-      "score": 110.86,
+      "sourceUrl": "https://x.com/nikunj/status/2120669243918418237",
+      "publishedAt": "2026-11-12T00:05:22.000Z",
+      "score": 113.37,
       "engagement": {
-        "likes": 776,
-        "retweets": 53,
-        "replies": 60
+        "likes": 32,
+        "retweets": 1,
+        "replies": 13
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -236,12 +77,176 @@
         "Product Ships"
       ],
       "sourceType": "x"
+    },
+    {
+      "id": "2120578134177464356",
+      "type": "tweet",
+      "builder": "Aditya Agarwal",
+      "title": "现在基本上可以创建两种类型的公司。",
+      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：There are basically two kinds of companies to build right now. 1. Diffusion of AI This is the \"vertical SaaS\" of toda…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "There are basically two kinds of companies to build right now.",
+      "originalBody": "There are basically two kinds of companies to build right now.\n\n1. Diffusion of AI\nThis is the \"vertical SaaS\" of today. There are a bunch of different models for it (FDE company, rollup, horizontal product) but ultimately it all boils down to the same thing: get AI diffused very close to where the work is being done.\n\nProfound, Cognition, Harvey etc. A lot of great companies will get built here.\n\n2. Frontier of AI\nThis is where the really interesting action is. Use AI to accelerate scientific progress, then build products from that progress.\n\nIt is a harder category to see. But we are seeing a lot more of it at @spc:\n\n- Externa is adding hundreds of new chemical building blocks to proteins, so you can engineer a drug to match the disease instead of settling for what nature gave you.\n\n- Epana Bio is using genomics and AI to design autoimmune therapies that go after the cellular origin of the disease.\n\n- VenomicsAI is doing AI-accelerated drug discovery from venoms.\n\n- Equivariant is doing multi-physics modeling for the semiconductor industry.\n\n(There are always picks-and-shovels for AI as well. Lots of amazing companies in that category.)\n\nCategory 2 is not well understood or much talked about externally. It should be because I think that is where the vast majority of model driven returns will come from.",
+      "translatedTitle": "现在基本上可以创建两种类型的公司。",
+      "translatedBody": "现在基本上可以创建两种类型的公司。\n\n1. 人工智能普及型公司\n\n这相当于当今的“垂直领域SaaS”。它有很多不同的模式（FDE公司、整合型公司、横向产品），但最终都归结为同一件事：让人工智能在实际工作中得到充分普及。\n\n例如，Profound、Cognition、Harvey等等。许多优秀的公司都将诞生于此。\n\n2. 人工智能前沿型公司\n\n这才是真正有趣的地方。利用人工智能加速科学进步，然后基于这些进步开发产品。\n\n这一类别更难被看清。但我们在@spc看到了更多这样的公司：\n\n- Externa正在为蛋白质添加数百种新的化学构件，这样就可以设计出与疾病相匹配的药物，而不是仅仅依赖于自然赋予的药物。\n\n- Epana Bio正在利用基因组学和人工智能设计针对疾病细胞起源的自身免疫疗法。\n\nVenomicsAI 正在利用人工智能加速从毒液中发现药物。\n\nEquivariant 正在为半导体行业进行多物理场建模。\n\n（人工智能领域也总会有一些“镐和铲子”之类的工具。这个领域有很多优秀的公司。）\n\n第二类技术目前鲜为人知，外界也很少讨论。但它应该得到更多关注，因为我认为绝大多数模型驱动的收益都将来自这一领域。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/adityaag/status/2120578134177464356",
+      "publishedAt": "2026-11-11T18:03:20.000Z",
+      "score": 91.6,
+      "engagement": {
+        "likes": 240,
+        "retweets": 25,
+        "replies": 21
+      },
+      "matchedFocusAreas": [
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2120539547620790424",
+      "type": "tweet",
+      "builder": "Dan Shipper",
+      "title": "我看着自己每周零碎时间玩《神鬼寓言5.2》的情景，心想：这本来可以……",
+      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I look at what I do with Fable 5.2 in the cracks of my week and think: this would've taken five people and $200,000.…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "I look at what I do with Fable 5.2 in the cracks of my week and think: this would'v…",
+      "originalBody": "I look at what I do with Fable 5.2 in the cracks of my week and think: this would've taken five people and $200,000.\n\nThen I look at what my team does with the same AI.\n\nLast week, between meetings, I analyzed our customer survey, made a game for our team, spotted an opportunity to sell @Every to teams, built a CRM, and started reaching out.\n\nLook at that and you might ask: Why would I need a team at all?\n\nThe chart seems to agree. On OpenAI's GDPval benchmark, AI went from beating human experts 12.4% of the time in 2024 to around 83% in 2026. That's the aggregate view of the future of work: gather a lot of data and extrapolate a trend line.\n\nBut the aggregate misses something. To see it, you have to get intimate: zoom in on one real situation, with all its messiness, and extrapolate from there.\n\nWe gave everyone at Every access to the same customer survey and the same AI models.\n\n• I found an opportunity to sell to teams.\n• @poojary_yash saw that first-time subscribers were churning because we send too much email.\n• @dabrundage noticed that many of our readers feel lonely: they're excited about AI, but people around them think they're crazy.\n• @jackcheng turned the results into a Claymation game show.\n\nCould you ask Claude to produce what each of them found? Maybe. But generating possibilities is cheap. Knowing which ones matter is hard.\n\n@hammer_mt ran an experiment to predict what I'd say in Slack. When Claude got 400 attempts, it produced an answer like mine 93% of the time. But when it had to rank its own answers, mine landed in its top 10% only around 60% of the time.\n\nEach person on a team is responsible for a different part of the world. That responsibility narrows where they look, and their perspective helps them decide what matters enough to act on. A team explores more possibilities than a single default prompt, and it can take responsibility for what it finds.\n\nThe obvious objection: models will get better at ranking. I think they will. But people aren't frozen while that happens. Comparing 2026 Yash with 2027 Claude misses that there will also be a 2027 Yash, with another year of experience, using 2027 Claude.\n\nAs models improve and spread, they raise the floor for everyone. The default answer becomes the baseline. The value is in using your perspective and responsibility to push past it.\n\nThat's why I think we need to change how we measure AI. Instead of only asking how well a model performs on problems everyone agrees are worth solving, ask: How good is it at doing my work, from my perspective?\n\nThe aggregate can show us the capability curve. The intimate helps us see what we might build, and who we might become, as we ride it.\n\nI presented this at Thesis: 2027. The full talk is on the Every podcast:",
+      "translatedTitle": "我看着自己每周零碎时间玩《神鬼寓言5.2》的情景，心想：这本来可以……",
+      "translatedBody": "我看着自己利用每周零碎时间用 Fable 5.2 完成的工作，心想：这要是五个人做，得花 20 万美元。\n\n然后我又看看我的团队用同样的 AI 做了些什么。\n\n上周，在会议间隙，我分析了客户调查，为团队制作了一款游戏，发现了向团队销售 @Every 的机会，搭建了一个客户关系管理系统，并开始联系客户。\n\n看到这些，你可能会问：我为什么还需要一个团队？\n\n图表似乎也印证了这一点。在 OpenAI 的 GDPval 基准测试中，AI 击败人类专家的概率从 2024 年的 12.4% 增长到 2026 年的约 83%。这是对未来工作的整体展望：收集大量数据并推断出一条趋势线。\n\n但这种总体展望忽略了一些东西。要看清这一点，你必须深入其中：聚焦于一个真实的案例，即使它错综复杂，也要从中推断。\n\n我们让Every公司的每个人都能访问同一份客户调查问卷和同一套AI模型。\n\n• 我找到了向团队销售产品的机会。\n\n• @poojary_yash 发现，由于我们发送的邮件过多，新订阅用户流失率很高。\n\n• @dabrundage 注意到，我们的许多读者感到孤独：他们对AI充满热情，但周围的人却认为他们疯了。\n\n• @jackcheng 将调查结果制作成了一个黏土动画游戏节目。\n\n你能让Claude把他们各自的发现都做出来吗？也许可以。但生成可能性很容易，真正难的是知道哪些可能性重要。\n\n@hammer_mt 做了一个实验来预测我会在Slack上说什么。Claude进行了400次尝试，93%的情况下都给出了和我一样的答案。但当它需要对自己的答案进行排名时，我的答案只有大约60%的概率进入前10%。\n\n团队中的每个人都负责世界上不同的区域。这种责任感缩小了他们的视野范围，而他们的视角则帮助他们决定哪些事情值得采取行动。一个团队探索的可能性远不止于单一的默认提示，并且能够对发现的结果负责。\n\n显而易见的反对意见是：模型的排名能力会不断提高。我认为确实如此。但人们不会因此停滞不前。将 2026 年的 Yash 与 2027 年的 Claude 进行比较，忽略了 2027 年也会出现一个拥有更多经验的 2027 年 Yash，他使用的是 2027 年的 Claude。\n\n随着模型的改进和普及，它们提高了所有人的底线。默认答案变成了基准。价值在于运用你的视角和责任感去超越它。\n\n这就是为什么我认为我们需要改变衡量人工智能的方式。与其仅仅询问模型在大家公认值得解决的问题上的表现如何，不如问问：从我的角度来看，它在我负责的工作上表现如何？\n\n总体数据可以展现能力曲线。而个体数据则能帮助我们看到，在沿着这条曲线前进的过程中，我们能够构建什么，以及我们最终会成为什么样的人。\n\n我在 Thesis: 2027 大会上做了这个演讲。完整演讲内容可以在 Every 播客上找到：",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/danshipper/status/2120539547620790424",
+      "publishedAt": "2026-11-11T15:30:00.000Z",
+      "score": 86.76,
+      "engagement": {
+        "likes": 118,
+        "retweets": 13,
+        "replies": 42
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2120671838909194695",
+      "type": "tweet",
+      "builder": "Amjad Masad",
+      "title": "为什么一些原本并未被完全掩盖的旧故事会突然变得扑朔迷离……",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Why are old stories that were not even covered up all that well become sudden international and geopolitical news? Th…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "Why are old stories that were not even covered up all that well become sudden inter…",
+      "originalBody": "Why are old stories that were not even covered up all that well become sudden international and geopolitical news?\n\nThe timing is suspicious, so worth asking: who benefits and why now?\n\nIf Jensen, the premier champion of open models, is taken out then anyone who wants AI closed, centralized, and controlled might benefit.\n\nWhy now? The midterms seem relevant. But also perhaps the upcoming IPOs.",
+      "translatedTitle": "为什么一些原本并未被完全掩盖的旧故事会突然变得扑朔迷离……",
+      "translatedBody": "为什么一些原本并未被彻底掩盖的旧闻，突然间就成了国际和地缘政治新闻？\n\n时机可疑，值得探究：谁是受益者？为什么偏偏是现在？\n\n如果开放模型的领军人物詹森（Jensen）落马，那么任何想要封闭、集中化和控制人工智能的人都可能从中获利。\n\n为什么偏偏是现在？中期选举似乎与此有关。但即将到来的IPO也可能起到了推波助澜的作用。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/amasad/status/2120671838909194695",
+      "publishedAt": "2026-11-12T00:15:41.000Z",
+      "score": 86.53,
+      "engagement": {
+        "likes": 3430,
+        "retweets": 389,
+        "replies": 183
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2120649149389627493",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "我对詹森太失望了。",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Man I am so disappointed in Jensen. So many people looked up to him including me. The story of rising from a dishwash…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Man I am so disappointed in Jensen.",
+      "originalBody": "Man I am so disappointed in Jensen.\n\nSo many people looked up to him including me. The story of rising from a dishwasher and waiter to the CEO of the most valuable company in the world. The story of a 41-year marriage to his college sweetheart.\n\nWhat the hell happened man?\n\nAnd of all the people to have affairs with you have to choose a spy and a freakin' NVIDIA executive?\n\nCome on dude.",
+      "translatedTitle": "我对詹森太失望了。",
+      "translatedBody": "唉，我对詹森真是太失望了。\n\n很多人都崇拜他，包括我。他从洗碗工和侍应生一路奋斗到全球市值最高公司的CEO，他和大学时的恋人携手走过了41年的婚姻。\n\n到底发生了什么？\n\n而且，他居然偏偏选择一个间谍和一个英伟达的高管搞婚外情？\n\n拜托，兄弟。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2120649149389627493",
+      "publishedAt": "2026-11-11T22:45:31.000Z",
+      "score": 83.45,
+      "engagement": {
+        "likes": 2019,
+        "retweets": 102,
+        "replies": 728
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2120620900785820143",
+      "type": "tweet",
+      "builder": "Thariq",
+      "title": "Swyx 给我做了 AIE 代码的“闭幕主题演讲”，也就是说，大家都累了或者要赶飞机走了……",
+      "summary": "Thariq 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Swyx gave me the “closing keynote” of AIE code, aka everyone is tired or flying out so if you’re not one of those ple…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Swyx gave me the “closing keynote” of AIE code, aka everyone is tired or flying out…",
+      "originalBody": "Swyx gave me the “closing keynote” of AIE code, aka everyone is tired or flying out\n\nso if you’re not one of those please come to mine tomorrow at 5pm\n\nit’s called “the sweet side of the bitter lesson” https://t.co/R5nVuHXukK",
+      "translatedTitle": "Swyx 给我做了 AIE 代码的“闭幕主题演讲”，也就是说，大家都累了或者要赶飞机走了……",
+      "translatedBody": "Swyx 让我做了 AIE 代码大会的“闭幕主题演讲”，也就是说，大家都累了或者要赶飞机了。\n\n所以，如果你不是其中之一，请明天下午 5 点来参加我的演讲。\n\n演讲题目是“苦涩教训的甜蜜一面” https://t.co/R5nVuHXukK",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/trq212/status/2120620900785820143",
+      "publishedAt": "2026-11-11T20:53:16.000Z",
+      "score": 77.11,
+      "engagement": {
+        "likes": 1242,
+        "retweets": 21,
+        "replies": 81
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2120657462353330604",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "考虑到黄仁勋在英伟达的核心地位，董事会罢免他似乎并非明智之举……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Seems ill advised for Nvidia’s board to oust Jensen Huang given how central his leadership is to the operations of an…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Seems ill advised for Nvidia’s board to oust Jensen Huang given how central his lea…",
+      "originalBody": "Seems ill advised for Nvidia’s board to oust Jensen Huang given how central his leadership is to the operations of an engine of our future abundance. \n\nHis day to day is prime actor work. Would be hard to believe a transition happens without massive market cap implosion.  https://t.co/alxSa3cwwi",
+      "translatedTitle": "考虑到黄仁勋在英伟达的核心地位，董事会罢免他似乎并非明智之举……",
+      "translatedBody": "考虑到黄仁勋的领导对于这家未来财富引擎的运营至关重要，英伟达董事会罢免他似乎并非明智之举。\n\n他的日常工作至关重要。很难想象在没有市值暴跌的情况下完成权力交接。https://t.co/alxSa3cwwi",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2120657462353330604",
+      "publishedAt": "2026-11-11T23:18:33.000Z",
+      "score": 74.55,
+      "engagement": {
+        "likes": 391,
+        "retweets": 21,
+        "replies": 71
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-11-10T06:27:38.415Z",
-    "totalCandidates": 29,
-    "textQualifiedCandidates": 18,
+    "upstreamGeneratedAt": "2026-11-12T06:28:54.625Z",
+    "totalCandidates": 31,
+    "textQualifiedCandidates": 13,
     "selectedTweets": 8
   }
 }
