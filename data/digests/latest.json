@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T06:33:10.545Z",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T05:52:09.843Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-11-12",
+  "title": "AI Builders Daily | 2026-11-13",
   "summary": "今天最值得看的是 Claude 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
   "intro": "已从 31 条候选动态里，筛出 13 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
@@ -38,7 +38,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/claudeai/status/2120669165316915259",
       "publishedAt": "2026-11-12T00:05:03.000Z",
-      "score": 185.88,
+      "score": 168.35,
       "engagement": {
         "likes": 3408,
         "retweets": 206,
@@ -65,7 +65,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/nikunj/status/2120669243918418237",
       "publishedAt": "2026-11-12T00:05:22.000Z",
-      "score": 113.37,
+      "score": 95.84,
       "engagement": {
         "likes": 32,
         "retweets": 1,
@@ -94,7 +94,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/adityaag/status/2120578134177464356",
       "publishedAt": "2026-11-11T18:03:20.000Z",
-      "score": 91.6,
+      "score": 80.1,
       "engagement": {
         "likes": 240,
         "retweets": 25,
@@ -122,7 +122,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/danshipper/status/2120539547620790424",
       "publishedAt": "2026-11-11T15:30:00.000Z",
-      "score": 86.76,
+      "score": 77.82,
       "engagement": {
         "likes": 118,
         "retweets": 13,
@@ -150,7 +150,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/amasad/status/2120671838909194695",
       "publishedAt": "2026-11-12T00:15:41.000Z",
-      "score": 86.53,
+      "score": 68.82,
       "engagement": {
         "likes": 3430,
         "retweets": 389,
@@ -177,7 +177,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/petergyang/status/2120649149389627493",
       "publishedAt": "2026-11-11T22:45:31.000Z",
-      "score": 83.45,
+      "score": 67.25,
       "engagement": {
         "likes": 2019,
         "retweets": 102,
@@ -204,7 +204,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/trq212/status/2120620900785820143",
       "publishedAt": "2026-11-11T20:53:16.000Z",
-      "score": 77.11,
+      "score": 62.78,
       "engagement": {
         "likes": 1242,
         "retweets": 21,
@@ -216,26 +216,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2120657462353330604",
+      "id": "2120549258692882702",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "考虑到黄仁勋在英伟达的核心地位，董事会罢免他似乎并非明智之举……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Seems ill advised for Nvidia’s board to oust Jensen Huang given how central his leadership is to the operations of an…",
+      "builder": "Google Labs",
+      "title": "🚨全新实验室实验🚨隆重推出桌面实验🎲——我们最新的实验项目，旨在……",
+      "summary": "Google Labs 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：🚨 NEW LABS EXPERIMENT 🚨 Introducing Tabletop 🎲— our newest experiment built to get your crew from \"we should total…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Seems ill advised for Nvidia’s board to oust Jensen Huang given how central his lea…",
-      "originalBody": "Seems ill advised for Nvidia’s board to oust Jensen Huang given how central his leadership is to the operations of an engine of our future abundance. \n\nHis day to day is prime actor work. Would be hard to believe a transition happens without massive market cap implosion.  https://t.co/alxSa3cwwi",
-      "translatedTitle": "考虑到黄仁勋在英伟达的核心地位，董事会罢免他似乎并非明智之举……",
-      "translatedBody": "考虑到黄仁勋的领导对于这家未来财富引擎的运营至关重要，英伟达董事会罢免他似乎并非明智之举。\n\n他的日常工作至关重要。很难想象在没有市值暴跌的情况下完成权力交接。https://t.co/alxSa3cwwi",
+      "originalTitle": "🚨 NEW LABS EXPERIMENT 🚨 Introducing Tabletop 🎲— our newest experiment built to g…",
+      "originalBody": "🚨 NEW LABS EXPERIMENT 🚨\n\nIntroducing Tabletop 🎲— our newest experiment built to get your crew from \"we should totally do that\" to \"we’re actually doing this.\"\n\nDrop links and files into one shared space, add your crew, and ask Tabletop for whatever you need to create custom spaces on the fly:\n\n🗺️ Interactive road trip maps & dinner-decider wheels\n🏆 Live pickleball brackets & merch voting boards\n🪑 Drag-and-drop seating charts (so you don’t get stuck next to your boss)\n\nPull up a chair and join the waitlist (US, 18+): https://t.co/triX0g7udt",
+      "translatedTitle": "🚨全新实验室实验🚨隆重推出桌面实验🎲——我们最新的实验项目，旨在……",
+      "translatedBody": "🚨全新实验室实验🚨\n\n隆重推出 Tabletop 🎲——我们最新的实验项目，旨在帮助你的团队从“我们应该做这件事”变成“我们正在做这件事”。\n\n只需将链接和文件拖放到一个共享空间，添加你的团队成员，然后向 Tabletop 提出任何你需要的功能，即可随时创建自定义空间：\n\n🗺️互动式公路旅行地图和晚餐选择轮盘\n\n🏆实时匹克球赛程表和周边商品投票板\n\n🪑拖放式座位图（让你不再和老板坐在一起）\n\n快来加入候补名单吧（美国，18岁以上）：https://t.co/triX0g7udt",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2120657462353330604",
-      "publishedAt": "2026-11-11T23:18:33.000Z",
-      "score": 74.55,
+      "sourceUrl": "https://x.com/GoogleLabs/status/2120549258692882702",
+      "publishedAt": "2026-11-11T16:08:35.000Z",
+      "score": 62.62,
       "engagement": {
-        "likes": 391,
-        "retweets": 21,
-        "replies": 71
+        "likes": 1113,
+        "retweets": 93,
+        "replies": 43
       },
       "matchedFocusAreas": [
         "Coding Agents"
