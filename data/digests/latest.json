@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-15",
-  "generatedAt": "2026-11-15T05:40:22.413Z",
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T05:40:36.270Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-11-15",
+  "title": "AI Builders Daily | 2026-11-16",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 21 条候选动态里，筛出 8 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 26 条候选动态里，筛出 11 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,57 +15,34 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
+    },
+    {
+      "slug": "product-ships",
+      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2121277727940776114",
+      "id": "2121739228698886454",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "Workflow SDK 5 和 Vercel Workflows 对于代理商来说是一项巨大的进步。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Workflow SDK 5 and Vercel Workflows are a monumental step forward for agents. ◾ The 'time to first step' and 'time be…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Workflow SDK 5 and Vercel Workflows are a monumental step forward for agents.",
-      "originalBody": "Workflow SDK 5 and Vercel Workflows are a monumental step forward for agents.\n\n◾ The 'time to first step' and 'time between steps' have massively improved.\n\n◾ We doubled down on encryption and security.\n\n◾ The reliability of the overall system has been proven at massive scale. We've ironed out many subtle details and exercised many disaster-recovery scenarios.\n\n◾ We made the underlying durability log reusable for any agent harness. 𝚍𝚞𝚛𝚊𝚋𝚕𝚎-𝚑𝚊𝚛𝚗𝚎𝚜𝚜 was born.\n\nCheck it out:",
-      "translatedTitle": "Workflow SDK 5 和 Vercel Workflows 对于代理商来说是一项巨大的进步。",
-      "translatedBody": "Workflow SDK 5 和 Vercel Workflows 是代理程序的一项重大进步。\n\n◾ “第一步执行时间”和“步骤间时间”均大幅缩短。\n\n◾ 我们加倍加强了加密和安全性。\n\n◾ 整个系统的可靠性已在大规模应用中得到验证。我们完善了许多细节，并演练了多种灾难恢复场景。\n\n◾ 我们使底层持久性日志可在任何代理程序框架中复用。𝚍𝚞𝚛𝚊𝚋𝚕𝚎-𝚑𝚊𝚛𝚗𝚎𝚜𝚜 由此诞生。\n\n立即体验：",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2121277727940776114",
-      "publishedAt": "2026-11-13T16:23:16.000Z",
-      "score": 157.53,
-      "engagement": {
-        "likes": 345,
-        "retweets": 8,
-        "replies": 101
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2121320899161010360",
-      "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "我以为在 Llama 4 之后，我们已经不再把跑分最大化当作炫耀的资本了……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I thought after Llama 4 we had stopped benchmark-maxxing as a flex.. but it seems like the cartel is back again. Ther…",
+      "title": "https://t.co/3Z4NESzNKd 上的子代理商工作非常出色……令人非常满意。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Subagents on https://t.co/3Z4NESzNKd work so well… extremely delightful. Amazing how much goodness fits in 6.33mb 😁…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "I thought after Llama 4 we had stopped benchmark-maxxing as a flex..",
-      "originalBody": "I thought after Llama 4 we had stopped benchmark-maxxing as a flex.. but it seems like the cartel is back again. \n\nThere’s no substitute to really using the models for your workflows to understand the best ones that actually work for your workflows. \n\nIn reality, there’s only very very few benchmarks that truly matter, and the real ones know. \n\nRest is primarily posturing or hill climbing on one just to use as marketing (which in reality does work for a select group of companies but won’t last over time)",
-      "translatedTitle": "我以为在 Llama 4 之后，我们已经不再把跑分最大化当作炫耀的资本了……",
-      "translatedBody": "我原以为在 Llama 4 之后，我们就不再把基准测试结果堆砌成炫耀的工具了……但现在看来，这种垄断又卷土重来了。\n\n要想真正了解哪些模型最适合你的工作流程，没有比直接使用这些模型更好的方法了。\n\n实际上，真正重要的基准测试屈指可数，而真正懂行的人都明白这一点。\n\n其余的基准测试大多只是为了作秀或为了营销而盲目追求某个指标（虽然这种方法对某些公司确实有效，但终究无法长久）。",
+      "originalTitle": "Subagents on https://t.co/3Z4NESzNKd work so well… extremely delightful.",
+      "originalBody": "Subagents on https://t.co/3Z4NESzNKd work so well… extremely delightful. Amazing how much goodness fits in 6.33mb 😁\n\nAll my projects are built by planning with the smartest model + delegating to fast model subagents. It's a 1-line instruction in ~/.𝚏𝚡/𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍. https://t.co/27S2By5smT",
+      "translatedTitle": "https://t.co/3Z4NESzNKd 上的子代理商工作非常出色……令人非常满意。",
+      "translatedBody": "https://t.co/3Z4NESzNKd 上的子代理运行得非常出色……简直太棒了。令人惊叹的是，6.33MB 的空间竟然能容纳这么多好东西😁\n\n我所有的项目都是通过规划最智能的模型，然后委托给快速模型的子代理来实现的。这只需要在 ~/.𝚏𝚡/𝙰𝙶𝙴𝙽𝚃𝚂.𝚖𝚍 中添加一行指令。https://t.co/27S2By5smT",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2121320899161010360",
-      "publishedAt": "2026-11-13T19:14:49.000Z",
-      "score": 59.34,
+      "sourceUrl": "https://x.com/rauchg/status/2121739228698886454",
+      "publishedAt": "2026-11-14T22:57:06.000Z",
+      "score": 181.15,
       "engagement": {
-        "likes": 5,
-        "retweets": 0,
-        "replies": 0
+        "likes": 275,
+        "retweets": 6,
+        "replies": 71
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -74,168 +51,201 @@
       "sourceType": "x"
     },
     {
-      "id": "2121430386685395022",
+      "id": "2121804295381377342",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "有幸体验了@uisdk 的神奇之处。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Got to experience the magic of @uisdk. Two prompts of fx + Gemini Argon. Pure Web Components. No framework. The agent…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Got to experience the magic of @uisdk.",
+      "originalBody": "Got to experience the magic of @uisdk.\n\nTwo prompts of fx + Gemini Argon. Pure Web Components. No framework.\n\nThe agent reused 14 UI SDK behaviors out of the box 🤯: window resizing, drag, menubar hover-switching,  typeahead, roving toolbar focus, 10-band EQ sliders, scoped hotkeys, ARIA, and WebMCP agent control.\n\nhttps://t.co/1Ol3xqKWJz (source linked)\nMusic by @suno.",
+      "translatedTitle": "有幸体验了@uisdk 的神奇之处。",
+      "translatedBody": "体验了 @uisdk 的神奇之处。\n\n两个 fx + Gemini Argon 提示。纯 Web Components，无框架。\n\n该代理开箱即用地复用了 14 个 UI SDK 行为🤯：窗口大小调整、拖拽、菜单栏悬停切换、自动补全、工具栏焦点移动、10 段均衡器滑块、作用域热键、ARIA 和 WebMCP 代理控制。\n\nhttps://t.co/1Ol3xqKWJz（已链接来源）\n\n音乐来自 @suno。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2121804295381377342",
+      "publishedAt": "2026-11-15T03:15:39.000Z",
+      "score": 159.66,
+      "engagement": {
+        "likes": 616,
+        "retweets": 23,
+        "replies": 74
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2121755282326102417",
+      "type": "tweet",
+      "builder": "Josh Woodward",
+      "title": "Gemini 新功能：连接 Google Wallet 获取个人理财洞察 这非常强大……",
+      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验：New in Gemini: Connect Google Wallet for personal finance insights This is powerful for things like: + making instant…",
+      "whyItMatters": "Josh Woodward 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "New in Gemini: Connect Google Wallet for personal finance insights This is powerful…",
+      "originalBody": "New in Gemini: Connect Google Wallet for personal finance insights\n\nThis is powerful for things like:\n+ making instant charts to visualize your spend\n+ finding sneaky subscription price hikes\n+ making a holiday budget based on what you actually spent last year https://t.co/wzrBpwYpxm",
+      "translatedTitle": "Gemini 新功能：连接 Google Wallet 获取个人理财洞察 这非常强大……",
+      "translatedBody": "Gemini 新功能：连接 Google Wallet，获取个人财务洞察\n\n这项功能非常强大，例如：\n\n+ 即时生成图表，直观展示您的支出\n\n+ 发现隐藏的订阅价格上涨\n\n+ 根据去年的实际支出制定假期预算 https://t.co/wzrBpwYpxm",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/joshwoodward/status/2121755282326102417",
+      "publishedAt": "2026-11-15T00:00:54.000Z",
+      "score": 133.39,
+      "engagement": {
+        "likes": 462,
+        "retweets": 40,
+        "replies": 42
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2121649295950762363",
       "type": "tweet",
       "builder": "Peter Yang",
-      "title": "如果您认识患有癌症或其他长期疾病的亲人：1.",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：If you know a loved one suffering from cancer or another long-term illness: 1. Upload all of the patient's medical re…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "If you know a loved one suffering from cancer or another long-term illness: 1.",
-      "originalBody": "If you know a loved one suffering from cancer or another long-term illness:\n\n1. Upload all of the patient's medical records (e.g., to a Google Drive folder)\n\n2. Tell ChatGPT or Claude to install my free /fuck-cancer skill (just point them at the link: https://t.co/4fi5N8hsSG)\n\n3. Point the skill at the folder to create a one-page brief, research clinical trials, and more.\n\nYou're also welcome to fork the skill and modify it for other long-term conditions. \n\ntl:dr Use the full power of AI to beat shitty diseases.",
-      "translatedTitle": "如果您认识患有癌症或其他长期疾病的亲人：1.",
-      "translatedBody": "如果您认识患有癌症或其他长期疾病的亲人：\n\n1. 上传患者的所有医疗记录（例如，上传到 Google 云端硬盘文件夹）\n\n2. 让 ChatGPT 或 Claude 安装我的免费 /fuck-cancer 技能（只需让他们访问此链接：https://t.co/4fi5N8hsSG）\n\n3. 使用该技能访问文件夹，即可生成一份单页简报、查找临床试验信息等等。\n\n您也可以 fork 该技能并进行修改，使其适用于其他长期疾病。\n\n简而言之：利用人工智能的强大功能战胜顽疾。",
+      "title": "在 Fable 5.2 中尝试以下两个非常有用的提示：“/doctor prompt-audit”：审核您的…",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Two very useful prompts to try with Fable 5.2: \"/doctor prompt-audit\": Audits your Claude Code setup (Claude md, skil…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "Two very useful prompts to try with Fable 5.2: \"/doctor prompt-audit\": Audits your…",
+      "originalBody": "Two very useful prompts to try with Fable 5.2:\n\n\"/doctor prompt-audit\": Audits your Claude Code setup (Claude md, skills, commands) and proposes fixes.\n\n\"/claude-api prompt-audit [skill name]\": Audits one skill in depth.\n\nI wish Claude Code auto-suggested running these every time Anthropic releases a new model.\n\n📌 Watch my full tutorial on how I use Fable and Opus here: https://t.co/slyEbWvvqA",
+      "translatedTitle": "在 Fable 5.2 中尝试以下两个非常有用的提示：“/doctor prompt-audit”：审核您的…",
+      "translatedBody": "两个非常实用的 Fable 5.2 提示：\n\n`/doctor prompt-audit`：审核您的 Claude Code 设置（Claude 医生、技能、命令），并提供修复建议。\n\n`/claude-api prompt-audit [技能名称]`：深入审核单个技能。\n\n我希望 Claude Code 能在每次 Anthropic 发布新模型时自动建议运行这些提示。\n\n📌 点击此处观看我的完整教程，了解如何使用 Fable 和 Opus：https://t.co/slyEbWvvqA",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2121430386685395022",
-      "publishedAt": "2026-11-14T02:29:53.000Z",
-      "score": 57.57,
+      "sourceUrl": "https://x.com/petergyang/status/2121649295950762363",
+      "publishedAt": "2026-11-14T16:59:45.000Z",
+      "score": 107.95,
       "engagement": {
-        "likes": 434,
-        "retweets": 36,
-        "replies": 7
+        "likes": 440,
+        "retweets": 18,
+        "replies": 53
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2121464508225053153",
+      "id": "2121686564078297461",
       "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "在 Claude Code 中，请将 Opus 5.5 设置为默认编码版本。",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Keep Opus 5.5 as your coding default in Claude Code. On 52 coding tasks in Claude Code 2.1.322, Fable 5.2 solved abou…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Keep Opus 5.5 as your coding default in Claude Code.",
-      "originalBody": "Keep Opus 5.5 as your coding default in Claude Code. On 52 coding tasks in Claude Code 2.1.322, Fable 5.2 solved about as many (82.7% vs 84.6%) but cost 2.80x as much per solved task.\n\nOpus already solves most of these tasks, though, so telling the two apart will take harder ones.\n\nhttps://t.co/SfIvr9pHNg",
-      "translatedTitle": "在 Claude Code 中，请将 Opus 5.5 设置为默认编码版本。",
-      "translatedBody": "在 Claude Code 中，请将 Opus 5.5 设置为默认编程软件。在 Claude Code 2.1.322 的 52 个编程任务中，Fable 5.2 的完成率与 Opus 5.5 大致相同（82.7% 对 84.6%），但每个任务的成本是 Opus 5.5 的 2.8 倍。\n\n不过，Opus 已经可以解决其中大部分任务，因此要区分两者，需要难度更高的任务。\n\nhttps://t.co/SfIvr9pHNg",
+      "builder": "Aaron Levie",
+      "title": "人工智能模型在所有编码方面也必然会越来越好……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：AI models are inevitably going to keep getting better and better at all coding, tool and computer use, math, and othe…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "AI models are inevitably going to keep getting better and better at all coding, too…",
+      "originalBody": "AI models are inevitably going to keep getting better and better at all coding, tool and computer use, math, and other coding-related tasks. As a result, agents that can use software to do their work, or generate code from scratch, will improve at a faster rate than all other domains of knowledge work.\n\nOn one hand that could mean that only a small subset of work can get automated. But probably what happens is that more and more work just becomes coding-shaped to adapt to what agents are good at.\n\nYou can see it in the most recent examples of model releases in the past couple of months, where agents can generate code that becomes animated videos, games, 3D models for products, and so on. We also know that tool use gives agents the ability to work with much of the same software that people already work with. This helps in cyber, life sciences, finance, and a number of other domains.\n\nOur mental model traditionally has been that the models have to be able to know everything about anything to generate value, but in reality they *really* have to know how to use or generate software effectively combined with deep domain expertise to make the right judgment calls inside of workflows. \n\nWhen you have that powerful combination, almost everything else gets unlocked. This is why the acceleration of agents in knowledge work is only going to increase from here.",
+      "translatedTitle": "人工智能模型在所有编码方面也必然会越来越好……",
+      "translatedBody": "人工智能模型在所有编码、工具和计算机使用、数学以及其他与编码相关的任务方面，必然会不断进步。因此，能够使用软件完成工作或从零开始生成代码的智能体，其进步速度将远超其他所有知识领域的工作。\n\n一方面，这可能意味着只有一小部分工作能够实现自动化。但更可能的情况是，越来越多的工作会根据智能体的优势进行编码调整。\n\n从最近几个月发布的模型示例中就可以看出这一点，智能体可以生成代码，进而制作动画视频、游戏、产品3D模型等等。我们也知道，工具的使用使智能体能够操作许多人们已经在使用的软件。这有助于网络安全、生命科学、金融以及其他众多领域的发展。\n\n我们传统的思维模式是，模型必须无所不知才能创造价值，但实际上，它们*真正*需要的是能够有效地使用或生成软件，并结合深厚的领域专业知识，才能在工作流程中做出正确的判断。\n\n当拥有这种强大的组合时，几乎所有其他功能都将迎刃而解。这就是为什么知识型智能体的发展速度只会越来越快。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2121464508225053153",
-      "publishedAt": "2026-11-14T04:45:28.000Z",
-      "score": 54.34,
+      "sourceUrl": "https://x.com/levie/status/2121686564078297461",
+      "publishedAt": "2026-11-14T19:27:50.000Z",
+      "score": 106.05,
       "engagement": {
-        "likes": 154,
-        "retweets": 10,
-        "replies": 69
+        "likes": 206,
+        "retweets": 18,
+        "replies": 96
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2121366466905981435",
+      "id": "2121845965997101118",
       "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "为了让大家更清楚地了解美国联邦航空管理局的地面停飞行动有多么疯狂，这仅仅是第三次……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Just to shed some light on how crazy the FAA ground stop is, this is only the THIRD time in modern history it's ever…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Just to shed some light on how crazy the FAA ground stop is, this is only the THIRD…",
-      "originalBody": "Just to shed some light on how crazy the FAA ground stop is, this is only the THIRD time in modern history it's ever happened..\n\nFirst time was 9/11, second time was the NOTAM system outage in 2023, and now today (reasons unclear).\n\nHappy Friday the 13th to all the agents celebrating 💀",
-      "translatedTitle": "为了让大家更清楚地了解美国联邦航空管理局的地面停飞行动有多么疯狂，这仅仅是第三次……",
-      "translatedBody": "为了让大家更清楚地了解美国联邦航空管理局（FAA）这次的地面停飞有多么疯狂，这可是现代史上第三次发生……\n\n第一次是911事件，第二次是2023年的航行通告（NOTAM）系统故障，而今天又是（原因不明）。\n\n祝所有庆祝的特工们黑色星期五快乐💀",
+      "builder": "Thibault Sottiaux",
+      "title": "网络安全团队希望您能对 Daybreak 提出反馈意见。",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defe…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "Cyber team wants your feedback on Daybreak.",
+      "originalBody": "Cyber team wants your feedback on Daybreak. Models, codex plugins, blue/red access, documentation, red teaming & defense factory... What can we do better or improve?",
+      "translatedTitle": "网络安全团队希望您能对 Daybreak 提出反馈意见。",
+      "translatedBody": "网络团队希望您就 Daybreak 提供反馈。模型、代码库插件、蓝红访问、文档、红队演练和防御工厂……我们有哪些可以改进的地方？",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2121366466905981435",
-      "publishedAt": "2026-11-13T22:15:53.000Z",
-      "score": 46.75,
+      "sourceUrl": "https://x.com/thsottiaux/status/2121845965997101118",
+      "publishedAt": "2026-11-15T06:01:14.000Z",
+      "score": 63.79,
       "engagement": {
-        "likes": 54,
-        "retweets": 2,
-        "replies": 4
+        "likes": 737,
+        "retweets": 30,
+        "replies": 534
       },
       "matchedFocusAreas": [
-        "Coding Agents"
+        "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2121430819667579031",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "以下是一些报道存在疑问的证据——目前仍不清楚爱丽丝是否……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Here's some evidence of the questionable reporting - it's still unclear that Alice Huang is a spy despite WSJ jumping…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Here's some evidence of the questionable reporting - it's still unclear that Alice…",
-      "originalBody": "Here's some evidence of the questionable reporting - it's still unclear that Alice Huang is a spy despite WSJ jumping to conclusions.\n\nThis is from the Singapore gov: https://t.co/6WnZqOt0KH https://t.co/TvUEyV1bOB",
-      "translatedTitle": "以下是一些报道存在疑问的证据——目前仍不清楚爱丽丝是否……",
-      "translatedBody": "以下是一些可疑报道的证据——尽管《华尔街日报》草率下结论，但爱丽丝·黄是否是间谍仍未可知。\n\n以下信息来自新加坡政府：https://t.co/6WnZqOt0KH https://t.co/TvUEyV1bOB",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2121430819667579031",
-      "publishedAt": "2026-11-14T02:31:36.000Z",
-      "score": 40.21,
-      "engagement": {
-        "likes": 16,
-        "retweets": 0,
-        "replies": 1
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2121389001546567837",
+      "id": "2121519931741127144",
       "type": "tweet",
       "builder": "Amjad Masad",
-      "title": "与 StandWithJensen 页面的所有者合作，该页面是在 Rep 上构建和托管的……",
-      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验：Worked with the owner of the StandWithJensen page, which is built and hosted on Replit, to raise the rate limit. It s…",
-      "whyItMatters": "Amjad Masad 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Worked with the owner of the StandWithJensen page, which is built and hosted on Rep…",
-      "originalBody": "Worked with the owner of the StandWithJensen page, which is built and hosted on Replit, to raise the rate limit. It should now scale!\n\nFeel free to share @GavinSBaker https://t.co/7fMPobz2ud",
-      "translatedTitle": "与 StandWithJensen 页面的所有者合作，该页面是在 Rep 上构建和托管的……",
-      "translatedBody": "已与 StandWithJensen 页面的所有者合作，提高了该页面的速率限制。该页面基于 Replit 构建和托管。现在应该可以正常扩展了！\n\n欢迎分享 @GavinSBaker https://t.co/7fMPobz2ud",
+      "title": "我们已经进入了墨菲定律的世界。",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We’ve entered Murphy’s world. Anything that can go wrong will go wrong. With billions of things happening at once, re…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "We’ve entered Murphy’s world.",
+      "originalBody": "We’ve entered Murphy’s world. Anything that can go wrong will go wrong. With billions of things happening at once, recursively interdependent and accelerating rapidly, what’s once considered a rare failure is now a daily thing.",
+      "translatedTitle": "我们已经进入了墨菲定律的世界。",
+      "translatedBody": "我们已经进入了墨菲定律的世界。凡事皆有可能出错。数十亿件事物同时发生，彼此相互依存，且发展速度飞快，曾经罕见的故障如今已成为家常便饭。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/amasad/status/2121389001546567837",
-      "publishedAt": "2026-11-13T23:45:26.000Z",
-      "score": 38.34,
+      "sourceUrl": "https://x.com/amasad/status/2121519931741127144",
+      "publishedAt": "2026-11-14T08:25:42.000Z",
+      "score": 63.12,
       "engagement": {
-        "likes": 1270,
-        "retweets": 104,
-        "replies": 59
+        "likes": 1115,
+        "retweets": 87,
+        "replies": 142
       },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
       "sourceType": "x"
     },
     {
-      "id": "2121367890095960507",
+      "id": "2121727702025765094",
       "type": "tweet",
-      "builder": "Dan Shipper",
-      "title": "这类事情似乎越来越常见了。",
-      "summary": "Dan Shipper 的最新观点聚焦在可执行的一线经验：stuff like this seems to be getting more common. extremely impt it gets fixed, and everyone in AI should be willing t…",
-      "whyItMatters": "Dan Shipper 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "stuff like this seems to be getting more common.",
-      "originalBody": "stuff like this seems to be getting more common. extremely impt it gets fixed, and everyone in AI should be willing to help make sure it does https://t.co/SahVGlswJ4",
-      "translatedTitle": "这类事情似乎越来越常见了。",
-      "translatedBody": "这类问题似乎越来越常见。必须尽快修复，人工智能领域的每个人都应该为此贡献一份力量。https://t.co/SahVGlswJ4",
+      "builder": "Garry Tan",
+      "title": "原来是纸质图表、铜线和一套陈旧易碎的系统……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：It turns out paper chart and copper wire and an antiquated system that is brittle and doesn’t have enough failsafe le…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "It turns out paper chart and copper wire and an antiquated system that is brittle a…",
+      "originalBody": "It turns out paper chart and copper wire and an antiquated system that is brittle and doesn’t have enough failsafe let alone any modern software is not serving the people of America properly. \n\nModernize the FAA. https://t.co/J4wbogmVSy",
+      "translatedTitle": "原来是纸质图表、铜线和一套陈旧易碎的系统……",
+      "translatedBody": "事实证明，纸质航图、铜线以及一套陈旧、脆弱且缺乏足够安全保障（更不用说任何现代软件）的系统，根本无法为美国人民提供应有的服务。\n\n美国联邦航空管理局（FAA）亟需现代化。https://t.co/J4wbogmVSy",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/danshipper/status/2121367890095960507",
-      "publishedAt": "2026-11-13T22:21:32.000Z",
-      "score": 19.03,
+      "sourceUrl": "https://x.com/garrytan/status/2121727702025765094",
+      "publishedAt": "2026-11-14T22:11:18.000Z",
+      "score": 53.78,
       "engagement": {
-        "likes": 29,
-        "retweets": 2,
-        "replies": 3
+        "likes": 167,
+        "retweets": 14,
+        "replies": 36
       },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-11-14T06:25:34.902Z",
-    "totalCandidates": 21,
-    "textQualifiedCandidates": 8,
+    "upstreamGeneratedAt": "2026-11-15T06:26:52.164Z",
+    "totalCandidates": 26,
+    "textQualifiedCandidates": 11,
     "selectedTweets": 8
   }
 }
