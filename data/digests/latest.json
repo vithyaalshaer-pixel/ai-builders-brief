@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T06:41:58.765Z",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T06:42:57.598Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-11-18",
-  "summary": "今天最值得看的是 Swyx 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 33 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-11-19",
+  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 31 条候选动态里，筛出 18 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,166 +23,136 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2122862646265520150",
+      "id": "2123237505810178434",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "令人震惊的是，所有拥有决策权的人竟然都没能预料到这种情况，并否决了相关提案……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：the fact that nobody with decisionmaking power saw this coming a mile away and vetoed the 6.2 astra ad is my primary…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "the fact that nobody with decisionmaking power saw this coming a mile away and veto…",
-      "originalBody": "the fact that nobody with decisionmaking power saw this coming a mile away and vetoed the 6.2 astra ad is my primary critique of the astra launch\n\nthe model itself is solid minor version improvement guys, efficiency is one of the three most impt RL objectives rn and they are world leading here!!! i am daily driving astra and it is the best workflow automation model i’ve used, no longer getting stuck in horrible loops and efficiently learning thru compactions and skill writing. it’s running a lot of our content publishing pipeline for @latentspacepod and @aiDotEngineer and we wouldnt have nearly the revenue efficiency (>1m/employee) that we have as a bootstrapped business without it",
-      "translatedTitle": "令人震惊的是，所有拥有决策权的人竟然都没能预料到这种情况，并否决了相关提案……",
-      "translatedBody": "决策者们竟然对此毫无察觉，否决了 6.2 版本的 Astra 广告，这是我对 Astra 发布的主要批评。\n\n模型本身确实是一个扎实的小版本改进，效率是目前强化学习三大目标之一，而 Astra 在这方面堪称世界领先！我每天都在使用 Astra，它是我用过的最好的工作流程自动化模型，让我不再陷入可怕的循环，并通过压缩和技能编写高效学习。它运行着我们 @latentspacepod 和 @aiDotEngineer 的大部分内容发布流程，如果没有它，我们这家自筹资金的公司不可能达到如此高的营收效率（人均超过 100 万美元）。",
+      "builder": "Guillermo Rauch",
+      "title": "这是我见过的最令人印象深刻的事情之一，我认为这是一项重要的进步……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：One of the most impressive things I've seen, and I think this is an important advancement to the state of the art. Me…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "One of the most impressive things I've seen, and I think this is an important advan…",
+      "originalBody": "One of the most impressive things I've seen, and I think this is an important advancement to the state of the art.\n\nMessage boards were the enabling technology of both the Navier-Stokes math breakthrough and even the OpenAI/HuggingFace cyber feat.\n\nWe built a message board infrastructure primitive. You can think of it as \"headless Slack\" (or remember IRC?) for agents.\n\nThis is an important building block for software factories, self-optimizing systems, and scientific research, where the human prompting is just the seed of the system, and millions of agents can operate in a decentralized fashion.\n\n𝚟𝚎𝚛𝚌𝚎𝚕 𝚋𝚘𝚊𝚛𝚍 is designed to be model, harness and hosting platform agnostic. Just bring your agents, give them our CLI, and watch magic happen.",
+      "translatedTitle": "这是我见过的最令人印象深刻的事情之一，我认为这是一项重要的进步……",
+      "translatedBody": "这是我见过的最令人印象深刻的成果之一，我认为这是该领域一项重要的进步。\n\n留言板是纳维-斯托克斯方程数学突破乃至 OpenAI/HuggingFace 网络安全壮举的关键技术。\n\n我们构建了一个留言板基础设施基石。您可以将其视为智能体的“无头 Slack”（或者您还记得 IRC 吗？）。\n\n对于软件工厂、自优化系统和科学研究而言，这是一个重要的构建模块。在这些系统中，人类的提示仅仅是系统的种子，数百万个智能体可以以去中心化的方式运行。\n\n𝚟𝚎𝚛𝚌𝚎𝚕 𝚋𝚘𝚊𝚛𝚍 的设计理念是与模型、工具和托管平台无关。只需提供您的智能体，并向它们提供我们的命令行界面 (CLI)，即可见证奇迹的发生。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2122862646265520150",
-      "publishedAt": "2026-11-18T01:21:10.000Z",
-      "score": 223.63,
+      "sourceUrl": "https://x.com/rauchg/status/2123237505810178434",
+      "publishedAt": "2026-11-19T02:10:43.000Z",
+      "score": 205.59,
       "engagement": {
-        "likes": 237,
-        "retweets": 4,
-        "replies": 46
+        "likes": 844,
+        "retweets": 32,
+        "replies": 77
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2122737427970425171",
-      "type": "tweet",
-      "builder": "Josh Woodward",
-      "title": "Gemini现在可以在六个国家免费为您完成任务！",
-      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：Gemini can now do your tasks free of charge in six countries! We’ve built it for anyone who has tasks piling up durin…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "Gemini can now do your tasks free of charge in six countries!",
-      "originalBody": "Gemini can now do your tasks free of charge in six countries! We’ve built it for anyone who has tasks piling up during all the classes, meetings, and school drop-offs that fill the day. Our goal is for Gemini to get the job done and save you time and money along the way.\n\n3 major updates:\n\n1) Running on our new Gemini 4 Hydrogen model, Gemini can get stuff done at no cost for hundreds of millions of people across the US, Japan, Korea, Canada, Australia, and India.\n\n2) Many highly requested features are rolling out now, starting in the US:\n* Call local businesses (via Google Duplex)\n* Pay and check out (via Google Pay)\n* Text Gemini on Android or iOS (via RCS)\n* Forward emails to Gemini (via Gmail)\n* Sign into sites without sharing passwords outside Google (via Google Password Manager)\n\n3) We’ve also landed our biggest update yet for the Gemini <> Google Workspace integration. The tools trigger more reliably, and you can do much more without ever leaving Gemini. Draft or send emails. Create and edit Docs or Sheets. Add multiple Calendar events at once.\n\nReady to hand off your next task? We can’t wait to see what Gemini crosses off your list first.",
-      "translatedTitle": "Gemini现在可以在六个国家免费为您完成任务！",
-      "translatedBody": "Gemini 现已在六个国家/地区免费为您完成任务！我们专为那些在忙碌的课程、会议和接送孩子等日常事务中积压大量任务的人士打造了这款应用。我们的目标是让 Gemini 高效完成工作，同时为您节省时间和金钱。\n\n三大更新：\n\n1) Gemini 基于我们全新的 Gemini 4 Hydrogen 机型，可为美国、日本、韩国、加拿大、澳大利亚和印度的数亿用户免费完成任务。\n\n2) 许多备受期待的功能现已推出，首先在美国上线：\n\n* 拨打本地商家电话（通过 Google Duplex）\n\n* 付款和结账（通过 Google Pay）\n\n* 在 Android 或 iOS 设备上向 Gemini 发送短信（通过 RCS）\n\n* 将电子邮件转发至 Gemini（通过 Gmail）\n\n* 无需在 Google 之外共享密码即可登录网站（通过 Google Password Manager）\n\n3) 我们还推出了迄今为止 Gemini 与 Google Workspace 集成方面的最大更新。这些工具触发更可靠，而且您无需离开 Gemini 即可完成更多操作。您可以撰写或发送电子邮件，创建和编辑文档或表格，还可以一次性添加多个日历事件。\n\n准备好交接下一个任务了吗？我们迫不及待地想看看 Gemini 会首先帮您完成哪些任务。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/joshwoodward/status/2122737427970425171",
-      "publishedAt": "2026-11-17T17:03:36.000Z",
-      "score": 220.35,
-      "engagement": {
-        "likes": 599,
-        "retweets": 60,
-        "replies": 69
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2122798042734633452",
-      "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "尽管新模型非常智能，但我们仍需在使其……方面做更多工作。",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：Although the new models are very smart, we have more work ahead of us on making the models nice to work with, and wil…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "Although the new models are very smart, we have more work ahead of us on making the…",
-      "originalBody": "Although the new models are very smart, we have more work ahead of us on making the models nice to work with, and will prioritize that for upcoming releases.\n\nBut even if it takes a little extra work, the intelligence and capability are extraordinary.",
-      "translatedTitle": "尽管新模型非常智能，但我们仍需在使其……方面做更多工作。",
-      "translatedBody": "虽然新模型非常智能，但我们仍需努力提升其易用性，并将此作为未来版本开发的重点。\n\n即便需要额外投入一些精力，其智能性和功能也堪称卓越。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2122798042734633452",
-      "publishedAt": "2026-11-17T21:04:27.000Z",
-      "score": 207.03,
-      "engagement": {
-        "likes": 2990,
-        "retweets": 91,
-        "replies": 274
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2122798039899263456",
-      "type": "tweet",
-      "builder": "Sam Altman",
-      "title": "6.2 Sol 和 Astra 已发布。",
-      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：6.2 Sol and Astra are out. These models can do amazing things and are very token-efficient; we hope people will get g…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "6.2 Sol and Astra are out.",
-      "originalBody": "6.2 Sol and Astra are out.\n\nThese models can do amazing things and are very token-efficient; we hope people will get great value from them.\n\nIn particular, 6.2 Sol ultrafast is something I think people will really enjoy. https://t.co/KNjtDKRwj7",
-      "translatedTitle": "6.2 Sol 和 Astra 已发布。",
-      "translatedBody": "6.2 Sol 和 Astra 版本现已发布。\n\n这些模型功能强大，代币效率极高；我们希望用户能从中获得巨大价值。\n\n特别是 6.2 Sol 的超快模式，我认为用户一定会非常喜欢。https://t.co/KNjtDKRwj7",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/sama/status/2122798039899263456",
-      "publishedAt": "2026-11-17T21:04:27.000Z",
-      "score": 187.08,
-      "engagement": {
-        "likes": 7670,
-        "retweets": 336,
-        "replies": 739
-      },
-      "matchedFocusAreas": [
         "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2122812237169426606",
+      "id": "2123203741570740504",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "OpenAI刚刚发布了世界上网络安全能力最强的模型。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：OpenAI just put out the most cybersecurity-capable models in the world. Excellent timing. Important signal: @vercel D…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "OpenAI just put out the most cybersecurity-capable models in the world.",
-      "originalBody": "OpenAI just put out the most cybersecurity-capable models in the world. Excellent timing.\n\nImportant signal: @vercel DeepsecBench is a stealth cyber benchmark. No lab has had access to the codebases to train on.\n\nhttps://t.co/14WK4F7irU https://t.co/TXMgZ8URsA",
-      "translatedTitle": "OpenAI刚刚发布了世界上网络安全能力最强的模型。",
-      "translatedBody": "OpenAI刚刚发布了全球网络安全能力最强的模型。时机绝佳。\n\n重要提示：@vercel DeepsecBench是一个隐秘的网络安全基准测试。没有任何实验室能够访问其代码库进行训练。\n\nhttps://t.co/14WK4F7irU https://t.co/TXMgZ8URsA",
+      "title": "平均每两天我就会收到一家新的推理云公司的推销。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：I’m being pitched a new inference neocloud company on average every two days. No exaggeration. I take every entrepren…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "I’m being pitched a new inference neocloud company on average every two days.",
+      "originalBody": "I’m being pitched a new inference neocloud company on average every two days. No exaggeration. I take every entrepreneur seriously and I look deeply into each.\n\nBut it’s hard to fathom this being sustainable. At the same time, AI Gateway token demand on Vercel has been ~40% MoM compounded since the beginning of the year. No signs of stopping.\n\nOne way to reconcile this is that compute is the new economy, and tokens the new energy unit. There’s a new Industrial Revolution taking place. Every aspect of our lives is being replatformed on top of this new system that enhances everything. More like an “oil rush” than a “gold rush”: it’s durable, not a fad.\n\nIn the short term, I anticipate more expansion, followed by consolidation due to economies of scale, cybersecurity and enterprise requirements (ZDR and cyber being a hot topic for inference providers), capital requirements, and an evolving regulatory landscape.",
+      "translatedTitle": "平均每两天我就会收到一家新的推理云公司的推销。",
+      "translatedBody": "平均每两天，我就会听到一家新的推理云公司的推介。毫不夸张。我认真对待每一位创业者，并对他们进行深入研究。\n\n但很难想象这种模式能够持续下去。与此同时，自年初以来，Vercel 平台上的 AI Gateway 代币需求量环比增长约 40%，而且没有停止的迹象。\n\n一种解释是，计算是新的经济，代币是新的能源单位。一场新的工业革命正在发生。我们生活的方方面面都在这个全新的系统之上进行平台重构，而这个系统本身也在提升一切。这更像是“石油热潮”而非“淘金热”：它具有持久性，而非昙花一现。\n\n短期内，我预计市场将进一步扩张，随后由于规模经济、网络安全和企业需求（零数据限制和网络安全是推理服务提供商关注的热点）、资金需求以及不断变化的监管环境等因素，将会出现整合。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2122812237169426606",
-      "publishedAt": "2026-11-17T22:00:51.000Z",
-      "score": 170.92,
+      "sourceUrl": "https://x.com/rauchg/status/2123203741570740504",
+      "publishedAt": "2026-11-18T23:56:33.000Z",
+      "score": 204.49,
       "engagement": {
-        "likes": 269,
-        "retweets": 12,
+        "likes": 1007,
+        "retweets": 36,
+        "replies": 130
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2123103873166381287",
+      "type": "tweet",
+      "builder": "Sam Altman",
+      "title": "能和我的朋友兼合作伙伴 @gdb 一起做 DealBook 真是太有趣了，我们已经合作 11 年了。",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：So fun to do DealBook with my friend and partner of 11 years, @gdb. Thrilled the world got to see the brilliant, fier…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "So fun to do DealBook with my friend and partner of 11 years, @gdb.",
+      "originalBody": "So fun to do DealBook with my friend and partner of 11 years, @gdb. Thrilled the world got to see the brilliant, fiercely determined leader I have the privilege of working with every day.\n\nGreg’s role at OpenAI has evolved from writing code 100 hours a week in the early days to now leading some of the hardest and most consequential parts of our business.\n\nOne thing that has not changed is his extraordinary commitment to our mission. I can say with confidence that OpenAI would not exist without Greg, and I believe the world would be on a much worse path toward the AI future without him.",
+      "translatedTitle": "能和我的朋友兼合作伙伴 @gdb 一起做 DealBook 真是太有趣了，我们已经合作 11 年了。",
+      "translatedBody": "能和我的朋友兼合作伙伴@gdb一起做DealBook真是太棒了，我们相识已有11年了。我非常激动，全世界都能看到这位才华横溢、意志坚定的领导者，我有幸每天都和他一起工作。\n\nGreg在OpenAI的角色已经发生了翻天覆地的变化：从早期每周编写100小时代码，到如今领导我们业务中一些最艰巨、影响最深远的部分。\n\n唯一不变的是他对我们使命的非凡奉献。我可以自信地说，没有Greg，就没有OpenAI；而且我相信，如果没有他，世界在人工智能的未来道路上将会走得更加艰难。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/sama/status/2123103873166381287",
+      "publishedAt": "2026-11-18T17:19:43.000Z",
+      "score": 180.02,
+      "engagement": {
+        "likes": 4111,
+        "retweets": 146,
+        "replies": 412
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2123177835254952348",
+      "type": "tweet",
+      "builder": "Josh Woodward",
+      "title": "隆重推出 Gemini 4 Neon。",
+      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Product Ships：Introducing Gemini 4 Neon. The shipping continues! Frontier-grade intelligence that’s faster, cheaper, and follows co…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Product Ships。",
+      "originalTitle": "Introducing Gemini 4 Neon.",
+      "originalBody": "Introducing Gemini 4 Neon. The shipping continues! Frontier-grade intelligence that’s faster, cheaper, and follows complex instructions well. So good to use! https://t.co/HWBTt61dLn",
+      "translatedTitle": "隆重推出 Gemini 4 Neon。",
+      "translatedBody": "隆重推出 Gemini 4 Neon！持续发货！前沿级智能，速度更快、价格更低，还能出色地执行复杂指令。使用体验极佳！https://t.co/HWBTt61dLn",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/joshwoodward/status/2123177835254952348",
+      "publishedAt": "2026-11-18T22:13:37.000Z",
+      "score": 172.89,
+      "engagement": {
+        "likes": 389,
+        "retweets": 24,
         "replies": 41
       },
       "matchedFocusAreas": [
-        "Foundation Models"
+        "Product Ships"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2122746401482592549",
+      "id": "2123123552052494529",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "Devin 机器人是真正意义上的多智能体团队：始终在线、主动出击（但经过优化……）",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：devin bots are multi-agent teams done right: - always on, proactive (but tuned for ROI) - own outcomes not tasks (but…",
+      "builder": "Josh Woodward",
+      "title": "探索面向 Google AI Ultra 订阅用户的全新 Project Genie 体验，其中包括 G…",
+      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Explore a new Project Genie experience for Google AI Ultra subscribers, featuring Genie 4, the Project Genie agent, a…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "devin bots are multi-agent teams done right: - always on, proactive (but tuned for…",
-      "originalBody": "devin bots are multi-agent teams done right:\n- always on, proactive (but tuned for ROI)\n- own outcomes not tasks (but can collab w others)\n- manages teams of subagents (and reviews itself)\n- available everywhere (call text slack whatever hello @interaction)\n- consistent reporting thru interactive artifacts aka devinapps not long chats (HTML is all you need™ @trq212)\n\nthis is the preview that @walden_yan gave at AIE. i've been trialing them for a week and i've been able to hand over my AEO, QA, cross-platform app porting, personal admin automation, and video editing work (also simultaneously moving from local agent worktree hell to cloud because ofc this is all cloud based thank god)\n\nhyped concepts this replaces:\n- /goal\n- \"ultracode\" / \"ultra mode\"\n- \"loop engineering\"\n- \"agent to agent\"\n- \"agent swarms\"\n- AI employees (see below)\n\nmy main aha moment is that you don't want \"AI Employees\", we do not have agi yet and you will just fail if you overpromise/overexpect. what you want is the \"just\" the next level of abstraction above single tasks, and the overwhelming consensus I've had talking to everyone at the frontier of agents (yes incl cog competitors) is agent managers that own outcomes. \n\nincidentally, as an employer of humans it's also how i distinguish between someone who \"has agency\" (owns a problem area, finds issues and researches/brings solutions not problems) and who doesn't (only does precisely what i asked, not proactive, doesn't come up with suggestions i didn't think about). guess which one i value more lol.\n\nif youre a startup, reminder that Devin for Startups offers 65k in credits. apply via clanker",
-      "translatedTitle": "Devin 机器人是真正意义上的多智能体团队：始终在线、主动出击（但经过优化……）",
-      "translatedBody": "Devin 机器人是真正意义上的多智能体团队：\n\n- 始终在线，积极主动（但注重投资回报率）\n\n- 专注于结果而非任务（但可以与其他智能体协作）\n\n- 管理子智能体团队（并进行自我评估）\n\n- 随时随地可用（电话、短信、Slack 等，你好 @interaction）\n\n- 通过交互式文档（即 Devin 应用）提供一致的报告，而非冗长的聊天记录（HTML 就足够了™ @trq212）\n\n这是 @walden_yan 在 AIE 大会上展示的预览。我试用了一周，已经能够将我的 AEO、QA、跨平台应用移植、个人管理自动化和视频编辑工作交给他们处理（同时，我也从本地代理的繁琐工作迁移到了云端，谢天谢地，这一切都是基于云的）。\n\n它取代了以下几个备受瞩目的概念：\n\n- /goal\n\n- “超代码” / “超模式”\n\n- “循环工程”\n\n- “代理到代理”\n\n- “代理群”\n\n- AI 员工（见下文）\n\n我的主要顿悟是，你不需要“AI 员工”，我们还没有真正实现敏捷，如果你过度承诺/期望过高，只会失败。你真正需要的是比单个任务更高层次的抽象，而我与所有处于代理前沿的人（是的，包括 Cog 的竞争对手）交流后得到的压倒性共识是：代理管理器负责结果。\n\n顺便一提，作为一名雇主，这也是我区分“有自主性”（负责解决问题领域，发现问题并研究/提出解决方案，而不是制造问题）和“没有自主性”（只会照我说的做，不主动，不会提出我没想到的建议）的人的标准。猜猜我更看重哪一种？哈哈。\n\n如果你是一家初创公司，别忘了 Devin for Startups 提供 6.5 万美元的资金。通过 Clanker 申请。",
+      "originalTitle": "Explore a new Project Genie experience for Google AI Ultra subscribers, featuring G…",
+      "originalBody": "Explore a new Project Genie experience for Google AI Ultra subscribers, featuring Genie 4, the Project Genie agent, and a community gallery.\n\nhttps://t.co/SImBT48Ya3",
+      "translatedTitle": "探索面向 Google AI Ultra 订阅用户的全新 Project Genie 体验，其中包括 G…",
+      "translatedBody": "探索面向 Google AI Ultra 订阅用户的全新 Project Genie 体验，其中包括 Genie 4、Project Genie 智能体以及社区图库。\n\nhttps://t.co/SImBT48Ya3",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2122746401482592549",
-      "publishedAt": "2026-11-17T17:39:15.000Z",
-      "score": 168.32,
+      "sourceUrl": "https://x.com/joshwoodward/status/2123123552052494529",
+      "publishedAt": "2026-11-18T18:37:55.000Z",
+      "score": 153.48,
       "engagement": {
-        "likes": 292,
-        "retweets": 20,
-        "replies": 110
+        "likes": 18,
+        "retweets": 1,
+        "replies": 2
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -190,64 +160,92 @@
       "sourceType": "x"
     },
     {
-      "id": "2122818291144229075",
+      "id": "2123278949749059756",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "技术细节：> 默认情况下会显示会话间上下文。",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：technical details: > inter-session context is surfaced by default. Teams now create dedicated bots for different proj…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "technical details: > inter-session context is surfaced by default.",
-      "originalBody": "technical details:\n\n> inter-session context is surfaced by default. Teams now create dedicated bots for different projects; while these different devins can talk to each other when necessary, they each have their own individual memory bank and goals. Each bot now has its own, long lived identity.  The transition from \"Devin is a swarm of ephemeral agents\" to \"Devin is a collection of bots, each with their own persistent identity and memory\" is changing how people use and prompt Devin.\n\nhttps://t.co/maw20vdPs8",
-      "translatedTitle": "技术细节：> 默认情况下会显示会话间上下文。",
-      "translatedBody": "技术细节：\n\n> 默认情况下会显示会话间上下文。团队现在会为不同的项目创建专用机器人；虽然这些不同的 Devin 机器人可以在必要时相互通信，但它们各自拥有独立的记忆库和目标。每个机器人现在都拥有自己持久的身份。从“Devin 是一群短暂存在的代理”到“Devin 是一组机器人，每个机器人都有自己持久的身份和记忆”的转变，正在改变人们使用和调用 Devin 的方式。\n\nhttps://t.co/maw20vdPs8",
+      "builder": "Aaron Levie",
+      "title": "无论它叫什么，我们显然正在迈入人工智能代理的又一个时代……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：Regardless of what it’s called, we’re clearly moving to yet another era of AI agents in our work. We’ve quickly jumpe…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "Regardless of what it’s called, we’re clearly moving to yet another era of AI agent…",
+      "originalBody": "Regardless of what it’s called, we’re clearly moving to yet another era of AI agents in our work. \n\nWe’ve quickly jumped from agents that spit out a quick answer for you, to today agents that you orchestrate inside of a set of tasks. But as agents can both fan out and work in parallel, handle much larger context, be able to do long running work, and have far greater levels of capabilities, we’re entering yet another level of what we can have AI do for us.\n\nWe’ll soon be able to give agents a set of goals, and they can go out and design the best solution for that goal, while also continuously improving it based on the ongoing execution of whatever it built. This will obviously start with engineering because that’s where we’re seeing the best practices emerge first in almost every new era of agents. \n\nBut the impact can be quite massive across the rest of knowledge work. You’ll tell an agent to improve your client onboarding workflow to achieve a certain targeted goal; or have agents go reduce risk in your business; or improve your security posture on an ongoing basis.\n\nThese autonomous systems will be able to take on a set of goals, design the best outcome, test and iterate, deploy, and then optimize whatever it built on an ongoing basis. Importantly, this leads to outcomes and results that humans literally couldn’t have accomplished before. This will lead to fairly new levels of productivity with AI.",
+      "translatedTitle": "无论它叫什么，我们显然正在迈入人工智能代理的又一个时代……",
+      "translatedBody": "无论它叫什么，我们显然正在迈入人工智能代理在工作中的又一个新时代。\n\n我们已经迅速从只能快速给出答案的代理，发展到如今可以在一系列任务中协调执行的代理。随着代理能够分散工作、并行处理更庞大的上下文、执行长时间运行的任务，并拥有更强大的能力，我们正在进入人工智能能够为我们完成工作的又一个新阶段。\n\n我们很快就能为代理设定一系列目标，它们可以自主设计出实现该目标的最佳解决方案，并根据其构建的方案的持续执行情况不断改进。这显然会从工程领域开始，因为几乎在每一个新的代理时代，最佳实践都首先出现在工程领域。\n\n但它对其他知识工作领域的影响将是巨大的。您可以指示代理改进客户入职流程以实现特定目标；或者让代理降低业务风险；或者持续提升安全态势。\n\n这些自主系统能够设定一系列目标，设计最佳方案，进行测试和迭代，部署并持续优化其构建的成果。重要的是，这能够带来人类以前根本无法实现的成果。这将使人工智能的生产力达到一个全新的高度。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2122818291144229075",
-      "publishedAt": "2026-11-17T22:24:55.000Z",
-      "score": 153.21,
+      "sourceUrl": "https://x.com/levie/status/2123278949749059756",
+      "publishedAt": "2026-11-19T04:55:24.000Z",
+      "score": 98.74,
       "engagement": {
-        "likes": 4,
-        "retweets": 0,
-        "replies": 4
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2122929634916679820",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "网红和普通人之间氛围差异的一个有趣原因……",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "One of the funny reasons for the difference in vibes between the influencers and th…",
-      "originalBody": "One of the funny reasons for the difference in vibes between the influencers and the crowd today on 6.2 Sol/Astra is that we gave a few folks access a while ago and then made a lot of changes in the last 3-4 days and I'm pretty sure no re-testing was done within those days and the videos were produced last week.\n\nDon't get me wrong, while the models are a hefty jump compared to their GPT predecessors, they are by no means perfect and there are a few things the teams are excited for the models to get better at in future iterations in terms of taste and niceness of use. Love all the feedback and we hear you!",
-      "translatedTitle": "网红和普通人之间氛围差异的一个有趣原因……",
-      "translatedBody": "今天，6.2 Sol/Astra 版本中，意见领袖和普通用户的反应截然不同，其中一个有趣的原因是，我们之前给部分用户提供了试用权限，然后在过去三四天里做了很多改动。我相当确定这几天没有进行任何重新测试，而且视频是上周制作的。\n\n别误会，虽然这些模型相比之前的 GPT 模型有了显著的提升，但它们远非完美。团队对模型在未来的版本中能够改进一些方面感到兴奋，例如提升用户体验和趣味性。非常感谢大家的反馈，我们听到了你们的声音！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2122929634916679820",
-      "publishedAt": "2026-11-18T05:47:21.000Z",
-      "score": 117.27,
-      "engagement": {
-        "likes": 3467,
-        "retweets": 138,
-        "replies": 706
+        "likes": 90,
+        "retweets": 8,
+        "replies": 37
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models"
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2123102389775573314",
+      "type": "tweet",
+      "builder": "Google Labs",
+      "title": "🚨全新实验🚨 欢迎来到 Stitch Loop，一款始终在线的产品……",
+      "summary": "Google Labs 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：🚨NEW EXPERIMENT 🚨 Please join us in welcoming Stitch Loop, an always-on product agent that works non-stop to help l…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "🚨NEW EXPERIMENT 🚨 Please join us in welcoming Stitch Loop, an always-on product a…",
+      "originalBody": "🚨NEW EXPERIMENT 🚨\n\nPlease join us in welcoming Stitch Loop, an always-on product agent that works non-stop to help lean teams build better products.\n\nJoin the waitlist: https://t.co/L0cp6slvxZ https://t.co/Ym6uf756GB",
+      "translatedTitle": "🚨全新实验🚨 欢迎来到 Stitch Loop，一款始终在线的产品……",
+      "translatedBody": "🚨全新实验🚨\n\n欢迎加入我们，共同见证 Stitch Loop 的加入！Stitch Loop 是一款全天候在线的产品代理，它将不间断地帮助精益团队打造更优质的产品。\n\n加入候补名单：https://t.co/L0cp6slvxZ https://t.co/Ym6uf756GB",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/GoogleLabs/status/2123102389775573314",
+      "publishedAt": "2026-11-18T17:13:49.000Z",
+      "score": 95.85,
+      "engagement": {
+        "likes": 771,
+        "retweets": 45,
+        "replies": 12
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2123066196052381864",
+      "type": "tweet",
+      "builder": "Nikunj Kothari",
+      "title": "这种情况经常发生，所以我决定在这里说明一下。",
+      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Ok this happens a lot so I thought I’ll lay it out here.. founder friend: my pitch isn’t working on the fundraising s…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Ok this happens a lot so I thought I’ll lay it out here..",
+      "originalBody": "Ok this happens a lot so I thought I’ll lay it out here..\n\nfounder friend: my pitch isn’t working on the fundraising side. haaalp. \n\n*proceeds to give me the pitch*\n\nme: ambition is what’s being rewarded right now. what do you believe to be true if everything you laid out works? think about the second and third order effects as a result of you being successful. \n\nfounder: err, if everything works out, then “this” happens. \n\nme: put “this” in the pitch in the first slide and walk the investor how you get to “this” by building what you’re building in the first place and how you earn the right to get there. \n\nfounder: no, they’ll think I’m crazy\n\nme: try it. what do you have to lose?\n\n*tries it very reluctantly*\n\nfounder (4 days later): you *insert expletive*.. it worked. \n\nme: see. you always had it in you, you just had to tell it. \n\n—\n\nIf you’re an ambitious founder reading this and having the same issue, try this, I think it’ll work. If it does, please tell me!!",
+      "translatedTitle": "这种情况经常发生，所以我决定在这里说明一下。",
+      "translatedBody": "好吧，这种情况经常发生，所以我决定在这里写出来……\n\n创业者朋友：我的融资方案行不通。救命啊！\n\n*开始给我讲方案*\n\n我：现在最受青睐的是雄心壮志。如果你说的那些都奏效了，你觉得会发生什么？想想你成功后会产生哪些二阶和三阶效应。\n\n创业者：呃，如果一切顺利，就会发生“这个”。\n\n我：把“这个”放在第一张幻灯片里，然后跟投资人解释你是如何通过打造你现在正在做的东西来实现“这个”的，以及你是如何赢得进入这个阶段的资格的。\n\n创业者：不行，他们会觉得我疯了。\n\n我：试试看。你又有什么损失呢？\n\n*很不情愿地试了一下*\n\n创业者（4天后）：你个*此处省略脏话*……成功了！\n\n我：看吧。你一直都有这种能力，只是还没说出口。\n\n—\n\n如果你是一位雄心勃勃的创始人，正在阅读这篇文章，并且也遇到了同样的问题，不妨试试这个方法，我觉得应该有效。如果有效，请务必告诉我！",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/nikunj/status/2123066196052381864",
+      "publishedAt": "2026-11-18T14:50:00.000Z",
+      "score": 69.92,
+      "engagement": {
+        "likes": 1042,
+        "retweets": 27,
+        "replies": 46
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-11-18T06:28:37.829Z",
-    "totalCandidates": 33,
+    "upstreamGeneratedAt": "2026-11-19T06:30:05.741Z",
+    "totalCandidates": 31,
     "textQualifiedCandidates": 18,
     "selectedTweets": 8
   }
