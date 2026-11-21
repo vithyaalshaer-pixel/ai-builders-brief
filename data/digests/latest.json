@@ -1,8 +1,8 @@
 {
-  "date": "2026-11-20",
-  "generatedAt": "2026-11-20T06:31:32.162Z",
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T06:22:28.309Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-11-20",
+  "title": "AI Builders Daily | 2026-11-21",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
   "intro": "已从 33 条候选动态里，筛出 14 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
@@ -38,7 +38,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/rauchg/status/2123468825538789380",
       "publishedAt": "2026-11-19T17:29:54.000Z",
-      "score": 193.04,
+      "score": 182.07,
       "engagement": {
         "likes": 332,
         "retweets": 10,
@@ -66,7 +66,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/rauchg/status/2123505400591106113",
       "publishedAt": "2026-11-19T19:55:14.000Z",
-      "score": 177.89,
+      "score": 164.5,
       "engagement": {
         "likes": 1574,
         "retweets": 94,
@@ -93,42 +93,13 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/swyx/status/2123591875349422435",
       "publishedAt": "2026-11-20T01:38:52.000Z",
-      "score": 149.92,
+      "score": 130.8,
       "engagement": {
         "likes": 261,
         "retweets": 6,
         "replies": 63
       },
       "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2123648490844897389",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "人们嘲笑谷歌规模庞大、官僚作风严重，但我认为他们其中一个……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：People make fun of Google for being large and bureaucratic but I think one of their competitive advantages is they ha…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "People make fun of Google for being large and bureaucratic but I think one of their…",
-      "originalBody": "People make fun of Google for being large and bureaucratic but I think one of their competitive advantages is they have 100,000+ employees testing their latest models and tools before wide release.\n\nAt that employee population you can even run staff-only A/B tests that are stat sig :)",
-      "translatedTitle": "人们嘲笑谷歌规模庞大、官僚作风严重，但我认为他们其中一个……",
-      "translatedBody": "人们常嘲笑谷歌规模庞大、官僚作风严重，但我认为他们的竞争优势之一在于，他们拥有超过十万名员工，在产品大规模发布前测试最新的模型和工具。\n\n有了如此庞大的员工规模，甚至可以进行仅限员工参与的、具有统计学意义的 A/B 测试 :)",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2123648490844897389",
-      "publishedAt": "2026-11-20T05:23:50.000Z",
-      "score": 117.53,
-      "engagement": {
-        "likes": 35,
-        "retweets": 0,
-        "replies": 5
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
       "sourceType": "x"
     },
     {
@@ -147,7 +118,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/thsottiaux/status/2123557171321561133",
       "publishedAt": "2026-11-19T23:20:58.000Z",
-      "score": 112.87,
+      "score": 96.05,
       "engagement": {
         "likes": 5244,
         "retweets": 276,
@@ -155,6 +126,35 @@
       },
       "matchedFocusAreas": [
         "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2123648490844897389",
+      "type": "tweet",
+      "builder": "Peter Yang",
+      "title": "人们嘲笑谷歌规模庞大、官僚作风严重，但我认为他们其中一个……",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：People make fun of Google for being large and bureaucratic but I think one of their competitive advantages is they ha…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "People make fun of Google for being large and bureaucratic but I think one of their…",
+      "originalBody": "People make fun of Google for being large and bureaucratic but I think one of their competitive advantages is they have 100,000+ employees testing their latest models and tools before wide release.\n\nAt that employee population you can even run staff-only A/B tests that are stat sig :)",
+      "translatedTitle": "人们嘲笑谷歌规模庞大、官僚作风严重，但我认为他们其中一个……",
+      "translatedBody": "人们常嘲笑谷歌规模庞大、官僚作风严重，但我认为他们的竞争优势之一在于，他们拥有超过十万名员工，在产品大规模发布前测试最新的模型和工具。\n\n有了如此庞大的员工规模，甚至可以进行仅限员工参与的、具有统计学意义的 A/B 测试 :)",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/petergyang/status/2123648490844897389",
+      "publishedAt": "2026-11-20T05:23:50.000Z",
+      "score": 94.66,
+      "engagement": {
+        "likes": 35,
+        "retweets": 0,
+        "replies": 5
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
         "Product Ships"
       ],
       "sourceType": "x"
@@ -175,7 +175,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/petergyang/status/2123540875733315815",
       "publishedAt": "2026-11-19T22:16:12.000Z",
-      "score": 93.49,
+      "score": 77.74,
       "engagement": {
         "likes": 164,
         "retweets": 5,
@@ -203,7 +203,7 @@
       "sourcePreviewType": "full_text",
       "sourceUrl": "https://x.com/steipete/status/2123487048250327497",
       "publishedAt": "2026-11-19T18:42:19.000Z",
-      "score": 66.32,
+      "score": 54.14,
       "engagement": {
         "likes": 198,
         "retweets": 9,
@@ -215,28 +215,30 @@
       "sourceType": "x"
     },
     {
-      "id": "2123612889416339762",
+      "id": "2123479646629183631",
       "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "团队简直疯了，竟然认为他们能够成功改善用户体验……",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验：Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if…",
-      "whyItMatters": "Thibault Sottiaux 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "Team is crazy enough to think they can succeed at improving the experience used by…",
-      "originalBody": "Team is crazy enough to think they can succeed at improving the experience used by 1.2B users in place. Let's see if the strategy plays out.",
-      "translatedTitle": "团队简直疯了，竟然认为他们能够成功改善用户体验……",
-      "translatedBody": "团队真是异想天开，竟然认为他们能够成功改善12亿用户现有的用户体验。让我们拭目以待，看看这个策略是否奏效。",
+      "builder": "Aditya Agarwal",
+      "title": "智能体正在从单个任务转向整个工作，数据也必须随之改变。",
+      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Agents are moving from single tasks to whole jobs, and the data has to follow. RoleCUA from Fig maps expert roles acr…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "Agents are moving from single tasks to whole jobs, and the data has to follow.",
+      "originalBody": "Agents are moving from single tasks to whole jobs, and the data has to follow. RoleCUA from Fig maps expert roles across months of real work, with every action tied to the task and objective it serves. https://t.co/yVnPhJBOzn",
+      "translatedTitle": "智能体正在从单个任务转向整个工作，数据也必须随之改变。",
+      "translatedBody": "智能体正在从执行单个任务转向完成整个工作，数据也必须随之改变。Fig 的 RoleCUA 能够映射专家在数月实际工作中的角色，并将每个操作与其服务的任务和目标关联起来。https://t.co/yVnPhJBOzn",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2123612889416339762",
-      "publishedAt": "2026-11-20T03:02:22.000Z",
-      "score": 54.12,
+      "sourceUrl": "https://x.com/adityaag/status/2123479646629183631",
+      "publishedAt": "2026-11-19T18:12:54.000Z",
+      "score": 42.08,
       "engagement": {
-        "likes": 491,
-        "retweets": 6,
-        "replies": 85
+        "likes": 18,
+        "retweets": 3,
+        "replies": 1
       },
-      "matchedFocusAreas": [],
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
       "sourceType": "x"
     }
   ],
