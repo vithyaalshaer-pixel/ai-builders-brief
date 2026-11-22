@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-21",
-  "generatedAt": "2026-11-21T06:22:28.309Z",
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T05:53:48.465Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-11-21",
+  "title": "AI Builders Daily | 2026-11-22",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 33 条候选动态里，筛出 14 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 30 条候选动态里，筛出 14 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,134 +23,26 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2123468825538789380",
+      "id": "2123879031049449791",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "𝚟𝚎𝚛𝚌𝚎𝚕 𝚋𝚘𝚊𝚛𝚍 没有笨重或带有主观色彩的用户界面。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：𝚟𝚎𝚛𝚌𝚎𝚕 𝚋𝚘𝚊𝚛𝚍 has no heavyweight or opinionated UI. It's infra not product. I love the \"headless Slack\" for…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "𝚟𝚎𝚛𝚌𝚎𝚕 𝚋𝚘𝚊𝚛𝚍 has no heavyweight or opinionated UI.",
-      "originalBody": "𝚟𝚎𝚛𝚌𝚎𝚕 𝚋𝚘𝚊𝚛𝚍 has no heavyweight or opinionated UI. It's infra not product. I love the \"headless Slack\" for agents analogy, because UI is free now.\n\nYou can generate and deploy the ideal \"factory interface\" for each usecase. A security team will focus on vulnerability counts, SEV classifications, confirmed vs unconfirmed.\n\nI've seen internal factories at Vercel built on Board that are just TUIs. Or mostly managed via a Slack agent, and you just focus on the outcomes and giving feedback to the agents. \n\nThe board is like the Redux state manager of your agents. It's foundational.",
-      "translatedTitle": "𝚟𝚎𝚛𝚌𝚎𝚕 𝚋𝚘𝚊𝚛𝚍 没有笨重或带有主观色彩的用户界面。",
-      "translatedBody": "𝚟𝚎𝚛𝚌𝚎𝚕 𝚋𝚘𝚊𝚛𝚍 没有笨重或带有主观色彩的用户界面。它是基础设施，而非产品。我喜欢用“无头 Slack”来比喻代理，因为现在用户界面是免费的。\n\n您可以为每个用例生成并部署理想的“工厂界面”。安全团队将专注于漏洞数量、SEV 分类以及已确认和未确认漏洞。\n\n我见过 Vercel 内部基于 Board 构建的工厂，它们只是简单的 TUI。或者主要通过 Slack 代理进行管理，您只需专注于结果并向代理提供反馈。\n\nBoard 就像代理的 Redux 状态管理器。它是基础性的。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2123468825538789380",
-      "publishedAt": "2026-11-19T17:29:54.000Z",
-      "score": 182.07,
-      "engagement": {
-        "likes": 332,
-        "retweets": 10,
-        "replies": 78
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2123505400591106113",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "我的“工程是否是一项有价值的事业”的数学题。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：My “is engineering a valuable pursuit” math. An outcome-oriented, creative engineer is now a 1000x engineer. A tabs-v…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "My “is engineering a valuable pursuit” math.",
-      "originalBody": "My “is engineering a valuable pursuit” math. \n\nAn outcome-oriented, creative engineer is now a 1000x engineer.\n\nA tabs-vs-spaces-debating, miss-forest-for-trees engineer is now a -10x engineer.\n\nThe regular knowledge worker is now a 2x engineer.\n\nThis is also backed by the distribution of token consumption we see in both our startups and enterprise base. Engineers and software factories will consume exponentially more tokens.\n\nIf there’s a takeaway from Anthropic’s success, it’s that coding is the #1 killer app of AI.",
-      "translatedTitle": "我的“工程是否是一项有价值的事业”的数学题。",
-      "translatedBody": "我的“工程是否是一项有价值的事业”的数学计算：\n\n一位以结果为导向、富有创造力的工程师，如今的价值是原来的 1000 倍。\n\n一位纠结于制表符还是空格、只见树木不见森林的工程师，如今的价值是原来的 -10 倍。\n\n普通的知识工作者，如今的价值是原来的 2 倍。\n\n这一点也得到了我们在初创公司和企业用户群体中观察到的代币消费分布的支持。工程师和软件工厂将消耗指数级增长的代币。\n\n如果说 Anthropic 的成功有什么启示，那就是：编程是人工智能的头号杀手级应用。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2123505400591106113",
-      "publishedAt": "2026-11-19T19:55:14.000Z",
-      "score": 164.5,
-      "engagement": {
-        "likes": 1574,
-        "retweets": 94,
-        "replies": 129
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2123591875349422435",
-      "type": "tweet",
-      "builder": "Swyx",
-      "title": "在浏览社交媒体时，我认为值得注意的是，你可以说“哦……”",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：when scrolling social media i think it is worth bearing in mind that you can say “odds of reaching SOTA have dropped…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "when scrolling social media i think it is worth bearing in mind that you can say “o…",
-      "originalBody": "when scrolling social media i think it is worth bearing in mind that you can say “odds of reaching SOTA have dropped to zero” and get alot of likes and then 3 months later when they have reached SOTA you post apology form and get even more likes and the subject of your writing prints it out and thanks you for motivation\n\ntheres no consequences at all for inaccuracy and every incentive for hyperbole and the x algorithm is tuned for this",
-      "translatedTitle": "在浏览社交媒体时，我认为值得注意的是，你可以说“哦……”",
-      "translatedBody": "浏览社交媒体时，值得注意的是，你可以说“达到SOTA的概率已经降到零”，然后获得大量点赞；三个月后，当他们真的达到SOTA时，你发布道歉声明，又能获得更多点赞；而你文章的主角甚至会打印出来感谢你的激励。\n\n对于不准确的信息没有任何后果，夸张的言论却有十足的吸引力，而且算法似乎就是为了应对这种情况而优化的。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2123591875349422435",
-      "publishedAt": "2026-11-20T01:38:52.000Z",
-      "score": 130.8,
-      "engagement": {
-        "likes": 261,
-        "retweets": 6,
-        "replies": 63
-      },
-      "matchedFocusAreas": [],
-      "sourceType": "x"
-    },
-    {
-      "id": "2123557171321561133",
-      "type": "tweet",
-      "builder": "Thibault Sottiaux",
-      "title": "我们还在为 ChatGPT 开发全新的移动体验！",
-      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：We’re also working on a new mobile experience for ChatGPT! It’s easier to get to your favorite features and discover…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "We’re also working on a new mobile experience for ChatGPT!",
-      "originalBody": "We’re also working on a new mobile experience for ChatGPT! \n\nIt’s easier to get to your favorite features and discover what you can do in ChatGPT. We’re starting with Pro users who have a dot or are eligible to create one. Your dot gets its own tab, and you can pin Codex, Projects, Images, and more to the tab bar. Some of you will see the new experience by default. \n\nYou can turn it on or off anytime in Settings > New ChatGPT Design. \n\nSuper excited to hear your feedback before we roll it out more widely!",
-      "translatedTitle": "我们还在为 ChatGPT 开发全新的移动体验！",
-      "translatedBody": "我们正在为 ChatGPT 开发全新的移动体验！\n\n您可以更轻松地访问常用功能，探索 ChatGPT 的更多精彩内容。我们首先面向拥有专属点或符合创建点资格的 Pro 用户推出此功能。您的专属点将拥有专属标签页，您可以将 Codex、项目、图片等内容固定到标签栏。部分用户将默认体验到全新界面。\n\n您可以随时在“设置”>“ChatGPT 新设计”中启用或禁用此功能。\n\n我们非常期待在正式推出前收到您的反馈！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/thsottiaux/status/2123557171321561133",
-      "publishedAt": "2026-11-19T23:20:58.000Z",
-      "score": 96.05,
-      "engagement": {
-        "likes": 5244,
-        "retweets": 276,
-        "replies": 720
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2123648490844897389",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "人们嘲笑谷歌规模庞大、官僚作风严重，但我认为他们其中一个……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：People make fun of Google for being large and bureaucratic but I think one of their competitive advantages is they ha…",
+      "title": "当我第一次试用@eve的内部预发布版本时，这是一款个人购物代理软件……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：When I first tried an internal pre-release version of @eve, a personal shopper agent was my \"hello world\". It worked,…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "People make fun of Google for being large and bureaucratic but I think one of their…",
-      "originalBody": "People make fun of Google for being large and bureaucratic but I think one of their competitive advantages is they have 100,000+ employees testing their latest models and tools before wide release.\n\nAt that employee population you can even run staff-only A/B tests that are stat sig :)",
-      "translatedTitle": "人们嘲笑谷歌规模庞大、官僚作风严重，但我认为他们其中一个……",
-      "translatedBody": "人们常嘲笑谷歌规模庞大、官僚作风严重，但我认为他们的竞争优势之一在于，他们拥有超过十万名员工，在产品大规模发布前测试最新的模型和工具。\n\n有了如此庞大的员工规模，甚至可以进行仅限员工参与的、具有统计学意义的 A/B 测试 :)",
+      "originalTitle": "When I first tried an internal pre-release version of @eve, a personal shopper agen…",
+      "originalBody": "When I first tried an internal pre-release version of @eve, a personal shopper agent was my \"hello world\". It worked, but a lot of the infrastructure was missing.\n\nNow, @agentcardhq exists, models are better, iMessage and WhatsApp eve channels are mature, and performance is vastly improved (without trading off durability and encryption.)\n\nThe result is you can ship a platform of the caliber of Muse / Instinct, that you fully control, on our open intelligence stack. The experience is pure delight. I highly recommend you try this. Run with this template. Make it your own.",
+      "translatedTitle": "当我第一次试用@eve的内部预发布版本时，这是一款个人购物代理软件……",
+      "translatedBody": "当我第一次尝试 @eve 的内部预发布版本时，个人购物代理就是我的“Hello World”。它能运行，但很多基础设施都缺失了。\n\n现在，@agentcardhq 已经存在，模型更完善，iMessage 和 WhatsApp 的 eve 通道也已成熟，性能大幅提升（而且没有牺牲持久性和加密性）。\n\n因此，您可以在我们开放的智能堆栈上构建一个完全由您掌控、媲美 Muse/Instinct 的平台。体验非常棒。我强烈建议您尝试一下。使用这个模板，并根据自己的需求进行调整。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2123648490844897389",
-      "publishedAt": "2026-11-20T05:23:50.000Z",
-      "score": 94.66,
+      "sourceUrl": "https://x.com/rauchg/status/2123879031049449791",
+      "publishedAt": "2026-11-20T20:39:55.000Z",
+      "score": 205.03,
       "engagement": {
-        "likes": 35,
-        "retweets": 0,
-        "replies": 5
+        "likes": 219,
+        "retweets": 13,
+        "replies": 48
       },
       "matchedFocusAreas": [
         "Coding Agents",
@@ -160,54 +52,163 @@
       "sourceType": "x"
     },
     {
-      "id": "2123540875733315815",
+      "id": "2123943606906138868",
       "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "Gemini 4 Neon 获得了极高的评价，所以我制作了一个新视频，将其与 Opus 5 进行比较……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Gemini 4 Neon is getting rave reviews, so I made a new video comparing it to Opus 5.5, my favorite model for everyday…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "Gemini 4 Neon is getting rave reviews, so I made a new video comparing it to Opus 5…",
-      "originalBody": "Gemini 4 Neon is getting rave reviews, so I made a new video comparing it to Opus 5.5, my favorite model for everyday work.\n\nSome takeaways:\n\n1. Opus is still better at 3D and design from my testing, but Neon is on par or better at writing and personality, which is a huge accomplishment.\n\n2. @Google Gemini 4 has 3 models, but in reality I think I'll use Neon for 99% of tasks. It's much faster than Carbon and its results are just as good.\n\n3. The $100/mo Gemini Ultra subscription is a steal. You get Gemini 4, YouTube Premium Family (my favorite subscription ever) for ad-free YouTube and Music, 20 TB of storage for all your photos and files, and more.\n\n📌 Watch me test Neon vs Opus across 5 use cases here: https://t.co/irRiNDdqgY",
-      "translatedTitle": "Gemini 4 Neon 获得了极高的评价，所以我制作了一个新视频，将其与 Opus 5 进行比较……",
-      "translatedBody": "Gemini 4 Neon 获得了极高的评价，所以我制作了一个新视频，将其与我日常工作中最喜欢的 Opus 5.5 进行比较。\n\n一些要点：\n\n1. 根据我的测试，Opus 在 3D 和设计方面仍然更胜一筹，但 Neon 在写作和个性化方面与 Opus 不相上下，甚至更胜一筹，这非常了不起。\n\n2. @Google Gemini 4 有 3 个型号，但实际上，我认为我会用 Neon 来完成 99% 的任务。它比 Carbon 快得多，而且效果也同样出色。\n\n3. 每月 100 美元的 Gemini Ultra 订阅非常划算。您可以获得 Gemini 4、YouTube Premium 家庭版（我最喜欢的订阅服务，可享受无广告的 YouTube 和音乐）、20 TB 的存储空间（用于存放所有照片和文件）等等。\n\n📌 点击此处观看我在 5 个使用场景中对 Neon 和 Opus 的测试：https://t.co/irRiNDdqgY",
+      "builder": "Josh Woodward",
+      "title": "哇，这周发货量真大！",
+      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：Whew, what a week of shipping! A few of us were having fun with Gemini Neon on the Friday afternoon before the holida…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "Whew, what a week of shipping!",
+      "originalBody": "Whew, what a week of shipping! A few of us were having fun with Gemini Neon on the Friday afternoon before the holiday week ahead, and we loved the post from @UFO2002616 so much that we just built it and threw it into prod! \n\nLong click on the model picker on the web and enjoy 🙂 https://t.co/9cT7TekxBs",
+      "translatedTitle": "哇，这周发货量真大！",
+      "translatedBody": "呼，这周发货量真大！在假期前的那个周五下午，我们几个玩了一会儿 Gemini Neon，特别喜欢 @UFO2002616 发的帖子，所以我们就直接把它做出来上线了！\n\n长按网页上的模型选择器，尽情体验吧 🙂 https://t.co/9cT7TekxBs",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2123540875733315815",
-      "publishedAt": "2026-11-19T22:16:12.000Z",
-      "score": 77.74,
+      "sourceUrl": "https://x.com/joshwoodward/status/2123943606906138868",
+      "publishedAt": "2026-11-21T00:56:31.000Z",
+      "score": 182.29,
       "engagement": {
-        "likes": 164,
-        "retweets": 5,
-        "replies": 20
+        "likes": 380,
+        "retweets": 22,
+        "replies": 44
       },
       "matchedFocusAreas": [
-        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2123869175085191298",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "ISO 42001:2023 就像人工智能领域的“SOC2”。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：ISO 42001:2023 is like the \"SOC2 of AI\". It's the first global, independently audited standard for how companies buil…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "ISO 42001:2023 is like the \"SOC2 of AI\".",
+      "originalBody": "ISO 42001:2023 is like the \"SOC2 of AI\".\n\nIt's the first global, independently audited standard for how companies build, evaluate, monitor and govern AI systems.\n\nWhen you ship on and use Vercel's AI, you now know the infra is audited annually by an accredited third party. https://t.co/8vT5AYUjNd",
+      "translatedTitle": "ISO 42001:2023 就像人工智能领域的“SOC2”。",
+      "translatedBody": "ISO 42001:2023 就像人工智能领域的“SOC2”。\n\n它是首个全球性的、经独立审核的标准，用于规范企业如何构建、评估、监控和管理人工智能系统。\n\n当您使用 Vercel 的人工智能产品时，您可以放心，其基础设施每年都会接受经认可的第三方机构的审核。https://t.co/8vT5AYUjNd",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2123869175085191298",
+      "publishedAt": "2026-11-20T20:00:45.000Z",
+      "score": 159.77,
+      "engagement": {
+        "likes": 660,
+        "retweets": 26,
+        "replies": 51
+      },
+      "matchedFocusAreas": [
         "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2123487048250327497",
+      "id": "2123843282082132335",
       "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "昨天在 OpenClaw 中修复了这个问题（针对少数使用嵌入式 h…的用户）。",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Landed a fix for that in OpenClaw yesterday (for the few folks using the embedded harness instead of codex, since it’…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Landed a fix for that in OpenClaw yesterday (for the few folks using the embedded h…",
-      "originalBody": "Landed a fix for that in OpenClaw yesterday (for the few folks using the embedded harness instead of codex, since it’s a plugin), most harnesses aren’t updated yet. https://t.co/hyjqyZw1AU",
-      "translatedTitle": "昨天在 OpenClaw 中修复了这个问题（针对少数使用嵌入式 h…的用户）。",
-      "translatedBody": "昨天在 OpenClaw 中修复了这个问题（针对少数使用嵌入式 Harness 而非 Codex 的用户，因为它是一个插件），但大多数 Harness 尚未更新。https://t.co/hyjqyZw1AU",
+      "builder": "Swyx",
+      "title": "🔜 为什么 @j_schottenstein 离开 @getdbt 加入 @LangChain，并将其打造成为一家价值 30 亿美元的初创公司……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：🔜 why @j_schottenstein left @getdbt for @LangChain to build it into a $3B startup… ….and now they are having to rein…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "🔜 why @j_schottenstein left @getdbt for @LangChain to build it into a $3B startup……",
+      "originalBody": "🔜 why @j_schottenstein left @getdbt for @LangChain to build it into a $3B startup…\n\n….and now they are having to reinvent the content, context (knowledge) and software factory from scratch! https://t.co/U5cZHokbhU https://t.co/1ifwj7lNA3",
+      "translatedTitle": "🔜 为什么 @j_schottenstein 离开 @getdbt 加入 @LangChain，并将其打造成为一家价值 30 亿美元的初创公司……",
+      "translatedBody": "🔜 为什么 @j_schottenstein 离开 @getdbt 加入 @LangChain，并将其打造成为一家估值 30 亿美元的初创公司……\n\n……而现在，他们却不得不从零开始重建内容、上下文（知识）和软件工厂！https://t.co/U5cZHokbhU https://t.co/1ifwj7lNA3",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2123487048250327497",
-      "publishedAt": "2026-11-19T18:42:19.000Z",
-      "score": 54.14,
+      "sourceUrl": "https://x.com/swyx/status/2123843282082132335",
+      "publishedAt": "2026-11-20T18:17:52.000Z",
+      "score": 127.03,
       "engagement": {
-        "likes": 198,
+        "likes": 94,
         "retweets": 9,
-        "replies": 34
+        "replies": 44
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2123686350410912145",
+      "type": "tweet",
+      "builder": "Aaron Levie",
+      "title": "今年，我们的模型能力有了显著提升，不再需要告诉代理……",
+      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：This year we’ve had a clear jump in model capability where instead of telling agents precisely what to do, it’s bette…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
+      "originalTitle": "This year we’ve had a clear jump in model capability where instead of telling agent…",
+      "originalBody": "This year we’ve had a clear jump in model capability where instead of telling agents precisely what to do, it’s better to use these systems to solve problems you can’t easily define yourself. \n\nA year ago you’d need to very clearly tell agents the how to design and develop your product idea, or there was almost no chance of success. Now, increasingly, the agent likely can come up with a better implementation than you’d have thought of because you can have it connect the dots between a far greater solution space than you can. \n\nThis will be increasingly true in basically every domain of kneeler work. We’re going to see this impact in finance, legal, life sciences, cyber, and many other spaces where no person can hold onto all the available relevant industry knowledge to think of the best solution. \n\nUltimately this is going to reshape our relationship with AI and how we deploy agents in our work. It won’t be about explicitly telling them, but instead giving them goals and enough freedom to pursue them in the best way they can.",
+      "translatedTitle": "今年，我们的模型能力有了显著提升，不再需要告诉代理……",
+      "translatedBody": "今年，模型能力有了显著提升。与其直接告诉智能体该做什么，不如利用这些系统来解决那些你自身难以定义的难题。\n\n一年前，你需要非常清晰地告诉智能体如何设计和开发你的产品创意，否则几乎不可能成功。而现在，智能体更有可能提出比你预想的更好的实现方案，因为它能够连接比你更广阔的解决方案空间。\n\n这种情况在几乎所有需要人工干预的领域都将日益普遍。我们将在金融、法律、生命科学、网络安全以及许多其他领域看到这种影响，在这些领域，没有人能够掌握所有相关的行业知识来思考最佳解决方案。\n\n最终，这将重塑我们与人工智能的关系，以及我们在工作中部署智能体的方式。不再是明确地告诉它们该做什么，而是赋予它们目标，并给予它们足够的自由去以最佳方式去实现这些目标。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/levie/status/2123686350410912145",
+      "publishedAt": "2026-11-20T07:54:16.000Z",
+      "score": 109.27,
+      "engagement": {
+        "likes": 407,
+        "retweets": 32,
+        "replies": 164
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2123972492645777629",
+      "type": "tweet",
+      "builder": "Madhu Guru",
+      "title": "在钦奈，我应该结识哪些最有趣的人工智能领域人士？",
+      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：Who are the most interesting AI people I should meet in Chennai? I’ll be in town end of Nov - 1st wk Dec. about me: I…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "Who are the most interesting AI people I should meet in Chennai?",
+      "originalBody": "Who are the most interesting AI people I should meet in Chennai? \n\nI’ll be in town end of Nov - 1st wk Dec.\n\nabout me: \nI’m at Meta building AI products now; previously led product for Gemini, Veo and Nano Banana models at Google.\n\nschedule is tight but I should be able to squeeze in a few meetings.",
+      "translatedTitle": "在钦奈，我应该结识哪些最有趣的人工智能领域人士？",
+      "translatedBody": "在钦奈，我应该会见哪些最有趣的AI人士？\n\n我将于11月底至12月初在钦奈。\n\n关于我：\n\n我现在在Meta公司负责AI产品开发；之前在谷歌负责Gemini、Veo和Nano Banana模型的产品开发。\n\n行程安排比较紧凑，但我应该能挤出时间参加几个会议。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/realmadhuguru/status/2123972492645777629",
+      "publishedAt": "2026-11-21T02:51:18.000Z",
+      "score": 76.9,
+      "engagement": {
+        "likes": 112,
+        "retweets": 6,
+        "replies": 33
+      },
+      "matchedFocusAreas": [
+        "Foundation Models",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2123796297836896292",
+      "type": "tweet",
+      "builder": "Garry Tan",
+      "title": "你不需要征收资产扣押税，你需要鼓励创新思维和……",
+      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：You don’t need an asset seizure tax You need to encourage building new ideas and startups in California And then you…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "You don’t need an asset seizure tax You need to encourage building new ideas and st…",
+      "originalBody": "You don’t need an asset seizure tax\n\nYou need to encourage building new ideas and startups in California\n\nAnd then you need a government that spends it wisely on things that help the people\n\nThat’s it. The ivory tower academics and the SEIU-HNW union bosses have it wrong. https://t.co/mQ2pO8EMLG",
+      "translatedTitle": "你不需要征收资产扣押税，你需要鼓励创新思维和……",
+      "translatedBody": "你不需要资产扣押税\n\n你需要鼓励在加州发展新理念和初创企业\n\n然后你需要一个能明智地把钱花在造福人民上的政府\n\n就是这样。象牙塔里的学者和SEIU-HNW工会的头目们都错了。https://t.co/mQ2pO8EMLG",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/garrytan/status/2123796297836896292",
+      "publishedAt": "2026-11-20T15:11:10.000Z",
+      "score": 61.4,
+      "engagement": {
+        "likes": 875,
+        "retweets": 66,
+        "replies": 48
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -215,26 +216,26 @@
       "sourceType": "x"
     },
     {
-      "id": "2123479646629183631",
+      "id": "2123879309463228445",
       "type": "tweet",
-      "builder": "Aditya Agarwal",
-      "title": "智能体正在从单个任务转向整个工作，数据也必须随之改变。",
-      "summary": "Aditya Agarwal 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：Agents are moving from single tasks to whole jobs, and the data has to follow. RoleCUA from Fig maps expert roles acr…",
+      "builder": "Peter Yang",
+      "title": "对于那些正在尝试使用 @antigravity for Neon 的用户，这里有一个小提示：1.",
+      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：For those of you trying out @antigravity for Neon, here's a quick tip: 1. Go to https://t.co/GRhlnGkO1i 2. Tap see mo…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "Agents are moving from single tasks to whole jobs, and the data has to follow.",
-      "originalBody": "Agents are moving from single tasks to whole jobs, and the data has to follow. RoleCUA from Fig maps expert roles across months of real work, with every action tied to the task and objective it serves. https://t.co/yVnPhJBOzn",
-      "translatedTitle": "智能体正在从单个任务转向整个工作，数据也必须随之改变。",
-      "translatedBody": "智能体正在从执行单个任务转向完成整个工作，数据也必须随之改变。Fig 的 RoleCUA 能够映射专家在数月实际工作中的角色，并将每个操作与其服务的任务和目标关联起来。https://t.co/yVnPhJBOzn",
+      "originalTitle": "For those of you trying out @antigravity for Neon, here's a quick tip: 1.",
+      "originalBody": "For those of you trying out @antigravity for Neon, here's a quick tip:\n\n1. Go to https://t.co/GRhlnGkO1i\n2. Tap see more and then the share button\n3. Tap Add to Home Screen\n\nThen you can talk to all your Antigravity threads via remote control on mobile.\n\nEven though Antigravity doesn't have a mobile app (yet), I find its remote control actually better than Claude's because all the threads are available by default.",
+      "translatedTitle": "对于那些正在尝试使用 @antigravity for Neon 的用户，这里有一个小提示：1.",
+      "translatedBody": "如果你正在尝试使用 @antigravity for Neon，这里有个小技巧：\n\n1. 访问 https://t.co/GRhlnGkO1i\n\n2. 点击“查看更多”，然后点击分享按钮\n\n3. 点击“添加到主屏幕”\n\n这样你就可以通过手机远程控制所有 Antigravity 对话了。\n\n虽然 Antigravity 目前还没有手机应用，但我发现它的远程控制功能比 Claude 的更好用，因为它默认就包含了所有对话。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/adityaag/status/2123479646629183631",
-      "publishedAt": "2026-11-19T18:12:54.000Z",
-      "score": 42.08,
+      "sourceUrl": "https://x.com/petergyang/status/2123879309463228445",
+      "publishedAt": "2026-11-20T20:41:01.000Z",
+      "score": 52.98,
       "engagement": {
-        "likes": 18,
-        "retweets": 3,
-        "replies": 1
+        "likes": 159,
+        "retweets": 7,
+        "replies": 27
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -243,8 +244,8 @@
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-11-20T06:29:26.095Z",
-    "totalCandidates": 33,
+    "upstreamGeneratedAt": "2026-11-21T06:27:13.995Z",
+    "totalCandidates": 30,
     "textQualifiedCandidates": 14,
     "selectedTweets": 8
   }
