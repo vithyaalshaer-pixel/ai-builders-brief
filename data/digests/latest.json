@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-22",
-  "generatedAt": "2026-11-22T05:53:48.465Z",
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T06:42:56.128Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-11-22",
+  "title": "AI Builders Daily | 2026-11-23",
   "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 30 条候选动态里，筛出 14 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "intro": "已从 22 条候选动态里，筛出 15 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -15,91 +15,58 @@
     {
       "slug": "foundation-models",
       "label": "Foundation Models"
-    },
-    {
-      "slug": "product-ships",
-      "label": "Product Ships"
     }
   ],
   "tweetHighlights": [
     {
-      "id": "2123879031049449791",
+      "id": "2124595496849445079",
       "type": "tweet",
       "builder": "Guillermo Rauch",
-      "title": "当我第一次试用@eve的内部预发布版本时，这是一款个人购物代理软件……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：When I first tried an internal pre-release version of @eve, a personal shopper agent was my \"hello world\". It worked,…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "When I first tried an internal pre-release version of @eve, a personal shopper agen…",
-      "originalBody": "When I first tried an internal pre-release version of @eve, a personal shopper agent was my \"hello world\". It worked, but a lot of the infrastructure was missing.\n\nNow, @agentcardhq exists, models are better, iMessage and WhatsApp eve channels are mature, and performance is vastly improved (without trading off durability and encryption.)\n\nThe result is you can ship a platform of the caliber of Muse / Instinct, that you fully control, on our open intelligence stack. The experience is pure delight. I highly recommend you try this. Run with this template. Make it your own.",
-      "translatedTitle": "当我第一次试用@eve的内部预发布版本时，这是一款个人购物代理软件……",
-      "translatedBody": "当我第一次尝试 @eve 的内部预发布版本时，个人购物代理就是我的“Hello World”。它能运行，但很多基础设施都缺失了。\n\n现在，@agentcardhq 已经存在，模型更完善，iMessage 和 WhatsApp 的 eve 通道也已成熟，性能大幅提升（而且没有牺牲持久性和加密性）。\n\n因此，您可以在我们开放的智能堆栈上构建一个完全由您掌控、媲美 Muse/Instinct 的平台。体验非常棒。我强烈建议您尝试一下。使用这个模板，并根据自己的需求进行调整。",
+      "title": "这款酒经久耐喝。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：This aged extremely well. There's a tweet out there (will likely get deleted soon) of a provider giving you \"free\" in…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "This aged extremely well.",
+      "originalBody": "This aged extremely well.\n\nThere's a tweet out there (will likely get deleted soon) of a provider giving you \"free\" inference of a \"stealth model\" that's \"ZDR\" with millions of views.\n\nThese stealth models are mechanisms of industrial scale data exfiltration to nation state programs, I strongly suspect, and the Dragos research seems to confirm.\n\nImagine explaining to your boss: sorry chief, I *had* to try this really cool ZDR free stealth model… all our secrets, customer data, and code are now in a different continent!\n\nVercel AI Gateway built up tremendous, real-world token volume without taking any of these shortcuts. More to come tomorrow on how we will push the trust, privacy, and security bar even higher.",
+      "translatedTitle": "这款酒经久耐喝。",
+      "translatedBody": "这条推文真是经受住了时间的考验。\n\n网上有一条推文（可能很快就会被删除），说某个供应商提供“免费”的“隐形模型”推理服务，该模型号称“零数据泄露”（ZDR），浏览量已达数百万。\n\n我强烈怀疑，这些隐形模型是向国家级项目大规模窃取数据的机制，而 Dragos 的研究似乎也证实了这一点。\n\n想象一下，你得跟老板解释：对不起，老大，我*不得不*试用一下这个超酷的免费零数据泄露隐形模型……结果我们所有的秘密、客户数据和代码现在都跑到另一个大洲去了！\n\nVercel AI Gateway 并没有走任何捷径，而是积累了巨大的、真实世界的代币交易量。明天我们将详细介绍如何进一步提升信任、隐私和安全标准。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2123879031049449791",
-      "publishedAt": "2026-11-20T20:39:55.000Z",
-      "score": 205.03,
+      "sourceUrl": "https://x.com/rauchg/status/2124595496849445079",
+      "publishedAt": "2026-11-22T20:06:54.000Z",
+      "score": 197.32,
       "engagement": {
-        "likes": 219,
-        "retweets": 13,
-        "replies": 48
+        "likes": 491,
+        "retweets": 21,
+        "replies": 91
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
+        "Foundation Models"
       ],
       "sourceType": "x"
     },
     {
-      "id": "2123943606906138868",
+      "id": "2124551883130114403",
       "type": "tweet",
-      "builder": "Josh Woodward",
-      "title": "哇，这周发货量真大！",
-      "summary": "Josh Woodward 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：Whew, what a week of shipping! A few of us were having fun with Gemini Neon on the Friday afternoon before the holida…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "Whew, what a week of shipping!",
-      "originalBody": "Whew, what a week of shipping! A few of us were having fun with Gemini Neon on the Friday afternoon before the holiday week ahead, and we loved the post from @UFO2002616 so much that we just built it and threw it into prod! \n\nLong click on the model picker on the web and enjoy 🙂 https://t.co/9cT7TekxBs",
-      "translatedTitle": "哇，这周发货量真大！",
-      "translatedBody": "呼，这周发货量真大！在假期前的那个周五下午，我们几个玩了一会儿 Gemini Neon，特别喜欢 @UFO2002616 发的帖子，所以我们就直接把它做出来上线了！\n\n长按网页上的模型选择器，尽情体验吧 🙂 https://t.co/9cT7TekxBs",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/joshwoodward/status/2123943606906138868",
-      "publishedAt": "2026-11-21T00:56:31.000Z",
-      "score": 182.29,
-      "engagement": {
-        "likes": 380,
-        "retweets": 22,
-        "replies": 44
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2123869175085191298",
-      "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "ISO 42001:2023 就像人工智能领域的“SOC2”。",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：ISO 42001:2023 is like the \"SOC2 of AI\". It's the first global, independently audited standard for how companies buil…",
+      "builder": "Sam Altman",
+      "title": "我认为前沿模型开发者应该共同努力建立共享的……",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：\"I believe frontier model developers should jointly endeavour to establish shared norms for how to evaluate such mode…",
       "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "ISO 42001:2023 is like the \"SOC2 of AI\".",
-      "originalBody": "ISO 42001:2023 is like the \"SOC2 of AI\".\n\nIt's the first global, independently audited standard for how companies build, evaluate, monitor and govern AI systems.\n\nWhen you ship on and use Vercel's AI, you now know the infra is audited annually by an accredited third party. https://t.co/8vT5AYUjNd",
-      "translatedTitle": "ISO 42001:2023 就像人工智能领域的“SOC2”。",
-      "translatedBody": "ISO 42001:2023 就像人工智能领域的“SOC2”。\n\n它是首个全球性的、经独立审核的标准，用于规范企业如何构建、评估、监控和管理人工智能系统。\n\n当您使用 Vercel 的人工智能产品时，您可以放心，其基础设施每年都会接受经认可的第三方机构的审核。https://t.co/8vT5AYUjNd",
+      "originalTitle": "\"I believe frontier model developers should jointly endeavour to establish shared n…",
+      "originalBody": "\"I believe frontier model developers should jointly endeavour to establish shared norms for how to evaluate such models and red-team safety cases for them by the time they are first used, including shared transparency standards.\n\nI further propose common limits, based on perplexity and other measurements, that developers are committed to not crossing until our ability to understand and monitor AI behavior achieves a certain concrete milestone (such as the development of a successor to CoT monitors).\n\nThat is, I’d like an industry standard that specifies a first limit on development, measured by some key metric we can track across labs, and what concretely we’d need to achieve before going beyond it.\"",
+      "translatedTitle": "我认为前沿模型开发者应该共同努力建立共享的……",
+      "translatedBody": "我认为，前沿模型开发者应共同努力，在模型首次使用前，就制定评估此类模型及其红队安全案例的通用规范，包括共享的透明度标准。\n\n我进一步建议，基于困惑度和其他指标，设定一些通用的界限，开发者承诺在理解和监控人工智能行为的能力达到某个具体里程碑（例如开发出CoT监控器的后续版本）之前，不会突破这些界限。\n\n也就是说，我希望制定一个行业标准，明确规定开发的第一个界限，该界限可以通过一些我们可以跨实验室追踪的关键指标来衡量，以及在突破该界限之前，我们需要具体实现哪些目标。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2123869175085191298",
-      "publishedAt": "2026-11-20T20:00:45.000Z",
-      "score": 159.77,
+      "sourceUrl": "https://x.com/sama/status/2124551883130114403",
+      "publishedAt": "2026-11-22T17:13:35.000Z",
+      "score": 174.95,
       "engagement": {
-        "likes": 660,
-        "retweets": 26,
-        "replies": 51
+        "likes": 1570,
+        "retweets": 86,
+        "replies": 127
       },
       "matchedFocusAreas": [
         "Foundation Models"
@@ -107,146 +74,167 @@
       "sourceType": "x"
     },
     {
-      "id": "2123843282082132335",
+      "id": "2124654108124848350",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "🔜 为什么 @j_schottenstein 离开 @getdbt 加入 @LangChain，并将其打造成为一家价值 30 亿美元的初创公司……",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：🔜 why @j_schottenstein left @getdbt for @LangChain to build it into a $3B startup… ….and now they are having to rein…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "🔜 why @j_schottenstein left @getdbt for @LangChain to build it into a $3B startup……",
-      "originalBody": "🔜 why @j_schottenstein left @getdbt for @LangChain to build it into a $3B startup…\n\n….and now they are having to reinvent the content, context (knowledge) and software factory from scratch! https://t.co/U5cZHokbhU https://t.co/1ifwj7lNA3",
-      "translatedTitle": "🔜 为什么 @j_schottenstein 离开 @getdbt 加入 @LangChain，并将其打造成为一家价值 30 亿美元的初创公司……",
-      "translatedBody": "🔜 为什么 @j_schottenstein 离开 @getdbt 加入 @LangChain，并将其打造成为一家估值 30 亿美元的初创公司……\n\n……而现在，他们却不得不从零开始重建内容、上下文（知识）和软件工厂！https://t.co/U5cZHokbhU https://t.co/1ifwj7lNA3",
+      "builder": "Guillermo Rauch",
+      "title": "与其引导人工智能关注艺术，我们更应该引导它关注人类可理解性和概念……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：Rather than art, we ought to point AI towards human-understandability and conceptualization. The Riemann proof should…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "Rather than art, we ought to point AI towards human-understandability and conceptua…",
+      "originalBody": "Rather than art, we ought to point AI towards human-understandability and conceptualization.\n\nThe Riemann proof should come with a paper, a walkthrough, new concepts and insights.\n\nMuch like the intermediate representation of high-level code is desirable even in a world where LLM will go straight to CPU instructions output.",
+      "translatedTitle": "与其引导人工智能关注艺术，我们更应该引导它关注人类可理解性和概念……",
+      "translatedBody": "与其追求艺术，我们更应该引导人工智能走向人类可理解性和概念化。\n\n黎曼证明应该附带一篇论文、一份详尽的讲解、新的概念和见解。\n\n就像即使在LLM最终会直接输出CPU指令的世界里，高级代码的中间表示形式仍然是必要的一样。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2123843282082132335",
-      "publishedAt": "2026-11-20T18:17:52.000Z",
-      "score": 127.03,
+      "sourceUrl": "https://x.com/rauchg/status/2124654108124848350",
+      "publishedAt": "2026-11-22T23:59:48.000Z",
+      "score": 170.73,
       "engagement": {
-        "likes": 94,
-        "retweets": 9,
-        "replies": 44
+        "likes": 127,
+        "retweets": 7,
+        "replies": 62
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2124583459356373052",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "OpenAI 提议将困惑度作为行业自律的通用指标，并且……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：OpenAI proposes perplexity as the universal metric for industry self regulation and pacing (as opposed to eg FLOPS) “…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "OpenAI proposes perplexity as the universal metric for industry self regulation and…",
+      "originalBody": "OpenAI proposes perplexity as the universal metric for industry self regulation and pacing (as opposed to eg FLOPS)\n\n“Given that the main way new surprising capabilities emerge is by progress on compression, a measure rooted in perplexity could give us a shared benchmark for general intelligence, regardless of the degree of automation of the development process. Extrapolating from recent progress, we should expect further transformative capabilities as we enter the ~0.68-0.7 log-perplexity window.”\n\nthis chart is one of the most beautiful ways to tell the story of the last 4 years. it also shows that a lot of the post training issues we debate is kinda the B plot to the overall A plot of large scale pretrain progress.",
+      "translatedTitle": "OpenAI 提议将困惑度作为行业自律的通用指标，并且……",
+      "translatedBody": "OpenAI 提议将困惑度作为行业自律和发展速度的通用指标（而非例如 FLOPS）。\n\n“鉴于令人惊叹的新能力主要通过压缩技术的进步而涌现，基于困惑度的指标可以为通用智能提供一个共享的基准，而无需考虑开发过程的自动化程度。根据近期的进展推断，随着困惑度值进入 0.68-0.7 左右的区间，我们应该期待出现更多变革性的能力。”\n\n这张图表以最精美的方式展现了过去四年的发展历程。它也表明，我们讨论的许多训练后问题，实际上是大规模预训练进展整体图的补充部分。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2124583459356373052",
+      "publishedAt": "2026-11-22T19:19:04.000Z",
+      "score": 166.16,
+      "engagement": {
+        "likes": 112,
+        "retweets": 2,
+        "replies": 82
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2124558713646428663",
+      "type": "tweet",
+      "builder": "Sam Altman",
+      "title": "根据白宫协议，各实验室同意制定标准和最佳实践……",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验：Labs agreed under the White House Accords to establish standards and best practices to improve the safety of their sy…",
+      "whyItMatters": "Sam Altman 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "Labs agreed under the White House Accords to establish standards and best practices…",
+      "originalBody": "Labs agreed under the White House Accords to establish standards and best practices to improve the safety of their systems, and I believe a discussion about the use of perplexity can further these goals.",
+      "translatedTitle": "根据白宫协议，各实验室同意制定标准和最佳实践……",
+      "translatedBody": "根据白宫协议，各实验室同意制定标准和最佳实践来提高其系统的安全性，我相信关于困惑度使用的讨论可以进一步实现这些目标。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/sama/status/2124558713646428663",
+      "publishedAt": "2026-11-22T17:40:44.000Z",
+      "score": 147.7,
+      "engagement": {
+        "likes": 966,
+        "retweets": 34,
+        "replies": 78
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2123686350410912145",
+      "id": "2124730733147390347",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "今年，我们的模型能力有了显著提升，不再需要告诉代理……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：This year we’ve had a clear jump in model capability where instead of telling agents precisely what to do, it’s bette…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "This year we’ve had a clear jump in model capability where instead of telling agent…",
-      "originalBody": "This year we’ve had a clear jump in model capability where instead of telling agents precisely what to do, it’s better to use these systems to solve problems you can’t easily define yourself. \n\nA year ago you’d need to very clearly tell agents the how to design and develop your product idea, or there was almost no chance of success. Now, increasingly, the agent likely can come up with a better implementation than you’d have thought of because you can have it connect the dots between a far greater solution space than you can. \n\nThis will be increasingly true in basically every domain of kneeler work. We’re going to see this impact in finance, legal, life sciences, cyber, and many other spaces where no person can hold onto all the available relevant industry knowledge to think of the best solution. \n\nUltimately this is going to reshape our relationship with AI and how we deploy agents in our work. It won’t be about explicitly telling them, but instead giving them goals and enough freedom to pursue them in the best way they can.",
-      "translatedTitle": "今年，我们的模型能力有了显著提升，不再需要告诉代理……",
-      "translatedBody": "今年，模型能力有了显著提升。与其直接告诉智能体该做什么，不如利用这些系统来解决那些你自身难以定义的难题。\n\n一年前，你需要非常清晰地告诉智能体如何设计和开发你的产品创意，否则几乎不可能成功。而现在，智能体更有可能提出比你预想的更好的实现方案，因为它能够连接比你更广阔的解决方案空间。\n\n这种情况在几乎所有需要人工干预的领域都将日益普遍。我们将在金融、法律、生命科学、网络安全以及许多其他领域看到这种影响，在这些领域，没有人能够掌握所有相关的行业知识来思考最佳解决方案。\n\n最终，这将重塑我们与人工智能的关系，以及我们在工作中部署智能体的方式。不再是明确地告诉它们该做什么，而是赋予它们目标，并给予它们足够的自由去以最佳方式去实现这些目标。",
+      "builder": "Swyx",
+      "title": "令人难以置信的创始人创业历程详解，从创立到收购，包括注册流程……",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：incredible founder journey breakdown from founding to acquisition complete with regrets and advice. not enough founde…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "incredible founder journey breakdown from founding to acquisition complete with reg…",
+      "originalBody": "incredible founder journey breakdown from founding to acquisition complete with regrets and advice. not enough founders document this! please do, it saves others potentially a lot of pain\n\nhighlights \n- @theallinpod top ticking saas market\n- IP assignment woes\n- do not brag about your SEO\n- how to draw @naval’s interest\n- hiring advice and layoff advice\n- how to fish for an acquisition\n- how to clear roadblocks for an acquisition\n- there are CTO coaches??",
+      "translatedTitle": "令人难以置信的创始人创业历程详解，从创立到收购，包括注册流程……",
+      "translatedBody": "令人难以置信的创始人创业历程详解，从创立到被收购，包含遗憾和建议。很少有创始人会记录这段经历！请大家多多分享，这能帮助其他人避免很多痛苦。\n\n亮点：\n\n- @theallinpod 的热门 SaaS 市场\n\n- 知识产权转让的难题\n\n- 不要吹嘘你的 SEO\n\n- 如何吸引 @naval 的兴趣\n\n- 招聘和裁员建议\n\n- 如何促成收购\n\n- 如何扫清收购障碍\n\n- 居然有 CTO 教练？",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2123686350410912145",
-      "publishedAt": "2026-11-20T07:54:16.000Z",
-      "score": 109.27,
+      "sourceUrl": "https://x.com/swyx/status/2124730733147390347",
+      "publishedAt": "2026-11-23T05:04:17.000Z",
+      "score": 146.25,
       "engagement": {
-        "likes": 407,
-        "retweets": 32,
-        "replies": 164
+        "likes": 47,
+        "retweets": 4,
+        "replies": 28
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2124590240539259381",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "按此标准衡量，今年人工智能领域取得的进展比 2022-2025 年的总和还要多。",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：by this metric we have seen more ai progress this year than in 2022-2025. is that true? doesn’t suuuper feel like it…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "by this metric we have seen more ai progress this year than in 2022-2025.",
+      "originalBody": "by this metric we have seen more ai progress this year than in 2022-2025. is that true? doesn’t suuuper feel like it but who knows we could be cooked by algorithm and/or metric only translates at frontier math level",
+      "translatedTitle": "按此标准衡量，今年人工智能领域取得的进展比 2022-2025 年的总和还要多。",
+      "translatedBody": "按这个标准来看，我们今年看到的AI进展比2022-2025年还要多。真是这样吗？感觉不太像，但谁知道呢，我们或许已经被算法和/或指标“烤熟”了，或者这个指标只适用于前沿数学领域。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2124590240539259381",
+      "publishedAt": "2026-11-22T19:46:00.000Z",
+      "score": 128.4,
+      "engagement": {
+        "likes": 7,
+        "retweets": 1,
+        "replies": 6
+      },
+      "matchedFocusAreas": [],
+      "sourceType": "x"
+    },
+    {
+      "id": "2124604574606795002",
+      "type": "tweet",
+      "builder": "Amjad Masad",
+      "title": "桌面人工智能应用通常是安全和隐私方面的噩梦。",
+      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：Desktop AI apps are generally a security & privacy nightmare. We worked with Windows to ship a world-class security m…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "Desktop AI apps are generally a security & privacy nightmare.",
+      "originalBody": "Desktop AI apps are generally a security & privacy nightmare.\n\nWe worked with Windows to ship a world-class security model for Replit Desktop.\n\nWhich is why Christie’s, the world’s preeminent custodian of rare art, chose Replit for secure agentic work! https://t.co/58YGxzHp1o",
+      "translatedTitle": "桌面人工智能应用通常是安全和隐私方面的噩梦。",
+      "translatedBody": "桌面人工智能应用通常存在安全和隐私方面的隐患。\n\n我们与 Windows 合作，为 Replit Desktop 打造了世界一流的安全模型。\n\n正因如此，世界顶级艺术品收藏机构佳士得才选择 Replit 来开展安全的智能代理工作！https://t.co/58YGxzHp1o",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/amasad/status/2124604574606795002",
+      "publishedAt": "2026-11-22T20:42:58.000Z",
+      "score": 93.89,
+      "engagement": {
+        "likes": 201,
+        "retweets": 11,
+        "replies": 57
       },
       "matchedFocusAreas": [
         "Coding Agents",
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2123972492645777629",
-      "type": "tweet",
-      "builder": "Madhu Guru",
-      "title": "在钦奈，我应该结识哪些最有趣的人工智能领域人士？",
-      "summary": "Madhu Guru 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：Who are the most interesting AI people I should meet in Chennai? I’ll be in town end of Nov - 1st wk Dec. about me: I…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
-      "originalTitle": "Who are the most interesting AI people I should meet in Chennai?",
-      "originalBody": "Who are the most interesting AI people I should meet in Chennai? \n\nI’ll be in town end of Nov - 1st wk Dec.\n\nabout me: \nI’m at Meta building AI products now; previously led product for Gemini, Veo and Nano Banana models at Google.\n\nschedule is tight but I should be able to squeeze in a few meetings.",
-      "translatedTitle": "在钦奈，我应该结识哪些最有趣的人工智能领域人士？",
-      "translatedBody": "在钦奈，我应该会见哪些最有趣的AI人士？\n\n我将于11月底至12月初在钦奈。\n\n关于我：\n\n我现在在Meta公司负责AI产品开发；之前在谷歌负责Gemini、Veo和Nano Banana模型的产品开发。\n\n行程安排比较紧凑，但我应该能挤出时间参加几个会议。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/realmadhuguru/status/2123972492645777629",
-      "publishedAt": "2026-11-21T02:51:18.000Z",
-      "score": 76.9,
-      "engagement": {
-        "likes": 112,
-        "retweets": 6,
-        "replies": 33
-      },
-      "matchedFocusAreas": [
-        "Foundation Models",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2123796297836896292",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "你不需要征收资产扣押税，你需要鼓励创新思维和……",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：You don’t need an asset seizure tax You need to encourage building new ideas and startups in California And then you…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "You don’t need an asset seizure tax You need to encourage building new ideas and st…",
-      "originalBody": "You don’t need an asset seizure tax\n\nYou need to encourage building new ideas and startups in California\n\nAnd then you need a government that spends it wisely on things that help the people\n\nThat’s it. The ivory tower academics and the SEIU-HNW union bosses have it wrong. https://t.co/mQ2pO8EMLG",
-      "translatedTitle": "你不需要征收资产扣押税，你需要鼓励创新思维和……",
-      "translatedBody": "你不需要资产扣押税\n\n你需要鼓励在加州发展新理念和初创企业\n\n然后你需要一个能明智地把钱花在造福人民上的政府\n\n就是这样。象牙塔里的学者和SEIU-HNW工会的头目们都错了。https://t.co/mQ2pO8EMLG",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2123796297836896292",
-      "publishedAt": "2026-11-20T15:11:10.000Z",
-      "score": 61.4,
-      "engagement": {
-        "likes": 875,
-        "retweets": 66,
-        "replies": 48
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2123879309463228445",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "对于那些正在尝试使用 @antigravity for Neon 的用户，这里有一个小提示：1.",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：For those of you trying out @antigravity for Neon, here's a quick tip: 1. Go to https://t.co/GRhlnGkO1i 2. Tap see mo…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "For those of you trying out @antigravity for Neon, here's a quick tip: 1.",
-      "originalBody": "For those of you trying out @antigravity for Neon, here's a quick tip:\n\n1. Go to https://t.co/GRhlnGkO1i\n2. Tap see more and then the share button\n3. Tap Add to Home Screen\n\nThen you can talk to all your Antigravity threads via remote control on mobile.\n\nEven though Antigravity doesn't have a mobile app (yet), I find its remote control actually better than Claude's because all the threads are available by default.",
-      "translatedTitle": "对于那些正在尝试使用 @antigravity for Neon 的用户，这里有一个小提示：1.",
-      "translatedBody": "如果你正在尝试使用 @antigravity for Neon，这里有个小技巧：\n\n1. 访问 https://t.co/GRhlnGkO1i\n\n2. 点击“查看更多”，然后点击分享按钮\n\n3. 点击“添加到主屏幕”\n\n这样你就可以通过手机远程控制所有 Antigravity 对话了。\n\n虽然 Antigravity 目前还没有手机应用，但我发现它的远程控制功能比 Claude 的更好用，因为它默认就包含了所有对话。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2123879309463228445",
-      "publishedAt": "2026-11-20T20:41:01.000Z",
-      "score": 52.98,
-      "engagement": {
-        "likes": 159,
-        "retweets": 7,
-        "replies": 27
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
+        "Foundation Models"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-11-21T06:27:13.995Z",
-    "totalCandidates": 30,
-    "textQualifiedCandidates": 14,
+    "upstreamGeneratedAt": "2026-11-23T06:38:54.921Z",
+    "totalCandidates": 22,
+    "textQualifiedCandidates": 15,
     "selectedTweets": 8
   }
 }
