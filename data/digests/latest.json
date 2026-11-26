@@ -1,10 +1,10 @@
 {
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T07:45:57.010Z",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T07:37:21.845Z",
   "timezone": "Asia/Shanghai",
-  "title": "AI Builders Daily | 2026-11-25",
-  "summary": "今天最值得看的是 Guillermo Rauch 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
-  "intro": "已从 34 条候选动态里，筛出 15 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
+  "title": "AI Builders Daily | 2026-11-26",
+  "summary": "今天最值得看的是 Andrej Karpathy 的文字动态，全部内容已按中文优先的信息卡方式整理在站内。",
+  "intro": "已从 42 条候选动态里，筛出 19 条纯文字相关内容，再选出最值得你阅读的 builder 更新。",
   "ownerName": "Zara",
   "briefName": "AI Builders Daily",
   "focusAreas": [
@@ -23,26 +23,109 @@
   ],
   "tweetHighlights": [
     {
-      "id": "2125320020666565096",
+      "id": "2125779541952246039",
       "type": "tweet",
-      "builder": "Guillermo Rauch",
-      "title": "https://t.co/3Z4NESzNKd 之所以是一个命令行界面（在这个时代！），主要原因是它……",
-      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：The main reason https://t.co/3Z4NESzNKd is a CLI (in this day and age!) is that it's a thin wrapper around 𝚕𝚒𝚋𝚏𝚡…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "The main reason https://t.co/3Z4NESzNKd is a CLI (in this day and age!) is that it'…",
-      "originalBody": "The main reason https://t.co/3Z4NESzNKd is a CLI (in this day and age!) is that it's a thin wrapper around 𝚕𝚒𝚋𝚏𝚡.\n\nThe goal is to produce the smallest and most intelligent coding agent kernel, that's embeddable on any surface:  browsers, servers, mobile, desktop, OS, ADEs… https://t.co/L51jXUhdBY https://t.co/ksrRsLFHu3",
-      "translatedTitle": "https://t.co/3Z4NESzNKd 之所以是一个命令行界面（在这个时代！），主要原因是它……",
-      "translatedBody": "https://t.co/3Z4NESzNKd 之所以是一个命令行界面（在这个时代！），主要原因是它只是对 𝚕𝚒𝚋𝚏𝚡 的一个轻量级封装。\n\n我们的目标是打造最小巧、最智能的编码代理内核，使其能够嵌入任何平台：浏览器、服务器、移动设备、桌面电脑、操作系统、应用开发环境…… https://t.co/L51jXUhdBY https://t.co/ksrRsLFHu3",
+      "builder": "Andrej Karpathy",
+      "title": "我请克劳德用来自美国的真实数据填充一张类似《文明》的游戏地图。",
+      "summary": "Andrej Karpathy 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：I asked Claude to populate a Civilization-style game map with real data from the US. Opus 5.5 downloaded and parse a…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
+      "originalTitle": "I asked Claude to populate a Civilization-style game map with real data from the US.",
+      "originalBody": "I asked Claude to populate a Civilization-style game map with real data from the US. Opus 5.5 downloaded and parse a ton of public data and 7 hours and 45K lines of code later... it works :)\n\n- 31 real data sources including Census, BEA, BLS, EIA, NOAA, USGS, DoD, NPS, FAA, FEMA, CDC...\n- Real elevation, land cover, GDP, jobs, power plants, mines, ports, airports, bases, parks, universities, freight flows, disasters; all reconciled onto one 25 km hex grid.\n- The data is converted into Civilization language, e.g. Gold yield is GDP. A city's districts are its real industry specializations: San Jose gets a Campus, Detroit is \"Motor city\". Its citizens are its real workforce: 1 in 4 San Jose workers are engineers, coders or scientists, against 1 in 14 nationally. Wonders are chosen by published rules, such as national parks by visitor numbers and universities by R&D spending, etc etc.\n- 19 lenses (income, degrees, faith, disasters…), a City View for 524 metros, and nine advisors plus an Explorer. The Explorer turns any column for any of 3,100+ counties into a table and scatter plot, linked to the map.\n- Claude decided to skip a few states and territories sry\n- Built using Claude Code desktop app, Opus 5.5 on medium and turning on ultracode.\n\nIt's deployed here: https://t.co/QMhmafXMj5 and the \"?\" has the source link too. I don't exactly know where I was going with this but it's really fun to browse and play with. Possibly it can be expanded or built into a game. I only have half of my weekly Claude quote left though so someone else will have to take over :D. Claude also made a trailer:",
+      "translatedTitle": "我请克劳德用来自美国的真实数据填充一张类似《文明》的游戏地图。",
+      "translatedBody": "我请 Claude 用美国真实数据制作一张类似《文明》的游戏地图。Opus 5.5 下载并解析了大量公开数据，经过 7 小时和 4.5 万行代码的编写……终于成功了 :)\n\n- 使用了 31 个真实数据源，包括人口普查局、美国经济分析局 (BEA)、美国劳工统计局 (BLS)、美国能源信息署 (EIA)、美国国家海洋和大气管理局 (NOAA)、美国地质调查局 (USGS)、美国国防部 (DoD)、美国国家公园管理局 (NPS)、美国联邦航空管理局 (FAA)、联邦紧急事务管理署 (FEMA)、美国疾病控制与预防中心 (CDC) 等。\n\n- 数据包括真实的海拔、土地覆盖、GDP、就业岗位、发电厂、矿山、港口、机场、军事基地、公园、大学、货运量和灾害信息；所有数据都被整合到一个 25 公里的六边形网格中。\n\n- 数据被转换成《文明》游戏中的语言，例如，黄金产量代表 GDP。城市的行政区划代表其真实的产业特色：圣何塞是“校园”，底特律是“汽车城”。市民代表其真实的劳动力：圣何塞每 4 名劳动者中就有 1 名是工程师、程序员或科学家，而全国平均水平为 1/14。奇观的评选遵循既定规则，例如国家公园按游客数量评选，大学按研发支出评选等等。\n\n- 包含 19 个镜头（收入、学历、信仰、灾害……）、524 个都市的城市视图、9 位顾问以及一位探索者。探索者可以将 3100 多个县的任意列数据转换为表格和散点图，并链接到地图。\n\n- 克劳德决定跳过一些州和地区，抱歉。\n\n- 使用 Claude Code 桌面应用程序、Opus 5.5（中等画质）和启用超高清代码构建。\n\n部署地址：https://t.co/QMhmafXMj5 “？” 也包含源代码链接。我不太清楚自己最初的目标是什么，但浏览和体验真的很有趣。或许可以扩展或开发成游戏。不过，我每周的克劳德语录只剩一半了，所以得由其他人来接手了 :D。克劳德还制作了一个预告片：",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/rauchg/status/2125320020666565096",
-      "publishedAt": "2026-11-24T20:05:54.000Z",
-      "score": 167.38,
+      "sourceUrl": "https://x.com/karpathy/status/2125779541952246039",
+      "publishedAt": "2026-11-26T02:31:52.000Z",
+      "score": 217.7,
       "engagement": {
-        "likes": 237,
-        "retweets": 3,
-        "replies": 50
+        "likes": 9223,
+        "retweets": 774,
+        "replies": 582
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Product Ships"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2125627281230205435",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "“按任务计算成本是一个具有误导性的指标；真正稀缺的资源是人力，而不是……”",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：\"Cost per task is a misleading metric; the scarce resource is human attention, not token cost.\" beware the pareto fro…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
+      "originalTitle": "\"Cost per task is a misleading metric; the scarce resource is human attention, not…",
+      "originalBody": "\"Cost per task is a misleading metric; the scarce resource is human attention, not token cost.\"\n\nbeware the pareto frontier charts that make you believe you can reduce every model to 2 numbers; it can hide some AWFUL reliability issues👏 https://t.co/ICtqiXhE4f https://t.co/6LJLlCP8tr",
+      "translatedTitle": "“按任务计算成本是一个具有误导性的指标；真正稀缺的资源是人力，而不是……”",
+      "translatedBody": "“单项任务成本是一个误导性的指标；真正稀缺的资源是人力，而不是代币成本。”\n\n警惕那些让你误以为可以将所有模型简化为两个数字的帕累托前沿图；它们可能会掩盖一些糟糕的可靠性问题👏 https://t.co/ICtqiXhE4f https://t.co/6LJLlCP8tr",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2125627281230205435",
+      "publishedAt": "2026-11-25T16:26:50.000Z",
+      "score": 191.77,
+      "engagement": {
+        "likes": 289,
+        "retweets": 14,
+        "replies": 159
+      },
+      "matchedFocusAreas": [
+        "Coding Agents",
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2125638790593274259",
+      "type": "tweet",
+      "builder": "Sam Altman",
+      "title": "我们正在测试私有推理（Private Inference），这是我们作为 OpenAI 私有计划的一部分推出的最新产品……",
+      "summary": "Sam Altman 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：We’re now testing Private Inference, our latest offering as part of OpenAI Private Intelligence, with a small group o…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
+      "originalTitle": "We’re now testing Private Inference, our latest offering as part of OpenAI Private…",
+      "originalBody": "We’re now testing Private Inference, our latest offering as part of OpenAI Private Intelligence, with a small group of customers.\n\nStronger privacy protections will make frontier AI useful for a lot more work, and business privacy is important for a healthy ecosystem. Reach out to @shekar4x if interested!\n\n(Also, ZDR with Private Safety Processing enables automated safety reviews without giving OpenAI personnel access to the underlying content.)",
+      "translatedTitle": "我们正在测试私有推理（Private Inference），这是我们作为 OpenAI 私有计划的一部分推出的最新产品……",
+      "translatedBody": "我们目前正在与一小部分客户测试“私有推理”（Private Inference），这是我们作为 OpenAI 私有智能（Private Intelligence）的一部分推出的最新产品。\n\n更强大的隐私保护将使前沿人工智能能够应用于更多领域，而商业隐私对于健康的生态系统至关重要。如有兴趣，请联系 @shekar4x！\n\n（此外，ZDR 与私有安全处理（Private Safety Processing）相结合，可在不向 OpenAI 人员授予底层内容访问权限的情况下，实现自动化安全审查。）",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/sama/status/2125638790593274259",
+      "publishedAt": "2026-11-25T17:12:34.000Z",
+      "score": 182.67,
+      "engagement": {
+        "likes": 7997,
+        "retweets": 420,
+        "replies": 879
+      },
+      "matchedFocusAreas": [
+        "Foundation Models"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2125685667833520237",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "我们再次将工作流程速度提高了 10 倍。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：We made workflows 10x faster again. Generally speaking, workflows were plenty fast already! For harness durability (@…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "We made workflows 10x faster again.",
+      "originalBody": "We made workflows 10x faster again. Generally speaking, workflows were plenty fast already!\n\nFor harness durability (@eve, libfx, pi, opencode…), this is a big deal, as it crushes latency in between turns.\n\nUpgrade to 𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠@𝚕𝚊𝚝𝚎𝚜𝚝. No code changes. https://t.co/GmvGi7Ryh9",
+      "translatedTitle": "我们再次将工作流程速度提高了 10 倍。",
+      "translatedBody": "我们再次将工作流程速度提升了 10 倍。总的来说，工作流程原本就已经非常快了！\n\n对于框架持久性（例如 @eve、libfx、pi、opencode 等）而言，这意义重大，因为它能大幅降低回合间的延迟。\n\n升级至 𝚠𝚘𝚛𝚔𝚏𝚕𝚘𝚠@𝚕𝚊𝚝𝚎𝚜𝚝。无需修改代码。https://t.co/GmvGi7Ryh9",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2125685667833520237",
+      "publishedAt": "2026-11-25T20:18:51.000Z",
+      "score": 168.76,
+      "engagement": {
+        "likes": 292,
+        "retweets": 8,
+        "replies": 53
       },
       "matchedFocusAreas": [
         "Coding Agents"
@@ -50,202 +133,117 @@
       "sourceType": "x"
     },
     {
-      "id": "2125431392226148670",
+      "id": "2125650675665432995",
       "type": "tweet",
-      "builder": "Swyx",
-      "title": "John 这里也提供了一些有用的信息：- 本地云环境和沙箱 - 会话与对话…",
-      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：also useful here from John: - local-cloud envs & sandboxes - session vs conversation store - user approval inbox - st…",
-      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
-      "originalTitle": "also useful here from John: - local-cloud envs & sandboxes - session vs conversatio…",
-      "originalBody": "also useful here from John:\n\n- local-cloud envs & sandboxes\n- session vs conversation store\n- user approval inbox\n- stream listeners\n- artifacts for everyone\n- all configurations of dashboard \n\nhttps://t.co/Udf0Ex5Znn",
-      "translatedTitle": "John 这里也提供了一些有用的信息：- 本地云环境和沙箱 - 会话与对话…",
-      "translatedBody": "John 还分享了一些实用技巧：\n\n- 本地云环境和沙箱\n\n- 会话存储与对话存储\n\n- 用户审批收件箱\n\n- 流监听器\n\n- 面向所有人的工件\n\n- 仪表盘的所有配置\n\nhttps://t.co/Udf0Ex5Znn",
+      "builder": "Guillermo Rauch",
+      "title": "随着人工智能变得越来越智能，实现细节变得越来越模糊：权限、代码差异、通信……",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：As AI gets smarter, implementation details blur away: permissions, code diffs, commands, tool calls… The harness itse…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "As AI gets smarter, implementation details blur away: permissions, code diffs, comm…",
+      "originalBody": "As AI gets smarter, implementation details blur away: permissions, code diffs, commands, tool calls…\n\nThe harness itself blurs away. It's a high-performance vehicle for code and command execution, and a durable storage engine.\n\nAll of fx still fits in 6mb: subagents, MCP, skills, sessions, durability, ACP, TUI, network transport…",
+      "translatedTitle": "随着人工智能变得越来越智能，实现细节变得越来越模糊：权限、代码差异、通信……",
+      "translatedBody": "随着人工智能变得越来越智能，实现细节逐渐模糊：权限、代码差异、命令、工具调用……\n\n框架本身也变得模糊不清。它是一个高性能的代码和命令执行载体，以及一个持久的存储引擎。\n\nfx 的所有功能仍然只占用 6MB 的空间：子代理、MCP、技能、会话、持久性、ACP、TUI、网络传输……",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/swyx/status/2125431392226148670",
-      "publishedAt": "2026-11-25T03:28:27.000Z",
-      "score": 134.32,
+      "sourceUrl": "https://x.com/rauchg/status/2125650675665432995",
+      "publishedAt": "2026-11-25T17:59:48.000Z",
+      "score": 165.48,
       "engagement": {
-        "likes": 5,
-        "retweets": 0,
-        "replies": 7
+        "likes": 206,
+        "retweets": 3,
+        "replies": 73
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2125482861033824410",
+      "type": "tweet",
+      "builder": "Guillermo Rauch",
+      "title": "𝚕𝚜𝚡: 终端中的 Finder。",
+      "summary": "Guillermo Rauch 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：𝚕𝚜𝚡: Finder in the terminal. One-shotted with fx and Gemini Neon + DeepSeek subagents⁰. I instructed fx to use the…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
+      "originalTitle": "𝚕𝚜𝚡: Finder in the terminal.",
+      "originalBody": "𝚕𝚜𝚡: Finder in the terminal.\n\nOne-shotted with fx and Gemini Neon + DeepSeek subagents⁰.\n\nI instructed fx to use the Kitty graphics protocol¹ and build inline and interactive modes. It implemented CLI Quick Look of its own volition 😁\n\n⁰ DS actually did all the heavy lifting. This was very cheap! I just told it to use DS 1017 fast subagents.\n¹ This allows a CLI to essentially render anything! A full OS, if you will. I will.",
+      "translatedTitle": "𝚕𝚜𝚡: 终端中的 Finder。",
+      "translatedBody": "𝚕𝚜𝚡: 终端中的 Finder。\n\n使用 fx 和 Gemini Neon + DeepSeek 子代理⁰ 一次性完成。\n\n我指示 fx 使用 Kitty 图形协议¹ 并构建内联和交互模式。它自发地实现了 CLI 快速查看功能 😁\n\n⁰ 实际上，DS 完成了所有繁重的工作。这非常省钱！我只是告诉它使用 DS 1017 快速子代理。\n\n¹ 这使得 CLI 几乎可以渲染任何内容！如果你愿意，可以把它看作是一个完整的操作系统。我会的。",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/rauchg/status/2125482861033824410",
+      "publishedAt": "2026-11-25T06:52:58.000Z",
+      "score": 160.87,
+      "engagement": {
+        "likes": 709,
+        "retweets": 32,
+        "replies": 134
+      },
+      "matchedFocusAreas": [
+        "Coding Agents"
+      ],
+      "sourceType": "x"
+    },
+    {
+      "id": "2125638081848250634",
+      "type": "tweet",
+      "builder": "Swyx",
+      "title": "对于新媒体创始人来说，眼睁睁看着传统媒体迅速消亡，真的非常令人痛心。",
+      "summary": "Swyx 的最新观点聚焦在可执行的一线经验：really hurtful to be a new media founder when old media is dying this quickly. like; its not a \"haha they suck this i…",
+      "whyItMatters": "Swyx 仍然是高信号来源，值得保留在每日观察列表里。",
+      "originalTitle": "really hurtful to be a new media founder when old media is dying this quickly.",
+      "originalBody": "really hurtful to be a new media founder when old media is dying this quickly.\n\nlike; its not a \"haha they suck this is a skill issue\" thing, it's a \"we need to figure out what they couldn't with 31 years of experience\" https://t.co/ampl4QdDGU https://t.co/Gi9jyxD3Pi",
+      "translatedTitle": "对于新媒体创始人来说，眼睁睁看着传统媒体迅速消亡，真的非常令人痛心。",
+      "translatedBody": "对于新媒体创始人来说，看到传统媒体如此迅速地消亡，真的非常难受。\n\n这不仅仅是“哈哈，他们太烂了，这是技术问题”的问题，而是“我们需要找到他们凭借31年经验都做不到的事情”的问题。https://t.co/ampl4QdDGU https://t.co/Gi9jyxD3Pi",
+      "translationProvider": "google",
+      "translationStatus": "fallback_google",
+      "sourcePreviewType": "full_text",
+      "sourceUrl": "https://x.com/swyx/status/2125638081848250634",
+      "publishedAt": "2026-11-25T17:09:45.000Z",
+      "score": 133.27,
+      "engagement": {
+        "likes": 53,
+        "retweets": 1,
+        "replies": 26
       },
       "matchedFocusAreas": [],
       "sourceType": "x"
     },
     {
-      "id": "2125442246543814686",
+      "id": "2125784147889393806",
       "type": "tweet",
-      "builder": "Aaron Levie",
-      "title": "一年前这听起来似乎不太可能，但现在却变得越来越合理……",
-      "summary": "Aaron Levie 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models / Product Ships：This wouldn’t have sounded possible a year ago, but it’s becoming much more reasonable now that you can get 10X outpu…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models、Product Ships。",
-      "originalTitle": "This wouldn’t have sounded possible a year ago, but it’s becoming much more reasona…",
-      "originalBody": "This wouldn’t have sounded possible a year ago, but it’s becoming much more reasonable now that you can get 10X output gains based on the latest in AI model and harness progress. The result is that teams within the same company are driving very different levels of output based on how they’ve adopted AI.\n\nThis is a different phenomenon from other tech. Typically in the economy you think of technology adoption rates on a per firm basis, because the company generally adopts a relatively standardized approach to doing the new tech thing. Like “that company has gone digital or adopted the cloud”. So generally the uplift across teams is more or less the same across teams. \n\nAI is starting to look quite different. Even within the same company you can have a 10X delta between the lowest and highest adopters of AI and the impact they’re seeing. The teams that are able to actually figure out how to redesign their processes to best deploy agents in their workflows can see up to an order of magnitude jump in productivity depending on the job function.\n\nRight now this is heavily concentrated in coding, but more work will become coding adjacent so we can expect similar results elsewhere too. This is going to definitely lead to some wild dynamics within companies.",
-      "translatedTitle": "一年前这听起来似乎不太可能，但现在却变得越来越合理……",
-      "translatedBody": "一年前这听起来似乎不太可能，但如今，基于最新的人工智能模型并利用其发展趋势，实现 10 倍的产出提升已变得切实可行。结果是，同一公司内的不同团队，由于对人工智能的采用程度不同，产出水平也存在显著差异。\n\n这与其他技术领域的现象截然不同。通常，在经济领域，人们会以公司为单位来衡量技术采用率，因为公司通常会采用相对标准化的方式来应用新技术，例如“该公司已实现数字化或采用云计算”。因此，各团队的提升幅度通常大同小异。\n\n但人工智能领域的情况却大相径庭。即使在同一家公司内，人工智能采用程度最低和最高的团队，其所取得的成效也可能相差 10 倍。那些能够真正找到方法重新设计流程，从而在工作流程中最佳部署人工智能代理的团队，其生产力可能会提升一个数量级，具体取决于其工作职能。\n\n目前这种情况主要集中在编码领域，但未来会有更多与编码相关的工作出现，因此我们可以预期其他领域也会出现类似的情况。这无疑会给公司内部带来一些剧烈的变化。",
+      "builder": "Thibault Sottiaux",
+      "title": "我们在 GPT-6.2 发布时犯了一个计费错误，错误地对 GPT-6.2 进行了折扣……",
+      "summary": "Thibault Sottiaux 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models / Product Ships：We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users…",
+      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models、Product Ships。",
+      "originalTitle": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2…",
+      "originalBody": "We made a billing mistake at launch of GPT-6.2 that incorrectly discounted GPT-6.2 Astra and Sol usage for most users. \n\nWe’ve fixed this now, so the same work will use more of your plan’s usage allowance. Comparing to last week, you will reach your limits 40% faster on GPT-6.2 Astra and 25% faster on Sol. You should still see these go further in usage compared to 6 Astra and 6.1 Sol. Other models weren’t affected, and we won’t charge you for the difference on past usage.\n\nAs a small token to apologize for the mistake, we’ll be adding one banked reset for everyone on Go, Plus, Pro, and Business.",
+      "translatedTitle": "我们在 GPT-6.2 发布时犯了一个计费错误，错误地对 GPT-6.2 进行了折扣……",
+      "translatedBody": "我们在 GPT-6.2 发布时出现了一个计费错误，导致大多数用户的 GPT-6.2 Astra 和 Sol 使用量被错误地扣除。\n\n我们现在已经修复了这个问题，因此同样的计算任务将消耗您套餐中更多的使用量。与上周相比，您在 GPT-6.2 Astra 上达到使用量上限的速度将加快 40%，在 Sol 上将加快 25%。不过，与 GPT-6 Astra 和 GPT-6.1 Sol 相比，这些模型的使用量仍然会更长。其他型号的 GPT-6.2 不受影响，我们也不会就您之前的使用量差额向您收费。\n\n为了弥补此次错误，我们将为所有 Go、Plus、Pro 和 Business 套餐用户额外赠送一次重置次数。",
       "translationProvider": "google",
       "translationStatus": "fallback_google",
       "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/levie/status/2125442246543814686",
-      "publishedAt": "2026-11-25T04:11:35.000Z",
-      "score": 124.19,
+      "sourceUrl": "https://x.com/thsottiaux/status/2125784147889393806",
+      "publishedAt": "2026-11-26T02:50:10.000Z",
+      "score": 119.68,
       "engagement": {
-        "likes": 160,
-        "retweets": 15,
-        "replies": 39
+        "likes": 9460,
+        "retweets": 563,
+        "replies": 3652
       },
       "matchedFocusAreas": [
-        "Coding Agents",
         "Foundation Models",
         "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2125422797304549672",
-      "type": "tweet",
-      "builder": "Peter Steinberger",
-      "title": "真是令人难忘的一年！",
-      "summary": "Peter Steinberger 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Product Ships：What a year this has been! Time to reflect and do a blog post over the holidays. OC is in a great place, we found a n…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Product Ships。",
-      "originalTitle": "What a year this has been!",
-      "originalBody": "What a year this has been! Time to reflect and do a blog post over the holidays.\n\nOC is in a great place, we found a niche in prosumer and enterprise adoption. The multiplayer team feature is best in class.\n\nShipping reliable and free open source is also really really hard, and waking up to countless user complaints every day is an emotional challenge. I’m glad the team is taking over most of the work these days.\n\nWe mostly been focussing on the boring part of ensuring things are fast, reliable and secure, with the exception of the new memory system and soon OpenClaw ID. \n\nTo many more years!",
-      "translatedTitle": "真是令人难忘的一年！",
-      "translatedBody": "真是精彩纷呈的一年！假期正好可以好好回顾一下，写篇博文。\n\nOpenClaw 目前发展势头良好，我们在专业用户和企业用户群体中找到了自己的定位。多人组队功能堪称一流。\n\n发布可靠且免费的开源软件真的非常非常难，每天醒来看到无数用户投诉，真是令人身心俱疲。很高兴团队现在承担了大部分工作。\n\n除了新的内存系统和即将推出的 OpenClaw ID 之外，我们主要专注于确保产品快速、可靠和安全这些枯燥乏味的部分。\n\n期待未来更多精彩的岁月！",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/steipete/status/2125422797304549672",
-      "publishedAt": "2026-11-25T02:54:17.000Z",
-      "score": 103.83,
-      "engagement": {
-        "likes": 590,
-        "retweets": 31,
-        "replies": 83
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Product Ships"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2125376105024758112",
-      "type": "tweet",
-      "builder": "Nikunj Kothari",
-      "title": "2026 年的投球策略概述……",
-      "summary": "Nikunj Kothari 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：2026 pitches in a nutshell.. App companies: He who owns the workflow controls the universe. Harness companies: He who…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "2026 pitches in a nutshell..",
-      "originalBody": "2026 pitches in a nutshell..\n\nApp companies: He who owns the workflow controls the universe.\n\nHarness companies: He who puts the intelligence to work controls the universe.\n\nInference companies: He who serves the intelligence controls the universe.\n\nModel companies: He who builds the intelligence controls the universe.\n\nData companies: He who feeds the intelligence controls the universe.\n\nInfra companies: He who keeps the intelligence running controls the universe.\n\nChip companies: He who controls the sand controls the universe.\n\nEnergy companies: He who controls the electrons controls the universe.",
-      "translatedTitle": "2026 年的投球策略概述……",
-      "translatedBody": "2026 年科技公司愿景概览……\n\n应用公司：掌控工作流程者，掌控宇宙。\n\n智能技术公司：运用智能者，掌控宇宙。\n\n推理公司：服务于智能者，掌控宇宙。\n\n模型公司：构建智能者，掌控宇宙。\n\n数据公司：为智能提供数据支持者，掌控宇宙。\n\n基础设施公司：维持智能运行者，掌控宇宙。\n\n芯片公司：掌控沙粒者，掌控宇宙。\n\n能源公司：掌控电子者，掌控宇宙。",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/nikunj/status/2125376105024758112",
-      "publishedAt": "2026-11-24T23:48:45.000Z",
-      "score": 92.02,
-      "engagement": {
-        "likes": 121,
-        "retweets": 3,
-        "replies": 12
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2125247943540142577",
-      "type": "tweet",
-      "builder": "Garry Tan",
-      "title": "首先，这些模型的功能已经超出了一些客户的实际需求。",
-      "summary": "Garry Tan 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents / Foundation Models：First, the models have reached beyond what some customers even need. Though I suspect there is still a step function…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents、Foundation Models。",
-      "originalTitle": "First, the models have reached beyond what some customers even need.",
-      "originalBody": "First, the models have reached beyond what some customers even need. Though I suspect there is still a step function in agency and taste available even if the models can do the tasks today. https://t.co/7a26JGS13f",
-      "translatedTitle": "首先，这些模型的功能已经超出了一些客户的实际需求。",
-      "translatedBody": "首先，这些模型的功能已经超出了一些客户的实际需求。不过，即便这些模型目前能够胜任这些任务，我仍然怀疑在个性化和品味方面仍然存在提升空间。https://t.co/7a26JGS13f",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/garrytan/status/2125247943540142577",
-      "publishedAt": "2026-11-24T15:19:29.000Z",
-      "score": 79.51,
-      "engagement": {
-        "likes": 54,
-        "retweets": 1,
-        "replies": 7
-      },
-      "matchedFocusAreas": [
-        "Coding Agents",
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2125353849057853876",
-      "type": "tweet",
-      "builder": "Amjad Masad",
-      "title": "美国即使建造出最先进的前沿模型，仍然可能在全球人工智能竞赛中落败。",
-      "summary": "Amjad Masad 的最新观点聚焦在可执行的一线经验，命中主题 Foundation Models：America can build the best frontier models and still lose the global AI race. Which is why Jensen’s return matters fa…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Foundation Models。",
-      "originalTitle": "America can build the best frontier models and still lose the global AI race.",
-      "originalBody": "America can build the best frontier models and still lose the global AI race. Which is why Jensen’s return matters far beyond Nvidia.\n\nGovernments around the world want sovereign AI: models they can run on their own soil, on their own infrastructure, under their own control.\n\nIf American companies won’t meet that demand, Chinese companies will. Countries will start with Chinese models, then adopt Chinese infrastructure and chips. Having the smartest model won’t mean much if most of the world runs on someone else’s stack.\n\nWe’ve seen a version of this play out with Huawei. China understood that supplying the world’s telecom infrastructure creates lasting strategic influence. Once a country builds its networks around your equipment, it also builds technical expertise, supplier relationships, and future investment around it. Replacing that equipment becomes expensive and disruptive (the US government is now trying to finance replacement operations but it’s been difficult).\n\nThat’s why Jensen’s backing of the American open-model ecosystem is so important. Open models give startups the freedom to compete and give countries a reason to build on American technology.\n\nWe need both frontier leadership and global adoption. Open models are essential to getting both. https://t.co/f34FKKbljl",
-      "translatedTitle": "美国即使建造出最先进的前沿模型，仍然可能在全球人工智能竞赛中落败。",
-      "translatedBody": "即使美国拥有最先进的前沿模型，也可能在全球人工智能竞赛中落败。这就是为什么詹森的回归意义远不止于英伟达。\n\n世界各国政府都希望拥有自主的人工智能：能够在本国境内、本国基础设施上运行、并完全由本国控制的模型。\n\n如果美国公司无法满足这一需求，中国公司就会满足。各国会先采用中国的模型，然后逐步采用中国的基础设施和芯片。如果世界上大部分系统都运行在其他国家的技术栈上，那么拥有最智能的模型也毫无意义。\n\n我们已经在华为身上看到了类似的案例。中国明白，为全球电信基础设施提供技术支持能够建立持久的战略影响力。一旦一个国家围绕你的设备构建网络，它也会围绕这些设备建立技术专长、供应商关系和未来的投资。更换这些设备将变得既昂贵又具有破坏性（美国政府目前正在尝试为更换工作提供资金，但这非常困难）。\n\n这就是为什么詹森对美国开放式模型生态系统的支持如此重要。开放模式赋予初创企业竞争的自由，也让各国有理由基于美国技术进行研发。\n\n我们既需要前沿技术领先地位，也需要全球普及应用。开放模式是实现这两点的关键。https://t.co/f34FKKbljl",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/amasad/status/2125353849057853876",
-      "publishedAt": "2026-11-24T22:20:19.000Z",
-      "score": 74.78,
-      "engagement": {
-        "likes": 633,
-        "retweets": 73,
-        "replies": 53
-      },
-      "matchedFocusAreas": [
-        "Foundation Models"
-      ],
-      "sourceType": "x"
-    },
-    {
-      "id": "2125246815884984398",
-      "type": "tweet",
-      "builder": "Peter Yang",
-      "title": "我整个周末都在用 Gemini 4 Neon 和 @antigravity，还制作了一个免费视频……",
-      "summary": "Peter Yang 的最新观点聚焦在可执行的一线经验，命中主题 Coding Agents：I've been using Gemini 4 Neon and @antigravity all weekend and made a free video course on how you can get the most o…",
-      "whyItMatters": "这条文字动态直接覆盖你的关注主题：Coding Agents。",
-      "originalTitle": "I've been using Gemini 4 Neon and @antigravity all weekend and made a free video co…",
-      "originalBody": "I've been using Gemini 4 Neon and @antigravity all weekend and made a free video course on how you can get the most out of this combo.\n\nSome takeaways:\n\n1. Orchestrator and /swarm are very useful for planning and building with multiple agents. At one point, I had 42 agents running at once.\n\n2. /grill-me is a great built-in skill that gets Antigravity to ask clarifying questions to help you flesh out the plan first.\n\n3. Remote control is better than Claude Code's because every thread is active by default. I show you how to add Antigravity to your phone home screen to run this in the video.\n\n📌 Watch my full 17-minute Antigravity course here: https://t.co/lmfSTiVBsm",
-      "translatedTitle": "我整个周末都在用 Gemini 4 Neon 和 @antigravity，还制作了一个免费视频……",
-      "translatedBody": "我整个周末都在使用 Gemini 4 Neon 和 @antigravity，并制作了一个免费视频课程，教你如何充分利用这套组合。\n\n一些要点：\n\n1. Orchestrator 和 /swarm 非常适合规划和构建包含多个代理的场景。我曾经同时运行过 42 个代理。\n\n2. /grill-me 是一个很棒的内置技能，它可以让 Antigravity 提出一些澄清性问题，帮助你完善计划。\n\n3. 远程控制比 Claude Code 的更好，因为默认情况下每个线程都是激活的。视频中我会演示如何将 Antigravity 添加到手机主屏幕来运行它。\n\n📌 点击此处观看我的完整 17 分钟 Antigravity 课程：https://t.co/lmfSTiVBsm",
-      "translationProvider": "google",
-      "translationStatus": "fallback_google",
-      "sourcePreviewType": "full_text",
-      "sourceUrl": "https://x.com/petergyang/status/2125246815884984398",
-      "publishedAt": "2026-11-24T15:15:00.000Z",
-      "score": 66.81,
-      "engagement": {
-        "likes": 580,
-        "retweets": 39,
-        "replies": 44
-      },
-      "matchedFocusAreas": [
-        "Coding Agents"
       ],
       "sourceType": "x"
     }
   ],
   "stats": {
-    "upstreamGeneratedAt": "2026-11-25T06:30:31.369Z",
-    "totalCandidates": 34,
-    "textQualifiedCandidates": 15,
+    "upstreamGeneratedAt": "2026-11-26T06:30:27.231Z",
+    "totalCandidates": 42,
+    "textQualifiedCandidates": 19,
     "selectedTweets": 8
   }
 }
